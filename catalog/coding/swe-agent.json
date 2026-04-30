@@ -1,7 +1,7 @@
 {
   "slug": "swe-agent",
   "name": "SWE-agent",
-  "tagline": "Academic SWE-bench reference agent \u2014 turns LMs into autonomous SWEs.",
+  "tagline": "Academic SWE-bench reference agent — turns LMs into autonomous SWEs.",
   "category": "coding",
   "tags": [
     "agent",
@@ -40,8 +40,8 @@
   ],
   "runnable": true,
   "adapter_ref": "adapters/swe-agent/mcp.json",
-  "composite_score": 0.5364,
-  "rank_in_category": 3,
+  "composite_score": 0.4964,
+  "rank_in_category": 2,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
   "last_refreshed_at": "2026-04-30T16:09:26.410055Z"

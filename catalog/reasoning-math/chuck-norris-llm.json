@@ -1,0 +1,44 @@
+{
+  "slug": "chuck-norris-llm",
+  "name": "chuck-norris-llm",
+  "tagline": "wassemgtk/chuck-norris-llm — text-generation",
+  "category": "reasoning-math",
+  "tags": [
+    "transformers",
+    "safetensors",
+    "qwen3",
+    "text-generation",
+    "agent",
+    "math",
+    "reasoning",
+    "Chuck Norris",
+    "fine-tuned",
+    "chain-of-thought"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "wassemgtk",
+    "url": "https://huggingface.co/wassemgtk"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "wassemgtk/chuck-norris-llm",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": 203,
+    "last_commit_at": "2026-03-24T18:08:05Z",
+    "first_commit_at": "2026-03-21T21:25:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2307,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:56:49.021942Z",
+  "last_refreshed_at": "2026-04-30T16:56:49.021946Z"
+}

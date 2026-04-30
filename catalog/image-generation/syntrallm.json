@@ -1,0 +1,43 @@
+{
+  "slug": "syntrallm",
+  "name": "syntrallm",
+  "tagline": "Syntrallm/syntrallm — text-to-image",
+  "category": "image-generation",
+  "tags": [
+    "adapter-transformers",
+    "agent",
+    "text-to-image",
+    "en",
+    "dataset:a-m-team/AM-DeepSeek-R1-Distilled-1.4M",
+    "base_model:deepseek-ai/DeepSeek-V3.2",
+    "base_model:adapter:deepseek-ai/DeepSeek-V3.2",
+    "license:mit",
+    "region:us"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Syntrallm",
+    "url": "https://huggingface.co/Syntrallm"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "Syntrallm/syntrallm",
+    "homepage": null
+  },
+  "license": "mit",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2025-12-04T09:25:03Z",
+    "first_commit_at": "2025-12-04T09:18:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0849,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:56:06.609253Z",
+  "last_refreshed_at": "2026-04-30T16:56:06.609256Z"
+}

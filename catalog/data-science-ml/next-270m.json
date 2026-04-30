@@ -1,0 +1,44 @@
+{
+  "slug": "next-270m",
+  "name": "next-270m",
+  "tagline": "thelamapi/next-270m — text-generation",
+  "category": "data-science-ml",
+  "tags": [
+    "transformers",
+    "safetensors",
+    "gguf",
+    "gemma3_text",
+    "text-generation",
+    "turkish",
+    "türkiye",
+    "english",
+    "ai",
+    "lamapi"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "thelamapi",
+    "url": "https://huggingface.co/thelamapi"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "thelamapi/next-270m",
+    "homepage": null
+  },
+  "license": "mit",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": 269,
+    "last_commit_at": "2026-03-01T18:19:11Z",
+    "first_commit_at": "2025-10-18T15:16:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4046,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:55:58.451941Z",
+  "last_refreshed_at": "2026-04-30T16:55:58.451944Z"
+}
