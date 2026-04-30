@@ -13,6 +13,25 @@ const standard = cats.categories.filter((c) => !c.benchmark_anchor);
 
 <Base current="catalog" title="Catalog — ONEXUS-Agents">
   <div class="max-w-7xl mx-auto px-6 py-12">
+    <div class="mb-6">
+      <label class="block">
+        <span class="sr-only">Search the catalog</span>
+        <span class="relative block">
+          <span class="absolute inset-y-0 left-0 flex items-center pl-3 text-[var(--color-fg-mute)] pointer-events-none">
+            <Icon name="search" size="sm" />
+          </span>
+          <input
+            id="catalog-search"
+            type="search"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="Search agents by name, tag, or category..."
+            class="w-full bg-[var(--color-panel)] border border-[var(--color-border)] rounded-md pl-10 pr-3 py-2.5 text-sm text-[var(--color-fg)] placeholder:text-[var(--color-fg-mute)] focus:outline-none focus:border-[var(--color-accent)] transition-colors"
+          />
+        </span>
+      </label>
+    </div>
+
     <div class="mb-10">
       <h1 class="text-4xl font-bold mb-3">Catalog</h1>
       <p class="text-[var(--color-fg-dim)] max-w-2xl">
@@ -20,24 +39,206 @@ const standard = cats.categories.filter((c) => !c.benchmark_anchor);
       </p>
     </div>
 
-    <section class="mb-12">
+    <div id="search-results" hidden class="mb-12">
       <div class="flex items-center gap-2 mb-4">
-        <Icon name="check" size="sm" class="text-[var(--color-accent)]" />
-        <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider">Benchmark-anchored ({benchmarked.length})</h2>
+        <Icon name="search" size="sm" class="text-[var(--color-accent)]" />
+        <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider">
+          Results <span id="search-count" class="text-[var(--color-fg-dim)]">(0)</span>
+        </h2>
       </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-        {benchmarked.map((c) => <CategoryCard category={c} count={counts[c.slug] ?? 0} />)}
-      </div>
-    </section>
+      <ul id="search-list" class="grid grid-cols-1 md:grid-cols-2 gap-2"></ul>
+      <p id="search-empty" hidden class="text-sm text-[var(--color-fg-dim)] mt-2">
+        No matches. Try a broader term.
+      </p>
+    </div>
 
-    <section>
-      <div class="flex items-center gap-2 mb-4">
-        <Icon name="circle" size="sm" class="text-[var(--color-fg-mute)]" />
-        <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider">Popularity-ranked ({standard.length})</h2>
-      </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-        {standard.map((c) => <CategoryCard category={c} count={counts[c.slug] ?? 0} />)}
-      </div>
-    </section>
+    <div id="catalog-default">
+      <section class="mb-12">
+        <div class="flex items-center gap-2 mb-4">
+          <Icon name="check" size="sm" class="text-[var(--color-accent)]" />
+          <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider">Benchmark-anchored ({benchmarked.length})</h2>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+          {benchmarked.map((c) => <CategoryCard category={c} count={counts[c.slug] ?? 0} />)}
+        </div>
+      </section>
+
+      <section>
+        <div class="flex items-center gap-2 mb-4">
+          <Icon name="circle" size="sm" class="text-[var(--color-fg-mute)]" />
+          <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider">Popularity-ranked ({standard.length})</h2>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+          {standard.map((c) => <CategoryCard category={c} count={counts[c.slug] ?? 0} />)}
+        </div>
+      </section>
+    </div>
   </div>
 </Base>
+
+<script>
+  type CategoryEntry = {
+    kind: "category";
+    slug: string;
+    name: string;
+    description: string;
+    href: string;
+  };
+  type AgentEntry = {
+    kind: "agent";
+    slug: string;
+    name: string;
+    tagline: string;
+    tags: string[];
+    category: string;
+    categoryName: string;
+    runnable: boolean;
+    href: string;
+  };
+  type Index = { categories: CategoryEntry[]; agents: AgentEntry[] };
+
+  const input = document.getElementById("catalog-search") as HTMLInputElement | null;
+  const results = document.getElementById("search-results");
+  const list = document.getElementById("search-list");
+  const empty = document.getElementById("search-empty");
+  const count = document.getElementById("search-count");
+  const def = document.getElementById("catalog-default");
+
+  if (input && results && list && empty && count && def) {
+    const MAX_RESULTS = 80;
+    let index: Index | null = null;
+    let pending: Promise<Index> | null = null;
+
+    const escapeHtml = (s: string) =>
+      s.replace(/[&<>"']/g, (c) => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        "\"": "&quot;",
+        "'": "&#39;",
+      })[c] as string);
+
+    const loadIndex = (): Promise<Index> => {
+      if (index) return Promise.resolve(index);
+      if (pending) return pending;
+      pending = fetch("/search-index.json")
+        .then((r) => r.json() as Promise<Index>)
+        .then((data) => {
+          index = data;
+          return data;
+        });
+      return pending;
+    };
+
+    const renderResults = (matches: Array<CategoryEntry | AgentEntry>) => {
+      list.innerHTML = matches
+        .map((m) => {
+          if (m.kind === "category") {
+            return `
+              <li>
+                <a href="${m.href}" class="panel p-3 block hover:border-[var(--color-accent)] transition-colors">
+                  <div class="flex items-center justify-between gap-3">
+                    <div class="min-w-0">
+                      <div class="font-mono text-sm">${escapeHtml(m.name)}</div>
+                      <div class="text-xs text-[var(--color-fg-dim)] truncate">${escapeHtml(m.description)}</div>
+                    </div>
+                    <span class="badge text-[10px] uppercase tracking-wider shrink-0">category</span>
+                  </div>
+                </a>
+              </li>
+            `;
+          }
+          const runBadge = m.runnable
+            ? `<span class="badge badge-accent text-[10px] uppercase tracking-wider shrink-0">run</span>`
+            : "";
+          return `
+            <li>
+              <a href="${m.href}" class="panel p-3 block hover:border-[var(--color-accent)] transition-colors">
+                <div class="flex items-center justify-between gap-3">
+                  <div class="min-w-0">
+                    <div class="font-mono text-sm truncate">${escapeHtml(m.name)}</div>
+                    <div class="text-xs text-[var(--color-fg-dim)] truncate">${escapeHtml(m.tagline || "")}</div>
+                  </div>
+                  <div class="flex items-center gap-1.5 shrink-0">
+                    ${runBadge}
+                    <span class="text-[10px] font-mono text-[var(--color-fg-mute)] uppercase tracking-wider">${escapeHtml(m.categoryName)}</span>
+                  </div>
+                </div>
+              </a>
+            </li>
+          `;
+        })
+        .join("");
+    };
+
+    const filter = (q: string, data: Index) => {
+      const tokens = q.toLowerCase().split(/\s+/).filter(Boolean);
+      if (tokens.length === 0) return [];
+      const score = (haystacks: string[]) => {
+        let s = 0;
+        for (const t of tokens) {
+          let hit = false;
+          for (const h of haystacks) {
+            if (!h) continue;
+            const idx = h.indexOf(t);
+            if (idx === -1) continue;
+            hit = true;
+            s += idx === 0 ? 3 : 1;
+          }
+          if (!hit) return -1;
+        }
+        return s;
+      };
+
+      const out: Array<{ entry: CategoryEntry | AgentEntry; s: number }> = [];
+      for (const c of data.categories) {
+        const s = score([c.name.toLowerCase(), c.slug.toLowerCase(), c.description.toLowerCase()]);
+        if (s >= 0) out.push({ entry: c, s: s + 5 });
+      }
+      for (const a of data.agents) {
+        const tagText = a.tags.join(" ").toLowerCase();
+        const s = score([
+          a.name.toLowerCase(),
+          a.slug.toLowerCase(),
+          (a.tagline || "").toLowerCase(),
+          a.categoryName.toLowerCase(),
+          a.category.toLowerCase(),
+          tagText,
+        ]);
+        if (s >= 0) out.push({ entry: a, s });
+      }
+      out.sort((x, y) => y.s - x.s);
+      return out.slice(0, MAX_RESULTS).map((r) => r.entry);
+    };
+
+    const update = async () => {
+      const q = input.value.trim();
+      if (!q) {
+        results.hidden = true;
+        def.hidden = false;
+        return;
+      }
+      def.hidden = true;
+      results.hidden = false;
+      list.innerHTML = "";
+      empty.hidden = true;
+      const data = await loadIndex();
+      const matches = filter(q, data);
+      count.textContent = `(${matches.length})`;
+      if (matches.length === 0) {
+        empty.hidden = false;
+        return;
+      }
+      renderResults(matches);
+    };
+
+    let raf = 0;
+    input.addEventListener("input", () => {
+      cancelAnimationFrame(raf);
+      raf = requestAnimationFrame(update);
+    });
+    input.addEventListener("focus", () => {
+      void loadIndex();
+    });
+  }
+</script>
