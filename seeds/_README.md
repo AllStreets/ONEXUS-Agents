@@ -1,6 +1,6 @@
 # Catalog seeds
 
-Hand-curated bootstrap lists per category. The nightly pipeline reads these
+Hand-curated bootstrap lists per category. The daily pipeline reads these
 files first, refreshes their metrics from GitHub / Hugging Face, then layers
 auto-discovered candidates on top before scoring and truncating to the top 100.
 

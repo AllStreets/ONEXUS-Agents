@@ -13,9 +13,9 @@ import Icon from "@/components/Icon.astro";
     <section class="mb-10 panel-2 p-5">
       <p class="text-sm text-[var(--color-fg-dim)]">
         <Icon name="check" size="sm" class="inline text-[var(--color-accent)]" />
-        Most agents are discovered automatically by the nightly crawler. You only need to submit
+        Most agents are discovered automatically by the daily crawler. You only need to submit
         manually if your project is new, has weak topic tags, or you want it included before the
-        next nightly run.
+        next daily run.
       </p>
     </section>
 
@@ -37,7 +37,7 @@ import Icon from "@/components/Icon.astro";
         </div>
         <p class="text-[var(--color-fg-dim)] ml-12 mb-3">
           Create <code class="mono">catalog/&lt;category&gt;/&lt;your-slug&gt;.json</code> matching this shape.
-          You don't need to fill in <code class="mono">composite_score</code> or <code class="mono">rank_in_category</code> — the nightly job recomputes those.
+          You don't need to fill in <code class="mono">composite_score</code> or <code class="mono">rank_in_category</code> — the daily job recomputes those.
         </p>
         <pre class="ml-12 panel p-4 text-xs overflow-x-auto"><code>{`{
   "slug": "your-agent",

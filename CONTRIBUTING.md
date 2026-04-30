@@ -14,7 +14,7 @@ The catalog is git. Adding an agent is opening a PR.
 Categories live in [`catalog/_categories.json`](catalog/_categories.json). If your agent
 doesn't fit any of the 40, open an issue first — we add categories carefully.
 
-The nightly job re-scores everything; you don't need to compute `composite_score`
+The daily job re-scores everything; you don't need to compute `composite_score`
 or `rank_in_category` yourself. Set them to `0.0` and `999`; the job overwrites them.
 
 ### If your agent is runnable

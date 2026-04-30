@@ -1,7 +1,7 @@
 # ONEXUS-Agents
 
 > The largest continuously-updated public catalog of the world's most powerful open-source agents.
-> Discovered nightly. Ranked transparently. Bridged into ONEXUS on demand.
+> Discovered daily. Ranked transparently. Bridged into ONEXUS on demand.
 
 `status: bootstrapping`  ·  `license: Apache-2.0`  ·  `python: 3.12`  ·  `node: 20.x`  ·  `update cadence: 13:00 UTC`
 
@@ -20,7 +20,7 @@ The catalog is the product. The dashboard is the showcase. The MCP bridge is the
 ## How it works
 
 ```
-nightly cron (13:00 UTC)
+daily cron (13:00 UTC)
         │
         ▼
   refresh seeds  ──► auto-discover from GitHub + Hugging Face
@@ -133,7 +133,7 @@ Submissions go through GitHub pull requests. The catalog is a git repository, so
 3. Open a PR using the **Agent submission** template.
 4. CI runs `onexus-agents-validate` against your file. If it passes, an admin reviews and merges.
 
-You do *not* need to compute `composite_score` or `rank_in_category` — the nightly job recomputes those for everything in the catalog. Hand-authored entries become first-class members of the ranking pool the next night after merge.
+You do *not* need to compute `composite_score` or `rank_in_category` — the daily job recomputes those for everything in the catalog. Hand-authored entries become first-class members of the ranking pool the next day after merge.
 
 ## ONEXUS integration
 
@@ -189,7 +189,7 @@ Without a benchmark anchor:
 + 0.10 * reserved
 ```
 
-Agents below rank 100 in their category are dropped at the next nightly run and replaced by higher-scoring entrants. Drops are logged in `catalog/_dropped/<date>.json` so the displacement is auditable.
+Agents below rank 100 in their category are dropped at the next daily run and replaced by higher-scoring entrants. Drops are logged in `catalog/_dropped/<date>.json` so the displacement is auditable.
 
 See [`docs/superpowers/specs/2026-04-29-onexus-agents-design.md`](docs/superpowers/specs/2026-04-29-onexus-agents-design.md) for the complete design.
 
@@ -199,7 +199,7 @@ See [`docs/superpowers/specs/2026-04-29-onexus-agents-design.md`](docs/superpowe
 catalog/         per-category JSON files (the catalog itself)
 seeds/           hand-curated YAML seeds per category
 adapters/        MCP wrappers for runnable agents
-pipeline/        nightly ingestion (Python 3.12)
+pipeline/        daily ingestion (Python 3.12)
   crawlers/      GitHub + Hugging Face fetchers
   benchmarks/    benchmark scrapers
 validator/       schema + PR validation
