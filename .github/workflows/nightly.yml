@@ -73,8 +73,12 @@ jobs:
           git commit -m "chore(catalog): daily refresh $DATE"
           git push -fu origin "$BRANCH"
 
-          # Reuse an open PR for the same date if one already exists (workflow re-run).
-          if ! gh pr view "$BRANCH" --json number >/dev/null 2>&1; then
+          # Reuse an *open* PR for the same date if one already exists (workflow re-run).
+          # `gh pr view` matches the most recent PR regardless of state, so a previously
+          # merged or closed same-day PR (e.g. an earlier manual run) would suppress the
+          # create and leave the new push orphaned. Filter to open PRs only.
+          OPEN_PR=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number // empty')
+          if [ -z "$OPEN_PR" ]; then
             gh pr create \
               --base main \
               --head "$BRANCH" \
