@@ -1,0 +1,44 @@
+{
+  "slug": "microd-v1",
+  "name": "microd_v1",
+  "tagline": "webxos/microd_v1 — text-generation",
+  "category": "education-tutoring",
+  "tags": [
+    "transformers.js",
+    "pytorch",
+    "onnx",
+    "safetensors",
+    "gpt2",
+    "text-generation",
+    "text-generation-inference",
+    "distillation",
+    "grpo",
+    "vae"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "webxos",
+    "url": "https://huggingface.co/webxos"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "webxos/microd_v1",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": 7,
+    "last_commit_at": "2026-01-05T23:35:38Z",
+    "first_commit_at": "2025-12-28T17:46:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3827,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:51:45.315830Z",
+  "last_refreshed_at": "2026-04-30T16:51:45.315834Z"
+}

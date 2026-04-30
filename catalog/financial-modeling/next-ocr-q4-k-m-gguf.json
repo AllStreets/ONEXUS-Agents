@@ -1,0 +1,44 @@
+{
+  "slug": "next-ocr-q4-k-m-gguf",
+  "name": "next-ocr-Q4_K_M-GGUF",
+  "tagline": "Lamapi/next-ocr-Q4_K_M-GGUF — image-text-to-text",
+  "category": "financial-modeling",
+  "tags": [
+    "transformers",
+    "gguf",
+    "text-generation-inference",
+    "unsloth",
+    "qwen3_vl",
+    "trl",
+    "sft",
+    "chemistry",
+    "code",
+    "climate"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Lamapi",
+    "url": "https://huggingface.co/Lamapi"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "Lamapi/next-ocr-Q4_K_M-GGUF",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": 782,
+    "last_commit_at": "2025-11-13T13:56:03Z",
+    "first_commit_at": "2025-11-13T13:55:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2225,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:51:35.722189Z",
+  "last_refreshed_at": "2026-04-30T16:51:35.722192Z"
+}

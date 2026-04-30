@@ -1,0 +1,44 @@
+{
+  "slug": "deepmath-v1-q4-k-s-gguf",
+  "name": "deepmath-v1-Q4_K_S-GGUF",
+  "tagline": "FixArt/deepmath-v1-Q4_K_S-GGUF — text-generation",
+  "category": "reasoning-math",
+  "tags": [
+    "transformers",
+    "gguf",
+    "math",
+    "reasoning",
+    "agent",
+    "qwen",
+    "grpo",
+    "reinforcement-learning",
+    "llama-cpp",
+    "gguf-my-repo"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "FixArt",
+    "url": "https://huggingface.co/FixArt"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "FixArt/deepmath-v1-Q4_K_S-GGUF",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 2,
+    "last_commit_at": "2025-12-16T08:31:18Z",
+    "first_commit_at": "2025-12-16T08:31:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0586,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:51:46.102981Z",
+  "last_refreshed_at": "2026-04-30T16:51:46.102984Z"
+}

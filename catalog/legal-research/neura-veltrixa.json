@@ -1,0 +1,44 @@
+{
+  "slug": "neura-veltrixa",
+  "name": "Neura_Veltrixa",
+  "tagline": "helloatithya/Neura_Veltrixa — text-generation",
+  "category": "legal-research",
+  "tags": [
+    "transformers",
+    "safetensors",
+    "gguf",
+    "qwen2",
+    "text-generation",
+    "agent",
+    "legal",
+    "dataset:databricks/databricks-dolly-15k",
+    "base_model:Qwen/Qwen2.5-1.5B-Instruct",
+    "base_model:quantized:Qwen/Qwen2.5-1.5B-Instruct"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "helloatithya",
+    "url": "https://huggingface.co/helloatithya"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "helloatithya/Neura_Veltrixa",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": 87,
+    "last_commit_at": "2026-03-13T08:39:59Z",
+    "first_commit_at": "2026-03-13T08:02:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1249,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:51:36.806166Z",
+  "last_refreshed_at": "2026-04-30T16:51:36.806169Z"
+}

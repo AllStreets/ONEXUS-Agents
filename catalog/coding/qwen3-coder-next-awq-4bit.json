@@ -1,0 +1,44 @@
+{
+  "slug": "qwen3-coder-next-awq-4bit",
+  "name": "Qwen3-Coder-Next-AWQ-4bit",
+  "tagline": "bullpoint/Qwen3-Coder-Next-AWQ-4bit — text-generation",
+  "category": "coding",
+  "tags": [
+    "transformers",
+    "safetensors",
+    "qwen3_next",
+    "text-generation",
+    "qwen",
+    "qwen3",
+    "qwen3-coder",
+    "qwen3-next",
+    "moe",
+    "mixture-of-experts"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "bullpoint",
+    "url": "https://huggingface.co/bullpoint"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "bullpoint/Qwen3-Coder-Next-AWQ-4bit",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": 41553,
+    "last_commit_at": "2026-02-03T22:09:28Z",
+    "first_commit_at": "2026-02-03T21:58:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4382,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:51:19.277954Z",
+  "last_refreshed_at": "2026-04-30T16:51:19.277957Z"
+}

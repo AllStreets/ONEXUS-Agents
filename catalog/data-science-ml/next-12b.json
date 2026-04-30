@@ -1,0 +1,44 @@
+{
+  "slug": "next-12b",
+  "name": "next-12b",
+  "tagline": "thelamapi/next-12b — image-text-to-text",
+  "category": "data-science-ml",
+  "tags": [
+    "transformers",
+    "safetensors",
+    "gguf",
+    "gemma3",
+    "image-text-to-text",
+    "turkish",
+    "türkiye",
+    "english",
+    "ai",
+    "lamapi"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "thelamapi",
+    "url": "https://huggingface.co/thelamapi"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "thelamapi/next-12b",
+    "homepage": null
+  },
+  "license": "mit",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": 106,
+    "last_commit_at": "2026-03-01T18:15:53Z",
+    "first_commit_at": "2025-10-27T20:42:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4983,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:51:34.310967Z",
+  "last_refreshed_at": "2026-04-30T16:51:34.310970Z"
+}

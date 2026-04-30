@@ -1,0 +1,43 @@
+{
+  "slug": "travel-assistant-agent",
+  "name": "travel-assistant-agent",
+  "tagline": "mathilda1110/travel-assistant-agent — None",
+  "category": "travel-planning",
+  "tags": [
+    "smolagents",
+    "agent",
+    "travel",
+    "planning",
+    "collaborative",
+    "base_model:meta-llama/Llama-3.3-70B-Instruct",
+    "base_model:finetune:meta-llama/Llama-3.3-70B-Instruct",
+    "license:apache-2.0",
+    "region:us"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mathilda1110",
+    "url": "https://huggingface.co/mathilda1110"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "mathilda1110/travel-assistant-agent",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2025-12-01T04:44:23Z",
+    "first_commit_at": "2025-11-05T05:48:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3659,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:51:47.152498Z",
+  "last_refreshed_at": "2026-04-30T16:51:47.152501Z"
+}
