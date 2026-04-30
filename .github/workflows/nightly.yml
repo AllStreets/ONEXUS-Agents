@@ -2,8 +2,8 @@ name: nightly
 
 on:
   schedule:
-    # 00:00 UTC every day
-    - cron: "0 0 * * *"
+    # 13:00 UTC every day (8 AM EST / 9 AM EDT)
+    - cron: "0 13 * * *"
   workflow_dispatch:
     inputs:
       seeds_only:
