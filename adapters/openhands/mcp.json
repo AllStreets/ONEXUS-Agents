@@ -1,0 +1,41 @@
+{
+  "name": "openhands",
+  "version": "0.1.0",
+  "agent_slug": "openhands",
+  "category": "coding",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.openhands.server"],
+  "env": {
+    "ANTHROPIC_API_KEY": {
+      "required": false,
+      "description": "Anthropic API key. OpenHands' SWE-bench score (41.7) was reported with Claude."
+    },
+    "OPENAI_API_KEY": {
+      "required": false,
+      "description": "OpenAI API key fallback."
+    },
+    "SANDBOX_RUNTIME_CONTAINER_IMAGE": {
+      "required": false,
+      "description": "Docker image for the sandbox runtime. Defaults to ghcr.io/all-hands-ai/runtime."
+    },
+    "WORKSPACE_BASE": {
+      "required": false,
+      "description": "Host directory mounted into the sandbox. Defaults to the calling repo root."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "edit_file",
+      "create_file",
+      "run_command",
+      "browser_action",
+      "search_repo",
+      "delegate_subagent"
+    ],
+    "resources": ["repo", "sandbox", "browser"]
+  },
+  "trust_floor": 0.7,
+  "default_tier": "MONITOR",
+  "notes": "Autonomous SWE platform — runs inside a Docker sandbox with full shell + browser. Highest trust floor in the coding category; defaults to MONITOR so the operator sees every action before tier promotion."
+}
