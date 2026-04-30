@@ -1,0 +1,35 @@
+{
+  "name": "open-interpreter",
+  "version": "0.1.0",
+  "agent_slug": "open-interpreter",
+  "category": "desktop-os-automation",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.open_interpreter.server"],
+  "env": {
+    "OPENAI_API_KEY": {
+      "required": false,
+      "description": "OpenAI API key for the underlying interpreter LLM."
+    },
+    "ANTHROPIC_API_KEY": {
+      "required": false,
+      "description": "Anthropic API key for Claude-backed interpreter sessions."
+    },
+    "OI_AUTO_RUN": {
+      "required": false,
+      "description": "Set to '1' to skip per-command confirmation. Off by default."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "run_python",
+      "run_shell",
+      "read_file",
+      "write_file"
+    ],
+    "resources": ["filesystem"]
+  },
+  "trust_floor": 0.7,
+  "default_tier": "MONITOR",
+  "notes": "Local execution agent. Higher trust floor; defaults to MONITOR tier so every command is observed."
+}

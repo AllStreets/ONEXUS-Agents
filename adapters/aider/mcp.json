@@ -1,0 +1,36 @@
+{
+  "name": "aider",
+  "version": "0.1.0",
+  "agent_slug": "aider",
+  "category": "coding",
+  "transport": "stdio",
+  "command": "aider-mcp",
+  "args": [],
+  "env": {
+    "OPENAI_API_KEY": {
+      "required": false,
+      "description": "OpenAI API key. One of OPENAI_API_KEY or ANTHROPIC_API_KEY is required."
+    },
+    "ANTHROPIC_API_KEY": {
+      "required": false,
+      "description": "Anthropic API key. Use Claude as the underlying model."
+    },
+    "AIDER_MODEL": {
+      "required": false,
+      "description": "Override default model (e.g. claude-opus-4-7, gpt-4o)."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "edit_file",
+      "create_file",
+      "run_command",
+      "git_commit",
+      "search_repo"
+    ],
+    "resources": ["repo"]
+  },
+  "trust_floor": 0.55,
+  "default_tier": "ADVISOR",
+  "notes": "Pair-programming agent — proposes diffs, runs commands, commits when allowed."
+}
