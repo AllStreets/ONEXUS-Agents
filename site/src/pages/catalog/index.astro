@@ -25,7 +25,7 @@ const standard = cats.categories.filter((c) => !c.benchmark_anchor);
             type="search"
             autocomplete="off"
             spellcheck="false"
-            placeholder="Search agents by name, tag, or category..."
+            placeholder="Search agents by name, tag, or category — try 'runnable' or 'benchmarked'"
             class="w-full bg-[var(--color-panel)] border border-[var(--color-border)] rounded-md pl-10 pr-3 py-2.5 text-sm text-[var(--color-fg)] placeholder:text-[var(--color-fg-mute)] focus:outline-none focus:border-[var(--color-accent)] transition-colors"
           />
         </span>
@@ -93,6 +93,7 @@ const standard = cats.categories.filter((c) => !c.benchmark_anchor);
     category: string;
     categoryName: string;
     runnable: boolean;
+    benchmarked: boolean;
     href: string;
   };
   type Index = { categories: CategoryEntry[]; agents: AgentEntry[] };
@@ -171,10 +172,29 @@ const standard = cats.categories.filter((c) => !c.benchmark_anchor);
         .join("");
     };
 
+    const RUNNABLE_KEYWORDS = new Set(["runnable", "run", "mcp"]);
+    const BENCH_KEYWORDS = new Set(["benchmarked", "benchmark", "bench"]);
+
     const filter = (q: string, data: Index) => {
-      const tokens = q.toLowerCase().split(/\s+/).filter(Boolean);
-      if (tokens.length === 0) return [];
+      const raw = q.toLowerCase().split(/\s+/).filter(Boolean);
+      let runnableOnly = false;
+      let benchOnly = false;
+      const tokens: string[] = [];
+      for (const t of raw) {
+        if (RUNNABLE_KEYWORDS.has(t)) {
+          runnableOnly = true;
+          continue;
+        }
+        if (BENCH_KEYWORDS.has(t)) {
+          benchOnly = true;
+          continue;
+        }
+        tokens.push(t);
+      }
+      if (raw.length === 0) return [];
+
       const score = (haystacks: string[]) => {
+        if (tokens.length === 0) return 0;
         let s = 0;
         for (const t of tokens) {
           let hit = false;
@@ -191,11 +211,19 @@ const standard = cats.categories.filter((c) => !c.benchmark_anchor);
       };
 
       const out: Array<{ entry: CategoryEntry | AgentEntry; s: number }> = [];
-      for (const c of data.categories) {
-        const s = score([c.name.toLowerCase(), c.slug.toLowerCase(), c.description.toLowerCase()]);
-        if (s >= 0) out.push({ entry: c, s: s + 5 });
+
+      // Categories only show when no boolean-only filter is active or there are
+      // text tokens — otherwise "runnable" alone would be drowned by them.
+      if (!runnableOnly && !benchOnly) {
+        for (const c of data.categories) {
+          const s = score([c.name.toLowerCase(), c.slug.toLowerCase(), c.description.toLowerCase()]);
+          if (s >= 0) out.push({ entry: c, s: s + 5 });
+        }
       }
+
       for (const a of data.agents) {
+        if (runnableOnly && !a.runnable) continue;
+        if (benchOnly && !a.benchmarked) continue;
         const tagText = a.tags.join(" ").toLowerCase();
         const s = score([
           a.name.toLowerCase(),
@@ -205,7 +233,12 @@ const standard = cats.categories.filter((c) => !c.benchmark_anchor);
           a.category.toLowerCase(),
           tagText,
         ]);
-        if (s >= 0) out.push({ entry: a, s });
+        if (s >= 0) {
+          let bonus = 0;
+          if (runnableOnly && a.runnable) bonus += 2;
+          if (benchOnly && a.benchmarked) bonus += 2;
+          out.push({ entry: a, s: s + bonus });
+        }
       }
       out.sort((x, y) => y.s - x.s);
       return out.slice(0, MAX_RESULTS).map((r) => r.entry);

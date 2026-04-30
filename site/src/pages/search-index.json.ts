@@ -23,6 +23,7 @@ export const GET: APIRoute = () => {
     category: a.category,
     categoryName: catNameBySlug[a.category] ?? a.category,
     runnable: a.runnable,
+    benchmarked: a.benchmarks.length > 0,
     href: `/catalog/${a.category}/${a.slug}`,
   }));
 
