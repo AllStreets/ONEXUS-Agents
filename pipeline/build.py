@@ -123,3 +123,21 @@ def merge_benchmarks(target: Agent, prior: Agent | None) -> None:
     """Carry forward existing benchmark scores when refreshing an existing entry."""
     if prior and prior.benchmarks and not target.benchmarks:
         target.benchmarks = list(prior.benchmarks)
+
+
+def merge_overrides(target: Agent, prior: Agent | None) -> None:
+    """Carry forward runnable + adapter_ref from a prior on-disk entry.
+
+    These fields are set by hand (or via seeds) and must survive auto-discovery
+    rebuilds. Without this, an agent that was flipped to runnable=true via a
+    catalog edit (without a corresponding seeds.yaml entry) would lose the flag
+    the next time _discover rebuilt it via build_from_github.
+
+    Seeds always pass explicit runnable/adapter_ref values, so they win on tie.
+    """
+    if not prior:
+        return
+    if not target.runnable and prior.runnable:
+        target.runnable = True
+    if target.adapter_ref is None and prior.adapter_ref is not None:
+        target.adapter_ref = prior.adapter_ref
