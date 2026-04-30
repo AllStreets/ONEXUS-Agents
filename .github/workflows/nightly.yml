@@ -86,4 +86,17 @@ jobs:
               --body "Automated daily refresh from \`onexus-agents-nightly\`. Validator passed in the same workflow run before this PR was opened."
           fi
 
+          # `gh pr merge --auto` fails with "unstable status" if it runs before
+          # GitHub has registered the PR's required checks. Poll mergeStateStatus
+          # until it's no longer UNKNOWN so the auto-merge queue accepts the PR.
+          for i in $(seq 1 24); do
+            STATE=$(gh pr view "$BRANCH" --json mergeStateStatus --jq '.mergeStateStatus')
+            if [ "$STATE" != "UNKNOWN" ]; then
+              echo "merge state ready: $STATE"
+              break
+            fi
+            echo "waiting for checks to register (attempt $i, state=$STATE)..."
+            sleep 5
+          done
+
           gh pr merge "$BRANCH" --squash --auto --delete-branch
