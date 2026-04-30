@@ -41,22 +41,52 @@ A subset of catalogued agents are marked `runnable: true` and have an `adapter_r
 
 ## The 40 categories
 
-Eight have real, peer-recognised benchmarks driving 30% of their score:
+Every category gets a top-100 leaderboard. Eight categories anchor on a real, peer-recognised benchmark that contributes 30% of the composite score; the other 32 score on popularity, recency, age, and runnability alone until a credible benchmark exists.
 
-| Category | Benchmark |
-|---|---|
-| coding | SWE-bench Verified |
-| legal-research | LegalBench |
-| browser-automation | WebArena |
-| desktop-os-automation | OSWorld |
-| reasoning-math | MATH |
-| multi-agent-orchestration | GAIA |
-| spreadsheet-excel | SpreadsheetBench |
-| sql-analytics | BIRD-bench |
+| # | Category | Benchmark |
+|---|---|---|
+| 1 | coding | SWE-bench Verified |
+| 2 | web-dev | — |
+| 3 | data-engineering | — |
+| 4 | data-science-ml | — |
+| 5 | financial-modeling | — |
+| 6 | legal-research | LegalBench |
+| 7 | customer-support | — |
+| 8 | content-writing | — |
+| 9 | image-generation | — |
+| 10 | video-generation | — |
+| 11 | audio-speech | — |
+| 12 | translation | — |
+| 13 | search-rag | — |
+| 14 | browser-automation | WebArena |
+| 15 | desktop-os-automation | OSWorld |
+| 16 | document-processing | — |
+| 17 | email-scheduling | — |
+| 18 | devops-sre | — |
+| 19 | security-pentesting | — |
+| 20 | bioinformatics | — |
+| 21 | scientific-research | — |
+| 22 | education-tutoring | — |
+| 23 | reasoning-math | MATH |
+| 24 | multi-agent-orchestration | GAIA |
+| 25 | healthcare | — |
+| 26 | travel-planning | — |
+| 27 | sales-crm | — |
+| 28 | marketing | — |
+| 29 | social-media | — |
+| 30 | e-commerce | — |
+| 31 | real-estate | — |
+| 32 | cooking | — |
+| 33 | music | — |
+| 34 | game-playing | — |
+| 35 | robotics | — |
+| 36 | knowledge-management | — |
+| 37 | pdf-forms | — |
+| 38 | spreadsheet-excel | SpreadsheetBench |
+| 39 | sql-analytics | BIRD-bench |
+| 40 | 3d-cad | — |
 
-The remaining 32 (web-dev, data-engineering, financial-modeling, customer-support, content-writing, image-generation, video-generation, audio-speech, translation, search-rag, document-processing, email-scheduling, devops-sre, security-pentesting, bioinformatics, scientific-research, education-tutoring, healthcare, travel-planning, sales-crm, marketing, social-media, e-commerce, real-estate, cooking, music, game-playing, robotics, knowledge-management, pdf-forms, 3d-cad, data-science-ml) score on popularity, recency, age, and runnability only. As public benchmarks emerge, they will be wired into `_categories.json`.
-
-The full taxonomy lives at [`catalog/_categories.json`](catalog/_categories.json).
+As new public benchmarks land, they get wired into [`catalog/_categories.json`](catalog/_categories.json) and the score weights flip on automatically.
 
 ## Catalog file format
 
