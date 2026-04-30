@@ -13,7 +13,7 @@ dependencies = [
   "pyyaml>=6.0",
   "tenacity>=8.5",
   "click>=8.1",
-  "anthropic>=0.34",
+  "openai>=1.50",
   "rich>=13.7",
 ]
 
