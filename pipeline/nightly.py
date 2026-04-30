@@ -243,6 +243,14 @@ def main(
             t2 = progress.add_task("auto-discover", total=1)
             _discover(client, cats, existing, by_cat, per_query_limit=per_query_limit, dry_run=dry_run)
             progress.advance(t2)
+        else:
+            # Seeds-only must be non-destructive: keep prior auto-discovered
+            # entries that this run didn't refresh, so the wipe-and-rewrite
+            # below doesn't delete them.
+            seen = {(c, a.slug) for c, ags in by_cat.items() for a in ags}
+            for (c, slug), agent in existing.items():
+                if (c, slug) not in seen:
+                    by_cat[c].append(agent)
 
         t3 = progress.add_task("score + write", total=1)
         dropped = _write_and_truncate(by_cat, cats, dry_run=dry_run)
