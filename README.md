@@ -3,7 +3,7 @@
 > The largest continuously-updated public catalog of the world's most powerful open-source agents.
 > Discovered nightly. Ranked transparently. Bridged into ONEXUS on demand.
 
-`status: bootstrapping`  ·  `license: Apache-2.0`  ·  `python: 3.12`  ·  `node: 20.x`  ·  `update cadence: 00:00 UTC`
+`status: bootstrapping`  ·  `license: Apache-2.0`  ·  `python: 3.12`  ·  `node: 20.x`  ·  `update cadence: 13:00 UTC`
 
 ---
 
@@ -20,7 +20,7 @@ The catalog is the product. The dashboard is the showcase. The MCP bridge is the
 ## How it works
 
 ```
-nightly cron (00:00 UTC)
+nightly cron (13:00 UTC)
         │
         ▼
   refresh seeds  ──► auto-discover from GitHub + Hugging Face
