@@ -1,0 +1,43 @@
+{
+  "slug": "navitia",
+  "name": "navitia",
+  "tagline": "The open source software to build cool stuff with locomotion",
+  "category": "travel-planning",
+  "tags": [
+    "gtfs",
+    "journey-planner",
+    "mobility",
+    "mobility-as-a-service",
+    "navitia",
+    "open-api",
+    "public-transportation",
+    "trip-planner",
+    "trip-planning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "hove-io",
+    "url": "https://github.com/hove-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hove-io/navitia",
+    "huggingface": null,
+    "homepage": "https://doc.navitia.io/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 454,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T09:25:07Z",
+    "first_commit_at": "2010-11-29T09:46:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6308,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:06.410657Z",
+  "last_refreshed_at": "2026-04-30T16:19:51.246091Z"
+}

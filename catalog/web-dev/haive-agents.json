@@ -1,0 +1,43 @@
+{
+  "slug": "haive-agents",
+  "name": "haive-agents",
+  "tagline": "Production-ready agent implementations: SimpleAgent, ReactAgent, MultiAgent, MemoryAgent, RAG variants, and more",
+  "category": "web-dev",
+  "tags": [
+    "ai-agents",
+    "knowledge-graph",
+    "langchain",
+    "langgraph",
+    "llm",
+    "memory-agent",
+    "multi-agent",
+    "rag",
+    "react-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pr1m8",
+    "url": "https://github.com/pr1m8"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pr1m8/haive-agents",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/haive-agents/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-07T05:47:52Z",
+    "first_commit_at": "2025-04-18T02:50:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4157,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:24:25.413311Z",
+  "last_refreshed_at": "2026-04-30T16:13:03.348359Z"
+}

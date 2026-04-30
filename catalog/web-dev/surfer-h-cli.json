@@ -1,0 +1,43 @@
+{
+  "slug": "surfer-h-cli",
+  "name": "surfer-h-cli",
+  "tagline": "Run Surfer-H agents powered by Holo1 using the Surfer-H-CLI. Includes example tasks, scripts, and configurations.",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "cli",
+    "surfer-h",
+    "task-automation",
+    "vlm",
+    "web-agent",
+    "web-automation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "hcompai",
+    "url": "https://github.com/hcompai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hcompai/surfer-h-cli",
+    "huggingface": null,
+    "homepage": "https://www.hcompany.ai/surfer-h"
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 158,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-12T17:57:20Z",
+    "first_commit_at": "2025-07-08T09:21:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3798,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:59.721225Z",
+  "last_refreshed_at": "2026-04-30T16:12:34.483217Z"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "i2vgen-xl",
+  "name": "i2vgen-xl",
+  "tagline": "Image-to-video diffusion pipeline used by video agents.",
+  "category": "video-generation",
+  "tags": [
+    "diffusion-models",
+    "video-synthesis"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "damo-vilab",
+    "url": "https://github.com/ali-vilab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "damo-vilab/i2vgen-xl",
+    "huggingface": null,
+    "homepage": "https://i2vgen-xl.github.io/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 3157,
+    "downloads_30d": null,
+    "last_commit_at": "2025-01-10T09:09:13Z",
+    "first_commit_at": "2023-11-06T07:01:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2157,
+  "rank_in_category": 4,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:18.805475Z",
+  "last_refreshed_at": "2026-04-30T16:10:16.417745Z"
+}

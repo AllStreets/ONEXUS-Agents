@@ -1,0 +1,44 @@
+{
+  "slug": "mindbridge-mcp",
+  "name": "mindbridge-mcp",
+  "tagline": "MindBridge is an AI orchestration MCP server that lets any app talk to any LLM — OpenAI, Anthropic, DeepSeek, Ollama, and more — through a single unified API. Route queries, compare models, get second",
+  "category": "reasoning-math",
+  "tags": [
+    "agent",
+    "agents",
+    "chat",
+    "llm",
+    "llm-inference",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "model-context-protocol-servers",
+    "modelcontextprotocol"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pinkpixel-dev",
+    "url": "https://github.com/pinkpixel-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pinkpixel-dev/mindbridge-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 33,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-13T12:28:04Z",
+    "first_commit_at": "2025-04-10T07:23:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1298,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:00.518546Z",
+  "last_refreshed_at": "2026-04-30T16:18:33.695180Z"
+}

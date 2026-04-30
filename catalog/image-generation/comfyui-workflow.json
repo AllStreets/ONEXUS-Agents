@@ -1,0 +1,39 @@
+{
+  "slug": "comfyui-workflow",
+  "name": "comfyui-workflow",
+  "tagline": "comfyui工作流分享，提供deepseek、AI绘画、AI换脸、老照片修复、AI写真、AI设计、AI动漫、flux等comfyui workflow，更多工作流可以关注我的小程序《AI图工厂》。",
+  "category": "image-generation",
+  "tags": [
+    "ai",
+    "comfyui",
+    "comfyui-workflow",
+    "deepseek",
+    "flux"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ai-rich",
+    "url": "https://github.com/ai-rich"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ai-rich/comfyui-workflow",
+    "huggingface": null,
+    "homepage": "https://comfyui.aitgc.cn/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 141,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-08T12:31:27Z",
+    "first_commit_at": "2024-12-28T12:20:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1848,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:25:54.448330Z",
+  "last_refreshed_at": "2026-04-30T16:14:48.579978Z"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "tabitabi",
+  "name": "tabitabi",
+  "tagline": "旅のしおりを作成・共有できる多機能Webアプリケーション",
+  "category": "travel-planning",
+  "tags": [
+    "itineraries",
+    "itinerary-generator",
+    "itinerary-planner",
+    "svelte",
+    "travel",
+    "trip",
+    "trip-planner",
+    "trip-planning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "soranjiro",
+    "url": "https://github.com/soranjiro"
+  },
+  "source": {
+    "primary": "github",
+    "github": "soranjiro/tabitabi",
+    "huggingface": null,
+    "homepage": "https://tabitabi.pages.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T17:43:57Z",
+    "first_commit_at": "2025-11-16T18:04:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4129,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:13.387894Z",
+  "last_refreshed_at": "2026-04-30T16:19:58.998164Z"
+}

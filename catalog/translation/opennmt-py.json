@@ -1,0 +1,40 @@
+{
+  "slug": "opennmt-py",
+  "name": "OpenNMT-py",
+  "tagline": "Workhorse open-source NMT framework used by translation agents.",
+  "category": "translation",
+  "tags": [
+    "deep-learning",
+    "language-model",
+    "llms",
+    "machine-translation",
+    "neural-machine-translation",
+    "pytorch"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OpenNMT",
+    "url": "https://github.com/OpenNMT"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OpenNMT/OpenNMT-py",
+    "huggingface": null,
+    "homepage": "https://opennmt.net/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7004,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-14T17:32:07Z",
+    "first_commit_at": "2016-08-24T03:38:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3824,
+  "rank_in_category": 3,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:24.145667Z",
+  "last_refreshed_at": "2026-04-30T16:10:22.805548Z"
+}

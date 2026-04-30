@@ -1,0 +1,44 @@
+{
+  "slug": "lawmate",
+  "name": "LawMate",
+  "tagline": "AI-powered contract analysis tool that extracts clauses, highlights risky terms, summarizes documents, and answers questions using NLP. Built with Streamlit + Python.",
+  "category": "legal-research",
+  "tags": [
+    "ai",
+    "contract-analysis",
+    "embeddings",
+    "legal-contract",
+    "llm",
+    "nlp",
+    "python",
+    "risk-detection",
+    "streamlit",
+    "text-processing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JaweriaAsif745",
+    "url": "https://github.com/JaweriaAsif745"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JaweriaAsif745/LawMate",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-16T18:38:06Z",
+    "first_commit_at": "2025-11-29T07:00:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2156,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:25:24.088484Z",
+  "last_refreshed_at": "2026-04-30T16:14:12.697208Z"
+}

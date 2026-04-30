@@ -1,0 +1,40 @@
+{
+  "slug": "algotune",
+  "name": "AlgoTune",
+  "tagline": "AlgoTune is a NeurIPS 2025 benchmark made up of 154 math, physics, and computer science problems. The goal is write code that solves each problem, and is faster than existing implementations.",
+  "category": "coding",
+  "tags": [
+    "code-agent",
+    "code-generation",
+    "code-optimization",
+    "llm-agent",
+    "llm-benchmarking",
+    "llm-coder"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "oripress",
+    "url": "https://github.com/oripress"
+  },
+  "source": {
+    "primary": "github",
+    "github": "oripress/AlgoTune",
+    "huggingface": null,
+    "homepage": "https://algotune.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 96,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-12T22:24:58Z",
+    "first_commit_at": "2025-07-02T00:28:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2803,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:47.549433Z",
+  "last_refreshed_at": "2026-04-30T16:12:09.891914Z"
+}

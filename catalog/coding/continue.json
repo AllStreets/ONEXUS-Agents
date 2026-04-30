@@ -1,0 +1,42 @@
+{
+  "slug": "continue",
+  "name": "continue",
+  "tagline": "IDE-native coding assistant for VS Code and JetBrains.",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "ai",
+    "cli",
+    "developer-tools",
+    "jetbrains-plugin",
+    "llm",
+    "open-source",
+    "vs-code-extenstion"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "continuedev",
+    "url": "https://github.com/continuedev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "continuedev/continue",
+    "huggingface": null,
+    "homepage": "https://docs.continue.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 32899,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T09:09:10Z",
+    "first_commit_at": "2023-05-24T03:45:12Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "adapters/continue/mcp.json",
+  "composite_score": 0.447,
+  "rank_in_category": 6,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-01-12T00:00:00Z",
+  "last_refreshed_at": "2026-04-30T16:09:29.643556Z"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "packmind",
+  "name": "packmind",
+  "tagline": "Packmind seamlessly captures your engineering playbook and turns it into AI context, guardrails, and governance.",
+  "category": "coding",
+  "tags": [
+    "ai-code-governance",
+    "ai-coding-assistant",
+    "ai-guardrails",
+    "claude-code",
+    "context-engineering",
+    "contextops",
+    "copilot",
+    "cursor"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "PackmindHub",
+    "url": "https://github.com/PackmindHub"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PackmindHub/packmind",
+    "huggingface": null,
+    "homepage": "https://packmindhub.github.io/packmind/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 275,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T16:07:11Z",
+    "first_commit_at": "2025-09-05T09:42:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3366,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:36.249754Z",
+  "last_refreshed_at": "2026-04-30T16:11:55.044901Z"
+}

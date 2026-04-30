@@ -1,0 +1,44 @@
+{
+  "slug": "lawlia",
+  "name": "LAWLIA",
+  "tagline": "LAWLIA is an open-source computational legal framework designed to revolutionize legal reasoning and analysis. It combines the power of large language models with a structured syntactical grammar to f",
+  "category": "legal-research",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-safety",
+    "computational-law",
+    "computational-linguistics",
+    "large-language-models",
+    "law",
+    "legal-agent",
+    "legal-analysis",
+    "legal-automation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jehumtine",
+    "url": "https://github.com/jehumtine"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jehumtine/LAWLIA",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 22,
+    "downloads_30d": null,
+    "last_commit_at": "2023-12-06T11:14:45Z",
+    "first_commit_at": "2023-09-16T09:15:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.212,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:25:03.952240Z",
+  "last_refreshed_at": "2026-04-30T16:13:49.422005Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "epsiclaw",
+  "name": "epsiclaw",
+  "tagline": "The Karpathy treatment for OpenClaw - stripped to ε. 515 lines of Python, 6 files, one dependency.",
+  "category": "web-dev",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-assistant",
+    "educational",
+    "karpathy",
+    "karpathy-inspired",
+    "llm",
+    "minimal",
+    "openclaw",
+    "personal-assistant"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dorringel",
+    "url": "https://github.com/dorringel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dorringel/epsiclaw",
+    "huggingface": null,
+    "homepage": "https://dorringel.github.io/epsiclaw/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 46,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-26T05:44:45Z",
+    "first_commit_at": "2026-03-26T05:44:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4137,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:24:17.807054Z",
+  "last_refreshed_at": "2026-04-30T16:12:55.120275Z"
+}

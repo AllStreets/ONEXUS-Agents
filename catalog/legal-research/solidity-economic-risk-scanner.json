@@ -1,0 +1,44 @@
+{
+  "slug": "solidity-economic-risk-scanner",
+  "name": "Solidity-Economic-Risk-Scanner",
+  "tagline": "A research-grade tool that analyzes Solidity smart contracts for economic vulnerabilities such as unbounded minting, toxic fee mechanisms, liquidity traps, oracle manipulation, centralized control, an",
+  "category": "legal-research",
+  "tags": [
+    "amms",
+    "contract-analysis",
+    "defi",
+    "economic-analysis",
+    "economic-security",
+    "ethereum",
+    "fee-analysis",
+    "lending",
+    "liquidity-risk",
+    "onchain-risk"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AmirhosseinHonardoust",
+    "url": "https://github.com/AmirhosseinHonardoust"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AmirhosseinHonardoust/Solidity-Economic-Risk-Scanner",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-28T10:47:03Z",
+    "first_commit_at": "2025-11-28T10:30:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2064,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:25:16.565903Z",
+  "last_refreshed_at": "2026-04-30T16:14:03.559103Z"
+}
