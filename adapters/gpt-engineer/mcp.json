@@ -1,0 +1,35 @@
+{
+  "name": "gpt-engineer",
+  "version": "0.1.0",
+  "agent_slug": "gpt-engineer",
+  "category": "coding",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.gpt_engineer.server"],
+  "env": {
+    "OPENAI_API_KEY": {
+      "required": true,
+      "description": "OpenAI API key. gpt-engineer is GPT-tuned and won't run without it."
+    },
+    "MODEL_NAME": {
+      "required": false,
+      "description": "Override default model. Defaults to gpt-4o."
+    },
+    "PROJECT_PATH": {
+      "required": false,
+      "description": "Project directory to scaffold into. Defaults to a tmp dir per invocation."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "scaffold_project",
+      "edit_file",
+      "create_file",
+      "run_command"
+    ],
+    "resources": ["repo"]
+  },
+  "trust_floor": 0.5,
+  "default_tier": "ADVISOR",
+  "notes": "Codegen-from-spec agent. Best at greenfield scaffolding from a natural-language brief; weaker at editing existing repos. Defaults to ADVISOR tier so generated files are reviewed before write-out."
+}
