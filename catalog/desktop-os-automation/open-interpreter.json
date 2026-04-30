@@ -1,0 +1,31 @@
+{
+  "slug": "open-interpreter",
+  "name": "Open Interpreter",
+  "tagline": "Natural-language interface to your computer's shell, Python, and files.",
+  "category": "desktop-os-automation",
+  "tags": ["shell", "python", "local-execution", "cli"],
+  "author": { "type": "org", "handle": "OpenInterpreter", "url": "https://github.com/OpenInterpreter" },
+  "source": {
+    "primary": "github",
+    "github": "OpenInterpreter/open-interpreter",
+    "huggingface": null,
+    "homepage": "https://openinterpreter.com"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 56200,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-19T16:30:00Z",
+    "first_commit_at": "2023-07-14T00:00:00Z"
+  },
+  "benchmarks": [
+    { "name": "OSWorld", "score": 14.1, "as_of": "2026-02-21", "source_url": "https://os-world.github.io/" }
+  ],
+  "runnable": true,
+  "adapter_ref": "adapters/open-interpreter/mcp.json",
+  "composite_score": 0.846,
+  "rank_in_category": 1,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-01-12T00:00:00Z",
+  "last_refreshed_at": "2026-04-29T00:00:00Z"
+}

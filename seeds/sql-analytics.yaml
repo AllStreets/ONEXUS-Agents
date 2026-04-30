@@ -1,0 +1,21 @@
+category: sql-analytics
+agents:
+  - source: github
+    repo: vanna-ai/vanna
+    runnable: false
+    notes: "Train-on-your-schema SQL agent — strong on BIRD-bench."
+
+  - source: github
+    repo: defog-ai/sqlcoder
+    runnable: false
+    notes: "OSS text-to-SQL model widely used by analytics agents."
+
+  - source: github
+    repo: eosphoros-ai/DB-GPT
+    runnable: false
+    notes: "Database-native AI app + agent framework."
+
+  - source: github
+    repo: TAG-Research/TAG-Bench
+    runnable: false
+    notes: "Table-augmented generation benchmark + agents."

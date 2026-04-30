@@ -1,0 +1,29 @@
+{
+  "slug": "continue",
+  "name": "Continue",
+  "tagline": "IDE-native coding assistant for VS Code and JetBrains.",
+  "category": "coding",
+  "tags": ["vscode", "jetbrains", "ide", "config-driven"],
+  "author": { "type": "org", "handle": "continuedev", "url": "https://github.com/continuedev" },
+  "source": {
+    "primary": "github",
+    "github": "continuedev/continue",
+    "huggingface": null,
+    "homepage": "https://continue.dev"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 21800,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T11:46:00Z",
+    "first_commit_at": "2023-05-24T00:00:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.741,
+  "rank_in_category": 5,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-01-12T00:00:00Z",
+  "last_refreshed_at": "2026-04-29T00:00:00Z"
+}

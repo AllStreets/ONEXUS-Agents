@@ -1,0 +1,21 @@
+category: video-generation
+agents:
+  - source: github
+    repo: Stability-AI/generative-models
+    runnable: false
+    notes: "SVD and related video diffusion models from Stability."
+
+  - source: github
+    repo: hpcaitech/Open-Sora
+    runnable: false
+    notes: "Open replication of Sora-style video generation."
+
+  - source: github
+    repo: PKU-YuanGroup/Open-Sora-Plan
+    runnable: false
+    notes: "Community Sora reproduction with scripted multi-shot workflows."
+
+  - source: github
+    repo: damo-vilab/i2vgen-xl
+    runnable: false
+    notes: "Image-to-video diffusion pipeline used by video agents."

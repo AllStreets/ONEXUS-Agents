@@ -1,0 +1,31 @@
+category: data-engineering
+agents:
+  - source: github
+    repo: dagster-io/dagster
+    runnable: false
+    notes: "Orchestrator with first-class agent integrations for pipeline ops."
+
+  - source: github
+    repo: airbytehq/airbyte
+    runnable: false
+    notes: "Connector platform with AI-assisted source/destination authoring."
+
+  - source: github
+    repo: dbt-labs/dbt-core
+    runnable: false
+    notes: "Transformation framework — base for dbt-aware coding agents."
+
+  - source: github
+    repo: PrefectHQ/prefect
+    runnable: false
+    notes: "Workflow orchestrator with agent-driven scheduling integrations."
+
+  - source: github
+    repo: meltano/meltano
+    runnable: false
+    notes: "DataOps platform with agent-driven pipeline generation."
+
+  - source: github
+    repo: kestra-io/kestra
+    runnable: false
+    notes: "Event-driven orchestrator with AI-assisted task authoring."

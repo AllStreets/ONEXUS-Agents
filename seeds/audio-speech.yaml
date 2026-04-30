@@ -1,0 +1,26 @@
+category: audio-speech
+agents:
+  - source: github
+    repo: openai/whisper
+    runnable: false
+    notes: "Reference STT model wrapped by countless transcription agents."
+
+  - source: github
+    repo: SYSTRAN/faster-whisper
+    runnable: false
+    notes: "Fast Whisper port used in production transcription agents."
+
+  - source: github
+    repo: coqui-ai/TTS
+    runnable: false
+    notes: "Multi-speaker TTS toolkit used by voice agents."
+
+  - source: github
+    repo: 2noise/ChatTTS
+    runnable: false
+    notes: "Conversational TTS optimized for dialogue agents."
+
+  - source: github
+    repo: livekit/agents
+    runnable: false
+    notes: "Realtime voice-agent framework on LiveKit."

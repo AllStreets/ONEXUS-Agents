@@ -1,0 +1,22 @@
+category: desktop-os-automation
+agents:
+  - source: github
+    repo: OpenInterpreter/open-interpreter
+    runnable: true
+    adapter_ref: adapters/open-interpreter/mcp.json
+    notes: "Cross-listed — runs natural-language commands on the host OS."
+
+  - source: github
+    repo: xlang-ai/OSWorld
+    runnable: false
+    notes: "OSWorld benchmark + reference desktop agents."
+
+  - source: github
+    repo: showlab/Awesome-GUI-Agent
+    runnable: false
+    notes: "Curated reference set of GUI/desktop agents."
+
+  - source: github
+    repo: microsoft/UFO
+    runnable: false
+    notes: "Microsoft UI-Focused agent for Windows automation."

@@ -1,0 +1,26 @@
+category: customer-support
+agents:
+  - source: github
+    repo: chatwoot/chatwoot
+    runnable: false
+    notes: "Open-source customer engagement platform with AI helpers."
+
+  - source: github
+    repo: botpress/botpress
+    runnable: false
+    notes: "Conversational AI platform — most-starred OSS chatbot framework."
+
+  - source: github
+    repo: rasahq/rasa
+    runnable: false
+    notes: "Conversational AI with strong intent + dialogue management."
+
+  - source: github
+    repo: langgenius/dify
+    runnable: false
+    notes: "LLMOps platform widely used to build support agents."
+
+  - source: github
+    repo: FlowiseAI/Flowise
+    runnable: false
+    notes: "Drag-and-drop LLM agent builder — common for support flows."

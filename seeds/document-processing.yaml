@@ -1,0 +1,21 @@
+category: document-processing
+agents:
+  - source: github
+    repo: opendatalab/MinerU
+    runnable: false
+    notes: "PDF-to-Markdown extraction agent with strong table handling."
+
+  - source: github
+    repo: Unstructured-IO/unstructured
+    runnable: false
+    notes: "Document partitioning library wrapped by document agents."
+
+  - source: github
+    repo: VikParuchuri/marker
+    runnable: false
+    notes: "Fast PDF-to-Markdown converter used by ingestion agents."
+
+  - source: github
+    repo: nlmatics/nlm-ingestor
+    runnable: false
+    notes: "Layout-aware document ingestion pipeline."

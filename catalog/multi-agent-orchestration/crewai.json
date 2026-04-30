@@ -1,0 +1,29 @@
+{
+  "slug": "crewai",
+  "name": "CrewAI",
+  "tagline": "Role-based multi-agent orchestration — define crews, tasks, and processes.",
+  "category": "multi-agent-orchestration",
+  "tags": ["roles", "crews", "tasks", "process"],
+  "author": { "type": "user", "handle": "joaomdmoura", "url": "https://github.com/joaomdmoura" },
+  "source": {
+    "primary": "github",
+    "github": "joaomdmoura/crewAI",
+    "huggingface": null,
+    "homepage": "https://www.crewai.com"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 23400,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T12:09:00Z",
+    "first_commit_at": "2023-10-27T00:00:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.732,
+  "rank_in_category": 2,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-01-12T00:00:00Z",
+  "last_refreshed_at": "2026-04-29T00:00:00Z"
+}

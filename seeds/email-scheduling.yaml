@@ -1,0 +1,21 @@
+category: email-scheduling
+agents:
+  - source: github
+    repo: simonw/datasette
+    runnable: false
+    notes: "Frequently used as a substrate for email-archive agents."
+
+  - source: github
+    repo: vinta/awesome-python
+    runnable: false
+    notes: "Reference list — many email/scheduling agent components."
+
+  - source: github
+    repo: emqx/emqx
+    runnable: false
+    notes: "Messaging backbone occasionally driven by scheduling agents."
+
+  - source: github
+    repo: makeplane/plane
+    runnable: false
+    notes: "Open project planner — increasingly wrapped by scheduling agents."

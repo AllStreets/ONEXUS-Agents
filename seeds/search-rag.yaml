@@ -1,0 +1,26 @@
+category: search-rag
+agents:
+  - source: github
+    repo: ItzCrazyKns/Perplexica
+    runnable: false
+    notes: "Open Perplexity alternative — search + synthesize agent."
+
+  - source: github
+    repo: stanford-oval/storm
+    runnable: false
+    notes: "Cross-listed — research agent producing cited long-form output."
+
+  - source: github
+    repo: infiniflow/ragflow
+    runnable: false
+    notes: "RAG engine with agentic multi-step retrieval flows."
+
+  - source: github
+    repo: deepset-ai/haystack
+    runnable: false
+    notes: "Production RAG and agentic search framework."
+
+  - source: github
+    repo: run-llama/llama_index
+    runnable: false
+    notes: "RAG and agent toolkit — substrate for many retrieval agents."

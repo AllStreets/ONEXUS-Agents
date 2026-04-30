@@ -1,0 +1,31 @@
+category: data-science-ml
+agents:
+  - source: github
+    repo: Significant-Gravitas/AutoGPT
+    runnable: false
+    notes: "General-purpose autonomous agent often pointed at data tasks."
+
+  - source: github
+    repo: microsoft/autogen
+    runnable: false
+    notes: "Multi-agent conversation framework popular for ML experimentation."
+
+  - source: github
+    repo: openbmb/ChatDev
+    runnable: false
+    notes: "Multi-agent software/ML company simulation."
+
+  - source: github
+    repo: stitionai/devika
+    runnable: false
+    notes: "Cross-listed — strong on Jupyter and ML scaffolding workflows."
+
+  - source: github
+    repo: openai/openai-cookbook
+    runnable: false
+    notes: "Reference notebooks frequently wrapped as agent skills."
+
+  - source: github
+    repo: Codium-ai/cover-agent
+    runnable: false
+    notes: "Test-generation agent commonly used for ML library coverage."

@@ -1,0 +1,26 @@
+category: image-generation
+agents:
+  - source: github
+    repo: comfyanonymous/ComfyUI
+    runnable: false
+    notes: "Node-based diffusion workflow engine — substrate for image agents."
+
+  - source: github
+    repo: AUTOMATIC1111/stable-diffusion-webui
+    runnable: false
+    notes: "Most-deployed stable diffusion UI; backbone of many image agents."
+
+  - source: github
+    repo: invoke-ai/InvokeAI
+    runnable: false
+    notes: "Production-grade diffusion suite with workflow agents."
+
+  - source: github
+    repo: lllyasviel/Fooocus
+    runnable: false
+    notes: "Opinionated diffusion UI used as a one-click image agent."
+
+  - source: huggingface
+    model: stabilityai/stable-diffusion-3-medium
+    runnable: false
+    notes: "Foundation model backing many image-agent workflows."

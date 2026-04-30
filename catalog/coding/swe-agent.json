@@ -1,0 +1,31 @@
+{
+  "slug": "swe-agent",
+  "name": "SWE-agent",
+  "tagline": "Princeton-NLP reference agent that turns LMs into autonomous SWEs.",
+  "category": "coding",
+  "tags": ["academic", "swe-bench", "agent-computer-interface"],
+  "author": { "type": "org", "handle": "princeton-nlp", "url": "https://github.com/princeton-nlp" },
+  "source": {
+    "primary": "github",
+    "github": "princeton-nlp/SWE-agent",
+    "huggingface": null,
+    "homepage": "https://swe-agent.com"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14100,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-18T17:42:00Z",
+    "first_commit_at": "2024-04-02T00:00:00Z"
+  },
+  "benchmarks": [
+    { "name": "SWE-bench Verified", "score": 33.6, "as_of": "2026-03-15", "source_url": "https://www.swebench.com/" }
+  ],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.834,
+  "rank_in_category": 2,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-01-12T00:00:00Z",
+  "last_refreshed_at": "2026-04-29T00:00:00Z"
+}

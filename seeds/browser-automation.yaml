@@ -1,0 +1,26 @@
+category: browser-automation
+agents:
+  - source: github
+    repo: browser-use/browser-use
+    runnable: false
+    notes: "Make any LLM control a browser — popular WebArena baseline."
+
+  - source: github
+    repo: Skyvern-AI/skyvern
+    runnable: false
+    notes: "LLM + computer-vision browser automation."
+
+  - source: github
+    repo: web-arena-x/webarena
+    runnable: false
+    notes: "WebArena benchmark + reference agents."
+
+  - source: github
+    repo: lavague-ai/LaVague
+    runnable: false
+    notes: "Large-action-model browser agent."
+
+  - source: github
+    repo: Significant-Gravitas/AutoGPT
+    runnable: false
+    notes: "Cross-listed — frequently used for browser automation tasks."

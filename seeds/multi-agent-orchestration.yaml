@@ -1,0 +1,26 @@
+category: multi-agent-orchestration
+agents:
+  - source: github
+    repo: microsoft/autogen
+    runnable: false
+    notes: "Multi-agent conversation framework — strong GAIA performance."
+
+  - source: github
+    repo: joaomdmoura/crewAI
+    runnable: false
+    notes: "Role-based multi-agent orchestration framework."
+
+  - source: github
+    repo: langchain-ai/langgraph
+    runnable: false
+    notes: "Stateful multi-agent graphs on top of LangChain."
+
+  - source: github
+    repo: openbmb/ChatDev
+    runnable: false
+    notes: "Multi-agent virtual software company simulation."
+
+  - source: github
+    repo: TransformerOptimus/SuperAGI
+    runnable: false
+    notes: "Multi-agent autonomous task framework."

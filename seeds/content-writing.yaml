@@ -1,0 +1,21 @@
+category: content-writing
+agents:
+  - source: github
+    repo: assafelovic/gpt-researcher
+    runnable: false
+    notes: "Autonomous research agent producing long-form, cited reports."
+
+  - source: github
+    repo: stanford-oval/storm
+    runnable: false
+    notes: "Stanford agent that writes Wikipedia-style articles end-to-end."
+
+  - source: github
+    repo: nilsherzig/LLocalSearch
+    runnable: false
+    notes: "Local search-and-write agent for offline research workflows."
+
+  - source: github
+    repo: codefuse-ai/codefuse-chatbot
+    runnable: false
+    notes: "Long-form generation backbone reused by content agents."

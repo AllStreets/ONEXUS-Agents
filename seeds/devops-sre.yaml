@@ -1,0 +1,22 @@
+category: devops-sre
+agents:
+  - source: github
+    repo: k8sgpt-ai/k8sgpt
+    runnable: false
+    notes: "Kubernetes triage agent — explains cluster issues in plain English."
+
+  - source: github
+    repo: paradedb/paradedb
+    runnable: false
+    notes: "Postgres-native ops substrate often paired with SRE agents."
+
+  - source: github
+    repo: robusta-dev/holmesgpt
+    runnable: false
+    notes: "On-call investigation agent for Kubernetes."
+
+  - source: github
+    repo: Aider-AI/aider
+    runnable: true
+    adapter_ref: adapters/aider/mcp.json
+    notes: "Cross-listed — common SRE workflow for IaC edits."

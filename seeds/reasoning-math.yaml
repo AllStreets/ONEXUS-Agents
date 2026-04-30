@@ -1,0 +1,21 @@
+category: reasoning-math
+agents:
+  - source: github
+    repo: lean-dojo/LeanCopilot
+    runnable: false
+    notes: "Theorem-proving agent for the Lean proof assistant."
+
+  - source: github
+    repo: openai/prm800k
+    runnable: false
+    notes: "Process-reward dataset that grounds many reasoning agents."
+
+  - source: github
+    repo: hendrycks/math
+    runnable: false
+    notes: "MATH benchmark — reference reasoning evaluation."
+
+  - source: huggingface
+    model: deepseek-ai/deepseek-math-7b-instruct
+    runnable: false
+    notes: "Strong open math-reasoning model for tool-using agents."

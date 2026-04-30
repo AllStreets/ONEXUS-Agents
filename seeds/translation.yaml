@@ -1,0 +1,16 @@
+category: translation
+agents:
+  - source: github
+    repo: facebookresearch/seamless_communication
+    runnable: false
+    notes: "Meta SeamlessM4T — multimodal multilingual translation."
+
+  - source: github
+    repo: OpenNMT/OpenNMT-py
+    runnable: false
+    notes: "Workhorse open-source NMT framework used by translation agents."
+
+  - source: huggingface
+    model: facebook/nllb-200-distilled-600M
+    runnable: false
+    notes: "200-language NMT model commonly wrapped as a translation agent."

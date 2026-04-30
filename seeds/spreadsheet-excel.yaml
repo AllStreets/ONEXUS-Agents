@@ -1,0 +1,21 @@
+category: spreadsheet-excel
+agents:
+  - source: github
+    repo: gventuri/pandas-ai
+    runnable: false
+    notes: "Conversational spreadsheet/dataframe agent."
+
+  - source: github
+    repo: FightingZhen/SpreadsheetBench
+    runnable: false
+    notes: "SpreadsheetBench reference + leaderboard agents."
+
+  - source: github
+    repo: Sinaptik-AI/pandas-ai
+    runnable: false
+    notes: "Active fork — production spreadsheet-conversation agent."
+
+  - source: github
+    repo: jazzband/tablib
+    runnable: false
+    notes: "Substrate library many spreadsheet agents wrap."

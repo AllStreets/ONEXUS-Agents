@@ -1,0 +1,21 @@
+category: legal-research
+agents:
+  - source: github
+    repo: HazyResearch/legalbench
+    runnable: false
+    notes: "Reference benchmark + reproductions for legal-reasoning agents."
+
+  - source: github
+    repo: instill-ai/instill-core
+    runnable: false
+    notes: "Document-AI platform commonly used for contract analysis pipelines."
+
+  - source: github
+    repo: cosmir/incite
+    runnable: false
+    notes: "Open contract review pipeline."
+
+  - source: github
+    repo: clauseiq/contract-nli-bert
+    runnable: false
+    notes: "NLI baseline for contract clause classification."

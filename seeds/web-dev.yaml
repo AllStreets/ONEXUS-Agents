@@ -1,0 +1,41 @@
+category: web-dev
+agents:
+  - source: github
+    repo: stackblitz-labs/bolt.diy
+    runnable: false
+    notes: "Open-source bolt.new — full-stack web apps from a prompt, in browser."
+
+  - source: github
+    repo: TransformerOptimus/SuperAGI
+    runnable: false
+    notes: "Multi-agent framework with web-app scaffolding workflows."
+
+  - source: github
+    repo: e2b-dev/fragments
+    runnable: false
+    notes: "Open-source Vercel v0 — generate and preview React apps live."
+
+  - source: github
+    repo: pythagora-io/gpt-pilot
+    runnable: false
+    notes: "Builds full apps with developer-in-the-loop verification."
+
+  - source: github
+    repo: aigeneration/aiwaves-cn
+    runnable: false
+    notes: "Agents for end-to-end web development tasks."
+
+  - source: github
+    repo: a16z-infra/companion-app
+    runnable: false
+    notes: "Reference full-stack template that ships with an agent backend."
+
+  - source: github
+    repo: tldraw/make-real
+    runnable: false
+    notes: "Sketch-to-website agent — turn drawings into working HTML."
+
+  - source: github
+    repo: vercel/ai-chatbot
+    runnable: false
+    notes: "Reference Next.js AI chatbot used as a web-agent scaffold."

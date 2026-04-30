@@ -1,0 +1,53 @@
+category: coding
+agents:
+  - source: github
+    repo: Aider-AI/aider
+    runnable: true
+    adapter_ref: adapters/aider/mcp.json
+    notes: "Pair-programming AI in your terminal with first-class git awareness."
+
+  - source: github
+    repo: OpenInterpreter/open-interpreter
+    runnable: true
+    adapter_ref: adapters/open-interpreter/mcp.json
+    notes: "Natural-language interface to your computer's shell, Python, and files."
+
+  - source: github
+    repo: princeton-nlp/SWE-agent
+    runnable: false
+    notes: "Academic SWE-bench reference agent — turns LMs into autonomous SWEs."
+
+  - source: github
+    repo: All-Hands-AI/OpenHands
+    runnable: false
+    notes: "Autonomous coding platform (formerly OpenDevin)."
+
+  - source: github
+    repo: cline/cline
+    runnable: false
+    notes: "Autonomous coding agent for VS Code."
+
+  - source: github
+    repo: continuedev/continue
+    runnable: false
+    notes: "IDE-native coding assistant for VS Code and JetBrains."
+
+  - source: github
+    repo: stitionai/devika
+    runnable: false
+    notes: "Open-source Devin alternative — plans, browses, and writes code."
+
+  - source: github
+    repo: smol-ai/developer
+    runnable: false
+    notes: "Embeddable junior-developer agent for scaffolding small apps."
+
+  - source: github
+    repo: AntonOsika/gpt-engineer
+    runnable: false
+    notes: "Specify a project in plain English; gpt-engineer generates the code."
+
+  - source: github
+    repo: BuilderIO/micro-agent
+    runnable: false
+    notes: "Test-driven AI coder — writes code that passes given tests."

@@ -1,0 +1,26 @@
+category: financial-modeling
+agents:
+  - source: github
+    repo: AI4Finance-Foundation/FinGPT
+    runnable: false
+    notes: "Open-source finance LLM stack with agentic trading examples."
+
+  - source: github
+    repo: AI4Finance-Foundation/FinRL
+    runnable: false
+    notes: "Reinforcement-learning library for quant finance agents."
+
+  - source: github
+    repo: virattt/ai-hedge-fund
+    runnable: false
+    notes: "Multi-agent hedge fund simulation with valuation and trade workflows."
+
+  - source: github
+    repo: OpenBB-finance/OpenBBTerminal
+    runnable: false
+    notes: "Open-source financial terminal increasingly wrapped by agents."
+
+  - source: github
+    repo: stefan-jansen/machine-learning-for-trading
+    runnable: false
+    notes: "Reference codebase for ML-driven trading agents."

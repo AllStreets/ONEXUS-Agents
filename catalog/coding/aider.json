@@ -1,0 +1,31 @@
+{
+  "slug": "aider",
+  "name": "Aider",
+  "tagline": "Pair-programming AI in your terminal with first-class git awareness.",
+  "category": "coding",
+  "tags": ["cli", "git-aware", "multi-file", "tree-sitter"],
+  "author": { "type": "org", "handle": "Aider-AI", "url": "https://github.com/Aider-AI" },
+  "source": {
+    "primary": "github",
+    "github": "Aider-AI/aider",
+    "huggingface": null,
+    "homepage": "https://aider.chat"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 28400,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-22T14:01:00Z",
+    "first_commit_at": "2023-05-09T00:00:00Z"
+  },
+  "benchmarks": [
+    { "name": "SWE-bench Verified", "score": 26.3, "as_of": "2026-03-15", "source_url": "https://www.swebench.com/" }
+  ],
+  "runnable": true,
+  "adapter_ref": "adapters/aider/mcp.json",
+  "composite_score": 0.812,
+  "rank_in_category": 3,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-01-12T00:00:00Z",
+  "last_refreshed_at": "2026-04-29T00:00:00Z"
+}
