@@ -1,0 +1,398 @@
+{
+  "version": 1,
+  "updated_at": "2026-04-29",
+  "categories": [
+    {
+      "slug": "coding",
+      "name": "Coding",
+      "description": "General-purpose coding assistants — file editing, command execution, multi-file refactors, IDE integrations.",
+      "benchmark_anchor": {
+        "name": "SWE-bench Verified",
+        "leaderboard_url": "https://www.swebench.com/",
+        "weight_share": 0.30
+      },
+      "seed_keywords": ["coding agent", "swe-bench", "code assistant", "code editing agent", "ide agent", "autonomous coder", "pair programmer"],
+      "github_search_queries": ["topic:coding-agent", "topic:swe-agent", "topic:ai-coding-assistant", "topic:code-agent"],
+      "huggingface_filters": { "tags": ["agent", "coding", "code"] }
+    },
+    {
+      "slug": "web-dev",
+      "name": "Web Development",
+      "description": "Agents that scaffold, build, and maintain web applications — frameworks, components, deployment.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["web agent", "frontend agent", "react agent", "nextjs agent", "fullstack agent", "ui agent"],
+      "github_search_queries": ["topic:web-agent", "topic:frontend-agent", "topic:react-agent"],
+      "huggingface_filters": { "tags": ["agent", "web"] }
+    },
+    {
+      "slug": "data-engineering",
+      "name": "Data Engineering",
+      "description": "Agents for building and maintaining data pipelines — ETL, orchestration, schema management, transformations.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["data engineering agent", "etl agent", "pipeline agent", "dbt agent", "airflow agent"],
+      "github_search_queries": ["topic:data-engineering-agent", "topic:etl-agent", "topic:data-pipeline-ai"],
+      "huggingface_filters": { "tags": ["agent", "data"] }
+    },
+    {
+      "slug": "data-science-ml",
+      "name": "Data Science & ML",
+      "description": "Agents for exploratory analysis, feature engineering, model training, and ML experiment management.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["data science agent", "ml agent", "automl agent", "notebook agent", "kaggle agent"],
+      "github_search_queries": ["topic:data-science-agent", "topic:automl-agent", "topic:ml-agent"],
+      "huggingface_filters": { "tags": ["agent", "machine-learning"] }
+    },
+    {
+      "slug": "financial-modeling",
+      "name": "Financial Modeling",
+      "description": "Agents for valuation, DCF, scenario analysis, financial statement modeling, and quant research.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["financial agent", "trading agent", "quant agent", "valuation agent", "dcf agent", "fintech agent"],
+      "github_search_queries": ["topic:trading-agent", "topic:fintech-agent", "topic:quant-agent", "topic:financial-ai"],
+      "huggingface_filters": { "tags": ["agent", "finance"] }
+    },
+    {
+      "slug": "legal-research",
+      "name": "Legal Research",
+      "description": "Agents for case law research, contract analysis, compliance review, and legal drafting assistance.",
+      "benchmark_anchor": {
+        "name": "LegalBench",
+        "leaderboard_url": "https://hazyresearch.stanford.edu/legalbench/",
+        "weight_share": 0.30
+      },
+      "seed_keywords": ["legal agent", "law agent", "contract analysis agent", "legalbench", "legal research"],
+      "github_search_queries": ["topic:legal-agent", "topic:law-ai", "topic:contract-analysis"],
+      "huggingface_filters": { "tags": ["agent", "legal"] }
+    },
+    {
+      "slug": "customer-support",
+      "name": "Customer Support",
+      "description": "Agents for ticket triage, knowledge-base lookup, customer chat, and helpdesk automation.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["support agent", "helpdesk agent", "chatbot agent", "ticket triage", "customer service ai"],
+      "github_search_queries": ["topic:support-agent", "topic:customer-service-ai", "topic:helpdesk-ai"],
+      "huggingface_filters": { "tags": ["agent", "customer-support", "chatbot"] }
+    },
+    {
+      "slug": "content-writing",
+      "name": "Content Writing",
+      "description": "Agents for long-form articles, marketing copy, SEO content, and editorial workflows.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["writing agent", "content agent", "copywriting agent", "blog agent", "seo agent"],
+      "github_search_queries": ["topic:writing-agent", "topic:content-generation-agent", "topic:seo-ai"],
+      "huggingface_filters": { "tags": ["agent", "writing", "text-generation"] }
+    },
+    {
+      "slug": "image-generation",
+      "name": "Image Generation",
+      "description": "Agents for image creation, editing, style transfer, and multi-step visual workflows.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["image agent", "diffusion agent", "comfyui agent", "image generation pipeline"],
+      "github_search_queries": ["topic:image-generation-agent", "topic:diffusion-agent", "topic:comfyui-workflow"],
+      "huggingface_filters": { "tags": ["agent", "text-to-image"] }
+    },
+    {
+      "slug": "video-generation",
+      "name": "Video Generation",
+      "description": "Agents for video synthesis, editing, captioning, and multi-shot composition.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["video agent", "video generation agent", "video editing ai", "shot composition"],
+      "github_search_queries": ["topic:video-generation-agent", "topic:video-ai-agent"],
+      "huggingface_filters": { "tags": ["agent", "text-to-video"] }
+    },
+    {
+      "slug": "audio-speech",
+      "name": "Audio & Speech",
+      "description": "Agents for transcription, speech synthesis, audio editing, and voice-driven workflows.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["audio agent", "speech agent", "transcription agent", "tts agent", "voice agent"],
+      "github_search_queries": ["topic:speech-agent", "topic:audio-ai-agent", "topic:voice-agent"],
+      "huggingface_filters": { "tags": ["agent", "speech", "audio"] }
+    },
+    {
+      "slug": "translation",
+      "name": "Translation",
+      "description": "Agents for high-quality translation across languages, document localization, and multilingual workflows.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["translation agent", "translator agent", "localization ai", "multilingual agent"],
+      "github_search_queries": ["topic:translation-agent", "topic:localization-ai"],
+      "huggingface_filters": { "tags": ["agent", "translation"] }
+    },
+    {
+      "slug": "search-rag",
+      "name": "Search & RAG",
+      "description": "Agents for retrieval-augmented generation, semantic search, and document Q&A over private corpora.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["rag agent", "retrieval agent", "search agent", "vector search agent", "document qa"],
+      "github_search_queries": ["topic:rag-agent", "topic:retrieval-agent", "topic:semantic-search-agent"],
+      "huggingface_filters": { "tags": ["agent", "rag", "retrieval"] }
+    },
+    {
+      "slug": "browser-automation",
+      "name": "Browser Automation",
+      "description": "Agents that drive web browsers — navigation, form filling, scraping, end-to-end web tasks.",
+      "benchmark_anchor": {
+        "name": "WebArena",
+        "leaderboard_url": "https://webarena.dev/",
+        "weight_share": 0.30
+      },
+      "seed_keywords": ["browser agent", "web automation agent", "webarena", "browser-use", "playwright agent"],
+      "github_search_queries": ["topic:browser-agent", "topic:web-automation-agent", "topic:browser-use"],
+      "huggingface_filters": { "tags": ["agent", "browser", "web-automation"] }
+    },
+    {
+      "slug": "desktop-os-automation",
+      "name": "Desktop / OS Automation",
+      "description": "Agents that control the desktop — mouse, keyboard, application orchestration, OS-level workflows.",
+      "benchmark_anchor": {
+        "name": "OSWorld",
+        "leaderboard_url": "https://os-world.github.io/",
+        "weight_share": 0.30
+      },
+      "seed_keywords": ["desktop agent", "os agent", "computer-use agent", "osworld", "screen agent"],
+      "github_search_queries": ["topic:computer-use-agent", "topic:desktop-agent", "topic:os-automation-agent"],
+      "huggingface_filters": { "tags": ["agent", "computer-use", "os-automation"] }
+    },
+    {
+      "slug": "document-processing",
+      "name": "Document Processing",
+      "description": "Agents for OCR, document understanding, structured extraction, and multi-page document workflows.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["document agent", "ocr agent", "document understanding", "extraction agent", "document ai"],
+      "github_search_queries": ["topic:document-ai-agent", "topic:ocr-agent", "topic:document-extraction"],
+      "huggingface_filters": { "tags": ["agent", "document", "ocr"] }
+    },
+    {
+      "slug": "email-scheduling",
+      "name": "Email & Scheduling",
+      "description": "Agents for inbox triage, drafting replies, calendar coordination, and meeting scheduling.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["email agent", "inbox agent", "scheduling agent", "calendar agent", "meeting bot"],
+      "github_search_queries": ["topic:email-agent", "topic:scheduling-agent", "topic:calendar-ai"],
+      "huggingface_filters": { "tags": ["agent", "email", "scheduling"] }
+    },
+    {
+      "slug": "devops-sre",
+      "name": "DevOps & SRE",
+      "description": "Agents for incident response, CI/CD orchestration, infrastructure-as-code, and observability triage.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["devops agent", "sre agent", "incident response agent", "ci/cd agent", "infra agent"],
+      "github_search_queries": ["topic:devops-agent", "topic:sre-agent", "topic:incident-ai"],
+      "huggingface_filters": { "tags": ["agent", "devops"] }
+    },
+    {
+      "slug": "security-pentesting",
+      "name": "Security & Pentesting",
+      "description": "Agents for vulnerability discovery, exploit chaining, security audit, and red-team automation.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["security agent", "pentesting agent", "red team ai", "vuln scanner agent", "ctf agent"],
+      "github_search_queries": ["topic:security-agent", "topic:pentest-ai", "topic:red-team-agent"],
+      "huggingface_filters": { "tags": ["agent", "security"] }
+    },
+    {
+      "slug": "bioinformatics",
+      "name": "Bioinformatics",
+      "description": "Agents for genomics workflows, sequence analysis, pipeline construction, and biological data exploration.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["bioinformatics agent", "genomics agent", "biology ai agent", "bio pipeline"],
+      "github_search_queries": ["topic:bioinformatics-agent", "topic:genomics-ai"],
+      "huggingface_filters": { "tags": ["agent", "biology", "bioinformatics"] }
+    },
+    {
+      "slug": "scientific-research",
+      "name": "Scientific Research",
+      "description": "Agents for literature review, hypothesis generation, experiment design, and research synthesis.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["research agent", "scientific agent", "literature review agent", "hypothesis agent"],
+      "github_search_queries": ["topic:research-agent", "topic:scientific-ai-agent", "topic:literature-review-ai"],
+      "huggingface_filters": { "tags": ["agent", "research", "science"] }
+    },
+    {
+      "slug": "education-tutoring",
+      "name": "Education & Tutoring",
+      "description": "Agents for personalized tutoring, curriculum generation, exercise creation, and study assistance.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["tutor agent", "education agent", "teaching agent", "curriculum agent", "study agent"],
+      "github_search_queries": ["topic:tutor-agent", "topic:education-ai-agent", "topic:teaching-ai"],
+      "huggingface_filters": { "tags": ["agent", "education"] }
+    },
+    {
+      "slug": "reasoning-math",
+      "name": "Reasoning & Math",
+      "description": "Agents specialized for multi-step reasoning, theorem proving, and competition-level mathematics.",
+      "benchmark_anchor": {
+        "name": "MATH",
+        "leaderboard_url": "https://github.com/hendrycks/math",
+        "weight_share": 0.30
+      },
+      "seed_keywords": ["reasoning agent", "math agent", "theorem prover", "lean agent", "olympiad agent"],
+      "github_search_queries": ["topic:reasoning-agent", "topic:math-agent", "topic:theorem-prover-ai"],
+      "huggingface_filters": { "tags": ["agent", "reasoning", "math"] }
+    },
+    {
+      "slug": "multi-agent-orchestration",
+      "name": "Multi-Agent Orchestration",
+      "description": "Frameworks for coordinating multiple agents — role assignment, message passing, hierarchical planning.",
+      "benchmark_anchor": {
+        "name": "GAIA",
+        "leaderboard_url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard",
+        "weight_share": 0.30
+      },
+      "seed_keywords": ["multi-agent", "agent framework", "orchestration agent", "agent swarm", "agent network"],
+      "github_search_queries": ["topic:multi-agent", "topic:agent-framework", "topic:agent-orchestration"],
+      "huggingface_filters": { "tags": ["agent", "multi-agent", "framework"] }
+    },
+    {
+      "slug": "healthcare",
+      "name": "Healthcare",
+      "description": "Agents for clinical decision support, medical literature search, patient triage, and EHR workflows.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["healthcare agent", "medical agent", "clinical agent", "ehr agent", "patient triage"],
+      "github_search_queries": ["topic:healthcare-agent", "topic:medical-ai-agent", "topic:clinical-ai"],
+      "huggingface_filters": { "tags": ["agent", "medical", "healthcare"] }
+    },
+    {
+      "slug": "travel-planning",
+      "name": "Travel Planning",
+      "description": "Agents for itinerary planning, flight/hotel search, multi-city logistics, and personalized recommendations.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["travel agent", "itinerary agent", "trip planner ai", "vacation agent"],
+      "github_search_queries": ["topic:travel-agent", "topic:itinerary-ai", "topic:trip-planner"],
+      "huggingface_filters": { "tags": ["agent", "travel"] }
+    },
+    {
+      "slug": "sales-crm",
+      "name": "Sales & CRM",
+      "description": "Agents for lead qualification, outbound prospecting, CRM data hygiene, and sales pipeline automation.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["sales agent", "crm agent", "lead generation agent", "outbound agent", "prospecting ai"],
+      "github_search_queries": ["topic:sales-agent", "topic:crm-ai", "topic:lead-gen-ai"],
+      "huggingface_filters": { "tags": ["agent", "sales", "crm"] }
+    },
+    {
+      "slug": "marketing",
+      "name": "Marketing",
+      "description": "Agents for campaign planning, ad copy generation, audience analysis, and marketing automation.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["marketing agent", "ad copy agent", "campaign agent", "audience analysis ai"],
+      "github_search_queries": ["topic:marketing-agent", "topic:ad-copy-ai", "topic:campaign-ai"],
+      "huggingface_filters": { "tags": ["agent", "marketing"] }
+    },
+    {
+      "slug": "social-media",
+      "name": "Social Media",
+      "description": "Agents for posting, scheduling, engagement monitoring, content moderation, and trend analysis across platforms.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["social media agent", "twitter agent", "engagement agent", "moderation agent", "content scheduler"],
+      "github_search_queries": ["topic:social-media-agent", "topic:twitter-bot-ai", "topic:content-moderation-ai"],
+      "huggingface_filters": { "tags": ["agent", "social-media"] }
+    },
+    {
+      "slug": "e-commerce",
+      "name": "E-commerce",
+      "description": "Agents for product catalog management, pricing intelligence, customer journey automation, and inventory.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["ecommerce agent", "shopping agent", "product agent", "pricing agent", "inventory ai"],
+      "github_search_queries": ["topic:ecommerce-agent", "topic:shopping-ai", "topic:product-catalog-ai"],
+      "huggingface_filters": { "tags": ["agent", "ecommerce"] }
+    },
+    {
+      "slug": "real-estate",
+      "name": "Real Estate",
+      "description": "Agents for property search, market analysis, comparable valuation, and listing generation.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["real estate agent ai", "property agent", "mls agent", "comparable analysis"],
+      "github_search_queries": ["topic:real-estate-ai", "topic:property-agent", "topic:mls-ai"],
+      "huggingface_filters": { "tags": ["agent", "real-estate"] }
+    },
+    {
+      "slug": "cooking",
+      "name": "Cooking",
+      "description": "Agents for recipe generation, meal planning, dietary adaptation, and pantry-based cooking.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["cooking agent", "recipe agent", "meal plan agent", "kitchen ai"],
+      "github_search_queries": ["topic:cooking-ai", "topic:recipe-agent", "topic:meal-planning-ai"],
+      "huggingface_filters": { "tags": ["agent", "cooking", "recipe"] }
+    },
+    {
+      "slug": "music",
+      "name": "Music",
+      "description": "Agents for composition, arrangement, production assistance, and music theory analysis.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["music agent", "composition agent", "music generation ai", "midi agent"],
+      "github_search_queries": ["topic:music-agent", "topic:music-generation-ai", "topic:midi-ai"],
+      "huggingface_filters": { "tags": ["agent", "music"] }
+    },
+    {
+      "slug": "game-playing",
+      "name": "Game Playing",
+      "description": "Agents that play and reason about games — strategy, board games, video games, simulations.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["game agent", "game playing agent", "rl agent", "minecraft agent", "chess agent"],
+      "github_search_queries": ["topic:game-agent", "topic:game-playing-ai", "topic:minecraft-agent"],
+      "huggingface_filters": { "tags": ["agent", "game", "reinforcement-learning"] }
+    },
+    {
+      "slug": "robotics",
+      "name": "Robotics",
+      "description": "Agents for robot control, motion planning, simulation, and embodied task execution.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["robotics agent", "robot agent", "embodied agent", "manipulation agent", "ros agent"],
+      "github_search_queries": ["topic:robotics-agent", "topic:embodied-agent", "topic:robot-ai"],
+      "huggingface_filters": { "tags": ["agent", "robotics", "embodied"] }
+    },
+    {
+      "slug": "knowledge-management",
+      "name": "Knowledge Management",
+      "description": "Agents for personal/team knowledge bases — note-taking, linking, summarization, second-brain workflows.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["knowledge agent", "note agent", "obsidian agent", "second brain ai", "wiki agent"],
+      "github_search_queries": ["topic:knowledge-management-ai", "topic:note-taking-agent", "topic:obsidian-ai"],
+      "huggingface_filters": { "tags": ["agent", "knowledge-management"] }
+    },
+    {
+      "slug": "pdf-forms",
+      "name": "PDF & Forms",
+      "description": "Agents for filling PDFs, parsing forms, extracting tables, and automating form-driven workflows.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["pdf agent", "form agent", "form filling agent", "pdf extraction agent"],
+      "github_search_queries": ["topic:pdf-agent", "topic:form-filling-ai", "topic:pdf-extraction"],
+      "huggingface_filters": { "tags": ["agent", "pdf", "forms"] }
+    },
+    {
+      "slug": "spreadsheet-excel",
+      "name": "Spreadsheet & Excel",
+      "description": "Agents for spreadsheet automation — formulas, pivot tables, data cleaning, multi-sheet workflows.",
+      "benchmark_anchor": {
+        "name": "SpreadsheetBench",
+        "leaderboard_url": "https://github.com/RUCKBReasoning/SpreadsheetBench",
+        "weight_share": 0.30
+      },
+      "seed_keywords": ["spreadsheet agent", "excel agent", "google sheets agent", "spreadsheetbench"],
+      "github_search_queries": ["topic:spreadsheet-agent", "topic:excel-ai-agent", "topic:sheets-ai"],
+      "huggingface_filters": { "tags": ["agent", "spreadsheet", "excel"] }
+    },
+    {
+      "slug": "sql-analytics",
+      "name": "SQL & Analytics",
+      "description": "Agents for natural-language to SQL, query optimization, data warehouse exploration, and analytics workflows.",
+      "benchmark_anchor": {
+        "name": "BIRD-bench",
+        "leaderboard_url": "https://bird-bench.github.io/",
+        "weight_share": 0.30
+      },
+      "seed_keywords": ["sql agent", "text-to-sql", "bird-bench", "analytics agent", "data warehouse ai"],
+      "github_search_queries": ["topic:text-to-sql", "topic:sql-agent", "topic:analytics-agent"],
+      "huggingface_filters": { "tags": ["agent", "sql", "text-to-sql"] }
+    },
+    {
+      "slug": "3d-cad",
+      "name": "3D & CAD",
+      "description": "Agents for 3D modeling, parametric CAD, mesh editing, and design exploration.",
+      "benchmark_anchor": null,
+      "seed_keywords": ["3d agent", "cad agent", "openscad agent", "blender agent", "parametric design ai"],
+      "github_search_queries": ["topic:3d-agent", "topic:cad-ai", "topic:blender-ai"],
+      "huggingface_filters": { "tags": ["agent", "3d", "cad"] }
+    }
+  ]
+}

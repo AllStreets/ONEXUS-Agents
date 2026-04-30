@@ -1,1 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Node / Astro
+node_modules/
+.astro/
+dist/
+.output/
+
+# Vercel
+.vercel/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local pipeline artifacts
+.cache/
+.crawl-cache/
+*.local.env
+.env
+
+# Brainstorming companion (not for git)
 .superpowers/
