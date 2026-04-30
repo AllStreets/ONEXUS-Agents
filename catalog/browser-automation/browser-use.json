@@ -25,7 +25,7 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 91257,
+    "stars": 91379,
     "downloads_30d": null,
     "last_commit_at": "2026-04-26T16:59:07Z",
     "first_commit_at": "2024-10-31T16:00:29Z"
@@ -38,11 +38,11 @@
       "source_url": "https://webarena.dev/"
     }
   ],
-  "runnable": true,
-  "adapter_ref": "adapters/browser-use/mcp.json",
-  "composite_score": 0.5476,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5348,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-30T03:22:29.300580Z"
+  "last_refreshed_at": "2026-04-30T15:59:15.193733Z"
 }

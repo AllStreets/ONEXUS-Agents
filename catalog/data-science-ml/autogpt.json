@@ -28,17 +28,17 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 183886,
+    "stars": 183899,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-30T01:31:34Z",
+    "last_commit_at": "2026-04-30T15:57:03Z",
     "first_commit_at": "2023-03-16T02:58:21Z"
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "adapters/autogpt/mcp.json",
-  "composite_score": 0.7099,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.71,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-04-30T03:21:53.941549Z",
-  "last_refreshed_at": "2026-04-30T03:21:53.941552Z"
+  "last_refreshed_at": "2026-04-30T15:58:47.550377Z"
 }
