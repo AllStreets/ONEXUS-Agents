@@ -88,7 +88,7 @@ const benched = cats.categories.filter((c) => c.benchmark_anchor);
     <section class="mb-10">
       <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Drops and reinstatement</h2>
       <p class="text-[var(--color-fg-dim)]">
-        An agent that falls below rank 100 is removed from its category's catalog at the next nightly run.
+        An agent that falls below rank 100 is removed from its category's catalog at the next daily run.
         It can re-enter at any time if its score recovers — there is no permanent ban.
         Every drop is logged with the displacing agent in <code class="mono">catalog/_dropped/</code> for full traceability.
       </p>
