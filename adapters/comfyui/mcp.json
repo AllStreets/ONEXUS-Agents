@@ -1,0 +1,40 @@
+{
+  "name": "comfyui",
+  "version": "0.1.0",
+  "agent_slug": "comfyui",
+  "category": "image-generation",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.comfyui.server"],
+  "env": {
+    "COMFYUI_HOST": {
+      "required": false,
+      "description": "Host:port of a running ComfyUI server (e.g. 127.0.0.1:8188). Defaults to 127.0.0.1:8188."
+    },
+    "COMFYUI_API_BASE": {
+      "required": false,
+      "description": "Full API base URL. Overrides COMFYUI_HOST when set (use for hosted/HTTPS deployments)."
+    },
+    "WORKFLOW_DIR": {
+      "required": false,
+      "description": "Directory containing reusable workflow JSON graphs. Defaults to ./workflows."
+    },
+    "OUTPUT_DIR": {
+      "required": false,
+      "description": "Directory to write generated images into. Defaults to ./output."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "run_workflow",
+      "queue_prompt",
+      "get_history",
+      "list_models",
+      "load_workflow"
+    ],
+    "resources": ["filesystem", "comfyui_server"]
+  },
+  "trust_floor": 0.4,
+  "default_tier": "ADVISOR",
+  "notes": "Wraps a running ComfyUI server. ADVISOR tier — generated outputs are previewed before write-out since image gen can be expensive (GPU time, queue saturation). Requires a separately-running ComfyUI server; the adapter does not spawn it. License is GPL-3.0."
+}
