@@ -1,0 +1,114 @@
+---
+import Icon from "./Icon.astro";
+import { formatStars, relativeDays, formatScore, categoryGlyph } from "@/lib/format";
+import type { Agent } from "@/lib/catalog";
+
+type Props = { agent: Agent; showCategory?: boolean };
+const { agent, showCategory = false } = Astro.props;
+
+const href = `/catalog/${agent.category}/${agent.slug}`;
+const ghHref = agent.source.github ? `https://github.com/${agent.source.github}` : null;
+const hfHref = agent.source.huggingface ? `https://huggingface.co/${agent.source.huggingface}` : null;
+const homeHref = agent.source.homepage;
+const benchmark = agent.benchmarks?.[0];
+---
+
+<tr class="border-b border-[var(--color-border)] last:border-b-0 hover:bg-[var(--color-panel-2)] transition-colors group">
+  <td class="px-4 py-3 text-right font-mono text-sm text-[var(--color-fg-mute)] w-12">
+    {agent.rank_in_category}
+  </td>
+
+  <td class="px-2 py-3 w-10">
+    <span class="inline-flex items-center justify-center w-8 h-8 rounded-md border border-[var(--color-border)] text-[var(--color-fg-dim)] group-hover:text-[var(--color-accent)] group-hover:border-[var(--color-accent)] transition-colors">
+      <Icon name={categoryGlyph(agent.category)} size="sm" />
+    </span>
+  </td>
+
+  <td class="px-3 py-3 min-w-0">
+    <a href={href} class="block">
+      <div class="flex items-center gap-2 mb-0.5">
+        <span class="font-mono text-[var(--color-fg)] group-hover:text-[var(--color-accent)] transition-colors truncate">
+          {agent.name}
+        </span>
+        {agent.runnable && (
+          <span class="badge badge-accent" title="Runnable via MCP adapter">
+            <Icon name="play" size="sm" />
+            <span>runnable</span>
+          </span>
+        )}
+        {showCategory && (
+          <a
+            href={`/catalog/${agent.category}`}
+            class="badge hover:border-[var(--color-accent)] hover:text-[var(--color-accent)]"
+            onclick="event.stopPropagation()"
+          >{agent.category}</a>
+        )}
+      </div>
+      <div class="text-sm text-[var(--color-fg-dim)] truncate">{agent.tagline}</div>
+    </a>
+  </td>
+
+  <td class="px-3 py-3 font-mono text-sm text-right whitespace-nowrap text-[var(--color-fg-dim)] w-20">
+    <span class="inline-flex items-center gap-1">
+      <Icon name="star" size="sm" class="text-[var(--color-fg-mute)]" />
+      {formatStars(agent.metrics.stars)}
+    </span>
+  </td>
+
+  <td class="px-3 py-3 font-mono text-sm text-right whitespace-nowrap text-[var(--color-fg-dim)] w-24 hidden md:table-cell">
+    <span class="inline-flex items-center gap-1">
+      <Icon name="git-commit" size="sm" class="text-[var(--color-fg-mute)]" />
+      {relativeDays(agent.metrics.last_commit_at)}
+    </span>
+  </td>
+
+  <td class="px-3 py-3 text-right whitespace-nowrap w-32">
+    <div class="font-mono text-sm text-[var(--color-fg)]">{formatScore(agent.composite_score)}</div>
+    {benchmark && (
+      <div class="font-mono text-[11px] text-[var(--color-accent)] mt-0.5">
+        {benchmark.name.replace(/-bench.*/, "")} {benchmark.score}
+      </div>
+    )}
+  </td>
+
+  <td class="px-3 py-3 text-right w-28">
+    <div class="inline-flex items-center gap-1">
+      {ghHref && (
+        <a
+          href={ghHref}
+          target="_blank"
+          rel="noopener"
+          class="inline-flex items-center justify-center w-7 h-7 rounded-md border border-[var(--color-border)] text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] hover:border-[var(--color-accent)] transition-colors"
+          title="GitHub"
+          onclick="event.stopPropagation()"
+        >
+          <Icon name="github" size="sm" />
+        </a>
+      )}
+      {hfHref && (
+        <a
+          href={hfHref}
+          target="_blank"
+          rel="noopener"
+          class="inline-flex items-center justify-center w-7 h-7 rounded-md border border-[var(--color-border)] text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] hover:border-[var(--color-accent)] transition-colors"
+          title="Hugging Face"
+          onclick="event.stopPropagation()"
+        >
+          <Icon name="huggingface" size="sm" />
+        </a>
+      )}
+      {homeHref && (
+        <a
+          href={homeHref}
+          target="_blank"
+          rel="noopener"
+          class="inline-flex items-center justify-center w-7 h-7 rounded-md border border-[var(--color-border)] text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] hover:border-[var(--color-accent)] transition-colors"
+          title="Homepage"
+          onclick="event.stopPropagation()"
+        >
+          <Icon name="external-link" size="sm" />
+        </a>
+      )}
+    </div>
+  </td>
+</tr>

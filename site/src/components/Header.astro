@@ -1,0 +1,46 @@
+---
+import Icon from "./Icon.astro";
+const { current = "" } = Astro.props;
+const links = [
+  { href: "/catalog", label: "Catalog", key: "catalog" },
+  { href: "/methodology", label: "Methodology", key: "methodology" },
+  { href: "/submit", label: "Submit", key: "submit" },
+  { href: "/about", label: "About", key: "about" },
+];
+---
+
+<header class="border-b border-[var(--color-border)] bg-[var(--color-bg)]/90 backdrop-blur sticky top-0 z-30">
+  <div class="max-w-7xl mx-auto px-6 h-14 flex items-center justify-between">
+    <a href="/" class="flex items-center gap-2.5 group">
+      <span class="inline-flex items-center justify-center w-7 h-7 rounded-md border border-[var(--color-border)] group-hover:border-[var(--color-accent)] transition-colors">
+        <Icon name="sparkles" size="sm" class="text-[var(--color-accent)]" />
+      </span>
+      <span class="font-mono text-sm tracking-tight">
+        ONEXUS<span class="text-[var(--color-fg-mute)]">/</span>Agents
+      </span>
+    </a>
+
+    <nav class="flex items-center gap-1">
+      {links.map((l) => (
+        <a
+          href={l.href}
+          class:list={[
+            "px-3 py-1.5 rounded-md text-sm font-mono transition-colors",
+            current === l.key
+              ? "text-[var(--color-accent)] bg-[var(--color-panel)]"
+              : "text-[var(--color-fg-dim)] hover:text-[var(--color-fg)] hover:bg-[var(--color-panel)]",
+          ]}
+        >
+          {l.label}
+        </a>
+      ))}
+      <a
+        href="https://github.com/AllStreets/ONEXUS-Agents"
+        class="ml-2 px-3 py-1.5 rounded-md text-sm font-mono text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] flex items-center gap-1.5 border border-[var(--color-border)] hover:border-[var(--color-accent)] transition-colors"
+      >
+        <Icon name="github" size="sm" />
+        <span>GitHub</span>
+      </a>
+    </nav>
+  </div>
+</header>

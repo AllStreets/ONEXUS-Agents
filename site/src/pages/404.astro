@@ -1,0 +1,19 @@
+---
+import Base from "@/layouts/Base.astro";
+import Icon from "@/components/Icon.astro";
+---
+
+<Base title="Not found — ONEXUS-Agents">
+  <div class="max-w-xl mx-auto px-6 py-24 text-center">
+    <div class="font-mono text-6xl text-[var(--color-fg-mute)] mb-3">404</div>
+    <h1 class="text-2xl font-bold mb-3">Not found</h1>
+    <p class="text-[var(--color-fg-dim)] mb-6">
+      That page doesn't exist. The agent may have been dropped from the catalog,
+      or the slug may have changed.
+    </p>
+    <a href="/catalog" class="inline-flex items-center gap-2 px-4 py-2 rounded-md bg-[var(--color-accent)] text-[var(--color-bg)] font-mono text-sm">
+      <Icon name="list" size="sm" />
+      Browse catalog
+    </a>
+  </div>
+</Base>

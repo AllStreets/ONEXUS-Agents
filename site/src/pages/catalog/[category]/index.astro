@@ -1,0 +1,78 @@
+---
+import Base from "@/layouts/Base.astro";
+import Icon from "@/components/Icon.astro";
+import AgentRow from "@/components/AgentRow.astro";
+import { loadCategories, agentsByCategory, categoryBySlug } from "@/lib/catalog";
+import { categoryGlyph } from "@/lib/format";
+
+export function getStaticPaths() {
+  const cats = loadCategories();
+  return cats.categories.map((c) => ({ params: { category: c.slug } }));
+}
+
+const { category: slug } = Astro.params;
+const category = categoryBySlug(slug!);
+if (!category) throw new Error(`Unknown category: ${slug}`);
+const agents = agentsByCategory(slug!);
+const anchor = category.benchmark_anchor;
+---
+
+<Base current="catalog" title={`${category.name} agents — ONEXUS-Agents`}>
+  <div class="max-w-7xl mx-auto px-6 py-12">
+    <a href="/catalog" class="inline-flex items-center gap-1.5 text-sm font-mono text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] mb-6">
+      <Icon name="arrow-left" size="sm" />
+      All categories
+    </a>
+
+    <header class="flex items-start gap-5 mb-10">
+      <span class="inline-flex items-center justify-center w-14 h-14 rounded-lg border border-[var(--color-border)] text-[var(--color-accent)]">
+        <Icon name={categoryGlyph(category.slug)} size="xl" />
+      </span>
+      <div class="flex-1">
+        <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-1">{category.slug}</div>
+        <h1 class="text-3xl font-bold mb-2">{category.name}</h1>
+        <p class="text-[var(--color-fg-dim)] max-w-2xl">{category.description}</p>
+
+        <div class="mt-4 flex flex-wrap items-center gap-2">
+          <span class="badge"><Icon name="list" size="sm" />{agents.length} ranked</span>
+          {anchor ? (
+            <a href={anchor.leaderboard_url} target="_blank" rel="noopener" class="badge badge-accent">
+              <Icon name="check" size="sm" />
+              {anchor.name} ({Math.round(anchor.weight_share * 100)}% of score)
+              <Icon name="external-link" size="sm" />
+            </a>
+          ) : (
+            <span class="badge"><Icon name="circle" size="sm" />Popularity-ranked</span>
+          )}
+        </div>
+      </div>
+    </header>
+
+    {agents.length > 0 ? (
+      <div class="panel overflow-hidden">
+        <table class="w-full">
+          <thead>
+            <tr class="border-b border-[var(--color-border)] bg-[var(--color-panel-2)]">
+              <th class="px-4 py-2 text-right font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)] w-12">#</th>
+              <th class="w-10"></th>
+              <th class="px-3 py-2 text-left font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)]">Agent</th>
+              <th class="px-3 py-2 text-right font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)]">Stars</th>
+              <th class="px-3 py-2 text-right font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)] hidden md:table-cell">Last commit</th>
+              <th class="px-3 py-2 text-right font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)]">Score</th>
+              <th class="px-3 py-2 text-right font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)]">Links</th>
+            </tr>
+          </thead>
+          <tbody>
+            {agents.map((a) => <AgentRow agent={a} />)}
+          </tbody>
+        </table>
+      </div>
+    ) : (
+      <div class="panel p-8 text-center text-[var(--color-fg-dim)]">
+        <Icon name="sparkles" class="mx-auto mb-3 text-[var(--color-fg-mute)]" />
+        <p>No agents indexed in this category yet. The next nightly run will populate it.</p>
+        <a href="/submit" class="font-mono text-sm text-[var(--color-accent)] mt-3 inline-block">Submit one</a>
+      </div>
+    )}
+  </div>
+</Base>

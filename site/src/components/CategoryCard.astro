@@ -1,0 +1,37 @@
+---
+import Icon from "./Icon.astro";
+import { categoryGlyph } from "@/lib/format";
+import type { Category } from "@/lib/catalog";
+
+type Props = { category: Category; count: number };
+const { category, count } = Astro.props;
+---
+
+<a
+  href={`/catalog/${category.slug}`}
+  class="panel p-5 block hover:border-[var(--color-accent)] transition-colors group"
+>
+  <div class="flex items-start justify-between mb-3">
+    <span class="inline-flex items-center justify-center w-9 h-9 rounded-md border border-[var(--color-border)] text-[var(--color-fg-dim)] group-hover:text-[var(--color-accent)] group-hover:border-[var(--color-accent)] transition-colors">
+      <Icon name={categoryGlyph(category.slug)} />
+    </span>
+    <span class="font-mono text-xs text-[var(--color-fg-mute)]">{count}</span>
+  </div>
+
+  <div class="font-mono text-sm text-[var(--color-fg)] group-hover:text-[var(--color-accent)] transition-colors mb-1">
+    {category.name}
+  </div>
+
+  <p class="text-sm text-[var(--color-fg-dim)] line-clamp-2 leading-snug">
+    {category.description}
+  </p>
+
+  {category.benchmark_anchor && (
+    <div class="mt-3 pt-3 border-t border-[var(--color-border)]">
+      <span class="badge badge-accent">
+        <Icon name="check" size="sm" />
+        <span>{category.benchmark_anchor.name}</span>
+      </span>
+    </div>
+  )}
+</a>

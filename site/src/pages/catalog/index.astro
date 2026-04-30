@@ -1,0 +1,43 @@
+---
+import Base from "@/layouts/Base.astro";
+import Icon from "@/components/Icon.astro";
+import CategoryCard from "@/components/CategoryCard.astro";
+import { loadCategories, categoryCounts, totalAgentCount } from "@/lib/catalog";
+
+const cats = loadCategories();
+const counts = categoryCounts();
+const total = totalAgentCount();
+const benchmarked = cats.categories.filter((c) => c.benchmark_anchor);
+const standard = cats.categories.filter((c) => !c.benchmark_anchor);
+---
+
+<Base current="catalog" title="Catalog — ONEXUS-Agents">
+  <div class="max-w-7xl mx-auto px-6 py-12">
+    <div class="mb-10">
+      <h1 class="text-4xl font-bold mb-3">Catalog</h1>
+      <p class="text-[var(--color-fg-dim)] max-w-2xl">
+        {total} agents across {cats.categories.length} categories. Each category lists its top 100 by composite score.
+      </p>
+    </div>
+
+    <section class="mb-12">
+      <div class="flex items-center gap-2 mb-4">
+        <Icon name="check" size="sm" class="text-[var(--color-accent)]" />
+        <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider">Benchmark-anchored ({benchmarked.length})</h2>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+        {benchmarked.map((c) => <CategoryCard category={c} count={counts[c.slug] ?? 0} />)}
+      </div>
+    </section>
+
+    <section>
+      <div class="flex items-center gap-2 mb-4">
+        <Icon name="circle" size="sm" class="text-[var(--color-fg-mute)]" />
+        <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider">Popularity-ranked ({standard.length})</h2>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+        {standard.map((c) => <CategoryCard category={c} count={counts[c.slug] ?? 0} />)}
+      </div>
+    </section>
+  </div>
+</Base>

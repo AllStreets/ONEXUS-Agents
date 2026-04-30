@@ -1,0 +1,108 @@
+---
+import Base from "@/layouts/Base.astro";
+import Icon from "@/components/Icon.astro";
+import { loadCategories } from "@/lib/catalog";
+const cats = loadCategories();
+const benched = cats.categories.filter((c) => c.benchmark_anchor);
+---
+
+<Base current="methodology" title="Methodology — ONEXUS-Agents">
+  <div class="max-w-3xl mx-auto px-6 py-12">
+    <h1 class="text-4xl font-bold mb-3">Methodology</h1>
+    <p class="text-[var(--color-fg-dim)] mb-10">
+      Every score in this catalog is computed from the same composite formula.
+      No editorial weighting, no paid placement, no hidden adjustments.
+    </p>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">With benchmark</h2>
+      <div class="panel p-5">
+        <pre class="font-mono text-sm leading-relaxed"><code>composite =
+    0.30 * benchmark
+  + 0.18 * stars        (log-normalized within category)
+  + 0.18 * downloads    (log-normalized within category)
+  + 0.14 * recency      (last commit decay, half-life 90d)
+  + 0.05 * age          (project maturity, capped at 24mo)
+  + 0.05 * runnable     (1 if MCP adapter exists, else 0)
+  + 0.10 * reserved     (community signal, future)</code></pre>
+      </div>
+      <p class="mt-3 text-sm text-[var(--color-fg-dim)]">
+        Used for {benched.length} categories with peer-recognized benchmarks:
+        {benched.map((c, i) => (
+          <>
+            {i > 0 && ", "}
+            <a href={`/catalog/${c.slug}`} class="text-[var(--color-fg)] hover:text-[var(--color-accent)] mono">{c.name}</a>
+          </>
+        ))}.
+      </p>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Without benchmark</h2>
+      <div class="panel p-5">
+        <pre class="font-mono text-sm leading-relaxed"><code>composite =
+    0.28 * stars
+  + 0.28 * downloads
+  + 0.22 * recency
+  + 0.07 * age
+  + 0.05 * runnable
+  + 0.10 * reserved</code></pre>
+      </div>
+      <p class="mt-3 text-sm text-[var(--color-fg-dim)]">
+        Used for the remaining {cats.categories.length - benched.length} categories.
+        As public benchmarks emerge in those areas, they'll be wired into <code class="mono">_categories.json</code>
+        and the formula will switch automatically for that category on the next run.
+      </p>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Pipeline</h2>
+      <ol class="space-y-3 text-[var(--color-fg-dim)]">
+        <li class="flex gap-3">
+          <span class="font-mono text-[var(--color-accent)] shrink-0">01</span>
+          <span><span class="text-[var(--color-fg)] font-mono">refresh seeds</span> — re-fetch metrics for every entry in <code class="mono">seeds/*.yaml</code> from GitHub and Hugging Face APIs.</span>
+        </li>
+        <li class="flex gap-3">
+          <span class="font-mono text-[var(--color-accent)] shrink-0">02</span>
+          <span><span class="text-[var(--color-fg)] font-mono">auto-discover</span> — run each category's GitHub topic queries and Hugging Face filters; deduplicate against the existing catalog.</span>
+        </li>
+        <li class="flex gap-3">
+          <span class="font-mono text-[var(--color-accent)] shrink-0">03</span>
+          <span><span class="text-[var(--color-fg)] font-mono">classify</span> — heuristic keyword match first; ambiguous candidates fall through to Claude Haiku for category assignment.</span>
+        </li>
+        <li class="flex gap-3">
+          <span class="font-mono text-[var(--color-accent)] shrink-0">04</span>
+          <span><span class="text-[var(--color-fg)] font-mono">score</span> — apply the composite formula per category; benchmark slot pulled from the relevant leaderboard scraper when available.</span>
+        </li>
+        <li class="flex gap-3">
+          <span class="font-mono text-[var(--color-accent)] shrink-0">05</span>
+          <span><span class="text-[var(--color-fg)] font-mono">truncate</span> — keep the top 100 per category. Drops are recorded in <code class="mono">catalog/_dropped/&lt;date&gt;.json</code>.</span>
+        </li>
+        <li class="flex gap-3">
+          <span class="font-mono text-[var(--color-accent)] shrink-0">06</span>
+          <span><span class="text-[var(--color-fg)] font-mono">commit</span> — push the diff. Vercel rebuilds the dashboard. The git history is the audit log.</span>
+        </li>
+      </ol>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Drops and reinstatement</h2>
+      <p class="text-[var(--color-fg-dim)]">
+        An agent that falls below rank 100 is removed from its category's catalog at the next nightly run.
+        It can re-enter at any time if its score recovers — there is no permanent ban.
+        Every drop is logged with the displacing agent in <code class="mono">catalog/_dropped/</code> for full traceability.
+      </p>
+    </section>
+
+    <section>
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Takedowns</h2>
+      <p class="text-[var(--color-fg-dim)]">
+        If you are an agent maintainer and want your project removed from the catalog,
+        open a GitHub issue with the title <code class="mono">takedown: &lt;slug&gt;</code>. We honor takedown requests within 24 hours.
+      </p>
+      <a href="https://github.com/AllStreets/ONEXUS-Agents/issues/new" class="mt-4 inline-flex items-center gap-1.5 font-mono text-sm text-[var(--color-accent)]">
+        Open an issue <Icon name="external-link" size="sm" />
+      </a>
+    </section>
+  </div>
+</Base>

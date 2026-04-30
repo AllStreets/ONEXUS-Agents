@@ -1,0 +1,51 @@
+---
+import Icon from "./Icon.astro";
+import { totalAgentCount, loadCategories } from "@/lib/catalog";
+const total = totalAgentCount();
+const cats = loadCategories();
+---
+
+<footer class="border-t border-[var(--color-border)] mt-24">
+  <div class="max-w-7xl mx-auto px-6 py-10 grid grid-cols-2 md:grid-cols-4 gap-8 text-sm">
+    <div>
+      <div class="font-mono text-[var(--color-fg)] mb-3 flex items-center gap-2">
+        <Icon name="sparkles" size="sm" class="text-[var(--color-accent)]" />
+        ONEXUS-Agents
+      </div>
+      <p class="text-[var(--color-fg-dim)] leading-relaxed">
+        The largest continuously-updated public catalog of open-source agents.
+        Updated nightly at 00:00 UTC.
+      </p>
+    </div>
+    <div>
+      <div class="font-mono text-[var(--color-fg-dim)] text-xs uppercase tracking-wider mb-3">Catalog</div>
+      <ul class="space-y-1.5">
+        <li><a href="/catalog">Browse all categories</a></li>
+        <li><a href="/methodology">Methodology</a></li>
+        <li><a href="/submit">Submit an agent</a></li>
+      </ul>
+    </div>
+    <div>
+      <div class="font-mono text-[var(--color-fg-dim)] text-xs uppercase tracking-wider mb-3">Project</div>
+      <ul class="space-y-1.5">
+        <li><a href="https://github.com/AllStreets/ONEXUS-Agents">GitHub repo</a></li>
+        <li><a href="https://github.com/AllStreets/ONEXUS-Agents/blob/main/LICENSE">License (Apache-2.0)</a></li>
+        <li><a href="/about">About</a></li>
+      </ul>
+    </div>
+    <div>
+      <div class="font-mono text-[var(--color-fg-dim)] text-xs uppercase tracking-wider mb-3">Stats</div>
+      <ul class="space-y-1.5 font-mono text-xs">
+        <li><span class="text-[var(--color-fg-dim)]">agents:</span> {total}</li>
+        <li><span class="text-[var(--color-fg-dim)]">categories:</span> {cats.categories.length}</li>
+        <li><span class="text-[var(--color-fg-dim)]">cadence:</span> 00:00 UTC</li>
+      </ul>
+    </div>
+  </div>
+  <div class="border-t border-[var(--color-border)]">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between text-xs font-mono text-[var(--color-fg-mute)]">
+      <span>Apache-2.0 · part of the ONEXUS project</span>
+      <span>v0.1.0</span>
+    </div>
+  </div>
+</footer>

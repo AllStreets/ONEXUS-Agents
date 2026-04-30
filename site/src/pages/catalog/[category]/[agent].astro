@@ -1,0 +1,165 @@
+---
+import Base from "@/layouts/Base.astro";
+import Icon from "@/components/Icon.astro";
+import { loadAllAgents, agentBySlug, categoryBySlug } from "@/lib/catalog";
+import { formatStars, relativeDays, formatDate, formatScore, categoryGlyph } from "@/lib/format";
+
+export function getStaticPaths() {
+  return loadAllAgents().map((a) => ({
+    params: { category: a.category, agent: a.slug },
+  }));
+}
+
+const { category: catSlug, agent: agentSlug } = Astro.params;
+const agent = agentBySlug(catSlug!, agentSlug!);
+if (!agent) throw new Error(`Unknown agent: ${catSlug}/${agentSlug}`);
+const category = categoryBySlug(catSlug!);
+if (!category) throw new Error(`Unknown category: ${catSlug}`);
+
+const ghHref = agent.source.github ? `https://github.com/${agent.source.github}` : null;
+const hfHref = agent.source.huggingface ? `https://huggingface.co/${agent.source.huggingface}` : null;
+const homeHref = agent.source.homepage;
+const benchmark = agent.benchmarks?.[0];
+const ageDays = agent.metrics.first_commit_at
+  ? Math.floor((Date.now() - new Date(agent.metrics.first_commit_at).getTime()) / 86_400_000)
+  : null;
+---
+
+<Base current="catalog" title={`${agent.name} — ${category.name} — ONEXUS-Agents`} description={agent.tagline}>
+  <div class="max-w-5xl mx-auto px-6 py-12">
+    <nav class="flex items-center gap-1.5 text-sm font-mono text-[var(--color-fg-dim)] mb-6">
+      <a href="/catalog" class="hover:text-[var(--color-accent)]">catalog</a>
+      <span class="text-[var(--color-fg-mute)]">/</span>
+      <a href={`/catalog/${category.slug}`} class="hover:text-[var(--color-accent)]">{category.slug}</a>
+      <span class="text-[var(--color-fg-mute)]">/</span>
+      <span class="text-[var(--color-fg)]">{agent.slug}</span>
+    </nav>
+
+    <header class="flex items-start gap-5 mb-8">
+      <span class="inline-flex items-center justify-center w-14 h-14 rounded-lg border border-[var(--color-border)] text-[var(--color-accent)]">
+        <Icon name={categoryGlyph(agent.category)} size="xl" />
+      </span>
+      <div class="flex-1">
+        <div class="flex items-center gap-2 mb-2">
+          <span class="font-mono text-xs text-[var(--color-fg-mute)]">rank</span>
+          <span class="font-mono text-xs text-[var(--color-fg-dim)]">#{agent.rank_in_category}</span>
+          <span class="text-[var(--color-fg-mute)]">·</span>
+          <a href={`/catalog/${agent.category}`} class="font-mono text-xs text-[var(--color-fg-dim)] hover:text-[var(--color-accent)]">{category.name}</a>
+        </div>
+        <h1 class="text-4xl font-bold mb-2">{agent.name}</h1>
+        <p class="text-lg text-[var(--color-fg-dim)] mb-4">{agent.tagline}</p>
+
+        <div class="flex flex-wrap items-center gap-2">
+          {agent.runnable && (
+            <span class="badge badge-accent">
+              <Icon name="play" size="sm" />runnable via MCP
+            </span>
+          )}
+          <span class="badge"><Icon name="check" size="sm" />{agent.license}</span>
+          {agent.tags.map((t) => <span class="badge">{t}</span>)}
+        </div>
+      </div>
+    </header>
+
+    <section class="grid grid-cols-2 md:grid-cols-4 gap-3 mb-10">
+      <div class="panel p-4">
+        <div class="font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)] mb-1">Composite</div>
+        <div class="font-mono text-2xl text-[var(--color-fg)]">{formatScore(agent.composite_score)}</div>
+      </div>
+      <div class="panel p-4">
+        <div class="font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)] mb-1">Stars</div>
+        <div class="font-mono text-2xl text-[var(--color-fg)] flex items-center gap-1.5"><Icon name="star" />{formatStars(agent.metrics.stars)}</div>
+      </div>
+      <div class="panel p-4">
+        <div class="font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)] mb-1">Last commit</div>
+        <div class="font-mono text-2xl text-[var(--color-fg)]">{relativeDays(agent.metrics.last_commit_at)}</div>
+      </div>
+      <div class="panel p-4">
+        <div class="font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)] mb-1">Project age</div>
+        <div class="font-mono text-2xl text-[var(--color-fg)]">{ageDays != null ? `${Math.floor(ageDays / 30)}mo` : "—"}</div>
+      </div>
+    </section>
+
+    {benchmark && (
+      <section class="panel p-5 mb-8 border-l-2 border-l-[var(--color-accent)]">
+        <div class="flex items-center justify-between mb-3">
+          <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider">Benchmark</div>
+          <a href={benchmark.source_url} target="_blank" rel="noopener" class="font-mono text-xs text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] flex items-center gap-1">
+            leaderboard <Icon name="external-link" size="sm" />
+          </a>
+        </div>
+        <div class="flex items-end justify-between">
+          <div>
+            <div class="font-mono text-3xl text-[var(--color-accent)]">{benchmark.score}</div>
+            <div class="font-mono text-sm text-[var(--color-fg-dim)] mt-1">{benchmark.name}</div>
+          </div>
+          <div class="font-mono text-xs text-[var(--color-fg-mute)]">as of {benchmark.as_of}</div>
+        </div>
+      </section>
+    )}
+
+    <section class="grid grid-cols-1 md:grid-cols-2 gap-3 mb-10">
+      {ghHref && (
+        <a href={ghHref} target="_blank" rel="noopener" class="panel p-4 flex items-center gap-3 hover:border-[var(--color-accent)] transition-colors group">
+          <Icon name="github" size="lg" class="text-[var(--color-fg-dim)] group-hover:text-[var(--color-accent)]" />
+          <div class="flex-1 min-w-0">
+            <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider">GitHub</div>
+            <div class="font-mono text-sm text-[var(--color-fg)] truncate">{agent.source.github}</div>
+          </div>
+          <Icon name="external-link" size="sm" class="text-[var(--color-fg-mute)]" />
+        </a>
+      )}
+      {hfHref && (
+        <a href={hfHref} target="_blank" rel="noopener" class="panel p-4 flex items-center gap-3 hover:border-[var(--color-accent)] transition-colors group">
+          <Icon name="huggingface" size="lg" class="text-[var(--color-fg-dim)] group-hover:text-[var(--color-accent)]" />
+          <div class="flex-1 min-w-0">
+            <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider">Hugging Face</div>
+            <div class="font-mono text-sm text-[var(--color-fg)] truncate">{agent.source.huggingface}</div>
+          </div>
+          <Icon name="external-link" size="sm" class="text-[var(--color-fg-mute)]" />
+        </a>
+      )}
+      {homeHref && (
+        <a href={homeHref} target="_blank" rel="noopener" class="panel p-4 flex items-center gap-3 hover:border-[var(--color-accent)] transition-colors group">
+          <Icon name="globe" size="lg" class="text-[var(--color-fg-dim)] group-hover:text-[var(--color-accent)]" />
+          <div class="flex-1 min-w-0">
+            <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider">Homepage</div>
+            <div class="font-mono text-sm text-[var(--color-fg)] truncate">{homeHref.replace(/^https?:\/\//, "")}</div>
+          </div>
+          <Icon name="external-link" size="sm" class="text-[var(--color-fg-mute)]" />
+        </a>
+      )}
+      <a href={agent.author.url} target="_blank" rel="noopener" class="panel p-4 flex items-center gap-3 hover:border-[var(--color-accent)] transition-colors group">
+        <Icon name={agent.author.type === "org" ? "library" : "circle"} size="lg" class="text-[var(--color-fg-dim)] group-hover:text-[var(--color-accent)]" />
+        <div class="flex-1 min-w-0">
+          <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider">Author ({agent.author.type})</div>
+          <div class="font-mono text-sm text-[var(--color-fg)] truncate">{agent.author.handle}</div>
+        </div>
+        <Icon name="external-link" size="sm" class="text-[var(--color-fg-mute)]" />
+      </a>
+    </section>
+
+    {agent.runnable && agent.adapter_ref && (
+      <section class="panel-2 p-5 mb-10">
+        <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3 flex items-center gap-2">
+          <Icon name="play" size="sm" class="text-[var(--color-accent)]" />
+          ONEXUS integration
+        </div>
+        <p class="text-[var(--color-fg-dim)] mb-3">
+          This agent is bridged to ONEXUS via an MCP adapter. You can invoke it directly from Cortex.
+        </p>
+        <pre class="bg-[var(--color-bg)] border border-[var(--color-border)] rounded-md p-3 text-xs overflow-x-auto"><code>onexus call {agent.slug} --task "..."</code></pre>
+        <div class="mt-3 text-xs font-mono text-[var(--color-fg-mute)]">
+          adapter: <a href={`https://github.com/AllStreets/ONEXUS-Agents/tree/main/${agent.adapter_ref}`} class="text-[var(--color-fg-dim)] hover:text-[var(--color-accent)]">{agent.adapter_ref}</a>
+        </div>
+      </section>
+    )}
+
+    <section class="text-xs font-mono text-[var(--color-fg-mute)] grid grid-cols-2 md:grid-cols-4 gap-3 pt-6 border-t border-[var(--color-border)]">
+      <div>discovered via <span class="text-[var(--color-fg-dim)]">{agent.discovered_via}</span></div>
+      <div>first seen <span class="text-[var(--color-fg-dim)]">{formatDate(agent.first_seen_at)}</span></div>
+      <div>refreshed <span class="text-[var(--color-fg-dim)]">{formatDate(agent.last_refreshed_at)}</span></div>
+      <div>source <a href={`https://github.com/AllStreets/ONEXUS-Agents/blob/main/catalog/${agent.category}/${agent.slug}.json`} class="text-[var(--color-fg-dim)] hover:text-[var(--color-accent)]">view JSON</a></div>
+    </section>
+  </div>
+</Base>

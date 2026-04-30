@@ -1,0 +1,131 @@
+---
+import Base from "@/layouts/Base.astro";
+import Icon from "@/components/Icon.astro";
+import AgentRow from "@/components/AgentRow.astro";
+import { loadCategories, totalAgentCount, topAgents, categoryCounts } from "@/lib/catalog";
+
+const cats = loadCategories();
+const total = totalAgentCount();
+const top = topAgents(8);
+const counts = categoryCounts();
+const categoriesWithBench = cats.categories.filter((c) => c.benchmark_anchor);
+---
+
+<Base current="">
+  <section class="border-b border-[var(--color-border)]">
+    <div class="max-w-7xl mx-auto px-6 py-20 lg:py-28">
+      <div class="max-w-4xl">
+        <div class="flex items-center gap-2 mb-6">
+          <span class="badge badge-accent">
+            <Icon name="sparkles" size="sm" />
+            <span>updated nightly · 00:00 UTC</span>
+          </span>
+        </div>
+
+        <h1 class="text-5xl lg:text-6xl font-bold tracking-tight leading-[1.05] mb-6">
+          The catalog of the world's most powerful
+          <span class="text-[var(--color-accent)]"> open-source agents.</span>
+        </h1>
+
+        <p class="text-lg text-[var(--color-fg-dim)] leading-relaxed max-w-2xl mb-8">
+          ONEXUS-Agents indexes GitHub and Hugging Face every night, ranks every candidate against a
+          transparent composite of popularity, recency, runnability, and real benchmarks, and
+          publishes the top 100 agents per category as static JSON.
+        </p>
+
+        <div class="flex flex-wrap items-center gap-3">
+          <a
+            href="/catalog"
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-md bg-[var(--color-accent)] text-[var(--color-bg)] font-mono text-sm hover:bg-[var(--color-accent-dim)] transition-colors"
+          >
+            <Icon name="list" size="sm" />
+            Browse catalog
+          </a>
+          <a
+            href="/methodology"
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-md border border-[var(--color-border)] text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] hover:border-[var(--color-accent)] font-mono text-sm transition-colors"
+          >
+            How we rank
+            <Icon name="arrow-right" size="sm" />
+          </a>
+        </div>
+
+        <div class="mt-12 grid grid-cols-3 gap-6 max-w-lg">
+          <div>
+            <div class="font-mono text-3xl text-[var(--color-fg)]">{total}</div>
+            <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">agents</div>
+          </div>
+          <div>
+            <div class="font-mono text-3xl text-[var(--color-fg)]">{cats.categories.length}</div>
+            <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">categories</div>
+          </div>
+          <div>
+            <div class="font-mono text-3xl text-[var(--color-fg)]">{categoriesWithBench.length}</div>
+            <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">benchmarked</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="max-w-7xl mx-auto px-6 py-16">
+    <div class="flex items-end justify-between mb-6">
+      <div>
+        <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-1">Highest scoring</h2>
+        <h3 class="text-2xl">Top agents across the catalog</h3>
+      </div>
+      <a href="/catalog" class="font-mono text-sm text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] flex items-center gap-1.5">
+        View all <Icon name="arrow-right" size="sm" />
+      </a>
+    </div>
+
+    <div class="panel overflow-hidden">
+      <table class="w-full">
+        <thead>
+          <tr class="border-b border-[var(--color-border)] bg-[var(--color-panel-2)]">
+            <th class="px-4 py-2 text-right font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)] w-12">#</th>
+            <th class="w-10"></th>
+            <th class="px-3 py-2 text-left font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)]">Agent</th>
+            <th class="px-3 py-2 text-right font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)]">Stars</th>
+            <th class="px-3 py-2 text-right font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)] hidden md:table-cell">Last commit</th>
+            <th class="px-3 py-2 text-right font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)]">Score</th>
+            <th class="px-3 py-2 text-right font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)]">Links</th>
+          </tr>
+        </thead>
+        <tbody>
+          {top.map((a) => <AgentRow agent={a} showCategory={true} />)}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="max-w-7xl mx-auto px-6 py-16 border-t border-[var(--color-border)]">
+    <div class="mb-8">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-1">40 categories</h2>
+      <h3 class="text-2xl">Pick a task. Get the top 100.</h3>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+      {cats.categories.slice(0, 12).map((c) => (
+        <a
+          href={`/catalog/${c.slug}`}
+          class="panel p-4 block hover:border-[var(--color-accent)] transition-colors group"
+        >
+          <div class="flex items-center justify-between mb-2">
+            <div class="font-mono text-sm text-[var(--color-fg)] group-hover:text-[var(--color-accent)] transition-colors">
+              {c.name}
+            </div>
+            <span class="font-mono text-xs text-[var(--color-fg-mute)]">{counts[c.slug] ?? 0}</span>
+          </div>
+          <p class="text-sm text-[var(--color-fg-dim)] line-clamp-2">{c.description}</p>
+        </a>
+      ))}
+    </div>
+
+    <div class="mt-6 text-center">
+      <a href="/catalog" class="font-mono text-sm text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] inline-flex items-center gap-1.5">
+        See all {cats.categories.length} categories <Icon name="arrow-right" size="sm" />
+      </a>
+    </div>
+  </section>
+</Base>

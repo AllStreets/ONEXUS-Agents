@@ -1,0 +1,71 @@
+---
+import Base from "@/layouts/Base.astro";
+import Icon from "@/components/Icon.astro";
+---
+
+<Base current="about" title="About — ONEXUS-Agents">
+  <div class="max-w-3xl mx-auto px-6 py-12">
+    <h1 class="text-4xl font-bold mb-3">About</h1>
+    <p class="text-[var(--color-fg-dim)] mb-10">
+      ONEXUS-Agents is the public, open-source arm of <a href="https://github.com/AllStreets/ONEXUS" class="text-[var(--color-fg)] hover:text-[var(--color-accent)] mono">ONEXUS</a> — the agentic OS kernel.
+    </p>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Why this exists</h2>
+      <p class="text-[var(--color-fg-dim)] mb-3">
+        Agent ecosystems move fast. New repos appear daily on GitHub and Hugging Face; existing ones get superseded by stronger entrants on a weekly cadence.
+        Most catalogs are static blog posts or curated lists that go stale within a month.
+      </p>
+      <p class="text-[var(--color-fg-dim)]">
+        ONEXUS-Agents is built to keep up: a nightly crawl, a transparent score,
+        a strict top-100-per-category cutoff, and the full git history as audit trail.
+      </p>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Two tiers, one catalog</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        <div class="panel p-5">
+          <div class="font-mono text-[var(--color-fg)] mb-2 flex items-center gap-2">
+            <Icon name="list" size="sm" />Discovery
+          </div>
+          <p class="text-sm text-[var(--color-fg-dim)]">
+            Every agent we find that fits a category gets cataloged.
+            You can browse, compare, and link straight to the source.
+          </p>
+        </div>
+        <div class="panel p-5">
+          <div class="font-mono text-[var(--color-fg)] mb-2 flex items-center gap-2">
+            <Icon name="play" size="sm" class="text-[var(--color-accent)]" />Runnable
+          </div>
+          <p class="text-sm text-[var(--color-fg-dim)]">
+            A subset are marked <code class="mono">runnable: true</code> with a real MCP adapter.
+            ONEXUS reads the catalog and dispatches to these directly.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Stack</h2>
+      <ul class="grid grid-cols-2 gap-3 font-mono text-sm">
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">site</span> · Astro 4 + Tailwind v4</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">pipeline</span> · Python 3.12 + httpx</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">ranking</span> · custom composite</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">classification</span> · keyword + Claude Haiku</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">storage</span> · git (catalog/*.json)</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">scheduling</span> · GitHub Actions cron</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">hosting</span> · Vercel (auto-deploy)</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">bridge</span> · MCP-first</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">License</h2>
+      <p class="text-[var(--color-fg-dim)]">
+        Code, schema, and rankings are <a href="https://github.com/AllStreets/ONEXUS-Agents/blob/main/LICENSE" class="text-[var(--color-fg)] hover:text-[var(--color-accent)] mono">Apache-2.0</a>.
+        Each catalogued agent retains its own upstream license — see the <code class="mono">license</code> field on every entry.
+      </p>
+    </section>
+  </div>
+</Base>

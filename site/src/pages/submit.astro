@@ -1,0 +1,94 @@
+---
+import Base from "@/layouts/Base.astro";
+import Icon from "@/components/Icon.astro";
+---
+
+<Base current="submit" title="Submit an agent — ONEXUS-Agents">
+  <div class="max-w-3xl mx-auto px-6 py-12">
+    <h1 class="text-4xl font-bold mb-3">Submit an agent</h1>
+    <p class="text-[var(--color-fg-dim)] mb-10">
+      The catalog is a git repository. Submitting an agent means opening a pull request.
+    </p>
+
+    <section class="mb-10 panel-2 p-5">
+      <p class="text-sm text-[var(--color-fg-dim)]">
+        <Icon name="check" size="sm" class="inline text-[var(--color-accent)]" />
+        Most agents are discovered automatically by the nightly crawler. You only need to submit
+        manually if your project is new, has weak topic tags, or you want it included before the
+        next nightly run.
+      </p>
+    </section>
+
+    <ol class="space-y-8 mb-10">
+      <li>
+        <div class="flex items-baseline gap-3 mb-2">
+          <span class="font-mono text-2xl text-[var(--color-accent)]">01</span>
+          <h2 class="text-xl font-mono">Fork the repo</h2>
+        </div>
+        <p class="text-[var(--color-fg-dim)] ml-12 mb-3">
+          Fork <a href="https://github.com/AllStreets/ONEXUS-Agents" class="text-[var(--color-fg)] hover:text-[var(--color-accent)] mono">AllStreets/ONEXUS-Agents</a> and clone your fork locally.
+        </p>
+      </li>
+
+      <li>
+        <div class="flex items-baseline gap-3 mb-2">
+          <span class="font-mono text-2xl text-[var(--color-accent)]">02</span>
+          <h2 class="text-xl font-mono">Add your catalog entry</h2>
+        </div>
+        <p class="text-[var(--color-fg-dim)] ml-12 mb-3">
+          Create <code class="mono">catalog/&lt;category&gt;/&lt;your-slug&gt;.json</code> matching this shape.
+          You don't need to fill in <code class="mono">composite_score</code> or <code class="mono">rank_in_category</code> — the nightly job recomputes those.
+        </p>
+        <pre class="ml-12 panel p-4 text-xs overflow-x-auto"><code>{`{
+  "slug": "your-agent",
+  "name": "Your Agent",
+  "tagline": "One short, accurate description.",
+  "category": "coding",
+  "tags": ["cli", "git-aware"],
+  "author": { "type": "user", "handle": "you", "url": "https://github.com/you" },
+  "source": {
+    "primary": "github",
+    "github": "you/your-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": { "stars": 0, "downloads_30d": null, "last_commit_at": null, "first_commit_at": null },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0,
+  "rank_in_category": 999,
+  "discovered_via": "submission",
+  "first_seen_at": "2026-04-29T00:00:00Z",
+  "last_refreshed_at": "2026-04-29T00:00:00Z"
+}`}</code></pre>
+      </li>
+
+      <li>
+        <div class="flex items-baseline gap-3 mb-2">
+          <span class="font-mono text-2xl text-[var(--color-accent)]">03</span>
+          <h2 class="text-xl font-mono">Validate locally</h2>
+        </div>
+        <p class="text-[var(--color-fg-dim)] ml-12 mb-3">Run the validator before opening the PR.</p>
+        <pre class="ml-12 panel p-4 text-xs overflow-x-auto"><code>onexus-agents-validate catalog/coding/your-agent.json</code></pre>
+      </li>
+
+      <li>
+        <div class="flex items-baseline gap-3 mb-2">
+          <span class="font-mono text-2xl text-[var(--color-accent)]">04</span>
+          <h2 class="text-xl font-mono">Open a PR</h2>
+        </div>
+        <p class="text-[var(--color-fg-dim)] ml-12">
+          Use the <span class="mono">Agent submission</span> PR template. CI runs the validator on every push.
+          Once green, an admin reviews and merges. Your entry becomes part of the ranking pool the next night.
+        </p>
+      </li>
+    </ol>
+
+    <a href="https://github.com/AllStreets/ONEXUS-Agents/compare" class="inline-flex items-center gap-2 px-4 py-2 rounded-md bg-[var(--color-accent)] text-[var(--color-bg)] font-mono text-sm hover:bg-[var(--color-accent-dim)] transition-colors">
+      <Icon name="github" size="sm" />
+      Open a pull request
+    </a>
+  </div>
+</Base>
