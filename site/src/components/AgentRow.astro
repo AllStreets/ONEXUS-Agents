@@ -24,10 +24,10 @@ const benchmark = agent.benchmarks?.[0];
     </span>
   </td>
 
-  <td class="px-3 py-3 min-w-0">
-    <a href={href} class="block">
-      <div class="flex items-center gap-2 mb-0.5">
-        <span class="font-mono text-[var(--color-fg)] group-hover:text-[var(--color-accent)] transition-colors truncate">
+  <td class="px-3 py-3 min-w-0 max-w-0">
+    <a href={href} class="block min-w-0">
+      <div class="flex items-center gap-2 mb-0.5 min-w-0">
+        <span class="font-mono text-[var(--color-fg)] group-hover:text-[var(--color-accent)] transition-colors truncate min-w-0">
           {agent.name}
         </span>
         {agent.runnable && (
