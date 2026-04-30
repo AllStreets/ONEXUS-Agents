@@ -1,0 +1,40 @@
+{
+  "slug": "llvm-autofix",
+  "name": "llvm-autofix",
+  "tagline": "Agentic Harness for the LLVM Compiler",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "automated-program-repair",
+    "compiler",
+    "harness-engineering",
+    "llvm",
+    "swe-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dtcxzyw",
+    "url": "https://github.com/dtcxzyw"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dtcxzyw/llvm-autofix",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2603.20075"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T12:55:32Z",
+    "first_commit_at": "2026-02-06T14:24:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2515,
+  "rank_in_category": 52,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:17.508175Z",
+  "last_refreshed_at": "2026-04-30T03:23:17.508178Z"
+}

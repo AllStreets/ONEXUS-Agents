@@ -1,0 +1,44 @@
+{
+  "slug": "opencrew",
+  "name": "opencrew",
+  "tagline": "Openclaw多智能体协同系统 | Multi-Agent OS for Decision Makers — 基于 OpenClaw (Clawbot) + Slack，让 AI 团队各司其职、自主稳定迭代。",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a-protocol",
+    "agent-deployment",
+    "agent-orchestration",
+    "ai-agents",
+    "ai-assistant",
+    "ai-productivity",
+    "ai-team",
+    "autonomous-agents",
+    "clawdbot",
+    "context-management"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AlexAnys",
+    "url": "https://github.com/AlexAnys"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AlexAnys/opencrew",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 460,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T07:49:56Z",
+    "first_commit_at": "2026-02-15T05:27:48Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2225,
+  "rank_in_category": 55,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:38.186287Z",
+  "last_refreshed_at": "2026-04-30T03:29:38.186291Z"
+}

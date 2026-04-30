@@ -1,0 +1,44 @@
+{
+  "slug": "deeppolicy-rag-agent",
+  "name": "DeepPolicy-RAG-Agent",
+  "tagline": "Designed a RAG-Agent with search capability which can help company employees regrading their data policy related work",
+  "category": "search-rag",
+  "tags": [
+    "fiass",
+    "gemini",
+    "genai-chatbot",
+    "groq-cloud",
+    "langchain",
+    "mem0-memory",
+    "rag",
+    "rag-agent",
+    "rag-chatbot",
+    "streamlit-webapp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SannidhyaDas",
+    "url": "https://github.com/SannidhyaDas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SannidhyaDas/DeepPolicy-RAG-Agent",
+    "huggingface": null,
+    "homepage": "https://sannidhya-das-deeppolicy-rag-agent.streamlit.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-14T05:19:54Z",
+    "first_commit_at": "2026-03-13T11:31:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2978,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:31.728739Z",
+  "last_refreshed_at": "2026-04-30T03:26:31.728742Z"
+}

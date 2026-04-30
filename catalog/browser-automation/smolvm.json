@@ -1,0 +1,40 @@
+{
+  "slug": "smolvm",
+  "name": "SmolVM",
+  "tagline": "Open-source AI sandbox infrastructure for code execution, browser use, and AI agents.",
+  "category": "browser-automation",
+  "tags": [
+    "agent-runtime",
+    "browser-agent",
+    "browser-use",
+    "computer-use",
+    "openclaw",
+    "sandbox"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "CelestoAI",
+    "url": "https://github.com/CelestoAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CelestoAI/SmolVM",
+    "huggingface": null,
+    "homepage": "https://docs.celesto.ai/smolvm"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 470,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T19:30:20Z",
+    "first_commit_at": "2026-02-15T00:30:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2983,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:36.874957Z",
+  "last_refreshed_at": "2026-04-30T03:26:36.874960Z"
+}

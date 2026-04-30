@@ -28,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 55230,
+    "stars": 55228,
     "downloads_30d": null,
     "last_commit_at": "2025-05-14T10:15:10Z",
     "first_commit_at": "2023-04-29T12:52:33Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.3121,
-  "rank_in_category": 7,
+  "runnable": true,
+  "adapter_ref": "adapters/gpt-engineer/mcp.json",
+  "composite_score": 0.325,
+  "rank_in_category": 29,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-30T15:58:37.746953Z"
+  "last_refreshed_at": "2026-04-30T03:21:41.195307Z"
 }

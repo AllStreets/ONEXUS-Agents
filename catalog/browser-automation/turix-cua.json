@@ -1,0 +1,44 @@
+{
+  "slug": "turix-cua",
+  "name": "TuriX-CUA",
+  "tagline": "This is the official website for TuriX Computer-use-Agent",
+  "category": "browser-automation",
+  "tags": [
+    "agent",
+    "ai-agents",
+    "browser-use",
+    "computer-automation",
+    "computer-use",
+    "computer-use-agent",
+    "cua",
+    "gui-agent",
+    "gui-operator",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TurixAI",
+    "url": "https://github.com/TurixAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TurixAI/TuriX-CUA",
+    "huggingface": null,
+    "homepage": "https://turix.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2781,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T00:36:20Z",
+    "first_commit_at": "2025-08-04T09:30:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3455,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:52.066295Z",
+  "last_refreshed_at": "2026-04-30T03:26:52.066298Z"
+}

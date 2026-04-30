@@ -1,0 +1,44 @@
+{
+  "slug": "open-multi-agent",
+  "name": "open-multi-agent",
+  "tagline": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "deepseek",
+    "gemini",
+    "grok",
+    "llm",
+    "local-llm",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JackChen-me",
+    "url": "https://github.com/JackChen-me"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JackChen-me/open-multi-agent",
+    "huggingface": null,
+    "homepage": "https://open-multi-agent.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5977,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T03:39:49Z",
+    "first_commit_at": "2026-03-31T20:33:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3292,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:14.395182Z",
+  "last_refreshed_at": "2026-04-30T03:29:14.395185Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "n8n-email-agent",
+  "name": "n8n_email_agent",
+  "tagline": "N8N Email Agent | Gmail",
+  "category": "email-scheduling",
+  "tags": [
+    "agent",
+    "agents",
+    "ai",
+    "email-agent",
+    "n8n"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Natan-Asrat",
+    "url": "https://github.com/Natan-Asrat"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Natan-Asrat/n8n_email_agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-25T11:13:38Z",
+    "first_commit_at": "2025-04-25T11:11:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2036,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:27:53.528766Z",
+  "last_refreshed_at": "2026-04-30T03:27:53.528771Z"
+}

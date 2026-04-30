@@ -1,0 +1,41 @@
+{
+  "slug": "takt",
+  "name": "takt",
+  "tagline": "TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "agent-team",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "multi-agent",
+    "opencode"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nrslib",
+    "url": "https://github.com/nrslib"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nrslib/takt",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1005,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T15:04:36Z",
+    "first_commit_at": "2026-01-25T06:16:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2741,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:32.441583Z",
+  "last_refreshed_at": "2026-04-30T03:29:32.441586Z"
+}

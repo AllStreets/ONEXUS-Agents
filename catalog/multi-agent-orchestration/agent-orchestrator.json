@@ -1,0 +1,44 @@
+{
+  "slug": "agent-orchestrator",
+  "name": "agent-orchestrator",
+  "tagline": " Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-fleet",
+    "agent-swarm",
+    "claude-code",
+    "codex-cli",
+    "git-worktrees",
+    "multi-agent",
+    "orchestration",
+    "orchestrator",
+    "parallel-agents",
+    "parallel-coding"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ComposioHQ",
+    "url": "https://github.com/ComposioHQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ComposioHQ/agent-orchestrator",
+    "huggingface": null,
+    "homepage": "https://composio.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6645,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T23:08:50Z",
+    "first_commit_at": "2026-02-13T09:55:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3368,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:13.696565Z",
+  "last_refreshed_at": "2026-04-30T03:29:13.696568Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "cowagent",
+  "name": "CowAgent",
+  "tagline": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "chatgpt-on-wechat",
+    "claude",
+    "deepseek",
+    "dingtalk",
+    "feishu-bot",
+    "gemini",
+    "kimi",
+    "linkai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zhayujie",
+    "url": "https://github.com/zhayujie"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zhayujie/CowAgent",
+    "huggingface": null,
+    "homepage": "https://cowagent.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 43877,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T07:30:59Z",
+    "first_commit_at": "2022-08-09T16:04:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4435,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:04.838837Z",
+  "last_refreshed_at": "2026-04-30T03:29:04.838840Z"
+}

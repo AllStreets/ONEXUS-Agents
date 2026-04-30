@@ -1,0 +1,44 @@
+{
+  "slug": "agentfactory-business-plugins",
+  "name": "agentfactory-business-plugins",
+  "tagline": "Marketplace of domain-specific plugins for AI agents (Cowork, Claude Code, OpenClaw). Build autonomous business workflows for finance, banking, legal operations, and sales using modular agent skills a",
+  "category": "financial-modeling",
+  "tags": [
+    "agent-skills",
+    "agentfactory",
+    "ai-agents",
+    "ai-employee",
+    "banking-ai",
+    "business-automation",
+    "claude-code",
+    "claude-code-plugin",
+    "cowork",
+    "cowork-plugin"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "panaversity",
+    "url": "https://github.com/panaversity"
+  },
+  "source": {
+    "primary": "github",
+    "github": "panaversity/agentfactory-business-plugins",
+    "huggingface": null,
+    "homepage": "https://agentfactory.panaversity.org/docs/Business-Domain-Agent-Workflows"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-26T19:03:48Z",
+    "first_commit_at": "2026-03-05T13:55:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3788,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:24:51.112063Z",
+  "last_refreshed_at": "2026-04-30T03:24:51.112066Z"
+}

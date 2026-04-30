@@ -1,0 +1,44 @@
+{
+  "slug": "nanobrowser",
+  "name": "nanobrowser",
+  "tagline": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+  "category": "browser-automation",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "automation",
+    "browser",
+    "browser-automation",
+    "browser-use",
+    "chrome-extension",
+    "comet"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nanobrowser",
+    "url": "https://github.com/nanobrowser"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nanobrowser/nanobrowser",
+    "huggingface": null,
+    "homepage": "https://nanobrowser.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 12823,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-24T11:10:03Z",
+    "first_commit_at": "2024-12-31T08:11:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2932,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:49.864237Z",
+  "last_refreshed_at": "2026-04-30T03:26:49.864240Z"
+}

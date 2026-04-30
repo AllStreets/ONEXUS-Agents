@@ -1,0 +1,44 @@
+{
+  "slug": "nao",
+  "name": "nao",
+  "tagline": "👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone",
+  "category": "sql-analytics",
+  "tags": [
+    "agentic-analytics",
+    "analytics",
+    "analytics-engineering",
+    "bigquery",
+    "business-intelligence",
+    "chat-with-your-data",
+    "context-engineering",
+    "data",
+    "data-analysis",
+    "data-analyst"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "getnao",
+    "url": "https://github.com/getnao"
+  },
+  "source": {
+    "primary": "github",
+    "github": "getnao/nao",
+    "huggingface": null,
+    "homepage": "https://docs.getnao.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1070,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T10:01:08Z",
+    "first_commit_at": "2025-12-30T18:33:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3581,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:32:03.468113Z",
+  "last_refreshed_at": "2026-04-30T03:32:03.468116Z"
+}

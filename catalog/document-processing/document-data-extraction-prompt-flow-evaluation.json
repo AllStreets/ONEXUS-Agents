@@ -1,0 +1,41 @@
+{
+  "slug": "document-data-extraction-prompt-flow-evaluation",
+  "name": "document-data-extraction-prompt-flow-evaluation",
+  "tagline": "This sample demonstrates how to use GPT-4o with Vision to extract structured JSON data from PDF documents and evaluate them with Azure AI Studio and Prompt Flow",
+  "category": "document-processing",
+  "tags": [
+    "azure",
+    "document-extraction",
+    "evaluation",
+    "gpt-4o",
+    "llms",
+    "openai",
+    "prompt-flow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jamesmcroft",
+    "url": "https://github.com/jamesmcroft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jamesmcroft/document-data-extraction-prompt-flow-evaluation",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2024-09-09T15:16:36Z",
+    "first_commit_at": "2024-07-23T14:42:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.245,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:27:43.622519Z",
+  "last_refreshed_at": "2026-04-30T03:27:43.622523Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "aipex",
+  "name": "AIPex",
+  "tagline": "AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser",
+  "category": "browser-automation",
+  "tags": [
+    "accessbility-testing",
+    "agent-browser",
+    "agent-skills",
+    "browser-automation",
+    "browser-use",
+    "chatgpt-atlas-alternative",
+    "chrome-extension",
+    "claude-chrome",
+    "gemini-chrome",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AIPexStudio",
+    "url": "https://github.com/AIPexStudio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AIPexStudio/AIPex",
+    "huggingface": null,
+    "homepage": "https://claudechrome.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1157,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-13T07:16:03Z",
+    "first_commit_at": "2025-07-12T01:59:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3141,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:54.276209Z",
+  "last_refreshed_at": "2026-04-30T03:26:54.276212Z"
+}

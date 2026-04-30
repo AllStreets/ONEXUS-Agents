@@ -1,0 +1,44 @@
+{
+  "slug": "gito",
+  "name": "Gito",
+  "tagline": "An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-code-analysis",
+    "ai-code-review",
+    "ai-code-reviewer",
+    "ai-coding",
+    "ai-coding-assistant",
+    "code-analysis",
+    "code-audit",
+    "code-quality",
+    "code-review"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Nayjest",
+    "url": "https://github.com/Nayjest"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Nayjest/Gito",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 217,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T20:30:27Z",
+    "first_commit_at": "2025-04-30T10:49:13Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3401,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:37.724576Z",
+  "last_refreshed_at": "2026-04-30T03:23:37.724579Z"
+}

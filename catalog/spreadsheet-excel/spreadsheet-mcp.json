@@ -1,0 +1,38 @@
+{
+  "slug": "spreadsheet-mcp",
+  "name": "spreadsheet-mcp",
+  "tagline": "MCP server for spreadsheet analysis and editing. Slim, token-efficient tool surface designed for LLM agents.",
+  "category": "spreadsheet-excel",
+  "tags": [
+    "spreadsheet",
+    "spreadsheet-agent",
+    "spreadsheet-ai",
+    "spreadsheet-mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "PSU3D0",
+    "url": "https://github.com/PSU3D0"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PSU3D0/spreadsheet-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 43,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-01T04:04:54Z",
+    "first_commit_at": "2025-09-19T02:02:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2173,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:54.920401Z",
+  "last_refreshed_at": "2026-04-30T03:31:54.920405Z"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "sql-agent",
+  "name": "sql-agent",
+  "tagline": "HTTP interface for executing ad-hoc SQL queries.",
+  "category": "sql-analytics",
+  "tags": [
+    "database",
+    "microservice",
+    "mysql",
+    "oracle",
+    "postgresql",
+    "sql",
+    "sql-agent",
+    "sqlite"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "chop-dbhi",
+    "url": "https://github.com/chop-dbhi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "chop-dbhi/sql-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "BSD-2-Clause",
+  "metrics": {
+    "stars": 94,
+    "downloads_30d": null,
+    "last_commit_at": "2023-07-05T15:01:34Z",
+    "first_commit_at": "2015-08-12T13:28:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.214,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:32:12.160462Z",
+  "last_refreshed_at": "2026-04-30T03:32:12.160465Z"
+}

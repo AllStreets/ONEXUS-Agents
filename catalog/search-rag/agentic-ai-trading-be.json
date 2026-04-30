@@ -1,0 +1,43 @@
+{
+  "slug": "agentic-ai-trading-be",
+  "name": "agentic-ai-trading-be",
+  "tagline": "⚡ Agent M - Agentic AI Trading Portfolio",
+  "category": "search-rag",
+  "tags": [
+    "agentic-ai",
+    "amazon-web-services",
+    "fastapi",
+    "golang",
+    "kong-gateway",
+    "langchain",
+    "rag-agent",
+    "rag-pipeline",
+    "redis"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SMU-IS",
+    "url": "https://github.com/SMU-IS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SMU-IS/agentic-ai-trading-be",
+    "huggingface": null,
+    "homepage": "https://api.agentic-m.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T00:58:35Z",
+    "first_commit_at": "2025-12-20T12:48:01Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3879,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:24.787252Z",
+  "last_refreshed_at": "2026-04-30T03:26:24.787255Z"
+}

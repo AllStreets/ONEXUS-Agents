@@ -17,17 +17,17 @@
   },
   "license": "GPL-3.0",
   "metrics": {
-    "stars": 34557,
+    "stars": 34531,
     "downloads_30d": null,
     "last_commit_at": "2026-04-24T18:33:10Z",
     "first_commit_at": "2023-10-30T20:20:30Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.6584,
+  "runnable": true,
+  "adapter_ref": "adapters/marker/mcp.json",
+  "composite_score": 0.6864,
   "rank_in_category": 2,
   "discovered_via": "seed",
   "first_seen_at": "2026-04-30T03:22:38.770317Z",
-  "last_refreshed_at": "2026-04-30T15:59:22.781480Z"
+  "last_refreshed_at": "2026-04-30T03:22:38.770320Z"
 }

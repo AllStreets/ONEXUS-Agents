@@ -1,0 +1,41 @@
+{
+  "slug": "llmrobofund",
+  "name": "LLMRoboFund",
+  "tagline": "LLMRoboFund is a powerful chatbot empowered with Multi-document RAG. The chatbot is equipped with RetrievalQA and SQL Agents to ease the investment research",
+  "category": "sql-analytics",
+  "tags": [
+    "chatbot",
+    "langchain",
+    "llm",
+    "multi-document",
+    "retreivalqa",
+    "sql-agent",
+    "vector-database"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dfavenfre",
+    "url": "https://github.com/dfavenfre"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dfavenfre/LLMRoboFund",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2023-12-18T08:27:36Z",
+    "first_commit_at": "2023-12-04T09:00:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1642,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:32:19.730623Z",
+  "last_refreshed_at": "2026-04-30T03:32:19.730626Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "commune-js",
+  "name": "commune-js",
+  "tagline": "JavaScript/TypeScript SDK for email & SMS in AI agents. Send email, receive webhooks, manage threads — give your agent an inbox in 4 lines. Powered by Commune.",
+  "category": "email-scheduling",
+  "tags": [
+    "agent-tools",
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "commune",
+    "email",
+    "email-agent",
+    "email-api",
+    "email-sdk"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "commune-dev",
+    "url": "https://github.com/commune-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "commune-dev/commune-js",
+    "huggingface": null,
+    "homepage": "https://commune.email/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-19T13:34:43Z",
+    "first_commit_at": "2026-02-12T11:05:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3071,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:27:58.276612Z",
+  "last_refreshed_at": "2026-04-30T03:27:58.276615Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "rllm",
+  "name": "rllm",
+  "tagline": "Democratizing Reinforcement Learning for LLMs",
+  "category": "coding",
+  "tags": [
+    "agent-framework",
+    "agentic-workflow",
+    "coding-agent",
+    "distributed-training",
+    "llm-reasoning",
+    "llm-training",
+    "machine-learning",
+    "ml-infrastructure",
+    "ml-platform",
+    "reinforcement-learning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "rllm-org",
+    "url": "https://github.com/rllm-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rllm-org/rllm",
+    "huggingface": null,
+    "homepage": "https://docs.rllm-project.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5462,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T03:19:46Z",
+    "first_commit_at": "2025-01-11T06:21:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4009,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:10.213183Z",
+  "last_refreshed_at": "2026-04-30T03:23:10.213186Z"
+}

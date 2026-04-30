@@ -1,0 +1,40 @@
+{
+  "slug": "langgraph",
+  "name": "LangGraph",
+  "tagline": "For Building Stateful, multi-actor applications with LLMs, Create agent and multi-agent workflows",
+  "category": "sql-analytics",
+  "tags": [
+    "langchain",
+    "langchain-python",
+    "langgraph",
+    "langgraph-python",
+    "rag",
+    "sql-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "r-manimaran",
+    "url": "https://github.com/r-manimaran"
+  },
+  "source": {
+    "primary": "github",
+    "github": "r-manimaran/LangGraph",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-18T18:52:01Z",
+    "first_commit_at": "2024-10-21T21:00:27Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "adapters/langgraph/mcp.json",
+  "composite_score": 0.1357,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:32:24.533015Z",
+  "last_refreshed_at": "2026-04-30T03:32:24.533018Z"
+}

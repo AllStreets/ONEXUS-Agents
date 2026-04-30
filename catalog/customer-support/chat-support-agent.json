@@ -1,0 +1,44 @@
+{
+  "slug": "chat-support-agent",
+  "name": "Chat-Support-Agent",
+  "tagline": "Automated customer support backend using RAG. Answers questions from company docs, escalates unknown queries to support tickets. Built with FastAPI, OpenAI, Pinecone and Redis.",
+  "category": "customer-support",
+  "tags": [
+    "chatbot",
+    "embeddings",
+    "fastapi",
+    "llm",
+    "openai",
+    "openai-api",
+    "pinecone",
+    "pydantic",
+    "python",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "DavidFSantillan",
+    "url": "https://github.com/DavidFSantillan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DavidFSantillan/Chat-Support-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-13T16:13:28Z",
+    "first_commit_at": "2026-03-06T17:32:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2978,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:25:27.743288Z",
+  "last_refreshed_at": "2026-04-30T03:25:27.743291Z"
+}

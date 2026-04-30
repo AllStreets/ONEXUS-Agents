@@ -1,0 +1,44 @@
+{
+  "slug": "browser-serp",
+  "name": "browser-serp",
+  "tagline": "Real-time Google Search API for AI Agents & RAG pipelines. Get structured SERP data instantly using remote browsers.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agents",
+    "browser-agent",
+    "browser-automation",
+    "data-extraction",
+    "google-search",
+    "llm",
+    "playwright",
+    "rag",
+    "serp-api",
+    "serpapi"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "BrowserCash",
+    "url": "https://github.com/BrowserCash"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BrowserCash/browser-serp",
+    "huggingface": null,
+    "homepage": "https://browser.cash/developers"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-09T15:10:18Z",
+    "first_commit_at": "2025-11-24T14:19:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2013,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:44.294207Z",
+  "last_refreshed_at": "2026-04-30T03:26:44.294210Z"
+}

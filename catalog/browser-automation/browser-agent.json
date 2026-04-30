@@ -1,0 +1,39 @@
+{
+  "slug": "browser-agent",
+  "name": "browser_agent",
+  "tagline": "A smart AI agent that controls your browser with natural language, using Playwright and advanced LLMs to navigate, analyze, and perform tasks.",
+  "category": "browser-automation",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "aitools",
+    "browser-agent",
+    "browserautomation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rkvalandas",
+    "url": "https://github.com/rkvalandas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rkvalandas/browser_agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 29,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-22T10:27:26Z",
+    "first_commit_at": "2025-03-25T09:25:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.168,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:42.888830Z",
+  "last_refreshed_at": "2026-04-30T03:26:42.888833Z"
+}

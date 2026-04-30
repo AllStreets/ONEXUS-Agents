@@ -1,0 +1,44 @@
+{
+  "slug": "rowfill",
+  "name": "rowfill",
+  "tagline": "Open-source spreadsheets platform for deep research and document processing",
+  "category": "document-processing",
+  "tags": [
+    "document",
+    "document-extraction",
+    "document-parsing",
+    "image-ocr",
+    "langgraph",
+    "llama",
+    "llm",
+    "nextjs",
+    "ocr",
+    "ocr-javascript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "harishdeivanayagam",
+    "url": "https://github.com/harishdeivanayagam"
+  },
+  "source": {
+    "primary": "github",
+    "github": "harishdeivanayagam/rowfill",
+    "huggingface": null,
+    "homepage": "https://www.rowfill.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 368,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-25T11:09:52Z",
+    "first_commit_at": "2025-01-09T08:35:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3771,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:27:34.475970Z",
+  "last_refreshed_at": "2026-04-30T03:27:34.475973Z"
+}

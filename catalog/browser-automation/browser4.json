@@ -1,0 +1,40 @@
+{
+  "slug": "browser4",
+  "name": "Browser4",
+  "tagline": "Browser4: a lightning-fast, coroutine-safe browser for your AI.",
+  "category": "browser-automation",
+  "tags": [
+    "agentic-ai",
+    "agentic-browser",
+    "ai-browser",
+    "browser-agent",
+    "browser-infra",
+    "browser-use-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "platonai",
+    "url": "https://github.com/platonai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "platonai/Browser4",
+    "huggingface": null,
+    "homepage": "https://browser4.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1040,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T14:03:49Z",
+    "first_commit_at": "2018-03-12T12:02:29Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3585,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:36.096342Z",
+  "last_refreshed_at": "2026-04-30T03:26:36.096344Z"
+}
