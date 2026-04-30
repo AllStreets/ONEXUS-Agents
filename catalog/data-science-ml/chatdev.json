@@ -1,0 +1,33 @@
+{
+  "slug": "chatdev",
+  "name": "ChatDev",
+  "tagline": "Multi-agent software/ML company simulation.",
+  "category": "data-science-ml",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "openbmb",
+    "url": "https://github.com/OpenBMB"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openbmb/ChatDev",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2307.07924"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 32947,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T01:52:02Z",
+    "first_commit_at": "2026-01-07T08:24:01Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5136,
+  "rank_in_category": 4,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:21:55.383056Z",
+  "last_refreshed_at": "2026-04-30T16:09:48.633573Z"
+}

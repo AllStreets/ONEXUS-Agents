@@ -1,0 +1,33 @@
+{
+  "slug": "cline",
+  "name": "cline",
+  "tagline": "Autonomous coding agent for VS Code.",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "cline",
+    "url": "https://github.com/cline"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cline/cline",
+    "huggingface": null,
+    "homepage": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 61218,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T14:32:25Z",
+    "first_commit_at": "2024-07-06T00:51:41Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "adapters/cline/mcp.json",
+  "composite_score": 0.4527,
+  "rank_in_category": 5,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-01-12T00:00:00Z",
+  "last_refreshed_at": "2026-04-30T16:09:28.672809Z"
+}

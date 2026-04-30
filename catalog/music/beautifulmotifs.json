@@ -1,0 +1,42 @@
+{
+  "slug": "beautifulmotifs",
+  "name": "beautifulmotifs",
+  "tagline": "Detect and extract beautiful musical motifs from MIDI files with transformers",
+  "category": "music",
+  "tags": [
+    "midi",
+    "midi-ai",
+    "motif",
+    "motif-analysis",
+    "motif-detection",
+    "motif-discovery",
+    "music",
+    "music-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "asigalov61",
+    "url": "https://github.com/asigalov61"
+  },
+  "source": {
+    "primary": "github",
+    "github": "asigalov61/beautifulmotifs",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-14T00:41:40Z",
+    "first_commit_at": "2026-02-14T00:26:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2701,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:55.170351Z",
+  "last_refreshed_at": "2026-04-30T16:20:49.086148Z"
+}

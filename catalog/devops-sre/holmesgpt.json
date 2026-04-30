@@ -1,0 +1,44 @@
+{
+  "slug": "holmesgpt",
+  "name": "holmesgpt",
+  "tagline": "On-call investigation agent for Kubernetes.",
+  "category": "devops-sre",
+  "tags": [
+    "aiops",
+    "chatbot",
+    "chatops",
+    "devops",
+    "devops-tools",
+    "incident",
+    "incident-management",
+    "incident-response",
+    "jira",
+    "kubernetes"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "robusta-dev",
+    "url": "https://github.com/HolmesGPT"
+  },
+  "source": {
+    "primary": "github",
+    "github": "robusta-dev/holmesgpt",
+    "huggingface": null,
+    "homepage": "https://holmesgpt.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2344,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T16:10:27Z",
+    "first_commit_at": "2024-05-30T13:31:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6303,
+  "rank_in_category": 4,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:45.228482Z",
+  "last_refreshed_at": "2026-04-30T16:10:46.124867Z"
+}

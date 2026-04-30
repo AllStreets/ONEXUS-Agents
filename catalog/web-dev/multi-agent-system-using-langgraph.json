@@ -1,0 +1,44 @@
+{
+  "slug": "multi-agent-system-using-langgraph",
+  "name": "multi-agent-system-using-langgraph",
+  "tagline": "A complete LangGraph multi-agent system demo using SQL tools, Tavily search, MCP Toolbox, and OpenRouter models — with reproducible notebooks and a full supervisor-led agent workflow.",
+  "category": "web-dev",
+  "tags": [
+    "agentic-ai",
+    "data-engineering",
+    "hdb",
+    "langchain",
+    "langgraph",
+    "llm",
+    "mcp-toolbox",
+    "multi-agent",
+    "openrouter",
+    "postgres"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "seehiong",
+    "url": "https://github.com/seehiong"
+  },
+  "source": {
+    "primary": "github",
+    "github": "seehiong/multi-agent-system-using-langgraph",
+    "huggingface": null,
+    "homepage": "https://seehiong.github.io/posts/2025/11/building-a-langgraph-multi-agent-system/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 30,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-04T12:14:19Z",
+    "first_commit_at": "2025-12-04T12:00:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3163,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:24:20.666252Z",
+  "last_refreshed_at": "2026-04-30T16:12:57.708653Z"
+}

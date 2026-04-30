@@ -1,0 +1,44 @@
+{
+  "slug": "fim-one",
+  "name": "fim-one",
+  "tagline": "LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution",
+  "category": "web-dev",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "connector",
+    "dag",
+    "fastapi",
+    "function-calling",
+    "llm",
+    "mcp",
+    "nextjs"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "fim-ai",
+    "url": "https://github.com/fim-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fim-ai/fim-one",
+    "huggingface": null,
+    "homepage": "https://one.fim.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 684,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T05:09:18Z",
+    "first_commit_at": "2026-02-22T15:25:01Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5326,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:24:14.081516Z",
+  "last_refreshed_at": "2026-04-30T16:12:51.016695Z"
+}

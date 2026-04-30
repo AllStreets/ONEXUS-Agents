@@ -1,0 +1,41 @@
+{
+  "slug": "langgraph-agent",
+  "name": "langgraph-agent",
+  "tagline": "It shows case studies of the LangGraph agent.",
+  "category": "reasoning-math",
+  "tags": [
+    "agent",
+    "claude",
+    "langchain",
+    "langgraph",
+    "plan-and-execute",
+    "reasoning-agent",
+    "reflection"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kyopark2014",
+    "url": "https://github.com/kyopark2014"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kyopark2014/langgraph-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 62,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-01T21:46:50Z",
+    "first_commit_at": "2024-07-16T04:28:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0831,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:57.454478Z",
+  "last_refreshed_at": "2026-04-30T16:18:28.432831Z"
+}

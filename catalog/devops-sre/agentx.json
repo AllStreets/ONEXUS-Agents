@@ -1,0 +1,37 @@
+{
+  "slug": "agentx",
+  "name": "AgentX",
+  "tagline": "Finalist @ Softserve Agent X Hackathon - Autonomous SRE agent that ingests incident reports for an e-commerce platform, performs AI-powered triage by analyzing the actual source code, and routes issue",
+  "category": "devops-sre",
+  "tags": [
+    "agentic-workflow",
+    "incident-management",
+    "sre-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jsurrea",
+    "url": "https://github.com/jsurrea"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jsurrea/AgentX",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T20:17:10Z",
+    "first_commit_at": "2026-04-10T03:04:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3382,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:16.429124Z",
+  "last_refreshed_at": "2026-04-30T16:17:39.231072Z"
+}

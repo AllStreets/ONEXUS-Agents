@@ -1,0 +1,44 @@
+{
+  "slug": "mytrip-hokkaido-app",
+  "name": "mytrip-hokkaido-app",
+  "tagline": "This sample project is a customizable regional travel planning app that uses artificial intelligence to generate itineraries based on user text, powered by OpenAI Chat Completions API, built using Nex",
+  "category": "travel-planning",
+  "tags": [
+    "chat-completion-api",
+    "function-calling",
+    "hokkaido",
+    "itinerary",
+    "itinerary-generator",
+    "openai",
+    "openai-api",
+    "travel",
+    "travel-app",
+    "trip-planner"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "supershaneski",
+    "url": "https://github.com/supershaneski"
+  },
+  "source": {
+    "primary": "github",
+    "github": "supershaneski/mytrip-hokkaido-app",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2023-12-02T04:59:34Z",
+    "first_commit_at": "2023-06-12T07:45:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2697,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:14.141665Z",
+  "last_refreshed_at": "2026-04-30T16:19:59.924857Z"
+}

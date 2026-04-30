@@ -1,0 +1,51 @@
+{
+  "slug": "aider",
+  "name": "aider",
+  "tagline": "Pair-programming AI in your terminal with first-class git awareness.",
+  "category": "coding",
+  "tags": [
+    "anthropic",
+    "chatgpt",
+    "claude-3",
+    "cli",
+    "command-line",
+    "gemini",
+    "gpt-3",
+    "gpt-35-turbo",
+    "gpt-4",
+    "gpt-4o"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Aider-AI",
+    "url": "https://github.com/Aider-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Aider-AI/aider",
+    "huggingface": null,
+    "homepage": "https://aider.chat/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 44164,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T16:44:33Z",
+    "first_commit_at": "2023-04-04T02:05:33Z"
+  },
+  "benchmarks": [
+    {
+      "name": "SWE-bench Verified",
+      "score": 26.3,
+      "as_of": "2026-03-15",
+      "source_url": "https://www.swebench.com/"
+    }
+  ],
+  "runnable": true,
+  "adapter_ref": "adapters/aider/mcp.json",
+  "composite_score": 0.5757,
+  "rank_in_category": 2,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-01-12T00:00:00Z",
+  "last_refreshed_at": "2026-04-30T16:09:24.044570Z"
+}

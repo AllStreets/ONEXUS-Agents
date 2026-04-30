@@ -1,0 +1,44 @@
+{
+  "slug": "login-machine",
+  "name": "login-machine",
+  "tagline": "AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them.",
+  "category": "web-dev",
+  "tags": [
+    "ai-agents",
+    "browser-automation",
+    "browserbase",
+    "claude",
+    "computer-use",
+    "llm",
+    "login-automation",
+    "nextjs",
+    "playwright",
+    "web-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "RichardHruby",
+    "url": "https://github.com/RichardHruby"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RichardHruby/login-machine",
+    "huggingface": null,
+    "homepage": "https://login-machine.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 287,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-19T21:19:16Z",
+    "first_commit_at": "2026-01-28T04:24:58Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4294,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:58.093504Z",
+  "last_refreshed_at": "2026-04-30T16:12:32.685341Z"
+}

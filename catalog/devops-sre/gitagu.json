@@ -1,0 +1,42 @@
+{
+  "slug": "gitagu",
+  "name": "gitagu",
+  "tagline": "GitAGU (Git Agent Unblock) - A centralized platform for discovering, configuring, and integrating AI agents into your development workflow. Simplifies AI adoption across the entire Software Developmen",
+  "category": "devops-sre",
+  "tags": [
+    "coding-agent",
+    "cognition",
+    "copilot",
+    "devin",
+    "ghcp",
+    "github-copilot",
+    "padawan",
+    "sre-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/gitagu",
+    "huggingface": null,
+    "homepage": "https://gitagu.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 29,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-13T20:22:36Z",
+    "first_commit_at": "2025-05-23T19:25:48Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4542,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:12.267328Z",
+  "last_refreshed_at": "2026-04-30T16:17:34.148537Z"
+}

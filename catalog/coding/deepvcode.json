@@ -1,0 +1,38 @@
+{
+  "slug": "deepvcode",
+  "name": "DeepVCode",
+  "tagline": "DeepV Code - A highly customizable AI coding assistant compatible with all major AI models. The perfect alternative to Claude Code and Codex, offering deep code analysis, intelligent suggestions, vers",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-coding-assistant",
+    "vibe-coding"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OrionStarAI",
+    "url": "https://github.com/OrionStarAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OrionStarAI/DeepVCode",
+    "huggingface": null,
+    "homepage": "https://dvcode.deepvlab.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 406,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-02T04:59:14Z",
+    "first_commit_at": "2025-10-17T10:48:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3124,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:33.123850Z",
+  "last_refreshed_at": "2026-04-30T16:11:51.505316Z"
+}

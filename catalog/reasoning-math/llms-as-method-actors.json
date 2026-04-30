@@ -1,0 +1,40 @@
+{
+  "slug": "llms-as-method-actors",
+  "name": "llms-as-method-actors",
+  "tagline": "LLMs as Method Actors: A Model for Prompt Engineering and Architecture",
+  "category": "reasoning-math",
+  "tags": [
+    "connections",
+    "large-language-models",
+    "llm",
+    "prompt-engineering",
+    "prompts",
+    "reasoning-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "colindoyle0000",
+    "url": "https://github.com/colindoyle0000"
+  },
+  "source": {
+    "primary": "github",
+    "github": "colindoyle0000/llms-as-method-actors",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2411.05778v2"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 46,
+    "downloads_30d": null,
+    "last_commit_at": "2024-11-11T20:59:31Z",
+    "first_commit_at": "2024-10-25T21:22:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0607,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:59.723927Z",
+  "last_refreshed_at": "2026-04-30T16:18:32.777564Z"
+}
