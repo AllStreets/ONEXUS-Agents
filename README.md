@@ -137,12 +137,28 @@ You do *not* need to compute `composite_score` or `rank_in_category` — the nig
 
 ## ONEXUS integration
 
-ONEXUS reads this catalog directly. When a user asks ONEXUS for help with a task, Cortex looks at the relevant category, picks among `runnable: true` candidates by composite score and trust history, and dispatches via the agent's MCP adapter.
+ONEXUS reads this catalog directly. Point `NEXUS_AGENTS_CATALOG` at a local clone:
+
+```bash
+git clone https://github.com/AllStreets/ONEXUS-Agents.git
+export NEXUS_AGENTS_CATALOG=/path/to/ONEXUS-Agents
+onexus run
+```
+
+Three MCP tools expose the catalog inside ONEXUS:
+
+| Tool | What it does |
+|------|-------------|
+| `nexus_agents_browse` | List agents by category, filter to runnable-only |
+| `nexus_agents_search` | Keyword search across names, tags, categories |
+| `nexus_agents_info` | Full metadata + MCP adapter descriptor for a specific agent |
+
+When a user asks ONEXUS for help with a task, Cortex looks at the relevant category, picks among `runnable: true` candidates by composite score and trust history, and dispatches via the agent's MCP adapter.
 
 The adapter contract is intentionally thin:
 
 ```
-adapters/<agent>/mcp.json    # MCP server descriptor — command, env, capabilities
+adapters/<agent>/mcp.json    # MCP server descriptor -- command, env, capabilities
 adapters/<agent>/README.md   # one-line install, one-line invocation
 ```
 
