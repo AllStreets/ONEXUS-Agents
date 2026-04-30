@@ -1,0 +1,38 @@
+{
+  "slug": "ref-tools-mcp",
+  "name": "ref-tools-mcp",
+  "tagline": "Helping coding agents never make mistakes working with public or private libraries without wasting the context window.",
+  "category": "coding",
+  "tags": [
+    "coding-agent",
+    "documentation-tool",
+    "mcp",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ref-tools",
+    "url": "https://github.com/ref-tools"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ref-tools/ref-tools-mcp",
+    "huggingface": null,
+    "homepage": "http://ref.tools/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1092,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-17T23:18:33Z",
+    "first_commit_at": "2025-04-23T00:00:05Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.355,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:11:17.707896Z",
+  "last_refreshed_at": "2026-04-30T16:11:17.707899Z"
+}

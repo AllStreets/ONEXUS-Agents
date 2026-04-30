@@ -1,0 +1,44 @@
+{
+  "slug": "cocoindex-code",
+  "name": "cocoindex-code",
+  "tagline": "A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!",
+  "category": "coding",
+  "tags": [
+    "agents",
+    "ast",
+    "cocoindex",
+    "code-search",
+    "coding-agent",
+    "context-engineering",
+    "indexing",
+    "mcp",
+    "python",
+    "tree-sitter"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "cocoindex-io",
+    "url": "https://github.com/cocoindex-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cocoindex-io/cocoindex-code",
+    "huggingface": null,
+    "homepage": "https://cocoindex.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1481,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T01:38:31Z",
+    "first_commit_at": "2026-01-31T21:35:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3497,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:11:16.090202Z",
+  "last_refreshed_at": "2026-04-30T16:11:16.090206Z"
+}

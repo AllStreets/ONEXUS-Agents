@@ -1,7 +1,7 @@
 {
   "slug": "autogen",
   "name": "autogen",
-  "tagline": "Multi-agent conversation framework \u2014 strong GAIA performance.",
+  "tagline": "Multi-agent conversation framework — strong GAIA performance.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agentic",
@@ -28,7 +28,7 @@
   },
   "license": "CC-BY-4.0",
   "metrics": {
-    "stars": 57584,
+    "stars": 57604,
     "downloads_30d": null,
     "last_commit_at": "2026-04-15T11:59:09Z",
     "first_commit_at": "2020-12-04T17:40:27Z"
@@ -41,11 +41,11 @@
       "source_url": "https://huggingface.co/spaces/gaia-benchmark/leaderboard"
     }
   ],
-  "runnable": true,
-  "adapter_ref": "adapters/autogen/mcp.json",
-  "composite_score": 0.5393,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5388,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-30T03:22:52.550249Z"
+  "last_refreshed_at": "2026-04-30T16:10:54.454365Z"
 }
