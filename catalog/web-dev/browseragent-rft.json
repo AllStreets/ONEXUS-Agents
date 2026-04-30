@@ -1,0 +1,44 @@
+{
+  "slug": "browseragent-rft",
+  "name": "BrowserAgent-RFT",
+  "tagline": "TIGER-Lab/BrowserAgent-RFT — None",
+  "category": "web-dev",
+  "tags": [
+    "safetensors",
+    "agent",
+    "browser",
+    "web",
+    "rft",
+    "en",
+    "dataset:TIGER-Lab/BrowserAgent-RFT-Data",
+    "arxiv:2510.10666",
+    "base_model:Qwen/Qwen2.5-7B-Instruct",
+    "base_model:finetune:Qwen/Qwen2.5-7B-Instruct"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TIGER-Lab",
+    "url": "https://huggingface.co/TIGER-Lab"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "TIGER-Lab/BrowserAgent-RFT",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": 39,
+    "last_commit_at": "2025-10-25T05:07:54Z",
+    "first_commit_at": "2025-10-17T13:00:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3712,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:55:51.429716Z",
+  "last_refreshed_at": "2026-04-30T16:55:51.429719Z"
+}

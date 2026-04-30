@@ -1,0 +1,44 @@
+{
+  "slug": "chuck-norris-llm-q4-k-m-gguf",
+  "name": "chuck-norris-llm-Q4_K_M-GGUF",
+  "tagline": "wassemgtk/chuck-norris-llm-Q4_K_M-GGUF — text-generation",
+  "category": "reasoning-math",
+  "tags": [
+    "transformers",
+    "gguf",
+    "agent",
+    "math",
+    "reasoning",
+    "Chuck Norris",
+    "qwen3",
+    "fine-tuned",
+    "chain-of-thought",
+    "llama-cpp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "wassemgtk",
+    "url": "https://huggingface.co/wassemgtk"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "wassemgtk/chuck-norris-llm-Q4_K_M-GGUF",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 25,
+    "last_commit_at": "2026-03-22T15:32:35Z",
+    "first_commit_at": "2026-03-22T15:31:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1609,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:56:49.114986Z",
+  "last_refreshed_at": "2026-04-30T16:56:49.114990Z"
+}

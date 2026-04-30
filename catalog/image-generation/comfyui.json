@@ -1,7 +1,7 @@
 {
   "slug": "comfyui",
   "name": "ComfyUI",
-  "tagline": "Node-based diffusion workflow engine \u2014 substrate for image agents.",
+  "tagline": "Node-based diffusion workflow engine — substrate for image agents.",
   "category": "image-generation",
   "tags": [
     "ai",
@@ -32,7 +32,7 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "adapters/comfyui/mcp.json",
-  "composite_score": 0.5609,
+  "composite_score": 0.6108,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",

@@ -1,0 +1,44 @@
+{
+  "slug": "stable-diffusion-v1-5-openvino",
+  "name": "stable-diffusion-v1-5-openvino",
+  "tagline": "HARRY07979/stable-diffusion-v1-5-openvino — text-to-image",
+  "category": "image-generation",
+  "tags": [
+    "diffusers",
+    "safetensors",
+    "art",
+    "agent",
+    "text-to-image",
+    "en",
+    "fr",
+    "de",
+    "es",
+    "it"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "HARRY07979",
+    "url": "https://huggingface.co/HARRY07979"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "HARRY07979/stable-diffusion-v1-5-openvino",
+    "homepage": null
+  },
+  "license": "creativeml-openrail-m",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": 21,
+    "last_commit_at": "2025-11-20T11:10:27Z",
+    "first_commit_at": "2025-09-20T10:06:40Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1873,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:56:06.324043Z",
+  "last_refreshed_at": "2026-04-30T16:56:06.324046Z"
+}

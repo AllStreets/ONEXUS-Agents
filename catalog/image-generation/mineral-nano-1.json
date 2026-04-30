@@ -1,0 +1,44 @@
+{
+  "slug": "mineral-nano-1",
+  "name": "Mineral-Nano-1",
+  "tagline": "Luke-Bergen/Mineral-Nano-1 — text-to-image",
+  "category": "image-generation",
+  "tags": [
+    "fasttext",
+    "safetensors",
+    "mineral-nano-vision",
+    "agent",
+    "legal",
+    "text-to-image",
+    "dataset:openai/gdpval",
+    "base_model:deepseek-ai/DeepSeek-OCR",
+    "base_model:finetune:deepseek-ai/DeepSeek-OCR",
+    "license:apache-2.0"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Luke-Bergen",
+    "url": "https://huggingface.co/Luke-Bergen"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "Luke-Bergen/Mineral-Nano-1",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": 0,
+    "last_commit_at": "2025-10-24T20:52:49Z",
+    "first_commit_at": "2025-10-23T18:45:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0955,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:56:06.512405Z",
+  "last_refreshed_at": "2026-04-30T16:56:06.512408Z"
+}

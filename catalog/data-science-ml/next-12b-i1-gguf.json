@@ -1,0 +1,44 @@
+{
+  "slug": "next-12b-i1-gguf",
+  "name": "next-12b-i1-GGUF",
+  "tagline": "mradermacher/next-12b-i1-GGUF — question-answering",
+  "category": "data-science-ml",
+  "tags": [
+    "transformers",
+    "gguf",
+    "turkish",
+    "türkiye",
+    "english",
+    "ai",
+    "lamapi",
+    "gemma3",
+    "next",
+    "next-x1"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mradermacher",
+    "url": "https://huggingface.co/mradermacher"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "mradermacher/next-12b-i1-GGUF",
+    "homepage": null
+  },
+  "license": "mit",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": 504,
+    "last_commit_at": "2026-02-19T23:37:05Z",
+    "first_commit_at": "2025-10-29T11:04:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3959,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:55:58.152917Z",
+  "last_refreshed_at": "2026-04-30T16:55:58.152920Z"
+}

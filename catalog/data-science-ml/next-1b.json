@@ -1,0 +1,44 @@
+{
+  "slug": "next-1b",
+  "name": "next-1b",
+  "tagline": "thelamapi/next-1b — text-generation",
+  "category": "data-science-ml",
+  "tags": [
+    "transformers",
+    "safetensors",
+    "gguf",
+    "gemma3_text",
+    "text-generation",
+    "turkish",
+    "türkiye",
+    "english",
+    "ai",
+    "lamapi"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "thelamapi",
+    "url": "https://huggingface.co/thelamapi"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "thelamapi/next-1b",
+    "homepage": null
+  },
+  "license": "mit",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": 659,
+    "last_commit_at": "2026-03-01T18:17:10Z",
+    "first_commit_at": "2025-10-15T11:09:56Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4775,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:55:58.057012Z",
+  "last_refreshed_at": "2026-04-30T16:55:58.057015Z"
+}
