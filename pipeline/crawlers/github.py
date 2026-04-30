@@ -27,7 +27,12 @@ def _headers() -> dict[str, str]:
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(min=1, max=10))
 def fetch_repo(client: httpx.Client, full_name: str) -> dict[str, Any] | None:
     """Return canonical repo metadata or None if the repo is missing/private."""
-    r = client.get(f"{GITHUB_API}/repos/{full_name}", headers=_headers(), timeout=15)
+    r = client.get(
+        f"{GITHUB_API}/repos/{full_name}",
+        headers=_headers(),
+        timeout=15,
+        follow_redirects=True,
+    )
     if r.status_code == 404:
         return None
     r.raise_for_status()
@@ -58,6 +63,7 @@ def _fetch_first_commit_date(client: httpx.Client, full_name: str) -> str | None
             headers=_headers(),
             params={"per_page": 1},
             timeout=15,
+            follow_redirects=True,
         )
         if r.status_code != 200:
             return None
@@ -75,6 +81,7 @@ def _fetch_first_commit_date(client: httpx.Client, full_name: str) -> str | None
             headers=_headers(),
             params={"per_page": 1, "page": last_page},
             timeout=15,
+            follow_redirects=True,
         )
         if r2.status_code != 200 or not r2.json():
             return None
@@ -91,6 +98,7 @@ def search_repos(client: httpx.Client, query: str, limit: int = 30) -> list[str]
         headers=_headers(),
         params={"q": query, "sort": "stars", "order": "desc", "per_page": limit},
         timeout=20,
+        follow_redirects=True,
     )
     r.raise_for_status()
     return [item["full_name"] for item in r.json().get("items", [])]
