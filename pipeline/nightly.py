@@ -1,0 +1,259 @@
+"""Nightly ingestion entrypoint.
+
+Refresh every seeded agent. Auto-discover new candidates per category.
+Classify, score, truncate to top 100, and write JSON. Drops are recorded
+in catalog/_dropped/<date>.json for auditability.
+"""
+
+from __future__ import annotations
+
+import json
+from collections import defaultdict
+from datetime import datetime, timezone
+from pathlib import Path
+
+import click
+import httpx
+from rich.console import Console
+from rich.progress import Progress
+
+from pipeline.build import build_from_github, build_from_huggingface, merge_benchmarks
+from pipeline.crawlers import github as gh
+from pipeline.paths import CATALOG_DIR, DROPPED_DIR
+from pipeline.ranking import rank_category
+from pipeline.schema import Agent, Category, CategoryIndex
+from pipeline.store import (
+    iter_catalog_files,
+    load_agent_file,
+    load_categories,
+    load_seeds,
+    write_agent,
+)
+
+TOP_N = 100
+console = Console()
+
+
+def _index_existing() -> dict[tuple[str, str], Agent]:
+    """Map (category, slug) -> Agent for the on-disk catalog."""
+    out: dict[tuple[str, str], Agent] = {}
+    for f in iter_catalog_files():
+        try:
+            agent = load_agent_file(f)
+            out[(agent.category, agent.slug)] = agent
+        except Exception as e:  # noqa: BLE001
+            console.print(f"[yellow]skip {f}: {e}")
+    return out
+
+
+def _refresh_seeds(
+    client: httpx.Client,
+    categories: CategoryIndex,
+    existing: dict[tuple[str, str], Agent],
+    by_cat: dict[str, list[Agent]],
+    *,
+    dry_run: bool,
+) -> None:
+    for cat in categories.categories:
+        for entry in load_seeds(cat.slug):
+            agent = _refresh_one_seed(client, cat.slug, entry, existing, dry_run)
+            if agent:
+                by_cat[cat.slug].append(agent)
+
+
+def _refresh_one_seed(
+    client: httpx.Client,
+    cat_slug: str,
+    entry: dict,
+    existing: dict[tuple[str, str], Agent],
+    dry_run: bool,
+) -> Agent | None:
+    src = entry.get("source")
+    runnable = bool(entry.get("runnable"))
+    adapter_ref = entry.get("adapter_ref")
+    notes = entry.get("notes")
+
+    if src == "github":
+        repo = entry["repo"]
+        prior = next(
+            (a for (c, _), a in existing.items() if c == cat_slug and a.source.github == repo),
+            None,
+        )
+        agent = build_from_github(
+            client,
+            repo,
+            cat_slug,
+            runnable=runnable,
+            adapter_ref=adapter_ref,
+            notes=notes,
+            discovered_via="seed",
+            existing_first_seen=prior.first_seen_at if prior else None,
+        )
+    elif src == "huggingface":
+        model_id = entry["model"]
+        prior = next(
+            (
+                a
+                for (c, _), a in existing.items()
+                if c == cat_slug and a.source.huggingface == model_id
+            ),
+            None,
+        )
+        agent = build_from_huggingface(
+            client,
+            model_id,
+            cat_slug,
+            runnable=runnable,
+            adapter_ref=adapter_ref,
+            notes=notes,
+            discovered_via="seed",
+            existing_first_seen=prior.first_seen_at if prior else None,
+        )
+    else:
+        console.print(f"[yellow]unknown source for {entry}: {src}")
+        return None
+
+    if agent:
+        merge_benchmarks(agent, prior)
+    return agent
+
+
+def _discover(
+    client: httpx.Client,
+    categories: CategoryIndex,
+    existing: dict[tuple[str, str], Agent],
+    by_cat: dict[str, list[Agent]],
+    *,
+    per_query_limit: int,
+    dry_run: bool,
+) -> None:
+    seen_in_run: set[str] = {a.source.github for ags in by_cat.values() for a in ags if a.source.github}
+    for cat in categories.categories:
+        for q in cat.github_search_queries:
+            try:
+                hits = gh.search_repos(client, q, limit=per_query_limit)
+            except Exception as e:  # noqa: BLE001
+                console.print(f"[yellow]search '{q}' failed: {e}")
+                continue
+            for repo in hits:
+                if repo in seen_in_run:
+                    continue
+                seen_in_run.add(repo)
+                prior = next(
+                    (a for (c, _), a in existing.items() if c == cat.slug and a.source.github == repo),
+                    None,
+                )
+                agent = build_from_github(
+                    client,
+                    repo,
+                    cat.slug,
+                    discovered_via="auto",
+                    existing_first_seen=prior.first_seen_at if prior else None,
+                )
+                if agent:
+                    merge_benchmarks(agent, prior)
+                    by_cat[cat.slug].append(agent)
+
+
+def _write_and_truncate(
+    by_cat: dict[str, list[Agent]],
+    categories: CategoryIndex,
+    *,
+    dry_run: bool,
+) -> dict[str, list[str]]:
+    """Score, truncate, write. Returns dropped slugs per category."""
+    cat_lookup: dict[str, Category] = {c.slug: c for c in categories.categories}
+    dropped: dict[str, list[str]] = {}
+
+    for cat_slug, agents in by_cat.items():
+        cat = cat_lookup.get(cat_slug)
+        if not cat:
+            continue
+
+        # Deduplicate by slug, preferring seed over auto
+        by_slug: dict[str, Agent] = {}
+        for a in agents:
+            existing = by_slug.get(a.slug)
+            if not existing or (a.discovered_via == "seed" and existing.discovered_via != "seed"):
+                by_slug[a.slug] = a
+        deduped = list(by_slug.values())
+
+        ranked = rank_category(deduped, cat)
+        kept = ranked[:TOP_N]
+        cut = ranked[TOP_N:]
+
+        if cut:
+            dropped[cat_slug] = [a.slug for a in cut]
+
+        if dry_run:
+            console.print(f"[cyan]{cat_slug}: would keep {len(kept)}, drop {len(cut)}")
+            continue
+
+        # Wipe the existing category dir so removed entries actually disappear
+        cat_dir = CATALOG_DIR / cat_slug
+        if cat_dir.exists():
+            for f in cat_dir.glob("*.json"):
+                f.unlink()
+
+        for a in kept:
+            write_agent(a)
+
+    return dropped
+
+
+def _record_drops(dropped: dict[str, list[str]]) -> Path | None:
+    if not any(dropped.values()):
+        return None
+    DROPPED_DIR.mkdir(parents=True, exist_ok=True)
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    out = DROPPED_DIR / f"{today}.json"
+    payload = {"generated_at": datetime.now(timezone.utc).isoformat(), "dropped": dropped}
+    out.write_text(json.dumps(payload, indent=2) + "\n")
+    return out
+
+
+@click.command()
+@click.option("--dry-run", is_flag=True, help="Compute everything; write nothing.")
+@click.option("--seeds-only", is_flag=True, help="Skip auto-discovery; refresh seeds only.")
+@click.option("--per-query-limit", default=20, show_default=True, help="GitHub results per query.")
+@click.option(
+    "--categories", "category_filter", multiple=True, help="Limit to specific category slugs."
+)
+def main(
+    dry_run: bool,
+    seeds_only: bool,
+    per_query_limit: int,
+    category_filter: tuple[str, ...],
+) -> None:
+    """Run the nightly catalog refresh."""
+    console.print(f"[bold]ONEXUS-Agents nightly[/] · dry_run={dry_run} · seeds_only={seeds_only}")
+    cats = load_categories()
+    if category_filter:
+        cats.categories = [c for c in cats.categories if c.slug in category_filter]
+
+    existing = _index_existing()
+    by_cat: dict[str, list[Agent]] = defaultdict(list)
+
+    with httpx.Client() as client, Progress() as progress:
+        t1 = progress.add_task("refresh seeds", total=1)
+        _refresh_seeds(client, cats, existing, by_cat, dry_run=dry_run)
+        progress.advance(t1)
+
+        if not seeds_only:
+            t2 = progress.add_task("auto-discover", total=1)
+            _discover(client, cats, existing, by_cat, per_query_limit=per_query_limit, dry_run=dry_run)
+            progress.advance(t2)
+
+        t3 = progress.add_task("score + write", total=1)
+        dropped = _write_and_truncate(by_cat, cats, dry_run=dry_run)
+        progress.advance(t3)
+
+    drops_file = _record_drops(dropped) if not dry_run else None
+    total_kept = sum(min(len(v), TOP_N) for v in by_cat.values())
+    console.print(f"[green]Done.[/] {total_kept} agents across {len(by_cat)} categories.")
+    if drops_file:
+        console.print(f"Drops recorded in {drops_file.relative_to(CATALOG_DIR.parent)}")
+
+
+if __name__ == "__main__":
+    main()
