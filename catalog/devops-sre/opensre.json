@@ -1,0 +1,44 @@
+{
+  "slug": "opensre",
+  "name": "OpenSRE",
+  "tagline": "Open-source AI SRE agent that investigates production incidents using episodic memory and Neo4j knowledge graph. 46 production skills. Self-hosted.",
+  "category": "devops-sre",
+  "tags": [
+    "ai-agent",
+    "ai-sre",
+    "devops",
+    "episodic-memory",
+    "incident-investigation",
+    "incident-response",
+    "knowledge-graph",
+    "langgraph",
+    "site-reliability-engineering",
+    "sre-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "swapnildahiphale",
+    "url": "https://github.com/swapnildahiphale"
+  },
+  "source": {
+    "primary": "github",
+    "github": "swapnildahiphale/OpenSRE",
+    "huggingface": null,
+    "homepage": "https://opensre.in/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 44,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-20T10:43:15Z",
+    "first_commit_at": "2026-03-28T19:01:29Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4463,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:10.606176Z",
+  "last_refreshed_at": "2026-04-30T03:28:10.606179Z"
+}

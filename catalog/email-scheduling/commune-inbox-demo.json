@@ -1,0 +1,44 @@
+{
+  "slug": "commune-inbox-demo",
+  "name": "commune-inbox-demo",
+  "tagline": "Demo app: AI-powered email inbox built with commune.email — automatic triage, LLM reply drafts, one-click send. Next.js + Vercel AI SDK. Clone and run in 5 minutes.",
+  "category": "email-scheduling",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "commune",
+    "customer-support",
+    "email",
+    "email-agent",
+    "intercom-alternative",
+    "llm",
+    "nextjs"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "commune-dev",
+    "url": "https://github.com/commune-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "commune-dev/commune-inbox-demo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-28T10:48:45Z",
+    "first_commit_at": "2026-02-28T10:48:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2837,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:02.946439Z",
+  "last_refreshed_at": "2026-04-30T03:28:02.946442Z"
+}

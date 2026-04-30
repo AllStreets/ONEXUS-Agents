@@ -1,0 +1,44 @@
+{
+  "slug": "codefuse-chatbot",
+  "name": "codefuse-chatbot",
+  "tagline": "Long-form generation backbone reused by content agents.",
+  "category": "content-writing",
+  "tags": [
+    "aiops",
+    "chatbot",
+    "code-repo-analysis",
+    "code-repo-generation",
+    "devops",
+    "gpt",
+    "knowledge-graph",
+    "langchain",
+    "multi-agent",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "codefuse-ai",
+    "url": "https://github.com/codefuse-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "codefuse-ai/codefuse-chatbot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1289,
+    "downloads_30d": null,
+    "last_commit_at": "2024-07-01T09:16:47Z",
+    "first_commit_at": "2023-09-28T02:58:58Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.407,
+  "rank_in_category": 5,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:11.260329Z",
+  "last_refreshed_at": "2026-04-30T03:22:11.260332Z"
+}

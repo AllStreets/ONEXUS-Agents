@@ -1,0 +1,44 @@
+{
+  "slug": "datastoria",
+  "name": "datastoria",
+  "tagline": "AI-native ClickHouse console for your cluster diagnostics and query generation, optimization and data visualization.",
+  "category": "sql-analytics",
+  "tags": [
+    "agent-skills",
+    "ai",
+    "ai-agent",
+    "ai-assistant",
+    "clickhouse",
+    "console",
+    "data-visualization",
+    "data-visualizations",
+    "database-management",
+    "monitoring"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "FrankChen021",
+    "url": "https://github.com/FrankChen021"
+  },
+  "source": {
+    "primary": "github",
+    "github": "FrankChen021/datastoria",
+    "huggingface": null,
+    "homepage": "https://datastoria.app/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 314,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T15:07:00Z",
+    "first_commit_at": "2025-11-10T16:24:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3382,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:32:08.349049Z",
+  "last_refreshed_at": "2026-04-30T03:32:08.349051Z"
+}

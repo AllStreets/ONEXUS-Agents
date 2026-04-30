@@ -1,31 +1,47 @@
 {
   "slug": "open-interpreter",
-  "name": "Open Interpreter",
-  "tagline": "Natural-language interface to your computer's shell, Python, and files.",
+  "name": "open-interpreter",
+  "tagline": "Cross-listed — runs natural-language commands on the host OS.",
   "category": "desktop-os-automation",
-  "tags": ["shell", "python", "local-execution", "cli"],
-  "author": { "type": "org", "handle": "OpenInterpreter", "url": "https://github.com/OpenInterpreter" },
+  "tags": [
+    "chatgpt",
+    "gpt-4",
+    "interpreter",
+    "javascript",
+    "nodejs",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OpenInterpreter",
+    "url": "https://github.com/openinterpreter"
+  },
   "source": {
     "primary": "github",
     "github": "OpenInterpreter/open-interpreter",
     "huggingface": null,
-    "homepage": "https://openinterpreter.com"
+    "homepage": "http://openinterpreter.com/"
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 56200,
+    "stars": 63353,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-19T16:30:00Z",
-    "first_commit_at": "2023-07-14T00:00:00Z"
+    "last_commit_at": "2026-04-27T06:37:29Z",
+    "first_commit_at": "2023-07-14T07:10:44Z"
   },
   "benchmarks": [
-    { "name": "OSWorld", "score": 14.1, "as_of": "2026-02-21", "source_url": "https://os-world.github.io/" }
+    {
+      "name": "OSWorld",
+      "score": 14.1,
+      "as_of": "2026-02-21",
+      "source_url": "https://os-world.github.io/"
+    }
   ],
   "runnable": true,
   "adapter_ref": "adapters/open-interpreter/mcp.json",
-  "composite_score": 0.846,
+  "composite_score": 0.5492,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-29T00:00:00Z"
+  "last_refreshed_at": "2026-04-30T03:22:33.607138Z"
 }

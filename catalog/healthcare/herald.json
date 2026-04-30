@@ -1,0 +1,44 @@
+{
+  "slug": "herald",
+  "name": "herald",
+  "tagline": "Turn clinical guideline PDFs into deterministic, auditable decision engines with source citations.",
+  "category": "healthcare",
+  "tags": [
+    "cds",
+    "clinical-ai",
+    "clinical-decision-support",
+    "clinical-guidelines",
+    "clinical-research",
+    "decision-engine",
+    "ehr",
+    "fhir",
+    "guidelines-as-code",
+    "health-informatics"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "myceldigital",
+    "url": "https://github.com/myceldigital"
+  },
+  "source": {
+    "primary": "github",
+    "github": "myceldigital/herald",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-25T16:36:10Z",
+    "first_commit_at": "2026-03-24T19:17:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3364,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:55.957338Z",
+  "last_refreshed_at": "2026-04-30T03:29:55.957341Z"
+}

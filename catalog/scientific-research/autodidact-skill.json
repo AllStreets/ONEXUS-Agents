@@ -1,0 +1,43 @@
+{
+  "slug": "autodidact-skill",
+  "name": "autodidact-skill",
+  "tagline": "An autonomous research agent built on Karpathy's LLM Wiki— give it a topic, it researches the internet and builds a structured wiki automatically.",
+  "category": "scientific-research",
+  "tags": [
+    "autonomous-agents",
+    "claude-code",
+    "claude-code-skill",
+    "karpathy",
+    "karpathy-llm-wiki",
+    "knowledge-base",
+    "llm",
+    "research-agent",
+    "wiki"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "DamonChen-anan",
+    "url": "https://github.com/DamonChen-anan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DamonChen-anan/autodidact-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-13T14:14:37Z",
+    "first_commit_at": "2026-04-11T15:34:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3518,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:40.023157Z",
+  "last_refreshed_at": "2026-04-30T03:28:40.023161Z"
+}

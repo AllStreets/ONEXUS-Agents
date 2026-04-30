@@ -1,0 +1,44 @@
+{
+  "slug": "autosearch",
+  "name": "Autosearch",
+  "tagline": "Open-source deep research for AI agents: 40 channels, 10+ Chinese sources.",
+  "category": "scientific-research",
+  "tags": [
+    "agent-infrastructure",
+    "agentic-search",
+    "ai-agent",
+    "ai-agents",
+    "autogen",
+    "chinese-search",
+    "claude-code",
+    "claude-code-plugin",
+    "cline",
+    "cursor"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "0xmariowu",
+    "url": "https://github.com/0xmariowu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "0xmariowu/Autosearch",
+    "huggingface": null,
+    "homepage": "https://www.autosearch.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-26T14:23:47Z",
+    "first_commit_at": "2026-03-25T00:52:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3829,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:39.235486Z",
+  "last_refreshed_at": "2026-04-30T03:28:39.235489Z"
+}

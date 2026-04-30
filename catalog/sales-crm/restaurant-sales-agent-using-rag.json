@@ -1,0 +1,42 @@
+{
+  "slug": "restaurant-sales-agent-using-rag",
+  "name": "Restaurant_Sales_Agent-using-RAG",
+  "tagline": "Restaurant Sales Agent is an AI-powered restaurant analytics and Q&A system built with Retrieval-Augmented Generation. It leverages vector embeddings over structured sales data to answer business ques",
+  "category": "sales-crm",
+  "tags": [
+    "chatbot",
+    "faiss-vector-database",
+    "groq-api",
+    "langchain",
+    "llm",
+    "python",
+    "retrieval-augmented-generation",
+    "sales-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "92kareeem",
+    "url": "https://github.com/92kareeem"
+  },
+  "source": {
+    "primary": "github",
+    "github": "92kareeem/Restaurant_Sales_Agent-using-RAG",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-11T03:20:43Z",
+    "first_commit_at": "2025-12-08T11:06:52Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2285,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:28.956047Z",
+  "last_refreshed_at": "2026-04-30T03:30:28.956050Z"
+}

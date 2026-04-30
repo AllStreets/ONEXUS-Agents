@@ -1,0 +1,41 @@
+{
+  "slug": "rag-based-support-agent",
+  "name": "rag-based-support-agent",
+  "tagline": "A RAG-based support agent that automatically learns from resolved Zendesk tickets to provide intelligent responses to new support queries. Built with LangChain and HuggingFace embeddings.",
+  "category": "customer-support",
+  "tags": [
+    "huggingface",
+    "langchain",
+    "machine-learning",
+    "python",
+    "rag",
+    "support-agent",
+    "zendesk"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "djpapzin",
+    "url": "https://github.com/djpapzin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "djpapzin/rag-based-support-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-03T19:38:00Z",
+    "first_commit_at": "2025-04-03T17:59:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1883,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:25:26.919091Z",
+  "last_refreshed_at": "2026-04-30T03:25:26.919094Z"
+}

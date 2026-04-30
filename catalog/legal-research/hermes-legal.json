@@ -1,0 +1,43 @@
+{
+  "slug": "hermes-legal",
+  "name": "hermes-legal",
+  "tagline": "Autonomous contract risk analysis - scores clauses, suggests negotiation language, gives SIGN/NEGOTIATE/REJECT verdict, compares versions, watches folders. English + Turkish.",
+  "category": "legal-research",
+  "tags": [
+    "atropos",
+    "autonomous-agents",
+    "contract-analysis",
+    "hermes-agent",
+    "legal",
+    "nlp",
+    "nous-research",
+    "risk-analysis",
+    "turkish"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Lethe044",
+    "url": "https://github.com/Lethe044"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Lethe044/hermes-legal",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-15T18:12:30Z",
+    "first_commit_at": "2026-03-15T13:28:01Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2174,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:25:22.404957Z",
+  "last_refreshed_at": "2026-04-30T03:25:22.404960Z"
+}

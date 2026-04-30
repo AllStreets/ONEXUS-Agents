@@ -1,0 +1,44 @@
+{
+  "slug": "meltano",
+  "name": "meltano",
+  "tagline": "DataOps platform with agent-driven pipeline generation.",
+  "category": "data-engineering",
+  "tags": [
+    "connectors",
+    "data",
+    "data-engineering",
+    "data-pipelines",
+    "dataops",
+    "dataops-platform",
+    "elt",
+    "extract-data",
+    "integration",
+    "loaders"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "meltano",
+    "url": "https://github.com/meltano"
+  },
+  "source": {
+    "primary": "github",
+    "github": "meltano/meltano",
+    "huggingface": null,
+    "homepage": "https://meltano.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2470,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T01:44:35Z",
+    "first_commit_at": "2018-04-27T19:49:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4265,
+  "rank_in_category": 6,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:21:52.425792Z",
+  "last_refreshed_at": "2026-04-30T03:21:52.425794Z"
+}

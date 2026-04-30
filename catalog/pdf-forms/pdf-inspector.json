@@ -1,0 +1,44 @@
+{
+  "slug": "pdf-inspector",
+  "name": "pdf-inspector",
+  "tagline": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+  "category": "pdf-forms",
+  "tags": [
+    "markdown",
+    "nodejs",
+    "ocr-routing",
+    "pdf",
+    "pdf-classification",
+    "pdf-extraction",
+    "pdf-parser",
+    "python",
+    "rust",
+    "text-extraction"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "firecrawl",
+    "url": "https://github.com/firecrawl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "firecrawl/pdf-inspector",
+    "huggingface": null,
+    "homepage": "https://www.npmjs.com/package/@firecrawl/pdf-inspector"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 969,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T00:22:57Z",
+    "first_commit_at": "2026-02-06T19:51:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5623,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:41.617235Z",
+  "last_refreshed_at": "2026-04-30T03:31:41.617238Z"
+}

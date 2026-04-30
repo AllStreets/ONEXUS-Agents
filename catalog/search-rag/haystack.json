@@ -1,0 +1,44 @@
+{
+  "slug": "haystack",
+  "name": "haystack",
+  "tagline": "Production RAG and agentic search framework.",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "agents",
+    "ai",
+    "gemini",
+    "generative-ai",
+    "gpt-4",
+    "information-retrieval",
+    "large-language-models",
+    "llm",
+    "machine-learning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "deepset-ai",
+    "url": "https://github.com/deepset-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "deepset-ai/haystack",
+    "huggingface": null,
+    "homepage": "https://haystack.deepset.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 25023,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T14:48:46Z",
+    "first_commit_at": "2019-11-14T10:42:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6805,
+  "rank_in_category": 3,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:27.634845Z",
+  "last_refreshed_at": "2026-04-30T03:22:27.634848Z"
+}

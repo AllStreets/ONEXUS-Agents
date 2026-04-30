@@ -1,0 +1,44 @@
+{
+  "slug": "crewai-research-assistant",
+  "name": "crewai-research-assistant",
+  "tagline": "The CrewAI Research Assistant is a powerful tool designed to help users explore any topic using AI Agents. Built with CrewAI, Exa, and Streamlit, this assistant supports multiple large language models",
+  "category": "scientific-research",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "crewai",
+    "crewai-tools",
+    "exa-ai",
+    "groq-api",
+    "ollama-api",
+    "openai-api",
+    "research-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "billy-enrizky",
+    "url": "https://github.com/billy-enrizky"
+  },
+  "source": {
+    "primary": "github",
+    "github": "billy-enrizky/crewai-research-assistant",
+    "huggingface": null,
+    "homepage": "https://crewai-research-assistant.streamlit.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2025-02-17T05:21:32Z",
+    "first_commit_at": "2025-02-17T01:37:29Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1895,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:43.146864Z",
+  "last_refreshed_at": "2026-04-30T03:28:43.146867Z"
+}

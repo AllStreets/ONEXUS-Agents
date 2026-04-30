@@ -1,0 +1,40 @@
+{
+  "slug": "vaultai",
+  "name": "VaultAI",
+  "tagline": "An AI chatbot plugin for Obsidian using the Gemini API for note summarization, content generation, and more. Enhance your workflow with AI assistance like the Notion AI bot.",
+  "category": "knowledge-management",
+  "tags": [
+    "ai",
+    "chatbot",
+    "notion",
+    "notion-ai",
+    "obsidian",
+    "obsidian-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "0xneobyte",
+    "url": "https://github.com/0xneobyte"
+  },
+  "source": {
+    "primary": "github",
+    "github": "0xneobyte/VaultAI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 63,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-11T17:38:28Z",
+    "first_commit_at": "2024-11-14T23:03:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.596,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:26.500247Z",
+  "last_refreshed_at": "2026-04-30T03:31:26.500250Z"
+}

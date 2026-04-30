@@ -1,0 +1,41 @@
+{
+  "slug": "graphrag-legal-demo",
+  "name": "graphrag-legal-demo",
+  "tagline": "GraphRAG for Legal AI: Context-aware contract analysis using Neo4j, OpenAI and the CUAD dataset.",
+  "category": "legal-research",
+  "tags": [
+    "contract-analysis",
+    "graphrag",
+    "knowledge-graph",
+    "legal-ai",
+    "llm",
+    "neo4j",
+    "openai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "thomasbln",
+    "url": "https://github.com/thomasbln"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thomasbln/graphrag-legal-demo",
+    "huggingface": null,
+    "homepage": "https://medium.com/p/01436abfe095"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-18T15:13:26Z",
+    "first_commit_at": "2025-12-26T15:40:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2368,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:25:20.928256Z",
+  "last_refreshed_at": "2026-04-30T03:25:20.928259Z"
+}

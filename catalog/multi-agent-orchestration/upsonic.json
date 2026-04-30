@@ -1,0 +1,44 @@
+{
+  "slug": "upsonic",
+  "name": "Upsonic",
+  "tagline": "Build autonomous AI agents in Python.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agent-framework",
+    "autonomous-agent",
+    "autonomous-agents",
+    "claude",
+    "computer-use",
+    "llms",
+    "mcp",
+    "model-context-protocol",
+    "openai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Upsonic",
+    "url": "https://github.com/Upsonic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Upsonic/Upsonic",
+    "huggingface": null,
+    "homepage": "https://docs.upsonic.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7836,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T17:12:14Z",
+    "first_commit_at": "2024-05-26T16:23:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.384,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:21.324218Z",
+  "last_refreshed_at": "2026-04-30T03:29:21.324221Z"
+}

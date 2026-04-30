@@ -1,0 +1,41 @@
+{
+  "slug": "bifrost",
+  "name": "bifrost",
+  "tagline": "A fast multi-modal routing engine",
+  "category": "travel-planning",
+  "tags": [
+    "go",
+    "golang",
+    "gtfs",
+    "mobility",
+    "open-street-map",
+    "public-transport",
+    "trip-planner"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Vector-Hector",
+    "url": "https://github.com/Vector-Hector"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Vector-Hector/bifrost",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2024-04-30T08:46:12Z",
+    "first_commit_at": "2023-12-02T18:27:14Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2568,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:16.488886Z",
+  "last_refreshed_at": "2026-04-30T03:30:16.488889Z"
+}

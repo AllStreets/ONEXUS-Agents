@@ -1,10 +1,14 @@
 {
   "slug": "whisper",
-  "name": "Whisper",
-  "tagline": "OpenAI's reference speech-to-text model — backbone of countless agents.",
+  "name": "whisper",
+  "tagline": "Reference STT model wrapped by countless transcription agents.",
   "category": "audio-speech",
-  "tags": ["stt", "transcription", "multilingual"],
-  "author": { "type": "org", "handle": "openai", "url": "https://github.com/openai" },
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "openai",
+    "url": "https://github.com/openai"
+  },
   "source": {
     "primary": "github",
     "github": "openai/whisper",
@@ -13,17 +17,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 71200,
+    "stars": 98652,
     "downloads_30d": null,
-    "last_commit_at": "2026-01-18T05:20:00Z",
-    "first_commit_at": "2022-09-21T00:00:00Z"
+    "last_commit_at": "2026-04-15T16:32:15Z",
+    "first_commit_at": "2022-09-21T16:09:43Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.794,
+  "composite_score": 0.6868,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-29T00:00:00Z"
+  "last_refreshed_at": "2026-04-30T03:22:19.545906Z"
 }

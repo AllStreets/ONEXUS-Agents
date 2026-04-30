@@ -1,0 +1,42 @@
+{
+  "slug": "flashadventure",
+  "name": "FlashAdventure",
+  "tagline": "🕵 Code for our EMNLP 2025 Main paper: \"FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games\"",
+  "category": "game-playing",
+  "tags": [
+    "agent",
+    "computer-use",
+    "computer-using-agent",
+    "embodied-agent",
+    "game-agent",
+    "gui-agent",
+    "vision-language-model",
+    "vlm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ahnjaewoo",
+    "url": "https://github.com/ahnjaewoo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ahnjaewoo/FlashAdventure",
+    "huggingface": null,
+    "homepage": "https://ahnjaewoo.github.io/flashadventure/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-26T10:02:51Z",
+    "first_commit_at": "2025-09-03T02:10:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5098,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:58.019336Z",
+  "last_refreshed_at": "2026-04-30T03:30:58.019339Z"
+}

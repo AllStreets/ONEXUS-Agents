@@ -1,0 +1,41 @@
+{
+  "slug": "myagents",
+  "name": "MyAgents",
+  "tagline": "MyAgents - 优雅、易用的 Agent 桌面端 ，一站式 Agent 工作台与任务中心",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "code-agent",
+    "desktop",
+    "manus",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hAcKlyc",
+    "url": "https://github.com/hAcKlyc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hAcKlyc/MyAgents",
+    "huggingface": null,
+    "homepage": "https://myagents.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 401,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T18:49:37Z",
+    "first_commit_at": "2026-01-23T10:41:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3327,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:42.924681Z",
+  "last_refreshed_at": "2026-04-30T03:23:42.924685Z"
+}

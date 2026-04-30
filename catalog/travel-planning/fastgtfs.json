@@ -1,0 +1,44 @@
+{
+  "slug": "fastgtfs",
+  "name": "fastgtfs",
+  "tagline": "A pure Rust library that provides GTFS parsing, navigation, time table creation, and real-time network simulation. ",
+  "category": "travel-planning",
+  "tags": [
+    "gtfs",
+    "gtfs-feed",
+    "gtfs-simulation",
+    "navigation",
+    "public-transport",
+    "public-transport-data-exchange",
+    "raptor",
+    "rust-crate",
+    "timetable-generator",
+    "trip-planner"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nicomazz",
+    "url": "https://github.com/nicomazz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nicomazz/fastgtfs",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 40,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-06T21:21:13Z",
+    "first_commit_at": "2020-06-19T14:30:13Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3411,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:07.915734Z",
+  "last_refreshed_at": "2026-04-30T03:30:07.915737Z"
+}

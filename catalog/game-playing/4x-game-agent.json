@@ -1,0 +1,44 @@
+{
+  "slug": "4x-game-agent",
+  "name": "4x-game-agent",
+  "tagline": "LLM-powered AI agent framework for 4X mobile strategy games (Rise of Kingdoms, Evony, Lords Mobile, etc.). 5-layer hybrid architecture: OCR → FSM → World Model → Workflows → LLM Vision. 99% cheaper th",
+  "category": "game-playing",
+  "tags": [
+    "4x-strategy",
+    "adb",
+    "ai-agent",
+    "android-automation",
+    "anthropic",
+    "claude-api",
+    "computer-vision",
+    "evony",
+    "game-agent",
+    "game-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sonpiaz",
+    "url": "https://github.com/sonpiaz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sonpiaz/4x-game-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-15T17:48:24Z",
+    "first_commit_at": "2026-03-15T17:40:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.366,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:00.250250Z",
+  "last_refreshed_at": "2026-04-30T03:31:00.250253Z"
+}

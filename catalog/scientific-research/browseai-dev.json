@@ -1,0 +1,44 @@
+{
+  "slug": "browseai-dev",
+  "name": "BrowseAI-Dev",
+  "tagline": "Reliable research infrastructure for AI agents. Evidence-backed web search with citations, confidence scores, and Clarity anti-hallucination. MCP server, REST API, Python SDK.",
+  "category": "scientific-research",
+  "tags": [
+    "agent-tools",
+    "ai-agent",
+    "anti-hallucination",
+    "browseai-dev",
+    "browseaidev",
+    "citations",
+    "clarity",
+    "crewai",
+    "fact-checking",
+    "hallucination-prevention"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "BrowseAI-HQ",
+    "url": "https://github.com/BrowseAI-HQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BrowseAI-HQ/BrowseAI-Dev",
+    "huggingface": null,
+    "homepage": "https://browseai.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 17,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-19T09:15:30Z",
+    "first_commit_at": "2026-03-09T06:39:47Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3779,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:37.729599Z",
+  "last_refreshed_at": "2026-04-30T03:28:37.729602Z"
+}

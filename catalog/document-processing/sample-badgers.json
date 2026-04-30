@@ -1,0 +1,44 @@
+{
+  "slug": "sample-badgers",
+  "name": "sample-badgers",
+  "tagline": "Guidance on deploying a generative AI document analysis with Amazon Bedrock AgentCore. Auto-classifies, enhances, and aggregates multi-type documents using Gestalt-informed vision prompts. Custom anal",
+  "category": "document-processing",
+  "tags": [
+    "agentcore",
+    "agentcore-sdk",
+    "agentic-ai",
+    "agentic-workflow",
+    "amazon-nova",
+    "badgers",
+    "cdk",
+    "claude",
+    "composable-prompts",
+    "document-extraction"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aws-samples",
+    "url": "https://github.com/aws-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-samples/sample-badgers",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T22:56:03Z",
+    "first_commit_at": "2026-02-03T15:12:25Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4178,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:27:41.351446Z",
+  "last_refreshed_at": "2026-04-30T03:27:41.351449Z"
+}

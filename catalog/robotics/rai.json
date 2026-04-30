@@ -1,0 +1,44 @@
+{
+  "slug": "rai",
+  "name": "rai",
+  "tagline": "RAI is a vendor agnostic agentic framework for Physical AI robotics, utilizing ROS 2 tools to perform complex actions, defined scenarios, free interface execution, log summaries, voice interaction and",
+  "category": "robotics",
+  "tags": [
+    "ai",
+    "ai-agents-framework",
+    "embodied-agent",
+    "embodied-agents",
+    "embodied-ai",
+    "embodied-artificial-intelligence",
+    "generative-ai",
+    "llm",
+    "multi-agent-systems",
+    "multimodal"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "RobotecAI",
+    "url": "https://github.com/RobotecAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RobotecAI/rai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 499,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T15:56:17Z",
+    "first_commit_at": "2024-06-03T15:00:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6482,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:11.729504Z",
+  "last_refreshed_at": "2026-04-30T03:31:11.729507Z"
+}

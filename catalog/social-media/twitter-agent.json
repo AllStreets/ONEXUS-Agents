@@ -1,0 +1,44 @@
+{
+  "slug": "twitter-agent",
+  "name": "twitter-agent",
+  "tagline": "Build your distribution channel using autonomous Twitter agents that researches trending AI topics, writes authentic developer-focused X posts, and schedules them for optimal engagement.",
+  "category": "social-media",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "autonomous-agent",
+    "aws-ec2",
+    "bun",
+    "docker",
+    "drizzle-orm",
+    "github-actions",
+    "grok"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "arvindrk",
+    "url": "https://github.com/arvindrk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "arvindrk/twitter-agent",
+    "huggingface": null,
+    "homepage": "https://twitter-agent-chi.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T03:30:34Z",
+    "first_commit_at": "2026-04-08T04:12:25Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5021,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:41.580722Z",
+  "last_refreshed_at": "2026-04-30T03:30:41.580725Z"
+}

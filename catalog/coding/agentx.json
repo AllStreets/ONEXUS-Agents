@@ -1,0 +1,39 @@
+{
+  "slug": "agentx",
+  "name": "agentx",
+  "tagline": "AgentX - Agent Extension: MCP Servers, Agent Skills and Plugins Manager",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "code-agent",
+    "mcp",
+    "plugin",
+    "skills"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agentsdance",
+    "url": "https://github.com/agentsdance"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agentsdance/agentx",
+    "huggingface": null,
+    "homepage": "https://agentskills.host/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 48,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-01T01:16:56Z",
+    "first_commit_at": "2026-01-09T15:33:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2309,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:49.844205Z",
+  "last_refreshed_at": "2026-04-30T03:23:49.844208Z"
+}

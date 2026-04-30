@@ -1,0 +1,44 @@
+{
+  "slug": "osworld",
+  "name": "OSWorld",
+  "tagline": "OSWorld benchmark + reference desktop agents.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent",
+    "artificial-intelligence",
+    "benchmark",
+    "cli",
+    "code-generation",
+    "gui",
+    "language-model",
+    "large-action-model",
+    "llm",
+    "multimodal"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "xlang-ai",
+    "url": "https://github.com/xlang-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xlang-ai/OSWorld",
+    "huggingface": null,
+    "homepage": "https://os-world.github.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2816,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T09:09:15Z",
+    "first_commit_at": "2023-10-16T01:50:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4043,
+  "rank_in_category": 4,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:34.542950Z",
+  "last_refreshed_at": "2026-04-30T03:22:34.542953Z"
+}

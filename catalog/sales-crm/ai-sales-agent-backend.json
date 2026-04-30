@@ -1,0 +1,39 @@
+{
+  "slug": "ai-sales-agent-backend",
+  "name": "ai-sales-agent-backend",
+  "tagline": "A sophisticated Node.js application that implements an AI-powered sales agent using Together AI's LLM capabilities. The platform handles product inquiries, demo scheduling, and customer interactions w",
+  "category": "sales-crm",
+  "tags": [
+    "chatbot",
+    "llm",
+    "pinecone",
+    "sales-agent",
+    "togetherai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "gooduru-vineeth",
+    "url": "https://github.com/gooduru-vineeth"
+  },
+  "source": {
+    "primary": "github",
+    "github": "gooduru-vineeth/ai-sales-agent-backend",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2024-11-24T10:53:06Z",
+    "first_commit_at": "2024-11-21T17:34:29Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2646,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:25.034331Z",
+  "last_refreshed_at": "2026-04-30T03:30:25.034334Z"
+}

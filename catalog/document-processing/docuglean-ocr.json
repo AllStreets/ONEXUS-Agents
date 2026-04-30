@@ -1,0 +1,42 @@
+{
+  "slug": "docuglean-ocr",
+  "name": "docuglean-ocr",
+  "tagline": "Intelligent document processing. Extract structured data like JSON, Markdown and HTML from documents using AI.",
+  "category": "document-processing",
+  "tags": [
+    "developer-tools",
+    "document-classification",
+    "document-extraction",
+    "llms",
+    "ocr",
+    "parser",
+    "pdf",
+    "pdf-converter"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "cernis-intelligence",
+    "url": "https://github.com/cernis-intelligence"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cernis-intelligence/docuglean-ocr",
+    "huggingface": null,
+    "homepage": "https://cernisintelligence.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 115,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-17T16:36:41Z",
+    "first_commit_at": "2025-09-02T01:17:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.346,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:27:35.465339Z",
+  "last_refreshed_at": "2026-04-30T03:27:35.465342Z"
+}

@@ -3,29 +3,46 @@
   "name": "browser-use",
   "tagline": "Make any LLM control a browser — popular WebArena baseline.",
   "category": "browser-automation",
-  "tags": ["webarena", "playwright", "vision", "tool-use"],
-  "author": { "type": "org", "handle": "browser-use", "url": "https://github.com/browser-use" },
+  "tags": [
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "browser-use",
+    "llm",
+    "playwright",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "browser-use",
+    "url": "https://github.com/browser-use"
+  },
   "source": {
     "primary": "github",
     "github": "browser-use/browser-use",
     "huggingface": null,
-    "homepage": "https://browser-use.com"
+    "homepage": "https://browser-use.com/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 31900,
+    "stars": 91257,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-28T07:55:00Z",
-    "first_commit_at": "2024-10-31T00:00:00Z"
+    "last_commit_at": "2026-04-26T16:59:07Z",
+    "first_commit_at": "2024-10-31T16:00:29Z"
   },
   "benchmarks": [
-    { "name": "WebArena", "score": 39.2, "as_of": "2026-03-04", "source_url": "https://webarena.dev/" }
+    {
+      "name": "WebArena",
+      "score": 39.2,
+      "as_of": "2026-03-04",
+      "source_url": "https://webarena.dev/"
+    }
   ],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.872,
+  "composite_score": 0.5476,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-29T00:00:00Z"
+  "last_refreshed_at": "2026-04-30T03:22:29.300580Z"
 }

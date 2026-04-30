@@ -1,0 +1,39 @@
+{
+  "slug": "research-assistant",
+  "name": "research-assistant",
+  "tagline": "A local RAG (Retrieval-Augmented Generation) system that allows you to upload PDFs and have conversations about their content using local LLMs via Ollama.",
+  "category": "search-rag",
+  "tags": [
+    "docker",
+    "ollama",
+    "rag",
+    "rag-agent",
+    "research"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "spoturno",
+    "url": "https://github.com/spoturno"
+  },
+  "source": {
+    "primary": "github",
+    "github": "spoturno/research-assistant",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-28T14:33:12Z",
+    "first_commit_at": "2025-05-25T20:33:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.189,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:26.218002Z",
+  "last_refreshed_at": "2026-04-30T03:26:26.218004Z"
+}

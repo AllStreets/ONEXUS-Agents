@@ -1,0 +1,39 @@
+{
+  "slug": "agentic-db-query",
+  "name": "agentic-db-query",
+  "tagline": "Natural language to SQL in TypeScript — LLM text-to-SQL agent with schema injection, validation, Vercel AI SDK, REST API & CLI.",
+  "category": "sql-analytics",
+  "tags": [
+    "natural-language-query",
+    "nodejs",
+    "sql-agent",
+    "text-to-sql",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ggaytan901",
+    "url": "https://github.com/ggaytan901"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ggaytan901/agentic-db-query",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 29,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T12:14:21Z",
+    "first_commit_at": "2026-04-16T12:14:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2683,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:32:13.636340Z",
+  "last_refreshed_at": "2026-04-30T03:32:13.636343Z"
+}

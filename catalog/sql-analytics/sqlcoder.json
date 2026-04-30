@@ -1,0 +1,33 @@
+{
+  "slug": "sqlcoder",
+  "name": "sqlcoder",
+  "tagline": "OSS text-to-SQL model widely used by analytics agents.",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "defog-ai",
+    "url": "https://github.com/defog-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "defog-ai/sqlcoder",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4012,
+    "downloads_30d": null,
+    "last_commit_at": "2024-05-23T03:06:26Z",
+    "first_commit_at": "2023-08-17T21:19:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2867,
+  "rank_in_category": 15,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:23:00.407345Z",
+  "last_refreshed_at": "2026-04-30T03:23:00.407348Z"
+}

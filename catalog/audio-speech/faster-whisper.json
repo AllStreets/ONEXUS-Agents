@@ -1,0 +1,42 @@
+{
+  "slug": "faster-whisper",
+  "name": "faster-whisper",
+  "tagline": "Fast Whisper port used in production transcription agents.",
+  "category": "audio-speech",
+  "tags": [
+    "deep-learning",
+    "inference",
+    "openai",
+    "quantization",
+    "speech-recognition",
+    "speech-to-text",
+    "transformer",
+    "whisper"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SYSTRAN",
+    "url": "https://github.com/SYSTRAN"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SYSTRAN/faster-whisper",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 22511,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-19T14:40:46Z",
+    "first_commit_at": "2023-02-11T09:21:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.505,
+  "rank_in_category": 7,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:20.330195Z",
+  "last_refreshed_at": "2026-04-30T03:22:20.330199Z"
+}

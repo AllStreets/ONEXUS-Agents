@@ -1,0 +1,44 @@
+{
+  "slug": "gdoczai",
+  "name": "GdoczAI",
+  "tagline": "GDocz by Gramosoft is an open-source Intelligent Document Processing platform that turns raw PDFs and images into clean, structured JSON — powered by multi-engine OCR and AI-driven schema extraction. ",
+  "category": "pdf-forms",
+  "tags": [
+    "data-extraction",
+    "document-ai",
+    "document-processing",
+    "enterprise-ai",
+    "gemini",
+    "intelligent-document-processing",
+    "multi-model-ocr",
+    "ocr",
+    "olmocr2",
+    "open-source"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "GramosoftAI",
+    "url": "https://github.com/GramosoftAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GramosoftAI/GdoczAI",
+    "huggingface": null,
+    "homepage": "https://gdocz.gramopro.ai/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-30T08:55:53Z",
+    "first_commit_at": "2026-03-23T07:39:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3679,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:52.967230Z",
+  "last_refreshed_at": "2026-04-30T03:31:52.967233Z"
+}

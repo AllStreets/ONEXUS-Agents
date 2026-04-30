@@ -1,0 +1,44 @@
+{
+  "slug": "turboocr",
+  "name": "TurboOCR",
+  "tagline": "Fast GPU OCR server. 270 img/s on FUNSD. TensorRT FP16, PP-OCRv5, HTTP + gRPC.",
+  "category": "pdf-forms",
+  "tags": [
+    "document-ai",
+    "document-parsing",
+    "easyocr",
+    "fastapi",
+    "fp16",
+    "gpu-ocr",
+    "grpc",
+    "inference-server",
+    "nvidia",
+    "ocr"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aiptimizer",
+    "url": "https://github.com/aiptimizer"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aiptimizer/TurboOCR",
+    "huggingface": null,
+    "homepage": "https://turboocr.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 252,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T00:53:11Z",
+    "first_commit_at": "2026-04-08T14:13:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5101,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:44.634667Z",
+  "last_refreshed_at": "2026-04-30T03:31:44.634670Z"
+}

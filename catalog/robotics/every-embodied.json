@@ -1,0 +1,40 @@
+{
+  "slug": "every-embodied",
+  "name": "every-embodied",
+  "tagline": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
+  "category": "robotics",
+  "tags": [
+    "embodied-agent",
+    "embodied-ai",
+    "embodied-intelligence",
+    "openvla",
+    "smolvla",
+    "vision-language-action-model"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "datawhalechina",
+    "url": "https://github.com/datawhalechina"
+  },
+  "source": {
+    "primary": "github",
+    "github": "datawhalechina/every-embodied",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1640,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T12:50:35Z",
+    "first_commit_at": "2024-12-08T13:33:40Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6765,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:07.224004Z",
+  "last_refreshed_at": "2026-04-30T03:31:07.224007Z"
+}

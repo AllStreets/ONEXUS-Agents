@@ -1,0 +1,37 @@
+{
+  "slug": "research-town",
+  "name": "research-town",
+  "tagline": "[ICML 2025] ResearchTown: Simulator of Human Research Community",
+  "category": "scientific-research",
+  "tags": [
+    "automatic-scientific-discovery",
+    "multi-agent-simulation",
+    "research-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ulab-uiuc",
+    "url": "https://github.com/ulab-uiuc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ulab-uiuc/research-town",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 202,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T22:06:31Z",
+    "first_commit_at": "2024-05-02T04:30:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5468,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:30.134356Z",
+  "last_refreshed_at": "2026-04-30T03:28:30.134359Z"
+}

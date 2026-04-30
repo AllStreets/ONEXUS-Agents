@@ -1,0 +1,43 @@
+{
+  "slug": "ai-trip-planner",
+  "name": "AI_Trip_Planner",
+  "tagline": "基于langchain1.1版本和高德mcp server的多智能体agent旅游助手",
+  "category": "travel-planning",
+  "tags": [
+    "ai",
+    "amap",
+    "deepseek",
+    "fastapi",
+    "langchain",
+    "llm",
+    "python",
+    "travel-assistant",
+    "trip-planner"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "eason69113-source",
+    "url": "https://github.com/eason69113-source"
+  },
+  "source": {
+    "primary": "github",
+    "github": "eason69113-source/AI_Trip_Planner",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-30T05:33:38Z",
+    "first_commit_at": "2025-12-15T14:00:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3296,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:10.316517Z",
+  "last_refreshed_at": "2026-04-30T03:30:10.316520Z"
+}

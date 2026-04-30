@@ -1,0 +1,37 @@
+{
+  "slug": "math",
+  "name": "math",
+  "tagline": "MATH benchmark — reference reasoning evaluation.",
+  "category": "reasoning-math",
+  "tags": [
+    "logic",
+    "math",
+    "reasoning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hendrycks",
+    "url": "https://github.com/hendrycks"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hendrycks/math",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1346,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-06T18:25:04Z",
+    "first_commit_at": "2021-02-10T04:15:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2339,
+  "rank_in_category": 5,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:51.697508Z",
+  "last_refreshed_at": "2026-04-30T03:22:51.697511Z"
+}

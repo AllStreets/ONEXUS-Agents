@@ -1,0 +1,33 @@
+{
+  "slug": "nlm-ingestor",
+  "name": "nlm-ingestor",
+  "tagline": "Layout-aware document ingestion pipeline.",
+  "category": "document-processing",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "nlmatics",
+    "url": "https://github.com/nlmatics"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nlmatics/nlm-ingestor",
+    "huggingface": null,
+    "homepage": "https://www.nlmatics.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1282,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-28T13:05:27Z",
+    "first_commit_at": "2024-01-23T08:25:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.402,
+  "rank_in_category": 7,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:39.547040Z",
+  "last_refreshed_at": "2026-04-30T03:22:39.547043Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "obsidianmcpserver",
+  "name": "ObsidianMCPServer",
+  "tagline": "A Model Context Protocol (MCP) server that enables AI assistants to interact with your Obsidian vault ",
+  "category": "knowledge-management",
+  "tags": [
+    "ai",
+    "claude",
+    "claude-desktop",
+    "cursor",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "model-context-protocol-server",
+    "obsidian",
+    "obsidian-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "otaviocc",
+    "url": "https://github.com/otaviocc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "otaviocc/ObsidianMCPServer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-16T12:56:14Z",
+    "first_commit_at": "2025-07-20T07:49:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4256,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:28.008762Z",
+  "last_refreshed_at": "2026-04-30T03:31:28.008765Z"
+}

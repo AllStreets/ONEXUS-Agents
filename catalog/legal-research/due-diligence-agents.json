@@ -1,0 +1,44 @@
+{
+  "slug": "due-diligence-agents",
+  "name": "due-diligence-agents",
+  "tagline": "Find what gets buried in the data room. Open-source integrated M&A due diligence — 9 specialist domains across every contract, cross-referenced with exact citations.",
+  "category": "legal-research",
+  "tags": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "compliance",
+    "contract-analysis",
+    "cybersecurity",
+    "document-analysis",
+    "due-diligence",
+    "esg",
+    "hr-tech"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zoharbabin",
+    "url": "https://github.com/zoharbabin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zoharbabin/due-diligence-agents",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/dd-agents/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T07:03:34Z",
+    "first_commit_at": "2026-03-30T21:57:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2847,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:25:18.710881Z",
+  "last_refreshed_at": "2026-04-30T03:25:18.710884Z"
+}

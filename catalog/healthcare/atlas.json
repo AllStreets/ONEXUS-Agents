@@ -1,0 +1,44 @@
+{
+  "slug": "atlas",
+  "name": "atlas",
+  "tagline": "Full-stack clinical AI platform — multi-agent RAG over FHIR patient data with 20+ medical tools, hybrid vector search, and real-time streaming",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "fastapi",
+    "fhir",
+    "healthcare",
+    "healthcare-ai",
+    "langchain",
+    "langgraph",
+    "llm",
+    "multi-agent",
+    "nextjs"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rsanandres",
+    "url": "https://github.com/rsanandres"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rsanandres/atlas",
+    "huggingface": null,
+    "homepage": "https://atlas.rsanandres.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-26T21:10:57Z",
+    "first_commit_at": "2026-01-09T14:47:14Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3123,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:56.665055Z",
+  "last_refreshed_at": "2026-04-30T03:29:56.665058Z"
+}

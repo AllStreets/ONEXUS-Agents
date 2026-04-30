@@ -1,0 +1,40 @@
+{
+  "slug": "ts-research-agent",
+  "name": "ts-research-agent",
+  "tagline": "AI research agent in TypeScript — multi-source web search, Playwright scraping, LLM decomposition & synthesis, citation tracking, Ollama/OpenAI/Anthropic, Docker-ready.",
+  "category": "scientific-research",
+  "tags": [
+    "ai-agents",
+    "llm",
+    "nodejs",
+    "research-agent",
+    "typescript",
+    "web-scraping"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rubberpython86",
+    "url": "https://github.com/rubberpython86"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rubberpython86/ts-research-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-18T15:39:52Z",
+    "first_commit_at": "2026-04-12T11:52:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3521,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:41.556280Z",
+  "last_refreshed_at": "2026-04-30T03:28:41.556283Z"
+}

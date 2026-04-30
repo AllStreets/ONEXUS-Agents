@@ -1,0 +1,44 @@
+{
+  "slug": "kestra",
+  "name": "kestra",
+  "tagline": "Event-driven orchestrator with AI-assisted task authoring.",
+  "category": "data-engineering",
+  "tags": [
+    "automation",
+    "data-orchestration",
+    "devops",
+    "hacktoberfest",
+    "high-availability",
+    "infrastructure-as-code",
+    "java",
+    "low-code",
+    "lowcode",
+    "orchestration"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kestra-io",
+    "url": "https://github.com/kestra-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kestra-io/kestra",
+    "huggingface": null,
+    "homepage": "https://kestra.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 26776,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T20:18:55Z",
+    "first_commit_at": "2019-08-26T05:59:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7095,
+  "rank_in_category": 1,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:21:53.188624Z",
+  "last_refreshed_at": "2026-04-30T03:21:53.188628Z"
+}

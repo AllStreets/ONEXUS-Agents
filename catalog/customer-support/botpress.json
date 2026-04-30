@@ -1,0 +1,44 @@
+{
+  "slug": "botpress",
+  "name": "botpress",
+  "tagline": "Conversational AI platform — most-starred OSS chatbot framework.",
+  "category": "customer-support",
+  "tags": [
+    "agent",
+    "ai",
+    "botpress",
+    "chatbot",
+    "chatgpt",
+    "gpt",
+    "gpt-4",
+    "langchain",
+    "llm",
+    "nlp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "botpress",
+    "url": "https://github.com/botpress"
+  },
+  "source": {
+    "primary": "github",
+    "github": "botpress/botpress",
+    "huggingface": null,
+    "homepage": "https://botpress.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14656,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T20:53:34Z",
+    "first_commit_at": "2023-06-02T18:44:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6562,
+  "rank_in_category": 4,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:05.929230Z",
+  "last_refreshed_at": "2026-04-30T03:22:05.929233Z"
+}

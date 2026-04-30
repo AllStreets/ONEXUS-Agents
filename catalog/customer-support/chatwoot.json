@@ -1,0 +1,44 @@
+{
+  "slug": "chatwoot",
+  "name": "chatwoot",
+  "tagline": "Open-source customer engagement platform with AI helpers.",
+  "category": "customer-support",
+  "tags": [
+    "actioncable",
+    "chat-widget",
+    "conversation",
+    "customer-support",
+    "dashboard",
+    "design",
+    "docker",
+    "docker-image",
+    "heroku",
+    "intercom"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "chatwoot",
+    "url": "https://github.com/chatwoot"
+  },
+  "source": {
+    "primary": "github",
+    "github": "chatwoot/chatwoot",
+    "huggingface": null,
+    "homepage": "https://www.chatwoot.com/help-center"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 28939,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T23:10:40Z",
+    "first_commit_at": "2019-08-14T09:48:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6725,
+  "rank_in_category": 3,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:05.233903Z",
+  "last_refreshed_at": "2026-04-30T03:22:05.233906Z"
+}

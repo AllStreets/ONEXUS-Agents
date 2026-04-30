@@ -1,0 +1,44 @@
+{
+  "slug": "docker-claudebox",
+  "name": "docker-claudebox",
+  "tagline": "Claude Code in Docker. Drop-in OpenAI-compatible API, MCP server, Telegram bot, and CLI — five interfaces, one image. Persistent sessions, file ops, always-on skill injection, and a full dev toolchain",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "api",
+    "claude",
+    "claude-code",
+    "code-agent",
+    "container",
+    "development-agent",
+    "docker",
+    "docker-image"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "psyb0t",
+    "url": "https://github.com/psyb0t"
+  },
+  "source": {
+    "primary": "github",
+    "github": "psyb0t/docker-claudebox",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "WTFPL",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T00:47:57Z",
+    "first_commit_at": "2025-06-14T00:43:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2931,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:52.813034Z",
+  "last_refreshed_at": "2026-04-30T03:23:52.813037Z"
+}

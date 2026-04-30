@@ -1,0 +1,40 @@
+{
+  "slug": "lavague",
+  "name": "LaVague",
+  "tagline": "Large-action-model browser agent.",
+  "category": "browser-automation",
+  "tags": [
+    "ai",
+    "browser",
+    "large-action-model",
+    "llm",
+    "oss",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "lavague-ai",
+    "url": "https://github.com/lavague-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lavague-ai/LaVague",
+    "huggingface": null,
+    "homepage": "https://docs.lavague.ai/en/latest/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6328,
+    "downloads_30d": null,
+    "last_commit_at": "2025-01-21T13:41:48Z",
+    "first_commit_at": "2024-02-27T00:45:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2582,
+  "rank_in_category": 22,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:31.834456Z",
+  "last_refreshed_at": "2026-04-30T03:22:31.834460Z"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "leancopilot",
+  "name": "LeanCopilot",
+  "tagline": "Theorem-proving agent for the Lean proof assistant.",
+  "category": "reasoning-math",
+  "tags": [
+    "formal-mathematics",
+    "lean",
+    "lean4",
+    "llm",
+    "llm-inference",
+    "machine-learning",
+    "theorem-proving"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "lean-dojo",
+    "url": "https://github.com/lean-dojo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lean-dojo/LeanCopilot",
+    "huggingface": null,
+    "homepage": "https://leandojo.org/leancopilot.html"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1268,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-17T01:15:05Z",
+    "first_commit_at": "2023-08-26T03:42:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2889,
+  "rank_in_category": 3,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:50.242438Z",
+  "last_refreshed_at": "2026-04-30T03:22:50.242441Z"
+}

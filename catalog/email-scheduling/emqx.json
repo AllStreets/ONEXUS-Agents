@@ -1,0 +1,44 @@
+{
+  "slug": "emqx",
+  "name": "emqx",
+  "tagline": "Messaging backbone occasionally driven by scheduling agents.",
+  "category": "email-scheduling",
+  "tags": [
+    "aiot",
+    "broker",
+    "coap",
+    "emqx",
+    "erlang",
+    "iiot",
+    "industry-40",
+    "iot",
+    "iot-middleware",
+    "lorawan"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "emqx",
+    "url": "https://github.com/emqx"
+  },
+  "source": {
+    "primary": "github",
+    "github": "emqx/emqx",
+    "huggingface": null,
+    "homepage": "https://www.emqx.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 16209,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T01:13:08Z",
+    "first_commit_at": "2012-12-17T10:07:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6453,
+  "rank_in_category": 3,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:41.621085Z",
+  "last_refreshed_at": "2026-04-30T03:22:41.621089Z"
+}

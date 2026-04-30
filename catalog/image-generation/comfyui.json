@@ -3,27 +3,38 @@
   "name": "ComfyUI",
   "tagline": "Node-based diffusion workflow engine — substrate for image agents.",
   "category": "image-generation",
-  "tags": ["diffusion", "node-graph", "workflow"],
-  "author": { "type": "user", "handle": "comfyanonymous", "url": "https://github.com/comfyanonymous" },
+  "tags": [
+    "ai",
+    "comfy",
+    "comfyui",
+    "python",
+    "pytorch",
+    "stable-diffusion"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "comfyanonymous",
+    "url": "https://github.com/Comfy-Org"
+  },
   "source": {
     "primary": "github",
     "github": "comfyanonymous/ComfyUI",
     "huggingface": null,
-    "homepage": "https://www.comfy.org"
+    "homepage": "https://www.comfy.org/"
   },
   "license": "GPL-3.0",
   "metrics": {
-    "stars": 60800,
+    "stars": 110679,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-28T23:14:00Z",
-    "first_commit_at": "2023-01-16T00:00:00Z"
+    "last_commit_at": "2026-04-30T03:05:35Z",
+    "first_commit_at": "2023-01-17T03:37:14Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.811,
+  "composite_score": 0.561,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-29T00:00:00Z"
+  "last_refreshed_at": "2026-04-30T03:22:12.574789Z"
 }

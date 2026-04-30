@@ -1,0 +1,44 @@
+{
+  "slug": "rag-agent",
+  "name": "rag_agent",
+  "tagline": "“A graph-based Retrieval-Augmented Generation (RAG) agent built with LangGraph and Ollama. It performs query rewriting, vector search, relevance checking, and answer generation using a fully automated",
+  "category": "search-rag",
+  "tags": [
+    "ai",
+    "embeddings",
+    "langgraph",
+    "llm",
+    "ollama",
+    "python",
+    "python3",
+    "rag",
+    "rag-agent",
+    "vector-search"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Malikabriq",
+    "url": "https://github.com/Malikabriq"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Malikabriq/rag_agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-10T06:01:27Z",
+    "first_commit_at": "2025-12-10T05:52:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.245,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:24.063899Z",
+  "last_refreshed_at": "2026-04-30T03:26:24.063902Z"
+}

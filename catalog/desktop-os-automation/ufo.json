@@ -1,0 +1,40 @@
+{
+  "slug": "ufo",
+  "name": "UFO",
+  "tagline": "Microsoft UI-Focused agent for Windows automation.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent",
+    "automation",
+    "copilot",
+    "gui",
+    "llm",
+    "windows"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/UFO",
+    "huggingface": null,
+    "homepage": "https://microsoft.github.io/UFO/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8515,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T04:39:38Z",
+    "first_commit_at": "2024-01-08T05:07:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4263,
+  "rank_in_category": 2,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:36.028969Z",
+  "last_refreshed_at": "2026-04-30T03:22:36.028971Z"
+}

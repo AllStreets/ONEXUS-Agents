@@ -1,0 +1,44 @@
+{
+  "slug": "signaturepdf",
+  "name": "signaturepdf",
+  "tagline": "Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf",
+  "category": "pdf-forms",
+  "tags": [
+    "js",
+    "pdf",
+    "pdf-compression",
+    "pdf-compressor",
+    "pdf-editor",
+    "pdf-extraction",
+    "pdf-format",
+    "pdf-manipulation",
+    "pdf-merge",
+    "pdf-merger"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "24eme",
+    "url": "https://github.com/24eme"
+  },
+  "source": {
+    "primary": "github",
+    "github": "24eme/signaturepdf",
+    "huggingface": null,
+    "homepage": "https://pdf.24eme.fr/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 777,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T15:42:57Z",
+    "first_commit_at": "2021-05-03T17:26:47Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6176,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:42.287852Z",
+  "last_refreshed_at": "2026-04-30T03:31:42.287855Z"
+}

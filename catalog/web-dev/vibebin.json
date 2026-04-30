@@ -1,0 +1,44 @@
+{
+  "slug": "vibebin",
+  "name": "vibebin",
+  "tagline": "vibebin: code and host inside Incus containers on your own VPS/server.",
+  "category": "web-dev",
+  "tags": [
+    "ai-coding",
+    "caddyserver",
+    "cloud",
+    "coding-assistant",
+    "containers",
+    "dev-environment",
+    "golang",
+    "incus",
+    "lxc",
+    "nano-gpt"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jgbrwn",
+    "url": "https://github.com/jgbrwn"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jgbrwn/vibebin",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 75,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-20T00:09:10Z",
+    "first_commit_at": "2026-01-13T15:14:52Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4264,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:24:03.773857Z",
+  "last_refreshed_at": "2026-04-30T03:24:03.773859Z"
+}

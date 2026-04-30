@@ -1,0 +1,38 @@
+{
+  "slug": "cover-agent",
+  "name": "cover-agent",
+  "tagline": "Test-generation agent commonly used for ML library coverage.",
+  "category": "data-science-ml",
+  "tags": [
+    "agents",
+    "ai",
+    "test-automation",
+    "testing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Codium-ai",
+    "url": "https://github.com/qodo-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Codium-ai/cover-agent",
+    "huggingface": null,
+    "homepage": "https://qodo.ai/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 5374,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T12:27:16Z",
+    "first_commit_at": "2024-05-18T09:34:18Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3902,
+  "rank_in_category": 5,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:21:58.141172Z",
+  "last_refreshed_at": "2026-04-30T03:21:58.141175Z"
+}

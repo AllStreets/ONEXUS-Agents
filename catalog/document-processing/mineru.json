@@ -1,0 +1,44 @@
+{
+  "slug": "mineru",
+  "name": "MinerU",
+  "tagline": "PDF-to-Markdown extraction agent with strong table handling.",
+  "category": "document-processing",
+  "tags": [
+    "ai4science",
+    "document-analysis",
+    "docx",
+    "extract-data",
+    "layout-analysis",
+    "ocr",
+    "parser",
+    "pdf",
+    "pdf-converter",
+    "pdf-extractor-llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "opendatalab",
+    "url": "https://github.com/opendatalab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "opendatalab/MinerU",
+    "huggingface": null,
+    "homepage": "https://opendatalab.github.io/MinerU/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 61568,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T15:59:05Z",
+    "first_commit_at": "2024-02-29T08:53:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7092,
+  "rank_in_category": 1,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:36.652114Z",
+  "last_refreshed_at": "2026-04-30T03:22:36.652118Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "ai-calling-agent",
+  "name": "ai-calling-agent",
+  "tagline": "A real-time voice AI system that integrates OpenAI's Realtime API, Llama3 with Twilio Voice to create intelligent voice conversations.",
+  "category": "sales-crm",
+  "tags": [
+    "ai-agent",
+    "ai-call-assistant",
+    "ai-voice-agent",
+    "automated-calls",
+    "calling-agent",
+    "customer-support-ai",
+    "inbound-calls",
+    "llm",
+    "openai",
+    "openai-realtime-api"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "intellwe",
+    "url": "https://github.com/intellwe"
+  },
+  "source": {
+    "primary": "github",
+    "github": "intellwe/ai-calling-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 26,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-06T07:58:17Z",
+    "first_commit_at": "2025-09-06T07:08:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4072,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:22.001954Z",
+  "last_refreshed_at": "2026-04-30T03:30:22.001957Z"
+}

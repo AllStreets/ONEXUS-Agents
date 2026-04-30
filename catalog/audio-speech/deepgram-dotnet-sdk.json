@@ -1,0 +1,44 @@
+{
+  "slug": "deepgram-dotnet-sdk",
+  "name": "deepgram-dotnet-sdk",
+  "tagline": "Official .NET SDK for Deepgram.",
+  "category": "audio-speech",
+  "tags": [
+    "asr",
+    "automated-speech-recognition",
+    "deepgram",
+    "dotnet",
+    "hacktoberfest",
+    "microsoft",
+    "speech-recognition",
+    "speech-to-text",
+    "text-to-speech",
+    "voice-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "deepgram",
+    "url": "https://github.com/deepgram"
+  },
+  "source": {
+    "primary": "github",
+    "github": "deepgram/deepgram-dotnet-sdk",
+    "huggingface": null,
+    "homepage": "https://developers.deepgram.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 52,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T15:22:51Z",
+    "first_commit_at": "2021-11-20T01:19:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4621,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:12.803745Z",
+  "last_refreshed_at": "2026-04-30T03:26:12.803748Z"
+}

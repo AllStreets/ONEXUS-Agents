@@ -1,31 +1,51 @@
 {
   "slug": "skyvern",
-  "name": "Skyvern",
-  "tagline": "LLM + computer-vision browser automation for complex multi-page flows.",
+  "name": "skyvern",
+  "tagline": "LLM + computer-vision browser automation.",
   "category": "browser-automation",
-  "tags": ["vision", "playwright", "form-filling"],
-  "author": { "type": "org", "handle": "Skyvern-AI", "url": "https://github.com/Skyvern-AI" },
+  "tags": [
+    "ai",
+    "api",
+    "automation",
+    "browser",
+    "browser-automation",
+    "computer",
+    "gpt",
+    "llm",
+    "playwright",
+    "powerautomate"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Skyvern-AI",
+    "url": "https://github.com/Skyvern-AI"
+  },
   "source": {
     "primary": "github",
     "github": "Skyvern-AI/skyvern",
     "huggingface": null,
-    "homepage": "https://www.skyvern.com"
+    "homepage": "https://www.skyvern.com/"
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 12700,
+    "stars": 21430,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-25T20:01:00Z",
-    "first_commit_at": "2024-02-28T00:00:00Z"
+    "last_commit_at": "2026-04-30T02:59:53Z",
+    "first_commit_at": "2024-02-28T15:45:20Z"
   },
   "benchmarks": [
-    { "name": "WebArena", "score": 31.4, "as_of": "2026-02-12", "source_url": "https://webarena.dev/" }
+    {
+      "name": "WebArena",
+      "score": 31.4,
+      "as_of": "2026-02-12",
+      "source_url": "https://webarena.dev/"
+    }
   ],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.781,
+  "composite_score": 0.5123,
   "rank_in_category": 2,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-29T00:00:00Z"
+  "last_refreshed_at": "2026-04-30T03:22:30.139773Z"
 }

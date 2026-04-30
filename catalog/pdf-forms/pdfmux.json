@@ -1,0 +1,44 @@
+{
+  "slug": "pdfmux",
+  "name": "pdfmux",
+  "tagline": "PDF extraction that checks its own work. #2 reading order accuracy — zero AI, zero GPU, zero cost.",
+  "category": "pdf-forms",
+  "tags": [
+    "ai-agent",
+    "docling",
+    "document-parsing",
+    "llm",
+    "mcp",
+    "ocr",
+    "opendataloader",
+    "pdf",
+    "pdf-extraction",
+    "pdf-to-json"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "NameetP",
+    "url": "https://github.com/NameetP"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NameetP/pdfmux",
+    "huggingface": null,
+    "homepage": "https://pdfmux.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 60,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T10:34:23Z",
+    "first_commit_at": "2026-03-03T13:46:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4802,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:47.781204Z",
+  "last_refreshed_at": "2026-04-30T03:31:47.781207Z"
+}

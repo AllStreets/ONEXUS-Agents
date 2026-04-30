@@ -1,10 +1,25 @@
 {
   "slug": "perplexica",
   "name": "Perplexica",
-  "tagline": "Open-source Perplexity alternative — search and synthesize with citations.",
+  "tagline": "Open Perplexity alternative — search + synthesize agent.",
   "category": "search-rag",
-  "tags": ["perplexity-clone", "searxng", "citations"],
-  "author": { "type": "user", "handle": "ItzCrazyKns", "url": "https://github.com/ItzCrazyKns" },
+  "tags": [
+    "ai-agents",
+    "ai-search-engine",
+    "answering-engine",
+    "artificial-intelligence",
+    "llm",
+    "machine-learning",
+    "open-source-ai-search-engine",
+    "perplexica",
+    "rag",
+    "search-engine"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ItzCrazyKns",
+    "url": "https://github.com/ItzCrazyKns"
+  },
   "source": {
     "primary": "github",
     "github": "ItzCrazyKns/Perplexica",
@@ -13,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 18900,
+    "stars": 34067,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-26T14:02:00Z",
-    "first_commit_at": "2024-04-19T00:00:00Z"
+    "last_commit_at": "2026-04-11T14:33:06Z",
+    "first_commit_at": "2024-04-09T10:51:05Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.748,
-  "rank_in_category": 1,
+  "composite_score": 0.6598,
+  "rank_in_category": 4,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-29T00:00:00Z"
+  "last_refreshed_at": "2026-04-30T03:22:25.458783Z"
 }

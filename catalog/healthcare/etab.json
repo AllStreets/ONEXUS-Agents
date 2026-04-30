@@ -1,0 +1,41 @@
+{
+  "slug": "etab",
+  "name": "ETAB",
+  "tagline": "[ NeurIPS 2022 ] Official Codebase for \"ETAB: A Benchmark Suite for Visual Representation Learning in Echocardiography\"",
+  "category": "healthcare",
+  "tags": [
+    "cardiac-segmentation",
+    "cardiology",
+    "clinical-ai",
+    "echocardiogram",
+    "echocardiography",
+    "medical-imaging",
+    "ml4h"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AlaaLab",
+    "url": "https://github.com/AlaaLab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AlaaLab/ETAB",
+    "huggingface": null,
+    "homepage": "https://proceedings.neurips.cc/paper_files/paper/2022/file/796501434d0dc3a039d5b91261f7f889-Paper-Datasets_and_Benchmarks.pdf"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 28,
+    "downloads_30d": null,
+    "last_commit_at": "2022-08-29T02:02:32Z",
+    "first_commit_at": "2022-06-21T14:39:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3327,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:46.510068Z",
+  "last_refreshed_at": "2026-04-30T03:29:46.510071Z"
+}

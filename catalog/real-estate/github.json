@@ -1,0 +1,44 @@
+{
+  "slug": "github",
+  "name": ".github",
+  "tagline": "Public org profile for Doorbis™ ClosePilot™ – an AI-powered real estate transaction coordination platform by RealAgentic AI. Includes overview, links, and shared docs for our FastAPI + Streamlit + Pos",
+  "category": "real-estate",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "brokerage",
+    "builder-tools",
+    "closepilot",
+    "doorbis",
+    "fastapi",
+    "multi-tenant-database",
+    "new-construction",
+    "postgresql"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "doorbis",
+    "url": "https://github.com/doorbis"
+  },
+  "source": {
+    "primary": "github",
+    "github": "doorbis/.github",
+    "huggingface": null,
+    "homepage": "https://doorbis.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-21T17:54:55Z",
+    "first_commit_at": "2025-11-27T07:48:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3357,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:49.302126Z",
+  "last_refreshed_at": "2026-04-30T03:30:49.302129Z"
+}

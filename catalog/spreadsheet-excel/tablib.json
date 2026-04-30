@@ -1,0 +1,33 @@
+{
+  "slug": "tablib",
+  "name": "tablib",
+  "tagline": "Substrate library many spreadsheet agents wrap.",
+  "category": "spreadsheet-excel",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "jazzband",
+    "url": "https://github.com/jazzband"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jazzband/tablib",
+    "huggingface": null,
+    "homepage": "https://tablib.readthedocs.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4750,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-06T18:34:40Z",
+    "first_commit_at": "2010-07-12T19:24:56Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3913,
+  "rank_in_category": 1,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:58.820650Z",
+  "last_refreshed_at": "2026-04-30T03:22:58.820653Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "ai-sales-agent",
+  "name": "AI-Sales-agent",
+  "tagline": "Sales AI agent that talks with your customers, recommend products, book consultations, and process Stripe payments",
+  "category": "sales-crm",
+  "tags": [
+    "ai-agents",
+    "calendly",
+    "groq",
+    "litellm",
+    "llama3",
+    "rag",
+    "sales-agent",
+    "sales-automation",
+    "website-chatbot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kaymen99",
+    "url": "https://github.com/kaymen99"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kaymen99/AI-Sales-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 79,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-09T17:28:08Z",
+    "first_commit_at": "2024-07-27T17:59:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.486,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:21.268005Z",
+  "last_refreshed_at": "2026-04-30T03:30:21.268007Z"
+}

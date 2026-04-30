@@ -1,0 +1,44 @@
+{
+  "slug": "qt-web-extractor",
+  "name": "qt-web-extractor",
+  "tagline": "Web content extraction engine backed by Qt WebEngine.",
+  "category": "pdf-forms",
+  "tags": [
+    "chromium",
+    "content-extraction",
+    "headless-browser",
+    "mcp",
+    "mcp-server",
+    "open-webui",
+    "pdf-extraction",
+    "pyside6",
+    "qtwebengine",
+    "web-scraping"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wszqkzqk",
+    "url": "https://github.com/wszqkzqk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wszqkzqk/qt-web-extractor",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 18,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T10:41:43Z",
+    "first_commit_at": "2026-02-26T11:48:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4336,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:50.018168Z",
+  "last_refreshed_at": "2026-04-30T03:31:50.018171Z"
+}

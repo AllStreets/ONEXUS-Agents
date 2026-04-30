@@ -1,0 +1,44 @@
+{
+  "slug": "llama-index",
+  "name": "llama_index",
+  "tagline": "RAG and agent toolkit — substrate for many retrieval agents.",
+  "category": "search-rag",
+  "tags": [
+    "agents",
+    "application",
+    "data",
+    "fine-tuning",
+    "framework",
+    "llamaindex",
+    "llm",
+    "multi-agents",
+    "rag",
+    "vector-database"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "run-llama",
+    "url": "https://github.com/run-llama"
+  },
+  "source": {
+    "primary": "github",
+    "github": "run-llama/llama_index",
+    "huggingface": null,
+    "homepage": "https://developers.llamaindex.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 49048,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T19:08:48Z",
+    "first_commit_at": "2022-11-02T04:25:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6958,
+  "rank_in_category": 2,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:28.449252Z",
+  "last_refreshed_at": "2026-04-30T03:22:28.449255Z"
+}

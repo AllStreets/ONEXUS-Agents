@@ -1,0 +1,41 @@
+{
+  "slug": "index",
+  "name": "index",
+  "tagline": "The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web",
+  "category": "browser-automation",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "browser-agent",
+    "claude-3-7-sonnet",
+    "gemini-pro",
+    "llm",
+    "sota"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "lmnr-ai",
+    "url": "https://github.com/lmnr-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lmnr-ai/index",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2348,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-09T13:58:42Z",
+    "first_commit_at": "2024-11-30T19:34:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2318,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:34.599783Z",
+  "last_refreshed_at": "2026-04-30T03:26:34.599786Z"
+}

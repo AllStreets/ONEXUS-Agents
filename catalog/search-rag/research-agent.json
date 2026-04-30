@@ -1,0 +1,44 @@
+{
+  "slug": "research-agent",
+  "name": "research-agent",
+  "tagline": "A hybrid Research Assistant that combines an exact Knowledge Graph (Neo4j) with a Retrieval‑Augmented Generation pipeline (FAISS + Cross‑Encoder + FLAN‑T5) behind a sleek Streamlit interface.",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "aiagent",
+    "cross-encoder",
+    "deep-learning",
+    "docker",
+    "faiss",
+    "flan-t5",
+    "graph",
+    "neo4j",
+    "orchest"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "abdulvahapmutlu",
+    "url": "https://github.com/abdulvahapmutlu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "abdulvahapmutlu/research-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-21T11:40:49Z",
+    "first_commit_at": "2025-05-05T12:43:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2115,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:22.494901Z",
+  "last_refreshed_at": "2026-04-30T03:26:22.494904Z"
+}

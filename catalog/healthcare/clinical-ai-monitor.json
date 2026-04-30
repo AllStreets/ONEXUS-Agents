@@ -1,0 +1,37 @@
+{
+  "slug": "clinical-ai-monitor",
+  "name": "clinical-ai-monitor",
+  "tagline": "An application to monitor clinical AI models",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "machine-learning",
+    "monitoring"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "VectorInstitute",
+    "url": "https://github.com/VectorInstitute"
+  },
+  "source": {
+    "primary": "github",
+    "github": "VectorInstitute/clinical-ai-monitor",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T20:02:03Z",
+    "first_commit_at": "2024-06-29T22:29:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4607,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:51.844134Z",
+  "last_refreshed_at": "2026-04-30T03:29:51.844136Z"
+}

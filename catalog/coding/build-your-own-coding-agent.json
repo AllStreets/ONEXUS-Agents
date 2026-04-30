@@ -1,0 +1,37 @@
+{
+  "slug": "build-your-own-coding-agent",
+  "name": "build-your-own-coding-agent",
+  "tagline": "Source code for the Build Your Own Coding Agent book",
+  "category": "coding",
+  "tags": [
+    "artificial-intelligence",
+    "code-agent",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "optimalone",
+    "url": "https://github.com/optimalone"
+  },
+  "source": {
+    "primary": "github",
+    "github": "optimalone/build-your-own-coding-agent",
+    "huggingface": null,
+    "homepage": "https://buildyourowncodingagent.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 62,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-30T05:59:26Z",
+    "first_commit_at": "2026-02-01T06:10:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2728,
+  "rank_in_category": 46,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:49.079885Z",
+  "last_refreshed_at": "2026-04-30T03:23:49.079888Z"
+}

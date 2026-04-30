@@ -1,0 +1,44 @@
+{
+  "slug": "deepseek-math-7b-instruct",
+  "name": "deepseek-math-7b-instruct",
+  "tagline": "Strong open math-reasoning model for tool-using agents.",
+  "category": "reasoning-math",
+  "tags": [
+    "transformers",
+    "pytorch",
+    "llama",
+    "text-generation",
+    "conversational",
+    "arxiv:2402.03300",
+    "license:other",
+    "text-generation-inference",
+    "endpoints_compatible",
+    "region:us"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "deepseek-ai",
+    "url": "https://huggingface.co/deepseek-ai"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "deepseek-ai/deepseek-math-7b-instruct",
+    "homepage": null
+  },
+  "license": "other",
+  "metrics": {
+    "stars": 151,
+    "downloads_30d": 40361,
+    "last_commit_at": "2024-02-06T10:38:24Z",
+    "first_commit_at": "2024-02-05T08:14:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3003,
+  "rank_in_category": 2,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:51.796636Z",
+  "last_refreshed_at": "2026-04-30T03:22:51.796639Z"
+}

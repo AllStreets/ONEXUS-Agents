@@ -1,0 +1,41 @@
+{
+  "slug": "sales-chatbot",
+  "name": "sales_chatbot",
+  "tagline": "A chatbot assistant that provides tailored products guidance to customers, using custom RAG from custom data.",
+  "category": "sales-crm",
+  "tags": [
+    "chatgpt-api",
+    "langchain",
+    "langchain-js",
+    "openai",
+    "rag",
+    "rag-chatbot",
+    "sales-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "RaheesAhmed",
+    "url": "https://github.com/RaheesAhmed"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RaheesAhmed/sales_chatbot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2024-05-29T13:00:21Z",
+    "first_commit_at": "2024-05-29T12:53:52Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2082,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:31.235908Z",
+  "last_refreshed_at": "2026-04-30T03:30:31.235911Z"
+}

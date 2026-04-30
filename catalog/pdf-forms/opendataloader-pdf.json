@@ -1,0 +1,44 @@
+{
+  "slug": "opendataloader-pdf",
+  "name": "opendataloader-pdf",
+  "tagline": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+  "category": "pdf-forms",
+  "tags": [
+    "a11y",
+    "accessibility",
+    "ai",
+    "bounding-box",
+    "document-parsing",
+    "eaa",
+    "html",
+    "json",
+    "markdown",
+    "ocr"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "opendataloader-project",
+    "url": "https://github.com/opendataloader-project"
+  },
+  "source": {
+    "primary": "github",
+    "github": "opendataloader-project/opendataloader-pdf",
+    "huggingface": null,
+    "homepage": "https://opendataloader.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 19751,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T02:42:26Z",
+    "first_commit_at": "2025-07-30T00:41:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6662,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:40.123128Z",
+  "last_refreshed_at": "2026-04-30T03:31:40.123131Z"
+}

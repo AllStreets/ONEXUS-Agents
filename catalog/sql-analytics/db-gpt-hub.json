@@ -1,0 +1,44 @@
+{
+  "slug": "db-gpt-hub",
+  "name": "DB-GPT-Hub",
+  "tagline": "A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL",
+  "category": "sql-analytics",
+  "tags": [
+    "database",
+    "datasets",
+    "fine-tuning",
+    "gpt",
+    "hacktoberfest",
+    "llm",
+    "nl2sql",
+    "sql",
+    "text-to-sql",
+    "text2sql"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "eosphoros-ai",
+    "url": "https://github.com/eosphoros-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "eosphoros-ai/DB-GPT-Hub",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1979,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-02T03:39:31Z",
+    "first_commit_at": "2023-06-02T03:58:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2862,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:32:01.186992Z",
+  "last_refreshed_at": "2026-04-30T03:32:01.186995Z"
+}

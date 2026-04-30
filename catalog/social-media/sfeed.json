@@ -1,0 +1,44 @@
+{
+  "slug": "sfeed",
+  "name": "sfeed",
+  "tagline": "Post to social media using any AI Agent (Claude Code, Codex, etc)",
+  "category": "social-media",
+  "tags": [
+    "agent-skills",
+    "agentic-social-media",
+    "ai-agents",
+    "cli-tool",
+    "facebook-post-automation",
+    "instagram",
+    "instagram-automation-tools",
+    "instagram-post-scheduler",
+    "mcp-server",
+    "posting-scheduler"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nem035",
+    "url": "https://github.com/nem035"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nem035/sfeed",
+    "huggingface": null,
+    "homepage": "https://sfeed.dev/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-11T06:06:52Z",
+    "first_commit_at": "2026-04-09T04:28:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4722,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:42.304252Z",
+  "last_refreshed_at": "2026-04-30T03:30:42.304255Z"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "comfyui-omnigen2",
+  "name": "ComfyUI-OmniGen2",
+  "tagline": "ComfyUI-OmniGen2 is now available in ComfyUI, OmniGen2 is a powerful and efficient unified multimodal model. Its architecture is composed of two key components: a 3B Vision-Language Model (VLM) and a ",
+  "category": "image-generation",
+  "tags": [
+    "comfyui",
+    "comfyui-manager",
+    "comfyui-nodes",
+    "comfyui-workflow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Yuan-ManX",
+    "url": "https://github.com/Yuan-ManX"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Yuan-ManX/ComfyUI-OmniGen2",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 122,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-26T02:46:07Z",
+    "first_commit_at": "2025-06-20T08:59:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1627,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:25:55.825814Z",
+  "last_refreshed_at": "2026-04-30T03:25:55.825816Z"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "phd-deepread-workflow",
+  "name": "phd-deepread-workflow",
+  "tagline": "A professinal CLI workflow for PhD students to extract, analyze, and visualize academic papers into structured Markdown and Obsidian Canvas.",
+  "category": "pdf-forms",
+  "tags": [
+    "academic",
+    "literature-review",
+    "obsidian",
+    "pdf",
+    "pdf-extraction",
+    "python",
+    "research",
+    "workflow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "heleninsights-dot",
+    "url": "https://github.com/heleninsights-dot"
+  },
+  "source": {
+    "primary": "github",
+    "github": "heleninsights-dot/phd-deepread-workflow",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 36,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-06T19:37:46Z",
+    "first_commit_at": "2026-03-05T17:23:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3915,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:48.484528Z",
+  "last_refreshed_at": "2026-04-30T03:31:48.484531Z"
+}

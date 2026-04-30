@@ -1,0 +1,44 @@
+{
+  "slug": "project-chronos",
+  "name": "Project-Chronos",
+  "tagline": "AI-powered ICU early warning system predicting sepsis, hypotension, and hemodynamic collapse 2-6 hours before onset. 4-engine ML ensemble (LightGBM, XGBoost, GRU-D, TCN) with physics-based safety net ",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "deep-learning",
+    "early-warning-system",
+    "explainable-ai",
+    "fastapi",
+    "healthcare",
+    "icu",
+    "lightgbm",
+    "llm",
+    "machine-learning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "4f4d",
+    "url": "https://github.com/4f4d"
+  },
+  "source": {
+    "primary": "github",
+    "github": "4f4d/Project-Chronos",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-15T18:43:57Z",
+    "first_commit_at": "2026-03-14T19:59:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3251,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:57.406059Z",
+  "last_refreshed_at": "2026-04-30T03:29:57.406062Z"
+}

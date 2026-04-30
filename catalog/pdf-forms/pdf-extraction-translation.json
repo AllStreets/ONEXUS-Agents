@@ -1,0 +1,37 @@
+{
+  "slug": "pdf-extraction-translation",
+  "name": "PDF_Extraction-Translation",
+  "tagline": "Translate many large PDF Reports for free using Python.",
+  "category": "pdf-forms",
+  "tags": [
+    "pdf-extraction",
+    "pdf-translation",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pcschreiber1",
+    "url": "https://github.com/pcschreiber1"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pcschreiber1/PDF_Extraction-Translation",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 34,
+    "downloads_30d": null,
+    "last_commit_at": "2022-12-31T10:11:10Z",
+    "first_commit_at": "2022-03-03T13:59:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3098,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:49.251172Z",
+  "last_refreshed_at": "2026-04-30T03:31:49.251175Z"
+}

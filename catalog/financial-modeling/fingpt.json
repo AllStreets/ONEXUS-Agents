@@ -1,0 +1,44 @@
+{
+  "slug": "fingpt",
+  "name": "FinGPT",
+  "tagline": "Open-source finance LLM stack with agentic trading examples.",
+  "category": "financial-modeling",
+  "tags": [
+    "chatgpt",
+    "finance",
+    "fingpt",
+    "fintech",
+    "large-language-models",
+    "machine-learning",
+    "nlp",
+    "prompt-engineering",
+    "pytorch",
+    "reinforcement-learning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AI4Finance-Foundation",
+    "url": "https://github.com/AI4Finance-Foundation"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AI4Finance-Foundation/FinGPT",
+    "huggingface": null,
+    "homepage": "https://ai4finance.org/research/fingpt-open-source-finllm.html"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 19882,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-24T06:21:03Z",
+    "first_commit_at": "2023-02-11T20:21:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6697,
+  "rank_in_category": 3,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:21:58.978947Z",
+  "last_refreshed_at": "2026-04-30T03:21:58.978950Z"
+}

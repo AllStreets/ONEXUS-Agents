@@ -1,0 +1,44 @@
+{
+  "slug": "nllb-200-distilled-600m",
+  "name": "nllb-200-distilled-600M",
+  "tagline": "200-language NMT model commonly wrapped as a translation agent.",
+  "category": "translation",
+  "tags": [
+    "transformers",
+    "pytorch",
+    "m2m_100",
+    "text2text-generation",
+    "nllb",
+    "translation",
+    "ace",
+    "acm",
+    "acq",
+    "aeb"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "facebook",
+    "url": "https://huggingface.co/facebook"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "facebook/nllb-200-distilled-600M",
+    "homepage": null
+  },
+  "license": "cc-by-nc-4.0",
+  "metrics": {
+    "stars": 890,
+    "downloads_30d": 1284604,
+    "last_commit_at": "2024-02-14T17:18:36Z",
+    "first_commit_at": "2022-07-08T09:43:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5533,
+  "rank_in_category": 1,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:24.246828Z",
+  "last_refreshed_at": "2026-04-30T03:22:24.246830Z"
+}

@@ -1,31 +1,50 @@
 {
   "slug": "openhands",
   "name": "OpenHands",
-  "tagline": "Autonomous coding platform — formerly OpenDevin.",
+  "tagline": "Autonomous coding platform (formerly OpenDevin).",
   "category": "coding",
-  "tags": ["autonomous", "sandboxed", "browser-tool", "swe-agent"],
-  "author": { "type": "org", "handle": "All-Hands-AI", "url": "https://github.com/All-Hands-AI" },
+  "tags": [
+    "agent",
+    "artificial-intelligence",
+    "chatgpt",
+    "claude-ai",
+    "cli",
+    "developer-tools",
+    "gpt",
+    "llm",
+    "openai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "All-Hands-AI",
+    "url": "https://github.com/OpenHands"
+  },
   "source": {
     "primary": "github",
     "github": "All-Hands-AI/OpenHands",
     "huggingface": null,
-    "homepage": "https://docs.all-hands.dev"
+    "homepage": "https://openhands.dev/"
   },
-  "license": "MIT",
+  "license": "NOASSERTION",
   "metrics": {
-    "stars": 33200,
+    "stars": 72378,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-27T09:14:00Z",
-    "first_commit_at": "2024-03-13T00:00:00Z"
+    "last_commit_at": "2026-04-30T02:55:40Z",
+    "first_commit_at": "2024-03-13T03:36:30Z"
   },
   "benchmarks": [
-    { "name": "SWE-bench Verified", "score": 41.7, "as_of": "2026-03-30", "source_url": "https://www.swebench.com/" }
+    {
+      "name": "SWE-bench Verified",
+      "score": 41.7,
+      "as_of": "2026-03-30",
+      "source_url": "https://www.swebench.com/"
+    }
   ],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.881,
+  "composite_score": 0.5851,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-29T00:00:00Z"
+  "last_refreshed_at": "2026-04-30T03:21:37.345832Z"
 }

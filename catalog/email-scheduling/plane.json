@@ -1,0 +1,44 @@
+{
+  "slug": "plane",
+  "name": "plane",
+  "tagline": "Open project planner — increasingly wrapped by scheduling agents.",
+  "category": "email-scheduling",
+  "tags": [
+    "boards",
+    "bug-tracker",
+    "django",
+    "docker",
+    "gantt",
+    "issue-tracker",
+    "jira",
+    "jira-alternative",
+    "kanban",
+    "linear"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "makeplane",
+    "url": "https://github.com/makeplane"
+  },
+  "source": {
+    "primary": "github",
+    "github": "makeplane/plane",
+    "huggingface": null,
+    "homepage": "http://plane.so/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 48544,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T12:56:58Z",
+    "first_commit_at": "2022-11-19T14:21:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6688,
+  "rank_in_category": 2,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:42.360950Z",
+  "last_refreshed_at": "2026-04-30T03:22:42.360953Z"
+}

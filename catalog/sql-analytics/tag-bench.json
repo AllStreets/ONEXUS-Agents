@@ -1,0 +1,33 @@
+{
+  "slug": "tag-bench",
+  "name": "TAG-Bench",
+  "tagline": "Table-augmented generation benchmark + agents.",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "TAG-Research",
+    "url": "https://github.com/TAG-Research"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TAG-Research/TAG-Bench",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/pdf/2408.14717"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 769,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-04T20:18:11Z",
+    "first_commit_at": "2024-08-27T01:38:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2531,
+  "rank_in_category": 22,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:23:01.860471Z",
+  "last_refreshed_at": "2026-04-30T03:23:01.860474Z"
+}

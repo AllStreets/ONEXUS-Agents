@@ -1,0 +1,37 @@
+{
+  "slug": "cecp",
+  "name": "CECP",
+  "tagline": "Implementation of \"Charge Prediction by Constitutive Elements Matching of Crimes\", CECP.",
+  "category": "legal-research",
+  "tags": [
+    "cecp",
+    "charge-prediction",
+    "legal-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jiezhao6",
+    "url": "https://github.com/jiezhao6"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jiezhao6/CECP",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2022-07-23T02:55:38Z",
+    "first_commit_at": "2022-04-25T07:16:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1935,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:25:05.925033Z",
+  "last_refreshed_at": "2026-04-30T03:25:05.925036Z"
+}

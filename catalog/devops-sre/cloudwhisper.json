@@ -1,0 +1,40 @@
+{
+  "slug": "cloudwhisper",
+  "name": "CloudWhisper",
+  "tagline": "An autonomous SRE assistant that detects, analyzes, and resolves production system issues through AI-powered multimodal interaction. Built with Next.js, Firebase, Google Cloud, and Gemini 1.5 Flash.",
+  "category": "devops-sre",
+  "tags": [
+    "firebase",
+    "firesebase-studio",
+    "gemini-ai",
+    "googlecloud",
+    "nextjs",
+    "sre-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aqsawaikar-droid",
+    "url": "https://github.com/aqsawaikar-droid"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aqsawaikar-droid/CloudWhisper",
+    "huggingface": null,
+    "homepage": "https://cloudwhisper.vercel.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-30T14:07:30Z",
+    "first_commit_at": "2026-01-30T08:14:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.259,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:15.732770Z",
+  "last_refreshed_at": "2026-04-30T03:28:15.732773Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "weaver",
+  "name": "weaver",
+  "tagline": "(EMNLP 2025) Weaver: A modular agentic pipeline that dynamically combines SQL and LLMs for advanced table-based question answering",
+  "category": "sql-analytics",
+  "tags": [
+    "ai-agent",
+    "database",
+    "finqa",
+    "llm",
+    "machine-learning",
+    "multi-modal-ai",
+    "natural-language-processing",
+    "ott-qa",
+    "question-answering",
+    "reasoning-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "CoRAL-ASU",
+    "url": "https://github.com/CoRAL-ASU"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CoRAL-ASU/weaver",
+    "huggingface": null,
+    "homepage": "https://aclanthology.org/2025.emnlp-main.1436/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-19T18:20:18Z",
+    "first_commit_at": "2025-03-30T17:58:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1637,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:32:17.262432Z",
+  "last_refreshed_at": "2026-04-30T03:32:17.262436Z"
+}

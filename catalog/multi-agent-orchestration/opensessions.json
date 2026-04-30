@@ -1,0 +1,42 @@
+{
+  "slug": "opensessions",
+  "name": "opensessions",
+  "tagline": "tmux sidebar for coding agents — Amp, Claude Code, Codex, OpenCode. Per-thread markers, local HTTP API, live session state.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "amp",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "opencode",
+    "tmux"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Ataraxy-Labs",
+    "url": "https://github.com/Ataraxy-Labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Ataraxy-Labs/opensessions",
+    "huggingface": null,
+    "homepage": "https://ataraxy-labs.com/#opensessions"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 998,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T12:59:34Z",
+    "first_commit_at": "2026-03-23T09:56:25Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2656,
+  "rank_in_category": 45,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:33.312549Z",
+  "last_refreshed_at": "2026-04-30T03:29:33.312552Z"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "seeground",
+  "name": "SeeGround",
+  "tagline": "[CVPR'25] SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding",
+  "category": "robotics",
+  "tags": [
+    "3d-scene-understanding",
+    "3d-visual-grounding",
+    "embodied-agent",
+    "embodied-ai",
+    "open-vocabulary",
+    "vlm",
+    "zero-shot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "iris0329",
+    "url": "https://github.com/iris0329"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iris0329/SeeGround",
+    "huggingface": null,
+    "homepage": "https://seeground.github.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 220,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-21T13:47:33Z",
+    "first_commit_at": "2024-12-05T14:50:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3973,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:16.443246Z",
+  "last_refreshed_at": "2026-04-30T03:31:16.443249Z"
+}

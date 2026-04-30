@@ -1,0 +1,44 @@
+{
+  "slug": "openagent",
+  "name": "openagent",
+  "tagline": "⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a",
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "agi",
+    "chatbot",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "gpt"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "the-open-agent",
+    "url": "https://github.com/the-open-agent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "the-open-agent/openagent",
+    "huggingface": null,
+    "homepage": "https://casibase.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4515,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T03:10:40Z",
+    "first_commit_at": "2023-06-22T07:46:47Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3688,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:15.114526Z",
+  "last_refreshed_at": "2026-04-30T03:29:15.114529Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "tts",
+  "name": "TTS",
+  "tagline": "Multi-speaker TTS toolkit used by voice agents.",
+  "category": "audio-speech",
+  "tags": [
+    "deep-learning",
+    "glow-tts",
+    "hifigan",
+    "melgan",
+    "multi-speaker-tts",
+    "python",
+    "pytorch",
+    "speaker-encoder",
+    "speaker-encodings",
+    "speech"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "coqui-ai",
+    "url": "https://github.com/coqui-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "coqui-ai/TTS",
+    "huggingface": null,
+    "homepage": "http://coqui.ai/"
+  },
+  "license": "MPL-2.0",
+  "metrics": {
+    "stars": 45195,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-16T12:07:14Z",
+    "first_commit_at": "2018-01-22T09:48:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4663,
+  "rank_in_category": 9,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:21.028179Z",
+  "last_refreshed_at": "2026-04-30T03:22:21.028183Z"
+}

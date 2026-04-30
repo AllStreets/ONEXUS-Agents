@@ -1,0 +1,44 @@
+{
+  "slug": "dify",
+  "name": "dify",
+  "tagline": "LLMOps platform widely used to build support agents.",
+  "category": "customer-support",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "automation",
+    "gemini",
+    "genai",
+    "gpt",
+    "gpt-4"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "langgenius",
+    "url": "https://github.com/langgenius"
+  },
+  "source": {
+    "primary": "github",
+    "github": "langgenius/dify",
+    "huggingface": null,
+    "homepage": "https://dify.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 139676,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T03:20:06Z",
+    "first_commit_at": "2023-05-15T00:51:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.71,
+  "rank_in_category": 1,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:07.424738Z",
+  "last_refreshed_at": "2026-04-30T03:22:07.424741Z"
+}

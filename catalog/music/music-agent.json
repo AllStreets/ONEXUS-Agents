@@ -1,0 +1,42 @@
+{
+  "slug": "music-agent",
+  "name": "music-agent",
+  "tagline": "Open-source AI music agent for music generation and automation",
+  "category": "music",
+  "tags": [
+    "ai-agent",
+    "audio",
+    "automation",
+    "generative-ai",
+    "llm",
+    "music",
+    "music-agent",
+    "music-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "LK-520",
+    "url": "https://github.com/LK-520"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LK-520/music-agent",
+    "huggingface": null,
+    "homepage": "https://lk-520.github.io/music-agent/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T05:33:38Z",
+    "first_commit_at": "2026-04-14T14:00:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6191,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:53.244467Z",
+  "last_refreshed_at": "2026-04-30T03:30:53.244470Z"
+}

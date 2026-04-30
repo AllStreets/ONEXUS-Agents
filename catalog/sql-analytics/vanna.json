@@ -1,31 +1,49 @@
 {
   "slug": "vanna",
-  "name": "Vanna",
-  "tagline": "Train-on-your-schema text-to-SQL agent — strong on BIRD-bench.",
+  "name": "vanna",
+  "tagline": "Train-on-your-schema SQL agent — strong on BIRD-bench.",
   "category": "sql-analytics",
-  "tags": ["text-to-sql", "rag", "schema-aware"],
-  "author": { "type": "org", "handle": "vanna-ai", "url": "https://github.com/vanna-ai" },
+  "tags": [
+    "agent",
+    "ai",
+    "data-visualization",
+    "database",
+    "llm",
+    "rag",
+    "sql",
+    "text-to-sql"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "vanna-ai",
+    "url": "https://github.com/vanna-ai"
+  },
   "source": {
     "primary": "github",
     "github": "vanna-ai/vanna",
     "huggingface": null,
-    "homepage": "https://vanna.ai"
+    "homepage": "https://vanna.ai/docs/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 12200,
+    "stars": 23364,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-23T09:11:00Z",
-    "first_commit_at": "2023-05-23T00:00:00Z"
+    "last_commit_at": "2026-02-02T14:14:20Z",
+    "first_commit_at": "2023-05-13T17:26:28Z"
   },
   "benchmarks": [
-    { "name": "BIRD-bench", "score": 53.7, "as_of": "2026-03-12", "source_url": "https://bird-bench.github.io/" }
+    {
+      "name": "BIRD-bench",
+      "score": 53.7,
+      "as_of": "2026-03-12",
+      "source_url": "https://bird-bench.github.io/"
+    }
   ],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.824,
+  "composite_score": 0.5529,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-29T00:00:00Z"
+  "last_refreshed_at": "2026-04-30T03:22:59.614841Z"
 }

@@ -1,0 +1,44 @@
+{
+  "slug": "radiolens",
+  "name": "radiolens",
+  "tagline": "MobileNetV2 pneumonia classifier validated on an independent 485-sample cross-operator cohort. 96.4% sensitivity, 96.4% ROC-AUC, bootstrap p=0.978. FastAPI inference API, Streamlit dashboard, DICOM su",
+  "category": "healthcare",
+  "tags": [
+    "binary-classification",
+    "bootstrap-statistics",
+    "chest-xray",
+    "clinical-ai",
+    "computer-vision",
+    "cross-validation",
+    "deep-learning",
+    "dicom",
+    "docker",
+    "fastapi"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Hilary-Henshaw",
+    "url": "https://github.com/Hilary-Henshaw"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Hilary-Henshaw/radiolens",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-13T01:38:32Z",
+    "first_commit_at": "2025-09-02T08:14:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3814,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:53.427646Z",
+  "last_refreshed_at": "2026-04-30T03:29:53.427649Z"
+}

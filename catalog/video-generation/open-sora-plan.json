@@ -1,0 +1,33 @@
+{
+  "slug": "open-sora-plan",
+  "name": "Open-Sora-Plan",
+  "tagline": "Community Sora reproduction with scripted multi-shot workflows.",
+  "category": "video-generation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "PKU-YuanGroup",
+    "url": "https://github.com/PKU-YuanGroup"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PKU-YuanGroup/Open-Sora-Plan",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12162,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-08T12:48:46Z",
+    "first_commit_at": "2024-03-04T14:06:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5272,
+  "rank_in_category": 3,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:22:17.539228Z",
+  "last_refreshed_at": "2026-04-30T03:22:17.539231Z"
+}

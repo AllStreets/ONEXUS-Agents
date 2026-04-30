@@ -1,29 +1,41 @@
 {
   "slug": "k8sgpt",
-  "name": "K8sGPT",
+  "name": "k8sgpt",
   "tagline": "Kubernetes triage agent — explains cluster issues in plain English.",
   "category": "devops-sre",
-  "tags": ["kubernetes", "triage", "explainer"],
-  "author": { "type": "org", "handle": "k8sgpt-ai", "url": "https://github.com/k8sgpt-ai" },
+  "tags": [
+    "ai",
+    "devops",
+    "kubernetes",
+    "llama",
+    "openai",
+    "sre",
+    "tooling"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "k8sgpt-ai",
+    "url": "https://github.com/k8sgpt-ai"
+  },
   "source": {
     "primary": "github",
     "github": "k8sgpt-ai/k8sgpt",
     "huggingface": null,
-    "homepage": "https://k8sgpt.ai"
+    "homepage": "http://k8sgpt.ai/"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 8400,
+    "stars": 7720,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-26T19:37:00Z",
-    "first_commit_at": "2023-03-23T00:00:00Z"
+    "last_commit_at": "2026-04-29T23:03:24Z",
+    "first_commit_at": "2023-03-21T11:56:05Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.701,
-  "rank_in_category": 1,
+  "composite_score": 0.664,
+  "rank_in_category": 3,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-29T00:00:00Z"
+  "last_refreshed_at": "2026-04-30T03:22:43.109785Z"
 }

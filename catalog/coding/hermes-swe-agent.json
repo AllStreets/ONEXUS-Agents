@@ -1,0 +1,37 @@
+{
+  "slug": "hermes-swe-agent",
+  "name": "hermes-swe-agent",
+  "tagline": "Autonomous AI coding agent triggered by Linear tickets — spins up full dev environments on EC2, writes code, runs tests, and opens PRs with live preview URLs.",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "claude",
+    "swe-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Deepank308",
+    "url": "https://github.com/Deepank308"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Deepank308/hermes-swe-agent",
+    "huggingface": null,
+    "homepage": "https://deepwiki.com/Deepank308/hermes-swe-agent"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-09T05:59:42Z",
+    "first_commit_at": "2026-04-09T05:47:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.246,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:18.891303Z",
+  "last_refreshed_at": "2026-04-30T03:23:18.891306Z"
+}

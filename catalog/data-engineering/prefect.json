@@ -1,0 +1,44 @@
+{
+  "slug": "prefect",
+  "name": "prefect",
+  "tagline": "Workflow orchestrator with agent-driven scheduling integrations.",
+  "category": "data-engineering",
+  "tags": [
+    "automation",
+    "data",
+    "data-engineering",
+    "data-ops",
+    "data-science",
+    "infrastructure",
+    "ml-ops",
+    "observability",
+    "orchestration",
+    "pipeline"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "PrefectHQ",
+    "url": "https://github.com/PrefectHQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PrefectHQ/prefect",
+    "huggingface": null,
+    "homepage": "https://prefect.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 22278,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T02:14:38Z",
+    "first_commit_at": "2021-07-12T19:36:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6883,
+  "rank_in_category": 2,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:21:51.627848Z",
+  "last_refreshed_at": "2026-04-30T03:21:51.627851Z"
+}

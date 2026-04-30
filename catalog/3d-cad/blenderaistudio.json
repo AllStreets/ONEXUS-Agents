@@ -1,0 +1,40 @@
+{
+  "slug": "blenderaistudio",
+  "name": "BlenderAIStudio",
+  "tagline": "An addon to fully enhance Blender's AI workflow, serving as a demonstration for Addon UI-Forge (next-gen Blender Addon UI framework).",
+  "category": "3d-cad",
+  "tags": [
+    "addon",
+    "addons",
+    "ai",
+    "blender",
+    "blender-ai",
+    "render"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AIGODLIKE",
+    "url": "https://github.com/AIGODLIKE"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AIGODLIKE/BlenderAIStudio",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 94,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T07:16:18Z",
+    "first_commit_at": "2025-12-01T09:21:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5096,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:32:28.412988Z",
+  "last_refreshed_at": "2026-04-30T03:32:28.412991Z"
+}

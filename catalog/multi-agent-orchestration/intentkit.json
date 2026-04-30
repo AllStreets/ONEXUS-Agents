@@ -1,0 +1,43 @@
+{
+  "slug": "intentkit",
+  "name": "intentkit",
+  "tagline": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "agentic",
+    "ai",
+    "ai-agent",
+    "ai-agent-framework",
+    "blockchain",
+    "intents",
+    "python",
+    "web3"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "crestalnetwork",
+    "url": "https://github.com/crestalnetwork"
+  },
+  "source": {
+    "primary": "github",
+    "github": "crestalnetwork/intentkit",
+    "huggingface": null,
+    "homepage": "https://intentcat.com/docs"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6504,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-24T17:41:58Z",
+    "first_commit_at": "2024-12-09T04:32:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3601,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:22.856211Z",
+  "last_refreshed_at": "2026-04-30T03:29:22.856214Z"
+}

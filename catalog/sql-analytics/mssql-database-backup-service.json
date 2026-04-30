@@ -1,0 +1,44 @@
+{
+  "slug": "mssql-database-backup-service",
+  "name": "mssql-database-backup-service",
+  "tagline": "A quick and dirty Windows Service for running SQL commands regularly, mainly to maintain regular database backups",
+  "category": "sql-analytics",
+  "tags": [
+    "csharp",
+    "dotnet-core",
+    "dotnetcore",
+    "mssql",
+    "mssql-backup",
+    "mssql-server",
+    "mssqlserver",
+    "quartz-scheduler",
+    "scheduling-backups",
+    "sql-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "brokenthorn",
+    "url": "https://github.com/brokenthorn"
+  },
+  "source": {
+    "primary": "github",
+    "github": "brokenthorn/mssql-database-backup-service",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2020-10-07T21:01:02Z",
+    "first_commit_at": "2020-09-29T18:30:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1727,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:32:16.551959Z",
+  "last_refreshed_at": "2026-04-30T03:32:16.551962Z"
+}

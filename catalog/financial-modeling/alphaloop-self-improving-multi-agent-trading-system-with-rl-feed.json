@@ -1,0 +1,44 @@
+{
+  "slug": "alphaloop-self-improving-multi-agent-trading-system-with-rl-feed",
+  "name": "AlphaLoop-Self-Improving-Multi-Agent-Trading-System-with-RL-Feedback",
+  "tagline": "RL reward modeling + episodic trade memory + LoRA fine-tuning pipeline built on top of a multi-agent LLM trading system — LangGraph, LangChain, PEFT",
+  "category": "financial-modeling",
+  "tags": [
+    "fastapi",
+    "financial-ai",
+    "hedge-fund",
+    "langchain",
+    "langgraph",
+    "llm-agents",
+    "lora",
+    "multi-agent-llms",
+    "reinforcement-learning",
+    "trading-systems"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Mithil-hub",
+    "url": "https://github.com/Mithil-hub"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Mithil-hub/AlphaLoop-Self-Improving-Multi-Agent-Trading-System-with-RL-Feedback",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-28T16:26:51Z",
+    "first_commit_at": "2026-02-28T16:26:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3014,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:24:56.486663Z",
+  "last_refreshed_at": "2026-04-30T03:24:56.486665Z"
+}

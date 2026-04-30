@@ -1,0 +1,44 @@
+{
+  "slug": "openevidence-mcp",
+  "name": "openevidence-mcp",
+  "tagline": "OpenEvidence MCP: open-source browser-session MCP server for human and AI-agent medical workflows",
+  "category": "healthcare",
+  "tags": [
+    "ai-agents",
+    "browser-automation",
+    "claude",
+    "clinical-ai",
+    "clinical-decision-support",
+    "codex",
+    "doctors",
+    "evidence-based-medicine",
+    "healthcare-ai",
+    "llms-txt"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "bakhtiersizhaev",
+    "url": "https://github.com/bakhtiersizhaev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bakhtiersizhaev/openevidence-mcp",
+    "huggingface": null,
+    "homepage": "https://bakhtiersizhaev.github.io/openevidence-mcp/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-21T16:11:51Z",
+    "first_commit_at": "2026-02-21T14:19:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3656,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:47.202638Z",
+  "last_refreshed_at": "2026-04-30T03:29:47.202642Z"
+}

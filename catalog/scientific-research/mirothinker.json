@@ -1,0 +1,44 @@
+{
+  "slug": "mirothinker",
+  "name": "MiroThinker",
+  "tagline": "MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker-1.7, achieves 74.0 and 75.3 on the BrowseComp and BrowseComp Zh, respectively.",
+  "category": "scientific-research",
+  "tags": [
+    "agent",
+    "agent-framework",
+    "browsecomp",
+    "deep-research",
+    "futurex",
+    "gaia",
+    "hle",
+    "research-agent",
+    "search-agent",
+    "xbench"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "MiroMindAI",
+    "url": "https://github.com/MiroMindAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MiroMindAI/MiroThinker",
+    "huggingface": null,
+    "homepage": "https://miromind.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 8176,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T05:23:54Z",
+    "first_commit_at": "2025-08-08T03:56:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6572,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:28.609522Z",
+  "last_refreshed_at": "2026-04-30T03:28:28.609526Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "pdf-narrator",
+  "name": "pdf-narrator",
+  "tagline": "Convert your PDFs and EPUBs into audiobooks effortlessly. Features intelligent text extraction, customizable text-to-speech settings, and efficient processing for low-resource systems.",
+  "category": "pdf-forms",
+  "tags": [
+    "audiobook",
+    "audiobook-generator",
+    "epub",
+    "immersive-reading",
+    "kokoro-tts",
+    "low-resource",
+    "pdf",
+    "pdf-audiobook",
+    "pdf-extraction",
+    "pdf-to-audiobook"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mateogon",
+    "url": "https://github.com/mateogon"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mateogon/pdf-narrator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 177,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-26T04:01:45Z",
+    "first_commit_at": "2024-12-15T17:16:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.47,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:45.447171Z",
+  "last_refreshed_at": "2026-04-30T03:31:45.447174Z"
+}

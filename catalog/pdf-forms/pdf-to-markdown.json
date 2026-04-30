@@ -1,0 +1,44 @@
+{
+  "slug": "pdf-to-markdown",
+  "name": "pdf-to-markdown",
+  "tagline": "Conversion of PDF documents to structured Markdown, optimized for Retrieval Augmented Generation (RAG) and other NLP tasks. Extract text, tables, and images with preserved formatting for enhanced info",
+  "category": "pdf-forms",
+  "tags": [
+    "document-conversion",
+    "document-processing",
+    "information-retrieval",
+    "pdf-converter",
+    "pdf-extraction",
+    "pdf-parsing",
+    "pdf-to-markdown",
+    "python",
+    "rag",
+    "retrieval-augmented-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "iamarunbrahma",
+    "url": "https://github.com/iamarunbrahma"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iamarunbrahma/pdf-to-markdown",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 143,
+    "downloads_30d": null,
+    "last_commit_at": "2024-11-22T15:17:53Z",
+    "first_commit_at": "2024-09-10T16:18:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3416,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:46.949646Z",
+  "last_refreshed_at": "2026-04-30T03:31:46.949648Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "finrl",
+  "name": "FinRL",
+  "tagline": "Reinforcement-learning library for quant finance agents.",
+  "category": "financial-modeling",
+  "tags": [
+    "algorithmic-trading",
+    "deep-reinforcement-learning",
+    "drl-algorithms",
+    "drl-framework",
+    "drl-trading-agents",
+    "finance",
+    "fintech",
+    "multi-agent-learning",
+    "openai-gym",
+    "pythorch"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AI4Finance-Foundation",
+    "url": "https://github.com/AI4Finance-Foundation"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AI4Finance-Foundation/FinRL",
+    "huggingface": null,
+    "homepage": "https://ai4finance.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14946,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T03:40:15Z",
+    "first_commit_at": "2020-07-26T13:18:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6338,
+  "rank_in_category": 4,
+  "discovered_via": "seed",
+  "first_seen_at": "2026-04-30T03:21:59.900084Z",
+  "last_refreshed_at": "2026-04-30T03:21:59.900087Z"
+}

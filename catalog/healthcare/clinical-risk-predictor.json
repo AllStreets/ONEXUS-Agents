@@ -1,0 +1,44 @@
+{
+  "slug": "clinical-risk-predictor",
+  "name": "clinical-risk-predictor",
+  "tagline": "🩺 AstraMed: A Clinical Risk Intelligence Platform. Powered by SOTA Ensemble ML & BioMistral-7B for predictive medical analytics and explainable risk scoring.",
+  "category": "healthcare",
+  "tags": [
+    "biomedical-ai",
+    "biomistral",
+    "catboost",
+    "clinical-ai",
+    "decision-support",
+    "diabetes-prediction",
+    "ensemble-learning",
+    "explainable-ai",
+    "fastapi",
+    "glassmorphism"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "purvanshjoshi",
+    "url": "https://github.com/purvanshjoshi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "purvanshjoshi/clinical-risk-predictor",
+    "huggingface": null,
+    "homepage": "https://clinical-risk-predictor-nine.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-09T10:07:06Z",
+    "first_commit_at": "2026-01-19T06:08:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3883,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:51.011778Z",
+  "last_refreshed_at": "2026-04-30T03:29:51.011781Z"
+}

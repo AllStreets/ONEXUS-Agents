@@ -1,0 +1,44 @@
+{
+  "slug": "kreuzberg",
+  "name": "kreuzberg",
+  "tagline": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python",
+  "category": "pdf-forms",
+  "tags": [
+    "bun",
+    "csharp",
+    "document-intelligence",
+    "elixir",
+    "ffi",
+    "golang",
+    "java",
+    "metadata-extraction",
+    "node",
+    "pdf-extraction"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kreuzberg-dev",
+    "url": "https://github.com/kreuzberg-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kreuzberg-dev/kreuzberg",
+    "huggingface": null,
+    "homepage": "https://kreuzberg.dev/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 8145,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T01:54:31Z",
+    "first_commit_at": "2025-01-31T21:47:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6583,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:40.861986Z",
+  "last_refreshed_at": "2026-04-30T03:31:40.861989Z"
+}

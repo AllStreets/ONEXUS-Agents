@@ -1,0 +1,41 @@
+{
+  "slug": "translation-agent-webui",
+  "name": "translation-agent-webui",
+  "tagline": "A gradio webui for Andrewyng translation-agent",
+  "category": "translation",
+  "tags": [
+    "gradio",
+    "huggingface",
+    "llama-index",
+    "llm-agent",
+    "ollama",
+    "translation",
+    "translation-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "snekkenull",
+    "url": "https://github.com/snekkenull"
+  },
+  "source": {
+    "primary": "github",
+    "github": "snekkenull/translation-agent-webui",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/spaces/vilarin/Translation-Agent-WebUI"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 30,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-04T03:13:37Z",
+    "first_commit_at": "2024-06-23T04:35:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1707,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:17.072241Z",
+  "last_refreshed_at": "2026-04-30T03:26:17.072245Z"
+}

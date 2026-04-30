@@ -1,0 +1,44 @@
+{
+  "slug": "llm-evaluation-for-dentistry",
+  "name": "llm-evaluation-for-dentistry",
+  "tagline": "Multi-provider LLaMA 3.1 70B benchmark for dental knowledge — latency, consistency, and factual accuracy across 7 hosts, tracked in Weights & Biases.",
+  "category": "healthcare",
+  "tags": [
+    "benchmark",
+    "clinical-ai",
+    "dental-ai",
+    "dentistry",
+    "healthcare-ai",
+    "llama",
+    "llm",
+    "llm-evaluation",
+    "rag",
+    "weights-and-biases"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Tuminha",
+    "url": "https://github.com/Tuminha"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tuminha/llm-evaluation-for-dentistry",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T20:36:25Z",
+    "first_commit_at": "2024-10-03T04:50:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.478,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:49.551723Z",
+  "last_refreshed_at": "2026-04-30T03:29:49.551726Z"
+}

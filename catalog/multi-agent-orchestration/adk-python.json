@@ -1,0 +1,44 @@
+{
+  "slug": "adk-python",
+  "name": "adk-python",
+  "tagline": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "agents",
+    "agents-sdk",
+    "ai",
+    "ai-agents",
+    "aiagentframework",
+    "genai",
+    "genai-chatbot"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "google",
+    "url": "https://github.com/google"
+  },
+  "source": {
+    "primary": "github",
+    "github": "google/adk-python",
+    "huggingface": null,
+    "homepage": "https://google.github.io/adk-docs/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 19359,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T00:18:46Z",
+    "first_commit_at": "2025-04-02T20:18:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3946,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:07.167451Z",
+  "last_refreshed_at": "2026-04-30T03:29:07.167454Z"
+}

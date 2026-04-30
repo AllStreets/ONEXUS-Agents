@@ -1,0 +1,42 @@
+{
+  "slug": "hybrid-reasoning-acute-care",
+  "name": "hybrid-reasoning-acute-care",
+  "tagline": "Comprehensive literature review on hybrid AI systems combining temporal knowledge graphs, clinical constraints, and generative models for emergency department decision support",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "emergency-medicine",
+    "healthcare",
+    "knowledge-graphs",
+    "machine-learning",
+    "neuro-symbolic",
+    "temporal-reasoning",
+    "ucf"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "astinard",
+    "url": "https://github.com/astinard"
+  },
+  "source": {
+    "primary": "github",
+    "github": "astinard/hybrid-reasoning-acute-care",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-11T22:44:29Z",
+    "first_commit_at": "2025-11-30T20:28:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2297,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:59.695123Z",
+  "last_refreshed_at": "2026-04-30T03:29:59.695126Z"
+}

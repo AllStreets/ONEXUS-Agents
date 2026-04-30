@@ -1,0 +1,39 @@
+{
+  "slug": "cortex-mem",
+  "name": "cortex-mem",
+  "tagline": "🧠 The production-ready cognitive foundation for autonomous systems such as OpenClaw and Embodied-AI. For memory management, from extraction and search to automated optimization, with SKILL, CLI, API, ",
+  "category": "robotics",
+  "tags": [
+    "clawhub",
+    "embodied-agent",
+    "embodied-cognition",
+    "openclaw",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sopaco",
+    "url": "https://github.com/sopaco"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sopaco/cortex-mem",
+    "huggingface": null,
+    "homepage": "https://sopaco.github.io/cortex.github.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 272,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T15:25:16Z",
+    "first_commit_at": "2025-11-30T13:36:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5706,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:15.692142Z",
+  "last_refreshed_at": "2026-04-30T03:31:15.692145Z"
+}

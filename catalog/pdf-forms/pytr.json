@@ -1,0 +1,41 @@
+{
+  "slug": "pytr",
+  "name": "pytr",
+  "tagline": "Use TradeRepublic in terminal and mass download all documents",
+  "category": "pdf-forms",
+  "tags": [
+    "finance",
+    "pdf-extraction",
+    "portfolio",
+    "portfolio-performance",
+    "terminal-app",
+    "traderepublic",
+    "traderepublic-statements"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pytr-org",
+    "url": "https://github.com/pytr-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pytr-org/pytr",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/pytr/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 722,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T18:15:07Z",
+    "first_commit_at": "2020-01-26T19:37:52Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6123,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:43.047169Z",
+  "last_refreshed_at": "2026-04-30T03:31:43.047172Z"
+}

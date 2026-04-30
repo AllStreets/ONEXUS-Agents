@@ -1,0 +1,39 @@
+{
+  "slug": "extract-kit",
+  "name": "extract-kit",
+  "tagline": "Powerful PDF data extraction library powered by AI vision models. Transform PDFs into structured, validated data using TypeScript, Zod, and AI providers like Scaleway and Ollama.",
+  "category": "pdf-forms",
+  "tags": [
+    "ai-sdk",
+    "document-processing",
+    "pdf",
+    "pdf-extraction",
+    "vision-llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aidalinfo",
+    "url": "https://github.com/aidalinfo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aidalinfo/extract-kit",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-14T11:11:36Z",
+    "first_commit_at": "2025-08-10T16:54:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2655,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:50.837733Z",
+  "last_refreshed_at": "2026-04-30T03:31:50.837736Z"
+}

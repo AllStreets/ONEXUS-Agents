@@ -1,0 +1,39 @@
+{
+  "slug": "phyagentos",
+  "name": "PhyAgentOS",
+  "tagline": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
+  "category": "robotics",
+  "tags": [
+    "agent",
+    "claw",
+    "embodied-agent",
+    "embodied-ai",
+    "harness"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "PhyAgentOS",
+    "url": "https://github.com/PhyAgentOS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PhyAgentOS/PhyAgentOS",
+    "huggingface": null,
+    "homepage": "https://phy-agent-os.net/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 217,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T08:54:46Z",
+    "first_commit_at": "2026-03-12T05:12:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5588,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:17.161652Z",
+  "last_refreshed_at": "2026-04-30T03:31:17.161655Z"
+}

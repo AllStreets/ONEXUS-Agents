@@ -1,0 +1,42 @@
+{
+  "slug": "nexusai-agentic-sales-campaign-crm",
+  "name": "NexusAI-Agentic-Sales-Campaign-CRM",
+  "tagline": "NexusAI is an autonomous Agentic CRM powered by LangGraph. It orchestrates multi-agent workflows for lead scoring, persona enrichment, and personalized outreach via SMTP/MailHog. Features a closed-loo",
+  "category": "sales-crm",
+  "tags": [
+    "crm",
+    "docker",
+    "docker-compose",
+    "fastapi",
+    "groq",
+    "langgraph",
+    "multiagent-systems",
+    "sales-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MDalamin5",
+    "url": "https://github.com/MDalamin5"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MDalamin5/NexusAI-Agentic-Sales-Campaign-CRM",
+    "huggingface": null,
+    "homepage": "https://youtu.be/vdXHDnrlYqs"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-28T05:17:01Z",
+    "first_commit_at": "2025-12-26T14:31:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2373,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:30:30.502783Z",
+  "last_refreshed_at": "2026-04-30T03:30:30.502786Z"
+}
