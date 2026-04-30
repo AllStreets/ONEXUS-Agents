@@ -1,0 +1,46 @@
+name: validate
+
+on:
+  pull_request:
+    paths:
+      - "catalog/**"
+      - "pipeline/**"
+      - "validator/**"
+      - "pyproject.toml"
+  push:
+    branches: [main]
+    paths:
+      - "catalog/**"
+      - "pipeline/**"
+      - "validator/**"
+
+jobs:
+  schema:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e ".[dev]"
+      - name: validate full catalog
+        run: onexus-agents-validate
+
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e ".[dev]"
+      - name: ruff
+        run: ruff check pipeline validator
