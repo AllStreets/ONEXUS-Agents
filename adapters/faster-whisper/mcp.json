@@ -1,0 +1,39 @@
+{
+  "name": "faster-whisper",
+  "version": "0.1.0",
+  "agent_slug": "faster-whisper",
+  "category": "audio-speech",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.faster_whisper.server"],
+  "env": {
+    "MODEL_NAME": {
+      "required": false,
+      "description": "CTranslate2 Whisper model to load (e.g. tiny, base, small, medium, large-v3, distil-large-v3). Defaults to large-v3."
+    },
+    "DEVICE": {
+      "required": false,
+      "description": "Compute device: 'cpu', 'cuda', or 'auto'. Defaults to auto."
+    },
+    "COMPUTE_TYPE": {
+      "required": false,
+      "description": "Quantisation: 'int8', 'int8_float16', 'float16', 'float32'. Defaults to int8 on CPU, float16 on CUDA."
+    },
+    "MODEL_CACHE_DIR": {
+      "required": false,
+      "description": "Override the HuggingFace cache dir for model downloads."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "transcribe",
+      "transcribe_chunked",
+      "detect_language",
+      "translate"
+    ],
+    "resources": ["filesystem"]
+  },
+  "trust_floor": 0.3,
+  "default_tier": "EXECUTOR",
+  "notes": "Local Whisper inference (CTranslate2). Pure read-only over audio files — no network, no shell. Tier EXECUTOR with low trust floor since the only side effects are returning text and writing transcript files into a sandboxed output dir."
+}
