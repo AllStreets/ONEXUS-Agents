@@ -3,13 +3,13 @@
 from __future__ import annotations
 
 import re
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 
 from pipeline.crawlers import github as gh
 from pipeline.crawlers import huggingface as hf
-from pipeline.schema import Agent, Author, Benchmark, Metrics, Source
+from pipeline.schema import Agent, Author, Metrics, Source
 
-UTC_NOW = lambda: datetime.now(timezone.utc)  # noqa: E731
+UTC_NOW = lambda: datetime.now(UTC)  # noqa: E731
 
 
 def slugify(name: str) -> str:

@@ -31,8 +31,7 @@ def iter_catalog_files() -> Iterator[Path]:
     for cat_dir in sorted(CATALOG_DIR.iterdir()):
         if not cat_dir.is_dir() or cat_dir.name.startswith("_"):
             continue
-        for f in sorted(cat_dir.glob("*.json")):
-            yield f
+        yield from sorted(cat_dir.glob("*.json"))
 
 
 def load_agent_file(path: Path) -> Agent:

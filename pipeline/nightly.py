@@ -9,7 +9,7 @@ from __future__ import annotations
 
 import json
 from collections import defaultdict
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 import click
@@ -205,9 +205,9 @@ def _record_drops(dropped: dict[str, list[str]]) -> Path | None:
     if not any(dropped.values()):
         return None
     DROPPED_DIR.mkdir(parents=True, exist_ok=True)
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    today = datetime.now(UTC).strftime("%Y-%m-%d")
     out = DROPPED_DIR / f"{today}.json"
-    payload = {"generated_at": datetime.now(timezone.utc).isoformat(), "dropped": dropped}
+    payload = {"generated_at": datetime.now(UTC).isoformat(), "dropped": dropped}
     out.write_text(json.dumps(payload, indent=2) + "\n")
     return out
 

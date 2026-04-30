@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 import math
-from datetime import datetime, timedelta, timezone
+from datetime import UTC, datetime
 
 from pipeline.schema import Agent, Category
 
@@ -45,9 +45,9 @@ def log_normalize(values: list[float]) -> dict[int, float]:
 def recency_score(last_commit: datetime | None, now: datetime | None = None) -> float:
     if last_commit is None:
         return 0.0
-    now = now or datetime.now(timezone.utc)
+    now = now or datetime.now(UTC)
     if last_commit.tzinfo is None:
-        last_commit = last_commit.replace(tzinfo=timezone.utc)
+        last_commit = last_commit.replace(tzinfo=UTC)
     days = max(0.0, (now - last_commit).total_seconds() / 86_400)
     return 0.5 ** (days / RECENCY_HALF_LIFE_DAYS)
 
@@ -55,9 +55,9 @@ def recency_score(last_commit: datetime | None, now: datetime | None = None) -> 
 def age_score(first_commit: datetime | None, now: datetime | None = None) -> float:
     if first_commit is None:
         return 0.0
-    now = now or datetime.now(timezone.utc)
+    now = now or datetime.now(UTC)
     if first_commit.tzinfo is None:
-        first_commit = first_commit.replace(tzinfo=timezone.utc)
+        first_commit = first_commit.replace(tzinfo=UTC)
     days = (now - first_commit).total_seconds() / 86_400
     return min(1.0, days / AGE_CAP_DAYS)
 
@@ -78,7 +78,7 @@ def rank_category(agents: list[Agent], category: Category, now: datetime | None 
     """Compute composite_score and rank_in_category in-place; return sorted list."""
     if not agents:
         return []
-    now = now or datetime.now(timezone.utc)
+    now = now or datetime.now(UTC)
     has_bench = category.benchmark_anchor is not None
     weights = WEIGHTS_BENCH if has_bench else WEIGHTS_NO_BENCH
 
