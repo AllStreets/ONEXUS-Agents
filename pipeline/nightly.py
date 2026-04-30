@@ -1,7 +1,7 @@
 """Nightly ingestion entrypoint.
 
 Refresh every seeded agent. Auto-discover new candidates per category.
-Classify, score, truncate to top 100, and write JSON. Drops are recorded
+Classify, score, truncate to top 250, and write JSON. Drops are recorded
 in catalog/_dropped/<date>.json for auditability.
 """
 
@@ -17,8 +17,14 @@ import httpx
 from rich.console import Console
 from rich.progress import Progress
 
-from pipeline.build import build_from_github, build_from_huggingface, merge_benchmarks
+from pipeline.build import (
+    build_from_github,
+    build_from_huggingface,
+    merge_benchmarks,
+    merge_overrides,
+)
 from pipeline.crawlers import github as gh
+from pipeline.crawlers import huggingface as hf
 from pipeline.paths import CATALOG_DIR, DROPPED_DIR
 from pipeline.ranking import rank_category
 from pipeline.schema import Agent, Category, CategoryIndex
@@ -30,7 +36,7 @@ from pipeline.store import (
     write_agent,
 )
 
-TOP_N = 100
+TOP_N = 250
 console = Console()
 
 
@@ -115,6 +121,7 @@ def _refresh_one_seed(
 
     if agent:
         merge_benchmarks(agent, prior)
+        merge_overrides(agent, prior)
     return agent
 
 
@@ -127,18 +134,21 @@ def _discover(
     per_query_limit: int,
     dry_run: bool,
 ) -> None:
-    seen_in_run: set[str] = {a.source.github for ags in by_cat.values() for a in ags if a.source.github}
+    seen_gh: set[str] = {a.source.github for ags in by_cat.values() for a in ags if a.source.github}
+    seen_hf: set[str] = {
+        a.source.huggingface for ags in by_cat.values() for a in ags if a.source.huggingface
+    }
     for cat in categories.categories:
         for q in cat.github_search_queries:
             try:
                 hits = gh.search_repos(client, q, limit=per_query_limit)
             except Exception as e:  # noqa: BLE001
-                console.print(f"[yellow]search '{q}' failed: {e}")
+                console.print(f"[yellow]gh search '{q}' failed: {e}")
                 continue
             for repo in hits:
-                if repo in seen_in_run:
+                if repo in seen_gh:
                     continue
-                seen_in_run.add(repo)
+                seen_gh.add(repo)
                 prior = next(
                     (a for (c, _), a in existing.items() if c == cat.slug and a.source.github == repo),
                     None,
@@ -152,6 +162,38 @@ def _discover(
                 )
                 if agent:
                     merge_benchmarks(agent, prior)
+                    merge_overrides(agent, prior)
+                    by_cat[cat.slug].append(agent)
+
+        hf_tags = (cat.huggingface_filters or {}).get("tags") or []
+        if hf_tags:
+            try:
+                model_ids = hf.search_models(client, hf_tags, limit=per_query_limit)
+            except Exception as e:  # noqa: BLE001
+                console.print(f"[yellow]hf search {hf_tags} failed: {e}")
+                model_ids = []
+            for mid in model_ids:
+                if mid in seen_hf:
+                    continue
+                seen_hf.add(mid)
+                prior = next(
+                    (
+                        a
+                        for (c, _), a in existing.items()
+                        if c == cat.slug and a.source.huggingface == mid
+                    ),
+                    None,
+                )
+                agent = build_from_huggingface(
+                    client,
+                    mid,
+                    cat.slug,
+                    discovered_via="auto",
+                    existing_first_seen=prior.first_seen_at if prior else None,
+                )
+                if agent:
+                    merge_benchmarks(agent, prior)
+                    merge_overrides(agent, prior)
                     by_cat[cat.slug].append(agent)
 
 
@@ -215,7 +257,7 @@ def _record_drops(dropped: dict[str, list[str]]) -> Path | None:
 @click.command()
 @click.option("--dry-run", is_flag=True, help="Compute everything; write nothing.")
 @click.option("--seeds-only", is_flag=True, help="Skip auto-discovery; refresh seeds only.")
-@click.option("--per-query-limit", default=20, show_default=True, help="GitHub results per query.")
+@click.option("--per-query-limit", default=100, show_default=True, help="GitHub results per query.")
 @click.option(
     "--categories", "category_filter", multiple=True, help="Limit to specific category slugs."
 )

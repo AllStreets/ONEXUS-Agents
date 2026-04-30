@@ -2,7 +2,7 @@
 
 Hand-curated bootstrap lists per category. The daily pipeline reads these
 files first, refreshes their metrics from GitHub / Hugging Face, then layers
-auto-discovered candidates on top before scoring and truncating to the top 100.
+auto-discovered candidates on top before scoring and truncating to the top 250.
 
 Seeds **do not** bypass ranking — a low-scoring seed will still be displaced
 by higher-scoring entrants. Seeds exist so the catalog has a credible starting

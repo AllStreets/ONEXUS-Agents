@@ -1,7 +1,7 @@
 {
   "slug": "browser-use",
   "name": "browser-use",
-  "tagline": "Make any LLM control a browser — popular WebArena baseline.",
+  "tagline": "Make any LLM control a browser \u2014 popular WebArena baseline.",
   "category": "browser-automation",
   "tags": [
     "ai-agents",
@@ -38,8 +38,8 @@
       "source_url": "https://webarena.dev/"
     }
   ],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "adapters/browser-use/mcp.json",
   "composite_score": 0.5471,
   "rank_in_category": 1,
   "discovered_via": "seed",

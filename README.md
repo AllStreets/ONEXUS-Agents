@@ -13,7 +13,7 @@ ONEXUS-Agents is the public, open-source arm of [ONEXUS](https://github.com/AllS
 
 ONEXUS itself is a closed-loop runtime: Cortex routes intent, Engram remembers, Pulse schedules, Chronicle audits, Aegis enforces. It is the brain.
 
-**ONEXUS-Agents is the body's reach.** It is the catalog the kernel looks at when it needs an external skill: a coding agent, a browser agent, a legal-research agent, a video-generation pipeline. We crawl GitHub and Hugging Face every night, score every candidate against a transparent composite of popularity, recency, runnability, and (where one exists) a real benchmark, and publish the top 100 agents per category as static JSON.
+**ONEXUS-Agents is the body's reach.** It is the catalog the kernel looks at when it needs an external skill: a coding agent, a browser agent, a legal-research agent, a video-generation pipeline. We crawl GitHub and Hugging Face every night, score every candidate against a transparent composite of popularity, recency, runnability, and (where one exists) a real benchmark, and publish the top 250 agents per category as static JSON.
 
 The catalog is the product. The dashboard is the showcase. The MCP bridge is the on-ramp.
 
@@ -29,7 +29,7 @@ daily cron (13:00 UTC)
    classify into one of 40 task categories
         │
         ▼
-   score (composite)  ──► truncate to top 100 / category
+   score (composite)  ──► truncate to top 250 / category
         │
         ▼
    commit to catalog/  ──► Vercel rebuilds dashboard
@@ -41,7 +41,7 @@ A subset of catalogued agents are marked `runnable: true` and have an `adapter_r
 
 ## The 40 categories
 
-Every category gets a top-100 leaderboard. Eight categories anchor on a real, peer-recognised benchmark that contributes 30% of the composite score; the other 32 score on popularity, recency, age, and runnability alone until a credible benchmark exists.
+Every category gets a top-250 leaderboard. Eight categories anchor on a real, peer-recognised benchmark that contributes 30% of the composite score; the other 32 score on popularity, recency, age, and runnability alone until a credible benchmark exists.
 
 | # | Category | Benchmark |
 |---|---|---|

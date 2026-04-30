@@ -34,8 +34,8 @@
     "first_commit_at": "2022-08-22T14:05:27Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "adapters/stable-diffusion-webui/mcp.json",
   "composite_score": 0.4892,
   "rank_in_category": 4,
   "discovered_via": "seed",
