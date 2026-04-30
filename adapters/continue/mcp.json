@@ -1,0 +1,36 @@
+{
+  "name": "continue",
+  "version": "0.1.0",
+  "agent_slug": "continue",
+  "category": "coding",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.continue.server"],
+  "env": {
+    "OPENAI_API_KEY": {
+      "required": false,
+      "description": "OpenAI API key. One of OPENAI_API_KEY or ANTHROPIC_API_KEY is required."
+    },
+    "ANTHROPIC_API_KEY": {
+      "required": false,
+      "description": "Anthropic API key for Claude-backed sessions."
+    },
+    "CONTINUE_CONFIG_PATH": {
+      "required": false,
+      "description": "Path to a Continue config.json. Defaults to ~/.continue/config.json."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "edit_file",
+      "create_file",
+      "explain_code",
+      "search_repo",
+      "run_command"
+    ],
+    "resources": ["repo"]
+  },
+  "trust_floor": 0.55,
+  "default_tier": "ADVISOR",
+  "notes": "IDE-native coding assistant. Wraps Continue's core library through a stdio MCP shim so ONEXUS can dispatch edit/explain tasks the same way the VS Code extension does."
+}
