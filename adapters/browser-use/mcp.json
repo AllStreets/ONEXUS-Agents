@@ -1,0 +1,46 @@
+{
+  "name": "browser-use",
+  "version": "0.1.0",
+  "agent_slug": "browser-use",
+  "category": "browser-automation",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.browser_use.server"],
+  "env": {
+    "ANTHROPIC_API_KEY": {
+      "required": false,
+      "description": "Anthropic API key. Required if MODEL_NAME targets a Claude model."
+    },
+    "OPENAI_API_KEY": {
+      "required": false,
+      "description": "OpenAI API key. Required if MODEL_NAME targets a GPT model."
+    },
+    "GOOGLE_API_KEY": {
+      "required": false,
+      "description": "Google AI Studio key. Required if MODEL_NAME targets Gemini."
+    },
+    "MODEL_NAME": {
+      "required": false,
+      "description": "LLM driving the browser. Defaults to claude-sonnet-4-6."
+    },
+    "HEADLESS": {
+      "required": false,
+      "description": "Set to 'false' to render the Playwright browser. Defaults to true."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "run_task",
+      "navigate",
+      "click",
+      "type_text",
+      "extract",
+      "screenshot",
+      "scroll"
+    ],
+    "resources": ["browser"]
+  },
+  "trust_floor": 0.65,
+  "default_tier": "MONITOR",
+  "notes": "Generic LLM-driven Playwright agent. Defaults to MONITOR — every browser action is reviewed before execution since the agent can authenticate, transact, and submit forms. WebArena: 39.2 (2026-03-04)."
+}
