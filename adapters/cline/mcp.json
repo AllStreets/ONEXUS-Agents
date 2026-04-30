@@ -1,0 +1,37 @@
+{
+  "name": "cline",
+  "version": "0.1.0",
+  "agent_slug": "cline",
+  "category": "coding",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.cline.server"],
+  "env": {
+    "ANTHROPIC_API_KEY": {
+      "required": false,
+      "description": "Anthropic API key. Cline is Claude-tuned; this is the recommended provider."
+    },
+    "OPENAI_API_KEY": {
+      "required": false,
+      "description": "OpenAI API key fallback when no Anthropic key is set."
+    },
+    "CLINE_AUTO_APPROVE": {
+      "required": false,
+      "description": "Set to '1' to skip per-step confirmation prompts. Off by default."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "edit_file",
+      "create_file",
+      "run_command",
+      "browser_action",
+      "search_repo",
+      "ask_followup"
+    ],
+    "resources": ["repo", "browser"]
+  },
+  "trust_floor": 0.65,
+  "default_tier": "MONITOR",
+  "notes": "Autonomous coding agent — plans, edits, runs commands, and can drive a browser. Higher trust floor than Aider/Continue because of broader capability surface; defaults to MONITOR so every tool call is observed."
+}
