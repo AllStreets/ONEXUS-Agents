@@ -79,44 +79,59 @@ def _refresh_one_seed(
     adapter_ref = entry.get("adapter_ref")
     notes = entry.get("notes")
 
-    if src == "github":
-        repo = entry["repo"]
-        prior = next(
-            (a for (c, _), a in existing.items() if c == cat_slug and a.source.github == repo),
-            None,
-        )
-        agent = build_from_github(
-            client,
-            repo,
-            cat_slug,
-            runnable=runnable,
-            adapter_ref=adapter_ref,
-            notes=notes,
-            discovered_via="seed",
-            existing_first_seen=prior.first_seen_at if prior else None,
-        )
-    elif src == "huggingface":
-        model_id = entry["model"]
-        prior = next(
-            (
-                a
-                for (c, _), a in existing.items()
-                if c == cat_slug and a.source.huggingface == model_id
-            ),
-            None,
-        )
-        agent = build_from_huggingface(
-            client,
-            model_id,
-            cat_slug,
-            runnable=runnable,
-            adapter_ref=adapter_ref,
-            notes=notes,
-            discovered_via="seed",
-            existing_first_seen=prior.first_seen_at if prior else None,
-        )
-    else:
-        console.print(f"[yellow]unknown source for {entry}: {src}")
+    try:
+        if src == "github":
+            repo = entry["repo"]
+            prior = next(
+                (a for (c, _), a in existing.items() if c == cat_slug and a.source.github == repo),
+                None,
+            )
+            agent = build_from_github(
+                client,
+                repo,
+                cat_slug,
+                runnable=runnable,
+                adapter_ref=adapter_ref,
+                notes=notes,
+                discovered_via="seed",
+                existing_first_seen=prior.first_seen_at if prior else None,
+            )
+        elif src == "huggingface":
+            model_id = entry["model"]
+            prior = next(
+                (
+                    a
+                    for (c, _), a in existing.items()
+                    if c == cat_slug and a.source.huggingface == model_id
+                ),
+                None,
+            )
+            agent = build_from_huggingface(
+                client,
+                model_id,
+                cat_slug,
+                runnable=runnable,
+                adapter_ref=adapter_ref,
+                notes=notes,
+                discovered_via="seed",
+                existing_first_seen=prior.first_seen_at if prior else None,
+            )
+        else:
+            console.print(f"[yellow]unknown source for {entry}: {src}")
+            return None
+    except Exception as e:  # noqa: BLE001
+        console.print(f"[yellow]seed refresh failed for {entry}: {e}")
+        # Fall back to the prior on-disk entry so transient API errors don't drop it.
+        if src == "github":
+            return next(
+                (a for (c, _), a in existing.items() if c == cat_slug and a.source.github == entry.get("repo")),
+                None,
+            )
+        if src == "huggingface":
+            return next(
+                (a for (c, _), a in existing.items() if c == cat_slug and a.source.huggingface == entry.get("model")),
+                None,
+            )
         return None
 
     if agent:
@@ -153,13 +168,17 @@ def _discover(
                     (a for (c, _), a in existing.items() if c == cat.slug and a.source.github == repo),
                     None,
                 )
-                agent = build_from_github(
-                    client,
-                    repo,
-                    cat.slug,
-                    discovered_via="auto",
-                    existing_first_seen=prior.first_seen_at if prior else None,
-                )
+                try:
+                    agent = build_from_github(
+                        client,
+                        repo,
+                        cat.slug,
+                        discovered_via="auto",
+                        existing_first_seen=prior.first_seen_at if prior else None,
+                    )
+                except Exception as e:  # noqa: BLE001
+                    console.print(f"[yellow]gh build failed for {repo}: {e}")
+                    continue
                 if agent:
                     merge_benchmarks(agent, prior)
                     merge_overrides(agent, prior)
@@ -184,13 +203,17 @@ def _discover(
                     ),
                     None,
                 )
-                agent = build_from_huggingface(
-                    client,
-                    mid,
-                    cat.slug,
-                    discovered_via="auto",
-                    existing_first_seen=prior.first_seen_at if prior else None,
-                )
+                try:
+                    agent = build_from_huggingface(
+                        client,
+                        mid,
+                        cat.slug,
+                        discovered_via="auto",
+                        existing_first_seen=prior.first_seen_at if prior else None,
+                    )
+                except Exception as e:  # noqa: BLE001
+                    console.print(f"[yellow]hf build failed for {mid}: {e}")
+                    continue
                 if agent:
                     merge_benchmarks(agent, prior)
                     merge_overrides(agent, prior)
@@ -257,7 +280,7 @@ def _record_drops(dropped: dict[str, list[str]]) -> Path | None:
 @click.command()
 @click.option("--dry-run", is_flag=True, help="Compute everything; write nothing.")
 @click.option("--seeds-only", is_flag=True, help="Skip auto-discovery; refresh seeds only.")
-@click.option("--per-query-limit", default=100, show_default=True, help="GitHub results per query.")
+@click.option("--per-query-limit", default=30, show_default=True, help="Results per search query.")
 @click.option(
     "--categories", "category_filter", multiple=True, help="Limit to specific category slugs."
 )
