@@ -27,9 +27,9 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 72378,
+    "stars": 72412,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-30T02:55:40Z",
+    "last_commit_at": "2026-04-30T15:48:35Z",
     "first_commit_at": "2024-03-13T03:36:30Z"
   },
   "benchmarks": [
@@ -40,11 +40,11 @@
       "source_url": "https://www.swebench.com/"
     }
   ],
-  "runnable": true,
-  "adapter_ref": "adapters/openhands/mcp.json",
+  "runnable": false,
+  "adapter_ref": null,
   "composite_score": 0.5851,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-30T03:21:37.345832Z"
+  "last_refreshed_at": "2026-04-30T15:58:34.634721Z"
 }
