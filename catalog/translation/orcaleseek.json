@@ -1,0 +1,42 @@
+{
+  "slug": "orcaleseek",
+  "name": "OrcaleSeek",
+  "tagline": "prelington/OrcaleSeek — translation",
+  "category": "translation",
+  "tags": [
+    "fasttext",
+    "agent",
+    "translation",
+    "dataset:openai/gdpval",
+    "base_model:google/embeddinggemma-300m",
+    "base_model:finetune:google/embeddinggemma-300m",
+    "license:apache-2.0",
+    "region:us"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "prelington",
+    "url": "https://huggingface.co/prelington"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "prelington/OrcaleSeek",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": 0,
+    "last_commit_at": "2025-10-02T18:45:14Z",
+    "first_commit_at": "2025-10-02T18:22:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0638,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:51:39.219335Z",
+  "last_refreshed_at": "2026-04-30T16:51:39.219339Z"
+}

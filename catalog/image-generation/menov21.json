@@ -1,0 +1,44 @@
+{
+  "slug": "menov21",
+  "name": "menov21",
+  "tagline": "Menoviar28/menov21 — text-to-image",
+  "category": "image-generation",
+  "tags": [
+    "diffusers",
+    "climate",
+    "code",
+    "agent",
+    "art",
+    "text-to-image",
+    "am",
+    "dataset:MiniMaxAI/VIBE",
+    "base_model:MiniMaxAI/MiniMax-M2.1",
+    "base_model:finetune:MiniMaxAI/MiniMax-M2.1"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Menoviar28",
+    "url": "https://huggingface.co/Menoviar28"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "Menoviar28/menov21",
+    "homepage": null
+  },
+  "license": "creativeml-openrail-m",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-01-06T00:45:55Z",
+    "first_commit_at": "2026-01-06T00:42:47Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.102,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:51:38.173793Z",
+  "last_refreshed_at": "2026-04-30T16:51:38.173796Z"
+}

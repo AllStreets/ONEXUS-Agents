@@ -1,0 +1,44 @@
+{
+  "slug": "next-ocr",
+  "name": "next-ocr",
+  "tagline": "thelamapi/next-ocr — image-text-to-text",
+  "category": "financial-modeling",
+  "tags": [
+    "transformers",
+    "safetensors",
+    "gguf",
+    "qwen3_vl",
+    "image-text-to-text",
+    "text-generation-inference",
+    "unsloth",
+    "trl",
+    "sft",
+    "chemistry"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "thelamapi",
+    "url": "https://huggingface.co/thelamapi"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "thelamapi/next-ocr",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": 12478,
+    "last_commit_at": "2026-03-01T18:17:33Z",
+    "first_commit_at": "2025-11-12T18:07:47Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7149,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:51:35.639578Z",
+  "last_refreshed_at": "2026-04-30T16:51:35.639582Z"
+}

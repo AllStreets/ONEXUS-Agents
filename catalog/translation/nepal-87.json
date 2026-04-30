@@ -1,0 +1,44 @@
+{
+  "slug": "nepal-87",
+  "name": "Nepal-87",
+  "tagline": "Rockstar45/Nepal-87 — translation",
+  "category": "translation",
+  "tags": [
+    "flair",
+    "agent",
+    "translation",
+    "ne",
+    "en",
+    "dataset:bones-studio/seed",
+    "dataset:stepfun-ai/Step-3.5-Flash-SFT",
+    "base_model:google/gemma-4-31B-it",
+    "base_model:finetune:google/gemma-4-31B-it",
+    "license:mit"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Rockstar45",
+    "url": "https://huggingface.co/Rockstar45"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "Rockstar45/Nepal-87",
+    "homepage": null
+  },
+  "license": "mit",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-04-12T07:01:08Z",
+    "first_commit_at": "2026-04-12T06:56:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1927,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:51:39.341344Z",
+  "last_refreshed_at": "2026-04-30T16:51:39.341346Z"
+}

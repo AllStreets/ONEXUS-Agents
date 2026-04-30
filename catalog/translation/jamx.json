@@ -1,0 +1,44 @@
+{
+  "slug": "jamx",
+  "name": "JAMx",
+  "tagline": "JAMhunggingface/JAMx — translation",
+  "category": "translation",
+  "tags": [
+    "adapter-transformers",
+    "art",
+    "agent",
+    "translation",
+    "aa",
+    "am",
+    "dataset:Anthropic/AnthropicInterviewer",
+    "base_model:Tongyi-MAI/Z-Image-Turbo",
+    "base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
+    "license:apache-2.0"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "JAMhunggingface",
+    "url": "https://huggingface.co/JAMhunggingface"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "JAMhunggingface/JAMx",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": 0,
+    "last_commit_at": "2025-12-12T20:06:22Z",
+    "first_commit_at": "2025-12-12T20:03:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0888,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T16:51:39.301066Z",
+  "last_refreshed_at": "2026-04-30T16:51:39.301070Z"
+}
