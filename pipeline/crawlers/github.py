@@ -26,14 +26,19 @@ def _headers() -> dict[str, str]:
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(min=1, max=10))
 def fetch_repo(client: httpx.Client, full_name: str) -> dict[str, Any] | None:
-    """Return canonical repo metadata or None if the repo is missing/private."""
+    """Return canonical repo metadata or None if the repo is missing/private/forbidden.
+
+    Treats 403 (secondary rate limit), 404 (gone/private), 410 (gone), and 451
+    (legal block) as "skip this one" so a single throttled or DMCA'd repo can't
+    crash a multi-thousand-repo crawl.
+    """
     r = client.get(
         f"{GITHUB_API}/repos/{full_name}",
         headers=_headers(),
         timeout=15,
         follow_redirects=True,
     )
-    if r.status_code == 404:
+    if r.status_code in (403, 404, 410, 451):
         return None
     r.raise_for_status()
     data = r.json()
@@ -92,7 +97,11 @@ def _fetch_first_commit_date(client: httpx.Client, full_name: str) -> str | None
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(min=1, max=10))
 def search_repos(client: httpx.Client, query: str, limit: int = 30) -> list[str]:
-    """Search GitHub for repos matching `query`. Returns owner/name strings."""
+    """Search GitHub for repos matching `query`. Returns owner/name strings.
+
+    Returns [] on 403 (secondary rate limit) or 422 (bad query) so a single
+    bad query doesn't kill the whole crawl.
+    """
     r = client.get(
         f"{GITHUB_API}/search/repositories",
         headers=_headers(),
@@ -100,6 +109,8 @@ def search_repos(client: httpx.Client, query: str, limit: int = 30) -> list[str]
         timeout=20,
         follow_redirects=True,
     )
+    if r.status_code in (403, 422):
+        return []
     r.raise_for_status()
     return [item["full_name"] for item in r.json().get("items", [])]
 
