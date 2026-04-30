@@ -1,0 +1,41 @@
+{
+  "slug": "azure-ai-document-pipeline-sample",
+  "name": "azure-ai-document-pipeline-sample",
+  "tagline": ".NET sample project for building a scalable document data extraction pipeline with containerized Durable Functions and Azure AI Services on Azure Container Apps.",
+  "category": "document-processing",
+  "tags": [
+    "ai-services",
+    "azure",
+    "container-apps",
+    "document-extraction",
+    "durable-functions",
+    "gpt-4o",
+    "openai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jamesmcroft",
+    "url": "https://github.com/jamesmcroft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jamesmcroft/azure-ai-document-pipeline-sample",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2024-10-08T15:34:45Z",
+    "first_commit_at": "2024-04-19T12:49:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2304,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:27:48.516183Z",
+  "last_refreshed_at": "2026-04-30T03:27:48.516186Z"
+}

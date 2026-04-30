@@ -1,0 +1,38 @@
+{
+  "slug": "youtu-agent",
+  "name": "youtu-agent",
+  "tagline": "A simple yet powerful agent framework that delivers with open-source models",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "agents",
+    "openai-agents",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TencentCloudADP",
+    "url": "https://github.com/TencentCloudADP"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TencentCloudADP/youtu-agent",
+    "huggingface": null,
+    "homepage": "https://tencentcloudadp.github.io/youtu-agent/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4526,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-21T07:18:28Z",
+    "first_commit_at": "2025-06-19T06:21:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3035,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:23.740308Z",
+  "last_refreshed_at": "2026-04-30T03:29:23.740311Z"
+}

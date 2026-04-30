@@ -1,0 +1,36 @@
+{
+  "slug": "visuothink",
+  "name": "VisuoThink",
+  "tagline": "[Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics]: VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search",
+  "category": "reasoning-math",
+  "tags": [
+    "multimodal",
+    "reasoning-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ekonwang",
+    "url": "https://github.com/ekonwang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ekonwang/VisuoThink",
+    "huggingface": null,
+    "homepage": "https://aclanthology.org/2025.acl-long.1053/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 103,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-24T14:42:22Z",
+    "first_commit_at": "2025-03-27T09:05:52Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0977,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:54.323188Z",
+  "last_refreshed_at": "2026-04-30T03:28:54.323191Z"
+}

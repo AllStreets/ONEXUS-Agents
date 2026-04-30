@@ -1,0 +1,41 @@
+{
+  "slug": "autoquantai",
+  "name": "AutoQuantAI",
+  "tagline": "AutoQuantAI is an open source intelligent financial analysis platform integrating RAG, Algorithm Strategies,LLM,and Real-time Market Data (A-Share). It serves as your personal AI Quant Agent（AI量化交易智能体",
+  "category": "financial-modeling",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-quant",
+    "llm",
+    "market-timing-strategy",
+    "quant",
+    "trading-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AndyLinGo",
+    "url": "https://github.com/AndyLinGo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AndyLinGo/AutoQuantAI",
+    "huggingface": null,
+    "homepage": "https://qt.iyesdo.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-22T15:27:05Z",
+    "first_commit_at": "2026-02-21T16:36:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3409,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:24:36.192777Z",
+  "last_refreshed_at": "2026-04-30T03:24:36.192780Z"
+}

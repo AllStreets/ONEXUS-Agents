@@ -1,0 +1,42 @@
+{
+  "slug": "sqlbot",
+  "name": "SQLBot",
+  "tagline": "🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.",
+  "category": "sql-analytics",
+  "tags": [
+    "chatbi",
+    "deepseek",
+    "llm",
+    "nl2sql",
+    "rag",
+    "sqlbot",
+    "text-to-sql",
+    "text2sql"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "dataease",
+    "url": "https://github.com/dataease"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dataease/SQLBot",
+    "huggingface": null,
+    "homepage": "https://sqlbot.org/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 6020,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T03:10:08Z",
+    "first_commit_at": "2025-04-21T05:33:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4094,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:58.179571Z",
+  "last_refreshed_at": "2026-04-30T03:31:58.179574Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "goclaw",
+  "name": "goclaw",
+  "tagline": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "ai-agent",
+    "ai-gateway",
+    "anthropic",
+    "chatbot",
+    "discord-bot",
+    "golang",
+    "harness",
+    "harness-engineering",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nextlevelbuilder",
+    "url": "https://github.com/nextlevelbuilder"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nextlevelbuilder/goclaw",
+    "huggingface": null,
+    "homepage": "https://goclaw.sh/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2977,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T22:46:26Z",
+    "first_commit_at": "2026-02-22T07:58:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.307,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:29.497769Z",
+  "last_refreshed_at": "2026-04-30T03:29:29.497772Z"
+}

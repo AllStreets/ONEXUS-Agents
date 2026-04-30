@@ -1,0 +1,44 @@
+{
+  "slug": "gopher-mcp-js",
+  "name": "gopher-mcp-js",
+  "tagline": "JS bindings for Cross-Language MCP Orchestrator, think of LangChain + Vercel AI kit but for MCP",
+  "category": "web-dev",
+  "tags": [
+    "agent-framework",
+    "agentic-ai",
+    "ai-agents",
+    "composable",
+    "cross-language",
+    "ffi",
+    "javascript",
+    "js",
+    "langchain",
+    "langgraph"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "GopherSecurity",
+    "url": "https://github.com/GopherSecurity"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GopherSecurity/gopher-mcp-js",
+    "huggingface": null,
+    "homepage": "https://gopher.security/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T00:20:53Z",
+    "first_commit_at": "2025-08-04T18:37:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4361,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:24:27.939756Z",
+  "last_refreshed_at": "2026-04-30T03:24:27.939759Z"
+}

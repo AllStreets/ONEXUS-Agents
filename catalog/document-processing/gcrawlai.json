@@ -1,0 +1,44 @@
+{
+  "slug": "gcrawlai",
+  "name": "GcrawlAI",
+  "tagline": "Turn any website into clean, LLM-ready data. Open-source web crawler with stealth mode, distributed crawling, real-time WebSocket progress & Markdown output. Power your AI apps with GcrawlAI.",
+  "category": "document-processing",
+  "tags": [
+    "ai",
+    "celery",
+    "data-pipeline",
+    "document-extraction",
+    "fastapi",
+    "llm",
+    "llm-tools",
+    "markdown",
+    "nlp",
+    "open-source"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "GramosoftAI",
+    "url": "https://github.com/GramosoftAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GramosoftAI/GcrawlAI",
+    "huggingface": null,
+    "homepage": "https://gcrawl.gramopro.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T07:31:16Z",
+    "first_commit_at": "2026-01-27T10:05:56Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4438,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:27:39.663762Z",
+  "last_refreshed_at": "2026-04-30T03:27:39.663765Z"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "ingest-file",
+  "name": "ingest-file",
+  "tagline": "Ingestors extract the contents of mixed unstructured documents into structured (followthemoney) data.",
+  "category": "document-processing",
+  "tags": [
+    "document-extraction",
+    "documents",
+    "email-forensics",
+    "excel",
+    "forensics",
+    "forensics-investigations",
+    "metadata-extraction",
+    "ocr"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "alephdata",
+    "url": "https://github.com/alephdata"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alephdata/ingest-file",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 65,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-19T08:10:37Z",
+    "first_commit_at": "2017-03-08T15:10:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3957,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:27:38.801569Z",
+  "last_refreshed_at": "2026-04-30T03:27:38.801572Z"
+}

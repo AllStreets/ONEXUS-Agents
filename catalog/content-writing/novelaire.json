@@ -1,0 +1,40 @@
+{
+  "slug": "novelaire",
+  "name": "Novelaire",
+  "tagline": "Spec-driven vibe writing CLI — treat your story like code, define the soul, lint the vibe.",
+  "category": "content-writing",
+  "tags": [
+    "cli",
+    "creative-writing",
+    "llm",
+    "python",
+    "spec-driven",
+    "writing-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "qWaitCrypto",
+    "url": "https://github.com/qWaitCrypto"
+  },
+  "source": {
+    "primary": "github",
+    "github": "qWaitCrypto/Novelaire",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-10T15:48:08Z",
+    "first_commit_at": "2025-12-16T03:09:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3423,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:25:34.318741Z",
+  "last_refreshed_at": "2026-04-30T03:25:34.318744Z"
+}

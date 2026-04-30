@@ -1,0 +1,40 @@
+{
+  "slug": "wyoming-piper-gpu",
+  "name": "wyoming-piper-gpu",
+  "tagline": "Wyoming Piper docker container with GPU support for Home-Assistant",
+  "category": "audio-speech",
+  "tags": [
+    "home-assistant",
+    "piper-tts",
+    "tts",
+    "voice-agent",
+    "voice-assistant",
+    "wyoming"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "slackr31337",
+    "url": "https://github.com/slackr31337"
+  },
+  "source": {
+    "primary": "github",
+    "github": "slackr31337/wyoming-piper-gpu",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 55,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-10T02:05:23Z",
+    "first_commit_at": "2023-12-08T16:54:40Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2738,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:11.188426Z",
+  "last_refreshed_at": "2026-04-30T03:26:11.188429Z"
+}

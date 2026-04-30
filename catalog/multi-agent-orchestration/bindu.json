@@ -1,0 +1,41 @@
+{
+  "slug": "bindu",
+  "name": "Bindu",
+  "tagline": "Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a",
+    "agent-communication",
+    "agent-orchestration",
+    "ai-agent",
+    "autonomous-agents",
+    "eu-ai-act",
+    "machine-learning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "GetBindu",
+    "url": "https://github.com/GetBindu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GetBindu/Bindu",
+    "huggingface": null,
+    "homepage": "https://docs.getbindu.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4975,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T13:34:35Z",
+    "first_commit_at": "2025-03-16T22:37:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3473,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:28.082317Z",
+  "last_refreshed_at": "2026-04-30T03:29:28.082320Z"
+}

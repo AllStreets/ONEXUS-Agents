@@ -1,0 +1,44 @@
+{
+  "slug": "swe-rex",
+  "name": "SWE-ReX",
+  "tagline": "Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more. ",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "agents",
+    "ai",
+    "aws",
+    "cloud",
+    "coding-agents",
+    "docker",
+    "fargate",
+    "modal",
+    "swe-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SWE-agent",
+    "url": "https://github.com/SWE-agent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SWE-agent/SWE-ReX",
+    "huggingface": null,
+    "homepage": "https://swe-rex.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 485,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T22:10:17Z",
+    "first_commit_at": "2024-10-14T18:05:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3656,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:12.373360Z",
+  "last_refreshed_at": "2026-04-30T03:23:12.373362Z"
+}

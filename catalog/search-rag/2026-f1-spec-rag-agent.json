@@ -1,0 +1,43 @@
+{
+  "slug": "2026-f1-spec-rag-agent",
+  "name": "2026_F1_Spec_RAG_Agent",
+  "tagline": "  A specialized RAG-powered AI agent for querying the 2026 FIA Formula 1 Technical Regulations with precise Article Number citations and a dual CLI/Streamlit interface.",
+  "category": "search-rag",
+  "tags": [
+    "ai-assistant",
+    "chromadb",
+    "engineering",
+    "formula1",
+    "gemini-api",
+    "langchain",
+    "python",
+    "rag",
+    "rag-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "vijaysai1102",
+    "url": "https://github.com/vijaysai1102"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vijaysai1102/2026_F1_Spec_RAG_Agent",
+    "huggingface": null,
+    "homepage": "https://f1-2026-rag-agent.streamlit.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T16:42:38Z",
+    "first_commit_at": "2026-04-23T07:28:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3532,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:29.408302Z",
+  "last_refreshed_at": "2026-04-30T03:26:29.408305Z"
+}

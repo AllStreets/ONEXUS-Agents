@@ -1,0 +1,44 @@
+{
+  "slug": "mission-control",
+  "name": "mission-control",
+  "tagline": "Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "ai-agents",
+    "ai-automation",
+    "ai-dashboard",
+    "claude",
+    "dashboard",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "nextjs"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "builderz-labs",
+    "url": "https://github.com/builderz-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "builderz-labs/mission-control",
+    "huggingface": null,
+    "homepage": "https://mc.builderz.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4466,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T07:01:01Z",
+    "first_commit_at": "2026-02-22T19:00:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3137,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:28.799416Z",
+  "last_refreshed_at": "2026-04-30T03:29:28.799419Z"
+}

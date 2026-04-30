@@ -1,0 +1,44 @@
+{
+  "slug": "hs-sql-agent",
+  "name": "hs-sql-agent",
+  "tagline": "security, high granular security control sql agent mcp, include admin panel, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird",
+  "category": "sql-analytics",
+  "tags": [
+    "accuracy",
+    "admin-panel",
+    "ai-safety",
+    "ai-safety-design",
+    "anti-hallucination",
+    "firebird",
+    "mcp",
+    "mcp-server",
+    "mcp-servers",
+    "mysql"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tse-wei-chen",
+    "url": "https://github.com/tse-wei-chen"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tse-wei-chen/hs-sql-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T13:05:54Z",
+    "first_commit_at": "2026-04-03T08:08:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2312,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:32:25.215306Z",
+  "last_refreshed_at": "2026-04-30T03:32:25.215309Z"
+}

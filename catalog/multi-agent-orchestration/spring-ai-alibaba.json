@@ -1,0 +1,43 @@
+{
+  "slug": "spring-ai-alibaba",
+  "name": "spring-ai-alibaba",
+  "tagline": "Agentic AI Framework for Java Developers",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic",
+    "artificial-intelligence",
+    "context-engineering",
+    "graph",
+    "java",
+    "multi-agent",
+    "reactagent",
+    "spring-ai",
+    "workflow"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "alibaba",
+    "url": "https://github.com/alibaba"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alibaba/spring-ai-alibaba",
+    "huggingface": null,
+    "homepage": "https://java2ai.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 9439,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T02:38:01Z",
+    "first_commit_at": "2024-09-09T01:35:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3846,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:09.337587Z",
+  "last_refreshed_at": "2026-04-30T03:29:09.337590Z"
+}

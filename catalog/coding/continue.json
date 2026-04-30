@@ -26,17 +26,17 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 32898,
+    "stars": 32894,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-30T09:09:10Z",
+    "last_commit_at": "2026-04-29T16:21:58Z",
     "first_commit_at": "2023-05-24T03:45:12Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.4094,
+  "runnable": true,
+  "adapter_ref": "adapters/continue/mcp.json",
+  "composite_score": 0.4468,
   "rank_in_category": 6,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-30T15:58:35.936591Z"
+  "last_refreshed_at": "2026-04-30T03:21:38.868450Z"
 }

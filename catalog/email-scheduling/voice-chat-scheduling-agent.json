@@ -1,0 +1,44 @@
+{
+  "slug": "voice-chat-scheduling-agent",
+  "name": "voice-chat-scheduling-agent",
+  "tagline": "A production-grade AI scheduling agent that handles customer appointment booking through voice calls and chat messages. Powered by Google Gemini 2.5 Flash and orchestrated with LangGraph, this system ",
+  "category": "email-scheduling",
+  "tags": [
+    "elevenlabs",
+    "fastapi",
+    "gemini",
+    "langchain",
+    "langgraph",
+    "python",
+    "rag",
+    "scheduling-agent",
+    "supabase",
+    "telegram"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "umair801",
+    "url": "https://github.com/umair801"
+  },
+  "source": {
+    "primary": "github",
+    "github": "umair801/voice-chat-scheduling-agent",
+    "huggingface": null,
+    "homepage": "https://scheduling.datawebify.com/docs"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T00:10:24Z",
+    "first_commit_at": "2026-03-12T04:21:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3497,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:06.333687Z",
+  "last_refreshed_at": "2026-04-30T03:28:06.333691Z"
+}

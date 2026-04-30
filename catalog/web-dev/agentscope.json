@@ -1,0 +1,43 @@
+{
+  "slug": "agentscope",
+  "name": "agentscope",
+  "tagline": "Build and run agents you can see, understand and trust.",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "chatbot",
+    "large-language-models",
+    "llm",
+    "llm-agent",
+    "mcp",
+    "multi-agent",
+    "multi-modal",
+    "react-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agentscope-ai",
+    "url": "https://github.com/agentscope-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agentscope-ai/agentscope",
+    "huggingface": null,
+    "homepage": "https://docs.agentscope.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 24479,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T07:20:25Z",
+    "first_commit_at": "2025-08-15T06:11:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6547,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:24:12.567696Z",
+  "last_refreshed_at": "2026-04-30T03:24:12.567699Z"
+}

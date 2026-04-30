@@ -1,0 +1,41 @@
+{
+  "slug": "keeper-agent-app",
+  "name": "keeper-agent-app",
+  "tagline": "Agentic workflow automation designed for Web3",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agentic-workflow",
+    "claude-ai",
+    "desktop-agent",
+    "liquidity-management",
+    "portfolio-management",
+    "trading-automation",
+    "web3-dapp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "keeperagent",
+    "url": "https://github.com/keeperagent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "keeperagent/keeper-agent-app",
+    "huggingface": null,
+    "homepage": "https://keeperagent.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T15:45:28Z",
+    "first_commit_at": "2026-03-07T11:48:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2321,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:27:27.973592Z",
+  "last_refreshed_at": "2026-04-30T03:27:27.973595Z"
+}

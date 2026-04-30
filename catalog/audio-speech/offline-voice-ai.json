@@ -1,0 +1,38 @@
+{
+  "slug": "offline-voice-ai",
+  "name": "offline-voice-ai",
+  "tagline": "FastAPI + MLX offline-first voice agent with <1s latency. Minimal UI",
+  "category": "audio-speech",
+  "tags": [
+    "fastapi",
+    "mlx",
+    "voice-agent",
+    "websocket"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shubhdotai",
+    "url": "https://github.com/shubhdotai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shubhdotai/offline-voice-ai",
+    "huggingface": null,
+    "homepage": "https://youtu.be/6IEK2fXB_ok"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 53,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-21T16:45:00Z",
+    "first_commit_at": "2025-09-30T13:30:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2446,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:11.977448Z",
+  "last_refreshed_at": "2026-04-30T03:26:11.977451Z"
+}

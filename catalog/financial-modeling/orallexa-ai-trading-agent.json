@@ -1,0 +1,44 @@
+{
+  "slug": "orallexa-ai-trading-agent",
+  "name": "orallexa-ai-trading-agent",
+  "tagline": "Self-tuning multi-agent AI trading system. 8-source signal fusion (Polymarket + Kalshi + 10 ML models incl. Kronos foundation model), Bull/Bear/Judge debate on Claude Opus 4.7, Portfolio Manager gate.",
+  "category": "financial-modeling",
+  "tags": [
+    "agentic",
+    "ai-trading",
+    "algorithmic-trading",
+    "claude",
+    "claude-opus",
+    "fintech",
+    "kalshi",
+    "kronos",
+    "llm",
+    "machine-learning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "alex-jb",
+    "url": "https://github.com/alex-jb"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alex-jb/orallexa-ai-trading-agent",
+    "huggingface": null,
+    "homepage": "https://orallexa-ui.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 29,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T05:07:44Z",
+    "first_commit_at": "2026-04-01T15:13:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4444,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:24:34.638269Z",
+  "last_refreshed_at": "2026-04-30T03:24:34.638272Z"
+}

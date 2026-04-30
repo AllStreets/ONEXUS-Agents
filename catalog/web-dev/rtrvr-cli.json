@@ -1,0 +1,44 @@
+{
+  "slug": "rtrvr-cli",
+  "name": "rtrvr-cli",
+  "tagline": "CLI + SDK to automate, scrape, and extract from the web — for AI agents and humans. Cloud or local browser, one command.",
+  "category": "web-dev",
+  "tags": [
+    "ai-agent",
+    "automation",
+    "browser-agent",
+    "browser-automation",
+    "cli",
+    "mcp",
+    "scraping",
+    "sdk",
+    "typescript",
+    "web-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "rtrvr-ai",
+    "url": "https://github.com/rtrvr-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rtrvr-ai/rtrvr-cli",
+    "huggingface": null,
+    "homepage": "https://www.rtrvr.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-19T10:18:33Z",
+    "first_commit_at": "2026-02-10T20:32:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3428,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:24:10.109715Z",
+  "last_refreshed_at": "2026-04-30T03:24:10.109718Z"
+}

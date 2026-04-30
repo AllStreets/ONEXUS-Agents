@@ -1,0 +1,44 @@
+{
+  "slug": "rlvr-world",
+  "name": "RLVR-World",
+  "tagline": "Official repository for \"RLVR-World: Training World Models with Reinforcement Learning\" (NeurIPS 2025), https://arxiv.org/abs/2505.13934",
+  "category": "web-dev",
+  "tags": [
+    "grpo",
+    "real2sim",
+    "reinforcement-learning-with-verifiable-rewards",
+    "rlvr",
+    "robotic-manipulation",
+    "text-game",
+    "verl",
+    "video-generation",
+    "video-gpt",
+    "video-prediction"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "thuml",
+    "url": "https://github.com/thuml"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thuml/RLVR-World",
+    "huggingface": null,
+    "homepage": "https://thuml.github.io/RLVR-World/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 245,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-28T03:38:29Z",
+    "first_commit_at": "2025-05-17T05:29:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3744,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:58.858085Z",
+  "last_refreshed_at": "2026-04-30T03:23:58.858088Z"
+}

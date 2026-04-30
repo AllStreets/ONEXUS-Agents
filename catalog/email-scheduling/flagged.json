@@ -1,0 +1,44 @@
+{
+  "slug": "flagged",
+  "name": "flagged",
+  "tagline": "Local AI email monitor. Watches your Gmail, scores importance with a local LLM, alerts you on Telegram. Privacy-first — nothing leaves your machine. flagged.email",
+  "category": "email-scheduling",
+  "tags": [
+    "ai",
+    "email",
+    "email-agent",
+    "gmail",
+    "lm-studio",
+    "local-llm",
+    "open-source",
+    "privacy",
+    "productivity",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Massideation",
+    "url": "https://github.com/Massideation"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Massideation/flagged",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-06T16:15:38Z",
+    "first_commit_at": "2026-03-06T15:28:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2898,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:27:56.669533Z",
+  "last_refreshed_at": "2026-04-30T03:27:56.669536Z"
+}

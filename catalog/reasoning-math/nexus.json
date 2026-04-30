@@ -1,0 +1,40 @@
+{
+  "slug": "nexus",
+  "name": "nexus",
+  "tagline": "A powerful Python framework for orchestrating AI agents and managing complex LLM-driven tasks with ease.",
+  "category": "reasoning-math",
+  "tags": [
+    "agentic-framework",
+    "agents",
+    "electronic-design-automation",
+    "large-language-models",
+    "multi-agent-systems",
+    "reasoning-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "PrimisAI",
+    "url": "https://github.com/PrimisAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PrimisAI/nexus",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 100,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-25T23:14:42Z",
+    "first_commit_at": "2024-11-19T11:52:13Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1054,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:28:55.129982Z",
+  "last_refreshed_at": "2026-04-30T03:28:55.129986Z"
+}

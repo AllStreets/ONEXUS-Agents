@@ -1,0 +1,42 @@
+{
+  "slug": "emailagent",
+  "name": "EmailAgent",
+  "tagline": "Automated Email Agent built with TypeScript and Node.js that securely connects to Gmail via OAuth2, fetches unread emails, stores them in MongoDB, and marks them as read — forming the base for future ",
+  "category": "email-scheduling",
+  "tags": [
+    "automation",
+    "email-agent",
+    "gmail-integration",
+    "googleapi",
+    "mongodb",
+    "nodejs",
+    "oauth2",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sambhandavale",
+    "url": "https://github.com/sambhandavale"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sambhandavale/EmailAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-13T20:08:17Z",
+    "first_commit_at": "2025-11-10T10:39:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.217,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:27:59.050969Z",
+  "last_refreshed_at": "2026-04-30T03:27:59.050973Z"
+}

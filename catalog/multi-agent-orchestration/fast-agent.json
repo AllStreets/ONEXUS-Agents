@@ -1,0 +1,44 @@
+{
+  "slug": "fast-agent",
+  "name": "fast-agent",
+  "tagline": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "acp",
+    "agent",
+    "agent-framework",
+    "agent-skills",
+    "cli",
+    "mcp",
+    "mcp-client",
+    "mcp-server",
+    "python",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "evalstate",
+    "url": "https://github.com/evalstate"
+  },
+  "source": {
+    "primary": "github",
+    "github": "evalstate/fast-agent",
+    "huggingface": null,
+    "homepage": "https://fast-agent.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3759,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T13:56:51Z",
+    "first_commit_at": "2024-12-18T01:55:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3451,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:29:24.492956Z",
+  "last_refreshed_at": "2026-04-30T03:29:24.492959Z"
+}

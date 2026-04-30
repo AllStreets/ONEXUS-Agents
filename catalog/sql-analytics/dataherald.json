@@ -1,0 +1,42 @@
+{
+  "slug": "dataherald",
+  "name": "dataherald",
+  "tagline": "Interact with your SQL database, Natural Language to SQL using LLMs",
+  "category": "sql-analytics",
+  "tags": [
+    "ai",
+    "database",
+    "finetuning",
+    "llm",
+    "nl-to-sql",
+    "rag",
+    "sql",
+    "text-to-sql"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Dataherald",
+    "url": "https://github.com/Dataherald"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Dataherald/dataherald",
+    "huggingface": null,
+    "homepage": "https://dataherald.readthedocs.io/en/latest/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3628,
+    "downloads_30d": null,
+    "last_commit_at": "2024-07-24T17:37:41Z",
+    "first_commit_at": "2023-03-10T22:54:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2851,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:31:59.639292Z",
+  "last_refreshed_at": "2026-04-30T03:31:59.639295Z"
+}

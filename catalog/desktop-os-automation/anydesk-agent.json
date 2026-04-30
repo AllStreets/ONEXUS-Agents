@@ -1,0 +1,44 @@
+{
+  "slug": "anydesk-agent",
+  "name": "anydesk-agent",
+  "tagline": "Desktop automation server for AI agents, enabling remote control of mouse, keyboard, and screen capture via programmable tools.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai-agent",
+    "desktop-agent",
+    "desktop-automation",
+    "fastmcp",
+    "keyboard-automation",
+    "mouse-control",
+    "python",
+    "remote-control",
+    "rpa",
+    "screenshot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "BryanTheLai",
+    "url": "https://github.com/BryanTheLai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BryanTheLai/anydesk-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-13T05:30:51Z",
+    "first_commit_at": "2025-10-12T14:19:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1339,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:27:30.818230Z",
+  "last_refreshed_at": "2026-04-30T03:27:30.818233Z"
+}

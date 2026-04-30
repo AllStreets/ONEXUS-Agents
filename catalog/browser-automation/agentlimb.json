@@ -1,0 +1,44 @@
+{
+  "slug": "agentlimb",
+  "name": "AgentLimb",
+  "tagline": "Let any AI coding tool — Claude Code, Cursor, Codex — drive your real Chrome. One-prompt setup, muscle memory, local-first.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "ai-tools",
+    "browser-agent",
+    "browser-automation",
+    "chrome-extension",
+    "chrome-side-panel",
+    "claude-code",
+    "codex",
+    "cursor",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hooosberg",
+    "url": "https://github.com/hooosberg"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hooosberg/AgentLimb",
+    "huggingface": null,
+    "homepage": "https://agentlimb.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-22T12:10:33Z",
+    "first_commit_at": "2026-04-11T03:20:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2263,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:26:45.043687Z",
+  "last_refreshed_at": "2026-04-30T03:26:45.043690Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "riverst",
+  "name": "riverst",
+  "tagline": "Just a simple multimodal avatar interaction platform",
+  "category": "audio-speech",
+  "tags": [
+    "agentic-ai",
+    "avatar",
+    "embodied-agent",
+    "speech-agent",
+    "speech-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sensein",
+    "url": "https://github.com/sensein"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sensein/riverst",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 19,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T18:07:06Z",
+    "first_commit_at": "2025-03-26T15:59:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.391,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:25:59.192355Z",
+  "last_refreshed_at": "2026-04-30T03:25:59.192358Z"
+}
