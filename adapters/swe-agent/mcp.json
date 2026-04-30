@@ -1,0 +1,44 @@
+{
+  "name": "swe-agent",
+  "version": "0.1.0",
+  "agent_slug": "swe-agent",
+  "category": "coding",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.swe_agent.server"],
+  "env": {
+    "ANTHROPIC_API_KEY": {
+      "required": false,
+      "description": "Anthropic API key. Required if MODEL_NAME targets a Claude model."
+    },
+    "OPENAI_API_KEY": {
+      "required": false,
+      "description": "OpenAI API key. Required if MODEL_NAME targets a GPT model."
+    },
+    "MODEL_NAME": {
+      "required": false,
+      "description": "LM to drive the agent. Defaults to claude-sonnet-4-6."
+    },
+    "REPO_PATH": {
+      "required": true,
+      "description": "Absolute path to the target repository SWE-agent will operate on."
+    },
+    "PROBLEM_STATEMENT": {
+      "required": false,
+      "description": "Path or inline text describing the bug/issue. Falls back to GitHub issue URL when given."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "solve_issue",
+      "edit_file",
+      "create_file",
+      "run_command",
+      "search_repo"
+    ],
+    "resources": ["repo", "sandbox"]
+  },
+  "trust_floor": 0.65,
+  "default_tier": "MONITOR",
+  "notes": "SWE-bench reference agent. Optimised for closing GitHub issues against an existing repo via an ACI loop. Defaults to MONITOR — every shell action is surfaced to the operator. SWE-bench Verified: 33.6 (2026-03-15)."
+}
