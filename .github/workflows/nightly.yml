@@ -17,6 +17,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   refresh:
@@ -51,15 +52,34 @@ jobs:
       - name: validate refreshed catalog
         run: onexus-agents-validate
 
-      - name: commit and push
+      - name: open auto-merge PR with refresh
         if: github.event.inputs.dry_run != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "onexus-agents-bot"
           git config user.email "bot@agents.onexus.dev"
-          if [ -n "$(git status --porcelain catalog/)" ]; then
-            git add catalog/
-            git commit -m "chore(catalog): nightly refresh $(date -u +%Y-%m-%d)"
-            git push
-          else
+
+          if [ -z "$(git status --porcelain catalog/)" ]; then
             echo "nothing changed"
+            exit 0
           fi
+
+          DATE=$(date -u +%Y-%m-%d)
+          BRANCH="bot/refresh-$DATE"
+
+          git checkout -B "$BRANCH"
+          git add catalog/
+          git commit -m "chore(catalog): daily refresh $DATE"
+          git push -fu origin "$BRANCH"
+
+          # Reuse an open PR for the same date if one already exists (workflow re-run).
+          if ! gh pr view "$BRANCH" --json number >/dev/null 2>&1; then
+            gh pr create \
+              --base main \
+              --head "$BRANCH" \
+              --title "chore(catalog): daily refresh $DATE" \
+              --body "Automated daily refresh from \`onexus-agents-nightly\`. Validator passed in the same workflow run before this PR was opened."
+          fi
+
+          gh pr merge "$BRANCH" --squash --auto --delete-branch
