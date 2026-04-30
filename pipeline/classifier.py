@@ -1,4 +1,4 @@
-"""Category classifier — keyword heuristic with optional OpenAI fallback."""
+"""Category classifier — keyword heuristic with optional Claude Haiku fallback."""
 
 from __future__ import annotations
 
@@ -32,34 +32,28 @@ def classify_keyword(
     return Classification(None, 0.0, "keyword: below threshold")
 
 
-LLM_MODEL = os.environ.get("ONEXUS_CLASSIFIER_MODEL", "gpt-5.4-mini")
-
-
 def classify_llm(text: str, categories: CategoryIndex) -> Classification:
-    """Fallback: ask an OpenAI model to pick a category. Cheap + bounded output."""
-    api_key = os.environ.get("OPENAI_API_KEY")
+    """Fallback: ask Claude Haiku to pick a category. Cheap + bounded output."""
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
-        return Classification(None, 0.0, "llm: no OPENAI_API_KEY set")
+        return Classification(None, 0.0, "llm: no ANTHROPIC_API_KEY set")
     try:
-        from openai import OpenAI
+        from anthropic import Anthropic
     except ImportError:
-        return Classification(None, 0.0, "llm: openai not installed")
+        return Classification(None, 0.0, "llm: anthropic not installed")
 
     slugs = [c.slug for c in categories.categories]
     catalog_lines = "\n".join(f"- {c.slug}: {c.description}" for c in categories.categories)
 
-    client = OpenAI(api_key=api_key)
-    completion = client.chat.completions.create(
-        model=LLM_MODEL,
-        max_completion_tokens=64,
+    client = Anthropic(api_key=api_key)
+    msg = client.messages.create(
+        model="claude-haiku-4-5-20251001",
+        max_tokens=64,
+        system=(
+            "You classify open-source AI agents into a single category slug. "
+            "Reply with ONLY the slug, nothing else. If none fit, reply 'none'."
+        ),
         messages=[
-            {
-                "role": "system",
-                "content": (
-                    "You classify open-source AI agents into a single category slug. "
-                    "Reply with ONLY the slug, nothing else. If none fit, reply 'none'."
-                ),
-            },
             {
                 "role": "user",
                 "content": (
@@ -67,12 +61,12 @@ def classify_llm(text: str, categories: CategoryIndex) -> Classification:
                     f"Project description:\n{text[:1500]}\n\n"
                     "Slug:"
                 ),
-            },
+            }
         ],
     )
-    candidate = (completion.choices[0].message.content or "none").strip().lower()
+    candidate = msg.content[0].text.strip().lower() if msg.content else "none"
     if candidate in slugs:
-        return Classification(candidate, 0.7, f"llm: {LLM_MODEL}")
+        return Classification(candidate, 0.7, "llm: claude-haiku")
     return Classification(None, 0.0, f"llm: invalid slug '{candidate}'")
 
 

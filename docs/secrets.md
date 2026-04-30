@@ -9,7 +9,7 @@ more — when given API tokens.
 |----------------------|----------------------------------|-----------|-------|
 | `GITHUB_TOKEN`       | `pipeline.crawlers.github`       | no        | GitHub provides this automatically in Actions; locally use a fine-grained PAT with `public_repo: read`. |
 | `HF_TOKEN`           | `pipeline.crawlers.huggingface`  | no        | Optional — increases rate limits on the public model API. |
-| `OPENAI_API_KEY`     | `pipeline.classifier`            | no        | Enables the LLM fallback (default model `gpt-5.4-mini`, override with `ONEXUS_CLASSIFIER_MODEL`) when keyword classification can't decide a category. |
+| `ANTHROPIC_API_KEY`  | `pipeline.classifier`            | no        | Enables the Claude Haiku fallback when keyword classification can't decide a category. |
 
 ## Site (Vercel)
 
