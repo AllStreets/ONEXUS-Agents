@@ -1,0 +1,41 @@
+{
+  "name": "skyvern",
+  "version": "0.1.0",
+  "agent_slug": "skyvern",
+  "category": "browser-automation",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.skyvern.server"],
+  "env": {
+    "SKYVERN_API_KEY": {
+      "required": true,
+      "description": "Skyvern API key for the cloud or self-hosted backend."
+    },
+    "SKYVERN_BASE_URL": {
+      "required": false,
+      "description": "Skyvern API base URL. Defaults to https://api.skyvern.com."
+    },
+    "OPENAI_API_KEY": {
+      "required": false,
+      "description": "Required for self-hosted runs that use OpenAI as the vision/LLM backend."
+    },
+    "ANTHROPIC_API_KEY": {
+      "required": false,
+      "description": "Required for self-hosted runs that use Anthropic as the vision/LLM backend."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "run_task",
+      "navigate",
+      "extract_data",
+      "click_element",
+      "type_text",
+      "screenshot"
+    ],
+    "resources": ["browser"]
+  },
+  "trust_floor": 0.7,
+  "default_tier": "MONITOR",
+  "notes": "Computer-vision driven browser agent. Defaults to MONITOR — every navigation/click is surfaced to the operator since the agent can authenticate, transact, and submit forms. WebArena: 31.4 (2026-02-12). AGPL-3.0 — review license before bundling into closed deployments."
+}
