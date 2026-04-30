@@ -1,0 +1,39 @@
+{
+  "name": "openbb-terminal",
+  "version": "0.1.0",
+  "agent_slug": "openbbterminal",
+  "category": "financial-modeling",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.openbb_terminal.server"],
+  "env": {
+    "OPENBB_PAT": {
+      "required": false,
+      "description": "OpenBB Hub personal access token. Required only when using credentialed data providers (FMP, Polygon, Benzinga, etc.) configured at openbb.co."
+    },
+    "OPENBB_PROVIDER_PREFERENCES": {
+      "required": false,
+      "description": "JSON map of asset class to preferred provider, e.g. {\"equity\": \"fmp\", \"crypto\": \"binance\"}. Defaults to OpenBB's free-tier providers."
+    },
+    "EXPORT_DIR": {
+      "required": false,
+      "description": "Directory to write exported tables / charts into. Defaults to ./output."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "equity_quote",
+      "equity_historical",
+      "equity_fundamentals",
+      "options_chain",
+      "crypto_historical",
+      "economy_indicator",
+      "news_search",
+      "run_routine"
+    ],
+    "resources": ["openbb_platform", "filesystem"]
+  },
+  "trust_floor": 0.4,
+  "default_tier": "ADVISOR",
+  "notes": "Wraps the OpenBB Platform Python SDK — read-only access to equities, options, crypto, macro, and news data via OpenBB's provider abstraction. ADVISOR tier — outputs are previewed before write-out (data fetches can hit per-provider rate limits and quotas). Trust floor is moderate because the surface is read-only but provider credentials may carry billing weight. License is custom (AGPL-3.0 for OpenBB Terminal CLI; the Platform SDK is MIT) — review the LICENSE file in your installed version."
+}

@@ -34,8 +34,8 @@
     "first_commit_at": "2023-08-09T18:50:50Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "adapters/langgraph/mcp.json",
   "composite_score": 0.4335,
   "rank_in_category": 5,
   "discovered_via": "seed",

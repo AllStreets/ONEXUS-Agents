@@ -1,0 +1,34 @@
+{
+  "name": "marker",
+  "version": "0.1.0",
+  "agent_slug": "marker",
+  "category": "document-processing",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.marker.server"],
+  "env": {
+    "MARKER_BATCH_SIZE": {
+      "required": false,
+      "description": "Pages processed per batch. Defaults to 8. Lower if GPU memory is tight."
+    },
+    "MARKER_DEVICE": {
+      "required": false,
+      "description": "Device for the OCR/layout models: 'cpu', 'cuda', or 'mps'. Defaults to autodetect."
+    },
+    "OUTPUT_DIR": {
+      "required": false,
+      "description": "Directory to write extracted markdown + images into. Defaults to ./output."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "convert_pdf",
+      "convert_batch",
+      "get_metadata"
+    ],
+    "resources": ["filesystem"]
+  },
+  "trust_floor": 0.3,
+  "default_tier": "EXECUTOR",
+  "notes": "Local PDF→Markdown converter. EXECUTOR tier — pure read-of-input, write-to-OUTPUT_DIR with no shell or network. Bounded blast radius (filesystem only), so trust floor is low. License is GPL-3.0 — review before bundling into closed deployments."
+}

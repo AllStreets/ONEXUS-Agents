@@ -34,8 +34,8 @@
     "first_commit_at": "2020-12-20T10:46:40Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "adapters/openbb-terminal/mcp.json",
   "composite_score": 0.7098,
   "rank_in_category": 1,
   "discovered_via": "seed",

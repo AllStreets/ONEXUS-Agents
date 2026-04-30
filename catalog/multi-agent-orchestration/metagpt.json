@@ -1,7 +1,7 @@
 {
   "slug": "metagpt",
   "name": "MetaGPT",
-  "tagline": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+  "tagline": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent",
@@ -29,8 +29,8 @@
     "first_commit_at": "2023-06-30T09:10:48Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "adapters/metagpt/mcp.json",
   "composite_score": 0.3855,
   "rank_in_category": 13,
   "discovered_via": "auto",

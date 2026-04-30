@@ -1,0 +1,39 @@
+{
+  "name": "pandas-ai",
+  "version": "0.1.0",
+  "agent_slug": "pandas-ai",
+  "category": "spreadsheet-excel",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.pandas_ai.server"],
+  "env": {
+    "OPENAI_API_KEY": {
+      "required": false,
+      "description": "OpenAI API key. PandasAI defaults to OpenAI for natural-language → pandas code."
+    },
+    "ANTHROPIC_API_KEY": {
+      "required": false,
+      "description": "Anthropic API key for Claude-backed code generation."
+    },
+    "DATA_DIR": {
+      "required": false,
+      "description": "Directory of CSV/XLSX/Parquet files to expose as queryable tables. Defaults to ./data."
+    },
+    "PANDASAI_SAVE_CHARTS": {
+      "required": false,
+      "description": "Set to '1' to persist generated chart PNGs to OUTPUT_DIR. Off by default."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "ask_dataframe",
+      "ask_directory",
+      "explain_last",
+      "list_tables"
+    ],
+    "resources": ["dataframes", "filesystem"]
+  },
+  "trust_floor": 0.5,
+  "default_tier": "ADVISOR",
+  "notes": "Natural-language → pandas code over local tabular files. ADVISOR tier — generated code runs in a sandboxed exec scope, but pandas can still read the entire DATA_DIR; outputs are previewed before commit. License is custom (NOASSERTION on GitHub) — review the LICENSE file before redistributing."
+}

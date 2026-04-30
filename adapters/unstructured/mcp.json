@@ -1,0 +1,35 @@
+{
+  "name": "unstructured",
+  "version": "0.1.0",
+  "agent_slug": "unstructured",
+  "category": "document-processing",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.unstructured.server"],
+  "env": {
+    "UNSTRUCTURED_API_KEY": {
+      "required": false,
+      "description": "API key for the hosted Unstructured API. When unset, partitioning runs locally via the open-source library."
+    },
+    "UNSTRUCTURED_API_URL": {
+      "required": false,
+      "description": "Base URL for the hosted API. Set alongside UNSTRUCTURED_API_KEY for SaaS or self-hosted deployments."
+    },
+    "OUTPUT_DIR": {
+      "required": false,
+      "description": "Directory to write partitioned JSON output into. Defaults to ./output."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "partition_file",
+      "partition_directory",
+      "chunk_elements",
+      "stage_for_indexing"
+    ],
+    "resources": ["filesystem"]
+  },
+  "trust_floor": 0.3,
+  "default_tier": "EXECUTOR",
+  "notes": "Document partitioning library — turns PDFs, DOCX, HTML, PPTX, etc. into structured elements (titles, paragraphs, tables, images). EXECUTOR tier with bounded blast radius (filesystem only). When UNSTRUCTURED_API_KEY is set, requests leave the host — review your data residency requirements first."
+}
