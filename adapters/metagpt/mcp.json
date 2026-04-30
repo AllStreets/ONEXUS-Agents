@@ -1,0 +1,39 @@
+{
+  "name": "metagpt",
+  "version": "0.1.0",
+  "agent_slug": "metagpt",
+  "category": "multi-agent-orchestration",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.metagpt.server"],
+  "env": {
+    "OPENAI_API_KEY": {
+      "required": false,
+      "description": "OpenAI API key. MetaGPT defaults to GPT-4-class models for the architect role."
+    },
+    "ANTHROPIC_API_KEY": {
+      "required": false,
+      "description": "Anthropic API key for Claude-backed roles."
+    },
+    "METAGPT_CONFIG": {
+      "required": false,
+      "description": "Path to MetaGPT's config2.yaml. Defaults to ~/.metagpt/config2.yaml."
+    },
+    "WORKSPACE": {
+      "required": false,
+      "description": "Directory MetaGPT writes generated software-team artifacts into. Defaults to ./workspace."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "run_company",
+      "list_roles",
+      "get_artifact",
+      "review_pr"
+    ],
+    "resources": ["workspace", "role_outputs"]
+  },
+  "trust_floor": 0.7,
+  "default_tier": "MONITOR",
+  "notes": "Software-company-as-agents framework — runs PM, architect, engineer, QA roles in sequence. MONITOR tier — produces code, docs, and tests in WORKSPACE; every artifact is reviewed before promotion. License is MIT."
+}

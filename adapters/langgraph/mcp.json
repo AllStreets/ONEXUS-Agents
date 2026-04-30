@@ -1,0 +1,40 @@
+{
+  "name": "langgraph",
+  "version": "0.1.0",
+  "agent_slug": "langgraph",
+  "category": "multi-agent-orchestration",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.langgraph.server"],
+  "env": {
+    "OPENAI_API_KEY": {
+      "required": false,
+      "description": "OpenAI API key for OpenAI-backed nodes."
+    },
+    "ANTHROPIC_API_KEY": {
+      "required": false,
+      "description": "Anthropic API key for Claude-backed nodes."
+    },
+    "GRAPH_DIR": {
+      "required": false,
+      "description": "Directory containing Python modules that export compiled LangGraph graphs (each module: graph = StateGraph(...).compile()). Defaults to ./graphs."
+    },
+    "CHECKPOINT_DIR": {
+      "required": false,
+      "description": "Directory for SqliteSaver checkpoints (resumable runs). Defaults to ./.langgraph-checkpoints."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "list_graphs",
+      "invoke_graph",
+      "stream_graph",
+      "get_checkpoint",
+      "resume_run"
+    ],
+    "resources": ["graphs", "checkpoints"]
+  },
+  "trust_floor": 0.55,
+  "default_tier": "ADVISOR",
+  "notes": "Graph-based agent runtime — runs user-authored StateGraph workflows. ADVISOR tier because graph topology is operator-defined (vs. open-ended group chat); per-node side effects bound by what the user wired in. Trust floor lower than AutoGen/MetaGPT for the same reason."
+}

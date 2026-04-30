@@ -1,0 +1,40 @@
+{
+  "name": "stable-diffusion-webui",
+  "version": "0.1.0",
+  "agent_slug": "stable-diffusion-webui",
+  "category": "image-generation",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.stable_diffusion_webui.server"],
+  "env": {
+    "SD_WEBUI_HOST": {
+      "required": false,
+      "description": "Host:port of a running Automatic1111 server (must be started with --api). Defaults to 127.0.0.1:7860."
+    },
+    "SD_WEBUI_API_BASE": {
+      "required": false,
+      "description": "Full API base URL. Overrides SD_WEBUI_HOST for hosted/HTTPS deployments."
+    },
+    "SD_WEBUI_AUTH": {
+      "required": false,
+      "description": "HTTP basic auth in 'user:pass' form when the WebUI was started with --api-auth."
+    },
+    "OUTPUT_DIR": {
+      "required": false,
+      "description": "Directory to write generated images into. Defaults to ./output."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "txt2img",
+      "img2img",
+      "list_models",
+      "set_model",
+      "get_progress"
+    ],
+    "resources": ["sd_webui_server", "filesystem"]
+  },
+  "trust_floor": 0.4,
+  "default_tier": "ADVISOR",
+  "notes": "Wraps a running Automatic1111 server via its REST API. ADVISOR tier — generated outputs are previewed before write-out (image gen burns GPU time and queue space). The adapter does not spawn the server. License is AGPL-3.0 — copyleft for the WebUI itself; review before bundling into closed deployments."
+}

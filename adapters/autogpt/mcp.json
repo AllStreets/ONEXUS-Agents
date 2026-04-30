@@ -1,0 +1,40 @@
+{
+  "name": "autogpt",
+  "version": "0.1.0",
+  "agent_slug": "autogpt",
+  "category": "data-science-ml",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.autogpt.server"],
+  "env": {
+    "OPENAI_API_KEY": {
+      "required": true,
+      "description": "OpenAI API key. AutoGPT's classic loop assumes GPT-4-class function-calling."
+    },
+    "ANTHROPIC_API_KEY": {
+      "required": false,
+      "description": "Anthropic API key for Claude-backed agents."
+    },
+    "AUTOGPT_WORKSPACE": {
+      "required": false,
+      "description": "Workspace directory the agent can read/write. Defaults to ./.autogpt-workspace."
+    },
+    "AUTOGPT_BUDGET_USD": {
+      "required": false,
+      "description": "Hard cost ceiling per run, in USD. Loop terminates when exceeded. Defaults to 5."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "spawn_agent",
+      "step_agent",
+      "list_agents",
+      "stop_agent",
+      "get_workspace_file"
+    ],
+    "resources": ["workspace", "agent_runtime"]
+  },
+  "trust_floor": 0.75,
+  "default_tier": "MONITOR",
+  "notes": "Autonomous goal-pursuit loop — plans, executes, reflects, repeats. MONITOR tier with a high trust floor; cost ceiling is enforced via AUTOGPT_BUDGET_USD because the failure mode (recursive planning loops) directly burns API spend. License is custom — review upstream LICENSE before commercial use."
+}

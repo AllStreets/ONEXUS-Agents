@@ -1,0 +1,40 @@
+{
+  "name": "autogen",
+  "version": "0.1.0",
+  "agent_slug": "autogen",
+  "category": "multi-agent-orchestration",
+  "transport": "stdio",
+  "command": "python",
+  "args": ["-m", "adapters.autogen.server"],
+  "env": {
+    "OPENAI_API_KEY": {
+      "required": false,
+      "description": "OpenAI API key. AutoGen defaults to OpenAI-compatible chat completions."
+    },
+    "ANTHROPIC_API_KEY": {
+      "required": false,
+      "description": "Anthropic API key for Claude-backed agents."
+    },
+    "AUTOGEN_CONFIG": {
+      "required": false,
+      "description": "Path to a JSON file describing the agent group (roles, tools, termination). Defaults to ./autogen.config.json."
+    },
+    "WORK_DIR": {
+      "required": false,
+      "description": "Working directory for code-execution agents. Defaults to ./.autogen-work."
+    }
+  },
+  "capabilities": {
+    "tools": [
+      "run_group_chat",
+      "spawn_assistant",
+      "spawn_user_proxy",
+      "register_function",
+      "get_transcript"
+    ],
+    "resources": ["chat_history", "work_dir"]
+  },
+  "trust_floor": 0.7,
+  "default_tier": "MONITOR",
+  "notes": "Multi-agent group chat orchestrator from Microsoft. MONITOR tier — group chats can spin up code-execution agents that write to WORK_DIR, so every turn is observed. Higher trust floor than single-agent coders because the failure mode (runaway loops, recursive tool calls) is less bounded."
+}

@@ -34,8 +34,8 @@
     "first_commit_at": "2023-03-16T02:58:21Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "adapters/autogpt/mcp.json",
   "composite_score": 0.7099,
   "rank_in_category": 1,
   "discovered_via": "seed",
