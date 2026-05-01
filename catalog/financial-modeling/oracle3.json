@@ -1,0 +1,44 @@
+{
+  "slug": "oracle3",
+  "name": "oracle3",
+  "tagline": "Autonomous prediction market trading agent deploying Wang Transform pricing across Kalshi, Polymarket & Solana",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-agent",
+    "algorithmic-trading",
+    "arbitrage",
+    "dflow",
+    "kalshi",
+    "kelly-criterion",
+    "llm",
+    "on-chain",
+    "polymarket",
+    "prediction-market"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "YichengYang-Ethan",
+    "url": "https://github.com/YichengYang-Ethan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "YichengYang-Ethan/oracle3",
+    "huggingface": null,
+    "homepage": "https://yichengyang-ethan.github.io/oracle3"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 167,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-28T15:26:41Z",
+    "first_commit_at": "2026-02-28T20:20:13Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3043,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:26:08.474605Z",
+  "last_refreshed_at": "2026-05-01T14:26:08.474608Z"
+}

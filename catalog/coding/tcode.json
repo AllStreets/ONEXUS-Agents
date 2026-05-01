@@ -1,0 +1,36 @@
+{
+  "slug": "tcode",
+  "name": "tcode",
+  "tagline": "a coding agent (tcode: tiny code)",
+  "category": "coding",
+  "tags": [
+    "cli",
+    "code-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Erickrus",
+    "url": "https://github.com/Erickrus"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Erickrus/tcode",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-23T14:12:16Z",
+    "first_commit_at": "2026-03-03T08:18:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1286,
+  "rank_in_category": 202,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:19:56.894708Z",
+  "last_refreshed_at": "2026-05-01T14:19:56.894712Z"
+}

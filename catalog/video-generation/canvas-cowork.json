@@ -1,0 +1,44 @@
+{
+  "slug": "canvas-cowork",
+  "name": "canvas-cowork",
+  "tagline": "Cowork on a spatial canvas from the CLI — create canvases, generate images/text/video/agent responses, read results, recall past work, and manage nodes",
+  "category": "video-generation",
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "canvas",
+    "claude-code",
+    "codex",
+    "flowith",
+    "mcp",
+    "openclaw",
+    "skills-sh",
+    "spatial-canvas"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "flowith-ai",
+    "url": "https://github.com/flowith-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "flowith-ai/canvas-cowork",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 36,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-01T10:55:03Z",
+    "first_commit_at": "2026-03-31T06:29:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4019,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:23.774357Z",
+  "last_refreshed_at": "2026-05-01T14:32:23.774360Z"
+}

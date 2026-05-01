@@ -1,0 +1,44 @@
+{
+  "slug": "pilot-shell",
+  "name": "pilot-shell",
+  "tagline": "The Claude Code engineering platform: spec-driven planning, enforced TDD, persistent memory, and quality hooks. Make Claude Code production-ready.",
+  "category": "coding",
+  "tags": [
+    "ai-agents",
+    "ai-assistant",
+    "ai-coding",
+    "ai-coding-tools",
+    "ai-engineering",
+    "ai-tools",
+    "anthropic",
+    "anthropic-claude",
+    "claude",
+    "claude-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "maxritter",
+    "url": "https://github.com/maxritter"
+  },
+  "source": {
+    "primary": "github",
+    "github": "maxritter/pilot-shell",
+    "huggingface": null,
+    "homepage": "https://pilot-shell.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1673,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T08:40:08Z",
+    "first_commit_at": "2025-10-24T05:48:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2635,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:47.420983Z",
+  "last_refreshed_at": "2026-05-01T14:20:47.420986Z"
+}

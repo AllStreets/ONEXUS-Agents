@@ -1,0 +1,44 @@
+{
+  "slug": "herobot",
+  "name": "herobot",
+  "tagline": "Herobot is your 24/7 customer service assistant that helps you manage multi-channel customer conversations effortlessly.",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "bot",
+    "chatbot",
+    "claude",
+    "customer-service",
+    "customer-support",
+    "gemini",
+    "hacktoberfest",
+    "intercom",
+    "laravel"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "herobot-id",
+    "url": "https://github.com/herobot-id"
+  },
+  "source": {
+    "primary": "github",
+    "github": "herobot-id/herobot",
+    "huggingface": null,
+    "homepage": "https://herobot.id/"
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 80,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-18T22:50:43Z",
+    "first_commit_at": "2023-01-07T06:33:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3627,
+  "rank_in_category": 58,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:46.976622Z",
+  "last_refreshed_at": "2026-05-01T14:27:46.976625Z"
+}

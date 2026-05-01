@@ -1,0 +1,44 @@
+{
+  "slug": "great-expectations",
+  "name": "great_expectations",
+  "tagline": "Always know what to expect from your data.",
+  "category": "data-engineering",
+  "tags": [
+    "cleandata",
+    "data-engineering",
+    "data-profilers",
+    "data-profiling",
+    "data-quality",
+    "data-science",
+    "data-unit-tests",
+    "datacleaner",
+    "datacleaning",
+    "dataquality"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "great-expectations",
+    "url": "https://github.com/great-expectations"
+  },
+  "source": {
+    "primary": "github",
+    "github": "great-expectations/great_expectations",
+    "huggingface": null,
+    "homepage": "https://docs.greatexpectations.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 11457,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T21:10:31Z",
+    "first_commit_at": "2017-06-06T23:53:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6626,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:31.659043Z",
+  "last_refreshed_at": "2026-05-01T14:23:31.659047Z"
+}

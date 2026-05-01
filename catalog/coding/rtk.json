@@ -1,0 +1,44 @@
+{
+  "slug": "rtk",
+  "name": "rtk",
+  "tagline": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+  "category": "coding",
+  "tags": [
+    "agentic-coding",
+    "ai-coding",
+    "anthropic",
+    "claude-code",
+    "cli",
+    "command-line-tool",
+    "cost-reduction",
+    "developer-tools",
+    "llm",
+    "open-source"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "rtk-ai",
+    "url": "https://github.com/rtk-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rtk-ai/rtk",
+    "huggingface": null,
+    "homepage": "https://www.rtk-ai.app/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 39253,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T12:16:19Z",
+    "first_commit_at": "2026-01-22T17:10:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3062,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:32.464118Z",
+  "last_refreshed_at": "2026-05-01T14:20:32.464121Z"
+}

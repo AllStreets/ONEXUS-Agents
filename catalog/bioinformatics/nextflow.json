@@ -1,0 +1,44 @@
+{
+  "slug": "nextflow",
+  "name": "nextflow",
+  "tagline": "A DSL for data-driven computational pipelines",
+  "category": "bioinformatics",
+  "tags": [
+    "aws",
+    "bioinformatics",
+    "cloud",
+    "dataflow",
+    "docker",
+    "groovy",
+    "hello",
+    "hpc",
+    "nextflow",
+    "pipeline"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nextflow-io",
+    "url": "https://github.com/nextflow-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nextflow-io/nextflow",
+    "huggingface": null,
+    "homepage": "http://nextflow.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3365,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T21:04:21Z",
+    "first_commit_at": "2013-03-22T09:46:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4901,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:08.554260Z",
+  "last_refreshed_at": "2026-05-01T14:40:08.554263Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "nanocoder",
+  "name": "nanocoder",
+  "tagline": "A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-coding",
+    "coding-agents",
+    "llm",
+    "llm-inference",
+    "ollama",
+    "openai",
+    "openrouter"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Nano-Collective",
+    "url": "https://github.com/Nano-Collective"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Nano-Collective/nanocoder",
+    "huggingface": null,
+    "homepage": "https://docs.nanocollective.org/nanocoder"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1847,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:55:06Z",
+    "first_commit_at": "2025-07-31T16:10:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2721,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:43.930623Z",
+  "last_refreshed_at": "2026-05-01T14:20:43.930626Z"
+}

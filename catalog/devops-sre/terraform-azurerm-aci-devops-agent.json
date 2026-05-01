@@ -1,0 +1,33 @@
+{
+  "slug": "terraform-azurerm-aci-devops-agent",
+  "name": "terraform-azurerm-aci-devops-agent",
+  "tagline": "Terraform Module to deploy a Azure DevOps self-hosted agents on Azure Container Instance",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "Azure",
+    "url": "https://github.com/Azure"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Azure/terraform-azurerm-aci-devops-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 103,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-14T20:18:57Z",
+    "first_commit_at": "2020-06-01T06:54:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1931,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:39:12.206570Z",
+  "last_refreshed_at": "2026-05-01T14:39:12.206573Z"
+}

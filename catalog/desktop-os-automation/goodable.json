@@ -1,0 +1,44 @@
+{
+  "slug": "goodable",
+  "name": "goodable",
+  "tagline": "Goodable is a local-first Desktop AI Workspace (Desktop Agent Runtime) powered by Claude Agent SDK, combining OS/file control, browser automation, and coding into composable Skills (tool + app modes) ",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent",
+    "base44",
+    "claudeagentsdk",
+    "claudecode",
+    "claudecowork",
+    "clawdbot",
+    "codeagent",
+    "cowork",
+    "desktop",
+    "desktop-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ImGoodBai",
+    "url": "https://github.com/ImGoodBai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ImGoodBai/goodable",
+    "huggingface": null,
+    "homepage": "https://goodable.cn/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 176,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-29T09:23:17Z",
+    "first_commit_at": "2026-01-08T10:01:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2507,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:05.469655Z",
+  "last_refreshed_at": "2026-05-01T14:37:05.469658Z"
+}

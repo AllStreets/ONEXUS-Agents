@@ -1,0 +1,44 @@
+{
+  "slug": "mailpilot",
+  "name": "MailPilot",
+  "tagline": "MailPilot: A Python library for streamlined email automation, enabling personalized mass mailing, SMTP management, and email marketing automation.",
+  "category": "email-scheduling",
+  "tags": [
+    "automated-email",
+    "email-api",
+    "email-automation",
+    "email-automation-python",
+    "email-campaigns",
+    "email-marketing",
+    "email-scheduling",
+    "email-sender",
+    "email-template",
+    "mailpilot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yazcaleb",
+    "url": "https://github.com/yazcaleb"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yazcaleb/MailPilot",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/MailPilot/1.0.0/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2024-01-25T10:57:58Z",
+    "first_commit_at": "2024-01-24T23:19:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2536,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:43.944853Z",
+  "last_refreshed_at": "2026-05-01T14:38:43.944857Z"
+}

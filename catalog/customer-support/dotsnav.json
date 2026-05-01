@@ -1,0 +1,38 @@
+{
+  "slug": "dotsnav",
+  "name": "dotsnav",
+  "tagline": "A fully dynamic planar navmesh for Unity supporting agents of any size",
+  "category": "customer-support",
+  "tags": [
+    "dots",
+    "navmesh",
+    "pathfinding",
+    "unity"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "dotsnav",
+    "url": "https://github.com/dotsnav"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dotsnav/dotsnav",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Zlib",
+  "metrics": {
+    "stars": 508,
+    "downloads_30d": null,
+    "last_commit_at": "2022-12-07T10:31:10Z",
+    "first_commit_at": "2021-01-28T11:14:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3573,
+  "rank_in_category": 60,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:37.719388Z",
+  "last_refreshed_at": "2026-05-01T14:28:37.719391Z"
+}

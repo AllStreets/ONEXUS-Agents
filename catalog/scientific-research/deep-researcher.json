@@ -1,0 +1,37 @@
+{
+  "slug": "deep-researcher",
+  "name": "deep-researcher",
+  "tagline": "Deep researcher using langchain-ollama with deepseek-1.5b model.",
+  "category": "scientific-research",
+  "tags": [
+    "langchain",
+    "ollama",
+    "research-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sheikhDipta003",
+    "url": "https://github.com/sheikhDipta003"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sheikhDipta003/deep-researcher",
+    "huggingface": null,
+    "homepage": "https://github.com/langchain-ai/ollama-deep-researcher"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2025-01-26T21:26:56Z",
+    "first_commit_at": "2025-01-26T21:24:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2213,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:50.091320Z",
+  "last_refreshed_at": "2026-05-01T14:40:50.091323Z"
+}

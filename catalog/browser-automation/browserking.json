@@ -1,0 +1,44 @@
+{
+  "slug": "browserking",
+  "name": "BrowserKing",
+  "tagline": "Open-source browser agent Chrome extension — use any LLM (GPT-4o, Claude, Gemini, Grok, DeepSeek, Llama, and more) to control your browser",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "browser-agent",
+    "browser-automation",
+    "chrome-extension",
+    "claude",
+    "deepseek",
+    "gemini",
+    "gpt4",
+    "grok",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Mushisushi28",
+    "url": "https://github.com/Mushisushi28"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Mushisushi28/BrowserKing",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-18T01:57:47Z",
+    "first_commit_at": "2026-03-16T07:59:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2306,
+  "rank_in_category": 86,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:34:58.059162Z",
+  "last_refreshed_at": "2026-05-01T14:34:58.059166Z"
+}

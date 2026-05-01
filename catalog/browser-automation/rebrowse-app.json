@@ -1,0 +1,36 @@
+{
+  "slug": "rebrowse-app",
+  "name": "rebrowse-app",
+  "tagline": "Rebrowse app inspired by browser-use",
+  "category": "browser-automation",
+  "tags": [
+    "browser-use",
+    "playwright"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zk1tty",
+    "url": "https://github.com/zk1tty"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zk1tty/rebrowse-app",
+    "huggingface": null,
+    "homepage": "https://rebrowse.me/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 126,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-25T06:25:40Z",
+    "first_commit_at": "2025-06-16T06:01:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2165,
+  "rank_in_category": 94,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:17.324058Z",
+  "last_refreshed_at": "2026-05-01T14:35:17.324061Z"
+}

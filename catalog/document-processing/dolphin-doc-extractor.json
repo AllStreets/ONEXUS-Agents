@@ -1,0 +1,39 @@
+{
+  "slug": "dolphin-doc-extractor",
+  "name": "dolphin-doc-extractor",
+  "tagline": "AI-powered document intelligence platform that extracts structured data from PDFs, Word docs, and images using Large Language Models and Tesseract OCR.",
+  "category": "document-processing",
+  "tags": [
+    "document-extraction",
+    "gradio",
+    "nlp",
+    "ocr",
+    "tesseract-ocr"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "EloiRamos",
+    "url": "https://github.com/EloiRamos"
+  },
+  "source": {
+    "primary": "github",
+    "github": "EloiRamos/dolphin-doc-extractor",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/spaces/falcon44/dolphin-doc-extractor"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-22T23:35:37Z",
+    "first_commit_at": "2025-10-22T20:52:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.209,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:48.042615Z",
+  "last_refreshed_at": "2026-05-01T14:37:48.042618Z"
+}

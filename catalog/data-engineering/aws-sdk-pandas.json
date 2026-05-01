@@ -1,0 +1,44 @@
+{
+  "slug": "aws-sdk-pandas",
+  "name": "aws-sdk-pandas",
+  "tagline": "pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Par",
+  "category": "data-engineering",
+  "tags": [
+    "amazon-athena",
+    "amazon-sagemaker-notebook",
+    "apache-arrow",
+    "apache-parquet",
+    "athena",
+    "aws",
+    "aws-glue",
+    "aws-lambda",
+    "data-engineering",
+    "data-science"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aws",
+    "url": "https://github.com/aws"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws/aws-sdk-pandas",
+    "huggingface": null,
+    "homepage": "https://aws-sdk-pandas.readthedocs.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4107,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T23:37:02Z",
+    "first_commit_at": "2019-02-26T01:39:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6371,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:45.113571Z",
+  "last_refreshed_at": "2026-05-01T14:23:45.113575Z"
+}

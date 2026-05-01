@@ -1,0 +1,39 @@
+{
+  "slug": "mousephoneserver",
+  "name": "mousephoneserver",
+  "tagline": "Lightweight desktop agent in Go to remotely control your computer's mouse via WebSockets. This is the Go-based server-side agent.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "client-server",
+    "desktop-agent",
+    "real-time",
+    "remote-control",
+    "websocket"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "abelpinheiro",
+    "url": "https://github.com/abelpinheiro"
+  },
+  "source": {
+    "primary": "github",
+    "github": "abelpinheiro/mousephoneserver",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-21T17:17:05Z",
+    "first_commit_at": "2025-08-21T12:53:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1273,
+  "rank_in_category": 79,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:57.472953Z",
+  "last_refreshed_at": "2026-05-01T14:36:57.472956Z"
+}

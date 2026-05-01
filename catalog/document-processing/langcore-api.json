@@ -1,0 +1,44 @@
+{
+  "slug": "langcore-api",
+  "name": "langcore-api",
+  "tagline": "Production-ready HTTP service for LangCore — structured document extraction via FastAPI, Celery, and Redis.",
+  "category": "document-processing",
+  "tags": [
+    "api",
+    "async",
+    "celery",
+    "docker",
+    "document-extraction",
+    "document-processing",
+    "extraction",
+    "fastapi",
+    "llm",
+    "redis"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "IgnatG",
+    "url": "https://github.com/IgnatG"
+  },
+  "source": {
+    "primary": "github",
+    "github": "IgnatG/langcore-api",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-27T15:11:02Z",
+    "first_commit_at": "2026-02-18T18:57:52Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2999,
+  "rank_in_category": 58,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:42.773365Z",
+  "last_refreshed_at": "2026-05-01T14:37:42.773369Z"
+}

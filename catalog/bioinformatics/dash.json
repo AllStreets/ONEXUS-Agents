@@ -1,0 +1,44 @@
+{
+  "slug": "dash",
+  "name": "dash",
+  "tagline": "Data Apps & Dashboards for Python. No JavaScript Required.",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "charting",
+    "dash",
+    "data-science",
+    "data-visualization",
+    "finance",
+    "flask",
+    "gui-framework",
+    "jupyter",
+    "modeling"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "plotly",
+    "url": "https://github.com/plotly"
+  },
+  "source": {
+    "primary": "github",
+    "github": "plotly/dash",
+    "huggingface": null,
+    "homepage": "https://plotly.com/dash"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 24168,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T01:11:51Z",
+    "first_commit_at": "2015-04-10T01:53:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5392,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:03.684166Z",
+  "last_refreshed_at": "2026-05-01T14:40:03.684169Z"
+}

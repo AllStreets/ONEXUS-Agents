@@ -1,0 +1,44 @@
+{
+  "slug": "deepvariant",
+  "name": "deepvariant",
+  "tagline": "DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "deep-learning",
+    "deep-neural-network",
+    "deepvariant",
+    "dna",
+    "genome",
+    "genomics",
+    "machine-learning",
+    "ngs",
+    "science"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "google",
+    "url": "https://github.com/google"
+  },
+  "source": {
+    "primary": "github",
+    "github": "google/deepvariant",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 3690,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-19T04:57:17Z",
+    "first_commit_at": "2017-12-01T21:30:18Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4311,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:07.633924Z",
+  "last_refreshed_at": "2026-05-01T14:40:07.633928Z"
+}

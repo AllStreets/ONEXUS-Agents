@@ -1,0 +1,39 @@
+{
+  "slug": "dhsegment",
+  "name": "dhSegment",
+  "tagline": "Generic framework for historical document processing",
+  "category": "document-processing",
+  "tags": [
+    "document-processing",
+    "historical-data",
+    "python3",
+    "segmentation",
+    "tensorflow"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "dhlab-epfl",
+    "url": "https://github.com/dhlab-epfl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dhlab-epfl/dhSegment",
+    "huggingface": null,
+    "homepage": "https://dhlab-epfl.github.com/dhSegment"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 383,
+    "downloads_30d": null,
+    "last_commit_at": "2021-07-09T16:14:24Z",
+    "first_commit_at": "2017-07-13T14:08:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.361,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:58.518477Z",
+  "last_refreshed_at": "2026-05-01T14:37:58.518480Z"
+}

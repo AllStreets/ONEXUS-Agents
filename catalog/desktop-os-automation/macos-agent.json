@@ -1,0 +1,35 @@
+{
+  "slug": "macos-agent",
+  "name": "MacOS-Agent",
+  "tagline": "A powerful automation agent for macOS that enables natural language control of various system applications and services. This agent allows you to interact with your Mac using simple text commands, aut",
+  "category": "desktop-os-automation",
+  "tags": [
+    "computer-use-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Computer-use-agents",
+    "url": "https://github.com/Computer-use-agents"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Computer-use-agents/MacOS-Agent",
+    "huggingface": null,
+    "homepage": "https://computer-use-agents.github.io/macos/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 60,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-05T10:21:50Z",
+    "first_commit_at": "2025-04-14T10:06:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1938,
+  "rank_in_category": 69,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:33.929721Z",
+  "last_refreshed_at": "2026-05-01T14:36:33.929724Z"
+}

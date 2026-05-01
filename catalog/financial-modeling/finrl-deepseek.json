@@ -1,0 +1,33 @@
+{
+  "slug": "finrl-deepseek",
+  "name": "FinRL_DeepSeek",
+  "tagline": "Code for the paper \"FinRL-DeepSeek: LLM-Infused Risk-Sensitive Reinforcement Learning for Trading Agents\" arXiv:2502.07393",
+  "category": "financial-modeling",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "benstaf",
+    "url": "https://github.com/benstaf"
+  },
+  "source": {
+    "primary": "github",
+    "github": "benstaf/FinRL_DeepSeek",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2502.07393"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 323,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-08T12:22:13Z",
+    "first_commit_at": "2025-02-06T06:19:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1998,
+  "rank_in_category": 84,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:25:59.933179Z",
+  "last_refreshed_at": "2026-05-01T14:25:59.933182Z"
+}

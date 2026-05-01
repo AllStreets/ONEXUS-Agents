@@ -1,0 +1,44 @@
+{
+  "slug": "genericagent",
+  "name": "GenericAgent",
+  "tagline": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "automation",
+    "autonomous-agent",
+    "browser-automation",
+    "claude",
+    "computer-control",
+    "desktop-automation",
+    "gemini",
+    "lightweight",
+    "llm-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lsdefine",
+    "url": "https://github.com/lsdefine"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lsdefine/GenericAgent",
+    "huggingface": null,
+    "homepage": "https://github.com/lsdefine/GenericAgent"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8582,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T02:49:20Z",
+    "first_commit_at": "2026-01-16T15:43:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3711,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:26.717476Z",
+  "last_refreshed_at": "2026-05-01T14:35:26.717480Z"
+}

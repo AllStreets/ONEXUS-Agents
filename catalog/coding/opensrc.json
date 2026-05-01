@@ -1,0 +1,44 @@
+{
+  "slug": "opensrc",
+  "name": "opensrc",
+  "tagline": "Fetch source code for npm packages to give AI coding agents deeper context",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-coding",
+    "cli",
+    "coding-agents",
+    "developer-tools",
+    "llm",
+    "nodejs",
+    "npm",
+    "source-code",
+    "typescript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "vercel-labs",
+    "url": "https://github.com/vercel-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vercel-labs/opensrc",
+    "huggingface": null,
+    "homepage": "https://opensrc.sh/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1912,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T16:56:08Z",
+    "first_commit_at": "2026-01-06T17:51:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2608,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:42.179803Z",
+  "last_refreshed_at": "2026-05-01T14:20:42.179806Z"
+}

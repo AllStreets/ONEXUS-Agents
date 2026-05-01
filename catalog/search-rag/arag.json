@@ -1,0 +1,44 @@
+{
+  "slug": "arag",
+  "name": "arag",
+  "tagline": "A-RAG: Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces. State-of-the-art RAG framework with keyword, semantic, and chunk read tools for multi-hop QA.",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agenticrag",
+    "deepresearch",
+    "evaluation",
+    "graphrag",
+    "llm",
+    "llmagents",
+    "rag",
+    "reproduce"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Ayanami0730",
+    "url": "https://github.com/Ayanami0730"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Ayanami0730/arag",
+    "huggingface": null,
+    "homepage": "https://agentresearchlab.org/agents/a-rag"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 260,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-06T15:30:09Z",
+    "first_commit_at": "2026-02-03T06:12:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4016,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:34:23.168098Z",
+  "last_refreshed_at": "2026-05-01T14:34:23.168102Z"
+}

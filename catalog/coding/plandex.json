@@ -1,0 +1,44 @@
+{
+  "slug": "plandex",
+  "name": "plandex",
+  "tagline": "Open source AI coding agent. Designed for large projects and real world tasks.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-developer-tools",
+    "ai-tools",
+    "cli",
+    "command-line",
+    "developer-tools",
+    "git",
+    "golang",
+    "gpt-4"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "plandex-ai",
+    "url": "https://github.com/plandex-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "plandex-ai/plandex",
+    "huggingface": null,
+    "homepage": "https://plandex.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 15320,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-03T21:49:58Z",
+    "first_commit_at": "2023-09-28T08:09:47Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2232,
+  "rank_in_category": 124,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:03.714769Z",
+  "last_refreshed_at": "2026-05-01T14:21:03.714772Z"
+}

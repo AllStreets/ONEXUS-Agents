@@ -1,0 +1,44 @@
+{
+  "slug": "whisper-cpp-android",
+  "name": "whisper.cpp.android",
+  "tagline": "whisper.cpp.android with CLBlast(OpenCL), Translation (Google ML-Kit) and TTS",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "android",
+    "clblast",
+    "ggml",
+    "kotlin",
+    "ml-kit",
+    "openai-whisper",
+    "opencl",
+    "opencl-headers",
+    "translation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "godmode2k",
+    "url": "https://github.com/godmode2k"
+  },
+  "source": {
+    "primary": "github",
+    "github": "godmode2k/whisper.cpp.android",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2024-11-04T14:08:58Z",
+    "first_commit_at": "2024-04-27T03:25:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1415,
+  "rank_in_category": 94,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:37.743913Z",
+  "last_refreshed_at": "2026-05-01T14:33:37.743916Z"
+}

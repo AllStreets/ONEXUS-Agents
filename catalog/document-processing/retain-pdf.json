@@ -1,0 +1,42 @@
+{
+  "slug": "retain-pdf",
+  "name": "retain-pdf",
+  "tagline": "在保留版面、公式与结构的前提下进行 PDF 翻译，适用于科研与技术文档",
+  "category": "document-processing",
+  "tags": [
+    "document-ai",
+    "document-processing",
+    "layout-preserving",
+    "ocr",
+    "pdf",
+    "scientific-papers",
+    "translation",
+    "typst"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wxyhgk",
+    "url": "https://github.com/wxyhgk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wxyhgk/retain-pdf",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1295,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:52:23Z",
+    "first_commit_at": "2026-03-20T06:53:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5459,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:54.594845Z",
+  "last_refreshed_at": "2026-05-01T14:37:54.594848Z"
+}

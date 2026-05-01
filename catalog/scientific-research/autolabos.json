@@ -1,0 +1,44 @@
+{
+  "slug": "autolabos",
+  "name": "AutoLabOS",
+  "tagline": "An operating system for autonomous research — from literature to manuscript inside a governed, checkpointed loop.",
+  "category": "scientific-research",
+  "tags": [
+    "ai-agents",
+    "autonomous-research",
+    "checkpointing",
+    "experiment-automation",
+    "llm-orchestration",
+    "multi-agent",
+    "paper-writing",
+    "research-agent",
+    "research-workflow",
+    "scientific-workflow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lhy0718",
+    "url": "https://github.com/lhy0718"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lhy0718/AutoLabOS",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T07:19:59Z",
+    "first_commit_at": "2026-03-06T01:44:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3866,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:51.551847Z",
+  "last_refreshed_at": "2026-05-01T14:40:51.551850Z"
+}

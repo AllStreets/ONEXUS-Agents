@@ -1,0 +1,44 @@
+{
+  "slug": "document-ai-demo",
+  "name": "document-ai-demo",
+  "tagline": "AI-assisted document analysis system. Upload documents and let an LLM classify, extract structured fields, and generate explainable reports.",
+  "category": "document-processing",
+  "tags": [
+    "ai-demo",
+    "ai-document-processing",
+    "document-ai",
+    "document-analysis",
+    "document-understanding",
+    "groq",
+    "information-extraction",
+    "llm",
+    "local-llm",
+    "machine-reading"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "r0b0tan",
+    "url": "https://github.com/r0b0tan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "r0b0tan/document-ai-demo",
+    "huggingface": null,
+    "homepage": "https://docai.christophbauer.dev/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-05T15:56:55Z",
+    "first_commit_at": "2026-03-05T11:22:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2874,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:20.878139Z",
+  "last_refreshed_at": "2026-05-01T14:38:20.878143Z"
+}

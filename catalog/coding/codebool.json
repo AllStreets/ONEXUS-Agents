@@ -1,0 +1,42 @@
+{
+  "slug": "codebool",
+  "name": "codebool",
+  "tagline": "CodeBool is an open-source AI coding assistant designed to generate, analyze, and refactor code via simple CLI commands.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "code-ai",
+    "codeai",
+    "codebool",
+    "coding-ai",
+    "openai",
+    "openai-api",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "LunaStev",
+    "url": "https://github.com/LunaStev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LunaStev/codebool",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MPL-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-18T11:43:01Z",
+    "first_commit_at": "2025-06-04T09:56:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0349,
+  "rank_in_category": 225,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:30.634546Z",
+  "last_refreshed_at": "2026-05-01T14:20:30.634549Z"
+}

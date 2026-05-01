@@ -1,0 +1,40 @@
+{
+  "slug": "mle-agent",
+  "name": "MLE-agent",
+  "tagline": "🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Gemini, Ollama, ",
+  "category": "data-science-ml",
+  "tags": [
+    "agent",
+    "ai",
+    "llm",
+    "ml",
+    "mle",
+    "mlops"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "MLSysOps",
+    "url": "https://github.com/MLSysOps"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MLSysOps/MLE-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1550,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-27T17:56:58Z",
+    "first_commit_at": "2024-04-16T23:49:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2656,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:56.395554Z",
+  "last_refreshed_at": "2026-05-01T14:23:56.395557Z"
+}

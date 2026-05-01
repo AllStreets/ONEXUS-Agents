@@ -1,0 +1,37 @@
+{
+  "slug": "hunyuanvideo",
+  "name": "HunyuanVideo",
+  "tagline": "HunyuanVideo: A Systematic Framework For Large Video Generation Model",
+  "category": "video-generation",
+  "tags": [
+    "diffusion-models",
+    "diffusion-transformer",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Tencent-Hunyuan",
+    "url": "https://github.com/Tencent-Hunyuan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tencent-Hunyuan/HunyuanVideo",
+    "huggingface": null,
+    "homepage": "https://aivideo.hunyuan.tencent.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 12041,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-21T06:36:57Z",
+    "first_commit_at": "2024-12-03T02:16:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5072,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:29.071801Z",
+  "last_refreshed_at": "2026-05-01T14:31:29.071804Z"
+}

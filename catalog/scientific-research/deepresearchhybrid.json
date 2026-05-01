@@ -1,0 +1,44 @@
+{
+  "slug": "deepresearchhybrid",
+  "name": "DeepResearchHybrid",
+  "tagline": "An autonomous research agent that synthesizes detailed reports by combining dynamic planning, unsupervised topic discovery (PCA/KMeans) HyDe (hypothetical doc embeddings), and a self-correcting reflex",
+  "category": "scientific-research",
+  "tags": [
+    "ai-tools",
+    "autonomous-agents",
+    "deep-research-agent",
+    "generative-ai",
+    "hyde",
+    "information-retrieval-system",
+    "llm",
+    "python",
+    "research-agent",
+    "tool-usage"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "VladPrytula",
+    "url": "https://github.com/VladPrytula"
+  },
+  "source": {
+    "primary": "github",
+    "github": "VladPrytula/DeepResearchHybrid",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-25T06:53:31Z",
+    "first_commit_at": "2025-07-24T17:19:33Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2157,
+  "rank_in_category": 39,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:50.842716Z",
+  "last_refreshed_at": "2026-05-01T14:40:50.842719Z"
+}

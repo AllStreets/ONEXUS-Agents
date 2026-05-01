@@ -1,0 +1,44 @@
+{
+  "slug": "earnings-call-analyzer",
+  "name": "Earnings-Call-Analyzer",
+  "tagline": "AI-powered financial research tool that analyzes SEC filings, live market data & web search to answer investment questions. Built with RAG, LangChain agents, Claude API & ChromaDB. 95% accuracy on 17 ",
+  "category": "financial-modeling",
+  "tags": [
+    "agentic-ai",
+    "anthropic",
+    "chromadb",
+    "ci-cd",
+    "claude-api",
+    "docker",
+    "fastapi",
+    "financial-ai",
+    "generative-ai",
+    "huggingface"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Sapan2003",
+    "url": "https://github.com/Sapan2003"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Sapan2003/Earnings-Call-Analyzer",
+    "huggingface": null,
+    "homepage": "https://earnings-call-analyzer-ai.streamlit.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-27T23:43:39Z",
+    "first_commit_at": "2026-03-19T06:10:48Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1727,
+  "rank_in_category": 97,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:25:09.122330Z",
+  "last_refreshed_at": "2026-05-01T14:25:09.122334Z"
+}

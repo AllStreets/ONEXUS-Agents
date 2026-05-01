@@ -1,0 +1,41 @@
+{
+  "slug": "docmtagent",
+  "name": "DocMTAgent",
+  "tagline": "Code and data releases for the paper -- DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory",
+  "category": "translation",
+  "tags": [
+    "autonomous-agents",
+    "document-translation",
+    "large-language-models",
+    "long-context-modeling",
+    "machine-translation",
+    "machine-translation-metrics",
+    "natural-language-processing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "YutongWang1216",
+    "url": "https://github.com/YutongWang1216"
+  },
+  "source": {
+    "primary": "github",
+    "github": "YutongWang1216/DocMTAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 62,
+    "downloads_30d": null,
+    "last_commit_at": "2025-02-10T09:26:57Z",
+    "first_commit_at": "2024-10-09T10:57:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1713,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:52.420897Z",
+  "last_refreshed_at": "2026-05-01T14:33:52.420901Z"
+}

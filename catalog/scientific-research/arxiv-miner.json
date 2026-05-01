@@ -1,0 +1,39 @@
+{
+  "slug": "arxiv-miner",
+  "name": "arxiv-miner",
+  "tagline": "arxiv_miner is a toolkit for mining research papers on CS ArXiv.",
+  "category": "scientific-research",
+  "tags": [
+    "arxiv-papers",
+    "parsing",
+    "scientific-research",
+    "scraping",
+    "search"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "valayDave",
+    "url": "https://github.com/valayDave"
+  },
+  "source": {
+    "primary": "github",
+    "github": "valayDave/arxiv-miner",
+    "huggingface": null,
+    "homepage": "https://arxiv-miner.turing-bot.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 141,
+    "downloads_30d": null,
+    "last_commit_at": "2024-03-23T20:13:39Z",
+    "first_commit_at": "2020-06-23T06:19:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3539,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:41:03.817052Z",
+  "last_refreshed_at": "2026-05-01T14:41:03.817056Z"
+}

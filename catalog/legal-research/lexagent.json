@@ -1,0 +1,42 @@
+{
+  "slug": "lexagent",
+  "name": "Lexagent",
+  "tagline": "Legal research AI agent: goal → plan → execute → report. Built with FastAPI, Tavily, Langfuse. No agent frameworks.",
+  "category": "legal-research",
+  "tags": [
+    "ai-agent",
+    "fastapi",
+    "langfuse",
+    "legal-research",
+    "llm",
+    "react",
+    "streamlit",
+    "tavily"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "niranjanxprt",
+    "url": "https://github.com/niranjanxprt"
+  },
+  "source": {
+    "primary": "github",
+    "github": "niranjanxprt/Lexagent",
+    "huggingface": null,
+    "homepage": "https://lexagent-production.up.railway.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-22T13:37:14Z",
+    "first_commit_at": "2026-02-19T12:37:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1252,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:26:48.630013Z",
+  "last_refreshed_at": "2026-05-01T14:26:48.630016Z"
+}

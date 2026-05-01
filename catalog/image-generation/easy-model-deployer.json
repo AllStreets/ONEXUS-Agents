@@ -1,0 +1,44 @@
+{
+  "slug": "easy-model-deployer",
+  "name": "easy-model-deployer",
+  "tagline": "Deploy open-source LLMs on AWS in minutes — with OpenAI-compatible APIs and a powerful CLI/SDK toolkit.",
+  "category": "image-generation",
+  "tags": [
+    "comfyui-workflow",
+    "deepseek",
+    "deepseek-r1",
+    "deepseek-v3",
+    "ecs",
+    "gemma3",
+    "gpt-oss",
+    "higgs-audio",
+    "huggingface",
+    "inferentia-2"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aws-samples",
+    "url": "https://github.com/aws-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-samples/easy-model-deployer",
+    "huggingface": null,
+    "homepage": "https://aws-samples.github.io/easy-model-deployer/"
+  },
+  "license": "MIT-0",
+  "metrics": {
+    "stars": 74,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-26T08:02:34Z",
+    "first_commit_at": "2025-02-07T05:24:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1759,
+  "rank_in_category": 93,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:04.560665Z",
+  "last_refreshed_at": "2026-05-01T14:30:04.560668Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "pilipili-autovideo",
+  "name": "Pilipili-AutoVideo",
+  "tagline": "🎬 全自动 AI 视频代理 · 一句话生成带字幕成片 · Fully Automated AI Video Agent · Local Deployment",
+  "category": "video-generation",
+  "tags": [
+    "ai-agent",
+    "ai-video",
+    "capcut",
+    "fastapi",
+    "ffmpeg",
+    "jianying",
+    "kling",
+    "langchain",
+    "mem0",
+    "minimax-tts"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "OpenDemon",
+    "url": "https://github.com/OpenDemon"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OpenDemon/Pilipili-AutoVideo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 167,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-25T22:47:30Z",
+    "first_commit_at": "2026-03-21T04:33:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4392,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:15.811347Z",
+  "last_refreshed_at": "2026-05-01T14:32:15.811351Z"
+}

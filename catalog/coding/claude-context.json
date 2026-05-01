@@ -1,0 +1,44 @@
+{
+  "slug": "claude-context",
+  "name": "claude-context",
+  "tagline": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "agentic-rag",
+    "ai-coding",
+    "claude-code",
+    "code-generation",
+    "code-search",
+    "cursor",
+    "embedding",
+    "gemini-cli",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "zilliztech",
+    "url": "https://github.com/zilliztech"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zilliztech/claude-context",
+    "huggingface": null,
+    "homepage": "https://github.com/zilliztech/claude-context/tree/master/docs"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10504,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T01:04:40Z",
+    "first_commit_at": "2025-06-06T02:17:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3016,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:36.510078Z",
+  "last_refreshed_at": "2026-05-01T14:20:36.510081Z"
+}

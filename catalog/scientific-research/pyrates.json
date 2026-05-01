@@ -1,0 +1,44 @@
+{
+  "slug": "pyrates",
+  "name": "PyRates",
+  "tagline": "Open-source, graph-based Python code generator and analysis toolbox for dynamical systems (pre-implemented and custom models). Most pre-implemented models belong to the family of neural population mod",
+  "category": "scientific-research",
+  "tags": [
+    "code-generation",
+    "delayed-differential-equation",
+    "differential-equations",
+    "dynamical-systems",
+    "fortran90",
+    "julia",
+    "matlab",
+    "network-simulator",
+    "neural-networks",
+    "numpy"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pyrates-neuroscience",
+    "url": "https://github.com/pyrates-neuroscience"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pyrates-neuroscience/PyRates",
+    "huggingface": null,
+    "homepage": "https://pyrates.readthedocs.io/en/latest/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 90,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-08T20:58:56Z",
+    "first_commit_at": "2018-12-19T16:26:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4305,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:41:05.369620Z",
+  "last_refreshed_at": "2026-05-01T14:41:05.369623Z"
+}

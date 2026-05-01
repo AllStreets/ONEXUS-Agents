@@ -1,0 +1,39 @@
+{
+  "slug": "docling-graph",
+  "name": "docling-graph",
+  "tagline": "Transform unstructured documents into validated, rich and queryable knowledge graphs.",
+  "category": "document-processing",
+  "tags": [
+    "ai",
+    "convert",
+    "docling",
+    "document-processing",
+    "knowledge-graph"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "docling-project",
+    "url": "https://github.com/docling-project"
+  },
+  "source": {
+    "primary": "github",
+    "github": "docling-project/docling-graph",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 139,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:41:07Z",
+    "first_commit_at": "2025-10-21T19:17:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5036,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:05.470806Z",
+  "last_refreshed_at": "2026-05-01T14:38:05.470809Z"
+}

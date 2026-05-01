@@ -1,0 +1,33 @@
+{
+  "slug": "opencode",
+  "name": "opencode",
+  "tagline": "The open source coding agent.",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "anomalyco",
+    "url": "https://github.com/anomalyco"
+  },
+  "source": {
+    "primary": "github",
+    "github": "anomalyco/opencode",
+    "huggingface": null,
+    "homepage": "https://opencode.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 152898,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:51:04Z",
+    "first_commit_at": "2025-03-21T17:20:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3478,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:54.488597Z",
+  "last_refreshed_at": "2026-05-01T14:20:54.488600Z"
+}

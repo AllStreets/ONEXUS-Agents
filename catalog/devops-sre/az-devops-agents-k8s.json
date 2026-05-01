@@ -1,0 +1,37 @@
+{
+  "slug": "az-devops-agents-k8s",
+  "name": "az-devops-agents-k8s",
+  "tagline": "Azure DevOps",
+  "category": "devops-sre",
+  "tags": [
+    "azure-devops",
+    "docker",
+    "kubernetes"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "anveshmuppeda",
+    "url": "https://github.com/anveshmuppeda"
+  },
+  "source": {
+    "primary": "github",
+    "github": "anveshmuppeda/az-devops-agents-k8s",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 29,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-07T18:25:29Z",
+    "first_commit_at": "2024-02-05T03:37:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1598,
+  "rank_in_category": 39,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:39:20.875527Z",
+  "last_refreshed_at": "2026-05-01T14:39:20.875530Z"
+}

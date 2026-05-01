@@ -1,0 +1,44 @@
+{
+  "slug": "scienceclaw",
+  "name": "ScienceClaw",
+  "tagline": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
+  "category": "scientific-research",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "bioinformatics",
+    "literature-review",
+    "llm",
+    "mcp",
+    "meta-analysis",
+    "openclaw",
+    "pubmed",
+    "research"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "beita6969",
+    "url": "https://github.com/beita6969"
+  },
+  "source": {
+    "primary": "github",
+    "github": "beita6969/ScienceClaw",
+    "huggingface": null,
+    "homepage": "http://scienceclaw.science/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 617,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T16:39:35Z",
+    "first_commit_at": "2026-03-12T04:37:58Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5513,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:59.184751Z",
+  "last_refreshed_at": "2026-05-01T14:40:59.184755Z"
+}

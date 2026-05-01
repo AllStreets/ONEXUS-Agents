@@ -1,0 +1,42 @@
+{
+  "slug": "deepgram-demos-rust",
+  "name": "deepgram-demos-rust",
+  "tagline": "Useful demo applications for Deepgram Voice AI APIs, using the Rust language! 🦀",
+  "category": "audio-speech",
+  "tags": [
+    "asr",
+    "deepgram",
+    "live",
+    "rust",
+    "speech-to-text",
+    "streaming",
+    "voice-agent",
+    "voiceai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "deepgram-devs",
+    "url": "https://github.com/deepgram-devs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "deepgram-devs/deepgram-demos-rust",
+    "huggingface": null,
+    "homepage": "https://deepgram.com/"
+  },
+  "license": "ISC",
+  "metrics": {
+    "stars": 38,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T08:21:30Z",
+    "first_commit_at": "2025-09-02T13:59:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.402,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:48.051484Z",
+  "last_refreshed_at": "2026-05-01T14:32:48.051487Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "openai-for-java",
+  "name": "openai-for-java",
+  "tagline": "OpenAI/ChatGPT library for Java - Requires JDK 11 at minimum.",
+  "category": "image-generation",
+  "tags": [
+    "ai-image",
+    "ai-image-generation",
+    "ai-transcription",
+    "ai-translator",
+    "chatgpt",
+    "chatgpt-api",
+    "gpt-3",
+    "gpt-3-text-generation",
+    "gpt-35-turbo",
+    "gpt3"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jetkai",
+    "url": "https://github.com/jetkai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jetkai/openai-for-java",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 53,
+    "downloads_30d": null,
+    "last_commit_at": "2023-03-13T18:52:36Z",
+    "first_commit_at": "2023-03-02T11:06:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1627,
+  "rank_in_category": 101,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:16.059622Z",
+  "last_refreshed_at": "2026-05-01T14:31:16.059626Z"
+}

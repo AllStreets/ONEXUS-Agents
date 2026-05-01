@@ -1,0 +1,43 @@
+{
+  "slug": "translationplugin",
+  "name": "TranslationPlugin",
+  "tagline": "Translation plugin for IntelliJ-based IDEs/Android Studio.",
+  "category": "translation",
+  "tags": [
+    "android-studio",
+    "deveco-studio",
+    "intellij",
+    "intellij-plugin",
+    "jetbrains-ides",
+    "plugin",
+    "translate",
+    "translate-plugin",
+    "translation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "YiiGuxing",
+    "url": "https://github.com/YiiGuxing"
+  },
+  "source": {
+    "primary": "github",
+    "github": "YiiGuxing/TranslationPlugin",
+    "huggingface": null,
+    "homepage": "https://intellij-translation.yiiguxing.top/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11784,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T23:44:24Z",
+    "first_commit_at": "2016-05-15T20:43:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5232,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:12.413917Z",
+  "last_refreshed_at": "2026-05-01T14:33:12.413920Z"
+}

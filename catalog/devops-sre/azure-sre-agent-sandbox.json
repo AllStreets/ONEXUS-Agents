@@ -1,0 +1,36 @@
+{
+  "slug": "azure-sre-agent-sandbox",
+  "name": "azure-sre-agent-sandbox",
+  "tagline": "Fully automated deployment of Azure SRE Agent, multi-pod AKS, and \"break scenarios\" with prompt guides to experiment with Azure SRE Agent.",
+  "category": "devops-sre",
+  "tags": [
+    "azure",
+    "sre"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "matthansen0",
+    "url": "https://github.com/matthansen0"
+  },
+  "source": {
+    "primary": "github",
+    "github": "matthansen0/azure-sre-agent-sandbox",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 55,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T15:56:05Z",
+    "first_commit_at": "2026-01-30T16:09:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3082,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:39:29.461467Z",
+  "last_refreshed_at": "2026-05-01T14:39:29.461470Z"
+}

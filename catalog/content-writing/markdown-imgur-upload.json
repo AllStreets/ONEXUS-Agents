@@ -1,0 +1,44 @@
+{
+  "slug": "markdown-imgur-upload",
+  "name": "markdown-imgur-upload",
+  "tagline": "Upload local images to Imgur and replace their reference in the Markdown file.",
+  "category": "content-writing",
+  "tags": [
+    "automation",
+    "content",
+    "content-writing",
+    "images",
+    "imgur",
+    "imgur-api",
+    "markdown",
+    "markdown-images",
+    "python",
+    "python-markdown"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ravgeetdhillon",
+    "url": "https://github.com/ravgeetdhillon"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ravgeetdhillon/markdown-imgur-upload",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2022-03-26T09:36:17Z",
+    "first_commit_at": "2022-03-24T08:57:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.21,
+  "rank_in_category": 55,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:29:17.667278Z",
+  "last_refreshed_at": "2026-05-01T14:29:17.667281Z"
+}

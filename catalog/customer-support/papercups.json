@@ -1,0 +1,44 @@
+{
+  "slug": "papercups",
+  "name": "papercups",
+  "tagline": "Open-source live customer chat",
+  "category": "customer-support",
+  "tags": [
+    "chat-widget",
+    "customer-support",
+    "docker",
+    "drift",
+    "elixir",
+    "elixir-phoenix",
+    "frontend",
+    "gdpr-compliant",
+    "help-desk",
+    "heroku"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "papercups-io",
+    "url": "https://github.com/papercups-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "papercups-io/papercups",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6028,
+    "downloads_30d": null,
+    "last_commit_at": "2024-02-15T05:21:47Z",
+    "first_commit_at": "2020-07-14T19:46:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4161,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:25.796861Z",
+  "last_refreshed_at": "2026-05-01T14:27:25.796864Z"
+}

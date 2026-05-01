@@ -1,0 +1,44 @@
+{
+  "slug": "taipy",
+  "name": "taipy",
+  "tagline": "Turns Data and AI algorithms into production-ready web applications in no time.",
+  "category": "data-engineering",
+  "tags": [
+    "automation",
+    "data-engineering",
+    "data-integration",
+    "data-ops",
+    "data-visualization",
+    "datascience",
+    "developer-tools",
+    "hacktoberfest",
+    "hacktoberfest2023",
+    "job-scheduler"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Avaiga",
+    "url": "https://github.com/Avaiga"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Avaiga/taipy",
+    "huggingface": null,
+    "homepage": "https://www.taipy.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 19173,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T17:30:48Z",
+    "first_commit_at": "2021-08-25T10:46:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6752,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:28.528778Z",
+  "last_refreshed_at": "2026-05-01T14:23:28.528782Z"
+}

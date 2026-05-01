@@ -1,0 +1,37 @@
+{
+  "slug": "villager",
+  "name": "villager",
+  "tagline": "villager is an extensible agent based modeling (ABM) framework for the R language. It supports agents, agent aggregations and their associated resources, as well as flexible data management.",
+  "category": "customer-support",
+  "tags": [
+    "abm",
+    "agent-based-modeling",
+    "simulation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zizroc",
+    "url": "https://github.com/zizroc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zizroc/villager",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 64,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-28T18:20:57Z",
+    "first_commit_at": "2020-09-08T20:34:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3613,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:45.174710Z",
+  "last_refreshed_at": "2026-05-01T14:28:45.174713Z"
+}

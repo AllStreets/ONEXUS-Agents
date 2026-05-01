@@ -1,0 +1,44 @@
+{
+  "slug": "llm-scraper",
+  "name": "llm-scraper",
+  "tagline": "Turn any webpage into structured data using LLMs",
+  "category": "browser-automation",
+  "tags": [
+    "ai",
+    "artificial-intelligence",
+    "browser",
+    "browser-automation",
+    "gpt",
+    "gpt-4",
+    "langchain",
+    "llama",
+    "llm",
+    "openai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mishushakov",
+    "url": "https://github.com/mishushakov"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mishushakov/llm-scraper",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6359,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-13T17:42:00Z",
+    "first_commit_at": "2024-04-20T15:27:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.392,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:29.876538Z",
+  "last_refreshed_at": "2026-05-01T14:35:29.876541Z"
+}

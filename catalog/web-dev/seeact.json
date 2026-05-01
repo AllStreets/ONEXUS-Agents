@@ -1,0 +1,35 @@
+{
+  "slug": "seeact",
+  "name": "SeeAct",
+  "tagline": "[ICML'24] SeeAct is a system for generalist web agents that autonomously carry out tasks on any given website, with a focus on large multimodal models (LMMs) such as GPT-4V(ision).",
+  "category": "web-dev",
+  "tags": [
+    "agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OSU-NLP-Group",
+    "url": "https://github.com/OSU-NLP-Group"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OSU-NLP-Group/SeeAct",
+    "huggingface": null,
+    "homepage": "https://osu-nlp-group.github.io/SeeAct/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 846,
+    "downloads_30d": null,
+    "last_commit_at": "2025-02-03T02:09:18Z",
+    "first_commit_at": "2023-12-21T18:22:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2577,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:04.580072Z",
+  "last_refreshed_at": "2026-05-01T14:23:04.580075Z"
+}

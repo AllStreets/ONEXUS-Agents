@@ -1,0 +1,44 @@
+{
+  "slug": "n8n-nodes-veryfi",
+  "name": "n8n-nodes-veryfi",
+  "tagline": "n8n community node for Veryfi document AI: extract structured data from invoices, receipts, checks, bank statements, W-9/W-2, IDs, and any document via blueprints.",
+  "category": "document-processing",
+  "tags": [
+    "document-ai",
+    "document-extraction",
+    "idp",
+    "invoice",
+    "n8n",
+    "n8n-community-node",
+    "n8n-nodes",
+    "ocr",
+    "receipt",
+    "veryfi"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "veryfi",
+    "url": "https://github.com/veryfi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "veryfi/n8n-nodes-veryfi",
+    "huggingface": null,
+    "homepage": "https://www.veryfi.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T18:18:15Z",
+    "first_commit_at": "2026-04-28T23:28:18Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.385,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:38.547427Z",
+  "last_refreshed_at": "2026-05-01T14:37:38.547430Z"
+}

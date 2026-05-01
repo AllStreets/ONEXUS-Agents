@@ -1,0 +1,37 @@
+{
+  "slug": "mink",
+  "name": "Mink",
+  "tagline": "PHP web browser emulator abstraction",
+  "category": "browser-automation",
+  "tags": [
+    "browser-automation",
+    "mink",
+    "php"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "minkphp",
+    "url": "https://github.com/minkphp"
+  },
+  "source": {
+    "primary": "github",
+    "github": "minkphp/Mink",
+    "huggingface": null,
+    "homepage": "https://mink.behat.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1612,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-22T12:24:05Z",
+    "first_commit_at": "2011-03-27T23:55:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2905,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:38.880277Z",
+  "last_refreshed_at": "2026-05-01T14:35:38.880281Z"
+}

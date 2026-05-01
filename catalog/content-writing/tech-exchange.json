@@ -1,0 +1,44 @@
+{
+  "slug": "tech-exchange",
+  "name": "tech-exchange",
+  "tagline": "Tech Exchange is content writing application like medium or dev.to",
+  "category": "content-writing",
+  "tags": [
+    "aws",
+    "content-writing",
+    "docker",
+    "docker-compose",
+    "go",
+    "golang",
+    "kubernetes",
+    "microservice",
+    "mongodb",
+    "postgresql"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "muhammedarifp",
+    "url": "https://github.com/muhammedarifp"
+  },
+  "source": {
+    "primary": "github",
+    "github": "muhammedarifp/tech-exchange",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2024-01-28T10:37:56Z",
+    "first_commit_at": "2023-11-09T05:52:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2293,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:29:12.528306Z",
+  "last_refreshed_at": "2026-05-01T14:29:12.528310Z"
+}

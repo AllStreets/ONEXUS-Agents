@@ -1,0 +1,44 @@
+{
+  "slug": "deepdub",
+  "name": "deepdub",
+  "tagline": "🗣️ Videos for everyone. Implementation of \"Automated Dubbing and Facial Synchronization using Deep Learning\" (10.1109/ICAI55435.2022.9773697)",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "automatic",
+    "deep-learning",
+    "dubbing",
+    "dubbing-ai",
+    "dubbing-service",
+    "dubbing-svc-wf",
+    "speech",
+    "speech-synthesis",
+    "text-to-video"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "grayhatdevelopers",
+    "url": "https://github.com/grayhatdevelopers"
+  },
+  "source": {
+    "primary": "github",
+    "github": "grayhatdevelopers/deepdub",
+    "huggingface": null,
+    "homepage": "https://getomni.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-30T19:57:58Z",
+    "first_commit_at": "2021-10-11T09:41:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1666,
+  "rank_in_category": 89,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:44.109041Z",
+  "last_refreshed_at": "2026-05-01T14:33:44.109045Z"
+}

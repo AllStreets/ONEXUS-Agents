@@ -1,0 +1,44 @@
+{
+  "slug": "pdf-go",
+  "name": "pdf-go",
+  "tagline": "Pure Go PDF library for reading & writing PDF (Go 1.20+): xref & streams, catalog/pages, text extraction, PdfWriter merge & forms—stdlib-only at runtime, ISO 32000–oriented API. ",
+  "category": "document-processing",
+  "tags": [
+    "acroform",
+    "document-processing",
+    "go",
+    "golang",
+    "iso-32000",
+    "merge-pdf",
+    "pdf",
+    "pdf-library",
+    "pdf-reader",
+    "pdf-writer"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "LightningRAG",
+    "url": "https://github.com/LightningRAG"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LightningRAG/pdf-go",
+    "huggingface": null,
+    "homepage": "https://lightningrag.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 86,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-17T10:59:48Z",
+    "first_commit_at": "2026-04-16T14:35:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4518,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:09.596120Z",
+  "last_refreshed_at": "2026-05-01T14:38:09.596123Z"
+}

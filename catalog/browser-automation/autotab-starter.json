@@ -1,0 +1,38 @@
+{
+  "slug": "autotab-starter",
+  "name": "autotab-starter",
+  "tagline": "Build browser agents for real world tasks",
+  "category": "browser-automation",
+  "tags": [
+    "agent",
+    "ai",
+    "automation",
+    "browser"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Planetary-Computers",
+    "url": "https://github.com/Planetary-Computers"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Planetary-Computers/autotab-starter",
+    "huggingface": null,
+    "homepage": "https://autotab.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1015,
+    "downloads_30d": null,
+    "last_commit_at": "2023-12-12T23:40:15Z",
+    "first_commit_at": "2023-10-19T13:46:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.243,
+  "rank_in_category": 78,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:58.191353Z",
+  "last_refreshed_at": "2026-05-01T14:35:58.191357Z"
+}

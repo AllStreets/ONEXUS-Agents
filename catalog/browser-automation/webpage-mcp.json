@@ -1,0 +1,39 @@
+{
+  "slug": "webpage-mcp",
+  "name": "webpage-mcp",
+  "tagline": "Turn your existing webpages into an MCP server for agent control",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "browser-agent",
+    "browser-automation",
+    "mcp",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mcpland",
+    "url": "https://github.com/mcpland"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mcpland/webpage-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T01:58:58Z",
+    "first_commit_at": "2026-02-24T15:43:48Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.266,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:34:58.804288Z",
+  "last_refreshed_at": "2026-05-01T14:34:58.804292Z"
+}

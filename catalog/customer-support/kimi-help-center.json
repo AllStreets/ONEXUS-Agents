@@ -1,0 +1,44 @@
+{
+  "slug": "kimi-help-center",
+  "name": "kimi-help-center",
+  "tagline": "Kimi Help Center is an intelligent Q&A routing system that directs user questions to the right help articles across the full Kimi ecosystem — covering Agent mode, Deep Research, Kimi Code, Kimi Claw, ",
+  "category": "customer-support",
+  "tags": [
+    "ai-assistant",
+    "customer-support",
+    "customer-support-ai",
+    "documentation",
+    "help-center",
+    "i18n",
+    "kimi",
+    "knowledge-base",
+    "llm",
+    "nlp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "MoonshotAI",
+    "url": "https://github.com/MoonshotAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MoonshotAI/kimi-help-center",
+    "huggingface": null,
+    "homepage": "https://www.kimi.com/zh-cn/help"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T11:09:21Z",
+    "first_commit_at": "2026-04-20T05:46:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4181,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:56.354160Z",
+  "last_refreshed_at": "2026-05-01T14:27:56.354163Z"
+}

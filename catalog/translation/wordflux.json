@@ -1,0 +1,38 @@
+{
+  "slug": "wordflux",
+  "name": "wordflux",
+  "tagline": "Translate DOCX using OpenAI - Preserve Format",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "document",
+    "docx-translator",
+    "translation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pnnbao97",
+    "url": "https://github.com/pnnbao97"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pnnbao97/wordflux",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 127,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-17T05:09:53Z",
+    "first_commit_at": "2025-10-15T13:27:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3445,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:31.130811Z",
+  "last_refreshed_at": "2026-05-01T14:33:31.130815Z"
+}

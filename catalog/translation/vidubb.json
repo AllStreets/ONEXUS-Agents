@@ -1,0 +1,42 @@
+{
+  "slug": "vidubb",
+  "name": "ViDubb",
+  "tagline": "AI Video dubbing / dubber / Video dubbing / AI dubbing   AI 視訊配音",
+  "category": "translation",
+  "tags": [
+    "ai-dubbing",
+    "ai-translation",
+    "ai-video-dubbing",
+    "dubber",
+    "dubbing",
+    "dubbing-ai",
+    "dubbing-service",
+    "video-dubbing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "medahmedkrichen",
+    "url": "https://github.com/medahmedkrichen"
+  },
+  "source": {
+    "primary": "github",
+    "github": "medahmedkrichen/ViDubb",
+    "huggingface": null,
+    "homepage": "https://www.youtube.com/@medahmedkrichen"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 106,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-23T21:34:47Z",
+    "first_commit_at": "2024-12-03T21:59:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1982,
+  "rank_in_category": 82,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:32.739491Z",
+  "last_refreshed_at": "2026-05-01T14:33:32.739494Z"
+}

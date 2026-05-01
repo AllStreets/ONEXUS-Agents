@@ -1,0 +1,44 @@
+{
+  "slug": "clause-ai",
+  "name": "clause-ai",
+  "tagline": "⚖️ AI-powered legal contract risk analyzer. Upload any contract or NDA → AI flags dangerous clauses, missing protections & one-sided terms with plain-English explanations & negotiation advice.",
+  "category": "legal-research",
+  "tags": [
+    "contract-analysis",
+    "document-intelligence",
+    "fastapi",
+    "grok",
+    "grok-api",
+    "legal-ai",
+    "nlp",
+    "portfolio",
+    "react",
+    "risk-detection"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "crastatelvin",
+    "url": "https://github.com/crastatelvin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "crastatelvin/clause-ai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-22T07:22:18Z",
+    "first_commit_at": "2026-04-20T07:00:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1311,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:26:44.538365Z",
+  "last_refreshed_at": "2026-05-01T14:26:44.538368Z"
+}

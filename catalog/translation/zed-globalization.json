@@ -1,0 +1,44 @@
+{
+  "slug": "zed-globalization",
+  "name": "zed-globalization",
+  "tagline": "Zed 编辑器汉化版 / 中文版 / 多语言版 — AI 驱动全自动翻译构建，支持简繁中文/日语/韩语 | Zed Editor Localized with AI-powered translation pipeline",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "chinese",
+    "code-editor",
+    "homebrew",
+    "i18n",
+    "l10n",
+    "linux",
+    "localization",
+    "macos",
+    "rust"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "x6nux",
+    "url": "https://github.com/x6nux"
+  },
+  "source": {
+    "primary": "github",
+    "github": "x6nux/zed-globalization",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 295,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T23:15:00Z",
+    "first_commit_at": "2026-02-10T09:19:58Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3759,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:29.627815Z",
+  "last_refreshed_at": "2026-05-01T14:33:29.627818Z"
+}

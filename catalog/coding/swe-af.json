@@ -1,0 +1,44 @@
+{
+  "slug": "swe-af",
+  "name": "SWE-AF",
+  "tagline": "Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.",
+  "category": "coding",
+  "tags": [
+    "agent-factory",
+    "agentfield",
+    "agentic-ai",
+    "ai-agents",
+    "ai-factory",
+    "autonomous-agents",
+    "claude-code",
+    "code-generation",
+    "codex",
+    "coding-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Agent-Field",
+    "url": "https://github.com/Agent-Field"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Agent-Field/SWE-AF",
+    "huggingface": null,
+    "homepage": "https://agentfield.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 739,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-13T16:43:34Z",
+    "first_commit_at": "2026-02-08T07:47:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2272,
+  "rank_in_category": 120,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:18:39.000070Z",
+  "last_refreshed_at": "2026-05-01T14:18:39.000073Z"
+}

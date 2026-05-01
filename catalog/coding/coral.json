@@ -1,0 +1,44 @@
+{
+  "slug": "coral",
+  "name": "CORAL",
+  "tagline": "CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evolution, built for autoresearch.",
+  "category": "coding",
+  "tags": [
+    "agent-framework",
+    "alpha-evolve",
+    "alphaevolve",
+    "autoresearch",
+    "autoresearcher",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "large-language-models",
+    "llm-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Human-Agent-Society",
+    "url": "https://github.com/Human-Agent-Society"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Human-Agent-Society/CORAL",
+    "huggingface": null,
+    "homepage": "https://docs.coralxyz.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 609,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T08:41:33Z",
+    "first_commit_at": "2026-03-16T09:11:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2385,
+  "rank_in_category": 108,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:18:43.051794Z",
+  "last_refreshed_at": "2026-05-01T14:18:43.051797Z"
+}

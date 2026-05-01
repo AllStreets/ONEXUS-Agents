@@ -1,0 +1,36 @@
+{
+  "slug": "twix",
+  "name": "TWIX",
+  "tagline": "TWIX is an open-source data extraction tool that reconstructs structured data from documents at scale, accurately and at low cost, by inferring the shared underlying visual template across documents",
+  "category": "document-processing",
+  "tags": [
+    "document-data-extraction",
+    "document-processing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ucbepic",
+    "url": "https://github.com/ucbepic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ucbepic/TWIX",
+    "huggingface": null,
+    "homepage": "https://data-people-group.github.io/blogs/2025/04/30/twix/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 220,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-26T02:38:11Z",
+    "first_commit_at": "2024-07-23T23:56:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4048,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:59.999331Z",
+  "last_refreshed_at": "2026-05-01T14:37:59.999334Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "sana",
+  "name": "Sana",
+  "tagline": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+  "category": "video-generation",
+  "tags": [
+    "diffusion",
+    "dit",
+    "linear-transformer",
+    "nvfp4",
+    "pytorch",
+    "reinforcement-learning",
+    "sana",
+    "system-algorithm-deisgn",
+    "text-to-image-generation",
+    "text-to-video"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NVlabs",
+    "url": "https://github.com/NVlabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVlabs/Sana",
+    "huggingface": null,
+    "homepage": "https://nvlabs.github.io/Sana/docs/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5117,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-14T07:06:01Z",
+    "first_commit_at": "2024-10-21T09:35:40Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6153,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:31.339098Z",
+  "last_refreshed_at": "2026-05-01T14:31:31.339101Z"
+}

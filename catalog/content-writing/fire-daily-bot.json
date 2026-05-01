@@ -1,0 +1,36 @@
+{
+  "slug": "fire-daily-bot",
+  "name": "fire-daily-bot",
+  "tagline": "Node.js script using The News API and the OpenAI API to automatically generate daily news articles for FireDailyNews.com",
+  "category": "content-writing",
+  "tags": [
+    "artificial-intelligence",
+    "content-writing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "bradenhirschi",
+    "url": "https://github.com/bradenhirschi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bradenhirschi/fire-daily-bot",
+    "huggingface": null,
+    "homepage": "https://firedailynews.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2024-07-24T20:51:27Z",
+    "first_commit_at": "2023-12-21T19:50:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2115,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:29:20.017971Z",
+  "last_refreshed_at": "2026-05-01T14:29:20.017974Z"
+}

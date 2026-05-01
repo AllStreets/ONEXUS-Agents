@@ -1,0 +1,44 @@
+{
+  "slug": "image-generator",
+  "name": "Image-Generator",
+  "tagline": "This project leverages the SDXL-Turbo model for versatile image processing tasks. Offering a simple command-line interface, it facilitates both Text-to-image and Image-to-image operations. Users selec",
+  "category": "image-generation",
+  "tags": [
+    "ai",
+    "ai-art",
+    "art",
+    "art-generation",
+    "artificial-intelligence",
+    "image-generation",
+    "image-generation-ai",
+    "image-generators",
+    "json",
+    "prompt-engineering"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "CursedPrograms",
+    "url": "https://github.com/CursedPrograms"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CursedPrograms/Image-Generator",
+    "huggingface": null,
+    "homepage": "https://cursedprograms.github.io/Image-Generator/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T21:52:42Z",
+    "first_commit_at": "2024-01-28T18:06:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3177,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:51.761658Z",
+  "last_refreshed_at": "2026-05-01T14:30:51.761661Z"
+}

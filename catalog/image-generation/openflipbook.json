@@ -1,0 +1,44 @@
+{
+  "slug": "openflipbook",
+  "name": "openflipbook",
+  "tagline": "Open-source flipbook.page clone — every page is an AI-generated illustration, click anywhere to explore deeper. Next.js + FastAPI + Modal. BYO keys.",
+  "category": "image-generation",
+  "tags": [
+    "ai-image-generation",
+    "byo-keys",
+    "fal-ai",
+    "fastapi",
+    "flipbook",
+    "gemini-api",
+    "generative-ai",
+    "infinite-canvas",
+    "ltx-video",
+    "modal"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "eren23",
+    "url": "https://github.com/eren23"
+  },
+  "source": {
+    "primary": "github",
+    "github": "eren23/openflipbook",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 44,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:51:51Z",
+    "first_commit_at": "2026-04-23T20:15:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.309,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:18.521098Z",
+  "last_refreshed_at": "2026-05-01T14:31:18.521102Z"
+}

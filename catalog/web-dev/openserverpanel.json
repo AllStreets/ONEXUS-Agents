@@ -1,0 +1,44 @@
+{
+  "slug": "openserverpanel",
+  "name": "OpenServerPanel",
+  "tagline": "Software environment for web development",
+  "category": "web-dev",
+  "tags": [
+    "control-panel",
+    "dev",
+    "developer-tools",
+    "development",
+    "local",
+    "local-development",
+    "local-server",
+    "local-web-server",
+    "php",
+    "server"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "OSPanel",
+    "url": "https://github.com/OSPanel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OSPanel/OpenServerPanel",
+    "huggingface": null,
+    "homepage": "https://ospanel.io/en/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 496,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-20T20:52:46Z",
+    "first_commit_at": "2026-01-15T00:36:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3364,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:22:31.533593Z",
+  "last_refreshed_at": "2026-05-01T14:22:31.533596Z"
+}

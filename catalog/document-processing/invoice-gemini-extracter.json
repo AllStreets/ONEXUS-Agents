@@ -1,0 +1,44 @@
+{
+  "slug": "invoice-gemini-extracter",
+  "name": "invoice-gemini-extracter",
+  "tagline": "Invoice-Gemini-Extracter: Python tool to extract structured invoice data (fields and line items) from PDFs/images using OCR, preprocessing, and Google Gemini-powered extraction/normalization.",
+  "category": "document-processing",
+  "tags": [
+    "automation",
+    "computer-vision",
+    "document-extraction",
+    "google-gemini",
+    "information-extraction",
+    "invoice-processing",
+    "multimodal",
+    "nlp",
+    "ocr",
+    "pdf-parsing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AmmarAhm3d",
+    "url": "https://github.com/AmmarAhm3d"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AmmarAhm3d/invoice-gemini-extracter",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-31T19:36:33Z",
+    "first_commit_at": "2025-03-31T19:28:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.206,
+  "rank_in_category": 76,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:45.177185Z",
+  "last_refreshed_at": "2026-05-01T14:37:45.177188Z"
+}

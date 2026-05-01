@@ -1,0 +1,33 @@
+{
+  "slug": "workarena",
+  "name": "WorkArena",
+  "tagline": "WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?",
+  "category": "web-dev",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "ServiceNow",
+    "url": "https://github.com/ServiceNow"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ServiceNow/WorkArena",
+    "huggingface": null,
+    "homepage": "https://servicenow.github.io/WorkArena/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 245,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T18:29:28Z",
+    "first_commit_at": "2024-03-12T20:38:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.428,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:12.618956Z",
+  "last_refreshed_at": "2026-05-01T14:23:12.618960Z"
+}

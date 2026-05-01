@@ -1,0 +1,43 @@
+{
+  "slug": "agentlab",
+  "name": "AgentLab",
+  "tagline": "AgentLab: An open-source framework for developing, testing, and benchmarking web agents on diverse tasks, designed for scalability and reproducibility.",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "agents",
+    "benchmark",
+    "evaluation-framework",
+    "lab",
+    "llm",
+    "llm-agents",
+    "prompting",
+    "web-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ServiceNow",
+    "url": "https://github.com/ServiceNow"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ServiceNow/AgentLab",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 574,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-17T19:43:32Z",
+    "first_commit_at": "2024-05-21T20:20:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3945,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:07.798315Z",
+  "last_refreshed_at": "2026-05-01T14:23:07.798318Z"
+}

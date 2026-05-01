@@ -1,0 +1,44 @@
+{
+  "slug": "awas",
+  "name": "AWAS",
+  "tagline": "Open-source standard for AI-readable web actions - enabling AI browsers to interact with websites efficiently",
+  "category": "browser-automation",
+  "tags": [
+    "a2a",
+    "adk",
+    "ai",
+    "ai-agents",
+    "ai-browser",
+    "ai-browser-automation",
+    "api",
+    "automation",
+    "browser-automation",
+    "interoperability"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "TamTunnel",
+    "url": "https://github.com/TamTunnel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TamTunnel/AWAS",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-02T00:16:39Z",
+    "first_commit_at": "2025-10-29T20:32:05Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1822,
+  "rank_in_category": 110,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:48.320804Z",
+  "last_refreshed_at": "2026-05-01T14:35:48.320808Z"
+}

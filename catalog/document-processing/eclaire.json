@@ -1,0 +1,44 @@
+{
+  "slug": "eclaire",
+  "name": "eclaire",
+  "tagline": "Local-first, open-source AI assistant for your data. Unify tasks, notes, docs, photos, and bookmarks. Private, self-hosted, and extensible via APIs.",
+  "category": "document-processing",
+  "tags": [
+    "ai",
+    "ai-assistant",
+    "automation",
+    "bookmark-manager",
+    "bookmarks",
+    "data-extraction",
+    "document-processing",
+    "llm",
+    "local-first",
+    "note-taking"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "eclaire-labs",
+    "url": "https://github.com/eclaire-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "eclaire-labs/eclaire",
+    "huggingface": null,
+    "homepage": "https://eclaire.co/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 854,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-20T12:14:00Z",
+    "first_commit_at": "2025-09-13T02:35:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5354,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:55.346772Z",
+  "last_refreshed_at": "2026-05-01T14:37:55.346775Z"
+}

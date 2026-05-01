@@ -1,0 +1,37 @@
+{
+  "slug": "mcp",
+  "name": "mcp",
+  "tagline": "MCP for Commerce Platforms",
+  "category": "customer-support",
+  "tags": [
+    "customer-support-ai",
+    "e-commerce",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "slavpilus",
+    "url": "https://github.com/slavpilus"
+  },
+  "source": {
+    "primary": "github",
+    "github": "slavpilus/mcp",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/spaces/SlavPilus/mpc-for-commerce-platforms"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-10T14:53:33Z",
+    "first_commit_at": "2025-06-02T21:06:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2063,
+  "rank_in_category": 95,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:03.394095Z",
+  "last_refreshed_at": "2026-05-01T14:28:03.394098Z"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "snappy",
+  "name": "snappy",
+  "tagline": "PHP library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoimage",
+  "category": "image-generation",
+  "tags": [
+    "hacktoberfest",
+    "html-to-image",
+    "html-to-pdf",
+    "image-generation",
+    "pdf-generation",
+    "php"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "KnpLabs",
+    "url": "https://github.com/KnpLabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "KnpLabs/snappy",
+    "huggingface": null,
+    "homepage": "https://knplabs.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4469,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-24T13:15:01Z",
+    "first_commit_at": "2010-06-16T13:46:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4745,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:28.336501Z",
+  "last_refreshed_at": "2026-05-01T14:30:28.336505Z"
+}

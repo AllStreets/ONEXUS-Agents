@@ -1,0 +1,44 @@
+{
+  "slug": "buildwithclaude",
+  "name": "buildwithclaude",
+  "tagline": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw",
+  "category": "desktop-os-automation",
+  "tags": [
+    "claude",
+    "claude-code",
+    "claude-code-commands",
+    "claude-skills",
+    "cli-tool",
+    "commands",
+    "mcp",
+    "mcp-server",
+    "mcp-tools",
+    "openclaw"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "davepoon",
+    "url": "https://github.com/davepoon"
+  },
+  "source": {
+    "primary": "github",
+    "github": "davepoon/buildwithclaude",
+    "huggingface": null,
+    "homepage": "https://www.buildwithclaude.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2850,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T23:17:32Z",
+    "first_commit_at": "2025-07-25T03:01:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.378,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:03.853280Z",
+  "last_refreshed_at": "2026-05-01T14:37:03.853283Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "mafis",
+  "name": "mafis",
+  "tagline": "A value-investor's AI research assistant. Local LLMs do the judgment, Python does the math. Every number in every report is traceable to source.",
+  "category": "financial-modeling",
+  "tags": [
+    "financial-ai",
+    "finnhub",
+    "fundamental-analysis",
+    "investment-analysis",
+    "local-llm",
+    "multi-agent",
+    "ollama",
+    "python",
+    "qwen",
+    "reverse-dcf"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ccy5123",
+    "url": "https://github.com/ccy5123"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ccy5123/mafis",
+    "huggingface": null,
+    "homepage": "https://github.com/ccy5123/mafis"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T09:19:51Z",
+    "first_commit_at": "2026-04-22T09:40:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2188,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:25:10.015719Z",
+  "last_refreshed_at": "2026-05-01T14:25:10.015722Z"
+}

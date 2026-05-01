@@ -1,0 +1,38 @@
+{
+  "slug": "aphra",
+  "name": "aphra",
+  "tagline": "An open-source translation agent designed to enhance the quality of text translations by leveraging large language models",
+  "category": "translation",
+  "tags": [
+    "agentic-workflow",
+    "large-language-models",
+    "prompt-engineering",
+    "translation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "DavidLMS",
+    "url": "https://github.com/DavidLMS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DavidLMS/aphra",
+    "huggingface": null,
+    "homepage": "https://davidlms.github.io/aphra/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-28T20:47:49Z",
+    "first_commit_at": "2024-07-16T17:29:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3178,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:53.958949Z",
+  "last_refreshed_at": "2026-05-01T14:33:53.958952Z"
+}

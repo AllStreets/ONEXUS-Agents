@@ -1,0 +1,41 @@
+{
+  "slug": "pinchtab",
+  "name": "pinchtab",
+  "tagline": "High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
+  "category": "browser-automation",
+  "tags": [
+    "browser-automation",
+    "cdp",
+    "golang",
+    "headless-chrome",
+    "orchestrator",
+    "stealth",
+    "web-scraping"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pinchtab",
+    "url": "https://github.com/pinchtab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pinchtab/pinchtab",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8916,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T18:55:00Z",
+    "first_commit_at": "2026-02-15T11:14:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3693,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:26.044149Z",
+  "last_refreshed_at": "2026-05-01T14:35:26.044152Z"
+}

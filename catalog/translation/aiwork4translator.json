@@ -1,0 +1,39 @@
+{
+  "slug": "aiwork4translator",
+  "name": "AIwork4translator",
+  "tagline": "AI-powered translation tool for professionals handling technical documents, long texts, novels, and rulebooks. Optimizes proper noun accuracy with 35% higher recognition rate and 99% token savings vs ",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "long-text-translation",
+    "named-entity-recognition",
+    "nlp",
+    "technical-document-translation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "chaosen315",
+    "url": "https://github.com/chaosen315"
+  },
+  "source": {
+    "primary": "github",
+    "github": "chaosen315/AIwork4translator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-14T09:08:44Z",
+    "first_commit_at": "2025-05-15T16:38:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2649,
+  "rank_in_category": 48,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:35.972199Z",
+  "last_refreshed_at": "2026-05-01T14:33:35.972227Z"
+}

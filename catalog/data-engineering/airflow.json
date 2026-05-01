@@ -1,0 +1,44 @@
+{
+  "slug": "airflow",
+  "name": "airflow",
+  "tagline": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+  "category": "data-engineering",
+  "tags": [
+    "airflow",
+    "apache",
+    "apache-airflow",
+    "automation",
+    "dag",
+    "data-engineering",
+    "data-integration",
+    "data-orchestrator",
+    "data-pipelines",
+    "data-science"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "apache",
+    "url": "https://github.com/apache"
+  },
+  "source": {
+    "primary": "github",
+    "github": "apache/airflow",
+    "huggingface": null,
+    "homepage": "https://airflow.apache.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 45252,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T11:36:50Z",
+    "first_commit_at": "2014-10-06T21:29:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6979,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:26.242367Z",
+  "last_refreshed_at": "2026-05-01T14:23:26.242370Z"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "envoy",
+  "name": "envoy",
+  "tagline": "Send, Schedule and Track emails with Envoy",
+  "category": "email-scheduling",
+  "tags": [
+    "api",
+    "email",
+    "email-scheduling",
+    "email-tracking"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aniketpathak028",
+    "url": "https://github.com/aniketpathak028"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aniketpathak028/envoy",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2024-05-19T12:40:21Z",
+    "first_commit_at": "2024-04-18T19:18:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2263,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:46.203769Z",
+  "last_refreshed_at": "2026-05-01T14:38:46.203773Z"
+}

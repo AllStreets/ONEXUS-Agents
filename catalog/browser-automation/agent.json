@@ -1,0 +1,37 @@
+{
+  "slug": "agent",
+  "name": "agent",
+  "tagline": "state of the art browsing agent (WebArena 72.7%)",
+  "category": "browser-automation",
+  "tags": [
+    "agentic-ai",
+    "agents",
+    "large-language-models"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "trymeka",
+    "url": "https://github.com/trymeka"
+  },
+  "source": {
+    "primary": "github",
+    "github": "trymeka/agent",
+    "huggingface": null,
+    "homepage": "https://withmeka.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 367,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-02T05:41:47Z",
+    "first_commit_at": "2025-07-18T00:39:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2249,
+  "rank_in_category": 89,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:00.628933Z",
+  "last_refreshed_at": "2026-05-01T14:36:00.628936Z"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "magentic-ui",
+  "name": "magentic-ui",
+  "tagline": "A research prototype of a human-centered web agent",
+  "category": "web-dev",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-ux",
+    "autogen",
+    "browser-use",
+    "computer-use-agent",
+    "cua",
+    "ui"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/magentic-ui",
+    "huggingface": null,
+    "homepage": "https://www.microsoft.com/en-us/research/blog/magentic-ui-an-experimental-human-centered-web-agent/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9802,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T17:43:12Z",
+    "first_commit_at": "2024-11-02T01:38:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4938,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:22:56.857890Z",
+  "last_refreshed_at": "2026-05-01T14:22:56.857894Z"
+}

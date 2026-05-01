@@ -1,0 +1,41 @@
+{
+  "slug": "twitcanva-video-workflow",
+  "name": "TwitCanva-Video-Workflow",
+  "tagline": "A next-generation AI-powered infinite canvas workspace built for creators and developers. Experience the future of Generative AI with a drag-and-drop node interface that combines Google Gemini 3 Pro, ",
+  "category": "image-generation",
+  "tags": [
+    "ai-agents",
+    "ai-image-generation",
+    "ai-video-generation",
+    "langgraph-js",
+    "text-to-image-generation",
+    "text-to-video-generation",
+    "video-workflow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SankaiAI",
+    "url": "https://github.com/SankaiAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SankaiAI/TwitCanva-Video-Workflow",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 107,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-24T04:05:56Z",
+    "first_commit_at": "2025-12-09T22:06:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2266,
+  "rank_in_category": 73,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:10.172863Z",
+  "last_refreshed_at": "2026-05-01T14:31:10.172866Z"
+}

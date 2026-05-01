@@ -1,0 +1,40 @@
+{
+  "slug": "crayotter",
+  "name": "Crayotter",
+  "tagline": "🦦 Crayotter: A Multimodal AI-Agent for Video-Editing, Video-Composing, and Video Production. Powered by Multimodal LLMs for autonomous Text-to-Video agentic framework. | 基于多模态大模型 (Multimodal LLMs) 的 A",
+  "category": "video-generation",
+  "tags": [
+    "ai-agent",
+    "mllms",
+    "text-to-video",
+    "video-composing",
+    "video-editing",
+    "video-production"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "idwts",
+    "url": "https://github.com/idwts"
+  },
+  "source": {
+    "primary": "github",
+    "github": "idwts/Crayotter",
+    "huggingface": null,
+    "homepage": "https://idwts.github.io/Crayotter/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 61,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T09:26:00Z",
+    "first_commit_at": "2026-03-22T08:51:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4471,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:19.790103Z",
+  "last_refreshed_at": "2026-05-01T14:32:19.790106Z"
+}

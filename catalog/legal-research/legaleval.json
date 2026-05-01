@@ -1,0 +1,44 @@
+{
+  "slug": "legaleval",
+  "name": "legaleval",
+  "tagline": "LegalEval, high level framework for evaluation of legal LLMs and reasoning capabilities.",
+  "category": "legal-research",
+  "tags": [
+    "benchmarking",
+    "document-analysis",
+    "evaluation",
+    "evaluation-framework",
+    "evaluation-metrics",
+    "generative-ai",
+    "legal",
+    "legal-ai",
+    "legal-evaluation",
+    "legal-metric"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Haiku-Legal",
+    "url": "https://github.com/Haiku-Legal"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Haiku-Legal/legaleval",
+    "huggingface": null,
+    "homepage": "https://haiku.fr/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-24T12:38:46Z",
+    "first_commit_at": "2025-06-15T14:49:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0347,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:05.648738Z",
+  "last_refreshed_at": "2026-05-01T14:27:05.648741Z"
+}

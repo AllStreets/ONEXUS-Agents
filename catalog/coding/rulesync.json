@@ -1,0 +1,41 @@
+{
+  "slug": "rulesync",
+  "name": "rulesync",
+  "tagline": "A Utility CLI for AI Coding Agents",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-coding",
+    "llm",
+    "mcp",
+    "rules",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dyoshikawa",
+    "url": "https://github.com/dyoshikawa"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dyoshikawa/rulesync",
+    "huggingface": null,
+    "homepage": "http://rulesync.dyoshikawa.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1059,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T05:39:56Z",
+    "first_commit_at": "2025-06-18T13:17:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2663,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:51.106864Z",
+  "last_refreshed_at": "2026-05-01T14:20:51.106868Z"
+}

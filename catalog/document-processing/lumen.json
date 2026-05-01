@@ -1,0 +1,36 @@
+{
+  "slug": "lumen",
+  "name": "lumen",
+  "tagline": "Lumen is the user-facing web application. It provides document management, upload flows, and a chat interface for interacting with documents, presenting AI responses with clear context and citations",
+  "category": "document-processing",
+  "tags": [
+    "ai-document-processing",
+    "nextjs"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "cahtarevic-ermin",
+    "url": "https://github.com/cahtarevic-ermin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cahtarevic-ermin/lumen",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-02T11:05:32Z",
+    "first_commit_at": "2025-11-29T21:35:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2425,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:18.523474Z",
+  "last_refreshed_at": "2026-05-01T14:38:18.523478Z"
+}

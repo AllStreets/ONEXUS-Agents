@@ -1,0 +1,40 @@
+{
+  "slug": "ko-browser",
+  "name": "ko-browser",
+  "tagline": "A simple, fast, token-efficient browser for AI agents",
+  "category": "browser-automation",
+  "tags": [
+    "agent",
+    "agent-browser",
+    "ai-browser-automation",
+    "ai-browser-control",
+    "browser",
+    "browser-use-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "libi",
+    "url": "https://github.com/libi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "libi/ko-browser",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T11:04:28Z",
+    "first_commit_at": "2026-04-01T13:58:56Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2635,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:45.778999Z",
+  "last_refreshed_at": "2026-05-01T14:35:45.779002Z"
+}

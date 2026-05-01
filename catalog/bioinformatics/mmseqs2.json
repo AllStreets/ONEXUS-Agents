@@ -1,0 +1,44 @@
+{
+  "slug": "mmseqs2",
+  "name": "MMseqs2",
+  "tagline": "MMseqs2: ultra fast and sensitive search and clustering suite",
+  "category": "bioinformatics",
+  "tags": [
+    "alignment",
+    "bioinformatics",
+    "blast",
+    "linclust",
+    "metagenomics",
+    "mmseqs",
+    "profile-search",
+    "sequence-clustering",
+    "sequence-search",
+    "taxonomy"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "soedinglab",
+    "url": "https://github.com/soedinglab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "soedinglab/MMseqs2",
+    "huggingface": null,
+    "homepage": "https://mmseqs.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2041,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T06:20:58Z",
+    "first_commit_at": "2012-12-17T09:07:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4544,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:13.531279Z",
+  "last_refreshed_at": "2026-05-01T14:40:13.531283Z"
+}

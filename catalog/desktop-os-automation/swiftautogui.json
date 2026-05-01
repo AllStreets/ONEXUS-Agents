@@ -1,0 +1,41 @@
+{
+  "slug": "swiftautogui",
+  "name": "SwiftAutoGUI",
+  "tagline": "A Swift library for macOS automation — mouse, keyboard, screenshots, image recognition, and AI-powered agents.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai-agents",
+    "automation",
+    "computer-use-agent",
+    "desktop-automation",
+    "gui",
+    "macos",
+    "swift"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "NakaokaRei",
+    "url": "https://github.com/NakaokaRei"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NakaokaRei/SwiftAutoGUI",
+    "huggingface": null,
+    "homepage": "https://nakaokarei.github.io/SwiftAutoGUI/documentation/swiftautogui"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 85,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-19T09:59:38Z",
+    "first_commit_at": "2023-01-14T18:37:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3398,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:32.373190Z",
+  "last_refreshed_at": "2026-05-01T14:36:32.373193Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "documind-ai-copilot",
+  "name": "documind-ai-copilot",
+  "tagline": "AI customer support copilot that uses FastAPI, hybrid RAG, advanced reranking, long‑term memory, and rigorous evaluation to deliver fast, reliable, citation‑backed answers at scale.",
+  "category": "customer-support",
+  "tags": [
+    "ai-copilot",
+    "bm25",
+    "customer-support-ai",
+    "faiss",
+    "fastapi",
+    "llm",
+    "python",
+    "rag",
+    "reranking",
+    "semantic-search"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Yashsh101",
+    "url": "https://github.com/Yashsh101"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Yashsh101/documind-ai-copilot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-04T16:51:25Z",
+    "first_commit_at": "2026-03-27T11:08:01Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3222,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:08.551688Z",
+  "last_refreshed_at": "2026-05-01T14:28:08.551691Z"
+}

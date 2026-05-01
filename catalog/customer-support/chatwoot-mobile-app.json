@@ -1,0 +1,40 @@
+{
+  "slug": "chatwoot-mobile-app",
+  "name": "chatwoot-mobile-app",
+  "tagline": "Mobile app for Chatwoot - React Native",
+  "category": "customer-support",
+  "tags": [
+    "android",
+    "chatwoot",
+    "conversations",
+    "customer-support",
+    "ios",
+    "react-native"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "chatwoot",
+    "url": "https://github.com/chatwoot"
+  },
+  "source": {
+    "primary": "github",
+    "github": "chatwoot/chatwoot-mobile-app",
+    "huggingface": null,
+    "homepage": "https://www.chatwoot.com/mobile-apps"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 896,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T11:14:49Z",
+    "first_commit_at": "2019-11-25T18:21:16Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5854,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:36.317477Z",
+  "last_refreshed_at": "2026-05-01T14:27:36.317480Z"
+}

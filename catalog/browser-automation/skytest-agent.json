@@ -1,0 +1,33 @@
+{
+  "slug": "skytest-agent",
+  "name": "skytest-agent",
+  "tagline": "AI-powered web automation agent for natural language testing. Built with Next.js 16, Midscene.js, and Playwright. Describe steps, automate interactions.",
+  "category": "browser-automation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "oursky",
+    "url": "https://github.com/oursky"
+  },
+  "source": {
+    "primary": "github",
+    "github": "oursky/skytest-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 26,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-24T10:09:46Z",
+    "first_commit_at": "2025-11-19T16:04:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.282,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:17.315001Z",
+  "last_refreshed_at": "2026-05-01T14:36:17.315005Z"
+}

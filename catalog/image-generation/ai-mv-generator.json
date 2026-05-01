@@ -1,0 +1,40 @@
+{
+  "slug": "ai-mv-generator",
+  "name": "ai-mv-generator",
+  "tagline": "A multi-agent system designed for generating music videos with scrolling subtitles based on lyrics. This project analyzes the lyrics and creates detailed prompts based on the analysis results to gener",
+  "category": "image-generation",
+  "tags": [
+    "ai-image-generation",
+    "multi-agent-systems",
+    "openai-api",
+    "prompt-engineering",
+    "scrolling-text",
+    "video-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tanbryan",
+    "url": "https://github.com/tanbryan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tanbryan/ai-mv-generator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 105,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-27T18:57:04Z",
+    "first_commit_at": "2024-07-26T14:32:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1723,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:10.967676Z",
+  "last_refreshed_at": "2026-05-01T14:31:10.967679Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "osu-macos-agent",
+  "name": "osu-macOS-Agent",
+  "tagline": "osu!macOS Agent - An auxiliary troubleshooting tool for osu!",
+  "category": "desktop-os-automation",
+  "tags": [
+    "macos",
+    "osu",
+    "tool",
+    "troubleshooting",
+    "wine"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Techno-coder",
+    "url": "https://github.com/Techno-coder"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Techno-coder/osu-macOS-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 50,
+    "downloads_30d": null,
+    "last_commit_at": "2021-09-27T09:29:40Z",
+    "first_commit_at": "2020-03-16T09:53:48Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2037,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:18.154396Z",
+  "last_refreshed_at": "2026-05-01T14:37:18.154400Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "pdf-reader-mcp",
+  "name": "pdf-reader-mcp",
+  "tagline": "📄 Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%+ test coverage",
+  "category": "document-processing",
+  "tags": [
+    "ai-agent",
+    "ai-tools",
+    "document-processing",
+    "llm-tool",
+    "mcp",
+    "model-content-protocol",
+    "model-context-protocol",
+    "nodejs",
+    "parallel-processing",
+    "pdf"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SylphxAI",
+    "url": "https://github.com/SylphxAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SylphxAI/pdf-reader-mcp",
+    "huggingface": null,
+    "homepage": "https://sylphx.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 677,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-20T07:21:59Z",
+    "first_commit_at": "2025-04-04T01:46:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5448,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:56.796226Z",
+  "last_refreshed_at": "2026-05-01T14:37:56.796229Z"
+}

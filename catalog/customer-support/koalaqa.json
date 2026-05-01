@@ -1,0 +1,43 @@
+{
+  "slug": "koalaqa",
+  "name": "KoalaQA",
+  "tagline": "KoalaQA 是一款 AI 大模型驱动的开源售后服务社区，提供 AI 回答、AI 搜索、AI 运营等能力，帮助你快速落地售后客服、社区问答、自助服务等场景，帮助团队显著降低人工运营成本、提升客户满意度与响应效率，助力实现 ZCR（Zero Contact Resolution）目标。",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "community",
+    "customer-support",
+    "faq",
+    "forum",
+    "knowledgebase",
+    "question-answering",
+    "rag",
+    "support"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "chaitin",
+    "url": "https://github.com/chaitin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "chaitin/KoalaQA",
+    "huggingface": null,
+    "homepage": "https://koalaqa.docs.baizhi.cloud/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 497,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T11:13:45Z",
+    "first_commit_at": "2025-09-10T01:56:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5272,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:37.939426Z",
+  "last_refreshed_at": "2026-05-01T14:27:37.939429Z"
+}

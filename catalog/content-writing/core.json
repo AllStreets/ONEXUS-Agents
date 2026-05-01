@@ -1,0 +1,33 @@
+{
+  "slug": "core",
+  "name": "core",
+  "tagline": "A lightweight node.js framework to facilitate writing agents (or 'bots') for Starcraft II in JavaScript.",
+  "category": "content-writing",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "node-sc2",
+    "url": "https://github.com/node-sc2"
+  },
+  "source": {
+    "primary": "github",
+    "github": "node-sc2/core",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 47,
+    "downloads_30d": null,
+    "last_commit_at": "2023-04-16T12:28:56Z",
+    "first_commit_at": "2018-12-04T00:09:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3153,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:29:34.307537Z",
+  "last_refreshed_at": "2026-05-01T14:29:34.307540Z"
+}

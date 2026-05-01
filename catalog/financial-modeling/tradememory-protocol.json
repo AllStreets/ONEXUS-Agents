@@ -1,0 +1,44 @@
+{
+  "slug": "tradememory-protocol",
+  "name": "tradememory-protocol",
+  "tagline": "Decision audit trail + persistent memory for AI trading agents. Outcome-weighted recall, SHA-256 tamper detection, 17 MCP tools.",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-agents",
+    "claude",
+    "crypto",
+    "evolution-engine",
+    "forex",
+    "mcp",
+    "mcp-server",
+    "memory",
+    "mt5",
+    "outcome-weighted-memory"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mnemox-ai",
+    "url": "https://github.com/mnemox-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mnemox-ai/tradememory-protocol",
+    "huggingface": null,
+    "homepage": "https://mnemox.ai/tradememory/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 756,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-10T15:50:42Z",
+    "first_commit_at": "2026-02-23T10:31:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3607,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:25:56.899196Z",
+  "last_refreshed_at": "2026-05-01T14:25:56.899200Z"
+}

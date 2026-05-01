@@ -1,0 +1,41 @@
+{
+  "slug": "zotero-pdf-translate",
+  "name": "zotero-pdf-translate",
+  "tagline": "Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.",
+  "category": "translation",
+  "tags": [
+    "pdf",
+    "plugin",
+    "translate",
+    "translation",
+    "zotero",
+    "zotero-plugin",
+    "zotero7"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "windingwind",
+    "url": "https://github.com/windingwind"
+  },
+  "source": {
+    "primary": "github",
+    "github": "windingwind/zotero-pdf-translate",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 10760,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T10:33:44Z",
+    "first_commit_at": "2022-03-09T08:41:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.52,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:13.156448Z",
+  "last_refreshed_at": "2026-05-01T14:33:13.156451Z"
+}

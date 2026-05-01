@@ -1,0 +1,44 @@
+{
+  "slug": "argo-workflows",
+  "name": "argo-workflows",
+  "tagline": "Workflow Engine for Kubernetes",
+  "category": "data-engineering",
+  "tags": [
+    "airflow",
+    "argo",
+    "argo-workflows",
+    "batch-processing",
+    "cloud-native",
+    "cncf",
+    "dag",
+    "data-engineering",
+    "gitops",
+    "hacktoberfest"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "argoproj",
+    "url": "https://github.com/argoproj"
+  },
+  "source": {
+    "primary": "github",
+    "github": "argoproj/argo-workflows",
+    "huggingface": null,
+    "homepage": "https://argo-workflows.readthedocs.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 16654,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T05:40:15Z",
+    "first_commit_at": "2017-10-17T21:53:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6725,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:29.327994Z",
+  "last_refreshed_at": "2026-05-01T14:23:29.327996Z"
+}

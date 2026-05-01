@@ -1,0 +1,44 @@
+{
+  "slug": "comfyui-wan-vace-prep",
+  "name": "ComfyUI-Wan-VACE-Prep",
+  "tagline": "ComfyUI nodes designed to help make common video editing tasks with Wan VACE less complicated. Smooth transitions, extensions, outpainting.",
+  "category": "image-generation",
+  "tags": [
+    "ai-video",
+    "comfyui",
+    "comfyui-custom-node",
+    "comfyui-workflow",
+    "vace",
+    "video-editing",
+    "video-generation",
+    "video-processing",
+    "video-transitions",
+    "wan-video"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "stuttlepress",
+    "url": "https://github.com/stuttlepress"
+  },
+  "source": {
+    "primary": "github",
+    "github": "stuttlepress/ComfyUI-Wan-VACE-Prep",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 81,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-24T23:42:56Z",
+    "first_commit_at": "2026-01-03T23:55:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3229,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:02.770570Z",
+  "last_refreshed_at": "2026-05-01T14:30:02.770573Z"
+}

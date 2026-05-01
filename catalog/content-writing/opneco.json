@@ -1,0 +1,40 @@
+{
+  "slug": "opneco",
+  "name": "OpnEco",
+  "tagline": "OpnEco is a Python3 project developed to aid content writers throughout the content writing process. By content writers, for content writers.",
+  "category": "content-writing",
+  "tags": [
+    "analytics",
+    "content-writing",
+    "django",
+    "emotion-detection",
+    "keyword-extraction",
+    "python3"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "anuran-roy",
+    "url": "https://github.com/anuran-roy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "anuran-roy/OpnEco",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MPL-2.0",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2023-02-15T20:13:18Z",
+    "first_commit_at": "2021-07-07T14:39:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2932,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:29:05.097360Z",
+  "last_refreshed_at": "2026-05-01T14:29:05.097364Z"
+}

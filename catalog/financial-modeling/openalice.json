@@ -1,0 +1,33 @@
+{
+  "slug": "openalice",
+  "name": "OpenAlice",
+  "tagline": "Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit.",
+  "category": "financial-modeling",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "TraderAlice",
+    "url": "https://github.com/TraderAlice"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TraderAlice/OpenAlice",
+    "huggingface": null,
+    "homepage": "https://openalice.ai/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 3811,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T07:08:12Z",
+    "first_commit_at": "2026-02-19T06:52:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4324,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:25:53.099420Z",
+  "last_refreshed_at": "2026-05-01T14:25:53.099423Z"
+}

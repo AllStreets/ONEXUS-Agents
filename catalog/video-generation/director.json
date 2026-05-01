@@ -1,0 +1,44 @@
+{
+  "slug": "director",
+  "name": "Director",
+  "tagline": "AI video agents framework for next-gen video interactions and workflows.",
+  "category": "video-generation",
+  "tags": [
+    "agent",
+    "agent-framework",
+    "ai-agents",
+    "framework",
+    "llm",
+    "openai",
+    "rag",
+    "search",
+    "text-to-video",
+    "video-editing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "video-db",
+    "url": "https://github.com/video-db"
+  },
+  "source": {
+    "primary": "github",
+    "github": "video-db/Director",
+    "huggingface": null,
+    "homepage": "https://chat.videodb.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1372,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-23T15:34:16Z",
+    "first_commit_at": "2024-10-15T05:50:25Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4884,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:11.051372Z",
+  "last_refreshed_at": "2026-05-01T14:32:11.051375Z"
+}

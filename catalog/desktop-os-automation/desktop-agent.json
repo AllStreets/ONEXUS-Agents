@@ -1,0 +1,42 @@
+{
+  "slug": "desktop-agent",
+  "name": "desktop-agent",
+  "tagline": "Zenno Windows desktop agent for activity tracking, context detection, and nudges.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "activity-tracking",
+    "desktop-agent",
+    "productivity",
+    "python",
+    "sckit-learn",
+    "sqlite",
+    "windows",
+    "xgboost"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Zenno-FYP",
+    "url": "https://github.com/Zenno-FYP"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Zenno-FYP/desktop-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T15:53:58Z",
+    "first_commit_at": "2026-02-03T18:20:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2349,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:56.752944Z",
+  "last_refreshed_at": "2026-05-01T14:36:56.752948Z"
+}

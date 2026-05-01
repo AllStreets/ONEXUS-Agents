@@ -1,0 +1,44 @@
+{
+  "slug": "diffusers",
+  "name": "diffusers",
+  "tagline": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+  "category": "image-generation",
+  "tags": [
+    "deep-learning",
+    "diffusion",
+    "flux",
+    "image-generation",
+    "image2image",
+    "image2video",
+    "latent-diffusion-models",
+    "pytorch",
+    "qwen-image",
+    "score-based-generative-modeling"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "huggingface",
+    "url": "https://github.com/huggingface"
+  },
+  "source": {
+    "primary": "github",
+    "github": "huggingface/diffusers",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/docs/diffusers"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 33513,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T12:11:31Z",
+    "first_commit_at": "2022-05-30T16:07:33Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.533,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:10.630865Z",
+  "last_refreshed_at": "2026-05-01T14:30:10.630868Z"
+}

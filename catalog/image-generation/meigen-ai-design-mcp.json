@@ -1,0 +1,44 @@
+{
+  "slug": "meigen-ai-design-mcp",
+  "name": "MeiGen-AI-Design-MCP",
+  "tagline": "Supports GPT Image 2, Nanobanana & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system",
+  "category": "image-generation",
+  "tags": [
+    "ai-image-generation",
+    "claude",
+    "claude-code",
+    "comfyui",
+    "lovart",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "openclaw",
+    "prompt-engineering"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jau123",
+    "url": "https://github.com/jau123"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jau123/MeiGen-AI-Design-MCP",
+    "huggingface": null,
+    "homepage": "https://meigen.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 900,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T16:24:15Z",
+    "first_commit_at": "2026-02-07T12:41:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3851,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:00.187333Z",
+  "last_refreshed_at": "2026-05-01T14:31:00.187336Z"
+}

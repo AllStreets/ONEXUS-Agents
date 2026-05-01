@@ -1,0 +1,42 @@
+{
+  "slug": "one-search-mcp",
+  "name": "one-search-mcp",
+  "tagline": "🚀 OneSearch MCP Server: Web Search & Scraper & Extract,  Support agent-browser, SearXNG, Tavily, DuckDuckGo, Bing, etc.",
+  "category": "customer-support",
+  "tags": [
+    "agent-browser",
+    "bing-mcp",
+    "duckduckgo-mcp",
+    "google-search-mcp",
+    "mcp-server",
+    "modelcontextprotocol",
+    "searxng-mcp",
+    "tavily-mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yokingma",
+    "url": "https://github.com/yokingma"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yokingma/one-search-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 109,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T03:24:34Z",
+    "first_commit_at": "2025-03-17T08:50:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4855,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:41.657986Z",
+  "last_refreshed_at": "2026-05-01T14:28:41.657990Z"
+}

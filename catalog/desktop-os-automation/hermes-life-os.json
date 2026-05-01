@@ -1,0 +1,43 @@
+{
+  "slug": "hermes-life-os",
+  "name": "hermes-life-os",
+  "tagline": "Personal OS agent that learns who you are, detects life patterns, and grows smarter about you every day. Memory + Cron + Atropos RL",
+  "category": "desktop-os-automation",
+  "tags": [
+    "atropos",
+    "autonomous-agent",
+    "autonomous-agents",
+    "hermes-agent",
+    "life-assistant",
+    "memory",
+    "nous-research",
+    "personal-os",
+    "self-evolving"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Lethe044",
+    "url": "https://github.com/Lethe044"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Lethe044/hermes-life-os",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 67,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-15T18:52:20Z",
+    "first_commit_at": "2026-03-14T22:39:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2593,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:15.666677Z",
+  "last_refreshed_at": "2026-05-01T14:37:15.666680Z"
+}

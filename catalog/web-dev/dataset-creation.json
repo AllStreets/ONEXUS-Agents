@@ -1,0 +1,40 @@
+{
+  "slug": "dataset-creation",
+  "name": "dataset_creation",
+  "tagline": "Python scripts for generating and categorizing web browsing tasks for benchmark datasets",
+  "category": "web-dev",
+  "tags": [
+    "benchmark",
+    "browser-use-agent",
+    "computer-use-agent",
+    "dataset-generation",
+    "evaluation",
+    "web-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "anaishowland",
+    "url": "https://github.com/anaishowland"
+  },
+  "source": {
+    "primary": "github",
+    "github": "anaishowland/dataset_creation",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-15T04:04:17Z",
+    "first_commit_at": "2025-10-15T04:04:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0962,
+  "rank_in_category": 129,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:22:00.649539Z",
+  "last_refreshed_at": "2026-05-01T14:22:00.649542Z"
+}

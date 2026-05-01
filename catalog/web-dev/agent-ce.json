@@ -1,0 +1,44 @@
+{
+  "slug": "agent-ce",
+  "name": "agent-CE",
+  "tagline": "Agent-CE is a containerized continuous evaluation (CE) platform for web browsing agents. It provides production-ready Docker images and CI/CD pipelines for running and evaluating multiple agent framew",
+  "category": "web-dev",
+  "tags": [
+    "browser-agent",
+    "browser-use",
+    "ci-cd",
+    "computer-use",
+    "computer-vision",
+    "continuous-evaluation",
+    "cua",
+    "evaluation",
+    "evaluation-framework",
+    "evaluation-metrics"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "anaishowland",
+    "url": "https://github.com/anaishowland"
+  },
+  "source": {
+    "primary": "github",
+    "github": "anaishowland/agent-CE",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-29T09:38:01Z",
+    "first_commit_at": "2025-10-28T17:25:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1082,
+  "rank_in_category": 125,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:58.364361Z",
+  "last_refreshed_at": "2026-05-01T14:21:58.364364Z"
+}

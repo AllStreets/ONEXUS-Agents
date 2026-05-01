@@ -1,0 +1,44 @@
+{
+  "slug": "espocrm",
+  "name": "espocrm",
+  "tagline": "EspoCRM – Open Source CRM Application",
+  "category": "customer-support",
+  "tags": [
+    "calendar",
+    "contacts",
+    "crm",
+    "crm-platform",
+    "crm-system",
+    "customer-portal",
+    "customer-support",
+    "customizable",
+    "documents",
+    "email-marketing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "espocrm",
+    "url": "https://github.com/espocrm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "espocrm/espocrm",
+    "huggingface": null,
+    "homepage": "https://www.espocrm.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 2916,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T12:39:37Z",
+    "first_commit_at": "2013-11-01T11:49:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6184,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:28.985170Z",
+  "last_refreshed_at": "2026-05-01T14:27:28.985173Z"
+}

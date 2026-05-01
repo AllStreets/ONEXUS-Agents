@@ -1,0 +1,42 @@
+{
+  "slug": "data-engineering-zoomcamp",
+  "name": "data-engineering-zoomcamp",
+  "tagline": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
+  "category": "data-engineering",
+  "tags": [
+    "course",
+    "data-engineering",
+    "dbt",
+    "docker",
+    "free",
+    "kafka",
+    "kestra",
+    "spark"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "DataTalksClub",
+    "url": "https://github.com/DataTalksClub"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DataTalksClub/data-engineering-zoomcamp",
+    "huggingface": null,
+    "homepage": "https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 40529,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-20T06:13:49Z",
+    "first_commit_at": "2021-10-21T09:32:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.677,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:26.997884Z",
+  "last_refreshed_at": "2026-05-01T14:23:26.997887Z"
+}

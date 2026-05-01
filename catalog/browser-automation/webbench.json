@@ -1,0 +1,33 @@
+{
+  "slug": "webbench",
+  "name": "WebBench",
+  "tagline": "📚 Benchmark your browser agent on ~2.5k READ and ACTION based tasks ",
+  "category": "browser-automation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "Halluminate",
+    "url": "https://github.com/Halluminate"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Halluminate/WebBench",
+    "huggingface": null,
+    "homepage": "https://webbench.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 97,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-29T16:11:11Z",
+    "first_commit_at": "2025-05-18T23:52:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1985,
+  "rank_in_category": 108,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:06.276978Z",
+  "last_refreshed_at": "2026-05-01T14:36:06.276981Z"
+}

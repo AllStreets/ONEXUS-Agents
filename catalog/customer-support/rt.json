@@ -1,0 +1,44 @@
+{
+  "slug": "rt",
+  "name": "rt",
+  "tagline": "Request Tracker, an enterprise-grade issue tracking system",
+  "category": "customer-support",
+  "tags": [
+    "asset-management",
+    "bug-tracker",
+    "customer-support",
+    "helpdesk",
+    "helpdesk-ticketing",
+    "issue-management",
+    "issue-tracker",
+    "issue-tracking-system",
+    "perl",
+    "project-management"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "bestpractical",
+    "url": "https://github.com/bestpractical"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bestpractical/rt",
+    "huggingface": null,
+    "homepage": "https://bestpractical.com/rt"
+  },
+  "license": "GPL-2.0",
+  "metrics": {
+    "stars": 1111,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:42:04Z",
+    "first_commit_at": "1997-12-08T20:54:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5957,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:34.599373Z",
+  "last_refreshed_at": "2026-05-01T14:27:34.599376Z"
+}

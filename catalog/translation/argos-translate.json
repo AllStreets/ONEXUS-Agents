@@ -1,0 +1,42 @@
+{
+  "slug": "argos-translate",
+  "name": "argos-translate",
+  "tagline": "Open-source offline translation library written in Python",
+  "category": "translation",
+  "tags": [
+    "language-models",
+    "linux",
+    "machine-translation",
+    "nlp",
+    "open-source",
+    "python",
+    "transformers",
+    "translation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "argosopentech",
+    "url": "https://github.com/argosopentech"
+  },
+  "source": {
+    "primary": "github",
+    "github": "argosopentech/argos-translate",
+    "huggingface": null,
+    "homepage": "https://www.argosopentech.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5919,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T16:51:37Z",
+    "first_commit_at": "2020-04-07T16:22:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5109,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:23.800172Z",
+  "last_refreshed_at": "2026-05-01T14:33:23.800176Z"
+}

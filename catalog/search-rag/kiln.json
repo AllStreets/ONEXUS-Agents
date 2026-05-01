@@ -1,0 +1,44 @@
+{
+  "slug": "kiln",
+  "name": "Kiln",
+  "tagline": "Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.",
+  "category": "search-rag",
+  "tags": [
+    "ai",
+    "chain-of-thought",
+    "collaboration",
+    "dataset-generation",
+    "evals",
+    "evaluation",
+    "evaluation-framework",
+    "fine-tuning",
+    "machine-learning",
+    "macos"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Kiln-AI",
+    "url": "https://github.com/Kiln-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Kiln-AI/Kiln",
+    "huggingface": null,
+    "homepage": "https://kiln.tech/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4784,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T09:30:36Z",
+    "first_commit_at": "2024-08-02T23:33:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.631,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:34:15.574647Z",
+  "last_refreshed_at": "2026-05-01T14:34:15.574650Z"
+}

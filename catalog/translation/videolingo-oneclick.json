@@ -1,0 +1,41 @@
+{
+  "slug": "videolingo-oneclick",
+  "name": "VideoLingo-OneClick",
+  "tagline": "VideoLingo+cosyvoice批量全自动视频翻译分角色配音加字幕软件，免安装一键启动整合包",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "dubbing",
+    "localization",
+    "python",
+    "video-translation",
+    "videolingo",
+    "voice-cloning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aidayang",
+    "url": "https://github.com/aidayang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aidayang/VideoLingo-OneClick",
+    "huggingface": null,
+    "homepage": "https://nuowa.net/1697"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 78,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T12:46:09Z",
+    "first_commit_at": "2025-02-20T01:44:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3533,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:33.527771Z",
+  "last_refreshed_at": "2026-05-01T14:33:33.527774Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "pdfmathtranslate",
+  "name": "PDFMathTranslate",
+  "tagline": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+  "category": "translation",
+  "tags": [
+    "chinese",
+    "document",
+    "edit",
+    "english",
+    "japanese",
+    "korean",
+    "latex",
+    "math",
+    "mcp",
+    "modify"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "PDFMathTranslate",
+    "url": "https://github.com/PDFMathTranslate"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PDFMathTranslate/PDFMathTranslate",
+    "huggingface": null,
+    "homepage": "https://pdf2zh.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 33445,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-20T15:08:23Z",
+    "first_commit_at": "2024-09-06T06:56:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5366,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:05.134119Z",
+  "last_refreshed_at": "2026-05-01T14:33:05.134123Z"
+}

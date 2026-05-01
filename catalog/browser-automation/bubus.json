@@ -1,0 +1,44 @@
+{
+  "slug": "bubus",
+  "name": "bubus",
+  "tagline": "📢 Production-ready python event bus library with support for async and sync handlers, forwarding betwen busses w/ parent event tracking + loop prevention,  FIFO and concurrency options, and WAL persis",
+  "category": "browser-automation",
+  "tags": [
+    "async",
+    "asyncio",
+    "browser-use",
+    "concurrency",
+    "event-driven",
+    "event-driven-architecture",
+    "event-sourcing",
+    "eventbus",
+    "events",
+    "eventstore"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "browser-use",
+    "url": "https://github.com/browser-use"
+  },
+  "source": {
+    "primary": "github",
+    "github": "browser-use/bubus",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/bubus/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 104,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-22T02:11:00Z",
+    "first_commit_at": "2025-06-18T06:24:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2633,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:18.973137Z",
+  "last_refreshed_at": "2026-05-01T14:35:18.973140Z"
+}

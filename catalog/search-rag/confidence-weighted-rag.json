@@ -1,0 +1,33 @@
+{
+  "slug": "confidence-weighted-rag",
+  "name": "confidence-weighted-rag",
+  "tagline": "Confidence-Weighted Multi-Agent Retrieval-Augmented Generation (CW-MARAG) — a contradiction-aware RAG system that uses multiple retrieval agents with confidence-based arbitration to generate grounded,",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "Alexrohith",
+    "url": "https://github.com/Alexrohith"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Alexrohith/confidence-weighted-rag",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 45,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-26T13:33:41Z",
+    "first_commit_at": "2025-12-26T13:19:25Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3299,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:34:40.020276Z",
+  "last_refreshed_at": "2026-05-01T14:34:40.020279Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "xonsh",
+  "name": "xonsh",
+  "tagline": "🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.",
+  "category": "data-engineering",
+  "tags": [
+    "alacritty",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "cmux",
+    "data-engineering",
+    "data-scientists",
+    "devops",
+    "devsecops",
+    "hyper"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "xonsh",
+    "url": "https://github.com/xonsh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xonsh/xonsh",
+    "huggingface": null,
+    "homepage": "http://xon.sh/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 9310,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T20:47:58Z",
+    "first_commit_at": "2015-01-21T22:04:13Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6573,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:32.567759Z",
+  "last_refreshed_at": "2026-05-01T14:23:32.567762Z"
+}

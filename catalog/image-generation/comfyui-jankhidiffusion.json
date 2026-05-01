@@ -1,0 +1,42 @@
+{
+  "slug": "comfyui-jankhidiffusion",
+  "name": "comfyui_jankhidiffusion",
+  "tagline": "Janky implementation of HiDiffusion for ComfyUI",
+  "category": "image-generation",
+  "tags": [
+    "ai",
+    "ai-image-generation",
+    "comfyui",
+    "comfyui-nodes",
+    "diffusion",
+    "highresolution",
+    "image-generation",
+    "stable-diffusion"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "blepping",
+    "url": "https://github.com/blepping"
+  },
+  "source": {
+    "primary": "github",
+    "github": "blepping/comfyui_jankhidiffusion",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 127,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-06T10:34:03Z",
+    "first_commit_at": "2024-04-27T07:42:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1968,
+  "rank_in_category": 84,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:08.296555Z",
+  "last_refreshed_at": "2026-05-01T14:31:08.296558Z"
+}

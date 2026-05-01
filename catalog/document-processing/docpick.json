@@ -1,0 +1,41 @@
+{
+  "slug": "docpick",
+  "name": "docpick",
+  "tagline": "Lightweight OCR + Local LLM → Schema-based Structured JSON Extraction",
+  "category": "document-processing",
+  "tags": [
+    "document-extraction",
+    "json",
+    "llm",
+    "mcp",
+    "ocr",
+    "python",
+    "structured-data"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ArkNill",
+    "url": "https://github.com/ArkNill"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ArkNill/docpick",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/docpick/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T01:59:49Z",
+    "first_commit_at": "2026-03-16T05:24:48Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3557,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:46.631487Z",
+  "last_refreshed_at": "2026-05-01T14:37:46.631490Z"
+}

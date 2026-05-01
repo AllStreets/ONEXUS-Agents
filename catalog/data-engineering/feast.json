@@ -1,0 +1,44 @@
+{
+  "slug": "feast",
+  "name": "feast",
+  "tagline": "The Open Source Feature Store for AI/ML",
+  "category": "data-engineering",
+  "tags": [
+    "big-data",
+    "data-engineering",
+    "data-quality",
+    "data-science",
+    "feature-store",
+    "features",
+    "machine-learning",
+    "ml",
+    "mlops",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "feast-dev",
+    "url": "https://github.com/feast-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "feast-dev/feast",
+    "huggingface": null,
+    "homepage": "https://feast.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6994,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T14:21:23Z",
+    "first_commit_at": "2018-12-10T08:58:14Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6514,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:37.513153Z",
+  "last_refreshed_at": "2026-05-01T14:23:37.513156Z"
+}

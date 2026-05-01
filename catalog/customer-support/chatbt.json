@@ -1,0 +1,40 @@
+{
+  "slug": "chatbt",
+  "name": "chatbt",
+  "tagline": "ChatBT - Custom AI Chatbot to help you with customer service and automating support",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "chatbot",
+    "custom-ai-chatbot",
+    "customer-service-chatbot",
+    "customer-support-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "boreys",
+    "url": "https://github.com/boreys"
+  },
+  "source": {
+    "primary": "github",
+    "github": "boreys/chatbt",
+    "huggingface": null,
+    "homepage": "https://chatbt.net/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-27T08:19:32Z",
+    "first_commit_at": "2025-03-06T05:26:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3481,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:09.393266Z",
+  "last_refreshed_at": "2026-05-01T14:28:09.393269Z"
+}

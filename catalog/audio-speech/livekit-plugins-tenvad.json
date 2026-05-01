@@ -1,0 +1,43 @@
+{
+  "slug": "livekit-plugins-tenvad",
+  "name": "livekit-plugins-tenvad",
+  "tagline": "TEN VAD low-latency voice activity detection for real-time streaming, integrated with livekit-agents",
+  "category": "audio-speech",
+  "tags": [
+    "livekit",
+    "livekit-agents",
+    "livekit-agents-framework",
+    "livekit-plugins",
+    "realtime-audio",
+    "vad",
+    "voice",
+    "voice-activity-detection",
+    "voice-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dangvansam",
+    "url": "https://github.com/dangvansam"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dangvansam/livekit-plugins-tenvad",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/livekit-plugins-tenvad"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 24,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-13T17:44:22Z",
+    "first_commit_at": "2025-08-26T07:39:18Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2314,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:52.331256Z",
+  "last_refreshed_at": "2026-05-01T14:32:52.331260Z"
+}

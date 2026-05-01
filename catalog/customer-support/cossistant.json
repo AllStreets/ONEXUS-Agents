@@ -1,0 +1,40 @@
+{
+  "slug": "cossistant",
+  "name": "cossistant",
+  "tagline": "Open-source, customer support platform with fully customizable AI support agents for developers / startups shipping SaaS.",
+  "category": "customer-support",
+  "tags": [
+    "agent",
+    "ai",
+    "aiagent",
+    "nextjs",
+    "react",
+    "support"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "cossistantcom",
+    "url": "https://github.com/cossistantcom"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cossistantcom/cossistant",
+    "huggingface": null,
+    "homepage": "https://cossistant.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 650,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T17:20:36Z",
+    "first_commit_at": "2025-05-17T13:41:29Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5434,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:36.906625Z",
+  "last_refreshed_at": "2026-05-01T14:28:36.906628Z"
+}

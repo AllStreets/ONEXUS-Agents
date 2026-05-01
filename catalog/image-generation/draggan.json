@@ -1,0 +1,39 @@
+{
+  "slug": "draggan",
+  "name": "DragGAN",
+  "tagline": "Unofficial Implementation of DragGAN - \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）",
+  "category": "image-generation",
+  "tags": [
+    "draggan",
+    "gradio-interface",
+    "image-editing",
+    "image-generation",
+    "interngpt"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OpenGVLab",
+    "url": "https://github.com/OpenGVLab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OpenGVLab/DragGAN",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 4961,
+    "downloads_30d": null,
+    "last_commit_at": "2023-07-17T03:01:01Z",
+    "first_commit_at": "2023-05-20T08:53:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2686,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:25.895110Z",
+  "last_refreshed_at": "2026-05-01T14:30:25.895113Z"
+}

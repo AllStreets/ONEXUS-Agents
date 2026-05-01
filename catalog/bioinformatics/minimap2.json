@@ -1,0 +1,38 @@
+{
+  "slug": "minimap2",
+  "name": "minimap2",
+  "tagline": "A versatile pairwise aligner for genomic and spliced nucleotide sequences",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "genomics",
+    "sequence-alignment",
+    "spliced-alignment"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lh3",
+    "url": "https://github.com/lh3"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lh3/minimap2",
+    "huggingface": null,
+    "homepage": "https://lh3.github.io/minimap2"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2166,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T04:22:33Z",
+    "first_commit_at": "2017-04-05T19:39:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4697,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:12.809265Z",
+  "last_refreshed_at": "2026-05-01T14:40:12.809268Z"
+}

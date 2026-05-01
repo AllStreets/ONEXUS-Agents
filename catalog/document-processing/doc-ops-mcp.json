@@ -1,0 +1,44 @@
+{
+  "slug": "doc-ops-mcp",
+  "name": "doc-ops-mcp",
+  "tagline": "MCP server for seamless document format conversion and processing",
+  "category": "document-processing",
+  "tags": [
+    "document-conversion",
+    "document-converter",
+    "document-processing",
+    "document-rewriting",
+    "docx-to-pdf",
+    "docx2pdf",
+    "file-converter",
+    "markdown-converter",
+    "pdf-conversion",
+    "pdf-processing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Tele-AI",
+    "url": "https://github.com/Tele-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tele-AI/doc-ops-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 138,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-30T09:21:00Z",
+    "first_commit_at": "2025-08-05T05:59:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4626,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:06.272012Z",
+  "last_refreshed_at": "2026-05-01T14:38:06.272015Z"
+}

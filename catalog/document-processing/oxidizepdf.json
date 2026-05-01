@@ -1,0 +1,44 @@
+{
+  "slug": "oxidizepdf",
+  "name": "oxidizePdf",
+  "tagline": "a PDF library for rust",
+  "category": "document-processing",
+  "tags": [
+    "crates-io",
+    "data-extraction",
+    "digital-signatures",
+    "document-processing",
+    "encryption",
+    "invoice",
+    "ocr",
+    "pdf",
+    "pdf-generation",
+    "pdf-library"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "bzsanti",
+    "url": "https://github.com/bzsanti"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bzsanti/oxidizePdf",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 167,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-24T12:38:51Z",
+    "first_commit_at": "2025-07-07T20:26:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5068,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:01.539413Z",
+  "last_refreshed_at": "2026-05-01T14:38:01.539415Z"
+}

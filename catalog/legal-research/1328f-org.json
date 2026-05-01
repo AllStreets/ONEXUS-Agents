@@ -1,0 +1,44 @@
+{
+  "slug": "1328f-org",
+  "name": "1328f-org",
+  "tagline": "Consumer bankruptcy research platform analyzing 4.9 million federal court cases. Empirical data on discharge rates, attorney performance, and §1328(f) eligibility screening across all 94 districts.",
+  "category": "legal-research",
+  "tags": [
+    "1328f",
+    "bankruptcy",
+    "bankruptcy-data",
+    "bankruptcy-research",
+    "bapcpa",
+    "consumer-bankruptcy",
+    "consumer-protection",
+    "court-data",
+    "data-journalism",
+    "discharge"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openbankruptcyproject",
+    "url": "https://github.com/openbankruptcyproject"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openbankruptcyproject/1328f-org",
+    "huggingface": null,
+    "homepage": "https://1328f.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T20:18:42Z",
+    "first_commit_at": "2026-03-21T15:48:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1388,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:02.962151Z",
+  "last_refreshed_at": "2026-05-01T14:27:02.962154Z"
+}

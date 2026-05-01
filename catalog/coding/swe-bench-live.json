@@ -1,0 +1,37 @@
+{
+  "slug": "swe-bench-live",
+  "name": "SWE-bench-Live",
+  "tagline": "[NeurIPS 2025 D&B] 🚀 SWE-bench Goes Live!",
+  "category": "coding",
+  "tags": [
+    "benchmark",
+    "llm",
+    "swe"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/SWE-bench-Live",
+    "huggingface": null,
+    "homepage": "https://swe-bench-live.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 187,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T02:49:43Z",
+    "first_commit_at": "2025-03-28T12:29:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2394,
+  "rank_in_category": 106,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:25.499324Z",
+  "last_refreshed_at": "2026-05-01T14:21:25.499328Z"
+}

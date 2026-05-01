@@ -1,0 +1,44 @@
+{
+  "slug": "ailab",
+  "name": "ailab",
+  "tagline": "Experience, Learn and Code the latest breakthrough innovations with Microsoft AI",
+  "category": "translation",
+  "tags": [
+    "ai",
+    "algorithms",
+    "azure-functions",
+    "bing-search",
+    "bot",
+    "computer-vision",
+    "csharp",
+    "custom-vision",
+    "dnn",
+    "html5"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/ailab",
+    "huggingface": null,
+    "homepage": "https://www.ailab.microsoft.com/experiments/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7847,
+    "downloads_30d": null,
+    "last_commit_at": "2024-06-26T19:42:37Z",
+    "first_commit_at": "2018-07-23T22:40:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3094,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:19.299961Z",
+  "last_refreshed_at": "2026-05-01T14:33:19.299964Z"
+}

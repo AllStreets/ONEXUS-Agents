@@ -1,0 +1,42 @@
+{
+  "slug": "cmux",
+  "name": "cmux",
+  "tagline": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+  "category": "coding",
+  "tags": [
+    "amp",
+    "claude-code",
+    "codex",
+    "gemini",
+    "ghostty",
+    "opencode",
+    "terminal",
+    "tmux"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "manaflow-ai",
+    "url": "https://github.com/manaflow-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "manaflow-ai/cmux",
+    "huggingface": null,
+    "homepage": "https://cmux.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 15975,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:48:13Z",
+    "first_commit_at": "2026-01-22T09:16:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2927,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:02.908512Z",
+  "last_refreshed_at": "2026-05-01T14:21:02.908515Z"
+}

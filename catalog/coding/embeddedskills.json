@@ -1,0 +1,44 @@
+{
+  "slug": "embeddedskills",
+  "name": "embeddedskills",
+  "tagline": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant ",
+  "category": "coding",
+  "tags": [
+    "ai-coding-assistant",
+    "automation",
+    "can-bus",
+    "can-fd",
+    "debugging",
+    "devtools",
+    "embedded",
+    "embedded-development",
+    "firmware",
+    "gcc"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zhinkgit",
+    "url": "https://github.com/zhinkgit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zhinkgit/embeddedskills",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 145,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-24T12:27:40Z",
+    "first_commit_at": "2026-04-10T05:18:16Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2091,
+  "rank_in_category": 139,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:19:28.486333Z",
+  "last_refreshed_at": "2026-05-01T14:19:28.486337Z"
+}

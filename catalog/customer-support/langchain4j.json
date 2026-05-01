@@ -1,0 +1,44 @@
+{
+  "slug": "langchain4j",
+  "name": "langchain4j",
+  "tagline": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing too",
+  "category": "customer-support",
+  "tags": [
+    "anthropic",
+    "chatgpt",
+    "chroma",
+    "embeddings",
+    "gemini",
+    "gpt",
+    "huggingface",
+    "java",
+    "langchain",
+    "llama"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "langchain4j",
+    "url": "https://github.com/langchain4j"
+  },
+  "source": {
+    "primary": "github",
+    "github": "langchain4j/langchain4j",
+    "huggingface": null,
+    "homepage": "https://docs.langchain4j.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 11828,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T18:43:14Z",
+    "first_commit_at": "2023-06-20T15:30:29Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6502,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:33.592905Z",
+  "last_refreshed_at": "2026-05-01T14:28:33.592908Z"
+}

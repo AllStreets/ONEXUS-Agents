@@ -1,0 +1,33 @@
+{
+  "slug": "whatsapp-support-agent",
+  "name": "whatsapp-support-agent",
+  "tagline": "Sample WhatsApp support AI agent",
+  "category": "customer-support",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "gokapso",
+    "url": "https://github.com/gokapso"
+  },
+  "source": {
+    "primary": "github",
+    "github": "gokapso/whatsapp-support-agent",
+    "huggingface": null,
+    "homepage": "https://kapso.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 22,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T15:24:07Z",
+    "first_commit_at": "2026-04-17T22:19:25Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4327,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:51.647830Z",
+  "last_refreshed_at": "2026-05-01T14:28:51.647833Z"
+}

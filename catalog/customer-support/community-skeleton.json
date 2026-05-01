@@ -1,0 +1,44 @@
+{
+  "slug": "community-skeleton",
+  "name": "community-skeleton",
+  "tagline": "UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration.",
+  "category": "customer-support",
+  "tags": [
+    "agent-privilege",
+    "backbonejs",
+    "customer-support",
+    "docker-runtime",
+    "ecommerce-apps",
+    "ecommerce-apps-integration",
+    "freshdesk-alternative",
+    "knowledgebase",
+    "mailboxes",
+    "opensource"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "uvdesk",
+    "url": "https://github.com/uvdesk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "uvdesk/community-skeleton",
+    "huggingface": null,
+    "homepage": "https://www.uvdesk.com/"
+  },
+  "license": "OSL-3.0",
+  "metrics": {
+    "stars": 18536,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-01T07:16:24Z",
+    "first_commit_at": "2018-11-02T10:40:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4851,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:25.015712Z",
+  "last_refreshed_at": "2026-05-01T14:27:25.015715Z"
+}

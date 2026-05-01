@@ -1,0 +1,44 @@
+{
+  "slug": "owasp-social-osint-agent",
+  "name": "owasp-social-osint-agent",
+  "tagline": "AI-powered OSINT framework for multi-platform social media intelligence gathering using OpenAI-compatible APIs. Features vision analysis, network mapping, and dual web/CLI interfaces.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "api",
+    "cybersecurity",
+    "hackernews",
+    "mastodon",
+    "openai-api",
+    "osint",
+    "python",
+    "reconnaissance",
+    "red-teaming",
+    "reddit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "bm-github",
+    "url": "https://github.com/bm-github"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bm-github/owasp-social-osint-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 67,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T21:25:12Z",
+    "first_commit_at": "2025-10-21T21:39:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3055,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:14.890936Z",
+  "last_refreshed_at": "2026-05-01T14:37:14.890939Z"
+}

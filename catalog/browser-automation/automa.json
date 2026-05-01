@@ -1,0 +1,43 @@
+{
+  "slug": "automa",
+  "name": "automa",
+  "tagline": "A browser extension for automating your browser by connecting blocks",
+  "category": "browser-automation",
+  "tags": [
+    "automation",
+    "browser-automation",
+    "browser-extension",
+    "chrome-extension",
+    "firefox-extension",
+    "hacktoberfest",
+    "javascript",
+    "vue",
+    "workflow"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AutomaApp",
+    "url": "https://github.com/AutomaApp"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AutomaApp/automa",
+    "huggingface": null,
+    "homepage": "https://extension.automa.site/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 21266,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-02T11:56:23Z",
+    "first_commit_at": "2021-09-16T22:32:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3761,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:23.771451Z",
+  "last_refreshed_at": "2026-05-01T14:35:23.771454Z"
+}

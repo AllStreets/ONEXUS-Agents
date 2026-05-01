@@ -1,0 +1,44 @@
+{
+  "slug": "fibo",
+  "name": "FIBO",
+  "tagline": "FIBO is a SOTA, first open-source, JSON-native text-to-image model built for controllable, predictable, and legally safe image generation.",
+  "category": "image-generation",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "controlable-image-generation",
+    "creative-ai",
+    "deep-learning",
+    "enterprise-ready",
+    "ethical-ai",
+    "image-generation",
+    "image-generation-ai",
+    "licensed-data"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Bria-AI",
+    "url": "https://github.com/Bria-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Bria-AI/FIBO",
+    "huggingface": null,
+    "homepage": "https://bria.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 316,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-07T11:05:08Z",
+    "first_commit_at": "2025-10-29T13:48:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2433,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:34.953931Z",
+  "last_refreshed_at": "2026-05-01T14:30:34.953934Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "ibr",
+  "name": "ibr",
+  "tagline": "Human instructions translated into X-Path capable of finding the intended data even after a page structure or location change.",
+  "category": "browser-automation",
+  "tags": [
+    "agent-browser",
+    "agent-browser-ai",
+    "agentic-browser",
+    "ai-browser",
+    "ai-browser-automation",
+    "ai-browser-control",
+    "browser-automation",
+    "browser-automation-toolkit",
+    "browser-cookies",
+    "browser-instrumentation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "hop-top",
+    "url": "https://github.com/hop-top"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hop-top/ibr",
+    "huggingface": null,
+    "homepage": "https://hop.top/ibr"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T18:52:14Z",
+    "first_commit_at": "2025-05-20T09:37:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2435,
+  "rank_in_category": 77,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:50.621847Z",
+  "last_refreshed_at": "2026-05-01T14:35:50.621850Z"
+}

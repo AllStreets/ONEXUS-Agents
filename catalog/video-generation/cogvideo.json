@@ -1,0 +1,40 @@
+{
+  "slug": "cogvideo",
+  "name": "CogVideo",
+  "tagline": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+  "category": "video-generation",
+  "tags": [
+    "cogvideox",
+    "image-to-video",
+    "llm",
+    "sora",
+    "text-to-video",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "zai-org",
+    "url": "https://github.com/zai-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zai-org/CogVideo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 12690,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-04T11:19:04Z",
+    "first_commit_at": "2022-05-29T06:46:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5217,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:28.141792Z",
+  "last_refreshed_at": "2026-05-01T14:31:28.141795Z"
+}

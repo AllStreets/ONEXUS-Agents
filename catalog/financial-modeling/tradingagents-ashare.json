@@ -1,0 +1,42 @@
+{
+  "slug": "tradingagents-ashare",
+  "name": "TradingAgents-AShare",
+  "tagline": "A 股多智能体智能投研系统 — 基于 TradingAgents 架构，15 名 AI Agent 模拟机构协作与实时辩论对抗，全流程可视化，支持 OpenClaw / Claude Code 集成，Docker 一键部署。",
+  "category": "financial-modeling",
+  "tags": [
+    "agents",
+    "ai",
+    "finance",
+    "llm",
+    "openclaw",
+    "openclaw-skills",
+    "skills",
+    "stock"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "KylinMountain",
+    "url": "https://github.com/KylinMountain"
+  },
+  "source": {
+    "primary": "github",
+    "github": "KylinMountain/TradingAgents-AShare",
+    "huggingface": null,
+    "homepage": "https://app.510168.xyz/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 228,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T05:56:52Z",
+    "first_commit_at": "2024-12-28T03:32:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4032,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:26:03.097575Z",
+  "last_refreshed_at": "2026-05-01T14:26:03.097578Z"
+}

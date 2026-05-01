@@ -1,0 +1,41 @@
+{
+  "slug": "tactus",
+  "name": "tactus",
+  "tagline": "The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI ",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "browser-extension",
+    "chat",
+    "chatbot",
+    "llm",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Castor6",
+    "url": "https://github.com/Castor6"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Castor6/tactus",
+    "huggingface": null,
+    "homepage": "https://tactus.cc.cd/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 322,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-23T12:25:15Z",
+    "first_commit_at": "2025-12-30T14:40:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4949,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:39.211142Z",
+  "last_refreshed_at": "2026-05-01T14:28:39.211145Z"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "ai-response-generator",
+  "name": "ai-response-generator",
+  "tagline": "An AI-powered response generator plugin for osTicket, integrating with OpenAI to assist agents in crafting efficient and accurate ticket replies.",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "customer-support",
+    "customer-support-ai",
+    "osticket",
+    "osticket-plugin",
+    "plugin",
+    "response-generator"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mhajder",
+    "url": "https://github.com/mhajder"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mhajder/ai-response-generator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-14T10:27:26Z",
+    "first_commit_at": "2025-08-10T16:28:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2734,
+  "rank_in_category": 85,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:55.598106Z",
+  "last_refreshed_at": "2026-05-01T14:27:55.598110Z"
+}

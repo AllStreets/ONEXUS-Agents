@@ -1,0 +1,44 @@
+{
+  "slug": "yt-automation",
+  "name": "YT-Automation",
+  "tagline": "Convert audio to video with AI-generated images and word-by-word captions. Telegram bot powered by AssemblyAI, DeepSeek, and FFmpeg. Free and open source.",
+  "category": "video-generation",
+  "tags": [
+    "ai-video-generation",
+    "assemblyai",
+    "audio-to-video",
+    "automated-video",
+    "bun",
+    "cloudflare-workers",
+    "deepseek",
+    "speech-to-video",
+    "telegram-bot",
+    "text-to-video"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "RedWilly",
+    "url": "https://github.com/RedWilly"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RedWilly/YT-Automation",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-05T22:33:19Z",
+    "first_commit_at": "2025-11-07T11:02:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3035,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:08.482067Z",
+  "last_refreshed_at": "2026-05-01T14:32:08.482070Z"
+}

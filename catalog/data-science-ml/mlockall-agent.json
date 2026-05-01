@@ -1,0 +1,33 @@
+{
+  "slug": "mlockall-agent",
+  "name": "mlockall-agent",
+  "tagline": "Java Agent for using mlockall in any java application",
+  "category": "data-science-ml",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "lucidworks",
+    "url": "https://github.com/lucidworks"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lucidworks/mlockall-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 63,
+    "downloads_30d": null,
+    "last_commit_at": "2013-05-21T22:07:00Z",
+    "first_commit_at": "2013-05-16T00:33:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1657,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:24:12.842090Z",
+  "last_refreshed_at": "2026-05-01T14:24:12.842093Z"
+}

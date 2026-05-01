@@ -1,0 +1,40 @@
+{
+  "slug": "docker-azure-pipelines-agent",
+  "name": "docker-azure-pipelines-agent",
+  "tagline": "Azure DevOps Agent Docker Images. Based on this: https://github.com/microsoft/vsts-agent-docker",
+  "category": "devops-sre",
+  "tags": [
+    "agent",
+    "azdo",
+    "azure-devops",
+    "azure-devops-agent",
+    "docker",
+    "vsts-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "codez-one",
+    "url": "https://github.com/codez-one"
+  },
+  "source": {
+    "primary": "github",
+    "github": "codez-one/docker-azure-pipelines-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 30,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T09:29:28Z",
+    "first_commit_at": "2019-09-03T15:53:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.377,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:39:19.970195Z",
+  "last_refreshed_at": "2026-05-01T14:39:19.970198Z"
+}

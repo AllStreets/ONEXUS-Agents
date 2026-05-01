@@ -1,0 +1,40 @@
+{
+  "slug": "mini-swe-agent",
+  "name": "mini-swe-agent",
+  "tagline": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agentic-ai-cli",
+    "ai",
+    "ai-agent",
+    "textual"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SWE-agent",
+    "url": "https://github.com/SWE-agent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SWE-agent/mini-swe-agent",
+    "huggingface": null,
+    "homepage": "https://mini-swe-agent.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4136,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T22:10:21Z",
+    "first_commit_at": "2025-06-28T20:18:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2827,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:17.813574Z",
+  "last_refreshed_at": "2026-05-01T14:21:17.813578Z"
+}

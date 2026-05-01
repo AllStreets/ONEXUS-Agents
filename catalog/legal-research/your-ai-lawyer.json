@@ -1,0 +1,44 @@
+{
+  "slug": "your-ai-lawyer",
+  "name": "your-ai-lawyer",
+  "tagline": "Multi-country legal knowledge base: raw law submodules compiled into an Obsidian knowledge graph via Claude Code slash commands. Query with citations, no API key required.",
+  "category": "legal-research",
+  "tags": [
+    "chromadb",
+    "claude-code",
+    "knowledge-graph",
+    "law",
+    "legal-research",
+    "legal-tech",
+    "obsidian",
+    "open-data",
+    "rag",
+    "spain"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "arnabdeypolimi",
+    "url": "https://github.com/arnabdeypolimi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "arnabdeypolimi/your-ai-lawyer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T17:58:47Z",
+    "first_commit_at": "2026-04-21T16:25:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1465,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:26:52.554042Z",
+  "last_refreshed_at": "2026-05-01T14:26:52.554045Z"
+}

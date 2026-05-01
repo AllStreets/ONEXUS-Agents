@@ -1,0 +1,42 @@
+{
+  "slug": "csvtk",
+  "name": "csvtk",
+  "tagline": "A cross-platform, efficient and practical CSV/TSV toolkit in Golang",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "command-line",
+    "cross-platform",
+    "csv",
+    "golang",
+    "tool",
+    "toolkit",
+    "tsv"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shenwei356",
+    "url": "https://github.com/shenwei356"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shenwei356/csvtk",
+    "huggingface": null,
+    "homepage": "http://bioinf.shenwei.me/csvtk"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1157,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T10:50:20Z",
+    "first_commit_at": "2016-04-03T14:37:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4406,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:26.408176Z",
+  "last_refreshed_at": "2026-05-01T14:40:26.408179Z"
+}

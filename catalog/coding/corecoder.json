@@ -1,0 +1,44 @@
+{
+  "slug": "corecoder",
+  "name": "CoreCoder",
+  "tagline": "Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "claude-code",
+    "cli",
+    "coding-agent",
+    "corecoder",
+    "deepseek",
+    "developer-tools",
+    "llm",
+    "openai",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "he-yufeng",
+    "url": "https://github.com/he-yufeng"
+  },
+  "source": {
+    "primary": "github",
+    "github": "he-yufeng/CoreCoder",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/corecoder/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 654,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T03:19:26Z",
+    "first_commit_at": "2026-04-01T19:54:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.233,
+  "rank_in_category": 113,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:18:42.212888Z",
+  "last_refreshed_at": "2026-05-01T14:18:42.212891Z"
+}

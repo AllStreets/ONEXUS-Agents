@@ -1,0 +1,39 @@
+{
+  "slug": "luagents",
+  "name": "luagents",
+  "tagline": "Agents that think in Lua code. Inspired by smolagents.",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "code-agent",
+    "elixir",
+    "llm",
+    "lua"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "doomspork",
+    "url": "https://github.com/doomspork"
+  },
+  "source": {
+    "primary": "github",
+    "github": "doomspork/luagents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T12:33:45Z",
+    "first_commit_at": "2025-08-02T14:24:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1813,
+  "rank_in_category": 162,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:19:52.025391Z",
+  "last_refreshed_at": "2026-05-01T14:19:52.025394Z"
+}

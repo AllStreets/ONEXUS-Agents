@@ -1,0 +1,44 @@
+{
+  "slug": "huobao-drama-ai",
+  "name": "huobao-drama-ai",
+  "tagline": "🎬 AI短剧创作平台 — 从剧本到成片，一站式AI短剧制作工作台。支持70+大模型(GLM5.1/DeepSeek V4/Qwen3.5等)、图片生成、视频生成(Seedance 2.0)、AI配音，多供应商配置，Next.js 16全栈构建",
+  "category": "video-generation",
+  "tags": [
+    "ai-creative",
+    "ai-drama",
+    "ai-image-generation",
+    "ai-video-generation",
+    "deepseek",
+    "glm5",
+    "nextjs",
+    "nvidia-nim",
+    "prisma",
+    "seedance"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dav-niu474",
+    "url": "https://github.com/dav-niu474"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dav-niu474/huobao-drama-ai",
+    "huggingface": null,
+    "homepage": "https://huobao-drama-ai.vercel.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T10:00:25Z",
+    "first_commit_at": "2026-04-23T06:24:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3993,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:03.752135Z",
+  "last_refreshed_at": "2026-05-01T14:32:03.752138Z"
+}

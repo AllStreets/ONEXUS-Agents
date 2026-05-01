@@ -1,0 +1,41 @@
+{
+  "slug": "bluebook-cite",
+  "name": "bluebook-cite",
+  "tagline": "Automated legal citation formatter using Bluebook 21st Edition rules. Extracts citations from PDF/DOCX/TXT, completes incomplete citations via free legal databases, applies id./supra/short form rules,",
+  "category": "legal-research",
+  "tags": [
+    "bluebook",
+    "citations",
+    "fastapi",
+    "legal-citation",
+    "legal-research",
+    "legal-tech",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "delschlangen",
+    "url": "https://github.com/delschlangen"
+  },
+  "source": {
+    "primary": "github",
+    "github": "delschlangen/bluebook-cite",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-26T05:02:02Z",
+    "first_commit_at": "2025-12-26T01:01:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0777,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:26:51.084434Z",
+  "last_refreshed_at": "2026-05-01T14:26:51.084438Z"
+}

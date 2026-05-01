@@ -1,0 +1,44 @@
+{
+  "slug": "openhands-infra",
+  "name": "openhands-infra",
+  "tagline": "🚀 Self-host your AI coding agent on AWS — fully serverless with ECS Fargate. Zero idle cost, per-conversation isolation, Bedrock LLM. Deploy with CDK in minutes.",
+  "category": "coding",
+  "tags": [
+    "ai-coding-agent",
+    "aws",
+    "aws-cdk",
+    "bedrock",
+    "code-agent",
+    "devin",
+    "ecs-fargate",
+    "genai",
+    "iac",
+    "openhands"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zxkane",
+    "url": "https://github.com/zxkane"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zxkane/openhands-infra",
+    "huggingface": null,
+    "homepage": "https://kane.mx/posts/2026/serverless-multi-tenant-openhands-on-aws/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-13T06:14:14Z",
+    "first_commit_at": "2026-01-04T08:19:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1609,
+  "rank_in_category": 175,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:19:51.119428Z",
+  "last_refreshed_at": "2026-05-01T14:19:51.119431Z"
+}

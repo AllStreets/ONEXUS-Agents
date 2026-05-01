@@ -1,0 +1,44 @@
+{
+  "slug": "ai-youtube-shorts-generator",
+  "name": "AI-Youtube-Shorts-Generator",
+  "tagline": "A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.",
+  "category": "video-generation",
+  "tags": [
+    "ai-video-generator",
+    "artificial-intelligence",
+    "image-to-video",
+    "image-to-video-generation",
+    "shorts",
+    "shorts-maker",
+    "sora-video",
+    "sora-video-ai",
+    "stable-diffusion",
+    "text-to-image"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SamurAIGPT",
+    "url": "https://github.com/SamurAIGPT"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SamurAIGPT/AI-Youtube-Shorts-Generator",
+    "huggingface": null,
+    "homepage": "https://www.vadoo.tv/ai-youtube-shorts-generator"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 3370,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T21:18:01Z",
+    "first_commit_at": "2026-04-26T01:39:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5748,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:40.342621Z",
+  "last_refreshed_at": "2026-05-01T14:31:40.342625Z"
+}

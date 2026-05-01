@@ -1,0 +1,42 @@
+{
+  "slug": "groqagent",
+  "name": "groqagent",
+  "tagline": "Autonomous AI agent for Windows - control your browser, files, Excel and terminal using natural language, powered by Groq LLMs (llama-3.1-8b + llama-3.3-70b) with automatic model selection.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "automation",
+    "computer-control",
+    "desktop-agent",
+    "groq",
+    "hci",
+    "llm",
+    "natural-language",
+    "voice-control"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tomaszwi66",
+    "url": "https://github.com/tomaszwi66"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tomaszwi66/groqagent",
+    "huggingface": null,
+    "homepage": "https://tomaszwi66.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-26T11:44:49Z",
+    "first_commit_at": "2026-02-26T11:01:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1798,
+  "rank_in_category": 76,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:58.277276Z",
+  "last_refreshed_at": "2026-05-01T14:36:58.277280Z"
+}

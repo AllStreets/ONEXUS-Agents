@@ -1,0 +1,40 @@
+{
+  "slug": "mcp",
+  "name": "mcp",
+  "tagline": "Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser",
+  "category": "browser-automation",
+  "tags": [
+    "browser-automation",
+    "browser-extension",
+    "claude",
+    "cursor",
+    "mcp",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "BrowserMCP",
+    "url": "https://github.com/BrowserMCP"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BrowserMCP/mcp",
+    "huggingface": null,
+    "homepage": "https://browsermcp.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6434,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-24T21:49:44Z",
+    "first_commit_at": "2025-03-28T02:01:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2556,
+  "rank_in_category": 73,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:29.009675Z",
+  "last_refreshed_at": "2026-05-01T14:35:29.009679Z"
+}

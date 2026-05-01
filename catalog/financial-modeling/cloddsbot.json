@@ -1,0 +1,44 @@
+{
+  "slug": "cloddsbot",
+  "name": "CloddsBot",
+  "tagline": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk ",
+  "category": "financial-modeling",
+  "tags": [
+    "agi",
+    "ai",
+    "arbitrage",
+    "claude",
+    "crypto",
+    "defi",
+    "ethereum",
+    "futures",
+    "hft",
+    "hyperliquid"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "alsk1992",
+    "url": "https://github.com/alsk1992"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alsk1992/CloddsBot",
+    "huggingface": null,
+    "homepage": "https://www.cloddsbot.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 194,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-17T19:41:43Z",
+    "first_commit_at": "2026-01-27T00:30:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3397,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:26:06.932935Z",
+  "last_refreshed_at": "2026-05-01T14:26:06.932939Z"
+}

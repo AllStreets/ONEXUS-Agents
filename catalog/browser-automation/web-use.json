@@ -1,0 +1,39 @@
+{
+  "slug": "web-use",
+  "name": "Web-Use",
+  "tagline": "Web-Use is a CDP powered Browser Agent",
+  "category": "browser-automation",
+  "tags": [
+    "agent",
+    "automation",
+    "browser",
+    "llm",
+    "web"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "CursorTouch",
+    "url": "https://github.com/CursorTouch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CursorTouch/Web-Use",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 257,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-26T07:59:32Z",
+    "first_commit_at": "2024-10-03T16:20:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3462,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:03.022006Z",
+  "last_refreshed_at": "2026-05-01T14:36:03.022009Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "brightdata-mcp",
+  "name": "brightdata-mcp",
+  "tagline": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agents",
+    "ai-integrations",
+    "anti-bot-detection",
+    "browser-automation",
+    "data-collection",
+    "data-extraction",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "modelcontextprotocol"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "brightdata",
+    "url": "https://github.com/brightdata"
+  },
+  "source": {
+    "primary": "github",
+    "github": "brightdata/brightdata-mcp",
+    "huggingface": null,
+    "homepage": "https://brightdata.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2334,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-20T10:59:38Z",
+    "first_commit_at": "2025-04-15T10:55:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3597,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:34.818905Z",
+  "last_refreshed_at": "2026-05-01T14:35:34.818908Z"
+}

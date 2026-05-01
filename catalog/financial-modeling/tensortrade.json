@@ -1,0 +1,33 @@
+{
+  "slug": "tensortrade",
+  "name": "tensortrade",
+  "tagline": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.",
+  "category": "financial-modeling",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "tensortrade-org",
+    "url": "https://github.com/tensortrade-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tensortrade-org/tensortrade",
+    "huggingface": null,
+    "homepage": "https://discord.gg/ZZ7BGWh"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6207,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-19T16:21:00Z",
+    "first_commit_at": "2019-07-28T05:41:14Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4175,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:25:51.643568Z",
+  "last_refreshed_at": "2026-05-01T14:25:51.643571Z"
+}

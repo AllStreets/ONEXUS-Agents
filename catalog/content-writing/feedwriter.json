@@ -1,0 +1,43 @@
+{
+  "slug": "feedwriter",
+  "name": "FeedWriter",
+  "tagline": "FeedWriter — Tóm tắt, viết status & affiliate từ bài viết Facebook bằng AI. Dịch từ Anh-Việt. Tối ưu cho Facebook.",
+  "category": "content-writing",
+  "tags": [
+    "affiliate-marketing",
+    "ai",
+    "chrome-extension",
+    "content-writing",
+    "facebook",
+    "gemini",
+    "groq",
+    "summarizer",
+    "vietnamese"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "anlvdt",
+    "url": "https://github.com/anlvdt"
+  },
+  "source": {
+    "primary": "github",
+    "github": "anlvdt/FeedWriter",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T05:36:41Z",
+    "first_commit_at": "2026-04-02T09:50:48Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3622,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:29:20.756710Z",
+  "last_refreshed_at": "2026-05-01T14:29:20.756714Z"
+}

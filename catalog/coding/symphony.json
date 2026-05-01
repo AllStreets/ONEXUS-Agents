@@ -1,0 +1,33 @@
+{
+  "slug": "symphony",
+  "name": "symphony",
+  "tagline": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "openai",
+    "url": "https://github.com/openai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openai/symphony",
+    "huggingface": null,
+    "homepage": "https://openai.com/index/open-source-codex-orchestration-symphony/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 20283,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T22:09:32Z",
+    "first_commit_at": "2026-03-04T17:29:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2896,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:01.868248Z",
+  "last_refreshed_at": "2026-05-01T14:21:01.868251Z"
+}

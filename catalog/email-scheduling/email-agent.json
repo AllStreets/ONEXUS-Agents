@@ -1,0 +1,44 @@
+{
+  "slug": "email-agent",
+  "name": "email-agent",
+  "tagline": "AI-powered email management agent with TUI dashboard, CLI commands, and multi-agent categorization system. Supports Gmail integration, rule-based processing, and Docker deployment.",
+  "category": "email-scheduling",
+  "tags": [
+    "ai-agents",
+    "cli",
+    "crewai",
+    "docker",
+    "email-automation",
+    "email-management",
+    "gmail",
+    "python",
+    "textual",
+    "tui"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "haasonsaas",
+    "url": "https://github.com/haasonsaas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "haasonsaas/email-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 46,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-24T12:59:27Z",
+    "first_commit_at": "2025-08-01T20:43:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3164,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:54.627933Z",
+  "last_refreshed_at": "2026-05-01T14:38:54.627936Z"
+}

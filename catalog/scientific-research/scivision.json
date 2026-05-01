@@ -1,0 +1,41 @@
+{
+  "slug": "scivision",
+  "name": "scivision",
+  "tagline": "scivision: a framework for scientific image analysis",
+  "category": "scientific-research",
+  "tags": [
+    "computer-vision",
+    "data-science",
+    "hut23",
+    "hut23-1205",
+    "image-processing",
+    "machine-learning",
+    "scientific-research"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "alan-turing-institute",
+    "url": "https://github.com/alan-turing-institute"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alan-turing-institute/scivision",
+    "huggingface": null,
+    "homepage": "https://alan-turing-institute.github.io/scivision/"
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 107,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T05:30:22Z",
+    "first_commit_at": "2021-05-13T11:12:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5633,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:41:04.643741Z",
+  "last_refreshed_at": "2026-05-01T14:41:04.643744Z"
+}

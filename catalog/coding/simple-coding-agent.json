@@ -1,0 +1,37 @@
+{
+  "slug": "simple-coding-agent",
+  "name": "simple-coding-agent",
+  "tagline": "An LLM agent project designed for learning and experimenting with code interaction and automated debugging. Uses the google gemini API.",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "ai",
+    "coding-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JerryShum",
+    "url": "https://github.com/JerryShum"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JerryShum/simple-coding-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-18T21:48:11Z",
+    "first_commit_at": "2025-07-06T23:01:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.04,
+  "rank_in_category": 224,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:29.714986Z",
+  "last_refreshed_at": "2026-05-01T14:20:29.714989Z"
+}

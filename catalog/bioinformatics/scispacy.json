@@ -1,0 +1,40 @@
+{
+  "slug": "scispacy",
+  "name": "scispacy",
+  "tagline": "A full spaCy pipeline and models for scientific/biomedical documents.",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "biomedical",
+    "custom-pipes",
+    "nlp",
+    "scientific-documents",
+    "spacy"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "allenai",
+    "url": "https://github.com/allenai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "allenai/scispacy",
+    "huggingface": null,
+    "homepage": "https://allenai.github.io/scispacy/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1947,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-04T07:49:16Z",
+    "first_commit_at": "2018-09-24T21:45:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3279,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:14.358865Z",
+  "last_refreshed_at": "2026-05-01T14:40:14.358869Z"
+}

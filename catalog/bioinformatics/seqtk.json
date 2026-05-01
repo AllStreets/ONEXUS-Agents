@@ -1,0 +1,36 @@
+{
+  "slug": "seqtk",
+  "name": "seqtk",
+  "tagline": "Toolkit for processing sequences in FASTA/Q formats",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "sequence-analysis"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lh3",
+    "url": "https://github.com/lh3"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lh3/seqtk",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1539,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-01T19:25:29Z",
+    "first_commit_at": "2012-03-23T23:38:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2687,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:19.205091Z",
+  "last_refreshed_at": "2026-05-01T14:40:19.205094Z"
+}

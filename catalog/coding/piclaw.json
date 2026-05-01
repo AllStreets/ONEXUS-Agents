@@ -1,0 +1,44 @@
+{
+  "slug": "piclaw",
+  "name": "piclaw",
+  "tagline": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+  "category": "coding",
+  "tags": [
+    "adaptive-cards",
+    "ai-agent",
+    "bun",
+    "coding-agent",
+    "docker",
+    "llm",
+    "pi-agent",
+    "self-hosted",
+    "typescript",
+    "vnc"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rcarmo",
+    "url": "https://github.com/rcarmo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rcarmo/piclaw",
+    "huggingface": null,
+    "homepage": "https://rcarmo.github.io/projects/piclaw/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 607,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T10:26:59Z",
+    "first_commit_at": "2026-02-17T19:09:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2414,
+  "rank_in_category": 99,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:18:43.824696Z",
+  "last_refreshed_at": "2026-05-01T14:18:43.824699Z"
+}

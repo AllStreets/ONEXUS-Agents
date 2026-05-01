@@ -1,0 +1,43 @@
+{
+  "slug": "scanpy",
+  "name": "scanpy",
+  "tagline": "Single-cell analysis in Python. Scales to >100M cells.",
+  "category": "bioinformatics",
+  "tags": [
+    "anndata",
+    "bioinformatics",
+    "data-science",
+    "machine-learning",
+    "python",
+    "scanpy",
+    "scverse",
+    "transcriptomics",
+    "visualize-data"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "scverse",
+    "url": "https://github.com/scverse"
+  },
+  "source": {
+    "primary": "github",
+    "github": "scverse/scanpy",
+    "huggingface": null,
+    "homepage": "https://scanpy.readthedocs.io/"
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 2434,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T16:06:53Z",
+    "first_commit_at": "2017-01-29T11:28:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4817,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:11.077477Z",
+  "last_refreshed_at": "2026-05-01T14:40:11.077480Z"
+}

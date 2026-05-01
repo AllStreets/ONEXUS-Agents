@@ -1,0 +1,42 @@
+{
+  "slug": "page-agent",
+  "name": "page-agent",
+  "tagline": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+  "category": "browser-automation",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agents",
+    "browser-automation",
+    "javascript",
+    "mcp",
+    "typescript",
+    "web"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "alibaba",
+    "url": "https://github.com/alibaba"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alibaba/page-agent",
+    "huggingface": null,
+    "homepage": "https://alibaba.github.io/page-agent/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 17515,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T08:46:21Z",
+    "first_commit_at": "2025-09-23T09:30:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3867,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:24.521783Z",
+  "last_refreshed_at": "2026-05-01T14:35:24.521786Z"
+}
