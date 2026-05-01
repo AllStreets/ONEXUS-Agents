@@ -1,0 +1,44 @@
+{
+  "slug": "tiledesk-server",
+  "name": "tiledesk-server",
+  "tagline": "Tiledesk Server is the main API component of the Tiledesk platform 🚀 Tiledesk is an open-source alternative to Voiceflow, allowing you to build advanced LLM-powered agents with easy human-in-the-loop ",
+  "category": "customer-support",
+  "tags": [
+    "ai-agents",
+    "ai-assistant",
+    "ai-automation",
+    "api",
+    "bot",
+    "chat",
+    "customer-service",
+    "customer-support",
+    "firebase",
+    "firestore"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Tiledesk",
+    "url": "https://github.com/Tiledesk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tiledesk/tiledesk-server",
+    "huggingface": null,
+    "homepage": "http://www.tiledesk.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 380,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T15:49:03Z",
+    "first_commit_at": "2018-04-27T08:13:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5688,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:39.476478Z",
+  "last_refreshed_at": "2026-05-01T14:27:39.476482Z"
+}

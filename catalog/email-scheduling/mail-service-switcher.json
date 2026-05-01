@@ -1,0 +1,38 @@
+{
+  "slug": "mail-service-switcher",
+  "name": "Mail-Service-Switcher",
+  "tagline": "A Sinatra API that switches email service providers",
+  "category": "email-scheduling",
+  "tags": [
+    "email-scheduling",
+    "json-request",
+    "postmark-api",
+    "sendgrid"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ahaseebkhan",
+    "url": "https://github.com/ahaseebkhan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ahaseebkhan/Mail-Service-Switcher",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2023-03-31T15:38:50Z",
+    "first_commit_at": "2019-09-20T03:23:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2254,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:45.461129Z",
+  "last_refreshed_at": "2026-05-01T14:38:45.461132Z"
+}

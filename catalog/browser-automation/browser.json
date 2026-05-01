@@ -1,0 +1,41 @@
+{
+  "slug": "browser",
+  "name": "browser",
+  "tagline": "Lightpanda: the headless browser designed for AI and automation",
+  "category": "browser-automation",
+  "tags": [
+    "browser",
+    "browser-automation",
+    "cdp",
+    "headless",
+    "playwright",
+    "puppeteer",
+    "zig"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "lightpanda-io",
+    "url": "https://github.com/lightpanda-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lightpanda-io/browser",
+    "huggingface": null,
+    "homepage": "https://lightpanda.io/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 29844,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T05:06:11Z",
+    "first_commit_at": "2023-02-07T15:22:01Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4326,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:22.994335Z",
+  "last_refreshed_at": "2026-05-01T14:35:22.994338Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "data-extractor",
+  "name": "data-extractor",
+  "tagline": "Extract and download key-value pairs, tables, and paragraphs from your scanned pdf, jpg, and png documents as CSV files.",
+  "category": "document-processing",
+  "tags": [
+    "document-extraction",
+    "form-analysis",
+    "key-value-pairs",
+    "ocr-python",
+    "table-extraction"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dashroshan",
+    "url": "https://github.com/dashroshan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dashroshan/data-extractor",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2023-06-17T14:39:33Z",
+    "first_commit_at": "2023-06-15T16:03:13Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2277,
+  "rank_in_category": 74,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:44.379536Z",
+  "last_refreshed_at": "2026-05-01T14:37:44.379539Z"
+}

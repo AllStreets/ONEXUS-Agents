@@ -1,0 +1,37 @@
+{
+  "slug": "videocrafter",
+  "name": "VideoCrafter",
+  "tagline": "VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models",
+  "category": "video-generation",
+  "tags": [
+    "image-to-video",
+    "text-to-video",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AILab-CVC",
+    "url": "https://github.com/AILab-CVC"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AILab-CVC/VideoCrafter",
+    "huggingface": null,
+    "homepage": "https://ailab-cvc.github.io/videocrafter2/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 5053,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-09T15:01:22Z",
+    "first_commit_at": "2023-04-03T09:27:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5319,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:32.155231Z",
+  "last_refreshed_at": "2026-05-01T14:31:32.155234Z"
+}

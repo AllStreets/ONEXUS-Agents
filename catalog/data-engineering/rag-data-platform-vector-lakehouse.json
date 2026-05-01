@@ -1,0 +1,44 @@
+{
+  "slug": "rag-data-platform-vector-lakehouse",
+  "name": "rag-data-platform-vector-lakehouse",
+  "tagline": "Production-grade RAG data platform: lakehouse-backed chunks (Delta/Iceberg) + multi-backend vector stores (pgvector/Qdrant/LanceDB) + hybrid retrieval (BM25 + vector + RRF + reranker) + RAGAS eval. 72",
+  "category": "data-engineering",
+  "tags": [
+    "ai-data-engineering",
+    "airflow",
+    "data-engineering",
+    "delta-lake",
+    "embeddings",
+    "fastapi",
+    "hybrid-search",
+    "iceberg",
+    "lancedb",
+    "langfuse"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sushmakl95",
+    "url": "https://github.com/sushmakl95"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sushmakl95/rag-data-platform-vector-lakehouse",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-23T16:28:09Z",
+    "first_commit_at": "2026-04-23T16:28:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3477,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:47.259307Z",
+  "last_refreshed_at": "2026-05-01T14:23:47.259310Z"
+}

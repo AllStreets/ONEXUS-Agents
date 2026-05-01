@@ -1,0 +1,44 @@
+{
+  "slug": "playwright-go",
+  "name": "playwright-go",
+  "tagline": "Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.",
+  "category": "browser-automation",
+  "tags": [
+    "automation",
+    "browser-automation",
+    "chromium",
+    "firefox",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "headless",
+    "headless-chrome",
+    "playwright"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "playwright-community",
+    "url": "https://github.com/playwright-community"
+  },
+  "source": {
+    "primary": "github",
+    "github": "playwright-community/playwright-go",
+    "huggingface": null,
+    "homepage": "https://playwright-community.github.io/playwright-go/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3324,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-24T00:38:51Z",
+    "first_commit_at": "2020-08-16T12:46:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3442,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:32.878456Z",
+  "last_refreshed_at": "2026-05-01T14:35:32.878459Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "code-review-graph",
+  "name": "code-review-graph",
+  "tagline": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.",
+  "category": "coding",
+  "tags": [
+    "ai-coding",
+    "claude",
+    "claude-code",
+    "code-review",
+    "graphrag",
+    "incremental",
+    "knowledge-graph",
+    "llm",
+    "mcp",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tirth8205",
+    "url": "https://github.com/tirth8205"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tirth8205/code-review-graph",
+    "huggingface": null,
+    "homepage": "https://code-review-graph.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14500,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T16:48:20Z",
+    "first_commit_at": "2026-02-26T17:31:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2786,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:35.668266Z",
+  "last_refreshed_at": "2026-05-01T14:20:35.668269Z"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "unstract",
+  "name": "unstract",
+  "tagline": "LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows",
+  "category": "document-processing",
+  "tags": [
+    "api-deployments",
+    "data-extraction",
+    "document-processing",
+    "etl-pipelines",
+    "open-source-data-pipeline",
+    "unstructured-data-extraction"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Zipstack",
+    "url": "https://github.com/Zipstack"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Zipstack/unstract",
+    "huggingface": null,
+    "homepage": "https://unstract.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 6557,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T12:01:11Z",
+    "first_commit_at": "2024-02-21T10:34:33Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6512,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:50.675451Z",
+  "last_refreshed_at": "2026-05-01T14:37:50.675455Z"
+}

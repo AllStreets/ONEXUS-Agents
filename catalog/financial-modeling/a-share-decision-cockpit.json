@@ -1,0 +1,42 @@
+{
+  "slug": "a-share-decision-cockpit",
+  "name": "A-Share-Decision-Cockpit",
+  "tagline": "Local A-share research, LLM decisioning, deterministic risk control, and daily simulation",
+  "category": "financial-modeling",
+  "tags": [
+    "fastapi",
+    "llm-agent",
+    "paper-trading",
+    "python",
+    "quant-research",
+    "risk-management",
+    "time-series",
+    "trading-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "whenpoem",
+    "url": "https://github.com/whenpoem"
+  },
+  "source": {
+    "primary": "github",
+    "github": "whenpoem/A-Share-Decision-Cockpit",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-19T12:23:55Z",
+    "first_commit_at": "2026-03-11T05:06:58Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1628,
+  "rank_in_category": 101,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:24:45.061554Z",
+  "last_refreshed_at": "2026-05-01T14:24:45.061558Z"
+}

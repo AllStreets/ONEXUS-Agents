@@ -1,0 +1,44 @@
+{
+  "slug": "car-carer",
+  "name": "car-carer",
+  "tagline": "AI-powered self-hosted car maintenance tracker. Upload invoices/photos → AI extracts data → intelligent chat queries your history. FastAPI + SQLite + Claude + Gemini. Docker ready.",
+  "category": "document-processing",
+  "tags": [
+    "ai",
+    "alpine-js",
+    "automotive",
+    "car-maintenance",
+    "claude",
+    "claude-sonnet",
+    "document-extraction",
+    "fastapi",
+    "gemini",
+    "gemini-flash"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Greal-dev",
+    "url": "https://github.com/Greal-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Greal-dev/car-carer",
+    "huggingface": null,
+    "homepage": "https://greal-dev.github.io/car-carer/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-23T21:24:39Z",
+    "first_commit_at": "2026-03-05T23:41:16Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3263,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:45.916003Z",
+  "last_refreshed_at": "2026-05-01T14:37:45.916006Z"
+}

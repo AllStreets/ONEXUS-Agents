@@ -1,0 +1,44 @@
+{
+  "slug": "knowledgeops-agent",
+  "name": "knowledgeops-agent",
+  "tagline": "Enterprise-ready Spring AI platform for RAG, tool calling, async ingestion, JWT/RBAC security, and observability.",
+  "category": "web-dev",
+  "tags": [
+    "ai-platform",
+    "backend",
+    "docker-compose",
+    "enterprise-ai",
+    "java",
+    "llm",
+    "multi-tenancy",
+    "multimodal",
+    "observability",
+    "pdf-rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "however-yir",
+    "url": "https://github.com/however-yir"
+  },
+  "source": {
+    "primary": "github",
+    "github": "however-yir/knowledgeops-agent",
+    "huggingface": null,
+    "homepage": "https://however-yir.github.io/projects/knowledgeops-agent/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 193,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T14:18:26Z",
+    "first_commit_at": "2026-03-30T12:23:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3644,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:22:09.467368Z",
+  "last_refreshed_at": "2026-05-01T14:22:09.467371Z"
+}

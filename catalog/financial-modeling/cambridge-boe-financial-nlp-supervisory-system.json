@@ -1,0 +1,44 @@
+{
+  "slug": "cambridge-boe-financial-nlp-supervisory-system",
+  "name": "cambridge-boe-financial-nlp-supervisory-system",
+  "tagline": "Advanced financial NLP system developed within the Cambridge × Bank of England program. Extracts supervisory risk signals from JP Morgan & HSBC earnings call Q&A using LLMs, BERTopic and sentiment mod",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-agent",
+    "bank-of-england",
+    "bertopic",
+    "cambridge-university",
+    "deberta",
+    "earnings-calls",
+    "financial-ai",
+    "financial-analysis",
+    "financial-regulation",
+    "gsib"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aakrivenkovskaya",
+    "url": "https://github.com/aakrivenkovskaya"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aakrivenkovskaya/cambridge-boe-financial-nlp-supervisory-system",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-28T18:36:33Z",
+    "first_commit_at": "2025-11-20T15:15:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0828,
+  "rank_in_category": 136,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:25:08.405585Z",
+  "last_refreshed_at": "2026-05-01T14:25:08.405588Z"
+}

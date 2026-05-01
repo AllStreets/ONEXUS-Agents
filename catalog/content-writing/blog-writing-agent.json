@@ -1,0 +1,33 @@
+{
+  "slug": "blog-writing-agent",
+  "name": "blog-writing-agent",
+  "tagline": "A langgraph based blog writing agent",
+  "category": "content-writing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "campusx-official",
+    "url": "https://github.com/campusx-official"
+  },
+  "source": {
+    "primary": "github",
+    "github": "campusx-official/blog-writing-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 34,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-31T09:02:03Z",
+    "first_commit_at": "2026-01-31T09:02:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3548,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:29:35.040886Z",
+  "last_refreshed_at": "2026-05-01T14:29:35.040889Z"
+}

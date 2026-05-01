@@ -1,0 +1,42 @@
+{
+  "slug": "foundry-local-lab",
+  "name": "Foundry-Local-Lab",
+  "tagline": "Microsoft Foundry Local - Workshop - Build AI apps locally with Foundry Local - RAG, agents, and multi-agent workflows in Python, JS, and C#. No cloud required.",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "csharp",
+    "foundrylocal",
+    "javascript",
+    "microsoft",
+    "microsoftagentframework",
+    "python",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft-foundry",
+    "url": "https://github.com/microsoft-foundry"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft-foundry/Foundry-Local-Lab",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 66,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-24T10:41:46Z",
+    "first_commit_at": "2026-03-06T13:18:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4575,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:34:35.929237Z",
+  "last_refreshed_at": "2026-05-01T14:34:35.929241Z"
+}

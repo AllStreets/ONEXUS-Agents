@@ -1,0 +1,44 @@
+{
+  "slug": "graph-builder",
+  "name": "graph_builder",
+  "tagline": "Open-source toolkit to extract structured knowledge graphs from documents and tables — power analytics, digital twins, and AI-driven assistants.",
+  "category": "document-processing",
+  "tags": [
+    "cad",
+    "digital-twin",
+    "document-processing",
+    "enterprise-knowledge-graph",
+    "fastapi",
+    "graph-api",
+    "graph-database",
+    "graph-extraction",
+    "graph-visualization",
+    "intelligent-document-processing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Addepto",
+    "url": "https://github.com/Addepto"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Addepto/graph_builder",
+    "huggingface": null,
+    "homepage": "https://context-clue.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 102,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-15T14:08:59Z",
+    "first_commit_at": "2025-07-23T09:12:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3225,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:08.793663Z",
+  "last_refreshed_at": "2026-05-01T14:38:08.793667Z"
+}

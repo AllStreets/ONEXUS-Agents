@@ -1,0 +1,42 @@
+{
+  "slug": "slop-detector",
+  "name": "slop-detector",
+  "tagline": "Slop Detector is an agent-powered GitHub Actions workflow that acts as an automated code quality gate on every push. It catches low-effort, careless, or AI-generated code collectively known as \"slop\" ",
+  "category": "coding",
+  "tags": [
+    "agents",
+    "ai",
+    "claude",
+    "code",
+    "code-agent",
+    "coding-agent",
+    "ml",
+    "opencode"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "The-Swarm-Corporation",
+    "url": "https://github.com/The-Swarm-Corporation"
+  },
+  "source": {
+    "primary": "github",
+    "github": "The-Swarm-Corporation/slop-detector",
+    "huggingface": null,
+    "homepage": "https://swarms.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-21T23:18:21Z",
+    "first_commit_at": "2026-03-21T20:30:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1261,
+  "rank_in_category": 205,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:19:57.950144Z",
+  "last_refreshed_at": "2026-05-01T14:19:57.950148Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "openclaw-rl",
+  "name": "OpenClaw-RL",
+  "tagline": "OpenClaw-RL: Train any agent simply by talking",
+  "category": "coding",
+  "tags": [
+    "async",
+    "coding",
+    "grpo",
+    "gui-application",
+    "memory-systems",
+    "on-policy-distillation",
+    "open-claw",
+    "openclaw-skills",
+    "rlhf",
+    "sglang"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Gen-Verse",
+    "url": "https://github.com/Gen-Verse"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Gen-Verse/OpenClaw-RL",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2603.10165"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5192,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T00:16:33Z",
+    "first_commit_at": "2026-02-26T12:57:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2717,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:15.631945Z",
+  "last_refreshed_at": "2026-05-01T14:20:15.631948Z"
+}

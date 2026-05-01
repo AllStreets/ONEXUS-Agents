@@ -1,0 +1,39 @@
+{
+  "slug": "email-scheduler",
+  "name": "email-scheduler",
+  "tagline": "Email Scheduler App: A full-stack application built with Next.js, TypeScript, and MongoDB for scheduling and managing emails. Features include scheduling, editing, and searching based on title. Explor",
+  "category": "email-scheduling",
+  "tags": [
+    "email-scheduling",
+    "mongodb-database",
+    "nextjs",
+    "nodejs",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "vermaAtul1520",
+    "url": "https://github.com/vermaAtul1520"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vermaAtul1520/email-scheduler",
+    "huggingface": null,
+    "homepage": "https://email-scheduler-delta.vercel.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-28T05:47:23Z",
+    "first_commit_at": "2024-01-30T11:24:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2151,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:48.044395Z",
+  "last_refreshed_at": "2026-05-01T14:38:48.044399Z"
+}

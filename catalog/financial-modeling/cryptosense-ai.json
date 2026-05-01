@@ -1,0 +1,44 @@
+{
+  "slug": "cryptosense-ai",
+  "name": "CryptoSense-AI",
+  "tagline": "CryptoSense AI is an intelligent financial decision agent built with Google ADK and Gemini 2.5 Flash. It connects to live Bitcoin, Ethereum, and World Bank economic datasets via MCP Toolbox for Databa",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-agents",
+    "bigquery",
+    "bitcoin",
+    "cloud-run",
+    "crypto",
+    "ethereum",
+    "financial-ai",
+    "gemini",
+    "google-adk",
+    "google-cloud"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "edwinthoma",
+    "url": "https://github.com/edwinthoma"
+  },
+  "source": {
+    "primary": "github",
+    "github": "edwinthoma/CryptoSense-AI",
+    "huggingface": null,
+    "homepage": "https://financial-agent-982747014163.us-central1.run.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-31T10:39:17Z",
+    "first_commit_at": "2026-03-31T10:32:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.176,
+  "rank_in_category": 95,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:25:10.846384Z",
+  "last_refreshed_at": "2026-05-01T14:25:10.846387Z"
+}

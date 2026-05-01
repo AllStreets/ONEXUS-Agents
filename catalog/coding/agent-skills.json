@@ -1,0 +1,40 @@
+{
+  "slug": "agent-skills",
+  "name": "agent-skills",
+  "tagline": "Production-grade engineering skills for AI coding agents.",
+  "category": "coding",
+  "tags": [
+    "agent-skills",
+    "antigravity",
+    "antigravity-ide",
+    "claude-code",
+    "cursor",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "addyosmani",
+    "url": "https://github.com/addyosmani"
+  },
+  "source": {
+    "primary": "github",
+    "github": "addyosmani/agent-skills",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 26888,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T04:35:03Z",
+    "first_commit_at": "2026-02-15T20:30:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2953,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:58.611021Z",
+  "last_refreshed_at": "2026-05-01T14:20:58.611024Z"
+}

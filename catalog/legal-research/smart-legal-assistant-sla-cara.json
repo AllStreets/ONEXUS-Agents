@@ -1,0 +1,44 @@
+{
+  "slug": "smart-legal-assistant-sla-cara",
+  "name": "Smart-Legal-Assistant-SLA-CARA",
+  "tagline": "RAG-based legal document assistant using Legal-BERT and FAISS to extract clauses, summarize contracts, and evaluate risks.",
+  "category": "legal-research",
+  "tags": [
+    "contract-analysis",
+    "faiss-similarity",
+    "legal-bert",
+    "legaltech",
+    "llama",
+    "machine-learning",
+    "named-entity-recognition",
+    "nlp",
+    "numpy",
+    "pandas"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "chathuryasri1912",
+    "url": "https://github.com/chathuryasri1912"
+  },
+  "source": {
+    "primary": "github",
+    "github": "chathuryasri1912/Smart-Legal-Assistant-SLA-CARA",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-18T22:18:30Z",
+    "first_commit_at": "2025-11-18T20:31:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0509,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:26:43.782235Z",
+  "last_refreshed_at": "2026-05-01T14:26:43.782239Z"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "document-chat-system",
+  "name": "document-chat-system",
+  "tagline": "Open-source document chat platform with semantic search, RAG (Retrieval Augmented Generation), and multi-provider AI support (OpenRouter, OpenAI, ImageRouter).",
+  "category": "document-processing",
+  "tags": [
+    "chatbot",
+    "document-management",
+    "document-processing",
+    "embeddings",
+    "llms",
+    "rag",
+    "vector-search",
+    "webapp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "watat83",
+    "url": "https://github.com/watat83"
+  },
+  "source": {
+    "primary": "github",
+    "github": "watat83/document-chat-system",
+    "huggingface": null,
+    "homepage": "https://document-chat-system.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 141,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-10T22:08:50Z",
+    "first_commit_at": "2025-10-01T05:51:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4736,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:04.779969Z",
+  "last_refreshed_at": "2026-05-01T14:38:04.779973Z"
+}

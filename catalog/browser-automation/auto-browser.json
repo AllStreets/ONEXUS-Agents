@@ -1,0 +1,44 @@
+{
+  "slug": "auto-browser",
+  "name": "auto-browser",
+  "tagline": "Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "ai-agents",
+    "browser-automation",
+    "claude",
+    "docker",
+    "fastapi",
+    "llm",
+    "local-first",
+    "mcp",
+    "novnc"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "LvcidPsyche",
+    "url": "https://github.com/LvcidPsyche"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LvcidPsyche/auto-browser",
+    "huggingface": null,
+    "homepage": "https://github.com/LvcidPsyche/auto-browser"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 346,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T15:57:05Z",
+    "first_commit_at": "2026-03-08T22:20:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3173,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:01.300129Z",
+  "last_refreshed_at": "2026-05-01T14:36:01.300132Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "chatchat-lite",
+  "name": "Chatchat-Lite",
+  "tagline": "从零开始基于 LangGraph 和 Streamlit 实现基于本地模型的 RAG、Agent 应用",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "chatchat",
+    "chatglm",
+    "glm",
+    "langchain",
+    "langchain-chatchat",
+    "langgraph",
+    "qwen",
+    "rag",
+    "streamlit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "imClumsyPanda",
+    "url": "https://github.com/imClumsyPanda"
+  },
+  "source": {
+    "primary": "github",
+    "github": "imClumsyPanda/Chatchat-Lite",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 79,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-25T12:43:17Z",
+    "first_commit_at": "2024-11-23T07:41:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3037,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:34:33.551908Z",
+  "last_refreshed_at": "2026-05-01T14:34:33.551912Z"
+}

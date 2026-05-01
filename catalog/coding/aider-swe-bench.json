@@ -1,0 +1,33 @@
+{
+  "slug": "aider-swe-bench",
+  "name": "aider-swe-bench",
+  "tagline": "Harness used to benchmark aider against SWE Bench benchmarks",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "Aider-AI",
+    "url": "https://github.com/Aider-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Aider-AI/aider-swe-bench",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 81,
+    "downloads_30d": null,
+    "last_commit_at": "2024-06-27T22:44:36Z",
+    "first_commit_at": "2024-05-09T22:35:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1165,
+  "rank_in_category": 211,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:28.962450Z",
+  "last_refreshed_at": "2026-05-01T14:21:28.962454Z"
+}

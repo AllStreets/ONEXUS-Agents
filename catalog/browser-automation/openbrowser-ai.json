@@ -1,0 +1,40 @@
+{
+  "slug": "openbrowser-ai",
+  "name": "openbrowser-ai",
+  "tagline": "OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace, ",
+  "category": "browser-automation",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-browser",
+    "ai-browser-automation",
+    "artificial-intelligence",
+    "browser-automation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "billy-enrizky",
+    "url": "https://github.com/billy-enrizky"
+  },
+  "source": {
+    "primary": "github",
+    "github": "billy-enrizky/openbrowser-ai",
+    "huggingface": null,
+    "homepage": "https://docs.openbrowser.me/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 230,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T16:00:04Z",
+    "first_commit_at": "2025-12-18T17:41:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3189,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:44.250089Z",
+  "last_refreshed_at": "2026-05-01T14:35:44.250092Z"
+}

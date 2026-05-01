@@ -1,0 +1,44 @@
+{
+  "slug": "cuga-agent",
+  "name": "cuga-agent",
+  "tagline": "CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aw",
+  "category": "coding",
+  "tags": [
+    "coding-agent",
+    "computer-use",
+    "enterprise",
+    "generalist-agent",
+    "guardrails",
+    "harness",
+    "knowledge",
+    "mcp",
+    "policies",
+    "sandbox"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "cuga-project",
+    "url": "https://github.com/cuga-project"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cuga-project/cuga-agent",
+    "huggingface": null,
+    "homepage": "https://cuga.dev/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 712,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T21:08:46Z",
+    "first_commit_at": "2025-09-11T15:43:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2541,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:18:39.748659Z",
+  "last_refreshed_at": "2026-05-01T14:18:39.748663Z"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "sbot",
+  "name": "sbot",
+  "tagline": "Self-hosted AI agent server. Multi-LLM (OpenAI/Claude/Ollama), MCP tools, long-term memory, multi-agent ReAct, Lark/Feishu, Wecom/Wechat, Web UI.",
+  "category": "web-dev",
+  "tags": [
+    "ai-agent",
+    "chatbot",
+    "long-term-memory",
+    "multi-agent",
+    "react-agent",
+    "self-hosted",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "while-coder",
+    "url": "https://github.com/while-coder"
+  },
+  "source": {
+    "primary": "github",
+    "github": "while-coder/sbot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T09:52:32Z",
+    "first_commit_at": "2026-02-02T07:26:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2543,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:22:28.764138Z",
+  "last_refreshed_at": "2026-05-01T14:22:28.764142Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "rtranslator",
+  "name": "RTranslator",
+  "tagline": "Open source real-time translation app for Android that runs locally",
+  "category": "translation",
+  "tags": [
+    "android",
+    "android-app",
+    "bluetooth-le",
+    "mobile-app",
+    "nllb",
+    "offline",
+    "onnx",
+    "onnxruntime",
+    "realtime-translator",
+    "sentencepiece"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "niedev",
+    "url": "https://github.com/niedev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "niedev/RTranslator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 9834,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T20:00:15Z",
+    "first_commit_at": "2020-03-30T18:41:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5278,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:15.540273Z",
+  "last_refreshed_at": "2026-05-01T14:33:15.540276Z"
+}

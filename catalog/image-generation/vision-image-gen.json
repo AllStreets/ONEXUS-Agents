@@ -1,0 +1,42 @@
+{
+  "slug": "vision-image-gen",
+  "name": "vision-image-gen",
+  "tagline": "Openai GPT Vision - Dalle3 - CLI & Streamlit UI Image generator based on your input",
+  "category": "image-generation",
+  "tags": [
+    "dalle-3",
+    "gpt",
+    "gpt-4-vision-preview",
+    "image-generation-ai",
+    "openai",
+    "openai-api",
+    "python",
+    "streamlit-webapp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "bigsk1",
+    "url": "https://github.com/bigsk1"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bigsk1/vision-image-gen",
+    "huggingface": null,
+    "homepage": "https://www.youtube.com/watch?v=Eh7atfdpRAo"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2024-02-07T09:22:53Z",
+    "first_commit_at": "2024-02-07T03:50:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.108,
+  "rank_in_category": 123,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:55.864540Z",
+  "last_refreshed_at": "2026-05-01T14:30:55.864544Z"
+}

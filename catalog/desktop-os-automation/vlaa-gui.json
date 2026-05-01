@@ -1,0 +1,37 @@
+{
+  "slug": "vlaa-gui",
+  "name": "VLAA-GUI",
+  "tagline": "Official implementation of VLAA-GUI series",
+  "category": "desktop-os-automation",
+  "tags": [
+    "computer-use-agent",
+    "gui-agent",
+    "multi-agent-system"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "UCSC-VLAA",
+    "url": "https://github.com/UCSC-VLAA"
+  },
+  "source": {
+    "primary": "github",
+    "github": "UCSC-VLAA/VLAA-GUI",
+    "huggingface": null,
+    "homepage": "https://ucsc-vlaa.github.io/VLAA-GUI"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 26,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T17:52:09Z",
+    "first_commit_at": "2026-03-18T13:34:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2819,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:36.284395Z",
+  "last_refreshed_at": "2026-05-01T14:36:36.284398Z"
+}

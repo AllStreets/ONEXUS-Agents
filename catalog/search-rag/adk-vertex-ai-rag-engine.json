@@ -1,0 +1,43 @@
+{
+  "slug": "adk-vertex-ai-rag-engine",
+  "name": "adk-vertex-ai-rag-engine",
+  "tagline": "A RAG agent using Google's ADK & Vertex AI that lets  set up semantic search across documents in under 2 minutes. Features GCS integration and natural language querying",
+  "category": "search-rag",
+  "tags": [
+    "adk",
+    "agent",
+    "agentdevelopmentkit",
+    "gcs",
+    "genai",
+    "google-cloud",
+    "rag-chatbot",
+    "storage",
+    "vertex-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "arjunprabhulal",
+    "url": "https://github.com/arjunprabhulal"
+  },
+  "source": {
+    "primary": "github",
+    "github": "arjunprabhulal/adk-vertex-ai-rag-engine",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 99,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-21T11:52:32Z",
+    "first_commit_at": "2025-05-15T16:36:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.319,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:34:31.908339Z",
+  "last_refreshed_at": "2026-05-01T14:34:31.908343Z"
+}

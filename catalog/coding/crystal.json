@@ -1,0 +1,44 @@
+{
+  "slug": "crystal",
+  "name": "crystal",
+  "tagline": "(Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.",
+  "category": "coding",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "ai-coding",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "codex",
+    "cursor",
+    "development-environment",
+    "ide"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "stravu",
+    "url": "https://github.com/stravu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "stravu/crystal",
+    "huggingface": null,
+    "homepage": "https://nimbalyst.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3043,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-26T21:48:10Z",
+    "first_commit_at": "2025-06-12T15:54:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2288,
+  "rank_in_category": 118,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:40.597431Z",
+  "last_refreshed_at": "2026-05-01T14:20:40.597435Z"
+}

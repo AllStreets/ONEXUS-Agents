@@ -1,0 +1,44 @@
+{
+  "slug": "fastp",
+  "name": "fastp",
+  "tagline": "An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...)",
+  "category": "bioinformatics",
+  "tags": [
+    "adapter",
+    "bioinformatics",
+    "duplication",
+    "fastq",
+    "filter",
+    "filtering",
+    "illumina",
+    "merging",
+    "ngs",
+    "overlap"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OpenGene",
+    "url": "https://github.com/OpenGene"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OpenGene/fastp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2349,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-24T13:35:51Z",
+    "first_commit_at": "2017-10-31T04:36:58Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4708,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:11.974833Z",
+  "last_refreshed_at": "2026-05-01T14:40:11.974836Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "libredesk",
+  "name": "libredesk",
+  "tagline": "Open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.",
+  "category": "customer-support",
+  "tags": [
+    "chat-widget",
+    "conversation",
+    "conversations",
+    "customer-service",
+    "customer-success",
+    "customer-support",
+    "customer-support-automation",
+    "golang",
+    "helpdesk",
+    "intercom"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "abhinavxd",
+    "url": "https://github.com/abhinavxd"
+  },
+  "source": {
+    "primary": "github",
+    "github": "abhinavxd/libredesk",
+    "huggingface": null,
+    "homepage": "https://libredesk.io/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 2467,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T10:37:41Z",
+    "first_commit_at": "2024-05-12T12:14:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6033,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:31.385583Z",
+  "last_refreshed_at": "2026-05-01T14:27:31.385586Z"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "support-skills",
+  "name": "support-skills",
+  "tagline": "Customer support skills for Claude Code and AI agents. Ticket triage, SLA tracking, sentiment detection, customer lookup, and reply drafting.",
+  "category": "customer-support",
+  "tags": [
+    "claude-code-skills",
+    "claude-skills",
+    "codex-skills",
+    "customer-support",
+    "customer-support-ai",
+    "support",
+    "support-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "composio-community",
+    "url": "https://github.com/composio-community"
+  },
+  "source": {
+    "primary": "github",
+    "github": "composio-community/support-skills",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T18:18:53Z",
+    "first_commit_at": "2026-04-10T10:30:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3919,
+  "rank_in_category": 48,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:58.706878Z",
+  "last_refreshed_at": "2026-05-01T14:27:58.706881Z"
+}

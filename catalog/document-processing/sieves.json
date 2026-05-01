@@ -1,0 +1,42 @@
+{
+  "slug": "sieves",
+  "name": "sieves",
+  "tagline": "Plug-and-play document AI with zero-shot models.",
+  "category": "document-processing",
+  "tags": [
+    "document-processing",
+    "few-shot-learning",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "nlp",
+    "structured-generation",
+    "zero-shot-learning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "MantisAI",
+    "url": "https://github.com/MantisAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MantisAI/sieves",
+    "huggingface": null,
+    "homepage": "https://sieves.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 124,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T09:17:04Z",
+    "first_commit_at": "2024-12-13T10:13:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5303,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:07.063418Z",
+  "last_refreshed_at": "2026-05-01T14:38:07.063421Z"
+}

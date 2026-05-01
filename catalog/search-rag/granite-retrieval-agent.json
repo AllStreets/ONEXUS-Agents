@@ -1,0 +1,37 @@
+{
+  "slug": "granite-retrieval-agent",
+  "name": "granite-retrieval-agent",
+  "tagline": "Build Research and Rag agents with Granite on your laptop",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "granite",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ibm-granite-community",
+    "url": "https://github.com/ibm-granite-community"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ibm-granite-community/granite-retrieval-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 153,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-07T20:59:56Z",
+    "first_commit_at": "2024-12-17T18:50:56Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3579,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:34:25.582095Z",
+  "last_refreshed_at": "2026-05-01T14:34:25.582098Z"
+}

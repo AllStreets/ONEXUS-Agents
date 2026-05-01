@@ -1,0 +1,44 @@
+{
+  "slug": "chronos",
+  "name": "Chronos",
+  "tagline": "Kodezi Chronos is a debugging-first language model that achieves state-of-the-art results on SWE-bench Lite (80.33%) and 67% real-world fix accuracy, over six times better than GPT-4. Built with Adapt",
+  "category": "coding",
+  "tags": [
+    "artificial-intelligence",
+    "autonomous-debugging",
+    "benchmark",
+    "benchmark-report",
+    "bug-fixing",
+    "chronos",
+    "code",
+    "code-analysis",
+    "code-analysis-tool",
+    "code-debugger"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Kodezi",
+    "url": "https://github.com/Kodezi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Kodezi/Chronos",
+    "huggingface": null,
+    "homepage": "https://chronos.so/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4949,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-12T09:53:44Z",
+    "first_commit_at": "2025-07-27T00:25:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1851,
+  "rank_in_category": 160,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:16.176187Z",
+  "last_refreshed_at": "2026-05-01T14:21:16.176191Z"
+}

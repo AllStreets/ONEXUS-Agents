@@ -1,0 +1,44 @@
+{
+  "slug": "cloud-sre-agent",
+  "name": "cloud-sre-agent",
+  "tagline": "An autonomous SRE agent that monitors cloud logs across multiple platforms, leveraging AI models from various providers to detect anomalies, perform root cause analysis, and automate remediation by cr",
+  "category": "devops-sre",
+  "tags": [
+    "ai-agents",
+    "ai-ops",
+    "automation",
+    "aws",
+    "cloud",
+    "devops",
+    "gcp",
+    "gemini-ai",
+    "google-cloud",
+    "incident-response"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "avivl",
+    "url": "https://github.com/avivl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "avivl/cloud-sre-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 41,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-20T22:58:16Z",
+    "first_commit_at": "2025-08-31T18:55:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2492,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:39:30.132861Z",
+  "last_refreshed_at": "2026-05-01T14:39:30.132865Z"
+}

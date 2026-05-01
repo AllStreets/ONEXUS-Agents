@@ -1,0 +1,44 @@
+{
+  "slug": "growthbook",
+  "name": "growthbook",
+  "tagline": "Open Source Feature Flags, Experimentation, and Product Analytics",
+  "category": "data-engineering",
+  "tags": [
+    "ab-testing",
+    "abtest",
+    "abtesting",
+    "analytics",
+    "bigquery",
+    "clickhouse",
+    "continuous-delivery",
+    "data-analysis",
+    "data-engineering",
+    "data-science"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "growthbook",
+    "url": "https://github.com/growthbook"
+  },
+  "source": {
+    "primary": "github",
+    "github": "growthbook/growthbook",
+    "huggingface": null,
+    "homepage": "https://www.growthbook.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 7715,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:38:38Z",
+    "first_commit_at": "2021-05-07T23:13:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6538,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:35.908352Z",
+  "last_refreshed_at": "2026-05-01T14:23:35.908355Z"
+}

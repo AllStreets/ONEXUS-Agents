@@ -1,0 +1,38 @@
+{
+  "slug": "ewf",
+  "name": "EWF",
+  "tagline": "Eiffel Web Framework -- Provide a common framework to build easily web server application in Eiffel (portable on various connector and platforms)",
+  "category": "web-dev",
+  "tags": [
+    "eiffel",
+    "httpd",
+    "server",
+    "web-dev"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "EiffelWebFramework",
+    "url": "https://github.com/EiffelWebFramework"
+  },
+  "source": {
+    "primary": "github",
+    "github": "EiffelWebFramework/EWF",
+    "huggingface": null,
+    "homepage": "http://eiffelweb.projects.eiffel.org/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 46,
+    "downloads_30d": null,
+    "last_commit_at": "2024-03-20T17:13:05Z",
+    "first_commit_at": "2007-10-22T08:22:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1734,
+  "rank_in_category": 103,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:22:40.053460Z",
+  "last_refreshed_at": "2026-05-01T14:22:40.053464Z"
+}

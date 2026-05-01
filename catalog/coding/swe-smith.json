@@ -1,0 +1,38 @@
+{
+  "slug": "swe-smith",
+  "name": "SWE-smith",
+  "tagline": "[NeurIPS 2025 D&B Spotlight] Scaling Data for SWE-agents",
+  "category": "coding",
+  "tags": [
+    "agents",
+    "language-model",
+    "software-engineering",
+    "training"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SWE-bench",
+    "url": "https://github.com/SWE-bench"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SWE-bench/SWE-smith",
+    "huggingface": null,
+    "homepage": "https://swesmith.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 639,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T19:51:16Z",
+    "first_commit_at": "2025-05-01T06:07:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2584,
+  "rank_in_category": 73,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:21.264490Z",
+  "last_refreshed_at": "2026-05-01T14:21:21.264493Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "nutrient-dws-mcp-server",
+  "name": "nutrient-dws-mcp-server",
+  "tagline": "A Model Context Protocol (MCP) server implementation that integrates with the Nutrient Document Web Service (DWS) Processor API, providing powerful PDF processing capabilities for AI assistants.",
+  "category": "document-processing",
+  "tags": [
+    "ai-agents",
+    "claude",
+    "document-ai",
+    "document-processing",
+    "langchain",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "nutrient"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "PSPDFKit",
+    "url": "https://github.com/PSPDFKit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PSPDFKit/nutrient-dws-mcp-server",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 63,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-25T09:52:17Z",
+    "first_commit_at": "2025-05-14T22:25:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4441,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:12.927022Z",
+  "last_refreshed_at": "2026-05-01T14:38:12.927025Z"
+}

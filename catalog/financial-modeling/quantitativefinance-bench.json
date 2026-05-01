@@ -1,0 +1,33 @@
+{
+  "slug": "quantitativefinance-bench",
+  "name": "QuantitativeFinance-Bench",
+  "tagline": "QF-Bench (QuantitativeFinance-Bench) is a state-aware financial agent benchmark.",
+  "category": "financial-modeling",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "QF-Bench",
+    "url": "https://github.com/QF-Bench"
+  },
+  "source": {
+    "primary": "github",
+    "github": "QF-Bench/QuantitativeFinance-Bench",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T05:05:21Z",
+    "first_commit_at": "2026-02-07T08:27:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3063,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:25:48.243924Z",
+  "last_refreshed_at": "2026-05-01T14:25:48.243927Z"
+}

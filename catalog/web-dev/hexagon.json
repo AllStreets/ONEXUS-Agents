@@ -1,0 +1,41 @@
+{
+  "slug": "hexagon",
+  "name": "hexagon",
+  "tagline": "Go AI Agent 框架引擎 — ReAct / Plan-and-Execute 推理，Tool 调度，上下文状态机编排，100k+ 并发 Agent。Hexagon 生态 L2。",
+  "category": "web-dev",
+  "tags": [
+    "ai-agent",
+    "framework",
+    "golang",
+    "llm",
+    "orchestration",
+    "react-agent",
+    "tool-calling"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hexagon-codes",
+    "url": "https://github.com/hexagon-codes"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hexagon-codes/hexagon",
+    "huggingface": null,
+    "homepage": "https://hexclaw.net/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T17:53:53Z",
+    "first_commit_at": "2026-01-31T15:54:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2794,
+  "rank_in_category": 55,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:22:21.891954Z",
+  "last_refreshed_at": "2026-05-01T14:22:21.891957Z"
+}

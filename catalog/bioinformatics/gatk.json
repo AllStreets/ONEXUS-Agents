@@ -1,0 +1,43 @@
+{
+  "slug": "gatk",
+  "name": "gatk",
+  "tagline": "Official code repository for GATK versions 4 and up",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "dna",
+    "gatk",
+    "genome",
+    "genomics",
+    "ngs",
+    "science",
+    "sequencing",
+    "spark"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "broadinstitute",
+    "url": "https://github.com/broadinstitute"
+  },
+  "source": {
+    "primary": "github",
+    "github": "broadinstitute/gatk",
+    "huggingface": null,
+    "homepage": "https://software.broadinstitute.org/gatk"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1943,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T07:54:16Z",
+    "first_commit_at": "2014-12-02T20:50:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4772,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:15.122633Z",
+  "last_refreshed_at": "2026-05-01T14:40:15.122637Z"
+}

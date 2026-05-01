@@ -1,0 +1,43 @@
+{
+  "slug": "shapecrawler",
+  "name": "ShapeCrawler",
+  "tagline": "PowerPoint .NET library for reading, modifying, and generating PPTX presentations without Microsoft Office",
+  "category": "document-processing",
+  "tags": [
+    "csharp",
+    "document-processing",
+    "dotnet",
+    "office-open-xml",
+    "openxml",
+    "powerpoint",
+    "pptx",
+    "presentation",
+    "slides"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ShapeCrawler",
+    "url": "https://github.com/ShapeCrawler"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ShapeCrawler/ShapeCrawler",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 419,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-18T08:03:19Z",
+    "first_commit_at": "2019-07-13T14:04:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5619,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:57.593724Z",
+  "last_refreshed_at": "2026-05-01T14:37:57.593727Z"
+}

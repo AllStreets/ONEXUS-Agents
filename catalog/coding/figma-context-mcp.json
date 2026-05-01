@@ -1,0 +1,39 @@
+{
+  "slug": "figma-context-mcp",
+  "name": "Figma-Context-MCP",
+  "tagline": "MCP server to provide Figma layout information to AI coding agents like Cursor",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "cursor",
+    "figma",
+    "mcp",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "GLips",
+    "url": "https://github.com/GLips"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GLips/Figma-Context-MCP",
+    "huggingface": null,
+    "homepage": "https://www.framelink.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14581,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T00:17:20Z",
+    "first_commit_at": "2025-02-12T22:16:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3132,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:04.553704Z",
+  "last_refreshed_at": "2026-05-01T14:21:04.553708Z"
+}

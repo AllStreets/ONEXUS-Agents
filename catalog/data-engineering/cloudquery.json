@@ -1,0 +1,44 @@
+{
+  "slug": "cloudquery",
+  "name": "cloudquery",
+  "tagline": "Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.",
+  "category": "data-engineering",
+  "tags": [
+    "airbyte",
+    "attack-surface-management",
+    "aws",
+    "azure",
+    "bigquery",
+    "cspm",
+    "data",
+    "data-analysis",
+    "data-collection",
+    "data-engineering"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "cloudquery",
+    "url": "https://github.com/cloudquery"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cloudquery/cloudquery",
+    "huggingface": null,
+    "homepage": "https://cloudquery.io/"
+  },
+  "license": "MPL-2.0",
+  "metrics": {
+    "stars": 6393,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T14:23:23Z",
+    "first_commit_at": "2020-11-18T09:23:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6492,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:38.426756Z",
+  "last_refreshed_at": "2026-05-01T14:23:38.426759Z"
+}

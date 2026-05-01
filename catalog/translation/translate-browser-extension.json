@@ -1,0 +1,44 @@
+{
+  "slug": "translate-browser-extension",
+  "name": "translate-browser-extension",
+  "tagline": "AI-powered browser extension for full-page translation with 10+ providers including local offline models via WebAssembly",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "browser-extension",
+    "chrome-extension",
+    "firefox-extension",
+    "offline-translation",
+    "qwen",
+    "safari-extension",
+    "translation",
+    "typescript",
+    "webassembly"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MikkoParkkola",
+    "url": "https://github.com/MikkoParkkola"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MikkoParkkola/translate-browser-extension",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T06:52:49Z",
+    "first_commit_at": "2025-07-28T15:20:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2811,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:46.628843Z",
+  "last_refreshed_at": "2026-05-01T14:33:46.628846Z"
+}

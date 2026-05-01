@@ -1,0 +1,33 @@
+{
+  "slug": "little-red-flag",
+  "name": "little_red_flag",
+  "tagline": "A daemon for triggering the mbsync mail retrieval agent.",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "rlue",
+    "url": "https://github.com/rlue"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rlue/little_red_flag",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2020-07-02T04:07:02Z",
+    "first_commit_at": "2017-05-04T09:59:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2918,
+  "rank_in_category": 45,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:34:41.741871Z",
+  "last_refreshed_at": "2026-05-01T14:34:41.741875Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "cookhero",
+  "name": "CookHero",
+  "tagline": "CookHero是一个基于 LLM + RAG + Agent + 多模态的智能饮食与烹饪管理平台，支持智能菜谱查询、个性化饮食计划、AI 饮食记录、营养分析、Web 搜索增强，以及可扩展的 ReAct Agent / Subagent 工具体系，帮助厨房新手轻松成为“烹饪英雄”。",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "ai-chatbot",
+    "cooking-assistant",
+    "langchain",
+    "mcp",
+    "milvus",
+    "rag",
+    "subagents",
+    "tool",
+    "web-search"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Decade-qiu",
+    "url": "https://github.com/Decade-qiu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Decade-qiu/CookHero",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 480,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T22:32:58Z",
+    "first_commit_at": "2025-11-29T08:53:25Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5121,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:34:20.137287Z",
+  "last_refreshed_at": "2026-05-01T14:34:20.137291Z"
+}

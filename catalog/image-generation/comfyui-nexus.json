@@ -1,0 +1,39 @@
+{
+  "slug": "comfyui-nexus",
+  "name": "ComfyUI-Nexus",
+  "tagline": "Node to enable seamless multiuser workflow collaboration",
+  "category": "image-generation",
+  "tags": [
+    "collaboration",
+    "comfyui",
+    "comfyui-nodes",
+    "comfyui-workflow",
+    "multiplayer"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "daxcay",
+    "url": "https://github.com/daxcay"
+  },
+  "source": {
+    "primary": "github",
+    "github": "daxcay/ComfyUI-Nexus",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 96,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-01T15:40:05Z",
+    "first_commit_at": "2024-08-24T03:21:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1738,
+  "rank_in_category": 94,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:29:59.640763Z",
+  "last_refreshed_at": "2026-05-01T14:29:59.640766Z"
+}

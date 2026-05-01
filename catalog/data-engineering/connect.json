@@ -1,0 +1,44 @@
+{
+  "slug": "connect",
+  "name": "connect",
+  "tagline": "Fancy stream processing made operationally mundane",
+  "category": "data-engineering",
+  "tags": [
+    "amqp",
+    "cqrs",
+    "data-engineering",
+    "data-ops",
+    "etl",
+    "event-sourcing",
+    "go",
+    "golang",
+    "kafka",
+    "logs"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "redpanda-data",
+    "url": "https://github.com/redpanda-data"
+  },
+  "source": {
+    "primary": "github",
+    "github": "redpanda-data/connect",
+    "huggingface": null,
+    "homepage": "https://docs.redpanda.com/redpanda-connect/about/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 8654,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T14:16:45Z",
+    "first_commit_at": "2015-08-25T21:23:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6567,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:35.134733Z",
+  "last_refreshed_at": "2026-05-01T14:23:35.134736Z"
+}

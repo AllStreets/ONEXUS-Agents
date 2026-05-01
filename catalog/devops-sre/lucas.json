@@ -1,0 +1,37 @@
+{
+  "slug": "lucas",
+  "name": "lucas",
+  "tagline": "A2W's SRE agent for Kubernetes",
+  "category": "devops-sre",
+  "tags": [
+    "ai-agents",
+    "kubernetes",
+    "sre"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "a2wio",
+    "url": "https://github.com/a2wio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "a2wio/lucas",
+    "huggingface": null,
+    "homepage": "https://a2w.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 353,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-10T07:26:43Z",
+    "first_commit_at": "2025-12-25T18:47:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2843,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:39:24.713000Z",
+  "last_refreshed_at": "2026-05-01T14:39:24.713004Z"
+}

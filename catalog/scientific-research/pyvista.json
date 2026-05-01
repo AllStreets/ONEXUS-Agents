@@ -1,0 +1,44 @@
+{
+  "slug": "pyvista",
+  "name": "pyvista",
+  "tagline": "3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)",
+  "category": "scientific-research",
+  "tags": [
+    "3d",
+    "fem",
+    "finite-element-analysis",
+    "finite-elements",
+    "hacktoberfest",
+    "mesh",
+    "mesh-processing",
+    "meshviewer",
+    "open-science",
+    "plotting"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pyvista",
+    "url": "https://github.com/pyvista"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pyvista/pyvista",
+    "huggingface": null,
+    "homepage": "https://docs.pyvista.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3626,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:48:43Z",
+    "first_commit_at": "2017-05-31T18:10:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6825,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:57.025494Z",
+  "last_refreshed_at": "2026-05-01T14:40:57.025498Z"
+}

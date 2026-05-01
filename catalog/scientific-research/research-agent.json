@@ -1,0 +1,44 @@
+{
+  "slug": "research-agent",
+  "name": "research-agent",
+  "tagline": "An autonomous AI research assistant that runs from the system tray. It uses LangChain to plan, browse, and synthesize web data into comprehensive Markdown reports using local (LM Studio) or cloud LLMs",
+  "category": "scientific-research",
+  "tags": [
+    "agentic-workflow",
+    "ai-agents",
+    "autonomous-agents",
+    "cypherpk",
+    "deep-search",
+    "duckduckgo-search",
+    "generative-ai",
+    "langchain-python",
+    "llm",
+    "open-source"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "PavanKumarVattikuti",
+    "url": "https://github.com/PavanKumarVattikuti"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PavanKumarVattikuti/research-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T15:54:58Z",
+    "first_commit_at": "2026-02-21T17:41:13Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3427,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:52.362377Z",
+  "last_refreshed_at": "2026-05-01T14:40:52.362380Z"
+}

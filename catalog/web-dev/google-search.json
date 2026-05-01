@@ -1,0 +1,39 @@
+{
+  "slug": "google-search",
+  "name": "google-search",
+  "tagline": "A Playwright-based Node.js tool that bypasses search engine anti-scraping mechanisms to execute Google searches. Local alternative to SERP APIs with MCP server integration.",
+  "category": "web-dev",
+  "tags": [
+    "ai",
+    "google-search",
+    "llm",
+    "mcp-server",
+    "web-scraping"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "web-agent-master",
+    "url": "https://github.com/web-agent-master"
+  },
+  "source": {
+    "primary": "github",
+    "github": "web-agent-master/google-search",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 590,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-06T06:05:15Z",
+    "first_commit_at": "2025-03-04T02:30:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2228,
+  "rank_in_category": 78,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:06.992265Z",
+  "last_refreshed_at": "2026-05-01T14:23:06.992268Z"
+}

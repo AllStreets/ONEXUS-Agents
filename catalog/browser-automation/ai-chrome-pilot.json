@@ -1,0 +1,36 @@
+{
+  "slug": "ai-chrome-pilot",
+  "name": "ai-chrome-pilot",
+  "tagline": "A lightweight browser automation server for AI agents, powered by Chrome DevTools Protocol (CDP). Minimal dependencies, easy to embed — automatically detects and launches your local Chrome, exposing b",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agents",
+    "ai-browser-automation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shinshin86",
+    "url": "https://github.com/shinshin86"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shinshin86/ai-chrome-pilot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-28T07:03:20Z",
+    "first_commit_at": "2026-02-26T09:32:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2308,
+  "rank_in_category": 85,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:46.709846Z",
+  "last_refreshed_at": "2026-05-01T14:35:46.709849Z"
+}

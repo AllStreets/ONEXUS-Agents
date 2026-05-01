@@ -1,0 +1,44 @@
+{
+  "slug": "smartcall-agent",
+  "name": "SmartCall-Agent",
+  "tagline": "🐙 AI Agent System with RAG and outbound calling through LiveKit, OpenAI Realtime for voice chats; integrates Pinecone, JWT auth, and analytics for smart agents.",
+  "category": "customer-support",
+  "tags": [
+    "ai-agent",
+    "ai-call-center-solution",
+    "ai-customer-support",
+    "fastapi",
+    "livekit",
+    "openai-api",
+    "outbound-calling",
+    "pinecone",
+    "pinecone-document-embeddings",
+    "plivo"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "silaskiragu",
+    "url": "https://github.com/silaskiragu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "silaskiragu/SmartCall-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T09:00:30Z",
+    "first_commit_at": "2025-08-04T13:02:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4479,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:15.529152Z",
+  "last_refreshed_at": "2026-05-01T14:28:15.529155Z"
+}

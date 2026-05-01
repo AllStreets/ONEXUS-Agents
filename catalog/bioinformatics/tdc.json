@@ -1,0 +1,44 @@
+{
+  "slug": "tdc",
+  "name": "TDC",
+  "tagline": "Therapeutics Commons (TDC): Multimodal Foundation for Therapeutic Science",
+  "category": "bioinformatics",
+  "tags": [
+    "artificial-intelligence",
+    "benchmarks",
+    "bioinformatics",
+    "biology",
+    "biomedicine",
+    "biotech",
+    "cheminformatics",
+    "chemistry",
+    "datasets",
+    "deep-learning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mims-harvard",
+    "url": "https://github.com/mims-harvard"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mims-harvard/TDC",
+    "huggingface": null,
+    "homepage": "https://tdcommons.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1237,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-13T17:44:10Z",
+    "first_commit_at": "2020-09-17T21:05:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2697,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:22.376306Z",
+  "last_refreshed_at": "2026-05-01T14:40:22.376309Z"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "multidiffusion-upscaler-for-automatic1111",
+  "name": "multidiffusion-upscaler-for-automatic1111",
+  "tagline": "Tiled Diffusion and VAE optimize, licensed under CC BY-NC-SA 4.0",
+  "category": "image-generation",
+  "tags": [
+    "image-generation",
+    "large-image",
+    "multidiffusion",
+    "stable-diffusion",
+    "stable-diffusion-webui",
+    "stable-diffusion-webui-plugin",
+    "vramsaving"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pkuliyi2015",
+    "url": "https://github.com/pkuliyi2015"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 5001,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-07T09:32:25Z",
+    "first_commit_at": "2023-02-27T14:27:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2704,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:24.968365Z",
+  "last_refreshed_at": "2026-05-01T14:30:24.968368Z"
+}

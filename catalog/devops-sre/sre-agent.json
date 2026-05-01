@@ -1,0 +1,33 @@
+{
+  "slug": "sre-agent",
+  "name": "sre-agent",
+  "tagline": "A Site Reliability Engineer AI agent that can monitor application and infrastructure logs, diagnose issues, and report on diagnostics.",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "fuzzylabs",
+    "url": "https://github.com/fuzzylabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fuzzylabs/sre-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 220,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T08:56:30Z",
+    "first_commit_at": "2025-04-07T14:56:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3981,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:39:25.568191Z",
+  "last_refreshed_at": "2026-05-01T14:39:25.568195Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "agent-sandbox",
+  "name": "agent-sandbox",
+  "tagline": "Agent-Sandbox is an E2B compatible easy-to-use enterprise-grade sandboxes for AI Agents. Allows Agents to securely run untrusted LLM-generated Code, Browser use, Computer use, and deploy Website etc.",
+  "category": "browser-automation",
+  "tags": [
+    "agent",
+    "agent-sandbox",
+    "ai-infra",
+    "ai-sandbox",
+    "browser-use",
+    "code-executor",
+    "computer-use",
+    "container",
+    "e2b-compatible",
+    "kubernetes-native"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agent-sandbox",
+    "url": "https://github.com/agent-sandbox"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agent-sandbox/agent-sandbox",
+    "huggingface": null,
+    "homepage": "https://agent-sandbox.github.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 117,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T10:38:35Z",
+    "first_commit_at": "2025-12-05T07:46:33Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3074,
+  "rank_in_category": 46,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:18.151091Z",
+  "last_refreshed_at": "2026-05-01T14:35:18.151094Z"
+}

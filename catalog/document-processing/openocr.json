@@ -1,0 +1,42 @@
+{
+  "slug": "openocr",
+  "name": "OpenOCR",
+  "tagline": "OpenOCR: An Open-Source Toolkit for General-OCR Research and Applications, integrates a unified training and evaluation benchmark, commercial-grade OCR and Document Parsing systems, and faithful repro",
+  "category": "document-processing",
+  "tags": [
+    "chineseocr",
+    "document-analysis",
+    "document-parsing",
+    "document-processing",
+    "ocr",
+    "ocr-pytorch",
+    "scene-text-detection",
+    "scene-text-recognition"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Topdu",
+    "url": "https://github.com/Topdu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Topdu/OpenOCR",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1338,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-23T06:29:43Z",
+    "first_commit_at": "2024-05-31T14:47:47Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5962,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:53.908251Z",
+  "last_refreshed_at": "2026-05-01T14:37:53.908254Z"
+}

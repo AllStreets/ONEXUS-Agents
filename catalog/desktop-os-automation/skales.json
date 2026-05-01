@@ -1,0 +1,44 @@
+{
+  "slug": "skales",
+  "name": "skales",
+  "tagline": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no ter",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai-agent",
+    "ai-assistant",
+    "ai-companions",
+    "automation",
+    "autonomous-agent",
+    "calendar",
+    "code-generation",
+    "desktop-app",
+    "desktop-buddy",
+    "electron"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "skalesapp",
+    "url": "https://github.com/skalesapp"
+  },
+  "source": {
+    "primary": "github",
+    "github": "skalesapp/skales",
+    "huggingface": null,
+    "homepage": "https://skales.app/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 900,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T08:58:05Z",
+    "first_commit_at": "2026-03-08T09:37:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3431,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:04.754596Z",
+  "last_refreshed_at": "2026-05-01T14:37:04.754600Z"
+}

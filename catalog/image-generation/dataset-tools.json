@@ -1,0 +1,44 @@
+{
+  "slug": "dataset-tools",
+  "name": "Dataset-Tools",
+  "tagline": "An Extensive AI & Camera Metadata Viewer",
+  "category": "image-generation",
+  "tags": [
+    "automatic1111",
+    "comfyui-workflow",
+    "dataset",
+    "exif-metadata",
+    "flux",
+    "gguf",
+    "images",
+    "lora",
+    "metadata",
+    "metadata-parser"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Ktiseos-Nyx",
+    "url": "https://github.com/Ktiseos-Nyx"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Ktiseos-Nyx/Dataset-Tools",
+    "huggingface": null,
+    "homepage": "https://discord.gg/HhBSvM9gBY"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 68,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-14T03:03:19Z",
+    "first_commit_at": "2026-01-05T01:43:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3019,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:06.331778Z",
+  "last_refreshed_at": "2026-05-01T14:30:06.331781Z"
+}

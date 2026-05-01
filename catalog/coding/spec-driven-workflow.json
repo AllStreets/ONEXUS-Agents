@@ -1,0 +1,44 @@
+{
+  "slug": "spec-driven-workflow",
+  "name": "spec-driven-workflow",
+  "tagline": "Lightweight markdown-based workflow for collaborating with AI coding assistants using spec-driven development methodology",
+  "category": "coding",
+  "tags": [
+    "ai-agents",
+    "ai-assisted-development",
+    "ai-coding-assistant",
+    "claude-code",
+    "context-engineering",
+    "cursor",
+    "development-workflow",
+    "markdown",
+    "prompt-engineering",
+    "prompts"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "liatrio-labs",
+    "url": "https://github.com/liatrio-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "liatrio-labs/spec-driven-workflow",
+    "huggingface": null,
+    "homepage": "https://liatrio-labs.github.io/spec-driven-workflow/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 80,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-09T13:12:23Z",
+    "first_commit_at": "2025-10-02T21:28:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1986,
+  "rank_in_category": 150,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:19:32.917936Z",
+  "last_refreshed_at": "2026-05-01T14:19:32.917939Z"
+}

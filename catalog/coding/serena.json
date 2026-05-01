@@ -1,0 +1,44 @@
+{
+  "slug": "serena",
+  "name": "serena",
+  "tagline": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-coding",
+    "claude",
+    "claude-code",
+    "codex",
+    "ide",
+    "jetbrains",
+    "language-server",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "oraios",
+    "url": "https://github.com/oraios"
+  },
+  "source": {
+    "primary": "github",
+    "github": "oraios/serena",
+    "huggingface": null,
+    "homepage": "https://oraios.github.io/serena"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 23665,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T19:11:10Z",
+    "first_commit_at": "2025-03-23T22:33:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3186,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:34.014879Z",
+  "last_refreshed_at": "2026-05-01T14:20:34.014882Z"
+}

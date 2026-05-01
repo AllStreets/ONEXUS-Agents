@@ -1,0 +1,44 @@
+{
+  "slug": "playwright-skill",
+  "name": "playwright-skill",
+  "tagline": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-tools",
+    "automation",
+    "browser-automation",
+    "claude",
+    "claude-code",
+    "claude-plugin",
+    "claude-skills",
+    "developer-tools",
+    "e2e-testing",
+    "model-invoked"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lackeyjb",
+    "url": "https://github.com/lackeyjb"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lackeyjb/playwright-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2536,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-19T16:23:38Z",
+    "first_commit_at": "2025-10-19T21:31:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.27,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:33.764067Z",
+  "last_refreshed_at": "2026-05-01T14:35:33.764070Z"
+}

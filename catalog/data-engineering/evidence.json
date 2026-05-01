@@ -1,0 +1,44 @@
+{
+  "slug": "evidence",
+  "name": "evidence",
+  "tagline": "Business intelligence as code: build fast, interactive data visualizations in SQL and markdown",
+  "category": "data-engineering",
+  "tags": [
+    "analytics",
+    "business-intelligence",
+    "dashboard",
+    "data-engineering",
+    "data-science",
+    "data-visualization",
+    "dbt",
+    "duckdb",
+    "exploratory-data-analysis",
+    "self-hosted"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "evidence-dev",
+    "url": "https://github.com/evidence-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "evidence-dev/evidence",
+    "huggingface": null,
+    "homepage": "https://evidence.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6261,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-18T20:43:42Z",
+    "first_commit_at": "2021-05-27T03:56:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5553,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:39.225981Z",
+  "last_refreshed_at": "2026-05-01T14:23:39.225985Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "lang",
+  "name": "lang",
+  "tagline": "List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.",
+  "category": "translation",
+  "tags": [
+    "i18n",
+    "language",
+    "laravel",
+    "laravel-application",
+    "laravel-breeze",
+    "laravel-cashier",
+    "laravel-fortify",
+    "laravel-jetstream",
+    "laravel-nova",
+    "laravel-spark"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Laravel-Lang",
+    "url": "https://github.com/Laravel-Lang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Laravel-Lang/lang",
+    "huggingface": null,
+    "homepage": "https://laravel-lang.com/packages-lang.html"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7774,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T13:35:53Z",
+    "first_commit_at": "2013-05-29T22:56:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5212,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:20.097155Z",
+  "last_refreshed_at": "2026-05-01T14:33:20.097158Z"
+}

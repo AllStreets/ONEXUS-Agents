@@ -1,0 +1,44 @@
+{
+  "slug": "obsei",
+  "name": "obsei",
+  "tagline": "Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .",
+  "category": "customer-support",
+  "tags": [
+    "anonymization",
+    "artificial-intelligence",
+    "business-process-automation",
+    "customer-engagement",
+    "customer-support",
+    "issue-tracking-system",
+    "low-code",
+    "lowcode",
+    "natural-language-processing",
+    "nlp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "obsei",
+    "url": "https://github.com/obsei"
+  },
+  "source": {
+    "primary": "github",
+    "github": "obsei/obsei",
+    "huggingface": null,
+    "homepage": "https://obsei.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1398,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-04T14:21:36Z",
+    "first_commit_at": "2020-10-25T21:00:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4946,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:33.008998Z",
+  "last_refreshed_at": "2026-05-01T14:27:33.009001Z"
+}

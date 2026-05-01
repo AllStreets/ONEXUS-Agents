@@ -1,0 +1,44 @@
+{
+  "slug": "localai",
+  "name": "LocalAI",
+  "tagline": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+  "category": "image-generation",
+  "tags": [
+    "agents",
+    "ai",
+    "api",
+    "audio-generation",
+    "decentralized",
+    "distributed",
+    "image-generation",
+    "libp2p",
+    "llama",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mudler",
+    "url": "https://github.com/mudler"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mudler/LocalAI",
+    "huggingface": null,
+    "homepage": "https://localai.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 45978,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:42:01Z",
+    "first_commit_at": "2023-03-18T22:58:18Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5404,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:09.061926Z",
+  "last_refreshed_at": "2026-05-01T14:30:09.061930Z"
+}

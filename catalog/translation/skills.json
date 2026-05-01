@@ -1,0 +1,44 @@
+{
+  "slug": "skills",
+  "name": "skills",
+  "tagline": "Official AI agent skills for Better i18n — best practices for i18n implementation, translation workflows, and localization automation with Claude, GPT, and other AI assistants",
+  "category": "translation",
+  "tags": [
+    "agent",
+    "ai-agents",
+    "ai-translation",
+    "best-practices",
+    "claude",
+    "developer-tools",
+    "i18n",
+    "internationalization",
+    "llm",
+    "localization"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "better-i18n",
+    "url": "https://github.com/better-i18n"
+  },
+  "source": {
+    "primary": "github",
+    "github": "better-i18n/skills",
+    "huggingface": null,
+    "homepage": "https://docs.better-i18n.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-29T12:49:32Z",
+    "first_commit_at": "2026-01-31T12:26:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2083,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:50.485702Z",
+  "last_refreshed_at": "2026-05-01T14:33:50.485705Z"
+}

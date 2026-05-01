@@ -1,0 +1,38 @@
+{
+  "slug": "foldseek",
+  "name": "foldseek",
+  "tagline": "Foldseek enables fast and sensitive comparisons of large structure sets.",
+  "category": "bioinformatics",
+  "tags": [
+    "alignments",
+    "bioinformatics",
+    "clustering",
+    "protein-structure"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "steineggerlab",
+    "url": "https://github.com/steineggerlab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "steineggerlab/foldseek",
+    "huggingface": null,
+    "homepage": "https://foldseek.com/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 1227,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-10T06:44:49Z",
+    "first_commit_at": "2018-09-28T17:00:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3933,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:23.200127Z",
+  "last_refreshed_at": "2026-05-01T14:40:23.200130Z"
+}

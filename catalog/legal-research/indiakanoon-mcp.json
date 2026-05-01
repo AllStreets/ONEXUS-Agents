@@ -1,0 +1,38 @@
+{
+  "slug": "indiakanoon-mcp",
+  "name": "indiakanoon-mcp",
+  "tagline": "MCP server that connects Claude Desktop to IndiaKanoon — search and retrieve Indian case law directly within your Claude conversation",
+  "category": "legal-research",
+  "tags": [
+    "indian-law",
+    "legal-research",
+    "mcp",
+    "model-context-protocol-servers"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "beral-lab",
+    "url": "https://github.com/beral-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "beral-lab/indiakanoon-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-14T10:47:29Z",
+    "first_commit_at": "2026-04-14T10:41:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1238,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:26:59.785799Z",
+  "last_refreshed_at": "2026-05-01T14:26:59.785802Z"
+}

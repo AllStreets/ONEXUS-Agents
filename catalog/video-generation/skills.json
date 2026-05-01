@@ -1,0 +1,42 @@
+{
+  "slug": "skills",
+  "name": "skills",
+  "tagline": "HeyGen AI agent skills — avatar creation and video production via the v3 Video Agent pipeline",
+  "category": "video-generation",
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "avatar-video",
+    "claude-code",
+    "heygen",
+    "openclaw",
+    "skill",
+    "video"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "heygen-com",
+    "url": "https://github.com/heygen-com"
+  },
+  "source": {
+    "primary": "github",
+    "github": "heygen-com/skills",
+    "huggingface": null,
+    "homepage": "https://developers.heygen.com/docs/quick-start"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 198,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T00:12:20Z",
+    "first_commit_at": "2026-03-24T18:15:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4919,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:15.052167Z",
+  "last_refreshed_at": "2026-05-01T14:32:15.052170Z"
+}

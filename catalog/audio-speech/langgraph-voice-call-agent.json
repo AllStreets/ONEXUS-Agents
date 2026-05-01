@@ -1,0 +1,42 @@
+{
+  "slug": "langgraph-voice-call-agent",
+  "name": "langgraph-voice-call-agent",
+  "tagline": "A real-time voice/call AI agent that lets you talk to a LangGraph agent over LiveKit — similar to \"voice mode\" experiences in ChatGPT Voice, OpenAI Realtime API sessions, and Gemini Live. This repo de",
+  "category": "audio-speech",
+  "tags": [
+    "agents",
+    "call-agent",
+    "langgraph",
+    "livekit",
+    "realtime-chat",
+    "voice",
+    "voice-agent",
+    "voice-agents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ahmad2b",
+    "url": "https://github.com/ahmad2b"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ahmad2b/langgraph-voice-call-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 38,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-31T12:24:23Z",
+    "first_commit_at": "2025-08-22T07:46:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2207,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:48.752286Z",
+  "last_refreshed_at": "2026-05-01T14:32:48.752289Z"
+}

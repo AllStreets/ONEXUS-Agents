@@ -1,0 +1,40 @@
+{
+  "slug": "uav-generativeai-navigation-images",
+  "name": "UAV-GenerativeAI-Navigation-Images",
+  "tagline": "Generative AI for UAV Navigation in Natural Environments. This project utilizes GAN and Diffusion models to generate realistic images of roads and rivers from UAV perspectives.",
+  "category": "image-generation",
+  "tags": [
+    "diffusion-models",
+    "gan",
+    "generative-ai",
+    "image-generation-ai",
+    "reconnaissance",
+    "uav"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Shengwei-Peng",
+    "url": "https://github.com/Shengwei-Peng"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Shengwei-Peng/UAV-GenerativeAI-Navigation-Images",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2024-10-31T14:17:50Z",
+    "first_commit_at": "2024-05-30T21:41:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1159,
+  "rank_in_category": 120,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:54.207074Z",
+  "last_refreshed_at": "2026-05-01T14:30:54.207077Z"
+}

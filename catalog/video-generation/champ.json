@@ -1,0 +1,37 @@
+{
+  "slug": "champ",
+  "name": "champ",
+  "tagline": "[ECCV 2024] Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance",
+  "category": "video-generation",
+  "tags": [
+    "human-animation",
+    "image-animatioln",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "fudan-generative-vision",
+    "url": "https://github.com/fudan-generative-vision"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fudan-generative-vision/champ",
+    "huggingface": null,
+    "homepage": "https://fudan-generative-vision.github.io/champ/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4255,
+    "downloads_30d": null,
+    "last_commit_at": "2024-07-10T07:53:06Z",
+    "first_commit_at": "2024-03-17T15:06:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4353,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:34.551023Z",
+  "last_refreshed_at": "2026-05-01T14:31:34.551026Z"
+}

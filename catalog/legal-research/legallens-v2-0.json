@@ -1,0 +1,44 @@
+{
+  "slug": "legallens-v2-0",
+  "name": "LegalLens_v2.0",
+  "tagline": "AI-powered legal contract analysis — risk detection, executive summaries, and RAG-powered chat using fine-tuned Legal-BERT + LoRA",
+  "category": "legal-research",
+  "tags": [
+    "contract-analysis",
+    "huggingface",
+    "langchan",
+    "legal-ai",
+    "lora",
+    "nlp",
+    "rag",
+    "risk-detection",
+    "streamlit",
+    "transformer"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ardhigagan",
+    "url": "https://github.com/ardhigagan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ardhigagan/LegalLens_v2.0",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/spaces/ardhigagan/LegalLens_v2.0"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T04:41:05Z",
+    "first_commit_at": "2026-04-20T04:49:14Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.13,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:26:41.906627Z",
+  "last_refreshed_at": "2026-05-01T14:26:41.906630Z"
+}

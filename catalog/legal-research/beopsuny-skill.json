@@ -1,0 +1,44 @@
+{
+  "slug": "beopsuny-skill",
+  "name": "beopsuny-skill",
+  "tagline": "한국 법무 실무를 위한 Claude Code skill — 법령·판례 조사, 계약서 검토, 컴플라이언스. Korean legal research skill for Claude Code (statute, case law, contract review, compliance).",
+  "category": "legal-research",
+  "tags": [
+    "agent-skills",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-code-skill",
+    "compliance",
+    "contract-review",
+    "korea",
+    "korean-law",
+    "law",
+    "legal-research"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sungjunlee",
+    "url": "https://github.com/sungjunlee"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sungjunlee/beopsuny-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-23T13:00:04Z",
+    "first_commit_at": "2026-04-11T09:41:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1329,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:11.131803Z",
+  "last_refreshed_at": "2026-05-01T14:27:11.131806Z"
+}

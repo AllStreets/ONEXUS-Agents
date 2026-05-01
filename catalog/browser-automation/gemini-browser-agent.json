@@ -1,0 +1,42 @@
+{
+  "slug": "gemini-browser-agent",
+  "name": "gemini-browser-agent",
+  "tagline": "A browser agent with a Google Chrome extension that can work in your browser. Based on Google Gemini 2.5 computer use model.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agents",
+    "ai-browser-automation",
+    "browser-automation",
+    "browser-extension",
+    "browser-use",
+    "gemini-api",
+    "javascript",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pmbstyle",
+    "url": "https://github.com/pmbstyle"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pmbstyle/gemini-browser-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 74,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-23T15:22:50Z",
+    "first_commit_at": "2025-10-23T12:44:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1993,
+  "rank_in_category": 104,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:19.757783Z",
+  "last_refreshed_at": "2026-05-01T14:35:19.757786Z"
+}

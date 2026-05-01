@@ -1,0 +1,33 @@
+{
+  "slug": "websocket-agent",
+  "name": "websocket_agent",
+  "tagline": "this can receive websocket from one client then connect to a server by tcp , then transfer msg between them.",
+  "category": "web-dev",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "zxb19890727",
+    "url": "https://github.com/zxb19890727"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zxb19890727/websocket_agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 110,
+    "downloads_30d": null,
+    "last_commit_at": "2019-04-13T03:06:48Z",
+    "first_commit_at": "2015-12-12T12:00:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1962,
+  "rank_in_category": 93,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:19.582623Z",
+  "last_refreshed_at": "2026-05-01T14:23:19.582627Z"
+}

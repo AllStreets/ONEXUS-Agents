@@ -1,0 +1,41 @@
+{
+  "slug": "inventory",
+  "name": "Inventory",
+  "tagline": " INVENTORY é um painel web que exibe dados extraídos da API do Wazuh, via SysCollector. A solução oferece acesso rápido a detalhes do sistema. Tudo é apresentado em uma interface simples para equipes ",
+  "category": "desktop-os-automation",
+  "tags": [
+    "cybersecurity",
+    "infrastructure",
+    "inventory-management",
+    "security-tools",
+    "sysadmin",
+    "wazuh",
+    "wazuh-integration"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Maarckz",
+    "url": "https://github.com/Maarckz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Maarckz/Inventory",
+    "huggingface": null,
+    "homepage": "https://github.com/Maarckz/Inventory"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 52,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-04T13:30:14Z",
+    "first_commit_at": "2025-06-25T01:22:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2893,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:17.384815Z",
+  "last_refreshed_at": "2026-05-01T14:37:17.384818Z"
+}

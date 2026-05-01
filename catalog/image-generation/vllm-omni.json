@@ -1,0 +1,43 @@
+{
+  "slug": "vllm-omni",
+  "name": "vllm-omni",
+  "tagline": "A framework for efficient model inference with omni-modality models",
+  "category": "image-generation",
+  "tags": [
+    "audio-generation",
+    "diffusion",
+    "image-generation",
+    "inference",
+    "model-serving",
+    "multimodal",
+    "pytorch",
+    "transformer",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "vllm-project",
+    "url": "https://github.com/vllm-project"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vllm-project/vllm-omni",
+    "huggingface": null,
+    "homepage": "https://docs.vllm.ai/projects/vllm-omni"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4580,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T12:19:42Z",
+    "first_commit_at": "2025-09-11T00:34:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4388,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:27.541577Z",
+  "last_refreshed_at": "2026-05-01T14:30:27.541580Z"
+}

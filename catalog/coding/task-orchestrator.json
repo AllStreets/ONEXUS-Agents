@@ -1,0 +1,44 @@
+{
+  "slug": "task-orchestrator",
+  "name": "task-orchestrator",
+  "tagline": "Server-enforced workflow discipline for AI agents. An MCP server providing persistent work items, dependency graphs, quality gates, and actor attribution. Schemas define what agents must produce — the",
+  "category": "coding",
+  "tags": [
+    "ai-coding-assistant",
+    "ai-development",
+    "ai-harness",
+    "ai-memory",
+    "ai-tools",
+    "claude",
+    "claude-code",
+    "claude-desktop",
+    "context-persistence",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jpicklyk",
+    "url": "https://github.com/jpicklyk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jpicklyk/task-orchestrator",
+    "huggingface": null,
+    "homepage": "https://github.com/jpicklyk/task-orchestrator/wiki"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 183,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T14:02:45Z",
+    "first_commit_at": "2025-05-22T19:59:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2421,
+  "rank_in_category": 98,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:19:25.287153Z",
+  "last_refreshed_at": "2026-05-01T14:19:25.287157Z"
+}

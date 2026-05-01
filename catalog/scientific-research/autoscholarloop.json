@@ -1,0 +1,42 @@
+{
+  "slug": "autoscholarloop",
+  "name": "AutoScholarLoop",
+  "tagline": "A multi-agent AUTO Research loop for idea discovery, experiment execution, evidence-grounded paper writing, quality audit, and live Web observation from AI group, CNIC, CAS.",
+  "category": "scientific-research",
+  "tags": [
+    "academic-writing",
+    "ai-research",
+    "ai-researcher",
+    "ai-scientist",
+    "ai-scientists",
+    "auto-research",
+    "paper-writing-agent",
+    "research-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "damonwan1",
+    "url": "https://github.com/damonwan1"
+  },
+  "source": {
+    "primary": "github",
+    "github": "damonwan1/AutoScholarLoop",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T02:24:55Z",
+    "first_commit_at": "2026-04-24T08:10:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4003,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:49.388353Z",
+  "last_refreshed_at": "2026-05-01T14:40:49.388356Z"
+}

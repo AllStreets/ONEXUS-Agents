@@ -1,0 +1,44 @@
+{
+  "slug": "zyg",
+  "name": "zyg",
+  "tagline": "The open-source support infrastructure for B2B companies.",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "customer-support",
+    "customer-support-ai",
+    "devtools",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "javascript",
+    "langchain",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "deadcodedump",
+    "url": "https://github.com/deadcodedump"
+  },
+  "source": {
+    "primary": "github",
+    "github": "deadcodedump/zyg",
+    "huggingface": null,
+    "homepage": "https://zyg.ai/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 19,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-16T03:04:56Z",
+    "first_commit_at": "2024-03-06T17:49:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2913,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:54.774258Z",
+  "last_refreshed_at": "2026-05-01T14:27:54.774261Z"
+}

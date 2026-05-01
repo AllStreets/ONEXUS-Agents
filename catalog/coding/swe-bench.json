@@ -1,0 +1,37 @@
+{
+  "slug": "swe-bench",
+  "name": "SWE-bench",
+  "tagline": "SWE-bench: Can Language Models Resolve Real-world Github Issues?",
+  "category": "coding",
+  "tags": [
+    "benchmark",
+    "language-model",
+    "software-engineering"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SWE-bench",
+    "url": "https://github.com/SWE-bench"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SWE-bench/SWE-bench",
+    "huggingface": null,
+    "homepage": "https://www.swebench.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4826,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-01T05:16:30Z",
+    "first_commit_at": "2023-10-10T10:19:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2887,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:17.012978Z",
+  "last_refreshed_at": "2026-05-01T14:21:17.012981Z"
+}

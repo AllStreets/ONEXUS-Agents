@@ -1,0 +1,33 @@
+{
+  "slug": "ansible-ossec-agent",
+  "name": "ansible-ossec-agent",
+  "tagline": "Installing and maintaining the ossec-agent for RedHat/Debian/Ubuntu.",
+  "category": "desktop-os-automation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "dj-wasabi",
+    "url": "https://github.com/dj-wasabi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dj-wasabi/ansible-ossec-agent",
+    "huggingface": null,
+    "homepage": "https://galaxy.ansible.com/dj-wasabi/ossec-agent/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 42,
+    "downloads_30d": null,
+    "last_commit_at": "2021-01-31T10:47:19Z",
+    "first_commit_at": "2014-11-05T19:47:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2008,
+  "rank_in_category": 67,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:18.929293Z",
+  "last_refreshed_at": "2026-05-01T14:37:18.929297Z"
+}

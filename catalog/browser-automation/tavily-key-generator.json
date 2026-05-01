@@ -1,0 +1,44 @@
+{
+  "slug": "tavily-key-generator",
+  "name": "tavily-key-generator",
+  "tagline": "Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools.",
+  "category": "browser-automation",
+  "tags": [
+    "api-key-generator",
+    "browser-automation",
+    "camoufox",
+    "cloudflare",
+    "duckmail",
+    "email-automation",
+    "fastapi",
+    "firecrawl",
+    "mcp",
+    "playwright"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "skernelx",
+    "url": "https://github.com/skernelx"
+  },
+  "source": {
+    "primary": "github",
+    "github": "skernelx/tavily-key-generator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1478,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-22T10:42:57Z",
+    "first_commit_at": "2026-03-15T17:23:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3043,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:41.178357Z",
+  "last_refreshed_at": "2026-05-01T14:35:41.178361Z"
+}

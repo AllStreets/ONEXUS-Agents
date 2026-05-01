@@ -1,0 +1,44 @@
+{
+  "slug": "law7",
+  "name": "law7",
+  "tagline": "Law7 MCP Server and Core Engine -- Open up-to-date legal database for AI assistants",
+  "category": "legal-research",
+  "tags": [
+    "ai-assistants",
+    "amendment-tracking",
+    "law",
+    "legal-assistance",
+    "legal-documents",
+    "legal-research",
+    "legal-tech",
+    "mcp",
+    "russian-law",
+    "semantic-search"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mikhashev",
+    "url": "https://github.com/mikhashev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mikhashev/law7",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-29T19:04:48Z",
+    "first_commit_at": "2026-01-18T16:44:58Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1715,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:26:47.938415Z",
+  "last_refreshed_at": "2026-05-01T14:26:47.938418Z"
+}

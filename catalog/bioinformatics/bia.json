@@ -1,0 +1,33 @@
+{
+  "slug": "bia",
+  "name": "bia",
+  "tagline": "BioInformatics Agent (BIA): Unleashing the Power of Large Language Models to Reshape Bioinformatics Workflow",
+  "category": "bioinformatics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "biagent-dev",
+    "url": "https://github.com/biagent-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "biagent-dev/bia",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 43,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-21T02:41:30Z",
+    "first_commit_at": "2024-05-17T01:41:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1636,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:29.069820Z",
+  "last_refreshed_at": "2026-05-01T14:40:29.069823Z"
+}

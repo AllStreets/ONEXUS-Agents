@@ -1,0 +1,43 @@
+{
+  "slug": "biopython",
+  "name": "biopython",
+  "tagline": "Official git repository for Biopython (originally converted from CVS)",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "biopython",
+    "dna",
+    "genomics",
+    "phylogenetics",
+    "protein",
+    "protein-structure",
+    "python",
+    "sequence-alignment"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "biopython",
+    "url": "https://github.com/biopython"
+  },
+  "source": {
+    "primary": "github",
+    "github": "biopython/biopython",
+    "huggingface": null,
+    "homepage": "http://biopython.org/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4999,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T08:15:31Z",
+    "first_commit_at": "1999-12-08T00:11:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4956,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:05.291978Z",
+  "last_refreshed_at": "2026-05-01T14:40:05.291981Z"
+}

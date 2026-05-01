@@ -1,0 +1,42 @@
+{
+  "slug": "seimei",
+  "name": "SEIMEI",
+  "tagline": "Search-Enhanced Interface for Multi-Expertise Integration (SEIMEI): Realtime-Knowledge-Update AI System with Intelligent Search",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "code-agent",
+    "knowledge-graph",
+    "realtime-knowledge-update",
+    "rmsearch",
+    "search",
+    "seimei",
+    "websearch-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kyotoai",
+    "url": "https://github.com/kyotoai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kyotoai/SEIMEI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-28T03:19:35Z",
+    "first_commit_at": "2024-11-02T11:46:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.169,
+  "rank_in_category": 169,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:19:55.132762Z",
+  "last_refreshed_at": "2026-05-01T14:19:55.132766Z"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "newrelic-browser-agent",
+  "name": "newrelic-browser-agent",
+  "tagline": "New Relic Browser Agent",
+  "category": "browser-automation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "newrelic",
+    "url": "https://github.com/newrelic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "newrelic/newrelic-browser-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 123,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T17:11:46Z",
+    "first_commit_at": "2021-03-03T14:06:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3505,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:05.506923Z",
+  "last_refreshed_at": "2026-05-01T14:36:05.506927Z"
+}

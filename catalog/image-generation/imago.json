@@ -1,0 +1,38 @@
+{
+  "slug": "imago",
+  "name": "Imago",
+  "tagline": "Open-source full-stack AI image generation platform built with Next.js, Supabase, and Stripe. Features structured prompt building, credit system, PWA support, and a polished dark-mode UI.",
+  "category": "image-generation",
+  "tags": [
+    "ai",
+    "image-generation",
+    "image-generation-ai",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tenngoxars",
+    "url": "https://github.com/tenngoxars"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tenngoxars/Imago",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-14T09:52:12Z",
+    "first_commit_at": "2026-01-14T09:51:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1626,
+  "rank_in_category": 103,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:50.196825Z",
+  "last_refreshed_at": "2026-05-01T14:30:50.196828Z"
+}

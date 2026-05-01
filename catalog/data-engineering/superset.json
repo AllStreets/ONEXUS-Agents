@@ -1,0 +1,44 @@
+{
+  "slug": "superset",
+  "name": "superset",
+  "tagline": "Apache Superset is a Data Visualization and Data Exploration Platform",
+  "category": "data-engineering",
+  "tags": [
+    "analytics",
+    "apache",
+    "apache-superset",
+    "asf",
+    "bi",
+    "business-analytics",
+    "business-intelligence",
+    "data-analysis",
+    "data-analytics",
+    "data-engineering"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "apache",
+    "url": "https://github.com/apache"
+  },
+  "source": {
+    "primary": "github",
+    "github": "apache/superset",
+    "huggingface": null,
+    "homepage": "https://superset.apache.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 72666,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:34:27Z",
+    "first_commit_at": "2015-07-02T22:16:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7099,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:24.700731Z",
+  "last_refreshed_at": "2026-05-01T14:23:24.700734Z"
+}

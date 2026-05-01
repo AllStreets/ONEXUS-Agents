@@ -1,0 +1,40 @@
+{
+  "slug": "deepseek-translator-chrome-plugin",
+  "name": "deepseek-translator-chrome-plugin",
+  "tagline": "DeepSeek Translator Chrome Plugin 是一个 极简、免费、开源 的 Chrome 扩展插件，基于 DeepSeek 大模型 实现 AI 中英文翻译。用户只需选中文本并右键点击，即可快速获取翻译结果，并显示在侧边栏中。无需付费、无需复杂配置，开箱即用，专注于为用户提供流畅的翻译体验。",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "chrome",
+    "chrome-extension",
+    "deepseek",
+    "deepseek-coder",
+    "english-translator"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "richcorgi",
+    "url": "https://github.com/richcorgi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "richcorgi/deepseek-translator-chrome-plugin",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 17,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-12T06:35:25Z",
+    "first_commit_at": "2025-01-06T11:31:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1303,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:36.806863Z",
+  "last_refreshed_at": "2026-05-01T14:33:36.806866Z"
+}

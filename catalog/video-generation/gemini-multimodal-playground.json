@@ -1,0 +1,37 @@
+{
+  "slug": "gemini-multimodal-playground",
+  "name": "gemini-multimodal-playground",
+  "tagline": "Build realtime voice and video agents with Google's new Gemini 2.0 (API is free for now)",
+  "category": "video-generation",
+  "tags": [
+    "gemini",
+    "llm",
+    "voice-agents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "saharmor",
+    "url": "https://github.com/saharmor"
+  },
+  "source": {
+    "primary": "github",
+    "github": "saharmor/gemini-multimodal-playground",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 323,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-12T02:54:39Z",
+    "first_commit_at": "2024-12-13T11:31:16Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.374,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:13.357067Z",
+  "last_refreshed_at": "2026-05-01T14:32:13.357070Z"
+}

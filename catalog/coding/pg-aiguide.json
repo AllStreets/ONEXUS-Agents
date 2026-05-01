@@ -1,0 +1,44 @@
+{
+  "slug": "pg-aiguide",
+  "name": "pg-aiguide",
+  "tagline": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-coding",
+    "claude-code-plugin",
+    "claude-code-plugins",
+    "claude-code-plugins-marketplace",
+    "claude-marketplace",
+    "claude-plugin",
+    "claude-skills",
+    "docs"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "timescale",
+    "url": "https://github.com/timescale"
+  },
+  "source": {
+    "primary": "github",
+    "github": "timescale/pg-aiguide",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1705,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T15:20:29Z",
+    "first_commit_at": "2025-07-23T16:39:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2683,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:46.643139Z",
+  "last_refreshed_at": "2026-05-01T14:20:46.643142Z"
+}

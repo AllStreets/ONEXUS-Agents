@@ -1,0 +1,39 @@
+{
+  "slug": "video-content-agent",
+  "name": "video-content-agent",
+  "tagline": "End-to-end AI agent that turns a topic into a viral short video by researching trends, writing scripts, enabling human review, generating voiceovers, and producing polished vertical videos automatical",
+  "category": "content-writing",
+  "tags": [
+    "ai-agents",
+    "content-automation",
+    "generative-ai",
+    "short-form-video",
+    "video-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sailorworks",
+    "url": "https://github.com/sailorworks"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sailorworks/video-content-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 33,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-27T11:50:57Z",
+    "first_commit_at": "2025-12-02T18:17:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3565,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:29:40.937008Z",
+  "last_refreshed_at": "2026-05-01T14:29:40.937011Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "seqkit",
+  "name": "seqkit",
+  "tagline": "A cross-platform and ultrafast toolkit for FASTA/Q file manipulation",
+  "category": "bioinformatics",
+  "tags": [
+    "bioinformatics",
+    "cross-platform",
+    "fasta",
+    "fastq",
+    "golang",
+    "manipulation",
+    "sequence",
+    "tool",
+    "toolkit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shenwei356",
+    "url": "https://github.com/shenwei356"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shenwei356/seqkit",
+    "huggingface": null,
+    "homepage": "https://bioinf.shenwei.me/seqkit"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1545,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-23T09:01:40Z",
+    "first_commit_at": "2016-02-28T10:05:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4585,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:18.457098Z",
+  "last_refreshed_at": "2026-05-01T14:40:18.457101Z"
+}

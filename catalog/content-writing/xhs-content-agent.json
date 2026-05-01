@@ -1,0 +1,33 @@
+{
+  "slug": "xhs-content-agent",
+  "name": "xhs_content_agent",
+  "tagline": "这是我开发的一个基于大模型的小红书内容运营智能 Agent 系统。 该系统可以实现从数据采集到内容生成，再到自动发布的完整流程，主要功能包括： 使用 Playwright 爬取小红书热门内容 分析爆款规律（关键词、标签、标题结构） 基于分析结果自动生成选题 使用大模型生成完整文案（标题、正文、标签、互动语） 调用图像模型生成配图 支持通过 API 或 MCP 一键发布内容 技术栈包括： FastA",
+  "category": "content-writing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "hl897tech",
+    "url": "https://github.com/hl897tech"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hl897tech/xhs_content_agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 163,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-29T18:28:25Z",
+    "first_commit_at": "2026-03-29T18:27:29Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4532,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:29:38.580327Z",
+  "last_refreshed_at": "2026-05-01T14:29:38.580330Z"
+}

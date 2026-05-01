@@ -1,0 +1,44 @@
+{
+  "slug": "inferrlm",
+  "name": "InferrLM",
+  "tagline": "InferrLM - On-device AI for iOS & Android",
+  "category": "document-processing",
+  "tags": [
+    "anthropic",
+    "document-processing",
+    "edge-ai",
+    "embeddings",
+    "gemini",
+    "gguf",
+    "http-server",
+    "llama-cpp",
+    "llamacpp",
+    "local-inference"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sbhjt-gr",
+    "url": "https://github.com/sbhjt-gr"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sbhjt-gr/InferrLM",
+    "huggingface": null,
+    "homepage": "https://inferrlm.app/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 87,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-17T07:58:08Z",
+    "first_commit_at": "2025-02-20T14:34:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4922,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:10.483858Z",
+  "last_refreshed_at": "2026-05-01T14:38:10.483861Z"
+}

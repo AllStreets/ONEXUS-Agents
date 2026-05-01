@@ -1,0 +1,35 @@
+{
+  "slug": "bc-bench",
+  "name": "BC-Bench",
+  "tagline": "Inspired by SWE-Bench, for Business Central (AL) ecosystem.",
+  "category": "coding",
+  "tags": [
+    "bcopensource"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/BC-Bench",
+    "huggingface": null,
+    "homepage": "https://microsoft.github.io/BC-Bench/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 26,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:26:40Z",
+    "first_commit_at": "2025-09-29T07:52:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2037,
+  "rank_in_category": 143,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:34.123873Z",
+  "last_refreshed_at": "2026-05-01T14:21:34.123876Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "graph-rag-agent",
+  "name": "graph-rag-agent",
+  "tagline": "拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架| Integrate GraphRAG, LightRAG, and Neo4j-llm-graph-builder for knowledge graph construction",
+  "category": "search-rag",
+  "tags": [
+    "agentic-rag",
+    "chain-of-exploration",
+    "deepresearch",
+    "deepsearch",
+    "evaluation",
+    "graphrag",
+    "graphsearch",
+    "kg",
+    "lightrag",
+    "reasoning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "1517005260",
+    "url": "https://github.com/1517005260"
+  },
+  "source": {
+    "primary": "github",
+    "github": "1517005260/graph-rag-agent",
+    "huggingface": null,
+    "homepage": "https://deepwiki.com/1517005260/graph-rag-agent"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2137,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-05T08:15:51Z",
+    "first_commit_at": "2025-02-06T12:34:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4295,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:34:16.316155Z",
+  "last_refreshed_at": "2026-05-01T14:34:16.316158Z"
+}

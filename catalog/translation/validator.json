@@ -1,0 +1,37 @@
+{
+  "slug": "validator",
+  "name": "validator",
+  "tagline": ":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+  "category": "translation",
+  "tags": [
+    "error-handling",
+    "translation",
+    "validation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "go-playground",
+    "url": "https://github.com/go-playground"
+  },
+  "source": {
+    "primary": "github",
+    "github": "go-playground/validator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 19918,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T07:51:08Z",
+    "first_commit_at": "2015-02-12T16:32:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.549,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:07.778656Z",
+  "last_refreshed_at": "2026-05-01T14:33:07.778659Z"
+}

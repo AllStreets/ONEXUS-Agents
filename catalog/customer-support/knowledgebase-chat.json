@@ -1,0 +1,41 @@
+{
+  "slug": "knowledgebase-chat",
+  "name": "Knowledgebase-Chat",
+  "tagline": "using RAG + openai to chat with a knowledgebase.",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "ai-support",
+    "customer-support",
+    "customer-support-ai",
+    "openai",
+    "product-recommendation-with-ai",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "BruceWind",
+    "url": "https://github.com/BruceWind"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BruceWind/Knowledgebase-Chat",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2024-09-05T12:18:34Z",
+    "first_commit_at": "2024-09-04T04:20:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2001,
+  "rank_in_category": 98,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:06.005343Z",
+  "last_refreshed_at": "2026-05-01T14:28:06.005347Z"
+}

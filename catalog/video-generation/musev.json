@@ -1,0 +1,40 @@
+{
+  "slug": "musev",
+  "name": "MuseV",
+  "tagline": "MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising",
+  "category": "video-generation",
+  "tags": [
+    "diffusion",
+    "human-video-generation",
+    "image2video",
+    "infinite-length",
+    "musev",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TMElyralab",
+    "url": "https://github.com/TMElyralab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TMElyralab/MuseV",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2837,
+    "downloads_30d": null,
+    "last_commit_at": "2024-06-28T04:21:48Z",
+    "first_commit_at": "2024-03-25T09:56:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4234,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:45.926290Z",
+  "last_refreshed_at": "2026-05-01T14:31:45.926294Z"
+}

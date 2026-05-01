@@ -1,0 +1,44 @@
+{
+  "slug": "context-mode",
+  "name": "context-mode",
+  "tagline": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+  "category": "coding",
+  "tags": [
+    "antigravity",
+    "claude",
+    "claude-code",
+    "claude-code-hooks",
+    "claude-code-plugins",
+    "claude-code-skill",
+    "codex",
+    "codex-cli",
+    "context-mode",
+    "copilot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mksglu",
+    "url": "https://github.com/mksglu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mksglu/context-mode",
+    "huggingface": null,
+    "homepage": "https://context-mode.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 11624,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T12:17:17Z",
+    "first_commit_at": "2026-02-23T06:03:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2857,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:08.525858Z",
+  "last_refreshed_at": "2026-05-01T14:21:08.525861Z"
+}

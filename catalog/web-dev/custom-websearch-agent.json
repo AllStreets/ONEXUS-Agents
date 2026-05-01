@@ -1,0 +1,33 @@
+{
+  "slug": "custom-websearch-agent",
+  "name": "custom_websearch_agent",
+  "tagline": "Custom Websearch Agent Built with Local Models, vLLM, and OpenAI",
+  "category": "web-dev",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "john-adeojo",
+    "url": "https://github.com/john-adeojo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "john-adeojo/custom_websearch_agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 135,
+    "downloads_30d": null,
+    "last_commit_at": "2024-06-07T12:45:59Z",
+    "first_commit_at": "2024-05-20T14:18:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.201,
+  "rank_in_category": 92,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:16.677694Z",
+  "last_refreshed_at": "2026-05-01T14:23:16.677697Z"
+}

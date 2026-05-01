@@ -1,0 +1,44 @@
+{
+  "slug": "fedlex-mcp",
+  "name": "fedlex-mcp",
+  "tagline": "MCP server for Swiss federal law (Fedlex) — search the SR, monitor legal changes, and query BBl/treaties via Claude Desktop or Claude.ai",
+  "category": "legal-research",
+  "tags": [
+    "ai-tools",
+    "bundesrecht",
+    "claude",
+    "fastmcp",
+    "fedlex",
+    "jolux",
+    "legal-research",
+    "legal-tech",
+    "llm",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "malkreide",
+    "url": "https://github.com/malkreide"
+  },
+  "source": {
+    "primary": "github",
+    "github": "malkreide/fedlex-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T19:02:55Z",
+    "first_commit_at": "2026-03-05T05:14:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1409,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:26:54.974661Z",
+  "last_refreshed_at": "2026-05-01T14:26:54.974664Z"
+}

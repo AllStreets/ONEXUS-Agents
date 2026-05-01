@@ -1,0 +1,39 @@
+{
+  "slug": "ai-customer-support-agent",
+  "name": "ai-customer-support-agent",
+  "tagline": "AI-powered customer support automation workflow built with n8n ",
+  "category": "customer-support",
+  "tags": [
+    "ai-customer-support",
+    "chatbot",
+    "intelligent-routing",
+    "n8n",
+    "workflow-automation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JP-source-do",
+    "url": "https://github.com/JP-source-do"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JP-source-do/ai-customer-support-agent",
+    "huggingface": null,
+    "homepage": "https://www.loom.com/share/73548e064f6a4f08898fa862c837da8c"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-28T22:59:44Z",
+    "first_commit_at": "2025-09-25T01:19:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2031,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:25.369942Z",
+  "last_refreshed_at": "2026-05-01T14:28:25.369945Z"
+}

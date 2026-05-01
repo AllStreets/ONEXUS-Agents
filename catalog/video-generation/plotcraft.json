@@ -1,0 +1,44 @@
+{
+  "slug": "plotcraft",
+  "name": "PlotCraft",
+  "tagline": "AI驱动的专业视频脚本创作平台 — 7步工作流将小说/剧本/提示词转化为专业级视频，支持GLM-5/M2.5/Kimi等7+模型，智能分镜·角色一致性·唇形同步·多格式导出",
+  "category": "video-generation",
+  "tags": [
+    "ai-storytelling",
+    "ai-video-generation",
+    "ai-workflow",
+    "character-consistency",
+    "lip-sync",
+    "multi-model-ai",
+    "plot-to-video",
+    "script-generation",
+    "storyboard-generation",
+    "text-to-video"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Agions",
+    "url": "https://github.com/Agions"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Agions/PlotCraft",
+    "huggingface": null,
+    "homepage": "https://agions.github.io/PlotCraft/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T01:15:09Z",
+    "first_commit_at": "2026-04-19T14:39:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4239,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:58.328170Z",
+  "last_refreshed_at": "2026-05-01T14:31:58.328173Z"
+}

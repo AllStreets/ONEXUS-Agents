@@ -1,0 +1,33 @@
+{
+  "slug": "gilfoyle",
+  "name": "gilfoyle",
+  "tagline": "An SRE agent that does what you can't. Queries your observability stack. Finds root causes. Doesn't panic. Doesn't guess. Doesn't care about your feelings. You're welcome.",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "axiomhq",
+    "url": "https://github.com/axiomhq"
+  },
+  "source": {
+    "primary": "github",
+    "github": "axiomhq/gilfoyle",
+    "huggingface": null,
+    "homepage": "https://gilfoyle.sh/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 205,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-17T06:09:33Z",
+    "first_commit_at": "2026-01-25T13:54:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3455,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:39:26.321713Z",
+  "last_refreshed_at": "2026-05-01T14:39:26.321716Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "excel-analyst-pro",
+  "name": "excel-analyst-pro",
+  "tagline": "Professional financial modeling toolkit for Claude Code with auto-invoked Skills. Build DCF models, LBO analysis, variance reports, and pivot tables using natural language.",
+  "category": "financial-modeling",
+  "tags": [
+    "ai",
+    "automation",
+    "claude-code",
+    "claude-code-plugins",
+    "dcf",
+    "excel",
+    "finance",
+    "financial-modeling",
+    "investment-banking",
+    "lbo"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jeremylongshore",
+    "url": "https://github.com/jeremylongshore"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jeremylongshore/excel-analyst-pro",
+    "huggingface": null,
+    "homepage": "https://claudecodeplugins.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-25T01:48:24Z",
+    "first_commit_at": "2025-10-27T22:41:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2637,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:25:30.524521Z",
+  "last_refreshed_at": "2026-05-01T14:25:30.524525Z"
+}

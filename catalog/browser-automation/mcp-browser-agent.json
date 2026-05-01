@@ -1,0 +1,44 @@
+{
+  "slug": "mcp-browser-agent",
+  "name": "mcp-browser-agent",
+  "tagline": "A Model Context Protocol (MCP) integration that provides Claude Desktop with autonomous browser automation capabilities. This agent enables Claude to interact with web content, manipulate DOM elements",
+  "category": "browser-automation",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "aiagent",
+    "aiagents",
+    "automation",
+    "browser",
+    "chrome",
+    "chromium",
+    "claude"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "imprvhub",
+    "url": "https://github.com/imprvhub"
+  },
+  "source": {
+    "primary": "github",
+    "github": "imprvhub/mcp-browser-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MPL-2.0",
+  "metrics": {
+    "stars": 38,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-05T01:49:00Z",
+    "first_commit_at": "2025-05-05T07:17:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2412,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:11.122083Z",
+  "last_refreshed_at": "2026-05-01T14:36:11.122086Z"
+}

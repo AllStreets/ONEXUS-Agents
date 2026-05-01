@@ -1,0 +1,44 @@
+{
+  "slug": "pydoll",
+  "name": "pydoll",
+  "tagline": "Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. ",
+  "category": "browser-automation",
+  "tags": [
+    "anti-detection",
+    "automation",
+    "browser-automation",
+    "cdp",
+    "chromium",
+    "crawler",
+    "e2e-tests",
+    "fingerprinting",
+    "headless",
+    "playwright"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "autoscrape-labs",
+    "url": "https://github.com/autoscrape-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "autoscrape-labs/pydoll",
+    "huggingface": null,
+    "homepage": "https://pydoll.tech/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6787,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-10T23:43:52Z",
+    "first_commit_at": "2024-10-27T15:46:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3782,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:28.261983Z",
+  "last_refreshed_at": "2026-05-01T14:35:28.261987Z"
+}

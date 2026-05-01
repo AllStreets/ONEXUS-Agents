@@ -1,0 +1,44 @@
+{
+  "slug": "weave",
+  "name": "Weave",
+  "tagline": "A highly efficient, secure, and stable application development platform with excellent performance, easy scalability, and deep integration of AI capabilities such as LLM, AI Chat, RAG, and Agents.高效、安",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "aichat",
+    "docker",
+    "eino",
+    "gin",
+    "golang",
+    "k8s",
+    "large-language-models",
+    "mcp",
+    "plugin-system"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "liaotxcn",
+    "url": "https://github.com/liaotxcn"
+  },
+  "source": {
+    "primary": "github",
+    "github": "liaotxcn/Weave",
+    "huggingface": null,
+    "homepage": "https://github.com/NexusForgeAI/Weave-Toolkit"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 303,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-22T11:59:41Z",
+    "first_commit_at": "2025-09-29T15:29:48Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4639,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:34:22.309599Z",
+  "last_refreshed_at": "2026-05-01T14:34:22.309603Z"
+}

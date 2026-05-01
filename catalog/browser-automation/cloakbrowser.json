@@ -1,0 +1,44 @@
+{
+  "slug": "cloakbrowser",
+  "name": "CloakBrowser",
+  "tagline": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agents",
+    "anti-detect",
+    "antidetect-browser",
+    "bot-detection",
+    "browser-automation",
+    "captcha-bypass",
+    "chromium",
+    "cloudflare",
+    "cloudflare-bypass",
+    "fingerprint"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "CloakHQ",
+    "url": "https://github.com/CloakHQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CloakHQ/CloakBrowser",
+    "huggingface": null,
+    "homepage": "https://cloakbrowser.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1483,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T18:37:24Z",
+    "first_commit_at": "2026-02-22T09:30:25Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3401,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:40.418892Z",
+  "last_refreshed_at": "2026-05-01T14:35:40.418896Z"
+}

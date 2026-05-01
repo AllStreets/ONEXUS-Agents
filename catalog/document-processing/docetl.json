@@ -1,0 +1,44 @@
+{
+  "slug": "docetl",
+  "name": "docetl",
+  "tagline": "A system for agentic LLM-powered data processing and ETL",
+  "category": "document-processing",
+  "tags": [
+    "agents",
+    "data",
+    "data-pipelines",
+    "document-analysis",
+    "document-processing",
+    "elt",
+    "etl",
+    "llm",
+    "python",
+    "semantic-data"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ucbepic",
+    "url": "https://github.com/ucbepic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ucbepic/docetl",
+    "huggingface": null,
+    "homepage": "https://docetl.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3738,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-27T17:34:50Z",
+    "first_commit_at": "2024-07-09T05:57:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5804,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:37:52.394938Z",
+  "last_refreshed_at": "2026-05-01T14:37:52.394941Z"
+}

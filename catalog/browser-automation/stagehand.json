@@ -1,0 +1,40 @@
+{
+  "slug": "stagehand",
+  "name": "stagehand",
+  "tagline": "The SDK For Browser Agents",
+  "category": "browser-automation",
+  "tags": [
+    "agents",
+    "ai",
+    "llms",
+    "playwright",
+    "puppeteer",
+    "selenium"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "browserbase",
+    "url": "https://github.com/browserbase"
+  },
+  "source": {
+    "primary": "github",
+    "github": "browserbase/stagehand",
+    "huggingface": null,
+    "homepage": "https://stagehand.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 22415,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T22:40:25Z",
+    "first_commit_at": "2024-03-24T20:16:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.428,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:56.464502Z",
+  "last_refreshed_at": "2026-05-01T14:35:56.464506Z"
+}

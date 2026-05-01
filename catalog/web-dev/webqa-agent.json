@@ -1,0 +1,44 @@
+{
+  "slug": "webqa-agent",
+  "name": "webqa-agent",
+  "tagline": "Autonomous web browser agent that audits performance, functionality & UX for engineers and vibe-coding creators. 网站自主评估测试 Agent，支持 GUI/CLI 一键完成性能、功能使用与交互体验的测试评估",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "browser-agent",
+    "e2e",
+    "llm",
+    "qa",
+    "qa-agent",
+    "regression-testing",
+    "test-generation",
+    "vibe-coding",
+    "vibe-testing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "MigoXLab",
+    "url": "https://github.com/MigoXLab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MigoXLab/webqa-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 205,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-31T07:44:03Z",
+    "first_commit_at": "2025-08-01T11:50:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.342,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:14.296682Z",
+  "last_refreshed_at": "2026-05-01T14:23:14.296685Z"
+}

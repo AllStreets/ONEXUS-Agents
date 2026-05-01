@@ -1,0 +1,44 @@
+{
+  "slug": "claude-user-memory",
+  "name": "claude-user-memory",
+  "tagline": " Autonomous agent substrate for Claude Code CLI. Research→Plan→Implement workflows with quality gates, TDD   enforcement, and multi-agent coordination. 4.8-5.5x faster development. Built on Anthropic'",
+  "category": "coding",
+  "tags": [
+    "agent-orchestration",
+    "ai-agents",
+    "ai-coding-assistant",
+    "autonomous-agents",
+    "claude-ai",
+    "claude-code",
+    "developer-tools",
+    "multi-agent-system",
+    "research-driven-development",
+    "tdd"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "VAMFI",
+    "url": "https://github.com/VAMFI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "VAMFI/claude-user-memory",
+    "huggingface": null,
+    "homepage": "https://vamfi.org/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 178,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-23T04:17:58Z",
+    "first_commit_at": "2025-07-25T05:55:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1383,
+  "rank_in_category": 195,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:19:26.136621Z",
+  "last_refreshed_at": "2026-05-01T14:19:26.136625Z"
+}

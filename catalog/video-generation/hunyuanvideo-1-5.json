@@ -1,0 +1,37 @@
+{
+  "slug": "hunyuanvideo-1-5",
+  "name": "HunyuanVideo-1.5",
+  "tagline": "HunyuanVideo-1.5: A leading lightweight video generation model",
+  "category": "video-generation",
+  "tags": [
+    "image-to-video",
+    "text-to-video",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Tencent-Hunyuan",
+    "url": "https://github.com/Tencent-Hunyuan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tencent-Hunyuan/HunyuanVideo-1.5",
+    "huggingface": null,
+    "homepage": "https://hunyuan.tencent.com/video/zh?tabIndex=0"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4401,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-10T06:14:59Z",
+    "first_commit_at": "2025-11-21T03:07:13Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5671,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:33.744639Z",
+  "last_refreshed_at": "2026-05-01T14:31:33.744643Z"
+}

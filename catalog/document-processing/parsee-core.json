@@ -1,0 +1,38 @@
+{
+  "slug": "parsee-core",
+  "name": "parsee-core",
+  "tagline": "Retrieval of fully structured data made easy. Use LLMs or custom models. Specialized on PDFs and HTML files. Extensive support of tabular data extraction and multimodal queries.",
+  "category": "document-processing",
+  "tags": [
+    "document-processing",
+    "llm",
+    "multimodal",
+    "structured-data"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "parsee-ai",
+    "url": "https://github.com/parsee-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "parsee-ai/parsee-core",
+    "huggingface": null,
+    "homepage": "https://parsee.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 85,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-12T22:38:42Z",
+    "first_commit_at": "2024-02-14T09:32:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5133,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:11.263543Z",
+  "last_refreshed_at": "2026-05-01T14:38:11.263546Z"
+}

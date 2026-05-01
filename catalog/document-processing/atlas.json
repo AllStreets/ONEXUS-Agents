@@ -1,0 +1,37 @@
+{
+  "slug": "atlas",
+  "name": "atlas",
+  "tagline": "Atlas is the core API and system of record. It manages authentication, workspaces, document metadata, upload orchestration, job tracking, and coordinates all interactions between the frontend and the ",
+  "category": "document-processing",
+  "tags": [
+    "ai-document-processing",
+    "nestjs",
+    "text-extraction"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "cahtarevic-ermin",
+    "url": "https://github.com/cahtarevic-ermin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cahtarevic-ermin/atlas",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-02T11:06:14Z",
+    "first_commit_at": "2025-11-19T17:20:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2435,
+  "rank_in_category": 69,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:19.369189Z",
+  "last_refreshed_at": "2026-05-01T14:38:19.369193Z"
+}

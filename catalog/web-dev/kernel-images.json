@@ -1,0 +1,41 @@
+{
+  "slug": "kernel-images",
+  "name": "kernel-images",
+  "tagline": "Browsers-as-a-service for automations and web agents",
+  "category": "web-dev",
+  "tags": [
+    "ai",
+    "browser",
+    "container",
+    "docker",
+    "infrastructure",
+    "unikernel",
+    "vm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kernel",
+    "url": "https://github.com/kernel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kernel/kernel-images",
+    "huggingface": null,
+    "homepage": "https://www.kernel.sh/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 782,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:02:13Z",
+    "first_commit_at": "2025-04-12T00:44:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4356,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:05.430264Z",
+  "last_refreshed_at": "2026-05-01T14:23:05.430266Z"
+}

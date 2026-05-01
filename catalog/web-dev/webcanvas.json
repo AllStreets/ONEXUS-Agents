@@ -1,0 +1,38 @@
+{
+  "slug": "webcanvas",
+  "name": "WebCanvas",
+  "tagline": "All-in-one Web Agent framework for post-training. Start building with a few clicks!",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "benchmark-framework",
+    "llm-agent",
+    "llm-evaluation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "iMeanAI",
+    "url": "https://github.com/iMeanAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iMeanAI/WebCanvas",
+    "huggingface": null,
+    "homepage": "https://www.imean.ai/web-canvas"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 281,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-07T10:55:58Z",
+    "first_commit_at": "2023-10-10T05:58:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2435,
+  "rank_in_category": 67,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:11.805371Z",
+  "last_refreshed_at": "2026-05-01T14:23:11.805374Z"
+}

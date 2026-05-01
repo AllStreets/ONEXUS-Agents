@@ -1,0 +1,44 @@
+{
+  "slug": "extractpdf4j",
+  "name": "ExtractPDF4J",
+  "tagline": "Java PDF table extraction & OCR library. Extract structured tables from text-based and scanned PDFs using stream, lattice (OpenCV-style grid detection), and hybrid parsing.",
+  "category": "document-processing",
+  "tags": [
+    "cli",
+    "document-processing",
+    "java",
+    "java17",
+    "maven",
+    "ocr",
+    "ocr-recognition",
+    "pdf-document",
+    "pdf-document-processor",
+    "pdf-extraction"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ExtractPDF4J",
+    "url": "https://github.com/ExtractPDF4J"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ExtractPDF4J/ExtractPDF4J",
+    "huggingface": null,
+    "homepage": "https://extractpdf4j.github.io/ExtractPDF4J/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 156,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-15T22:47:46Z",
+    "first_commit_at": "2025-08-14T04:36:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4468,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:38:02.341031Z",
+  "last_refreshed_at": "2026-05-01T14:38:02.341034Z"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "medbrief",
+  "name": "MedBrief",
+  "tagline": "It is an automated system that summarizes medical research papers into concise, informative videos. The system fetches papers from PubMed, processes them, and creates professional videos with narratio",
+  "category": "video-generation",
+  "tags": [
+    "ai-video-generation",
+    "automated-content",
+    "medical-research",
+    "pubmed-api",
+    "research-summarization",
+    "vertex-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Siddhant-K-code",
+    "url": "https://github.com/Siddhant-K-code"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Siddhant-K-code/MedBrief",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-23T13:11:08Z",
+    "first_commit_at": "2025-03-16T10:54:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2213,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:07.617865Z",
+  "last_refreshed_at": "2026-05-01T14:32:07.617868Z"
+}

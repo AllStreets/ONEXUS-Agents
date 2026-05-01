@@ -1,0 +1,44 @@
+{
+  "slug": "deep-gcns-torch",
+  "name": "deep_gcns_torch",
+  "tagline": "Pytorch Repo for DeepGCNs (ICCV'2019 Oral, TPAMI'2021), DeeperGCN (arXiv'2020) and GNN1000(ICML'2021): https://www.deepgcns.org",
+  "category": "bioinformatics",
+  "tags": [
+    "3d-point-clouds",
+    "bioinformatics",
+    "cheminformatics",
+    "computer-vision",
+    "data-mining",
+    "deep-gcns",
+    "deep-learning",
+    "geometric-deep-learning",
+    "graph-convolutional-networks",
+    "graph-neural-networks"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lightaime",
+    "url": "https://github.com/lightaime"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lightaime/deep_gcns_torch",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1189,
+    "downloads_30d": null,
+    "last_commit_at": "2022-07-31T21:01:32Z",
+    "first_commit_at": "2019-07-30T19:44:01Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2455,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:40:24.919155Z",
+  "last_refreshed_at": "2026-05-01T14:40:24.919158Z"
+}

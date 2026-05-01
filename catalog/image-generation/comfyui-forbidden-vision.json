@@ -1,0 +1,44 @@
+{
+  "slug": "comfyui-forbidden-vision",
+  "name": "ComfyUI-Forbidden-Vision",
+  "tagline": "Reliable face detection, segmentation and enhancement for ComfyUI with custom-trained models that work across anime, realism, extreme poses and occlusion.",
+  "category": "image-generation",
+  "tags": [
+    "color-grading",
+    "comfyui",
+    "comfyui-workflow",
+    "face-detection",
+    "face-restoration",
+    "face-segmentation",
+    "image-classification",
+    "image-enhancement",
+    "image-generation",
+    "inpainting"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "luxdelux7",
+    "url": "https://github.com/luxdelux7"
+  },
+  "source": {
+    "primary": "github",
+    "github": "luxdelux7/ComfyUI-Forbidden-Vision",
+    "huggingface": null,
+    "homepage": "https://ko-fi.com/luxdelux"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 82,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-09T20:26:41Z",
+    "first_commit_at": "2025-07-14T20:57:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3168,
+  "rank_in_category": 39,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:02.003470Z",
+  "last_refreshed_at": "2026-05-01T14:30:02.003473Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "visual-skills",
+  "name": "visual-skills",
+  "tagline": "Professional Claude Skills for AI image and video prompting. Supports Nano Banana (Gemini 3 Pro/Flash), GPT Image 2, Seedance 2.0, Kling 3.0 (multi-shot + native dialogue), Veo. Works with Claude Code",
+  "category": "video-generation",
+  "tags": [
+    "ai-image-generation",
+    "ai-prompts",
+    "ai-video-generation",
+    "claude",
+    "claude-agent-sdk",
+    "claude-code",
+    "claude-skills",
+    "cline",
+    "creative-director",
+    "cursor"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "smixs",
+    "url": "https://github.com/smixs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "smixs/visual-skills",
+    "huggingface": null,
+    "homepage": "https://github.com/smixs/visual-skills"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 19,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-26T03:14:40Z",
+    "first_commit_at": "2026-04-26T02:52:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4172,
+  "rank_in_category": 45,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:59.081099Z",
+  "last_refreshed_at": "2026-05-01T14:31:59.081103Z"
+}

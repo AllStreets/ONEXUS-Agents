@@ -1,0 +1,33 @@
+{
+  "slug": "academic-writing-agents",
+  "name": "academic-writing-agents",
+  "tagline": "Claude Code plugin: multi-agent orchestrator with 10 specialist agents for academic writing review, research, drafting, and polishing",
+  "category": "content-writing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "andrehuang",
+    "url": "https://github.com/andrehuang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "andrehuang/academic-writing-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 59,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-28T12:27:03Z",
+    "first_commit_at": "2026-03-26T09:22:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4241,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:29:32.721111Z",
+  "last_refreshed_at": "2026-05-01T14:29:32.721114Z"
+}

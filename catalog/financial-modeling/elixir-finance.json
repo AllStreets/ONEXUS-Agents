@@ -1,0 +1,39 @@
+{
+  "slug": "elixir-finance",
+  "name": "Elixir-Finance",
+  "tagline": "🏦 A financial modeling lib for Elixir, contains functions for calculating useful stuff like EBITDA, book-value-eps, etc...",
+  "category": "financial-modeling",
+  "tags": [
+    "finance",
+    "financial-modeling",
+    "financial-statements",
+    "investing",
+    "portfolio"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "GunnarPDX",
+    "url": "https://github.com/GunnarPDX"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GunnarPDX/Elixir-Finance",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 31,
+    "downloads_30d": null,
+    "last_commit_at": "2020-12-06T02:44:56Z",
+    "first_commit_at": "2020-05-18T07:48:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1565,
+  "rank_in_category": 109,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:25:28.201290Z",
+  "last_refreshed_at": "2026-05-01T14:25:28.201293Z"
+}

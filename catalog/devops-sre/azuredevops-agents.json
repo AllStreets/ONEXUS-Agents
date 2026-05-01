@@ -1,0 +1,38 @@
+{
+  "slug": "azuredevops-agents",
+  "name": "AzureDevOps-agents",
+  "tagline": "Images for self-hosted DevOps agents",
+  "category": "devops-sre",
+  "tags": [
+    "azure",
+    "devops",
+    "devops-agents",
+    "pipelines"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "RobertoPrevato",
+    "url": "https://github.com/RobertoPrevato"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RobertoPrevato/AzureDevOps-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 64,
+    "downloads_30d": null,
+    "last_commit_at": "2021-05-05T18:52:52Z",
+    "first_commit_at": "2019-07-17T21:47:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1789,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:39:14.647284Z",
+  "last_refreshed_at": "2026-05-01T14:39:14.647288Z"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "kiss-translator",
+  "name": "kiss-translator",
+  "tagline": "A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)",
+  "category": "translation",
+  "tags": [
+    "extension",
+    "translate",
+    "translation",
+    "translator",
+    "userscript",
+    "userscripts"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "fishjar",
+    "url": "https://github.com/fishjar"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fishjar/kiss-translator",
+    "huggingface": null,
+    "homepage": "https://github.com/fishjar/kiss-translator"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 9813,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T01:17:57Z",
+    "first_commit_at": "2023-07-18T07:23:16Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5315,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:16.339971Z",
+  "last_refreshed_at": "2026-05-01T14:33:16.339975Z"
+}

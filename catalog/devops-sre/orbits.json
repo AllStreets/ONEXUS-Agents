@@ -1,0 +1,44 @@
+{
+  "slug": "orbits",
+  "name": "orbits",
+  "tagline": "Keep your orbit in the cloud galaxy. A typescript framework for DevOps Agent.",
+  "category": "devops-sre",
+  "tags": [
+    "cdk",
+    "cdk8s",
+    "cicd",
+    "devops",
+    "node",
+    "nodejs",
+    "orchestration",
+    "saga-pattern",
+    "typescript",
+    "workflow"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "LaWebcapsule",
+    "url": "https://github.com/LaWebcapsule"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LaWebcapsule/orbits",
+    "huggingface": null,
+    "homepage": "http://orbits.do/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 82,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T15:35:02Z",
+    "first_commit_at": "2023-01-07T22:47:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4021,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:39:13.867839Z",
+  "last_refreshed_at": "2026-05-01T14:39:13.867842Z"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "anydoor",
+  "name": "AnyDoor",
+  "tagline": "Official implementations for paper: Anydoor: zero-shot object-level image customization",
+  "category": "image-generation",
+  "tags": [
+    "image-composition",
+    "image-customization",
+    "image-editing",
+    "image-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ali-vilab",
+    "url": "https://github.com/ali-vilab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ali-vilab/AnyDoor",
+    "huggingface": null,
+    "homepage": "https://ali-vilab.github.io/AnyDoor-Page/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4227,
+    "downloads_30d": null,
+    "last_commit_at": "2024-04-08T06:31:26Z",
+    "first_commit_at": "2023-12-17T05:48:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2655,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:30.050740Z",
+  "last_refreshed_at": "2026-05-01T14:30:30.050744Z"
+}

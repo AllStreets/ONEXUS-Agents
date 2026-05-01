@@ -1,0 +1,40 @@
+{
+  "slug": "agent-style",
+  "name": "agent-style",
+  "tagline": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+  "category": "content-writing",
+  "tags": [
+    "ai-agents",
+    "llm",
+    "prompt-engineering",
+    "style-guide",
+    "technical-writing",
+    "writing-style"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yzhao062",
+    "url": "https://github.com/yzhao062"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yzhao062/agent-style",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 383,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T04:26:23Z",
+    "first_commit_at": "2026-04-19T08:12:05Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5197,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:29:29.578053Z",
+  "last_refreshed_at": "2026-05-01T14:29:29.578056Z"
+}

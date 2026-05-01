@@ -1,0 +1,44 @@
+{
+  "slug": "story-shot-agent",
+  "name": "story-shot-agent",
+  "tagline": "剧本分镜智能体（PenShot）：电影/短剧/小说→分镜→片段→prompt | 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词。保持角色/剧情跨片段一致，支持 MCP/REST API/函数调用 | Python库 + A2A集成。（LLM-powered screenplay-to-video-pr",
+  "category": "video-generation",
+  "tags": [
+    "agent-to-agent",
+    "ai-filmmaking",
+    "ai-video-generation",
+    "character-consistency",
+    "function-calling",
+    "kling-ai",
+    "langgraph-agent",
+    "llm-agent",
+    "pika-labs",
+    "prompt-engineering"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "neopen",
+    "url": "https://github.com/neopen"
+  },
+  "source": {
+    "primary": "github",
+    "github": "neopen/story-shot-agent",
+    "huggingface": null,
+    "homepage": "https://shot.pengline.cn/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 55,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T10:12:26Z",
+    "first_commit_at": "2025-10-23T13:28:56Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4714,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:31:53.789769Z",
+  "last_refreshed_at": "2026-05-01T14:31:53.789773Z"
+}

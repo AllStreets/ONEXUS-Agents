@@ -1,0 +1,44 @@
+{
+  "slug": "mmagic",
+  "name": "mmagic",
+  "tagline": "OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generatio",
+  "category": "image-generation",
+  "tags": [
+    "aigc",
+    "computer-vision",
+    "deep-learning",
+    "diffusion",
+    "diffusion-models",
+    "generative-adversarial-network",
+    "generative-ai",
+    "image-editing",
+    "image-generation",
+    "image-processing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "open-mmlab",
+    "url": "https://github.com/open-mmlab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "open-mmlab/mmagic",
+    "huggingface": null,
+    "homepage": "https://mmagic.readthedocs.io/en/latest/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7423,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-06T07:19:40Z",
+    "first_commit_at": "2020-03-28T08:29:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2796,
+  "rank_in_category": 57,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:30:23.480490Z",
+  "last_refreshed_at": "2026-05-01T14:30:23.480493Z"
+}

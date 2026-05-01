@@ -1,0 +1,39 @@
+{
+  "slug": "openclaude",
+  "name": "openclaude",
+  "tagline": "runs anywhere. uses anything",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-tools",
+    "cli",
+    "coding"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Gitlawb",
+    "url": "https://github.com/Gitlawb"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Gitlawb/openclaude",
+    "huggingface": null,
+    "homepage": "https://openclaude.gitlawb.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 25301,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T14:18:43Z",
+    "first_commit_at": "2026-03-31T10:34:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2939,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:03.608000Z",
+  "last_refreshed_at": "2026-05-01T14:20:03.608003Z"
+}

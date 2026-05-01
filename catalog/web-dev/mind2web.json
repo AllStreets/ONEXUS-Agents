@@ -1,0 +1,33 @@
+{
+  "slug": "mind2web",
+  "name": "Mind2Web",
+  "tagline": "[NeurIPS'23 Spotlight] \"Mind2Web: Towards a Generalist Agent for the Web\" -- the first LLM-based web agent and benchmark for generalist web agents",
+  "category": "web-dev",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "OSU-NLP-Group",
+    "url": "https://github.com/OSU-NLP-Group"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OSU-NLP-Group/Mind2Web",
+    "huggingface": null,
+    "homepage": "https://osu-nlp-group.github.io/Mind2Web/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 984,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-05T00:38:41Z",
+    "first_commit_at": "2020-11-24T09:39:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3111,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:03.566331Z",
+  "last_refreshed_at": "2026-05-01T14:23:03.566335Z"
+}

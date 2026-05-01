@@ -1,0 +1,44 @@
+{
+  "slug": "siphon",
+  "name": "siphon",
+  "tagline": "Open-source Python framework for building AI calling agents. No per-minute fees, no vendor lock-in. Full control over infrastructure, data, and costs. Production-ready with scaling.",
+  "category": "audio-speech",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agents",
+    "calling",
+    "calling-agents",
+    "infrastructure",
+    "livekit",
+    "llm",
+    "openai",
+    "self-hosted"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "blackdwarftech",
+    "url": "https://github.com/blackdwarftech"
+  },
+  "source": {
+    "primary": "github",
+    "github": "blackdwarftech/siphon",
+    "huggingface": null,
+    "homepage": "https://siphon.blackdwarf.in/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 31,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-29T21:08:32Z",
+    "first_commit_at": "2026-01-07T17:37:18Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3379,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:50.702649Z",
+  "last_refreshed_at": "2026-05-01T14:32:50.702652Z"
+}

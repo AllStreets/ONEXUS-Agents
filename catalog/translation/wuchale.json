@@ -1,0 +1,44 @@
+{
+  "slug": "wuchale",
+  "name": "wuchale",
+  "tagline": "Compile-time i18n toolkit that requires zero code changes and produces the smallest possible bundles. Supports React, Svelte, SolidJS, Astro, and more",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "ast",
+    "astro",
+    "gettext",
+    "i18n",
+    "internationalization",
+    "jsx",
+    "l10n",
+    "localization",
+    "multilingual"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "wuchalejs",
+    "url": "https://github.com/wuchalejs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wuchalejs/wuchale",
+    "huggingface": null,
+    "homepage": "http://wuchale.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 344,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T08:24:20Z",
+    "first_commit_at": "2025-06-13T09:14:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4056,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:28.862495Z",
+  "last_refreshed_at": "2026-05-01T14:33:28.862498Z"
+}

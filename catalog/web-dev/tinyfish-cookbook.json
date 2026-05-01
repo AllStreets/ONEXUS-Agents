@@ -1,0 +1,43 @@
+{
+  "slug": "tinyfish-cookbook",
+  "name": "tinyfish-cookbook",
+  "tagline": "A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "agentic",
+    "ai",
+    "cookbook",
+    "examples",
+    "tinyfish",
+    "typescript",
+    "web-agents",
+    "web-automation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "tinyfish-io",
+    "url": "https://github.com/tinyfish-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tinyfish-io/tinyfish-cookbook",
+    "huggingface": null,
+    "homepage": "https://tinyfish.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1667,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T01:33:07Z",
+    "first_commit_at": "2026-01-22T19:41:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4244,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:22:59.479429Z",
+  "last_refreshed_at": "2026-05-01T14:22:59.479432Z"
+}

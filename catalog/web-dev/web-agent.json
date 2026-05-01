@@ -1,0 +1,33 @@
+{
+  "slug": "web-agent",
+  "name": "web-agent",
+  "tagline": "Open-source web data agent optimized for structured web research",
+  "category": "web-dev",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "firecrawl",
+    "url": "https://github.com/firecrawl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "firecrawl/web-agent",
+    "huggingface": null,
+    "homepage": "https://firecrawl.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1050,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-19T19:49:49Z",
+    "first_commit_at": "2026-03-27T22:08:05Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.391,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:02.692654Z",
+  "last_refreshed_at": "2026-05-01T14:23:02.692658Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "daft",
+  "name": "Daft",
+  "tagline": "High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale",
+  "category": "data-engineering",
+  "tags": [
+    "ai-engineering",
+    "ai-pipeline",
+    "arrow",
+    "artificial-intelligence",
+    "big-data",
+    "data-engineering",
+    "distributed",
+    "distributed-computing",
+    "distributed-systems",
+    "embeddings"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Eventual-Inc",
+    "url": "https://github.com/Eventual-Inc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Eventual-Inc/Daft",
+    "huggingface": null,
+    "homepage": "https://daft.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5446,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T04:04:45Z",
+    "first_commit_at": "2022-05-10T20:17:33Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6444,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:40.033736Z",
+  "last_refreshed_at": "2026-05-01T14:23:40.033740Z"
+}

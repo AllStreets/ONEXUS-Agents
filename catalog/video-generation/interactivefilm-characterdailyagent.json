@@ -1,0 +1,43 @@
+{
+  "slug": "interactivefilm-characterdailyagent",
+  "name": "InteractiveFilm-CharacterDailyAgent",
+  "tagline": "An AI-driven character content generation system that implements a complete workflow from character creation, schedule planning, event planning, director output to video performance generation.",
+  "category": "video-generation",
+  "tags": [
+    "ai-character",
+    "ai-video-generation",
+    "character-agent",
+    "interactive-film",
+    "llm-agent",
+    "multimodal",
+    "python",
+    "story-generation",
+    "video-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "OranDuanStudy",
+    "url": "https://github.com/OranDuanStudy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OranDuanStudy/InteractiveFilm-CharacterDailyAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-23T07:53:28Z",
+    "first_commit_at": "2026-02-06T06:26:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3546,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:32:04.542968Z",
+  "last_refreshed_at": "2026-05-01T14:32:04.542971Z"
+}

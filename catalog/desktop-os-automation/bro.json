@@ -1,0 +1,43 @@
+{
+  "slug": "bro",
+  "name": "bro",
+  "tagline": "An LLM computer-using agent (CUA) designed to autonomously perform mundane tasks related to business operations and administration, such as doing accounting, filing paperwork, and submitting applicati",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "automation",
+    "computer-use",
+    "computer-use-agent",
+    "llm",
+    "no-code-automation",
+    "nocode",
+    "office-automation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Zubax",
+    "url": "https://github.com/Zubax"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Zubax/bro",
+    "huggingface": null,
+    "homepage": "https://zubax.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-04T12:42:39Z",
+    "first_commit_at": "2025-08-19T19:37:58Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2292,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:37.988057Z",
+  "last_refreshed_at": "2026-05-01T14:36:37.988060Z"
+}

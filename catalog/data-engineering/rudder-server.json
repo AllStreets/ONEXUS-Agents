@@ -1,0 +1,44 @@
+{
+  "slug": "rudder-server",
+  "name": "rudder-server",
+  "tagline": "Privacy and Security focused Segment-alternative, in Golang and React  ",
+  "category": "data-engineering",
+  "tags": [
+    "bigquery",
+    "cdp",
+    "customer-data",
+    "customer-data-lake",
+    "customer-data-pipeline",
+    "customer-data-platform",
+    "data-engineering",
+    "data-integration",
+    "data-pipeline",
+    "data-synchronization"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "rudderlabs",
+    "url": "https://github.com/rudderlabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rudderlabs/rudder-server",
+    "huggingface": null,
+    "homepage": "https://www.rudderstack.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4400,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T11:11:00Z",
+    "first_commit_at": "2019-07-19T09:24:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6396,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:23:42.672194Z",
+  "last_refreshed_at": "2026-05-01T14:23:42.672197Z"
+}

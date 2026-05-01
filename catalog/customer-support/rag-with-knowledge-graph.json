@@ -1,0 +1,41 @@
+{
+  "slug": "rag-with-knowledge-graph",
+  "name": "RAG_With_Knowledge_Graph",
+  "tagline": "RAG_With_Knowledge_Graph enhances customer support using Retrieval-Augmented Generation (RAG) and a knowledge graph. It leverages Neo4j for structured data, LangChain for retrieval, and Google Generat",
+  "category": "customer-support",
+  "tags": [
+    "ai-customer-support",
+    "chatbot",
+    "chatbots",
+    "fastapi",
+    "fastapi-docker",
+    "generativeai",
+    "neo4j-database"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SURESHBEEKHANI",
+    "url": "https://github.com/SURESHBEEKHANI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SURESHBEEKHANI/RAG_With_Knowledge_Graph",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2025-02-02T09:04:17Z",
+    "first_commit_at": "2025-01-31T10:13:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1904,
+  "rank_in_category": 102,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:28:20.436264Z",
+  "last_refreshed_at": "2026-05-01T14:28:20.436267Z"
+}

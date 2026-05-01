@@ -1,0 +1,33 @@
+{
+  "slug": "swelancer-benchmark",
+  "name": "SWELancer-Benchmark",
+  "tagline": "This repo contains the dataset and code for the paper \"SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?\"",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "openai",
+    "url": "https://github.com/openai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openai/SWELancer-Benchmark",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1441,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-18T02:02:20Z",
+    "first_commit_at": "2025-02-18T17:43:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1549,
+  "rank_in_category": 181,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:19.499676Z",
+  "last_refreshed_at": "2026-05-01T14:21:19.499679Z"
+}

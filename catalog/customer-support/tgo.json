@@ -1,0 +1,41 @@
+{
+  "slug": "tgo",
+  "name": "tgo",
+  "tagline": "Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration.",
+  "category": "customer-support",
+  "tags": [
+    "ai-agent",
+    "artificial-intelligence",
+    "chatbot",
+    "customer-service",
+    "customer-support",
+    "llm",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "tgoai",
+    "url": "https://github.com/tgoai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tgoai/tgo",
+    "huggingface": null,
+    "homepage": "https://tgo.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 444,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T08:57:45Z",
+    "first_commit_at": "2025-11-18T08:56:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5144,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:38.688349Z",
+  "last_refreshed_at": "2026-05-01T14:27:38.688352Z"
+}

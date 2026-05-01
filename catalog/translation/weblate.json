@@ -1,0 +1,44 @@
+{
+  "slug": "weblate",
+  "name": "weblate",
+  "tagline": "Web based localization tool with tight version control integration.",
+  "category": "translation",
+  "tags": [
+    "continuous-localization",
+    "crowdsourcing",
+    "dcode-2025",
+    "django",
+    "gettext",
+    "hacktoberfest",
+    "i18n",
+    "internationalization",
+    "l10n",
+    "localization"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "WeblateOrg",
+    "url": "https://github.com/WeblateOrg"
+  },
+  "source": {
+    "primary": "github",
+    "github": "WeblateOrg/weblate",
+    "huggingface": null,
+    "homepage": "https://weblate.org/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 5848,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:51:21Z",
+    "first_commit_at": "2012-02-27T08:49:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5203,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:33:24.546454Z",
+  "last_refreshed_at": "2026-05-01T14:33:24.546457Z"
+}

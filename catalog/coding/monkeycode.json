@@ -1,0 +1,41 @@
+{
+  "slug": "monkeycode",
+  "name": "MonkeyCode",
+  "tagline": "AI 开发平台，内置云端开发环境，并支持业内最全的顶尖大模型。无论是开发项目、做调研、写文档，还是分析数据、处理任务，打开浏览器就能随时开始，让 AI 持续帮你推进工作",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-coding",
+    "ai-security",
+    "aicodeassistant",
+    "aicoding",
+    "coding",
+    "vscode-extension"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "chaitin",
+    "url": "https://github.com/chaitin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "chaitin/MonkeyCode",
+    "huggingface": null,
+    "homepage": "https://monkeycode-ai.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 2653,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T09:16:25Z",
+    "first_commit_at": "2026-03-09T07:42:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2623,
+  "rank_in_category": 67,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:24.824578Z",
+  "last_refreshed_at": "2026-05-01T14:20:24.824581Z"
+}

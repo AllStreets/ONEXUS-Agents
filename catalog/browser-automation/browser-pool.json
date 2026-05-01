@@ -1,0 +1,43 @@
+{
+  "slug": "browser-pool",
+  "name": "browser-pool",
+  "tagline": "Session management library for Playwright remote browsers. Handles pooling, health checks, and auto-recovery for high-frequency scraping.",
+  "category": "browser-automation",
+  "tags": [
+    "automation",
+    "browser-agent",
+    "browser-automation",
+    "browser-cash",
+    "browser-pool",
+    "connection-pool",
+    "playwright",
+    "scraping",
+    "session-management"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "BrowserCash",
+    "url": "https://github.com/BrowserCash"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BrowserCash/browser-pool",
+    "huggingface": null,
+    "homepage": "https://browser.cash/developers"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-15T10:13:55Z",
+    "first_commit_at": "2025-11-30T23:16:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2266,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:01.188412Z",
+  "last_refreshed_at": "2026-05-01T14:35:01.188415Z"
+}

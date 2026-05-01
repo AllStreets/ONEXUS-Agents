@@ -1,0 +1,33 @@
+{
+  "slug": "actor-web-automation-agent",
+  "name": "actor-web-automation-agent",
+  "tagline": "This is the experimental version of Web Automation Agent. The agent uses natural language instructions to browse the web and extract data.",
+  "category": "browser-automation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "apify",
+    "url": "https://github.com/apify"
+  },
+  "source": {
+    "primary": "github",
+    "github": "apify/actor-web-automation-agent",
+    "huggingface": null,
+    "homepage": "https://apify.com/apify/ai-web-agent"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 36,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-06T12:17:14Z",
+    "first_commit_at": "2023-09-18T15:11:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1987,
+  "rank_in_category": 107,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:36:16.455999Z",
+  "last_refreshed_at": "2026-05-01T14:36:16.456003Z"
+}

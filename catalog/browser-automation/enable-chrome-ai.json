@@ -1,0 +1,43 @@
+{
+  "slug": "enable-chrome-ai",
+  "name": "enable-chrome-ai",
+  "tagline": "Enable Ask Gemini / GLIC in Chrome with step-by-step guides and one-click scripts for Windows and macOS.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-browser",
+    "ai-browser-automation",
+    "bash-script",
+    "chrome",
+    "chrome-devtools",
+    "gemini",
+    "gemini-live",
+    "google-chrome",
+    "powershell-script"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "BreadIceCream",
+    "url": "https://github.com/BreadIceCream"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BreadIceCream/enable-chrome-ai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-20T03:27:46Z",
+    "first_commit_at": "2026-04-19T23:48:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2353,
+  "rank_in_category": 82,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:35:49.852066Z",
+  "last_refreshed_at": "2026-05-01T14:35:49.852070Z"
+}

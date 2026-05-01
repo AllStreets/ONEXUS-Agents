@@ -1,0 +1,44 @@
+{
+  "slug": "humanise-text-skill",
+  "name": "humanise-text-skill",
+  "tagline": "Strip AI writing patterns from any text. Claude Code skill with 507-entry banned word list, structural pattern detection, and 12-check validation.",
+  "category": "content-writing",
+  "tags": [
+    "ai-detection",
+    "ai-text-detection",
+    "ai-tools",
+    "ai-writing",
+    "claude-code",
+    "claude-code-skill",
+    "content-writing",
+    "copywriting",
+    "de-slop",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "199-biotechnologies",
+    "url": "https://github.com/199-biotechnologies"
+  },
+  "source": {
+    "primary": "github",
+    "github": "199-biotechnologies/humanise-text-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-02T19:55:09Z",
+    "first_commit_at": "2026-04-02T19:53:33Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3722,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:29:06.692060Z",
+  "last_refreshed_at": "2026-05-01T14:29:06.692064Z"
+}

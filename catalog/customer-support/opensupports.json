@@ -1,0 +1,44 @@
+{
+  "slug": "opensupports",
+  "name": "opensupports",
+  "tagline": "OpenSupports is a simple and beautiful open source ticket system",
+  "category": "customer-support",
+  "tags": [
+    "api",
+    "customer-care",
+    "customer-support",
+    "helpdesk",
+    "javascript",
+    "mysql",
+    "opensupports",
+    "php",
+    "saas",
+    "support"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "opensupports",
+    "url": "https://github.com/opensupports"
+  },
+  "source": {
+    "primary": "github",
+    "github": "opensupports/opensupports",
+    "huggingface": null,
+    "homepage": "http://www.opensupports.com/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 1031,
+    "downloads_30d": null,
+    "last_commit_at": "2024-04-22T16:58:21Z",
+    "first_commit_at": "2015-08-15T23:47:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3747,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:27:35.445392Z",
+  "last_refreshed_at": "2026-05-01T14:27:35.445396Z"
+}

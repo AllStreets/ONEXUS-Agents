@@ -1,0 +1,42 @@
+{
+  "slug": "hermes-incident-commander",
+  "name": "hermes-incident-commander",
+  "tagline": "Autonomous SRE agent built on Hermes - detects, heals, and learns from production incidents. Uses Memory + Skills + Cron + Gateway + Subagents + Atropos RL.",
+  "category": "devops-sre",
+  "tags": [
+    "atropos",
+    "autonomous-agents",
+    "devops",
+    "hermes-agent",
+    "incident-response",
+    "llm-agent",
+    "nous-research",
+    "sre"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Lethe044",
+    "url": "https://github.com/Lethe044"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Lethe044/hermes-incident-commander",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-04T22:42:47Z",
+    "first_commit_at": "2026-03-12T10:29:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.266,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:39:32.397868Z",
+  "last_refreshed_at": "2026-05-01T14:39:32.397871Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "docflow-agent",
+  "name": "docflow-agent",
+  "tagline": "Document Intelligence: classify, extract, validate, risk analysis",
+  "category": "legal-research",
+  "tags": [
+    "ai-agent",
+    "anthropic",
+    "claude",
+    "contract-analysis",
+    "document-processing",
+    "nlp",
+    "ocr",
+    "python",
+    "streamlit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ninavenaliy-rgb",
+    "url": "https://github.com/ninavenaliy-rgb"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ninavenaliy-rgb/docflow-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-12T02:18:40Z",
+    "first_commit_at": "2026-04-11T21:41:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1218,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:26:40.054009Z",
+  "last_refreshed_at": "2026-05-01T14:26:40.054013Z"
+}
