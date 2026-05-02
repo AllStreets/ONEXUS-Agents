@@ -1,0 +1,40 @@
+{
+  "slug": "desktop-app",
+  "name": "desktop-app",
+  "tagline": "Browser Use Desktop App",
+  "category": "browser-automation",
+  "tags": [
+    "agent-browser",
+    "browser",
+    "browser-agent",
+    "browser-agents",
+    "browser-harness",
+    "browser-use"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "browser-use",
+    "url": "https://github.com/browser-use"
+  },
+  "source": {
+    "primary": "github",
+    "github": "browser-use/desktop-app",
+    "huggingface": null,
+    "homepage": "http://browser-use.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 128,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T23:58:59Z",
+    "first_commit_at": "2026-04-17T04:24:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3025,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-02T14:20:13.962250Z",
+  "last_refreshed_at": "2026-05-02T14:20:13.962252Z"
+}

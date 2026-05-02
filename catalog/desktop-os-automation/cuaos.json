@@ -1,0 +1,44 @@
+{
+  "slug": "cuaos",
+  "name": "CuaOS",
+  "tagline": "This repository is a CUA (computer use agent) system that, using the Qwen3-VL model on Ubuntu computers, aims to perform tasks on your behalf using the keyboard and mouse in a local Sandbox environmen",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent",
+    "agents",
+    "computer-use",
+    "computer-use-agent",
+    "desktop-automation",
+    "docker",
+    "docker-container",
+    "linux",
+    "llama-cpp-agent",
+    "llama-cpp-python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "CuaOS",
+    "url": "https://github.com/CuaOS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CuaOS/CuaOS",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/falan42"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-03T12:31:59Z",
+    "first_commit_at": "2026-02-11T11:36:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2324,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-02T14:21:19.087168Z",
+  "last_refreshed_at": "2026-05-02T14:21:19.087172Z"
+}
