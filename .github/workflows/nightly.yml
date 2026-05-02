@@ -99,4 +99,21 @@ jobs:
             sleep 5
           done
 
-          gh pr merge "$BRANCH" --squash --auto --delete-branch
+          # `--delete-branch` ran inline previously and tripped a 403 rate limit
+          # on cleanup AFTER the merge succeeded, painting the whole job red.
+          # The branch delete is cosmetic — drop it from the merge call and let
+          # the next step handle it best-effort.
+          gh pr merge "$BRANCH" --squash --auto
+
+      - name: cleanup merged branch (best effort)
+        if: github.event.inputs.dry_run != 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          BRANCH="bot/refresh-$DATE"
+          # Sleep so auto-merge has a chance to land before we ask GitHub to
+          # delete the branch; if it's still ahead of merge, this is a no-op.
+          sleep 30
+          git push origin --delete "$BRANCH" || echo "branch already gone or rate-limited"

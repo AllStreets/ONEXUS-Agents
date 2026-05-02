@@ -1,7 +1,7 @@
 {
   "slug": "claude-scholar",
   "name": "claude-scholar",
-  "tagline": "🚀 Simplify your research workflow with Claude Scholar, the complete configuration for Claude Code in data science, AI, and academic writing.",
+  "tagline": "\ud83d\ude80 Simplify your research workflow with Claude Scholar, the complete configuration for Claude Code in data science, AI, and academic writing.",
   "category": "pdf-forms",
   "tags": [
     "academic",
@@ -34,8 +34,8 @@
     "first_commit_at": "2026-01-27T05:57:02Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.4278,
   "rank_in_category": 12,
   "discovered_via": "auto",
