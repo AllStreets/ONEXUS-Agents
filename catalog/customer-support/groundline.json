@@ -1,0 +1,42 @@
+{
+  "slug": "groundline",
+  "name": "Groundline",
+  "tagline": "A grounded support triage agent with hybrid retrieval, evidence citations, escalation policies, and multi-provider LLM fallback.",
+  "category": "customer-support",
+  "tags": [
+    "ai-agent",
+    "bm25",
+    "customer-support",
+    "docker-model-runner",
+    "groq",
+    "hybrid-search",
+    "rag",
+    "support-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SAYOUNCDR",
+    "url": "https://github.com/SAYOUNCDR"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SAYOUNCDR/Groundline",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T20:19:07Z",
+    "first_commit_at": "2026-05-01T16:51:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3588,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-02T14:15:47.442676Z",
+  "last_refreshed_at": "2026-05-02T14:15:47.442679Z"
+}

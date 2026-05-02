@@ -1,0 +1,33 @@
+{
+  "slug": "agentic-harness-engineering",
+  "name": "agentic-harness-engineering",
+  "tagline": "Official code for 'Agentic Harness Engineering' (arXiv:2604.25850) — observability-driven automatic evolution of coding-agent harnesses (concurrent work with meta-harness). Lifts Terminal-Bench 2 pass",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "china-qijizhifeng",
+    "url": "https://github.com/china-qijizhifeng"
+  },
+  "source": {
+    "primary": "github",
+    "github": "china-qijizhifeng/agentic-harness-engineering",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2604.25850"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 74,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-02T03:51:40Z",
+    "first_commit_at": "2026-04-26T04:16:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2048,
+  "rank_in_category": 142,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-02T14:12:23.096290Z",
+  "last_refreshed_at": "2026-05-02T14:12:23.096293Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "versus-incident",
+  "name": "versus-incident",
+  "tagline": "An incident management tool supporting multi-channel alerting, customizable messages, on-call integrations, and the built-in AI SRE Agent. Compatible with any tool supporting webhook alerts.",
+  "category": "devops-sre",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-tools",
+    "alert",
+    "aws",
+    "devops",
+    "devops-tools",
+    "golang",
+    "helm",
+    "lark"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "VersusControl",
+    "url": "https://github.com/VersusControl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "VersusControl/versus-incident",
+    "huggingface": null,
+    "homepage": "https://versus-incident.devopsvn.tech/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 412,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-02T10:40:06Z",
+    "first_commit_at": "2025-02-04T15:21:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4207,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-02T14:23:02.345000Z",
+  "last_refreshed_at": "2026-05-02T14:23:02.345004Z"
+}
