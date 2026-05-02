@@ -34,8 +34,8 @@
     "first_commit_at": "2026-03-22T06:13:52Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.2219,
   "rank_in_category": 55,
   "discovered_via": "auto",

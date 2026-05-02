@@ -1,7 +1,7 @@
 {
   "slug": "pdf-reader-mcp",
   "name": "pdf-reader-mcp",
-  "tagline": "📄 Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%+ test coverage",
+  "tagline": "\ud83d\udcc4 Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%+ test coverage",
   "category": "document-processing",
   "tags": [
     "ai-agent",
@@ -34,8 +34,8 @@
     "first_commit_at": "2025-04-04T01:46:09Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.5434,
   "rank_in_category": 11,
   "discovered_via": "auto",

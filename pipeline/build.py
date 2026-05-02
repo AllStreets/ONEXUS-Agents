@@ -11,6 +11,20 @@ from pipeline.schema import Agent, Author, Metrics, Source
 
 UTC_NOW = lambda: datetime.now(UTC)  # noqa: E731
 
+# Topic/tag values that strongly indicate the repo IS an MCP server we can
+# speak to over stdio (vs. a client of MCP, or a wrapper that uses the term).
+# Author-declared, so false positives stay near zero.
+MCP_SERVER_SIGNALS = frozenset({"mcp-server", "mcp-servers", "model-context-protocol"})
+GENERIC_MCP_ADAPTER = "mcp/stdio"
+
+
+def detect_mcp_runnability(tags: list[str]) -> tuple[bool, str | None]:
+    """Return (runnable, adapter_ref) if tags declare an MCP server."""
+    lowered = {t.lower() for t in tags if isinstance(t, str)}
+    if lowered & MCP_SERVER_SIGNALS:
+        return True, GENERIC_MCP_ADAPTER
+    return False, None
+
 
 def slugify(name: str) -> str:
     s = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
@@ -33,6 +47,12 @@ def build_from_github(
         return None
     owner, name = repo_full_name.split("/", 1)
     slug = slugify(name)
+    if not runnable:
+        auto_runnable, auto_adapter = detect_mcp_runnability(meta["topics"])
+        if auto_runnable:
+            runnable = True
+            if adapter_ref is None:
+                adapter_ref = auto_adapter
     return Agent(
         slug=slug,
         name=name,
@@ -84,6 +104,12 @@ def build_from_huggingface(
         return None
     owner, name = model_id.split("/", 1) if "/" in model_id else ("huggingface", model_id)
     slug = slugify(name)
+    if not runnable:
+        auto_runnable, auto_adapter = detect_mcp_runnability(meta["tags"])
+        if auto_runnable:
+            runnable = True
+            if adapter_ref is None:
+                adapter_ref = auto_adapter
     return Agent(
         slug=slug,
         name=name,

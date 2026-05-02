@@ -1,7 +1,7 @@
 {
   "slug": "one-search-mcp",
   "name": "one-search-mcp",
-  "tagline": "🚀 OneSearch MCP Server: Web Search & Scraper & Extract,  Support agent-browser, SearXNG, Tavily, DuckDuckGo, Bing, etc.",
+  "tagline": "\ud83d\ude80 OneSearch MCP Server: Web Search & Scraper & Extract,  Support agent-browser, SearXNG, Tavily, DuckDuckGo, Bing, etc.",
   "category": "customer-support",
   "tags": [
     "agent-browser",
@@ -32,8 +32,8 @@
     "first_commit_at": "2025-03-17T08:50:35Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.4843,
   "rank_in_category": 31,
   "discovered_via": "auto",

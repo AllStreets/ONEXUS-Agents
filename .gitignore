@@ -38,3 +38,13 @@ dist/
 
 # Brainstorming companion (not for git)
 .superpowers/
+
+# Local Claude / Playwright artifacts
+.claude/
+.playwright-mcp/
+
+# Local screenshots used during development
+*.png
+
+# uv lock (we ship via pip + pyproject.toml)
+uv.lock
