@@ -1,0 +1,44 @@
+{
+  "slug": "legal-doc-redactor",
+  "name": "legal-doc-redactor",
+  "tagline": "法律文件脱敏/还原工具 - 智能识别敏感 信息，支持批量处理",
+  "category": "document-processing",
+  "tags": [
+    "chinese",
+    "data-anonymization",
+    "document-processing",
+    "docx",
+    "legal-tech",
+    "offline-tool",
+    "privacy",
+    "privacy-protection",
+    "redaction",
+    "sensitive-data"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "moyupeng0422",
+    "url": "https://github.com/moyupeng0422"
+  },
+  "source": {
+    "primary": "github",
+    "github": "moyupeng0422/legal-doc-redactor",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 65,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-29T14:58:14Z",
+    "first_commit_at": "2026-02-06T16:03:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4222,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-03T14:24:38.059321Z",
+  "last_refreshed_at": "2026-05-03T14:24:38.059325Z"
+}

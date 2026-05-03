@@ -1,7 +1,7 @@
 {
   "slug": "mindbridge-mcp",
   "name": "mindbridge-mcp",
-  "tagline": "MindBridge is an AI orchestration MCP server that lets any app talk to any LLM \u2014 OpenAI, Anthropic, DeepSeek, Ollama, and more \u2014 through a single unified API. Route queries, compare models, get second",
+  "tagline": "MindBridge is an AI orchestration MCP server that lets any app talk to any LLM — OpenAI, Anthropic, DeepSeek, Ollama, and more — through a single unified API. Route queries, compare models, get second",
   "category": "reasoning-math",
   "tags": [
     "agent",
@@ -36,8 +36,8 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.2039,
-  "rank_in_category": 17,
+  "composite_score": 0.2532,
+  "rank_in_category": 10,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:29:00.518546Z",
   "last_refreshed_at": "2026-04-30T16:18:33.695180Z"

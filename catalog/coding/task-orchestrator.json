@@ -30,15 +30,15 @@
   "metrics": {
     "stars": 183,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-01T14:35:13Z",
+    "last_commit_at": "2026-05-02T18:50:33Z",
     "first_commit_at": "2025-05-22T19:59:19Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.2411,
-  "rank_in_category": 101,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2913,
+  "rank_in_category": 40,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:19:25.287153Z",
-  "last_refreshed_at": "2026-05-02T14:11:15.718449Z"
+  "last_refreshed_at": "2026-05-03T14:12:07.448867Z"
 }

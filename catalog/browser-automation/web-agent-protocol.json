@@ -1,7 +1,7 @@
 {
   "slug": "web-agent-protocol",
   "name": "web-agent-protocol",
-  "tagline": "\ud83c\udf10Web Agent Protocol (WAP) - Record and replay user interactions in the browser with MCP support",
+  "tagline": "🌐Web Agent Protocol (WAP) - Record and replay user interactions in the browser with MCP support",
   "category": "browser-automation",
   "tags": [
     "ai-agents",
@@ -36,8 +36,8 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.2183,
-  "rank_in_category": 93,
+  "composite_score": 0.2683,
+  "rank_in_category": 69,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:26:57.252178Z",
   "last_refreshed_at": "2026-04-30T16:16:04.804078Z"

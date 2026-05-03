@@ -1,0 +1,42 @@
+{
+  "slug": "federal-register-mcp",
+  "name": "federal-register-mcp",
+  "tagline": "Audrent's paid MCP server for U.S. Federal Register documents — search, retrieval, and watchlists for AI agents.",
+  "category": "legal-research",
+  "tags": [
+    "audrent",
+    "cloudflare-workers",
+    "compliance",
+    "federal-register",
+    "legal-research",
+    "mcp-server",
+    "paid-mcp",
+    "regulatory-data"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Audrent-hq",
+    "url": "https://github.com/Audrent-hq"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Audrent-hq/federal-register-mcp",
+    "huggingface": null,
+    "homepage": "https://audrent.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-03T14:12:46Z",
+    "first_commit_at": "2026-05-03T14:05:21Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.19,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-03T14:17:11.753057Z",
+  "last_refreshed_at": "2026-05-03T14:17:11.753061Z"
+}
