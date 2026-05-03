@@ -1,7 +1,7 @@
 {
   "slug": "stock-mcp",
   "name": "stock-mcp",
-  "tagline": "\u4e13\u4e1a\u7684\u91d1\u878d\u5e02\u573a\u6570\u636e MCP \u670d\u52a1\u5668 - \u652f\u6301A\u80a1/\u7f8e\u80a1/\u52a0\u5bc6\u8d27\u5e01\uff0c\u539f\u751f MCP \u534f\u8bae\uff0cAI Agent \u53cb\u597d",
+  "tagline": "专业的金融市场数据 MCP 服务器 - 支持A股/美股/加密货币，原生 MCP 协议，AI Agent 友好",
   "category": "financial-modeling",
   "tags": [
     "ai-stock-analysis",
@@ -36,9 +36,9 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3085,
-  "rank_in_category": 34,
+  "composite_score": 0.3573,
+  "rank_in_category": 18,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:24:30.742414Z",
-  "last_refreshed_at": "2026-05-02T14:14:07.013928Z"
+  "last_refreshed_at": "2026-05-03T14:15:20.793446Z"
 }

@@ -1,0 +1,38 @@
+{
+  "slug": "personalive",
+  "name": "PersonaLive",
+  "tagline": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
+  "category": "video-generation",
+  "tags": [
+    "cvpr",
+    "cvpr2026",
+    "talking-head",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "GVCLab",
+    "url": "https://github.com/GVCLab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GVCLab/PersonaLive",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2512.11253"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2628,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-05T11:26:11Z",
+    "first_commit_at": "2025-12-10T05:08:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5033,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-03T14:20:16.746346Z",
+  "last_refreshed_at": "2026-05-03T14:20:16.746350Z"
+}

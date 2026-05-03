@@ -1,0 +1,44 @@
+{
+  "slug": "arke",
+  "name": "arke",
+  "tagline": "Stress-test your skeletons against competition law authorities before filing",
+  "category": "legal-research",
+  "tags": [
+    "email-assistant",
+    "embeddings",
+    "gdpr",
+    "legal-research",
+    "legal-tech",
+    "llm",
+    "local-first",
+    "privacy",
+    "rag",
+    "retrieval-augmented-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "padolgot",
+    "url": "https://github.com/padolgot"
+  },
+  "source": {
+    "primary": "github",
+    "github": "padolgot/arke",
+    "huggingface": null,
+    "homepage": "https://arke.legal/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-02T22:33:07Z",
+    "first_commit_at": "2026-04-02T19:07:33Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1414,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-03T14:17:10.488909Z",
+  "last_refreshed_at": "2026-05-03T14:17:10.488911Z"
+}

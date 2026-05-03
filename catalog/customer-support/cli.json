@@ -1,0 +1,44 @@
+{
+  "slug": "cli",
+  "name": "cli",
+  "tagline": "AI Instructions Diagnostics | Supported agents: Claude | Codex | Copilot | Cursor | Gemini",
+  "category": "customer-support",
+  "tags": [
+    "ai-coding",
+    "claude-code",
+    "claude-code-cli",
+    "cli",
+    "code-quality",
+    "codex",
+    "codex-cli",
+    "copilot",
+    "copilot-cli",
+    "cursor"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "reporails",
+    "url": "https://github.com/reporails"
+  },
+  "source": {
+    "primary": "github",
+    "github": "reporails/cli",
+    "huggingface": null,
+    "homepage": "https://reporails.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 38,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T16:27:49Z",
+    "first_commit_at": "2026-01-22T17:44:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4426,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-03T14:18:18.946930Z",
+  "last_refreshed_at": "2026-05-03T14:18:18.946933Z"
+}
