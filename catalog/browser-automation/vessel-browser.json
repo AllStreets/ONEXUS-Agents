@@ -1,0 +1,44 @@
+{
+  "slug": "vessel-browser",
+  "name": "vessel-browser",
+  "tagline": "Built from the ground-up for agents, Vessel Browser is an open source AI browser for Linux/Windows that provides a durable state, MCP control, and BYOK with full autonomous browsing. Use with Hermes A",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agents",
+    "ai-browser",
+    "ai-browser-agent",
+    "ai-browser-automation",
+    "ai-mcp-browser",
+    "ai-tools",
+    "autonomous-agents",
+    "byok",
+    "hermes-agent",
+    "linux"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "unmodeled-tyler",
+    "url": "https://github.com/unmodeled-tyler"
+  },
+  "source": {
+    "primary": "github",
+    "github": "unmodeled-tyler/vessel-browser",
+    "huggingface": null,
+    "homepage": "https://quantaintellect.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 60,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-04T04:25:25Z",
+    "first_commit_at": "2026-03-07T07:21:49Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3443,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-04T15:25:43.466738Z",
+  "last_refreshed_at": "2026-05-04T15:25:43.466742Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "finsight-rag",
+  "name": "FinSight-RAG",
+  "tagline": "RAG system benchmarking 7 retrieval strategies on SEC 10-K filings. Hybrid chunking + BGE + RRF fusion scores 4.50/5.00 on LLM-as-judge evaluation.",
+  "category": "financial-modeling",
+  "tags": [
+    "bm25",
+    "chromadb",
+    "financial-ai",
+    "huggingface",
+    "llm",
+    "python",
+    "rag",
+    "retrieval-augmented-generation",
+    "sec-edgar",
+    "sec-edgar-api"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Darsh29",
+    "url": "https://github.com/Darsh29"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Darsh29/FinSight-RAG",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T05:54:37Z",
+    "first_commit_at": "2026-04-16T05:27:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1927,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-04T15:16:51.868773Z",
+  "last_refreshed_at": "2026-05-04T15:16:51.868777Z"
+}
