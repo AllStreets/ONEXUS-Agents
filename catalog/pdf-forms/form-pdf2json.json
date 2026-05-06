@@ -1,0 +1,40 @@
+{
+  "slug": "form-pdf2json",
+  "name": "form-pdf2json",
+  "tagline": "NodeJS library to convert JSON to PDF or vice versa",
+  "category": "pdf-forms",
+  "tags": [
+    "pdf",
+    "pdf-forms",
+    "pdf-generation",
+    "pdf-parser",
+    "pdf-to-json",
+    "pdf2json"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "clarekang",
+    "url": "https://github.com/clarekang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "clarekang/form-pdf2json",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2023-07-08T08:56:13Z",
+    "first_commit_at": "2019-09-11T03:11:33Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2721,
+  "rank_in_category": 45,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:47.076928Z",
+  "last_refreshed_at": "2026-05-06T16:02:47.076931Z"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "x-master",
+  "name": "X-Master",
+  "tagline": "Official implementation of X-Master, a general-purpose tool-augmented reasoning agent.",
+  "category": "reasoning-math",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "sjtu-sai-agents",
+    "url": "https://github.com/sjtu-sai-agents"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sjtu-sai-agents/X-Master",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 317,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-18T02:32:58Z",
+    "first_commit_at": "2025-07-06T08:42:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1591,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:53.341956Z",
+  "last_refreshed_at": "2026-05-06T15:50:53.341960Z"
+}

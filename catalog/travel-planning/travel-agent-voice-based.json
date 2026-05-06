@@ -1,0 +1,44 @@
+{
+  "slug": "travel-agent-voice-based",
+  "name": "Travel_Agent_Voice_Based",
+  "tagline": "A production-ready voice travel planning agent that generates personalized itineraries through real-time voice conversations, powered by LLMs, speech services, and RAG with built-in quality evaluation",
+  "category": "travel-planning",
+  "tags": [
+    "ai-agents",
+    "ai-travel-agent",
+    "generative-ai",
+    "itinerary-generation",
+    "nlp",
+    "speech-to-text",
+    "text-to-speech",
+    "travel-planning",
+    "voice-ai",
+    "voice-assistant"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "start-again-06",
+    "url": "https://github.com/start-again-06"
+  },
+  "source": {
+    "primary": "github",
+    "github": "start-again-06/Travel_Agent_Voice_Based",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-06T10:03:30Z",
+    "first_commit_at": "2026-02-06T05:41:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2821,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:55:04.291585Z",
+  "last_refreshed_at": "2026-05-06T15:55:04.291588Z"
+}

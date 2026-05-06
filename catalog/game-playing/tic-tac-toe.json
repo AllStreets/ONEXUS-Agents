@@ -1,0 +1,39 @@
+{
+  "slug": "tic-tac-toe",
+  "name": "tic_tac_toe",
+  "tagline": "A simple tic-tac-toe game (commonly known as x's and o's) with an AI player and 3 modes(easy, medium, and hard). The hard mode is implemented using the min-max game-playing algorithm.",
+  "category": "game-playing",
+  "tags": [
+    "game",
+    "game-playing",
+    "javascript",
+    "min-max-algorithm",
+    "tic-tac-toe"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Ray784",
+    "url": "https://github.com/Ray784"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Ray784/tic_tac_toe",
+    "huggingface": null,
+    "homepage": "https://ray784.github.io/tic_tac_toe"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2019-12-29T16:27:12Z",
+    "first_commit_at": "2019-12-02T07:37:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.21,
+  "rank_in_category": 45,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:01:14.967454Z",
+  "last_refreshed_at": "2026-05-06T16:01:14.967457Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "skills-for-architects",
+  "name": "skills-for-architects",
+  "tagline": "Claude Code skills for architecture, real estate, and workplace strategy. Type /skill-name and go.",
+  "category": "real-estate",
+  "tags": [
+    "aec",
+    "ai-tools",
+    "architecture",
+    "claude-code",
+    "claude-code-skills",
+    "construction",
+    "design-technology",
+    "ffe",
+    "interior-design",
+    "proptech"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AlpacaLabsLLC",
+    "url": "https://github.com/AlpacaLabsLLC"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AlpacaLabsLLC/skills-for-architects",
+    "huggingface": null,
+    "homepage": "https://alpa.llc/skills"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 137,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-13T12:36:37Z",
+    "first_commit_at": "2026-03-02T08:48:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5282,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:45.125377Z",
+  "last_refreshed_at": "2026-05-06T15:58:45.125379Z"
+}

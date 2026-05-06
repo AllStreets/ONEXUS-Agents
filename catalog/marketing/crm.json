@@ -1,0 +1,44 @@
+{
+  "slug": "crm",
+  "name": "crm",
+  "tagline": "Fully featured, open source CRM",
+  "category": "marketing",
+  "tags": [
+    "crm",
+    "crm-connections",
+    "crm-platform",
+    "crm-software",
+    "crm-solution",
+    "crm-system",
+    "customer",
+    "frappe",
+    "frappe-app",
+    "javascript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "frappe",
+    "url": "https://github.com/frappe"
+  },
+  "source": {
+    "primary": "github",
+    "github": "frappe/crm",
+    "huggingface": null,
+    "homepage": "https://frappe.io/crm"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 2622,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T09:22:18Z",
+    "first_commit_at": "2023-07-18T12:32:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.635,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:56:30.900995Z",
+  "last_refreshed_at": "2026-05-06T15:56:30.900998Z"
+}

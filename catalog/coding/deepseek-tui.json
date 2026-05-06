@@ -1,0 +1,40 @@
+{
+  "slug": "deepseek-tui",
+  "name": "DeepSeek-TUI",
+  "tagline": "Coding agent for DeepSeek models that runs in your terminal",
+  "category": "coding",
+  "tags": [
+    "cli",
+    "deepseek",
+    "llm",
+    "rust",
+    "terminal",
+    "tui"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Hmbown",
+    "url": "https://github.com/Hmbown"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Hmbown/DeepSeek-TUI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12692,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T15:27:24Z",
+    "first_commit_at": "2026-01-20T14:57:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2895,
+  "rank_in_category": 45,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:30:20.278954Z",
+  "last_refreshed_at": "2026-05-06T15:30:20.278957Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "imperium-crawl",
+  "name": "imperium-crawl",
+  "tagline": "41-tool CLI for web scraping, crawling, PDF extraction & browser automation. CamoFox C++ anti-detection engine. Zero API keys for core tools. Agent-native.",
+  "category": "pdf-forms",
+  "tags": [
+    "agent-native",
+    "anti-bot",
+    "api-discovery",
+    "brave-search",
+    "browser-automation",
+    "camofox",
+    "captcha-solver",
+    "cli",
+    "crawling",
+    "media-downloader"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ceoimperiumprojects",
+    "url": "https://github.com/ceoimperiumprojects"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ceoimperiumprojects/imperium-crawl",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-03T16:48:47Z",
+    "first_commit_at": "2026-03-02T00:51:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4067,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:38.984112Z",
+  "last_refreshed_at": "2026-05-06T16:02:38.984115Z"
+}

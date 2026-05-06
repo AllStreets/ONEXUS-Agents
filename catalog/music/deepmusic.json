@@ -1,0 +1,41 @@
+{
+  "slug": "deepmusic",
+  "name": "DeepMusic",
+  "tagline": "A python package for high level musical data manipulation and preprocessing, making data ready to be fed to a neural network.",
+  "category": "music",
+  "tags": [
+    "ai-music",
+    "deep-learning",
+    "midi",
+    "miditoolkit",
+    "music",
+    "python",
+    "symbolic-music"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "s-omranpour",
+    "url": "https://github.com/s-omranpour"
+  },
+  "source": {
+    "primary": "github",
+    "github": "s-omranpour/DeepMusic",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 42,
+    "downloads_30d": null,
+    "last_commit_at": "2022-01-19T20:34:47Z",
+    "first_commit_at": "2021-05-05T21:38:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1675,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:00:49.520301Z",
+  "last_refreshed_at": "2026-05-06T16:00:49.520305Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "lungguardianai-pneumonia-detection-from-chest-xrays-with-transfe",
+  "name": "LungGuardianAI-pneumonia_detection_from_chest_xrays_with_transfer_learning",
+  "tagline": "State-of-the-Art Pneumonia detection from chest X-rays system using EfficientNetV2 + FPN + Faster R-CNN. Features Focal Loss, Weighted Box Fusion, Mosaic Augmentation & StratifiedGroupKFold. Built for",
+  "category": "healthcare",
+  "tags": [
+    "chest-xray",
+    "computer-vision",
+    "convolutional-neural-networks",
+    "deep-learning",
+    "efficientnet",
+    "feature-pyramid-network",
+    "focal-loss",
+    "healthcare-ai",
+    "image-classification",
+    "medical-imaging"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kbhujbal",
+    "url": "https://github.com/kbhujbal"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kbhujbal/LungGuardianAI-pneumonia_detection_from_chest_xrays_with_transfer_learning",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 22,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-03T10:10:16Z",
+    "first_commit_at": "2025-12-02T23:46:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3049,
+  "rank_in_category": 91,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:48.529876Z",
+  "last_refreshed_at": "2026-05-06T15:53:48.529879Z"
+}

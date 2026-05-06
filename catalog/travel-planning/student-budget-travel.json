@@ -1,0 +1,41 @@
+{
+  "slug": "student-budget-travel",
+  "name": "student-budget-travel",
+  "tagline": "[Hermes Agent Skill] 学生穷游特种兵旅行计划 — 结合实时天气和景点营业时间，自动规划省钱不走回头路的高密度行程",
+  "category": "travel-planning",
+  "tags": [
+    "ai-agent",
+    "budget-travel",
+    "chinese",
+    "hermes-agent",
+    "hermes-skill",
+    "student-travel",
+    "travel-planning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jiakezhu",
+    "url": "https://github.com/jiakezhu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jiakezhu/student-budget-travel",
+    "huggingface": null,
+    "homepage": "https://github.com/jiakezhu/student-budget-travel"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-02T12:24:00Z",
+    "first_commit_at": "2026-05-02T12:23:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3535,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:55:07.989959Z",
+  "last_refreshed_at": "2026-05-06T15:55:07.989963Z"
+}

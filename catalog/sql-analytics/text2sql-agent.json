@@ -1,0 +1,33 @@
+{
+  "slug": "text2sql-agent",
+  "name": "text2sql-agent",
+  "tagline": "Agent that converts natural language queries into SQL and provides response and query created",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "LIDR-academy",
+    "url": "https://github.com/LIDR-academy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LIDR-academy/text2sql-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 65,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-28T14:23:49Z",
+    "first_commit_at": "2025-05-28T14:21:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1981,
+  "rank_in_category": 87,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:36.032973Z",
+  "last_refreshed_at": "2026-05-06T16:03:36.032976Z"
+}

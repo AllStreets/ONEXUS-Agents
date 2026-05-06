@@ -1,0 +1,38 @@
+{
+  "slug": "deepresearchagent",
+  "name": "DeepResearchAgent",
+  "tagline": "DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordi",
+  "category": "scientific-research",
+  "tags": [
+    "gaia",
+    "general-purpose",
+    "multiagent-systems",
+    "multimodel"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SkyworkAI",
+    "url": "https://github.com/SkyworkAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SkyworkAI/DeepResearchAgent",
+    "huggingface": null,
+    "homepage": "https://skyworkai.github.io/DeepResearchAgent/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3373,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-04T09:15:39Z",
+    "first_commit_at": "2025-05-20T03:02:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6172,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:49:54.981291Z",
+  "last_refreshed_at": "2026-05-06T15:49:54.981294Z"
+}

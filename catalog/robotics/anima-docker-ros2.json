@@ -1,0 +1,44 @@
+{
+  "slug": "anima-docker-ros2",
+  "name": "anima-docker-ros2",
+  "tagline": "ANIMA Docker ROS 2 — Browser-first ROS 2 desktop with noVNC. One command to a working robotics dev environment. Part of the ANIMA agentic robotics AI stack.",
+  "category": "robotics",
+  "tags": [
+    "agentic-ai",
+    "aiflow-labs",
+    "anima",
+    "autonomous-vehicles",
+    "computer-vision",
+    "deep-learning",
+    "docker",
+    "foxglove",
+    "gazebo",
+    "novnc"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "RobotFlow-Labs",
+    "url": "https://github.com/RobotFlow-Labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RobotFlow-Labs/anima-docker-ros2",
+    "huggingface": null,
+    "homepage": "https://robotflowlabs.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-01T02:06:48Z",
+    "first_commit_at": "2026-03-31T19:47:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3107,
+  "rank_in_category": 73,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:01:57.155389Z",
+  "last_refreshed_at": "2026-05-06T16:01:57.155392Z"
+}

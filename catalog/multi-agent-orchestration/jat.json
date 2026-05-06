@@ -1,0 +1,44 @@
+{
+  "slug": "jat",
+  "name": "jat",
+  "tagline": "  The World's First Agentic IDE. Visual dashboard: live sessions, task management, code editor, terminal. Epic Swarm parallel workflows. Auto-proceed rules. Automation patterns. Beads + Agent Mail + 5",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-coordination",
+    "agent-mail",
+    "agent-orchestration",
+    "agent-swarm",
+    "ai",
+    "ai-agents",
+    "ai-development",
+    "anthropic-mcp",
+    "bash-tools",
+    "beads"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "joewinke",
+    "url": "https://github.com/joewinke"
+  },
+  "source": {
+    "primary": "github",
+    "github": "joewinke/jat",
+    "huggingface": null,
+    "homepage": "https://jat.tools/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 216,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T15:23:40Z",
+    "first_commit_at": "2025-11-18T19:14:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3276,
+  "rank_in_category": 103,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:54.116074Z",
+  "last_refreshed_at": "2026-05-06T15:51:54.116078Z"
+}

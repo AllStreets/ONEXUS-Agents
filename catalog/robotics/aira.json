@@ -1,0 +1,39 @@
+{
+  "slug": "aira",
+  "name": "aira",
+  "tagline": "Autonomous intelligent robot agent (AIRA) project implements the standard of economic interaction between human-robot and robot-robot.",
+  "category": "robotics",
+  "tags": [
+    "autonomous-robot",
+    "ethereum",
+    "multiagent-systems",
+    "nix",
+    "robotics"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "airalab",
+    "url": "https://github.com/airalab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "airalab/aira",
+    "huggingface": null,
+    "homepage": "http://aira.life/"
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 102,
+    "downloads_30d": null,
+    "last_commit_at": "2020-04-28T17:15:15Z",
+    "first_commit_at": "2016-10-12T15:17:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3276,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:05.560163Z",
+  "last_refreshed_at": "2026-05-06T16:02:05.560166Z"
+}

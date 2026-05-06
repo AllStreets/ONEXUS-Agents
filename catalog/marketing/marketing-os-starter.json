@@ -1,0 +1,42 @@
+{
+  "slug": "marketing-os-starter",
+  "name": "marketing-os-starter",
+  "tagline": "An AI marketing team you can clone and run in 30 minutes. 4 specialized agents, 5 skills, structured handoffs, persistent memory. Built on Claude Code.",
+  "category": "marketing",
+  "tags": [
+    "ai-agents",
+    "ai-marketing",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "marketing",
+    "marketing-automation",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ericosiu",
+    "url": "https://github.com/ericosiu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ericosiu/marketing-os-starter",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 35,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-24T21:52:54Z",
+    "first_commit_at": "2026-02-23T22:52:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3673,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:01.819515Z",
+  "last_refreshed_at": "2026-05-06T15:57:01.819519Z"
+}

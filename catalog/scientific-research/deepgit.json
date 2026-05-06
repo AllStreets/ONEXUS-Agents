@@ -1,0 +1,44 @@
+{
+  "slug": "deepgit",
+  "name": "DeepGit",
+  "tagline": "Deep research agent to help you find the best GitHub repositories 🕵️!",
+  "category": "scientific-research",
+  "tags": [
+    "agent",
+    "deep-research",
+    "github-search",
+    "langchain",
+    "langgraph",
+    "llm",
+    "nlp",
+    "open-source",
+    "python",
+    "seq2seq"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zamalali",
+    "url": "https://github.com/zamalali"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zamalali/DeepGit",
+    "huggingface": null,
+    "homepage": "https://deepgit.vercel.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 868,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-08T06:14:08Z",
+    "first_commit_at": "2024-12-16T04:43:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5511,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:49:57.374121Z",
+  "last_refreshed_at": "2026-05-06T15:49:57.374124Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "socialecho",
+  "name": "SocialEcho",
+  "tagline": "Social networking platform with automated content moderation and context-based authentication system",
+  "category": "social-media",
+  "tags": [
+    "authentication",
+    "azure-blob-storage",
+    "azure-storage",
+    "bart-large-mnli",
+    "express",
+    "huggingface-transformers",
+    "jwt-authentication",
+    "mern-project",
+    "mern-stack",
+    "mongodb"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nz-m",
+    "url": "https://github.com/nz-m"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nz-m/SocialEcho",
+    "huggingface": null,
+    "homepage": "https://socialecho.netlify.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2420,
+    "downloads_30d": null,
+    "last_commit_at": "2024-06-13T11:51:58Z",
+    "first_commit_at": "2023-02-13T21:15:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4169,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:31.521349Z",
+  "last_refreshed_at": "2026-05-06T15:57:31.521352Z"
+}

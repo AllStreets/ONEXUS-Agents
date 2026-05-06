@@ -1,0 +1,39 @@
+{
+  "slug": "ledge",
+  "name": "ledge",
+  "tagline": "Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。",
+  "category": "knowledge-management",
+  "tags": [
+    "devops",
+    "docs-as-code",
+    "everything-as-code",
+    "knowledge-management",
+    "platform"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "phodal",
+    "url": "https://github.com/phodal"
+  },
+  "source": {
+    "primary": "github",
+    "github": "phodal/ledge",
+    "huggingface": null,
+    "homepage": "https://devops.phodal.com/"
+  },
+  "license": "MPL-2.0",
+  "metrics": {
+    "stars": 2174,
+    "downloads_30d": null,
+    "last_commit_at": "2023-12-05T08:43:22Z",
+    "first_commit_at": "2020-03-09T08:29:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4154,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:22.380214Z",
+  "last_refreshed_at": "2026-05-06T16:02:22.380218Z"
+}

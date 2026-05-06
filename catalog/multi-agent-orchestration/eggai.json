@@ -1,0 +1,42 @@
+{
+  "slug": "eggai",
+  "name": "EggAI",
+  "tagline": "Async-first meta framework for building enterprise-grade multi-agent systems.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents-framework",
+    "automation",
+    "generative-ai",
+    "llms",
+    "machine-learning",
+    "multi-agent-orchestration",
+    "multi-agent-systems",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "eggai-tech",
+    "url": "https://github.com/eggai-tech"
+  },
+  "source": {
+    "primary": "github",
+    "github": "eggai-tech/EggAI",
+    "huggingface": null,
+    "homepage": "https://docs.egg-ai.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 55,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T10:31:20Z",
+    "first_commit_at": "2024-12-09T14:49:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3197,
+  "rank_in_category": 107,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:58.813673Z",
+  "last_refreshed_at": "2026-05-06T15:51:58.813676Z"
+}

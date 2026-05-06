@@ -1,0 +1,44 @@
+{
+  "slug": "memos",
+  "name": "MemOS",
+  "tagline": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "ai-agents",
+    "chatgpt",
+    "claude",
+    "hermes",
+    "llm",
+    "long-term-memory",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "MemTensor",
+    "url": "https://github.com/MemTensor"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MemTensor/MemOS",
+    "huggingface": null,
+    "homepage": "https://memos.openmem.net/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 8929,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T12:51:47Z",
+    "first_commit_at": "2025-07-06T10:01:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3964,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:11.106999Z",
+  "last_refreshed_at": "2026-05-06T15:51:11.107003Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "comfyui-llm-party",
+  "name": "comfyui_LLM_party",
+  "tagline": "LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces,",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "comfyui",
+    "dify",
+    "flux",
+    "gemini",
+    "gguf",
+    "gpt-sovits",
+    "graphrag",
+    "janus-pro",
+    "linux"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "heshengtao",
+    "url": "https://github.com/heshengtao"
+  },
+  "source": {
+    "primary": "github",
+    "github": "heshengtao/comfyui_LLM_party",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 2220,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-08T17:40:45Z",
+    "first_commit_at": "2024-04-13T13:42:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3523,
+  "rank_in_category": 79,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:44.279108Z",
+  "last_refreshed_at": "2026-05-06T15:52:44.279112Z"
+}

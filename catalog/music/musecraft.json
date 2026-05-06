@@ -1,0 +1,39 @@
+{
+  "slug": "musecraft",
+  "name": "MuseCraft",
+  "tagline": "Front-end for symbolic music AI models",
+  "category": "music",
+  "tags": [
+    "front-end",
+    "midi",
+    "musecraft",
+    "music",
+    "music-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "MIDIAI",
+    "url": "https://github.com/MIDIAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MIDIAI/MuseCraft",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/musecraft/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 17,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-20T01:59:39Z",
+    "first_commit_at": "2024-10-08T23:54:13Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1895,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:00:23.762315Z",
+  "last_refreshed_at": "2026-05-06T16:00:23.762318Z"
+}

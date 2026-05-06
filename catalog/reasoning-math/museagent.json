@@ -1,0 +1,33 @@
+{
+  "slug": "museagent",
+  "name": "MuSEAgent",
+  "tagline": "A Multimodal Reasoning Agent with Stateful Experiences",
+  "category": "reasoning-math",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "DeepExperience",
+    "url": "https://github.com/DeepExperience"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DeepExperience/MuSEAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 22,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-31T04:19:35Z",
+    "first_commit_at": "2026-03-25T18:43:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1667,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:59.628022Z",
+  "last_refreshed_at": "2026-05-06T15:50:59.628025Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "voice-agents-from-scratch",
+  "name": "voice-agents-from-scratch",
+  "tagline": "From-scratch voice agents in Python: end-to-end speech pipelines, runnable chapters, and a small shared library. Local models, explicit streaming behavior.",
+  "category": "audio-speech",
+  "tags": [
+    "agents",
+    "edge-ai",
+    "faster-whisper",
+    "kokoro-82m",
+    "llm",
+    "local-ai",
+    "onnx",
+    "python",
+    "speech-to-text",
+    "streaming"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pguso",
+    "url": "https://github.com/pguso"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pguso/voice-agents-from-scratch",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-03T17:05:08Z",
+    "first_commit_at": "2026-05-02T07:37:56Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3617,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:41:31.492386Z",
+  "last_refreshed_at": "2026-05-06T15:41:31.492389Z"
+}

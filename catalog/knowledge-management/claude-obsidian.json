@@ -1,0 +1,41 @@
+{
+  "slug": "claude-obsidian",
+  "name": "claude-obsidian",
+  "tagline": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
+  "category": "knowledge-management",
+  "tags": [
+    "ai",
+    "claude-code",
+    "claude-code-skill",
+    "knowledge-management",
+    "obsidian",
+    "open-source",
+    "second-brain"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AgriciDaniel",
+    "url": "https://github.com/AgriciDaniel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AgriciDaniel/claude-obsidian",
+    "huggingface": null,
+    "homepage": "https://agricidaniel.com/blog/claude-obsidian-ai-second-brain"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4380,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-24T10:21:48Z",
+    "first_commit_at": "2026-04-07T08:59:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5669,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:18.153214Z",
+  "last_refreshed_at": "2026-05-06T16:02:18.153217Z"
+}

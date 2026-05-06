@@ -1,0 +1,36 @@
+{
+  "slug": "cognitivekernel-pro",
+  "name": "CognitiveKernel-Pro",
+  "tagline": "Deep Research Agent CognitiveKernel-Pro from Tencent AI Lab. Paper: https://arxiv.org/pdf/2508.00414",
+  "category": "scientific-research",
+  "tags": [
+    "agent",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Tencent",
+    "url": "https://github.com/Tencent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tencent/CognitiveKernel-Pro",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 514,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T07:47:14Z",
+    "first_commit_at": "2025-08-04T13:28:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5441,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:02.578140Z",
+  "last_refreshed_at": "2026-05-06T15:50:02.578143Z"
+}

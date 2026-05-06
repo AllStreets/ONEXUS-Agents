@@ -1,0 +1,38 @@
+{
+  "slug": "unigraph-dev",
+  "name": "unigraph-dev",
+  "tagline": "A local-first and universal knowledge graph, personal search engine, and workspace for your life.",
+  "category": "knowledge-management",
+  "tags": [
+    "dgraph",
+    "knowledge-base",
+    "knowledge-management",
+    "react"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "unigraph-dev",
+    "url": "https://github.com/unigraph-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "unigraph-dev/unigraph-dev",
+    "huggingface": null,
+    "homepage": "https://unigraph.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 763,
+    "downloads_30d": null,
+    "last_commit_at": "2023-06-19T16:01:04Z",
+    "first_commit_at": "2020-10-11T03:34:16Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3873,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:26.759923Z",
+  "last_refreshed_at": "2026-05-06T16:02:26.759925Z"
+}

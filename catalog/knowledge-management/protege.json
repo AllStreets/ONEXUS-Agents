@@ -1,0 +1,44 @@
+{
+  "slug": "protege",
+  "name": "protege",
+  "tagline": "Protege Desktop",
+  "category": "knowledge-management",
+  "tags": [
+    "java",
+    "knowledge-graph",
+    "knowledge-management",
+    "obo",
+    "ontology",
+    "ontology-engineering",
+    "owl",
+    "protege",
+    "protege-desktop",
+    "rdf"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "protegeproject",
+    "url": "https://github.com/protegeproject"
+  },
+  "source": {
+    "primary": "github",
+    "github": "protegeproject/protege",
+    "huggingface": null,
+    "homepage": "http://protege.stanford.edu/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1345,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T19:31:49Z",
+    "first_commit_at": "2013-08-20T01:26:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5758,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:24.457854Z",
+  "last_refreshed_at": "2026-05-06T16:02:24.457857Z"
+}

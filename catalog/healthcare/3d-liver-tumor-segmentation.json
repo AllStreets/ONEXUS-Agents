@@ -1,0 +1,44 @@
+{
+  "slug": "3d-liver-tumor-segmentation",
+  "name": "3D_Liver_Tumor_segmentation",
+  "tagline": "This project compares the performance of UNet, ResUNet, SegResNet, and UNETR architectures on the 2017 LiTS dataset for liver tumor segmentation. We evaluate segmentation accuracy using the DICE score",
+  "category": "healthcare",
+  "tags": [
+    "3d-segmentation",
+    "cnn",
+    "deep-learning",
+    "healthcare-ai",
+    "lits-data",
+    "liver-tumor-segmentation",
+    "medical-imaging",
+    "resunet",
+    "segresnet",
+    "unet"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "spsingh37",
+    "url": "https://github.com/spsingh37"
+  },
+  "source": {
+    "primary": "github",
+    "github": "spsingh37/3D_Liver_Tumor_segmentation",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-14T01:39:46Z",
+    "first_commit_at": "2023-04-28T21:47:01Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2845,
+  "rank_in_category": 106,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:54.370641Z",
+  "last_refreshed_at": "2026-05-06T15:53:54.370645Z"
+}

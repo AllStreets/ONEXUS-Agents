@@ -1,0 +1,44 @@
+{
+  "slug": "docproduct",
+  "name": "DocProduct",
+  "tagline": "Medical Q&A with Deep Language Models",
+  "category": "healthcare",
+  "tags": [
+    "artificial-intelligence",
+    "bert",
+    "deep-learning",
+    "gpt-2",
+    "health",
+    "healthcare",
+    "machine-learning",
+    "medical",
+    "nlp",
+    "tensorflow"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "re-search",
+    "url": "https://github.com/re-search"
+  },
+  "source": {
+    "primary": "github",
+    "github": "re-search/DocProduct",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 571,
+    "downloads_30d": null,
+    "last_commit_at": "2023-03-25T00:32:00Z",
+    "first_commit_at": "2019-04-09T23:20:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3805,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:33.157355Z",
+  "last_refreshed_at": "2026-05-06T15:53:33.157358Z"
+}

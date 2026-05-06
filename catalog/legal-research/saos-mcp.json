@@ -1,0 +1,43 @@
+{
+  "slug": "saos-mcp",
+  "name": "saos-mcp",
+  "tagline": "MCP server for searching and analyzing Polish court judgments (SAOS database). For Polish lawyers and legal researchers.",
+  "category": "legal-research",
+  "tags": [
+    "court-judgments",
+    "legal-research",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "model-context-protocol-servers",
+    "polish-law",
+    "saos",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pawelojdowski",
+    "url": "https://github.com/pawelojdowski"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pawelojdowski/saos-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T05:49:53Z",
+    "first_commit_at": "2026-05-06T05:49:48Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.1896,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:36:00.342682Z",
+  "last_refreshed_at": "2026-05-06T15:36:00.342685Z"
+}

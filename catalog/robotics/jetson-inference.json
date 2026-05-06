@@ -1,0 +1,44 @@
+{
+  "slug": "jetson-inference",
+  "name": "jetson-inference",
+  "tagline": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+  "category": "robotics",
+  "tags": [
+    "caffe",
+    "computer-vision",
+    "deep-learning",
+    "digits",
+    "embedded",
+    "image-recognition",
+    "inference",
+    "jetson",
+    "jetson-nano",
+    "jetson-tx1"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dusty-nv",
+    "url": "https://github.com/dusty-nv"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dusty-nv/jetson-inference",
+    "huggingface": null,
+    "homepage": "https://developer.nvidia.com/embedded/twodaystoademo"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8837,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-16T17:34:47Z",
+    "first_commit_at": "2016-07-30T19:56:47Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4874,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:01:50.164737Z",
+  "last_refreshed_at": "2026-05-06T16:01:50.164741Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "sv-medvision-pro",
+  "name": "SV-MedVision-Pro",
+  "tagline": "\"🏥 Advanced Multi-Agent Autonomous Diagnostic System for X-ray, MRI, & CT analysis. Leverages Groq LPUs, Agno, & Llama 4 for grounded clinical reports. Features real-time research (RAG) & self-verific",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-workflow",
+    "deep-learning",
+    "fastapi",
+    "groq",
+    "healthcare",
+    "llama-4",
+    "medical-ai",
+    "multi-agent-orchestration",
+    "multimodal-rag",
+    "radiology"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rashedulalbab253",
+    "url": "https://github.com/rashedulalbab253"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rashedulalbab253/SV-MedVision-Pro",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-05T03:47:00Z",
+    "first_commit_at": "2026-02-05T02:56:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1659,
+  "rank_in_category": 143,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:16.369958Z",
+  "last_refreshed_at": "2026-05-06T15:52:16.369961Z"
+}

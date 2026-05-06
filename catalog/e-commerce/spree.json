@@ -1,0 +1,44 @@
+{
+  "slug": "spree",
+  "name": "spree",
+  "tagline": "Open-source headless eCommerce platform with REST API, TypeScript SDK, and Next.js storefront for cross-border, B2B or marketplace eCommerce.",
+  "category": "e-commerce",
+  "tags": [
+    "b2b-commerce",
+    "e-commerce",
+    "ecommerce",
+    "ecommerce-api",
+    "ecommerce-framework",
+    "ecommerce-platform",
+    "headless",
+    "headless-commerce",
+    "headless-ecommerce",
+    "marketplace"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "spree",
+    "url": "https://github.com/spree"
+  },
+  "source": {
+    "primary": "github",
+    "github": "spree/spree",
+    "huggingface": null,
+    "homepage": "https://spreecommerce.org/"
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 15396,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T13:04:43Z",
+    "first_commit_at": "2008-02-25T17:59:14Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6463,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:58.171310Z",
+  "last_refreshed_at": "2026-05-06T15:57:58.171313Z"
+}

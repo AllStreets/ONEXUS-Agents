@@ -1,0 +1,44 @@
+{
+  "slug": "company-research-agent",
+  "name": "company-research-agent",
+  "tagline": "An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.5 Flash and OpenAI's GPT-5.1 on",
+  "category": "scientific-research",
+  "tags": [
+    "agents",
+    "ai",
+    "company",
+    "financial-analysis",
+    "gemini",
+    "gemini-3-flash",
+    "langchain",
+    "langgraph-python",
+    "multi-agent-systems",
+    "openai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "guy-hartstein",
+    "url": "https://github.com/guy-hartstein"
+  },
+  "source": {
+    "primary": "github",
+    "github": "guy-hartstein/company-research-agent",
+    "huggingface": null,
+    "homepage": "https://companyresearcher.tavily.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1882,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T02:56:19Z",
+    "first_commit_at": "2025-02-12T18:11:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6115,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:49:55.524932Z",
+  "last_refreshed_at": "2026-05-06T15:49:55.524935Z"
+}

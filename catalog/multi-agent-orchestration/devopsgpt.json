@@ -1,0 +1,33 @@
+{
+  "slug": "devopsgpt",
+  "name": "DevOpsGPT",
+  "tagline": "Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "kuafuai",
+    "url": "https://github.com/kuafuai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kuafuai/DevOpsGPT",
+    "huggingface": null,
+    "homepage": "https://www.kuafuai.net/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 5958,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-14T09:11:08Z",
+    "first_commit_at": "2023-07-24T13:13:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2803,
+  "rank_in_category": 122,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:28.886289Z",
+  "last_refreshed_at": "2026-05-06T15:52:28.886291Z"
+}

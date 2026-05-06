@@ -1,0 +1,44 @@
+{
+  "slug": "social-media-agents",
+  "name": "social-media-agents",
+  "tagline": "This project implements a modular, multi-agent AI system where a primary agent coordinates with specialized agents (Ad Campaign Manager, Analytics, Content Creator, and Engagement) to provide comprehe",
+  "category": "social-media",
+  "tags": [
+    "ai-agents",
+    "analytics",
+    "content-creation",
+    "django",
+    "docker-compose",
+    "multi-agent-systems",
+    "openai-integration",
+    "python",
+    "social-media",
+    "web-application"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Klaudiusz321",
+    "url": "https://github.com/Klaudiusz321"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Klaudiusz321/social-media-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 24,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-03T21:11:20Z",
+    "first_commit_at": "2025-04-05T19:53:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4328,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:52.225533Z",
+  "last_refreshed_at": "2026-05-06T15:57:52.225536Z"
+}

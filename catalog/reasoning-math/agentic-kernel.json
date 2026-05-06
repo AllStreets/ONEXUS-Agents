@@ -1,0 +1,44 @@
+{
+  "slug": "agentic-kernel",
+  "name": "agentic-kernel",
+  "tagline": "A flexible foundation AI system for creating A2A-compatible autonomous AI agents that can collaborate, reason, and execute complex tasks through standardized agent-to-agent communication protocols.",
+  "category": "reasoning-math",
+  "tags": [
+    "a2a",
+    "adk-python",
+    "ag2",
+    "agentic-ai",
+    "ai-agents",
+    "gemini",
+    "langchain",
+    "mcp",
+    "multi-agent",
+    "reasoning-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Qredence",
+    "url": "https://github.com/Qredence"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Qredence/agentic-kernel",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-13T22:26:03Z",
+    "first_commit_at": "2025-04-02T13:26:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1882,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:47.936219Z",
+  "last_refreshed_at": "2026-05-06T15:50:47.936222Z"
+}

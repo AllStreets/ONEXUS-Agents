@@ -1,0 +1,43 @@
+{
+  "slug": "clinical-bridge",
+  "name": "clinical-bridge",
+  "tagline": "FHIR R4 adapter for SleepFM-style clinical risk predictions.  Reference implementation, AFib only.",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "fhir",
+    "fhir-r4",
+    "healthcare",
+    "interoperability",
+    "pydantic",
+    "risk-assessment",
+    "sleepfm",
+    "snomed-ct"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AsliAktas",
+    "url": "https://github.com/AsliAktas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AsliAktas/clinical-bridge",
+    "huggingface": null,
+    "homepage": "https://www.nature.com/articles/s41591-025-04133-4"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-02T16:04:43Z",
+    "first_commit_at": "2026-03-31T23:56:47Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3567,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:07.457326Z",
+  "last_refreshed_at": "2026-05-06T15:53:07.457329Z"
+}

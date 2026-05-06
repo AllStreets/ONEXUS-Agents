@@ -1,0 +1,44 @@
+{
+  "slug": "trvl",
+  "name": "trvl",
+  "tagline": "AI Travel Agent — Google Flights + Hotels from your terminal. 43 MCP tools, trip optimization, airport lounges, travel hacks. Free, no API keys, single Go binary.",
+  "category": "travel-planning",
+  "tags": [
+    "accommodation",
+    "airfare",
+    "cli",
+    "flight-search",
+    "free",
+    "golang",
+    "google-flights",
+    "google-hotels",
+    "hotel-search",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MikkoParkkola",
+    "url": "https://github.com/MikkoParkkola"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MikkoParkkola/trvl",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-04T22:20:37Z",
+    "first_commit_at": "2026-04-02T10:18:49Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.511,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:55:38.865084Z",
+  "last_refreshed_at": "2026-05-06T15:55:38.865087Z"
+}

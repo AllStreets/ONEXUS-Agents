@@ -1,0 +1,37 @@
+{
+  "slug": "django-shop",
+  "name": "django-shop",
+  "tagline": "A Django based shop system",
+  "category": "e-commerce",
+  "tags": [
+    "django",
+    "django-shop",
+    "e-commerce"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "awesto",
+    "url": "https://github.com/awesto"
+  },
+  "source": {
+    "primary": "github",
+    "github": "awesto/django-shop",
+    "huggingface": null,
+    "homepage": "http://www.django-shop.org/"
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 3316,
+    "downloads_30d": null,
+    "last_commit_at": "2023-10-19T01:09:56Z",
+    "first_commit_at": "2010-12-06T10:51:14Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2983,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:06.641004Z",
+  "last_refreshed_at": "2026-05-06T15:58:06.641007Z"
+}

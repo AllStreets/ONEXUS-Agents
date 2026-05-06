@@ -1,0 +1,44 @@
+{
+  "slug": "opencac",
+  "name": "opencac",
+  "tagline": "Multi-agent orchestration CLI for AI coding tools. Chain Claude Code, Antigravity, and Codex with validated handoffs, JSONL audit logging, hybrid cloud/local routing, and speculative decoding for loca",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agent-chaining",
+    "ai-coding-agent-pipeline",
+    "ai-coding-workflow-automation",
+    "air-gapped-ai-coding",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "developer-cli-tools",
+    "jsonl-audit-log",
+    "llama-cpp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lpoee",
+    "url": "https://github.com/lpoee"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lpoee/opencac",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T20:17:24Z",
+    "first_commit_at": "2026-04-05T17:05:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2136,
+  "rank_in_category": 133,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:12.354842Z",
+  "last_refreshed_at": "2026-05-06T15:52:12.354846Z"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "swarm",
+  "name": "swarm",
+  "tagline": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "openai",
+    "url": "https://github.com/openai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openai/swarm",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 21432,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T17:10:28Z",
+    "first_commit_at": "2024-10-10T20:17:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4081,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:22.228514Z",
+  "last_refreshed_at": "2026-05-06T15:52:22.228517Z"
+}

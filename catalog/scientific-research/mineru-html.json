@@ -1,0 +1,43 @@
+{
+  "slug": "mineru-html",
+  "name": "MinerU-HTML",
+  "tagline": "MinerU-HTML: An SLM-powered HTML main content extractor that outputs clean HTML bodies. Perfect for Deep Research Agents, RAG applications, and training data generation.",
+  "category": "scientific-research",
+  "tags": [
+    "article-extractor",
+    "corpus-tools",
+    "nlp",
+    "rag",
+    "scraping",
+    "text-extraction",
+    "trafilatura",
+    "web-scraping",
+    "webagent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "opendatalab",
+    "url": "https://github.com/opendatalab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "opendatalab/MinerU-HTML",
+    "huggingface": null,
+    "homepage": "https://opendatalab.com/ai-ready/AICC#playground"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 239,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-27T14:30:36Z",
+    "first_commit_at": "2025-11-28T07:49:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4632,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:13.097399Z",
+  "last_refreshed_at": "2026-05-06T15:50:13.097402Z"
+}

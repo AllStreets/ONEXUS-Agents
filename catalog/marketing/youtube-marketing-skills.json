@@ -1,0 +1,44 @@
+{
+  "slug": "youtube-marketing-skills",
+  "name": "youtube-marketing-skills",
+  "tagline": "YouTube MCP server + 21 marketing skills for Claude Code, Cursor, Codex & 10+ AI agents. SEO, scripts, analytics, Shorts, batch updates & WordPress publishing.",
+  "category": "marketing",
+  "tags": [
+    "agent-skills",
+    "ai-marketing",
+    "claude-code",
+    "claude-code-skills",
+    "claude-desktop",
+    "claude-skills",
+    "content-strategy",
+    "marketing",
+    "mcp",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "adityaarsharma",
+    "url": "https://github.com/adityaarsharma"
+  },
+  "source": {
+    "primary": "github",
+    "github": "adityaarsharma/youtube-marketing-skills",
+    "huggingface": null,
+    "homepage": "https://adityaarsharma.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T10:46:02Z",
+    "first_commit_at": "2026-03-07T17:58:43Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.449,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:12.439401Z",
+  "last_refreshed_at": "2026-05-06T15:57:12.439404Z"
+}

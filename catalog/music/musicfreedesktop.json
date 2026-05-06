@@ -1,0 +1,40 @@
+{
+  "slug": "musicfreedesktop",
+  "name": "MusicFreeDesktop",
+  "tagline": "插件化、定制化、无广告的免费音乐播放器",
+  "category": "music",
+  "tags": [
+    "electron",
+    "free",
+    "music",
+    "music-player",
+    "react",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "maotoumao",
+    "url": "https://github.com/maotoumao"
+  },
+  "source": {
+    "primary": "github",
+    "github": "maotoumao/MusicFreeDesktop",
+    "huggingface": null,
+    "homepage": "https://musicfree.catcat.work/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 8296,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-30T15:49:20Z",
+    "first_commit_at": "2023-05-27T04:09:56Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4708,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:50.265019Z",
+  "last_refreshed_at": "2026-05-06T15:59:50.265023Z"
+}

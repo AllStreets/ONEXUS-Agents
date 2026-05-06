@@ -1,0 +1,41 @@
+{
+  "slug": "openboxes",
+  "name": "openboxes",
+  "tagline": "OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.",
+  "category": "healthcare",
+  "tags": [
+    "disaster-response",
+    "grails",
+    "hacktoberfest",
+    "healthcare",
+    "inventory-management",
+    "shipment-tracking",
+    "warehouse-management"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openboxes",
+    "url": "https://github.com/openboxes"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openboxes/openboxes",
+    "huggingface": null,
+    "homepage": "https://openboxes.com/"
+  },
+  "license": "EPL-1.0",
+  "metrics": {
+    "stars": 841,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T15:51:52Z",
+    "first_commit_at": "2010-04-15T15:39:29Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6109,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:26.057515Z",
+  "last_refreshed_at": "2026-05-06T15:53:26.057519Z"
+}

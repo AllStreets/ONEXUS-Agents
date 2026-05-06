@@ -1,0 +1,44 @@
+{
+  "slug": "open-wearables",
+  "name": "open-wearables",
+  "tagline": "Self-hosted platform to unify wearable health data through one AI-ready API.",
+  "category": "healthcare",
+  "tags": [
+    "apple-health",
+    "apple-watch",
+    "fastapi",
+    "fitness",
+    "fitness-analysis",
+    "fitness-api",
+    "garmin",
+    "health",
+    "healthcare",
+    "healthcare-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "the-momentum",
+    "url": "https://github.com/the-momentum"
+  },
+  "source": {
+    "primary": "github",
+    "github": "the-momentum/open-wearables",
+    "huggingface": null,
+    "homepage": "https://docs.openwearables.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1570,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T13:18:24Z",
+    "first_commit_at": "2025-10-30T15:50:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5755,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:20.494194Z",
+  "last_refreshed_at": "2026-05-06T15:53:20.494197Z"
+}

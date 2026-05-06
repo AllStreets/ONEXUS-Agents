@@ -1,0 +1,33 @@
+{
+  "slug": "salesagent",
+  "name": "SalesAgent",
+  "tagline": "SalesBot 2.0",
+  "category": "sales-crm",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "MiuLab",
+    "url": "https://github.com/MiuLab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MiuLab/SalesAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 30,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-14T03:59:18Z",
+    "first_commit_at": "2024-03-11T15:29:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3596,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:56:14.822752Z",
+  "last_refreshed_at": "2026-05-06T15:56:14.822755Z"
+}

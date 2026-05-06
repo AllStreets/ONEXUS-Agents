@@ -1,0 +1,41 @@
+{
+  "slug": "redfinscraper",
+  "name": "RedfinScraper",
+  "tagline": "Scrapes Redfin data.",
+  "category": "real-estate",
+  "tags": [
+    "data",
+    "pandas",
+    "python",
+    "real-estate",
+    "redfin",
+    "redfin-scraper",
+    "scraper"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ryansherby",
+    "url": "https://github.com/ryansherby"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ryansherby/RedfinScraper",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 98,
+    "downloads_30d": null,
+    "last_commit_at": "2023-08-01T20:51:31Z",
+    "first_commit_at": "2023-03-13T04:00:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3945,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:48.736818Z",
+  "last_refreshed_at": "2026-05-06T15:58:48.736821Z"
+}

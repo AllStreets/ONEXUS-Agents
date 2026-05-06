@@ -1,0 +1,33 @@
+{
+  "slug": "natural-sql",
+  "name": "natural-sql",
+  "tagline": "A series of top performing Text to SQL LLMs",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "cfahlgren1",
+    "url": "https://github.com/cfahlgren1"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cfahlgren1/natural-sql",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 866,
+    "downloads_30d": null,
+    "last_commit_at": "2024-02-12T23:45:33Z",
+    "first_commit_at": "2024-01-18T05:17:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2612,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:42.491865Z",
+  "last_refreshed_at": "2026-05-06T16:03:42.491868Z"
+}

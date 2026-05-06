@@ -1,0 +1,44 @@
+{
+  "slug": "document-skills",
+  "name": "document-SKILLs",
+  "tagline": "Claude Code and Codex SKILLs for PDF, Excel, Word, and PowerPoint manipulation — extraction, forms, formulas, tracked changes, adapted from Anthropic skills.",
+  "category": "document-processing",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "document-processing",
+    "docx",
+    "excel",
+    "pdf-extraction",
+    "pptx"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "appautomaton",
+    "url": "https://github.com/appautomaton"
+  },
+  "source": {
+    "primary": "github",
+    "github": "appautomaton/document-SKILLs",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 80,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-26T12:23:23Z",
+    "first_commit_at": "2026-01-24T00:16:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4212,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:46:42.389477Z",
+  "last_refreshed_at": "2026-05-06T15:46:42.389481Z"
+}

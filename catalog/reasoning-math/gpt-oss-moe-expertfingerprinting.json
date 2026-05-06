@@ -1,0 +1,44 @@
+{
+  "slug": "gpt-oss-moe-expertfingerprinting",
+  "name": "GPT-OSS-MoE-ExpertFingerprinting",
+  "tagline": "ExpertFingerprinting: Behavioral Pattern Analysis and Specialization Mapping of Experts in GPT-OSS-20B's Mixture-of-Experts Architecture",
+  "category": "reasoning-math",
+  "tags": [
+    "behavioral-analysis",
+    "deep-learning",
+    "expert-routing",
+    "gpt",
+    "gpt-oss",
+    "gpt-oss-120b",
+    "gpt-oss-20b",
+    "llm",
+    "llm-evaluation",
+    "mixture-of-experts"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AmanPriyanshu",
+    "url": "https://github.com/AmanPriyanshu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AmanPriyanshu/GPT-OSS-MoE-ExpertFingerprinting",
+    "huggingface": null,
+    "homepage": "https://amanpriyanshu.github.io/GPT-OSS-MoE-ExpertFingerprinting/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-03T08:13:49Z",
+    "first_commit_at": "2025-08-12T18:27:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.149,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:40.920503Z",
+  "last_refreshed_at": "2026-05-06T15:50:40.920506Z"
+}

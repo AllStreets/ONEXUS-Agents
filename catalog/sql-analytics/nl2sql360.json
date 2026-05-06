@@ -1,0 +1,43 @@
+{
+  "slug": "nl2sql360",
+  "name": "NL2SQL360",
+  "tagline": "🔥[VLDB'24] Official repository for the paper “The Dawn of Natural Language to SQL: Are We Fully Ready?” ",
+  "category": "sql-analytics",
+  "tags": [
+    "awesome",
+    "awesome-nl2sql",
+    "awesome-text2sql",
+    "evaluation-framework",
+    "evaluation-metrics",
+    "nl2sql-evaluation",
+    "text-to-sql",
+    "text2sql",
+    "text2sql-evaluation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "HKUSTDial",
+    "url": "https://github.com/HKUSTDial"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HKUSTDial/NL2SQL360",
+    "huggingface": null,
+    "homepage": "https://www.vldb.org/pvldb/vol17/p3318-luo.pdf"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 140,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-02T04:07:45Z",
+    "first_commit_at": "2024-01-29T12:52:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2548,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:09.706402Z",
+  "last_refreshed_at": "2026-05-06T16:03:09.706405Z"
+}

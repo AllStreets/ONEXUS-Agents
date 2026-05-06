@@ -1,0 +1,37 @@
+{
+  "slug": "openlens-ai",
+  "name": "openlens-ai",
+  "tagline": "OpenLens AI: A Fully Autonomous Multimodal Research Agent｜ OpenLens AI：全自主多模态科研智能体",
+  "category": "scientific-research",
+  "tags": [
+    "agent",
+    "llms",
+    "medical-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jarrycyx",
+    "url": "https://github.com/jarrycyx"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jarrycyx/openlens-ai",
+    "huggingface": null,
+    "homepage": "https://openlens.icu/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 261,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-26T07:40:47Z",
+    "first_commit_at": "2025-08-21T05:37:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4428,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:11.276396Z",
+  "last_refreshed_at": "2026-05-06T15:50:11.276399Z"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "taskweaver",
+  "name": "TaskWeaver",
+  "tagline": "The first \"code-first\" agent framework for seamlessly planning and executing data analytics tasks. ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "ai-agents",
+    "code-interpreter",
+    "copilot",
+    "data-analysis",
+    "llm",
+    "openai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/TaskWeaver",
+    "huggingface": null,
+    "homepage": "https://microsoft.github.io/TaskWeaver/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6159,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-23T06:17:21Z",
+    "first_commit_at": "2023-09-11T03:17:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3792,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:38.228471Z",
+  "last_refreshed_at": "2026-05-06T15:52:38.228475Z"
+}

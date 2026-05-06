@@ -1,0 +1,44 @@
+{
+  "slug": "nih-chestx-ray14-thoracic-radiograph-analysis-with-dashboard-vis",
+  "name": "NIH-ChestX-ray14-Thoracic-Radiograph-Analysis-with-Dashboard-Visualizer",
+  "tagline": "Reproducible deep learning pipeline for multi-label thoracic disease detection using the NIH ChestX-ray14 dataset. Evaluates ResNet and DenseNet CNN architectures with patient-level splits, clinical p",
+  "category": "healthcare",
+  "tags": [
+    "ai-healthcare",
+    "chest-xray",
+    "computer-vision",
+    "deep-learning",
+    "gradcam",
+    "medical-imaging",
+    "multilabel-classification",
+    "pytorch",
+    "radiology",
+    "streamlit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rajos29",
+    "url": "https://github.com/rajos29"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rajos29/NIH-ChestX-ray14-Thoracic-Radiograph-Analysis-with-Dashboard-Visualizer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-15T08:21:36Z",
+    "first_commit_at": "2026-03-15T06:18:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3107,
+  "rank_in_category": 87,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:54:11.803302Z",
+  "last_refreshed_at": "2026-05-06T15:54:11.803304Z"
+}

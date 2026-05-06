@@ -1,0 +1,35 @@
+{
+  "slug": "claude-code-stock-deep-research-agent",
+  "name": "Claude-Code-Stock-Deep-Research-Agent",
+  "tagline": "本研究基于 Claude Code Deep Research 系统：  方法论: 8阶段股票投资尽调框架 智能体: 28个并行研究智能体 工具: WebSearch、WebFetch、综合分析 质量: 多空平衡、明确风险、数据验证。简单使用：/stock-research AAPL, I want a quick overview",
+  "category": "scientific-research",
+  "tags": [
+    "claude-code"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "liangdabiao",
+    "url": "https://github.com/liangdabiao"
+  },
+  "source": {
+    "primary": "github",
+    "github": "liangdabiao/Claude-Code-Stock-Deep-Research-Agent",
+    "huggingface": null,
+    "homepage": "https://www.coze.cn/skills?skill_share_pid=7609692071536132130"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 298,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-07T16:48:07Z",
+    "first_commit_at": "2025-12-26T02:56:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4443,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:08.966540Z",
+  "last_refreshed_at": "2026-05-06T15:50:08.966543Z"
+}

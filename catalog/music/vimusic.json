@@ -1,0 +1,39 @@
+{
+  "slug": "vimusic",
+  "name": "ViMusic",
+  "tagline": "An Android application for streaming music from YouTube Music",
+  "category": "music",
+  "tags": [
+    "android",
+    "jetpack-compose",
+    "music",
+    "music-player",
+    "youtube"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "vfsfitvnm",
+    "url": "https://github.com/vfsfitvnm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vfsfitvnm/ViMusic",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 9437,
+    "downloads_30d": null,
+    "last_commit_at": "2024-07-15T23:40:32Z",
+    "first_commit_at": "2022-06-02T16:59:18Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3101,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:43.051285Z",
+  "last_refreshed_at": "2026-05-06T15:59:43.051288Z"
+}

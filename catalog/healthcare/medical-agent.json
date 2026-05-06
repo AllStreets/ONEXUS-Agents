@@ -1,0 +1,33 @@
+{
+  "slug": "medical-agent",
+  "name": "medical_agent",
+  "tagline": "面向个人用户的轻量化健康管理工具，基于LLM的 Agent 技术，解决用户日常用药安全查询、化验单快速解读、个人就诊记录统一归档的核心需求，全程严格遵守医疗合规要求，不提供任何诊疗服务。",
+  "category": "healthcare",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "kyle103",
+    "url": "https://github.com/kyle103"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kyle103/medical_agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 31,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T08:03:13Z",
+    "first_commit_at": "2026-04-12T06:13:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.454,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:54:28.897851Z",
+  "last_refreshed_at": "2026-05-06T15:54:28.897854Z"
+}

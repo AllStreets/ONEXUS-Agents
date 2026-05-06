@@ -1,0 +1,37 @@
+{
+  "slug": "dante",
+  "name": "Dante",
+  "tagline": "Multi-agent terminal orchestration with test-driven convergence loops. Agents never see the tests  only structured failure output. Hence, the only way to pass is to  solve the actual problem. Pure bas",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "claude-code-plugin",
+    "convergence",
+    "multi-agent-orchestration"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "FF-GardenFn",
+    "url": "https://github.com/FF-GardenFn"
+  },
+  "source": {
+    "primary": "github",
+    "github": "FF-GardenFn/Dante",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-05T16:00:51Z",
+    "first_commit_at": "2026-03-03T21:07:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1812,
+  "rank_in_category": 141,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:15.606139Z",
+  "last_refreshed_at": "2026-05-06T15:52:15.606142Z"
+}

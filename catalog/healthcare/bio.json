@@ -1,0 +1,41 @@
+{
+  "slug": "bio",
+  "name": "bio",
+  "tagline": "The world's most powerful open-source bio AI assistant - Access academic literature, clinical trials, drug labels, and more, all through natural conversation.",
+  "category": "healthcare",
+  "tags": [
+    "academic-paper",
+    "ai",
+    "ai-agents",
+    "bio-ai",
+    "drug-design",
+    "drug-discovery",
+    "healthcare-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yorkeccak",
+    "url": "https://github.com/yorkeccak"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yorkeccak/bio",
+    "huggingface": null,
+    "homepage": "https://bio.valyu.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 323,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-16T11:28:48Z",
+    "first_commit_at": "2025-09-15T09:37:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4659,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:37.065992Z",
+  "last_refreshed_at": "2026-05-06T15:53:37.065996Z"
+}

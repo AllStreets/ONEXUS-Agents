@@ -1,0 +1,39 @@
+{
+  "slug": "knowledgegraph",
+  "name": "KnowledgeGraph",
+  "tagline": "knowledge graph知识图谱,从零开始构建知识图谱",
+  "category": "knowledge-management",
+  "tags": [
+    "knowledge-graph",
+    "knowledge-management",
+    "named-entity-recognition",
+    "question-answering",
+    "relation-extraction"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "myhhub",
+    "url": "https://github.com/myhhub"
+  },
+  "source": {
+    "primary": "github",
+    "github": "myhhub/KnowledgeGraph",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1640,
+    "downloads_30d": null,
+    "last_commit_at": "2023-09-18T07:13:59Z",
+    "first_commit_at": "2019-10-17T07:02:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4078,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:23.435857Z",
+  "last_refreshed_at": "2026-05-06T16:02:23.435860Z"
+}

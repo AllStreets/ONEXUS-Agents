@@ -1,0 +1,37 @@
+{
+  "slug": "melodisco",
+  "name": "melodisco",
+  "tagline": "AI Music Player",
+  "category": "music",
+  "tags": [
+    "ai-music",
+    "ai-music-generator",
+    "ai-music-player"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "all-in-aigc",
+    "url": "https://github.com/all-in-aigc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "all-in-aigc/melodisco",
+    "huggingface": null,
+    "homepage": "https://melodis.co/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 521,
+    "downloads_30d": null,
+    "last_commit_at": "2024-09-16T09:45:53Z",
+    "first_commit_at": "2024-03-26T06:04:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2354,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:00:34.287425Z",
+  "last_refreshed_at": "2026-05-06T16:00:34.287428Z"
+}

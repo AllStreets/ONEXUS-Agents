@@ -1,0 +1,44 @@
+{
+  "slug": "stenoai",
+  "name": "stenoai",
+  "tagline": "Privacy focused AI notepad using locally hosted Small Language Models. Capture beautiful notes whilst keeping your data confidential. Pefect for government, finance and legal professionals.",
+  "category": "healthcare",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "apple-silicon",
+    "clinical",
+    "deepseek",
+    "healthcare-ai",
+    "llama3",
+    "localllm",
+    "meeting-minutes",
+    "meeting-notes"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ruzin",
+    "url": "https://github.com/ruzin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ruzin/stenoai",
+    "huggingface": null,
+    "homepage": "https://stenoai.co/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 716,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T00:49:14Z",
+    "first_commit_at": "2025-08-30T19:36:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5594,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:36.384445Z",
+  "last_refreshed_at": "2026-05-06T15:53:36.384448Z"
+}

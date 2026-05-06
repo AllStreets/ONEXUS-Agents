@@ -1,0 +1,42 @@
+{
+  "slug": "adventureworks-business-insights-with-bigquery",
+  "name": "AdventureWorks-Business-Insights-with-BigQuery",
+  "tagline": "SQL-based business analytics project using Google BigQuery on the AdventureWorks2019 dataset, delivering insights across Sales, Production, and Purchasing, including YoY growth, territory ranking, cus",
+  "category": "sql-analytics",
+  "tags": [
+    "bigquery",
+    "business-insights",
+    "customer-retention",
+    "data-analysis",
+    "ecommerce-analytics",
+    "inventory-analysis",
+    "sales-analysis",
+    "sql-analytics"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ToanVuong",
+    "url": "https://github.com/ToanVuong"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ToanVuong/AdventureWorks-Business-Insights-with-BigQuery",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-02T09:11:19Z",
+    "first_commit_at": "2026-04-01T15:21:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1999,
+  "rank_in_category": 84,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:28.133703Z",
+  "last_refreshed_at": "2026-05-06T16:03:28.133707Z"
+}

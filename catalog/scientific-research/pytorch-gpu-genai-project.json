@@ -1,0 +1,44 @@
+{
+  "slug": "pytorch-gpu-genai-project",
+  "name": "pytorch-gpu-genai-project",
+  "tagline": "Template repository for a Python 3-based Generative AI project with GPU acceleration using the PyTorch ecosystem.",
+  "category": "scientific-research",
+  "tags": [
+    "data-science",
+    "deep-learning",
+    "generative-ai",
+    "gpu",
+    "gpu-acceleration",
+    "python-3",
+    "pytorch",
+    "scientific-computing",
+    "scientific-research",
+    "scientific-workflows"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kaust-generative-ai",
+    "url": "https://github.com/kaust-generative-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kaust-generative-ai/pytorch-gpu-genai-project",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 22,
+    "downloads_30d": null,
+    "last_commit_at": "2024-09-04T10:20:42Z",
+    "first_commit_at": "2019-09-18T05:40:33Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2854,
+  "rank_in_category": 86,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:49:49.108244Z",
+  "last_refreshed_at": "2026-05-06T15:49:49.108250Z"
+}

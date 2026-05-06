@@ -1,0 +1,38 @@
+{
+  "slug": "newton",
+  "name": "newton",
+  "tagline": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+  "category": "robotics",
+  "tags": [
+    "newton-physics",
+    "nvidia-warp",
+    "physics-simulation",
+    "robotics"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "newton-physics",
+    "url": "https://github.com/newton-physics"
+  },
+  "source": {
+    "primary": "github",
+    "github": "newton-physics/newton",
+    "huggingface": null,
+    "homepage": "https://newton-physics.github.io/newton/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4847,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T15:39:36Z",
+    "first_commit_at": "2025-04-22T04:12:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6121,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:01:52.755954Z",
+  "last_refreshed_at": "2026-05-06T16:01:52.755958Z"
+}

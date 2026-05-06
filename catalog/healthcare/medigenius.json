@@ -1,0 +1,44 @@
+{
+  "slug": "medigenius",
+  "name": "MediGenius",
+  "tagline": "Advanced multi-agent Medical AI Assistant powered by LangGraph that delivers empathetic, doctor-like responses using a hybrid pipeline of LLM reasoning, RAG from medical PDFs, and intelligent fallback",
+  "category": "healthcare",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "ai-agents-framework",
+    "ai-healthcare-assistant",
+    "clinical-assistant",
+    "context-aware-ai",
+    "doctor-ai",
+    "duckduckgo-search",
+    "fallback-architecture",
+    "generative-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Md-Emon-Hasan",
+    "url": "https://github.com/Md-Emon-Hasan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Md-Emon-Hasan/MediGenius",
+    "huggingface": null,
+    "homepage": "https://medigenius.onrender.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 24,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-28T14:50:41Z",
+    "first_commit_at": "2025-04-30T17:18:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3922,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:47.815500Z",
+  "last_refreshed_at": "2026-05-06T15:53:47.815503Z"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "opencowork",
+  "name": "opencowork",
+  "tagline": "Open-source, local-first desktop  Agent Runtime for turning business goals into executable, reusable, and auditable workflows.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "automation",
+    "enterprise",
+    "feishu",
+    "im-bot",
+    "instant-messaging",
+    "productivity",
+    "task-management"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "LeonGaoHaining",
+    "url": "https://github.com/LeonGaoHaining"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LeonGaoHaining/opencowork",
+    "huggingface": null,
+    "homepage": "https://opencowork.me/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 24,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T22:13:22Z",
+    "first_commit_at": "2026-03-28T16:40:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2836,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:45:41.023972Z",
+  "last_refreshed_at": "2026-05-06T15:45:41.023975Z"
+}

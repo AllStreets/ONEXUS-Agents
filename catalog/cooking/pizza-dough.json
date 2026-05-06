@@ -1,0 +1,41 @@
+{
+  "slug": "pizza-dough",
+  "name": "pizza-dough",
+  "tagline": "This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.",
+  "category": "cooking",
+  "tags": [
+    "baking",
+    "cooking",
+    "neapolitan-pizza",
+    "pizza",
+    "pizza-dough",
+    "recipe",
+    "yeast"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hendricius",
+    "url": "https://github.com/hendricius"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hendricius/pizza-dough",
+    "huggingface": null,
+    "homepage": "https://pizza-calculator.the-bread-code.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3636,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-13T10:50:02Z",
+    "first_commit_at": "2019-01-05T14:22:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5014,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:55.729129Z",
+  "last_refreshed_at": "2026-05-06T15:58:55.729132Z"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "botsharp",
+  "name": "BotSharp",
+  "tagline": "AI Multi-Agent Framework in .NET",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agent",
+    "chatbot",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SciSharp",
+    "url": "https://github.com/SciSharp"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SciSharp/BotSharp",
+    "huggingface": null,
+    "homepage": "https://botsharp.readthedocs.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3055,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T10:55:04Z",
+    "first_commit_at": "2017-12-17T13:51:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4072,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:21.023868Z",
+  "last_refreshed_at": "2026-05-06T15:51:21.023871Z"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "vanilla-cookbook",
+  "name": "vanilla-cookbook",
+  "tagline": "A deceptively simple recipe manager. ",
+  "category": "cooking",
+  "tags": [
+    "cookbook",
+    "cooking",
+    "food",
+    "recipes"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jt196",
+    "url": "https://github.com/jt196"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jt196/vanilla-cookbook",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 149,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-04T10:46:12Z",
+    "first_commit_at": "2023-02-04T16:44:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.548,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:03.512211Z",
+  "last_refreshed_at": "2026-05-06T15:59:03.512214Z"
+}

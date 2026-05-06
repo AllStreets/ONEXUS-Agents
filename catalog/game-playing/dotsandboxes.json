@@ -1,0 +1,39 @@
+{
+  "slug": "dotsandboxes",
+  "name": "dotsandboxes",
+  "tagline": "Javascript Dots-and-Boxes application with support for game-playing agents.",
+  "category": "game-playing",
+  "tags": [
+    "agent",
+    "dots-and-boxes",
+    "game",
+    "javascript",
+    "machine-learning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wannesm",
+    "url": "https://github.com/wannesm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wannesm/dotsandboxes",
+    "huggingface": null,
+    "homepage": "https://dtai.cs.kuleuven.be/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2019-05-10T13:44:28Z",
+    "first_commit_at": "2018-02-05T22:21:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3257,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:01:26.724765Z",
+  "last_refreshed_at": "2026-05-06T16:01:26.724769Z"
+}

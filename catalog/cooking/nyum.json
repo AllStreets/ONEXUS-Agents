@@ -1,0 +1,44 @@
+{
+  "slug": "nyum",
+  "name": "nyum",
+  "tagline": "A simple Pandoc-powered static site generator for your recipe collection – it effortlessly turns a set of Markdown-formatted recipes into a lightweight, responsive, searchable website.",
+  "category": "cooking",
+  "tags": [
+    "cookbook",
+    "cooking",
+    "food",
+    "pandoc",
+    "pandoc-template",
+    "recipe-collection",
+    "recipe-website",
+    "recipes",
+    "static-site-generator",
+    "static-website"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "doersino",
+    "url": "https://github.com/doersino"
+  },
+  "source": {
+    "primary": "github",
+    "github": "doersino/nyum",
+    "huggingface": null,
+    "homepage": "https://ghpages.noahdoersing.com/nyum/_site/index.html"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 207,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-06T16:50:34Z",
+    "first_commit_at": "2021-03-11T22:44:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3943,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:59.890976Z",
+  "last_refreshed_at": "2026-05-06T15:58:59.890979Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "metaphys",
+  "name": "MetaPhys",
+  "tagline": "MetaPhys: Few-Shot Adaptation for Non-Contact Physiological Measurement (ACM CHIL-2021)",
+  "category": "healthcare",
+  "tags": [
+    "computer-vision",
+    "few-shot-learning",
+    "health",
+    "health-sensing",
+    "healthcare-ai",
+    "meta-learning",
+    "mobilehealth",
+    "personalization",
+    "physiological-computing",
+    "physiological-signals"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "xliucs",
+    "url": "https://github.com/xliucs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xliucs/MetaPhys",
+    "huggingface": null,
+    "homepage": "https://doi.org/10.1145/3450439.3451870"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 45,
+    "downloads_30d": null,
+    "last_commit_at": "2021-09-28T02:56:35Z",
+    "first_commit_at": "2020-09-29T21:18:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3123,
+  "rank_in_category": 84,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:42.731558Z",
+  "last_refreshed_at": "2026-05-06T15:53:42.731562Z"
+}

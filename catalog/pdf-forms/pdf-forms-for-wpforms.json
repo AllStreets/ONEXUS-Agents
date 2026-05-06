@@ -1,0 +1,44 @@
+{
+  "slug": "pdf-forms-for-wpforms",
+  "name": "pdf-forms-for-wpforms",
+  "tagline": "Build WPForms from PDF forms. Get PDFs filled automatically and attached to email messages and/or website responses on form submissions.",
+  "category": "pdf-forms",
+  "tags": [
+    "pdf",
+    "pdf-document-processor",
+    "pdf-fill",
+    "pdf-fill-form",
+    "pdf-filler",
+    "pdf-form",
+    "pdf-forms",
+    "pdf-generation",
+    "pdf-generator",
+    "wordpress"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "maximum-software",
+    "url": "https://github.com/maximum-software"
+  },
+  "source": {
+    "primary": "github",
+    "github": "maximum-software/pdf-forms-for-wpforms",
+    "huggingface": null,
+    "homepage": "https://pdfformsfiller.org/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-10T23:22:59Z",
+    "first_commit_at": "2022-09-09T17:02:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4296,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:49.906295Z",
+  "last_refreshed_at": "2026-05-06T16:02:49.906298Z"
+}

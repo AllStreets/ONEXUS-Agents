@@ -1,0 +1,44 @@
+{
+  "slug": "voyager-backend-core",
+  "name": "voyager-backend-core",
+  "tagline": "Core backend for SmarTrip, built with Spring Boot and PostgreSQL, delivers Richardson Level 3 RESTful APIs for user management, travel planning, and social features. Developed by Team Voyager for the ",
+  "category": "travel-planning",
+  "tags": [
+    "backend",
+    "docker",
+    "hateoas",
+    "java",
+    "jwt-authentication",
+    "maven",
+    "openapi",
+    "postgresql",
+    "rest-api",
+    "richardson-maturity-model"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "LePeanutButter",
+    "url": "https://github.com/LePeanutButter"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LePeanutButter/voyager-backend-core",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T05:22:32Z",
+    "first_commit_at": "2026-04-21T17:52:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3607,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:55:14.267516Z",
+  "last_refreshed_at": "2026-05-06T15:55:14.267519Z"
+}

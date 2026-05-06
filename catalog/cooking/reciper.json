@@ -1,0 +1,42 @@
+{
+  "slug": "reciper",
+  "name": "reciper",
+  "tagline": "Read-only mirror of https://codeberg.org/judemont/reciper      🍳 Your Ultimate Kitchen Companion! 📱 ",
+  "category": "cooking",
+  "tags": [
+    "catppuccin",
+    "catppuccin-theme",
+    "cooking",
+    "flutter",
+    "kitchen",
+    "recipe-app",
+    "recipe-manager",
+    "recipes"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "judemont",
+    "url": "https://github.com/judemont"
+  },
+  "source": {
+    "primary": "github",
+    "github": "judemont/reciper",
+    "huggingface": null,
+    "homepage": "https://codeberg.org/judemont/reciper"
+  },
+  "license": "MPL-2.0",
+  "metrics": {
+    "stars": 71,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-16T17:33:43Z",
+    "first_commit_at": "2024-04-01T15:22:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3427,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:13.901088Z",
+  "last_refreshed_at": "2026-05-06T15:59:13.901091Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "real-estate-ai-agent",
+  "name": "real-estate-ai-agent",
+  "tagline": "Intelligent Python system that extracts real estate property data as structured JSON using AI agents, Nebius Qwen LLM, and Bright Data MCP.",
+  "category": "real-estate",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "automation",
+    "bright-data",
+    "crewai",
+    "nebius",
+    "python",
+    "real-estate",
+    "web-scraping"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "brightdata",
+    "url": "https://github.com/brightdata"
+  },
+  "source": {
+    "primary": "github",
+    "github": "brightdata/real-estate-ai-agent",
+    "huggingface": null,
+    "homepage": "https://brightdata.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 133,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-30T13:05:05Z",
+    "first_commit_at": "2025-07-30T12:00:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.389,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:45.941995Z",
+  "last_refreshed_at": "2026-05-06T15:58:45.941999Z"
+}

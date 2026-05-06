@@ -1,0 +1,42 @@
+{
+  "slug": "seervo",
+  "name": "seervo",
+  "tagline": "An LLM powered ESP32 robot",
+  "category": "robotics",
+  "tags": [
+    "ai-robotics",
+    "embodied-ai",
+    "esp32",
+    "llm",
+    "llms",
+    "openai",
+    "robot",
+    "robotics"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "abfo",
+    "url": "https://github.com/abfo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "abfo/seervo",
+    "huggingface": null,
+    "homepage": "https://ithoughthecamewithyou.com/post/seervo-an-llm-powered-robot"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T23:18:29Z",
+    "first_commit_at": "2026-03-28T19:07:14Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3174,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:01.829865Z",
+  "last_refreshed_at": "2026-05-06T16:02:01.829868Z"
+}

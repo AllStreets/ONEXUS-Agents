@@ -1,0 +1,44 @@
+{
+  "slug": "scweet",
+  "name": "Scweet",
+  "tagline": "Scrape tweets, profiles, followers and following from Twitter/X, no API key needed. Python library with smart multi-account pooling, proxy support and async.",
+  "category": "social-media",
+  "tags": [
+    "apify",
+    "data-collection",
+    "graphql",
+    "proxy",
+    "python",
+    "python-library",
+    "scrape-tweets",
+    "scraper",
+    "social-media",
+    "tweet-scraper"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Altimis",
+    "url": "https://github.com/Altimis"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Altimis/Scweet",
+    "huggingface": null,
+    "homepage": "https://apify.com/altimis/scweet?fpr=a40q9"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1478,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T19:02:18Z",
+    "first_commit_at": "2020-12-14T14:34:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5916,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:38.415713Z",
+  "last_refreshed_at": "2026-05-06T15:57:38.415716Z"
+}

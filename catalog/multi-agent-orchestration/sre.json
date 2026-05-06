@@ -1,0 +1,44 @@
+{
+  "slug": "sre",
+  "name": "sre",
+  "tagline": "The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "agents",
+    "agi",
+    "ai",
+    "ai-agents",
+    "artificial-intelligence",
+    "autogpt",
+    "autonomous-agents",
+    "chatgpt",
+    "langchain"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SmythOS",
+    "url": "https://github.com/SmythOS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SmythOS/sre",
+    "huggingface": null,
+    "homepage": "https://smythos.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1262,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-03T05:31:50Z",
+    "first_commit_at": "2024-05-28T13:01:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3611,
+  "rank_in_category": 69,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:34.838241Z",
+  "last_refreshed_at": "2026-05-06T15:51:34.838244Z"
+}

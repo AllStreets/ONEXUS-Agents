@@ -1,0 +1,43 @@
+{
+  "slug": "wechaty",
+  "name": "wechaty",
+  "tagline": "Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt",
+  "category": "robotics",
+  "tags": [
+    "bot",
+    "chatbot",
+    "conversational-ai",
+    "framework",
+    "qq",
+    "robotics",
+    "wechat",
+    "wechaty",
+    "whatsapp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "wechaty",
+    "url": "https://github.com/wechaty"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wechaty/wechaty",
+    "huggingface": null,
+    "homepage": "https://wechaty.js.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 22740,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-21T19:49:52Z",
+    "first_commit_at": "2016-05-01T14:36:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5423,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:01:44.825158Z",
+  "last_refreshed_at": "2026-05-06T16:01:44.825161Z"
+}

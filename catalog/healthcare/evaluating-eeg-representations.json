@@ -1,0 +1,44 @@
+{
+  "slug": "evaluating-eeg-representations",
+  "name": "evaluating-eeg-representations",
+  "tagline": "Resources for the paper titled \"Evaluating Latent Space Robustness and Uncertainty of EEG-ML Models under Realistic Distribution Shifts\". Accepted at NeurIPS 2022.",
+  "category": "healthcare",
+  "tags": [
+    "augmentation",
+    "data-shift",
+    "diagnostic-tool",
+    "distribution-shift",
+    "domain-adaptation",
+    "domain-driven-design",
+    "eeg-classification",
+    "eeg-data",
+    "eeg-signals",
+    "healthcare-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "neerajwagh",
+    "url": "https://github.com/neerajwagh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "neerajwagh/evaluating-eeg-representations",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 19,
+    "downloads_30d": null,
+    "last_commit_at": "2023-07-12T18:59:53Z",
+    "first_commit_at": "2022-09-29T22:36:13Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2892,
+  "rank_in_category": 100,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:50.700505Z",
+  "last_refreshed_at": "2026-05-06T15:53:50.700508Z"
+}

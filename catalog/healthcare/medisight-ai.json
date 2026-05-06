@@ -1,0 +1,44 @@
+{
+  "slug": "medisight-ai",
+  "name": "MediSight.AI",
+  "tagline": "💻🔒 A local-first full-stack app to analyze medical PDFs with an AI model (Apollo2-2B), ensuring privacy & patient-friendly insights — no external APIs or cloud involved.",
+  "category": "healthcare",
+  "tags": [
+    "ai-healthcare",
+    "apollo2-2b",
+    "chat-interface",
+    "fastapi",
+    "fullstack-app",
+    "healthtech",
+    "llm",
+    "local-llm",
+    "medical-report-analysis",
+    "pdf-analyzer"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "natharmatron",
+    "url": "https://github.com/natharmatron"
+  },
+  "source": {
+    "primary": "github",
+    "github": "natharmatron/MediSight.AI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T15:11:50Z",
+    "first_commit_at": "2025-04-21T16:25:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4336,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:54:05.789012Z",
+  "last_refreshed_at": "2026-05-06T15:54:05.789014Z"
+}

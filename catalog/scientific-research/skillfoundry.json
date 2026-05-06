@@ -1,0 +1,41 @@
+{
+  "slug": "skillfoundry",
+  "name": "SkillFoundry",
+  "tagline": "A framework for discovering, compiling, and validating reusable skills for scientific agents.",
+  "category": "scientific-research",
+  "tags": [
+    "agent-skills",
+    "ai-for-science",
+    "automation",
+    "computational-biology",
+    "genomics",
+    "llm-agents",
+    "scientific-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ma-compbio-lab",
+    "url": "https://github.com/ma-compbio-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ma-compbio-lab/SkillFoundry",
+    "huggingface": null,
+    "homepage": "https://ma-compbio-lab.github.io/SkillFoundry/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 24,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-26T21:28:02Z",
+    "first_commit_at": "2026-04-02T20:49:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4233,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:19.487193Z",
+  "last_refreshed_at": "2026-05-06T15:50:19.487196Z"
+}

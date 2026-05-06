@@ -1,19 +1,19 @@
 {
   "slug": "dialectos",
   "name": "DialectOS",
-  "tagline": "The first MCP server built for Spanish dialects. Translate across 25 regional variants with structure preservation, register differentiation, and quality gates.",
+  "tagline": "Spanish dialect localization MCP server and CLI. Translate across 25 regional variants with register control, structure preservation, and QA gates.",
   "category": "translation",
   "tags": [
+    "ai-translation",
     "cli",
     "dialect",
     "dialect-tools",
     "i18n",
+    "latam-spanish",
     "localization",
     "localization-ai",
     "mcp",
-    "model-context-protocol",
-    "open-source",
-    "spanish"
+    "model-context-protocol"
   ],
   "author": {
     "type": "org",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 1,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-04T15:23:05Z",
+    "last_commit_at": "2026-05-06T14:13:34Z",
     "first_commit_at": "2026-03-22T06:13:52Z"
   },
   "benchmarks": [],
@@ -40,5 +40,5 @@
   "rank_in_category": 48,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:32:59.823359Z",
-  "last_refreshed_at": "2026-05-04T15:23:21.088677Z"
+  "last_refreshed_at": "2026-05-06T15:41:38.637550Z"
 }

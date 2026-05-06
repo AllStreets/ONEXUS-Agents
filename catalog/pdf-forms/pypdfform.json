@@ -1,0 +1,44 @@
+{
+  "slug": "pypdfform",
+  "name": "PyPDFForm",
+  "tagline": ":fire: The Python library for PDF forms.",
+  "category": "pdf-forms",
+  "tags": [
+    "pdf",
+    "pdf-document",
+    "pdf-document-processor",
+    "pdf-files",
+    "pdf-forms",
+    "pdf-generation",
+    "pdf-merge",
+    "pdf-merger",
+    "pdffiller",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "chinapandaman",
+    "url": "https://github.com/chinapandaman"
+  },
+  "source": {
+    "primary": "github",
+    "github": "chinapandaman/PyPDFForm",
+    "huggingface": null,
+    "homepage": "https://chinapandaman.github.io/PyPDFForm/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1209,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T14:59:42Z",
+    "first_commit_at": "2020-10-28T23:47:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6284,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:42.722529Z",
+  "last_refreshed_at": "2026-05-06T16:02:42.722532Z"
+}

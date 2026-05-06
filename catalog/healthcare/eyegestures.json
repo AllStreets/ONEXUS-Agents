@@ -1,0 +1,42 @@
+{
+  "slug": "eyegestures",
+  "name": "EyeGestures",
+  "tagline": "gaze tracking software",
+  "category": "healthcare",
+  "tags": [
+    "eye-care",
+    "eye-tracking",
+    "eyetracking",
+    "gaze-estimation",
+    "gaze-tracking",
+    "gazetracking",
+    "healthcare",
+    "hmi"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NativeSensors",
+    "url": "https://github.com/NativeSensors"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NativeSensors/EyeGestures",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 580,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-23T14:28:55Z",
+    "first_commit_at": "2023-10-22T12:44:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4804,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:32.146943Z",
+  "last_refreshed_at": "2026-05-06T15:53:32.146947Z"
+}

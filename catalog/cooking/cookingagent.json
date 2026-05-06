@@ -1,0 +1,37 @@
+{
+  "slug": "cookingagent",
+  "name": "CookingAgent",
+  "tagline": "一个基于大型语言模型（LLM）的智能做菜推荐系统，利用 HowToCook 开源菜谱库，为用户提供个性化的菜单推荐、购物清单生成和做菜流程规划、做菜步骤，达到小白都知道“吃什么、怎么做”的目标。",
+  "category": "cooking",
+  "tags": [
+    "agent",
+    "cook",
+    "cookbook"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AnswerZhao",
+    "url": "https://github.com/AnswerZhao"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AnswerZhao/CookingAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-12T15:14:51Z",
+    "first_commit_at": "2025-07-12T08:00:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2648,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:20.518029Z",
+  "last_refreshed_at": "2026-05-06T15:59:20.518032Z"
+}

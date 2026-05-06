@@ -1,0 +1,44 @@
+{
+  "slug": "agent-kanban",
+  "name": "agent-kanban",
+  "tagline": "An agent-first task board, Mission control for your AI workforce.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "ai-agents",
+    "ai-coding-agent",
+    "claude-code",
+    "cloudflare-pages",
+    "codex",
+    "developer-tools",
+    "ed25519",
+    "gemini-cli",
+    "kanban"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "saltbo",
+    "url": "https://github.com/saltbo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "saltbo/agent-kanban",
+    "huggingface": null,
+    "homepage": "https://agent-kanban.dev/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 250,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T16:34:37Z",
+    "first_commit_at": "2026-03-20T18:56:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3206,
+  "rank_in_category": 106,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:52.900907Z",
+  "last_refreshed_at": "2026-05-06T15:51:52.900910Z"
+}

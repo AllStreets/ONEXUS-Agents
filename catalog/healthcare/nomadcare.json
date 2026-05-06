@@ -1,0 +1,43 @@
+{
+  "slug": "nomadcare",
+  "name": "nomadcare",
+  "tagline": "Nomadcare is an innovative B2B telemedicine solution focused on providing language interpretation services for healthcare, targeting both the US and Portugal markets. The platform addresses real chall",
+  "category": "healthcare",
+  "tags": [
+    "ai-healthcare",
+    "b2b",
+    "gesture-recognition",
+    "healthtech",
+    "language-services",
+    "medical-interpretation",
+    "multilingual",
+    "telemedicine",
+    "video-call"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nomade-care",
+    "url": "https://github.com/nomade-care"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nomade-care/nomadcare",
+    "huggingface": null,
+    "homepage": "https://www.nomadcare.us/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-08T13:05:06Z",
+    "first_commit_at": "2025-11-08T10:28:40Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2126,
+  "rank_in_category": 121,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:54:20.166291Z",
+  "last_refreshed_at": "2026-05-06T15:54:20.166294Z"
+}

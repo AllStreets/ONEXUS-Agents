@@ -1,0 +1,41 @@
+{
+  "slug": "eagnn",
+  "name": "EAGNN",
+  "tagline": "Official PyTorch Implementation of paper 'Edge-Based Graph Neural Networks for Cell-Graph Modeling and Prediction'",
+  "category": "healthcare",
+  "tags": [
+    "ai-healthcare",
+    "cell-graphs",
+    "digital-pathology",
+    "edge-detection",
+    "gnn-learning",
+    "graph-neural-networks",
+    "tissue-analysis"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aravi11",
+    "url": "https://github.com/aravi11"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aravi11/EAGNN",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2023-05-05T10:31:47Z",
+    "first_commit_at": "2023-03-06T15:45:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2396,
+  "rank_in_category": 118,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:54:08.211576Z",
+  "last_refreshed_at": "2026-05-06T15:54:08.211579Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "langchain-sql-agent",
+  "name": "langchain-sql-agent",
+  "tagline": "A LangChain-powered SQL chatbot that lets you talk to your database using plain English. Supports SQLite (student.db) and full MySQL connections. Uses Groq’s ultra-fast Llama-3.1-8b-instant model with",
+  "category": "sql-analytics",
+  "tags": [
+    "aai-project",
+    "chat-with-database",
+    "database",
+    "groq",
+    "langchain",
+    "langchain-sql",
+    "llama3",
+    "llm",
+    "llm-agent",
+    "mysql"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Shehjad2019",
+    "url": "https://github.com/Shehjad2019"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Shehjad2019/langchain-sql-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-11T12:34:30Z",
+    "first_commit_at": "2025-12-11T12:33:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1454,
+  "rank_in_category": 118,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:20.771438Z",
+  "last_refreshed_at": "2026-05-06T16:03:20.771442Z"
+}

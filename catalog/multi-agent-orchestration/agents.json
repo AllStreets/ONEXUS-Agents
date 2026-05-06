@@ -1,0 +1,44 @@
+{
+  "slug": "agents",
+  "name": "agents",
+  "tagline": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agent-builder",
+    "agent-framework",
+    "agents-sdk",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "aiagentframework",
+    "developer-sdk",
+    "inkeep"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "inkeep",
+    "url": "https://github.com/inkeep"
+  },
+  "source": {
+    "primary": "github",
+    "github": "inkeep/agents",
+    "huggingface": null,
+    "homepage": "https://docs.inkeep.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1123,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T15:32:19Z",
+    "first_commit_at": "2025-09-05T12:34:49Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4091,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:36.939392Z",
+  "last_refreshed_at": "2026-05-06T15:51:36.939395Z"
+}

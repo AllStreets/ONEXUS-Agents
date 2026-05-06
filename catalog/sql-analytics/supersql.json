@@ -1,0 +1,33 @@
+{
+  "slug": "supersql",
+  "name": "SuperSQL",
+  "tagline": "Super-Sql 是一个基于国内外先进生成式大模型的Java框架，专注于将数据库表结构通过检索增强生成（RAG, Retrieval-Augmented Generation）技术进行训练，从而实现从自然语言文本到SQL查询的智能转换（Text to SQL）。该框架旨在简化复杂的数据库查询过程，使开发者和用户能够通过简单的自然语言描述获取所需数据。",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "guocjsh",
+    "url": "https://github.com/guocjsh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "guocjsh/SuperSQL",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 151,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-03T09:15:24Z",
+    "first_commit_at": "2025-02-06T02:27:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2275,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:48.009339Z",
+  "last_refreshed_at": "2026-05-06T16:03:48.009342Z"
+}

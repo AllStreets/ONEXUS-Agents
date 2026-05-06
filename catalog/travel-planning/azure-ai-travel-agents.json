@@ -1,0 +1,44 @@
+{
+  "slug": "azure-ai-travel-agents",
+  "name": "azure-ai-travel-agents",
+  "tagline": "A robust enterprise application sample (deployed on ACA) that leverages MCP and multiple AI agents orchestrated by Langchain.js, Llamaindex.TS and Microsoft Agent Framework.",
+  "category": "travel-planning",
+  "tags": [
+    "agents",
+    "ai",
+    "angular",
+    "aspire",
+    "azure",
+    "container",
+    "docker",
+    "dotnet",
+    "java",
+    "javascript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Azure-Samples",
+    "url": "https://github.com/Azure-Samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Azure-Samples/azure-ai-travel-agents",
+    "huggingface": null,
+    "homepage": "https://azure-samples.github.io/azure-ai-travel-agents/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 432,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-04T23:37:12Z",
+    "first_commit_at": "2025-03-14T14:51:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5979,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:55:31.677830Z",
+  "last_refreshed_at": "2026-05-06T15:55:31.677834Z"
+}

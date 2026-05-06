@@ -1,0 +1,38 @@
+{
+  "slug": "tripcraft",
+  "name": "TripCraft",
+  "tagline": "TripCraft (ACL'25 Main) establishes a new benchmark for LLM driven personalized travel planning, offering a more realistic, constraint aware framework for itinerary generation.",
+  "category": "travel-planning",
+  "tags": [
+    "benchmark",
+    "evaluation-metrics",
+    "large-language-models",
+    "travel-planning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Soumyabrata2003",
+    "url": "https://github.com/Soumyabrata2003"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Soumyabrata2003/TripCraft",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T01:53:16Z",
+    "first_commit_at": "2025-02-13T07:34:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4608,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:55:01.155927Z",
+  "last_refreshed_at": "2026-05-06T15:55:01.155929Z"
+}

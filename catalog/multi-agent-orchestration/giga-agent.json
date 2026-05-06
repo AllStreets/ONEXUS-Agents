@@ -1,0 +1,44 @@
+{
+  "slug": "giga-agent",
+  "name": "giga_agent",
+  "tagline": "GigaAgent — это универсальный агент-оркестратор для решения широкого круга задач (ReAct + REPL)",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "ai-orchestration",
+    "code-execution-agent",
+    "general-purpose-agent",
+    "gigaagent",
+    "gigachain",
+    "gigachat-agent",
+    "langgraph-agents",
+    "langgraph-orchestrator",
+    "open-source-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ai-forever",
+    "url": "https://github.com/ai-forever"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ai-forever/giga_agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 174,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T14:01:15Z",
+    "first_commit_at": "2025-08-12T10:22:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3308,
+  "rank_in_category": 99,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:55.565986Z",
+  "last_refreshed_at": "2026-05-06T15:51:55.565989Z"
+}

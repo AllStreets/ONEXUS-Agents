@@ -1,0 +1,44 @@
+{
+  "slug": "pdfix-sdk-example-dotnet",
+  "name": "pdfix_sdk_example_dotnet",
+  "tagline": "Make PDF Files Accessible, Extract Data from PDF, Convert PDF to HTML, Fill-in PDF Form, Stamp PDF and more...",
+  "category": "pdf-forms",
+  "tags": [
+    "accessible",
+    "autotagging",
+    "conversion",
+    "csharp",
+    "digital-signature",
+    "extract-data",
+    "html",
+    "metadata",
+    "pdf",
+    "pdf-converter"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pdfix",
+    "url": "https://github.com/pdfix"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pdfix/pdfix_sdk_example_dotnet",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T11:11:32Z",
+    "first_commit_at": "2018-06-19T22:32:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4942,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:45.707302Z",
+  "last_refreshed_at": "2026-05-06T16:02:45.707306Z"
+}

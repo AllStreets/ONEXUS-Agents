@@ -1,0 +1,38 @@
+{
+  "slug": "obsidian-recipe-view",
+  "name": "obsidian-recipe-view",
+  "tagline": "View your Obsidian notes as interactive recipe cards while you cook.",
+  "category": "cooking",
+  "tags": [
+    "cooking",
+    "markdown",
+    "obsidian",
+    "recipes"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lachsh",
+    "url": "https://github.com/lachsh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lachsh/obsidian-recipe-view",
+    "huggingface": null,
+    "homepage": "https://obsidian-recipe-view.readthedocs.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 178,
+    "downloads_30d": null,
+    "last_commit_at": "2024-05-05T04:33:48Z",
+    "first_commit_at": "2023-09-09T01:08:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3368,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:02.151652Z",
+  "last_refreshed_at": "2026-05-06T15:59:02.151656Z"
+}

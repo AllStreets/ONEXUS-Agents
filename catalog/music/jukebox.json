@@ -1,0 +1,41 @@
+{
+  "slug": "jukebox",
+  "name": "jukebox",
+  "tagline": "Code for the paper \"Jukebox: A Generative Model for Music\"",
+  "category": "music",
+  "tags": [
+    "audio",
+    "generative-model",
+    "music",
+    "paper",
+    "pytorch",
+    "transformer",
+    "vq-vae"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openai",
+    "url": "https://github.com/openai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openai/jukebox",
+    "huggingface": null,
+    "homepage": "https://openai.com/blog/jukebox/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 8042,
+    "downloads_30d": null,
+    "last_commit_at": "2024-06-19T05:14:24Z",
+    "first_commit_at": "2020-04-29T17:16:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3056,
+  "rank_in_category": 39,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:52.054946Z",
+  "last_refreshed_at": "2026-05-06T15:59:52.054949Z"
+}

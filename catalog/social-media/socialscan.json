@@ -1,0 +1,41 @@
+{
+  "slug": "socialscan",
+  "name": "socialscan",
+  "tagline": "Python library for accurately querying username and email usage on online platforms",
+  "category": "social-media",
+  "tags": [
+    "cli",
+    "email",
+    "email-checker",
+    "osint",
+    "social-media",
+    "username",
+    "username-checker"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "iojw",
+    "url": "https://github.com/iojw"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iojw/socialscan",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MPL-2.0",
+  "metrics": {
+    "stars": 1755,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T21:56:17Z",
+    "first_commit_at": "2019-02-17T10:11:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.613,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:34.387569Z",
+  "last_refreshed_at": "2026-05-06T15:57:34.387572Z"
+}

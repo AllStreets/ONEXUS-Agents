@@ -1,0 +1,38 @@
+{
+  "slug": "dbcopilot",
+  "name": "DBCopilot",
+  "tagline": "Code and data for the paper \"DBCᴏᴘɪʟᴏᴛ: Natural Language Querying over Massive Database via Schema Routing\" (EDBT 2025)",
+  "category": "sql-analytics",
+  "tags": [
+    "database",
+    "llm",
+    "schema-routing",
+    "text-to-sql"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tshu-w",
+    "url": "https://github.com/tshu-w"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tshu-w/DBCopilot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 135,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-25T08:54:57Z",
+    "first_commit_at": "2023-06-29T08:40:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2475,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:10.545379Z",
+  "last_refreshed_at": "2026-05-06T16:03:10.545382Z"
+}

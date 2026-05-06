@@ -1,0 +1,44 @@
+{
+  "slug": "nopcommerce",
+  "name": "nopCommerce",
+  "tagline": "ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.",
+  "category": "e-commerce",
+  "tags": [
+    "asp-net",
+    "asp-net-core",
+    "aspnet",
+    "aspnetcore",
+    "cart",
+    "dotnet",
+    "dotnet-core",
+    "e-commerce",
+    "ecommerce",
+    "ecommerce-platform"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nopSolutions",
+    "url": "https://github.com/nopSolutions"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nopSolutions/nopCommerce",
+    "huggingface": null,
+    "homepage": "https://www.nopcommerce.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 10056,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T10:41:35Z",
+    "first_commit_at": "2010-07-06T11:20:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6106,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:00.220958Z",
+  "last_refreshed_at": "2026-05-06T15:58:00.220960Z"
+}

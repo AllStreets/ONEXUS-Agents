@@ -1,19 +1,19 @@
 {
   "slug": "wrenai",
   "name": "WrenAI",
-  "tagline": "Open-source text-to-SQL and text-to-chart GenBI agent with a semantic layer. Ask your database questions in natural language — get accurate SQL, charts, and BI insights. Supports 12+ data sources (Pos",
+  "tagline": "The open context layer that gives AI agents grounded, governed SQL across 20+ data sources.",
   "category": "sql-analytics",
   "tags": [
     "agent",
     "anthropic",
-    "bedrock",
     "bigquery",
-    "business-intelligence",
     "charts",
+    "context-engineering",
     "duckdb",
-    "genbi",
     "llm",
-    "openai"
+    "openai",
+    "postgresql",
+    "rag"
   ],
   "author": {
     "type": "org",
@@ -26,19 +26,19 @@
     "huggingface": null,
     "homepage": "https://getwren.ai/oss"
   },
-  "license": "AGPL-3.0",
+  "license": "NOASSERTION",
   "metrics": {
-    "stars": 15044,
+    "stars": 15073,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-30T06:03:13Z",
+    "last_commit_at": "2026-05-05T12:57:18Z",
     "first_commit_at": "2024-03-13T06:18:20Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4468,
+  "composite_score": 0.4508,
   "rank_in_category": 3,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:31:57.447441Z",
-  "last_refreshed_at": "2026-04-30T16:22:01.563487Z"
+  "last_refreshed_at": "2026-05-06T16:02:59.891234Z"
 }

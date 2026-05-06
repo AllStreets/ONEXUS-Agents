@@ -1,0 +1,40 @@
+{
+  "slug": "flipsos",
+  "name": "FlipSOS",
+  "tagline": "Othello/Reversi with a twist inspired by SOS (paper-and-pencil game)",
+  "category": "game-playing",
+  "tags": [
+    "ai-game-playing",
+    "depth-limited-search",
+    "heuristic-search",
+    "othello-ai",
+    "pygame",
+    "reversi-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "st1ckO",
+    "url": "https://github.com/st1ckO"
+  },
+  "source": {
+    "primary": "github",
+    "github": "st1ckO/FlipSOS",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-12T12:09:08Z",
+    "first_commit_at": "2025-04-28T08:57:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1934,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:01:19.664896Z",
+  "last_refreshed_at": "2026-05-06T16:01:19.664899Z"
+}

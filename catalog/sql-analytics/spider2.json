@@ -1,0 +1,33 @@
+{
+  "slug": "spider2",
+  "name": "Spider2",
+  "tagline": "[ICLR 2025 Oral] Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "xlang-ai",
+    "url": "https://github.com/xlang-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xlang-ai/Spider2",
+    "huggingface": null,
+    "homepage": "https://spider2-sql.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 799,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-30T04:29:13Z",
+    "first_commit_at": "2024-08-22T04:48:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3187,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:43.236428Z",
+  "last_refreshed_at": "2026-05-06T16:03:43.236432Z"
+}

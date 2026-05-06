@@ -1,0 +1,41 @@
+{
+  "slug": "axioncura",
+  "name": "AxionCura",
+  "tagline": "AxionCura is a machine learning–based early stroke prediction system that analyzes patient health attributes to estimate stroke risk. It includes a trained pipeline model and a simple Python interface",
+  "category": "healthcare",
+  "tags": [
+    "classification",
+    "healthcare-ai",
+    "machine-learning",
+    "predictive-model",
+    "python",
+    "scikit-learn",
+    "stroke-prediction"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Agent-A345",
+    "url": "https://github.com/Agent-A345"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Agent-A345/AxionCura",
+    "huggingface": null,
+    "homepage": "https://github.com/Agent-A345/AxionCura"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-24T11:54:58Z",
+    "first_commit_at": "2026-02-22T10:46:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3451,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:55.842247Z",
+  "last_refreshed_at": "2026-05-06T15:53:55.842250Z"
+}

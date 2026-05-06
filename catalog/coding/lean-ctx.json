@@ -1,7 +1,7 @@
 {
   "slug": "lean-ctx",
   "name": "lean-ctx",
-  "tagline": "The context layer for AI coding agents  Reduce token waste in Cursor, Claude Code, Copilot, Windsurf, Codex, Gemini & more by 60–95% (up to 99% on cached reads) Shell Hook + MCP Server · 49 tools · 10",
+  "tagline": "The Context OS for AI Development. Reduce token waste in Cursor, Claude Code, Copilot, Windsurf, Codex, Gemini & more by 60–95% (up to 99% on cached reads) Shell Hook + MCP Server · 49 tools · 10 read",
   "category": "coding",
   "tags": [
     "agentic-coding",
@@ -28,17 +28,17 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 1068,
+    "stars": 1100,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-02T11:38:45Z",
+    "last_commit_at": "2026-05-06T14:17:49Z",
     "first_commit_at": "2026-03-23T13:30:19Z"
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.2956,
+  "composite_score": 0.2984,
   "rank_in_category": 35,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-04T15:13:13.680819Z",
-  "last_refreshed_at": "2026-05-04T15:13:13.680823Z"
+  "last_refreshed_at": "2026-05-06T15:30:06.554738Z"
 }

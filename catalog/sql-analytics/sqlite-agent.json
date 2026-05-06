@@ -1,0 +1,38 @@
+{
+  "slug": "sqlite-agent",
+  "name": "sqlite-agent",
+  "tagline": "A SQLite extension that enables SQLite databases to run autonomous AI agents, using other SQLite AI extensions.",
+  "category": "sql-analytics",
+  "tags": [
+    "agent",
+    "ai",
+    "sqlite",
+    "sqlite-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sqliteai",
+    "url": "https://github.com/sqliteai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sqliteai/sqlite-agent",
+    "huggingface": null,
+    "homepage": "https://sqlite.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-07T13:08:50Z",
+    "first_commit_at": "2025-11-20T14:28:13Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2723,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:38.687403Z",
+  "last_refreshed_at": "2026-05-06T16:03:38.687406Z"
+}

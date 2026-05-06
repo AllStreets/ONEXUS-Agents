@@ -1,0 +1,33 @@
+{
+  "slug": "ragen",
+  "name": "RAGEN",
+  "tagline": "RAGEN leverages reinforcement learning to train LLM reasoning agents in interactive, stochastic environments.",
+  "category": "reasoning-math",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "mll-lab-nu",
+    "url": "https://github.com/mll-lab-nu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mll-lab-nu/RAGEN",
+    "huggingface": null,
+    "homepage": "https://ragen-ai.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2649,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-14T05:52:16Z",
+    "first_commit_at": "2025-01-25T21:30:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.298,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:50.958505Z",
+  "last_refreshed_at": "2026-05-06T15:50:50.958509Z"
+}

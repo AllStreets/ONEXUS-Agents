@@ -1,0 +1,44 @@
+{
+  "slug": "voltagent",
+  "name": "voltagent",
+  "tagline": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-agents-framework",
+    "aiagentframework",
+    "chatbots",
+    "chatgpt",
+    "framework",
+    "javascript",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "VoltAgent",
+    "url": "https://github.com/VoltAgent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "VoltAgent/voltagent",
+    "huggingface": null,
+    "homepage": "https://voltagent.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8653,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T18:32:09Z",
+    "first_commit_at": "2025-04-16T15:41:18Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3933,
+  "rank_in_category": 39,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:35.362678Z",
+  "last_refreshed_at": "2026-05-06T15:52:35.362681Z"
+}

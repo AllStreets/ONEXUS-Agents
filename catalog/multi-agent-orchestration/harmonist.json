@@ -1,0 +1,44 @@
+{
+  "slug": "harmonist",
+  "name": "harmonist",
+  "tagline": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "agent-system",
+    "ai-agents",
+    "claude-code",
+    "cursor-ide",
+    "llm",
+    "multi-agent-framework",
+    "orchestration",
+    "prompt-engineering",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "GammaLabTechnologies",
+    "url": "https://github.com/GammaLabTechnologies"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GammaLabTechnologies/harmonist",
+    "huggingface": null,
+    "homepage": "https://gammalab.ae/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1320,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-23T05:48:48Z",
+    "first_commit_at": "2026-04-23T05:42:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3322,
+  "rank_in_category": 97,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:34.160675Z",
+  "last_refreshed_at": "2026-05-06T15:51:34.160678Z"
+}

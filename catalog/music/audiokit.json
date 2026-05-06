@@ -1,0 +1,44 @@
+{
+  "slug": "audiokit",
+  "name": "AudioKit",
+  "tagline": "Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS",
+  "category": "music",
+  "tags": [
+    "audio",
+    "audiokit",
+    "ios",
+    "macos",
+    "midi",
+    "music",
+    "playground",
+    "swift",
+    "swift-playgrounds",
+    "tvos"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AudioKit",
+    "url": "https://github.com/AudioKit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AudioKit/AudioKit",
+    "huggingface": null,
+    "homepage": "http://audiokit.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11344,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-17T02:18:45Z",
+    "first_commit_at": "2015-09-05T02:34:48Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5027,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:36.847801Z",
+  "last_refreshed_at": "2026-05-06T15:59:36.847804Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "cadomatic",
+  "name": "CADomatic",
+  "tagline": "An AI powered CAD design generator for FreeCAD",
+  "category": "3d-cad",
+  "tags": [
+    "3d-cad",
+    "cad",
+    "design",
+    "freecad",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yas1nsyed",
+    "url": "https://github.com/yas1nsyed"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yas1nsyed/CADomatic",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/spaces/Yas1n/CADomatic"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 26,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-21T07:17:34Z",
+    "first_commit_at": "2025-07-21T15:24:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.323,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:52.001636Z",
+  "last_refreshed_at": "2026-05-06T16:03:52.001639Z"
+}

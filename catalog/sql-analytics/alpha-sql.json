@@ -1,0 +1,38 @@
+{
+  "slug": "alpha-sql",
+  "name": "Alpha-SQL",
+  "tagline": "🔥[ICML'25] Official repository for the paper \"Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search\"",
+  "category": "sql-analytics",
+  "tags": [
+    "icml",
+    "icml-2025",
+    "test-time-scaling",
+    "text-to-sql"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "HKUSTDial",
+    "url": "https://github.com/HKUSTDial"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HKUSTDial/Alpha-SQL",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 157,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-07T03:28:34Z",
+    "first_commit_at": "2025-05-07T03:42:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2612,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:08.897671Z",
+  "last_refreshed_at": "2026-05-06T16:03:08.897675Z"
+}

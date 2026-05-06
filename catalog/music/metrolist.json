@@ -1,0 +1,44 @@
+{
+  "slug": "metrolist",
+  "name": "Metrolist",
+  "tagline": "YouTube Music client for Android",
+  "category": "music",
+  "tags": [
+    "android",
+    "foss",
+    "innertube",
+    "jetpack-compose",
+    "kotlin",
+    "kotlin-android",
+    "material-design",
+    "material-ui",
+    "material3",
+    "music"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "MetrolistGroup",
+    "url": "https://github.com/MetrolistGroup"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MetrolistGroup/Metrolist",
+    "huggingface": null,
+    "homepage": "https://metrolist.cc/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 9115,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T22:21:36Z",
+    "first_commit_at": "2024-08-26T21:31:40Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5158,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:43.710759Z",
+  "last_refreshed_at": "2026-05-06T15:59:43.710762Z"
+}

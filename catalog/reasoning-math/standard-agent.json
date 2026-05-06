@@ -1,0 +1,42 @@
+{
+  "slug": "standard-agent",
+  "name": "standard-agent",
+  "tagline": "The composable standard reasoning agent",
+  "category": "reasoning-math",
+  "tags": [
+    "agent-framework",
+    "agents",
+    "ai",
+    "ai-agent",
+    "developer-tools",
+    "hacktoberfest",
+    "python",
+    "rewoo"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "jentic",
+    "url": "https://github.com/jentic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jentic/standard-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 66,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-03T20:58:53Z",
+    "first_commit_at": "2025-07-10T16:03:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.185,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:54.964597Z",
+  "last_refreshed_at": "2026-05-06T15:50:54.964600Z"
+}
