@@ -1,0 +1,37 @@
+{
+  "slug": "step-analyzer",
+  "name": "step-analyzer",
+  "tagline": "Read the hierarchical assembly structure of a STEP file",
+  "category": "3d-cad",
+  "tags": [
+    "3d-cad",
+    "pythonocc",
+    "step"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dblanding",
+    "url": "https://github.com/dblanding"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dblanding/step-analyzer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2020-04-06T11:41:50Z",
+    "first_commit_at": "2020-03-06T17:45:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2993,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:52.577735Z",
+  "last_refreshed_at": "2026-05-06T16:03:52.577738Z"
+}

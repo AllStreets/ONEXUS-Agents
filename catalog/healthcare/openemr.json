@@ -1,0 +1,44 @@
+{
+  "slug": "openemr",
+  "name": "openemr",
+  "tagline": "The most popular open source electronic health records and medical practice management solution.",
+  "category": "healthcare",
+  "tags": [
+    "ehr",
+    "emr",
+    "fhir",
+    "global-health",
+    "health",
+    "healthcare",
+    "hit",
+    "international",
+    "linux",
+    "medical"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openemr",
+    "url": "https://github.com/openemr"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openemr/openemr",
+    "huggingface": null,
+    "homepage": "https://open-emr.org/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 5123,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T13:44:55Z",
+    "first_commit_at": "2005-03-09T19:57:08Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6593,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:15.584146Z",
+  "last_refreshed_at": "2026-05-06T15:53:15.584149Z"
+}

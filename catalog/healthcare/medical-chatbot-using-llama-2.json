@@ -1,0 +1,39 @@
+{
+  "slug": "medical-chatbot-using-llama-2",
+  "name": "Medical-Chatbot-using-Llama-2",
+  "tagline": " The project uses natural language processing and information retrieval to create an interactive system for user queries on a collection of PDFs. It involves loading, segmenting, and embedding PDFs wi",
+  "category": "healthcare",
+  "tags": [
+    "ai-healthcare",
+    "ai-healthcare-chatbot",
+    "llama2",
+    "medical-chatbot",
+    "pinecone"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "KalyanM45",
+    "url": "https://github.com/KalyanM45"
+  },
+  "source": {
+    "primary": "github",
+    "github": "KalyanM45/Medical-Chatbot-using-Llama-2",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 17,
+    "downloads_30d": null,
+    "last_commit_at": "2024-01-20T00:06:48Z",
+    "first_commit_at": "2024-01-04T16:15:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2865,
+  "rank_in_category": 104,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:54:00.169355Z",
+  "last_refreshed_at": "2026-05-06T15:54:00.169358Z"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "anymeal",
+  "name": "anymeal",
+  "tagline": "AnyMeal is a free and open source recipe management software developed using SQLite3, Qt6, flex, libiconv, NSIS, and Googletest. It can manage a cookbook with more than 250,000 MealMaster recipes, the",
+  "category": "cooking",
+  "tags": [
+    "cooking",
+    "cooking-recipes",
+    "recipe"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wedesoft",
+    "url": "https://github.com/wedesoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wedesoft/anymeal",
+    "huggingface": null,
+    "homepage": "https://wedesoft.github.io/anymeal"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 67,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T16:44:59Z",
+    "first_commit_at": "2020-05-07T20:57:40Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4856,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:14.630887Z",
+  "last_refreshed_at": "2026-05-06T15:59:14.630891Z"
+}

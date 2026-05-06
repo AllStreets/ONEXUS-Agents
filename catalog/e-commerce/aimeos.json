@@ -1,0 +1,44 @@
+{
+  "slug": "aimeos",
+  "name": "aimeos",
+  "tagline": "Integrated online shop based on Laravel 12 and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
+  "category": "e-commerce",
+  "tags": [
+    "aimeos",
+    "b2b",
+    "cart",
+    "e-commerce",
+    "e-commerce-platform",
+    "ecommerce",
+    "ecommerce-platform",
+    "laravel",
+    "laravel-admin",
+    "performance"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aimeos",
+    "url": "https://github.com/aimeos"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aimeos/aimeos",
+    "huggingface": null,
+    "homepage": "https://aimeos.org/Laravel"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5365,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T10:53:13Z",
+    "first_commit_at": "2017-09-10T09:14:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5465,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:02.998683Z",
+  "last_refreshed_at": "2026-05-06T15:58:02.998687Z"
+}

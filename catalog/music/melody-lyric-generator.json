@@ -1,0 +1,42 @@
+{
+  "slug": "melody-lyric-generator",
+  "name": "Melody-Lyric-Generator",
+  "tagline": "Melody-Lyric-Generator is a tool for generating cohesive musical compositions by integrating melody generation and lyric creation. It leverages machine learning models, including fine-tuned GPT-2, and",
+  "category": "music",
+  "tags": [
+    "ai-music",
+    "deep-learning",
+    "gpt-2",
+    "lyrics-generation",
+    "maestro",
+    "midi",
+    "music-ai",
+    "music-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "haroldeustaquio",
+    "url": "https://github.com/haroldeustaquio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "haroldeustaquio/Melody-Lyric-Generator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-03T21:47:24Z",
+    "first_commit_at": "2024-09-22T22:04:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1295,
+  "rank_in_category": 90,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:00:29.057121Z",
+  "last_refreshed_at": "2026-05-06T16:00:29.057124Z"
+}

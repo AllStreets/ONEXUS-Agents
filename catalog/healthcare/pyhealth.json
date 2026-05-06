@@ -1,0 +1,43 @@
+{
+  "slug": "pyhealth",
+  "name": "PyHealth",
+  "tagline": "A Deep Learning Python Toolkit for Healthcare Applications.",
+  "category": "healthcare",
+  "tags": [
+    "clinical-data",
+    "clinical-research",
+    "data-mining",
+    "deep-learning",
+    "electronic-health-record",
+    "electronic-medical-record",
+    "healthcare",
+    "medical-code",
+    "preprocessing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sunlabuiuc",
+    "url": "https://github.com/sunlabuiuc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sunlabuiuc/PyHealth",
+    "huggingface": null,
+    "homepage": "https://pyhealth.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1575,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-04T18:04:46Z",
+    "first_commit_at": "2020-08-03T18:45:03Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6245,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:19.910260Z",
+  "last_refreshed_at": "2026-05-06T15:53:19.910263Z"
+}

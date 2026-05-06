@@ -1,0 +1,38 @@
+{
+  "slug": "kare",
+  "name": "KARE",
+  "tagline": "[ICLR'25] Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval",
+  "category": "healthcare",
+  "tags": [
+    "graph-community",
+    "healthcare-ai",
+    "knowledge-graph",
+    "large-language-models"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pat-jj",
+    "url": "https://github.com/pat-jj"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pat-jj/KARE",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/pdf/2410.04585"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 59,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-14T15:08:31Z",
+    "first_commit_at": "2024-10-01T09:30:14Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3165,
+  "rank_in_category": 83,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:40.350883Z",
+  "last_refreshed_at": "2026-05-06T15:53:40.350886Z"
+}

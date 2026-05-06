@@ -1,0 +1,33 @@
+{
+  "slug": "social-media-agent",
+  "name": "social-media-agent",
+  "tagline": "📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.",
+  "category": "social-media",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "langchain-ai",
+    "url": "https://github.com/langchain-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "langchain-ai/social-media-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2547,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T05:12:04Z",
+    "first_commit_at": "2024-11-21T18:46:18Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6173,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:50.723421Z",
+  "last_refreshed_at": "2026-05-06T15:57:50.723424Z"
+}

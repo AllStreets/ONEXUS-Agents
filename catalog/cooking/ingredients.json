@@ -1,0 +1,39 @@
+{
+  "slug": "ingredients",
+  "name": "ingredients",
+  "tagline": "Extract recipe ingredients from any recipe website on the internet.",
+  "category": "cooking",
+  "tags": [
+    "cooking",
+    "extractor",
+    "ingredients",
+    "recipes",
+    "tagging"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "schollz",
+    "url": "https://github.com/schollz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "schollz/ingredients",
+    "huggingface": null,
+    "homepage": "https://schollz.com/blog/ingredients/#try"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 132,
+    "downloads_30d": null,
+    "last_commit_at": "2022-11-24T14:23:18Z",
+    "first_commit_at": "2019-07-07T17:25:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3288,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:06.392134Z",
+  "last_refreshed_at": "2026-05-06T15:59:06.392138Z"
+}

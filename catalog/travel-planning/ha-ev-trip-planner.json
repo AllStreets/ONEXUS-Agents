@@ -1,0 +1,41 @@
+{
+  "slug": "ha-ev-trip-planner",
+  "name": "ha-ev-trip-planner",
+  "tagline": "Planificador de viajes EV para Home Assistant con optimización MPC y control de carga inteligente",
+  "category": "travel-planning",
+  "tags": [
+    "electric-vehicle",
+    "ev-charging",
+    "hacs",
+    "home-assistant",
+    "home-automation",
+    "smart-charging",
+    "trip-planner"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "informatico-madrid",
+    "url": "https://github.com/informatico-madrid"
+  },
+  "source": {
+    "primary": "github",
+    "github": "informatico-madrid/ha-ev-trip-planner",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T11:27:36Z",
+    "first_commit_at": "2025-11-18T14:18:16Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4122,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:54:51.863435Z",
+  "last_refreshed_at": "2026-05-06T15:54:51.863438Z"
+}

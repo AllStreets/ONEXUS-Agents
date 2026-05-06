@@ -1,0 +1,44 @@
+{
+  "slug": "sentinal-sre",
+  "name": "Sentinal-SRE",
+  "tagline": "A production-grade, multi-agent DevOps orchestration system that detects incidents from live logs, performs Root Cause Analysis, self-corrects its own patches through a cyclic verification loop, and o",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-workflow",
+    "ai-agents",
+    "devops",
+    "fastmcp",
+    "langgraph-agents",
+    "langgraph-python",
+    "llama3",
+    "local-first",
+    "local-llm",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "NANDAGOPALNG",
+    "url": "https://github.com/NANDAGOPALNG"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NANDAGOPALNG/Sentinal-SRE",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T13:41:27Z",
+    "first_commit_at": "2026-04-30T09:53:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2361,
+  "rank_in_category": 129,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:06.634405Z",
+  "last_refreshed_at": "2026-05-06T15:52:06.634408Z"
+}

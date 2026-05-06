@@ -1,0 +1,40 @@
+{
+  "slug": "openstove",
+  "name": "OpenStove",
+  "tagline": "A free, community-driven platform for sharing and discovering recipes. No ads, just good food! ",
+  "category": "cooking",
+  "tags": [
+    "astro",
+    "cooking",
+    "preline",
+    "recipe",
+    "recipe-sharing",
+    "recipe-website"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mearashadowfax",
+    "url": "https://github.com/mearashadowfax"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mearashadowfax/OpenStove",
+    "huggingface": null,
+    "homepage": "https://openstove.org/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 105,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-11T11:11:05Z",
+    "first_commit_at": "2023-12-20T15:19:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4659,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:08.613212Z",
+  "last_refreshed_at": "2026-05-06T15:59:08.613215Z"
+}

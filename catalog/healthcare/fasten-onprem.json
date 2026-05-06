@@ -1,0 +1,40 @@
+{
+  "slug": "fasten-onprem",
+  "name": "fasten-onprem",
+  "tagline": "Fasten is an open-source, self-hosted, personal/family electronic medical record manager",
+  "category": "healthcare",
+  "tags": [
+    "electronic-health-record",
+    "electronic-medical-record",
+    "emr",
+    "healthcare",
+    "open-source",
+    "personal-health-record"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "fastenhealth",
+    "url": "https://github.com/fastenhealth"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fastenhealth/fasten-onprem",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 2708,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-13T03:26:58Z",
+    "first_commit_at": "2022-08-23T00:51:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5388,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:17.005720Z",
+  "last_refreshed_at": "2026-05-06T15:53:17.005722Z"
+}

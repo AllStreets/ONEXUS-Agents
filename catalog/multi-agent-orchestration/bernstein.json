@@ -1,0 +1,44 @@
+{
+  "slug": "bernstein",
+  "name": "bernstein",
+  "tagline": "Deterministic orchestrator for 30+ CLI AI coding agents. Git worktree isolation, HMAC audit trail, MCP server mode.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a-protocol",
+    "agent-framework",
+    "agent-orchestration",
+    "agentic-ai",
+    "agentic-workflow",
+    "ai-agents",
+    "ai-coding",
+    "autonomous-agents",
+    "claude-code",
+    "cli-tool"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sipyourdrink-ltd",
+    "url": "https://github.com/sipyourdrink-ltd"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sipyourdrink-ltd/bernstein",
+    "huggingface": null,
+    "homepage": "https://bernstein.run/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 279,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T05:41:59Z",
+    "first_commit_at": "2026-03-29T16:54:46Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3723,
+  "rank_in_category": 60,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:51.530031Z",
+  "last_refreshed_at": "2026-05-06T15:51:51.530034Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "multi-agent-mcp",
+  "name": "Multi-Agent-Mcp",
+  "tagline": "A Model-Agnostic, Git-Sandboxed Multi-Agent Nexus MCP Server.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agent",
+    "ai-coding",
+    "coding-assistant",
+    "langgraph",
+    "litellm",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "multi-agent-orchestration",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "R-Mabasha",
+    "url": "https://github.com/R-Mabasha"
+  },
+  "source": {
+    "primary": "github",
+    "github": "R-Mabasha/Multi-Agent-Mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-14T15:23:43Z",
+    "first_commit_at": "2026-02-20T05:29:04Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2744,
+  "rank_in_category": 123,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:07.343799Z",
+  "last_refreshed_at": "2026-05-06T15:52:07.343802Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "travel-agent-based-on-qwen2-rlhf",
+  "name": "Travel-Agent-based-on-Qwen2-RLHF",
+  "tagline": "A travel agent based on Qwen2.5, fine-tuned by SFT + DPO/PPO/GRPO using traveling question-answer dataset, a mindmap can be output using the response. A RAG system is build upon the tuned qwen2, using",
+  "category": "travel-planning",
+  "tags": [
+    "agent",
+    "dpo",
+    "grpo",
+    "langchain",
+    "lora",
+    "ppo",
+    "qwen2",
+    "rag",
+    "rlhf",
+    "tool-use"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "NJUxlj",
+    "url": "https://github.com/NJUxlj"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NJUxlj/Travel-Agent-based-on-Qwen2-RLHF",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 72,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T09:10:01Z",
+    "first_commit_at": "2024-04-19T07:07:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5396,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:55:32.326531Z",
+  "last_refreshed_at": "2026-05-06T15:55:32.326534Z"
+}

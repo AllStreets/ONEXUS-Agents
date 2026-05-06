@@ -1,0 +1,44 @@
+{
+  "slug": "ai-dj",
+  "name": "ai-dj",
+  "tagline": "VST3 for live performance. 8 tracks, 8 AI models, 30 seconds of patience per loop. It occasionally hallucinates. Not a song generator — you still have to do the work. Stay human.",
+  "category": "music",
+  "tags": [
+    "ai",
+    "ai-music",
+    "ai-music-generation",
+    "ai-music-generator",
+    "ai-music-tools",
+    "daw",
+    "juce",
+    "live-performance",
+    "llm",
+    "music-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "innermost47",
+    "url": "https://github.com/innermost47"
+  },
+  "source": {
+    "primary": "github",
+    "github": "innermost47/ai-dj",
+    "huggingface": null,
+    "homepage": "https://obsidian-neural.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 205,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T14:20:13Z",
+    "first_commit_at": "2025-05-16T10:45:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3928,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:00:06.204590Z",
+  "last_refreshed_at": "2026-05-06T16:00:06.204594Z"
+}

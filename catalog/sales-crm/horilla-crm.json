@@ -1,0 +1,44 @@
+{
+  "slug": "horilla-crm",
+  "name": "horilla-crm",
+  "tagline": "Horilla is a free and open source HR and CRM software.",
+  "category": "sales-crm",
+  "tags": [
+    "business-crm",
+    "crm",
+    "crm-platform",
+    "crm-project",
+    "crm-system",
+    "customer-relationship-management",
+    "django",
+    "django-application",
+    "django-crm",
+    "django-project"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "horilla",
+    "url": "https://github.com/horilla"
+  },
+  "source": {
+    "primary": "github",
+    "github": "horilla/horilla-crm",
+    "huggingface": null,
+    "homepage": "https://www.horilla.com/"
+  },
+  "license": "LGPL-2.1",
+  "metrics": {
+    "stars": 81,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T17:48:45Z",
+    "first_commit_at": "2025-11-15T10:38:18Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5153,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:56:00.724535Z",
+  "last_refreshed_at": "2026-05-06T15:56:00.724538Z"
+}

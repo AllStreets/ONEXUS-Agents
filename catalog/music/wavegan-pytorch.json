@@ -1,0 +1,40 @@
+{
+  "slug": "wavegan-pytorch",
+  "name": "wavegan-pytorch",
+  "tagline": "Pytorch Implementation of wavegan model to generate audio ",
+  "category": "music",
+  "tags": [
+    "ai-music",
+    "gan",
+    "music-generation",
+    "pytorch",
+    "wavegan",
+    "wavegan-pytorch"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mostafaelaraby",
+    "url": "https://github.com/mostafaelaraby"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mostafaelaraby/wavegan-pytorch",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/1802.04208"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 174,
+    "downloads_30d": null,
+    "last_commit_at": "2020-10-07T22:40:31Z",
+    "first_commit_at": "2019-06-11T10:07:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2045,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:00:37.006328Z",
+  "last_refreshed_at": "2026-05-06T16:00:37.006332Z"
+}

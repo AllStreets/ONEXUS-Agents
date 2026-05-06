@@ -1,0 +1,44 @@
+{
+  "slug": "anyparserjs",
+  "name": "anyparserjs",
+  "tagline": "Anyparser Typescript SDK for RAG/ETL Pipelines - File Content Extraction. Supports extraction from various file formats including PDF, Microsoft Office documents, OCR/Image to Text, Audio to Text, and",
+  "category": "pdf-forms",
+  "tags": [
+    "anyparser",
+    "artificial-intelligence",
+    "cache-augmented-generation",
+    "crawler",
+    "etl-pipeline",
+    "graph-rag",
+    "knowledgebase",
+    "langchain",
+    "microsoft-office",
+    "microsoft-word"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "anyparser",
+    "url": "https://github.com/anyparser"
+  },
+  "source": {
+    "primary": "github",
+    "github": "anyparser/anyparserjs",
+    "huggingface": null,
+    "homepage": "https://anyparser.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2025-02-26T08:43:43Z",
+    "first_commit_at": "2025-02-24T09:33:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2206,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:41.010417Z",
+  "last_refreshed_at": "2026-05-06T16:02:41.010420Z"
+}

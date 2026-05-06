@@ -1,0 +1,39 @@
+{
+  "slug": "real-estate-mcp",
+  "name": "real-estate-mcp",
+  "tagline": "🏠 Ask Claude about Korean apartment prices — powered by 국토교통부 open API",
+  "category": "real-estate",
+  "tags": [
+    "claude",
+    "korea",
+    "mcp",
+    "openapi",
+    "real-estate"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tae0y",
+    "url": "https://github.com/tae0y"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tae0y/real-estate-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 344,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-27T04:34:38Z",
+    "first_commit_at": "2026-02-14T04:14:40Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5438,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:33.368409Z",
+  "last_refreshed_at": "2026-05-06T15:58:33.368412Z"
+}

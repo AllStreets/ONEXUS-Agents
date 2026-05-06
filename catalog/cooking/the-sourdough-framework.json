@@ -1,0 +1,38 @@
+{
+  "slug": "the-sourdough-framework",
+  "name": "the-sourdough-framework",
+  "tagline": "Open source book dedicated to helping you to make the best possible sourdough bread at home.",
+  "category": "cooking",
+  "tags": [
+    "baking",
+    "bread",
+    "cooking",
+    "sourdough"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hendricius",
+    "url": "https://github.com/hendricius"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hendricius/the-sourdough-framework",
+    "huggingface": null,
+    "homepage": "https://breadco.de/book"
+  },
+  "license": "CC-BY-SA-4.0",
+  "metrics": {
+    "stars": 3522,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-22T16:35:28Z",
+    "first_commit_at": "2022-01-21T20:43:14Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5642,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:56.539099Z",
+  "last_refreshed_at": "2026-05-06T15:58:56.539103Z"
+}

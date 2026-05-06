@@ -1,0 +1,44 @@
+{
+  "slug": "research-vault",
+  "name": "research-vault",
+  "tagline": "AI research assistant that extracts structured patterns from papers using RAG, LangGraph, and Claude. Query across your research library with natural language.",
+  "category": "pdf-forms",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "anthropic",
+    "claude",
+    "document-processing",
+    "fastapi",
+    "knowledge-base",
+    "knowledge-management",
+    "langchain",
+    "langgraph"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aakashsharan",
+    "url": "https://github.com/aakashsharan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aakashsharan/research-vault",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-10T22:07:10Z",
+    "first_commit_at": "2026-01-05T19:15:01Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3774,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:38.638806Z",
+  "last_refreshed_at": "2026-05-06T16:02:38.638809Z"
+}

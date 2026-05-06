@@ -1,0 +1,44 @@
+{
+  "slug": "insightsql-react-engine",
+  "name": "InsightSQL-ReAct-Engine",
+  "tagline": "An advanced AI-powered data analyst built with Python, Streamlit, and LangChain. Implements the ReAct (Reasoning + Acting) architecture to autonomously query SQL databases, analyze results, and provid",
+  "category": "sql-analytics",
+  "tags": [
+    "data-analysis",
+    "generative-ai",
+    "google-gemini",
+    "langchain",
+    "llm-agent",
+    "python",
+    "react-architecture",
+    "sql-agent",
+    "sqlite",
+    "streamlit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "viochris",
+    "url": "https://github.com/viochris"
+  },
+  "source": {
+    "primary": "github",
+    "github": "viochris/InsightSQL-ReAct-Engine",
+    "huggingface": null,
+    "homepage": "https://insightsql-react-engine.streamlit.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-30T05:53:37Z",
+    "first_commit_at": "2026-01-28T05:37:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1634,
+  "rank_in_category": 106,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:19.551510Z",
+  "last_refreshed_at": "2026-05-06T16:03:19.551513Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "pneumonia-detection",
+  "name": "pneumonia-detection",
+  "tagline": "Detection of presence or absence of pneumonia in chest x-ray images using a CNN deep learning architecture",
+  "category": "healthcare",
+  "tags": [
+    "ai-healthcare",
+    "chest-xray-images",
+    "deep-learning",
+    "dicom-files",
+    "pneumonia-detection"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "CarlosUziel",
+    "url": "https://github.com/CarlosUziel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CarlosUziel/pneumonia-detection",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2023-03-19T20:59:56Z",
+    "first_commit_at": "2023-02-25T20:01:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.21,
+  "rank_in_category": 122,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:54:17.544623Z",
+  "last_refreshed_at": "2026-05-06T15:54:17.544626Z"
+}

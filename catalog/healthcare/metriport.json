@@ -1,0 +1,42 @@
+{
+  "slug": "metriport",
+  "name": "metriport",
+  "tagline": "Metriport is an open-source universal API for healthcare data.",
+  "category": "healthcare",
+  "tags": [
+    "api",
+    "fhir",
+    "healthcare",
+    "hipaa",
+    "open-source",
+    "self-hostable",
+    "soc2",
+    "typescript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "metriport",
+    "url": "https://github.com/metriport"
+  },
+  "source": {
+    "primary": "github",
+    "github": "metriport/metriport",
+    "huggingface": null,
+    "homepage": "https://metriport.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 724,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-22T21:32:20Z",
+    "first_commit_at": "2022-12-21T05:10:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5125,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:27.473370Z",
+  "last_refreshed_at": "2026-05-06T15:53:27.473373Z"
+}

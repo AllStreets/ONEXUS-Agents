@@ -1,0 +1,36 @@
+{
+  "slug": "trip-planner",
+  "name": "trip-planner",
+  "tagline": "Furkot trip planner widget",
+  "category": "travel-planning",
+  "tags": [
+    "microdata",
+    "trip-planner"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "furkot",
+    "url": "https://github.com/furkot"
+  },
+  "source": {
+    "primary": "github",
+    "github": "furkot/trip-planner",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T03:11:40Z",
+    "first_commit_at": "2014-02-09T22:25:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4193,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:54:52.680628Z",
+  "last_refreshed_at": "2026-05-06T15:54:52.680631Z"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "medicalagentx-agentic-rag",
+  "name": "MedicalAgentX-Agentic-RAG",
+  "tagline": "这个项目是一个医疗智能诊断助手系统，简单说就是：> 你输入病人的症状，AI系统会像一个经验丰富的医生团队一样，查阅大量病例文献，进行分析推理，然后给出诊断建议和治疗方案。",
+  "category": "healthcare",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "yuanxiaochenAC",
+    "url": "https://github.com/yuanxiaochenAC"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yuanxiaochenAC/MedicalAgentX-Agentic-RAG",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 29,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-24T11:35:17Z",
+    "first_commit_at": "2025-09-23T08:44:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2912,
+  "rank_in_category": 99,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:54:29.701781Z",
+  "last_refreshed_at": "2026-05-06T15:54:29.701784Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "finsight-ai",
+  "name": "finsight-ai",
+  "tagline": "Production RAG evaluation platform for financial documents — RAGAS benchmarking, multi-model (Gemini/Claude/GPT-4o), Docker, AWS S3, GitHub Actions CI/CD",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-engineering",
+    "chromadb",
+    "docker",
+    "fastapi",
+    "financial-ai",
+    "gemini",
+    "github-actions",
+    "langchain",
+    "langgraph",
+    "langsmith"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "makarand-thorat",
+    "url": "https://github.com/makarand-thorat"
+  },
+  "source": {
+    "primary": "github",
+    "github": "makarand-thorat/finsight-ai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-09T10:07:34Z",
+    "first_commit_at": "2026-04-01T11:09:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1817,
+  "rank_in_category": 103,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:34:11.361302Z",
+  "last_refreshed_at": "2026-05-06T15:34:11.361306Z"
+}

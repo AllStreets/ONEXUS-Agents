@@ -1,0 +1,33 @@
+{
+  "slug": "qwen-agent",
+  "name": "Qwen-Agent",
+  "tagline": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "QwenLM",
+    "url": "https://github.com/QwenLM"
+  },
+  "source": {
+    "primary": "github",
+    "github": "QwenLM/Qwen-Agent",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/qwen-agent/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 16256,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-04T08:15:07Z",
+    "first_commit_at": "2023-09-20T05:28:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3812,
+  "rank_in_category": 52,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:33.332647Z",
+  "last_refreshed_at": "2026-05-06T15:52:33.332650Z"
+}

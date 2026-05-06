@@ -1,0 +1,38 @@
+{
+  "slug": "healthcare-agent-orchestrator",
+  "name": "healthcare-agent-orchestrator",
+  "tagline": "Facilitates creating modular specialized agents that coordinate across diverse data types and tools like M365 and Teams to assist multi-disciplinary healthcare workflows—such as cancer care.",
+  "category": "healthcare",
+  "tags": [
+    "ai-azd-templates",
+    "azd-templates",
+    "azure",
+    "semantic-kernel"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Azure-Samples",
+    "url": "https://github.com/Azure-Samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Azure-Samples/healthcare-agent-orchestrator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 193,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-23T18:39:04Z",
+    "first_commit_at": "2025-05-12T18:33:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4154,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:54:22.299666Z",
+  "last_refreshed_at": "2026-05-06T15:54:22.299670Z"
+}

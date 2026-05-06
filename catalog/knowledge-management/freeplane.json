@@ -1,0 +1,44 @@
+{
+  "slug": "freeplane",
+  "name": "freeplane",
+  "tagline": "Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.",
+  "category": "knowledge-management",
+  "tags": [
+    "groovy-scripts",
+    "java",
+    "knowledge-management",
+    "latex",
+    "markdown",
+    "mindmap",
+    "mindmap-editor",
+    "mindmapping",
+    "mindmaps",
+    "note-taking"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "freeplane",
+    "url": "https://github.com/freeplane"
+  },
+  "source": {
+    "primary": "github",
+    "github": "freeplane/freeplane",
+    "huggingface": null,
+    "homepage": "https://www.freeplane.org/"
+  },
+  "license": "GPL-2.0",
+  "metrics": {
+    "stars": 4096,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T10:11:53Z",
+    "first_commit_at": "2012-09-13T08:55:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6516,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:18.919903Z",
+  "last_refreshed_at": "2026-05-06T16:02:18.919906Z"
+}

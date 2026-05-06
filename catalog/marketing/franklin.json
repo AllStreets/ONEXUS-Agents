@@ -1,0 +1,44 @@
+{
+  "slug": "franklin",
+  "name": "Franklin",
+  "tagline": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+  "category": "marketing",
+  "tags": [
+    "ai-agent",
+    "ai-marketing",
+    "ai-trading",
+    "autonomous-agent",
+    "autonomous-economic-agent",
+    "blockrun",
+    "crypto-native",
+    "franklin",
+    "llm-agent",
+    "micropayments"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "BlockRunAI",
+    "url": "https://github.com/BlockRunAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BlockRunAI/Franklin",
+    "huggingface": null,
+    "homepage": "https://franklin.run/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 543,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T05:18:46Z",
+    "first_commit_at": "2026-03-22T05:50:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.528,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:56:54.973809Z",
+  "last_refreshed_at": "2026-05-06T15:56:54.973812Z"
+}

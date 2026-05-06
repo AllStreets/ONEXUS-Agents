@@ -1,0 +1,39 @@
+{
+  "slug": "musicagent",
+  "name": "MusicAgent",
+  "tagline": "MusicAgent is a MAS (Multi Agent System) that programs songs in Sonic Pi. It uses generative AI to generate song structures, arrangements, lyrics, ... based on user preferences.",
+  "category": "music",
+  "tags": [
+    "ai",
+    "generative-ai",
+    "multi-agent-systems",
+    "music",
+    "music-composition"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "janvanwassenhove",
+    "url": "https://github.com/janvanwassenhove"
+  },
+  "source": {
+    "primary": "github",
+    "github": "janvanwassenhove/MusicAgent",
+    "huggingface": null,
+    "homepage": "https://mityjohn.com/?page_id=219"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 39,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-01T15:14:23Z",
+    "first_commit_at": "2023-12-22T09:08:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1859,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:00:57.267668Z",
+  "last_refreshed_at": "2026-05-06T16:00:57.267671Z"
+}

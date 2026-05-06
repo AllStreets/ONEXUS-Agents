@@ -1,0 +1,41 @@
+{
+  "slug": "jekyll-seo-tag",
+  "name": "jekyll-seo-tag",
+  "tagline": "A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.",
+  "category": "social-media",
+  "tags": [
+    "jekyll",
+    "jekyll-plugin",
+    "json-ld",
+    "open-graph",
+    "search-engine-optimization",
+    "seo",
+    "social-media"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "jekyll",
+    "url": "https://github.com/jekyll"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jekyll/jekyll-seo-tag",
+    "huggingface": null,
+    "homepage": "https://jekyll.github.io/jekyll-seo-tag"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1720,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-01T16:17:47Z",
+    "first_commit_at": "2015-10-25T21:21:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5749,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:35.081188Z",
+  "last_refreshed_at": "2026-05-06T15:57:35.081191Z"
+}

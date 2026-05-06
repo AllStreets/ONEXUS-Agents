@@ -1,0 +1,43 @@
+{
+  "slug": "bot-army",
+  "name": "bot-army",
+  "tagline": "Orchestrate multiple AI coding agents in parallel from a chat platform",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai",
+    "bun",
+    "claude",
+    "coding-agents",
+    "copilot",
+    "developer-tools",
+    "discord",
+    "multi-agent-orchestration",
+    "typescript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Nakamir-Code",
+    "url": "https://github.com/Nakamir-Code"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Nakamir-Code/bot-army",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-03T03:53:50Z",
+    "first_commit_at": "2026-04-03T02:23:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2005,
+  "rank_in_category": 138,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:10.966419Z",
+  "last_refreshed_at": "2026-05-06T15:52:10.966422Z"
+}

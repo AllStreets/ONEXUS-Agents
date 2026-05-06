@@ -1,0 +1,41 @@
+{
+  "slug": "rerun",
+  "name": "rerun",
+  "tagline": "An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data",
+  "category": "robotics",
+  "tags": [
+    "computer-vision",
+    "cpp",
+    "multimodal",
+    "python",
+    "robotics",
+    "rust",
+    "visualization"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "rerun-io",
+    "url": "https://github.com/rerun-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rerun-io/rerun",
+    "huggingface": null,
+    "homepage": "https://rerun.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 10650,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T16:01:23Z",
+    "first_commit_at": "2022-04-08T07:30:05Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6657,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:01:49.015752Z",
+  "last_refreshed_at": "2026-05-06T16:01:49.015755Z"
+}

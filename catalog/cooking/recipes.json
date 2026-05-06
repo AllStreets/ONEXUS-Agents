@@ -1,0 +1,44 @@
+{
+  "slug": "recipes",
+  "name": "recipes",
+  "tagline": "Application for managing recipes, planning meals, building shopping lists and much much more!",
+  "category": "cooking",
+  "tags": [
+    "cookbook",
+    "cooking",
+    "django",
+    "docker",
+    "food",
+    "hacktoberfest",
+    "markdown",
+    "meal-planner",
+    "recipe",
+    "recipes"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TandoorRecipes",
+    "url": "https://github.com/TandoorRecipes"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TandoorRecipes/recipes",
+    "huggingface": null,
+    "homepage": "https://docs.tandoor.dev/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 8306,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T14:25:28Z",
+    "first_commit_at": "2018-01-31T22:36:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6494,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:54.380965Z",
+  "last_refreshed_at": "2026-05-06T15:58:54.380969Z"
+}

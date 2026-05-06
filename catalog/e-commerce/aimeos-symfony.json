@@ -1,0 +1,44 @@
+{
+  "slug": "aimeos-symfony",
+  "name": "aimeos-symfony",
+  "tagline": "Symfony e-commerce bundle for professional, ultra fast online shops, complex B2B applications and #gigacommerce",
+  "category": "e-commerce",
+  "tags": [
+    "aimeos",
+    "b2b",
+    "e-commerce",
+    "ecommerce",
+    "json-api",
+    "marketplace",
+    "performance",
+    "php",
+    "shop",
+    "symfony"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aimeos",
+    "url": "https://github.com/aimeos"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aimeos/aimeos-symfony",
+    "huggingface": null,
+    "homepage": "https://aimeos.org/Symfony"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1487,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T10:51:00Z",
+    "first_commit_at": "2014-09-17T21:00:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4392,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:13.204608Z",
+  "last_refreshed_at": "2026-05-06T15:58:13.204612Z"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "spinal-tumor-ai",
+  "name": "spinal-tumor-ai",
+  "tagline": "AI surgical decision framework for spinal tumors (IMSCT, IDEM, MSCC) with skill-based reasoning, intraoperative monitoring logic, and DTI-assisted planning.",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "decision-support",
+    "neurosurgery",
+    "spinal-cord",
+    "spinal-tumor",
+    "surgical-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "DeshengKong",
+    "url": "https://github.com/DeshengKong"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DeshengKong/spinal-tumor-ai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-08T00:50:28Z",
+    "first_commit_at": "2026-03-08T00:27:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2847,
+  "rank_in_category": 105,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:12.440930Z",
+  "last_refreshed_at": "2026-05-06T15:53:12.440933Z"
+}

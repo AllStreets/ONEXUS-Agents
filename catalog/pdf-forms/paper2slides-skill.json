@@ -1,0 +1,41 @@
+{
+  "slug": "paper2slides-skill",
+  "name": "paper2slides-skill",
+  "tagline": "Turn a scientific paper PDF into a presentation slide deck. An Antigravity / Claude Code agent skill.",
+  "category": "pdf-forms",
+  "tags": [
+    "agent-skill",
+    "antigravity-skill",
+    "claude-code-skill",
+    "paper-to-slides",
+    "pdf-extraction",
+    "reveal-js",
+    "scientific-presentation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "inhyeoklee",
+    "url": "https://github.com/inhyeoklee"
+  },
+  "source": {
+    "primary": "github",
+    "github": "inhyeoklee/paper2slides-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-12T21:46:08Z",
+    "first_commit_at": "2026-02-08T22:29:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3037,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:40.325104Z",
+  "last_refreshed_at": "2026-05-06T16:02:40.325107Z"
+}

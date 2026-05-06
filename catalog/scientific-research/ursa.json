@@ -1,0 +1,33 @@
+{
+  "slug": "ursa",
+  "name": "ursa",
+  "tagline": "Universal Research and Scientific Agent",
+  "category": "scientific-research",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "lanl",
+    "url": "https://github.com/lanl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lanl/ursa",
+    "huggingface": null,
+    "homepage": "https://lanl.github.io/ursa"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 59,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T21:55:30Z",
+    "first_commit_at": "2025-02-28T20:14:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5037,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:18.790018Z",
+  "last_refreshed_at": "2026-05-06T15:50:18.790021Z"
+}

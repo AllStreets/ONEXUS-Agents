@@ -1,0 +1,42 @@
+{
+  "slug": "wyckofftradingagent",
+  "name": "WyckoffTradingAgent",
+  "tagline": "Open-source Wyckoff trading agent and AI stock screener for volume-price analysis, A-share screening, CLI workflows, and MCP tools.",
+  "category": "financial-modeling",
+  "tags": [
+    "a-shares",
+    "ai-trading-agent",
+    "mcp",
+    "stock-screener",
+    "technical-analysis",
+    "trading-agent",
+    "volume-price-analysis",
+    "wyckoff"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "YoungCan-Wang",
+    "url": "https://github.com/YoungCan-Wang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "YoungCan-Wang/WyckoffTradingAgent",
+    "huggingface": null,
+    "homepage": "https://youngcan-wang.github.io/wyckoff-homepage/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 388,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T15:29:26Z",
+    "first_commit_at": "2026-01-12T02:43:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3805,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:33:25.554207Z",
+  "last_refreshed_at": "2026-05-06T15:33:25.554210Z"
+}

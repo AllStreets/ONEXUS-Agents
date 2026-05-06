@@ -1,0 +1,42 @@
+{
+  "slug": "medic-ai",
+  "name": "medic-ai",
+  "tagline": "AI Toolkit for Healthcare Imaging in Keras 3",
+  "category": "healthcare",
+  "tags": [
+    "ai-healthcare",
+    "computer-vision",
+    "deep-learning",
+    "jax",
+    "keras",
+    "medical-image-processing",
+    "pytorch",
+    "tensorflow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "innat",
+    "url": "https://github.com/innat"
+  },
+  "source": {
+    "primary": "github",
+    "github": "innat/medic-ai",
+    "huggingface": null,
+    "homepage": "https://innat.github.io/medic-ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T18:32:19Z",
+    "first_commit_at": "2023-07-28T08:55:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5127,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:58.530818Z",
+  "last_refreshed_at": "2026-05-06T15:53:58.530821Z"
+}

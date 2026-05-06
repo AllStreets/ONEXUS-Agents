@@ -1,0 +1,44 @@
+{
+  "slug": "mediscan",
+  "name": "MediScan",
+  "tagline": "MediScan: AI-powered bone fracture detection system achieving 99.8% accuracy through deep learning. Features real-time X-ray analysis, transparent Grad-CAM visualizations, and clinical integration too",
+  "category": "healthcare",
+  "tags": [
+    "artificial-intelligence",
+    "bone-fracture-detection",
+    "computer-vision",
+    "deep-learning",
+    "fastapi",
+    "gradcam",
+    "healthcare-ai",
+    "html-css-javascript",
+    "medical-diagnostics",
+    "medical-imaging"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "alok-devforge",
+    "url": "https://github.com/alok-devforge"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alok-devforge/MediScan",
+    "huggingface": null,
+    "homepage": "https://alok-devforge.github.io/MediScan/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 37,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-07T18:59:05Z",
+    "first_commit_at": "2025-04-25T10:58:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3075,
+  "rank_in_category": 89,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:44.276558Z",
+  "last_refreshed_at": "2026-05-06T15:53:44.276562Z"
+}

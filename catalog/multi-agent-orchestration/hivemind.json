@@ -1,0 +1,44 @@
+{
+  "slug": "hivemind",
+  "name": "hivemind",
+  "tagline": "One prompt. A full AI engineering team. Go lie on the couch. 🧠",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "ai-coding",
+    "ai-engineering-team",
+    "claude-code",
+    "code-review",
+    "dag",
+    "dag-execution",
+    "dashboard",
+    "developer-tools",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "cohen-liel",
+    "url": "https://github.com/cohen-liel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cohen-liel/hivemind",
+    "huggingface": null,
+    "homepage": "https://cohen-liel.github.io/hivemind/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 90,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-18T22:33:46Z",
+    "first_commit_at": "2026-03-17T16:33:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2876,
+  "rank_in_category": 119,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:58.054925Z",
+  "last_refreshed_at": "2026-05-06T15:51:58.054929Z"
+}

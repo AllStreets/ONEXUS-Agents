@@ -1,0 +1,44 @@
+{
+  "slug": "ai-crm-agents",
+  "name": "ai-crm-agents",
+  "tagline": "Production-ready AI-powered CRM with 6 autonomous agents for lead qualification, email intelligence, sales pipeline, customer success, meeting scheduling, and analytics",
+  "category": "sales-crm",
+  "tags": [
+    "ai",
+    "analytics",
+    "autonomous-agents",
+    "claude",
+    "crm",
+    "customer-success",
+    "email-intelligence",
+    "fastapi",
+    "langchain",
+    "lead-qualification"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "KlementMultiverse",
+    "url": "https://github.com/KlementMultiverse"
+  },
+  "source": {
+    "primary": "github",
+    "github": "KlementMultiverse/ai-crm-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 33,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-10T06:32:46Z",
+    "first_commit_at": "2025-10-10T06:32:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3287,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:56:17.499130Z",
+  "last_refreshed_at": "2026-05-06T15:56:17.499133Z"
+}

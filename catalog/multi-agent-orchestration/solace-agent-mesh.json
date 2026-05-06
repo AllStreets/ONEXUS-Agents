@@ -1,0 +1,44 @@
+{
+  "slug": "solace-agent-mesh",
+  "name": "solace-agent-mesh",
+  "tagline": "An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-s",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a",
+    "agentframework",
+    "agentic",
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "agenticai",
+    "agents",
+    "ai",
+    "ai-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SolaceLabs",
+    "url": "https://github.com/SolaceLabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SolaceLabs/solace-agent-mesh",
+    "huggingface": null,
+    "homepage": "https://solacelabs.github.io/solace-agent-mesh/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3494,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T15:43:17Z",
+    "first_commit_at": "2025-01-10T17:12:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3936,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:18.401370Z",
+  "last_refreshed_at": "2026-05-06T15:51:18.401373Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "hkex-filing-scraper",
+  "name": "hkex-filing-scraper",
+  "tagline": "Scrape and ingest HKEx (Hong Kong Stock Exchange) regulatory filings into SurrealDB with full-text extraction and graph linking.",
+  "category": "pdf-forms",
+  "tags": [
+    "data-pipeline",
+    "etl",
+    "financial-data",
+    "graph-database",
+    "hkex",
+    "hong-kong",
+    "hong-kong-stock-exchange",
+    "open-source",
+    "pdf-extraction",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "simonplmak-cloud",
+    "url": "https://github.com/simonplmak-cloud"
+  },
+  "source": {
+    "primary": "github",
+    "github": "simonplmak-cloud/hkex-filing-scraper",
+    "huggingface": null,
+    "homepage": "https://dev.to/simonplmakcloud/building-a-financial-data-pipeline-how-i-scraped-25-years-of-stock-market-filings-with-python-and-3e4f"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-15T13:23:03Z",
+    "first_commit_at": "2026-02-11T14:35:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3173,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:39.601503Z",
+  "last_refreshed_at": "2026-05-06T16:02:39.601507Z"
+}

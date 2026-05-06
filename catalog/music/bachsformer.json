@@ -1,0 +1,41 @@
+{
+  "slug": "bachsformer",
+  "name": "bachsformer",
+  "tagline": "A Bach music generator with Artificial Intelligence. This model is made by a VQ-VAE +  Transformer (decoder-only). Sequences of midi 1 quarter length are compressed into 16 codebooks via VQ-VAE and a ",
+  "category": "music",
+  "tags": [
+    "ai-generation",
+    "bach",
+    "deep-learning",
+    "music-ai",
+    "music-generation-deep-learning",
+    "transformers",
+    "vq-vae"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pier-maker92",
+    "url": "https://github.com/pier-maker92"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pier-maker92/bachsformer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 44,
+    "downloads_30d": null,
+    "last_commit_at": "2023-09-21T08:54:59Z",
+    "first_commit_at": "2022-12-12T10:59:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1688,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:00:16.135607Z",
+  "last_refreshed_at": "2026-05-06T16:00:16.135610Z"
+}

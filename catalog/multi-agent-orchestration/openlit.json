@@ -1,0 +1,44 @@
+{
+  "slug": "openlit",
+  "name": "openlit",
+  "tagline": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-observability",
+    "amd-gpu",
+    "clickhouse",
+    "distributed-tracing",
+    "genai",
+    "gpu-monitoring",
+    "grafana",
+    "langchain",
+    "llmops",
+    "llms"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openlit",
+    "url": "https://github.com/openlit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openlit/openlit",
+    "huggingface": null,
+    "homepage": "https://docs.openlit.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2421,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-04T19:26:16Z",
+    "first_commit_at": "2024-01-23T17:41:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4028,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:42.126226Z",
+  "last_refreshed_at": "2026-05-06T15:52:42.126229Z"
+}

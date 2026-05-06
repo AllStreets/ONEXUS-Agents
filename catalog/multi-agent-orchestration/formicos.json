@@ -1,0 +1,44 @@
+{
+  "slug": "formicos",
+  "name": "FormicOS",
+  "tagline": "AI kernal/api/ui multi-agent orchestration",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-kernel",
+    "autonomous-agents",
+    "bayesian-inference",
+    "blackwell-gpu",
+    "deterministic-ai",
+    "event-sourcing",
+    "llama-cpp",
+    "local-first-ai",
+    "mcp",
+    "multi-agent-orchestration"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Intradyne",
+    "url": "https://github.com/Intradyne"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Intradyne/FormicOS",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T17:46:17Z",
+    "first_commit_at": "2026-03-24T18:47:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2277,
+  "rank_in_category": 131,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:11.580184Z",
+  "last_refreshed_at": "2026-05-06T15:52:11.580187Z"
+}

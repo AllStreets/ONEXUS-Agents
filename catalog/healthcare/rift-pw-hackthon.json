@@ -1,0 +1,42 @@
+{
+  "slug": "rift-pw-hackthon",
+  "name": "RIFT_Pw_Hackthon",
+  "tagline": "AI-powered pharmacogenomic risk prediction system. Analyzes patient VCF files across 6 genes (CYP2D6, CYP2C19, CYP2C9, SLCO1B1, TPMT, DPYD) to predict drug-specific risks with CPIC-aligned recommendat",
+  "category": "healthcare",
+  "tags": [
+    "ai-healthcare",
+    "cpic",
+    "drug-safety",
+    "fastapi",
+    "pharmacogenomics",
+    "precision-medicine",
+    "rift2026",
+    "vcf-parsing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aarav12e",
+    "url": "https://github.com/aarav12e"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aarav12e/RIFT_Pw_Hackthon",
+    "huggingface": null,
+    "homepage": "https://rift-pw-hackthon.vercel.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-20T01:44:34Z",
+    "first_commit_at": "2026-02-19T10:31:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2888,
+  "rank_in_category": 101,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:54:12.528926Z",
+  "last_refreshed_at": "2026-05-06T15:54:12.528929Z"
+}

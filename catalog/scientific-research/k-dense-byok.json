@@ -1,0 +1,44 @@
+{
+  "slug": "k-dense-byok",
+  "name": "k-dense-byok",
+  "tagline": "An AI co-scientist powered by Scientific Agent Skills running on your desktop.",
+  "category": "scientific-research",
+  "tags": [
+    "agentic-ai",
+    "ai-agent",
+    "ai-assistant",
+    "bioinformatics",
+    "byok",
+    "drug-discovery",
+    "google-adk",
+    "litellm",
+    "local-first",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "K-Dense-AI/k-dense-byok",
+    "huggingface": null,
+    "homepage": "https://k-dense.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 635,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T22:29:06Z",
+    "first_commit_at": "2026-03-20T22:08:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5395,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:15.824279Z",
+  "last_refreshed_at": "2026-05-06T15:50:15.824282Z"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "othello",
+  "name": "Othello",
+  "tagline": "Implementation of the game othello (reversi) in C++ and ARM",
+  "category": "game-playing",
+  "tags": [
+    "arm",
+    "assembly-language-programming",
+    "game-playing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "samarthaggarwal",
+    "url": "https://github.com/samarthaggarwal"
+  },
+  "source": {
+    "primary": "github",
+    "github": "samarthaggarwal/Othello",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2018-06-24T20:00:40Z",
+    "first_commit_at": "2018-06-24T19:54:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2505,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:01:11.385160Z",
+  "last_refreshed_at": "2026-05-06T16:01:11.385164Z"
+}

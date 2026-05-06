@@ -1,0 +1,40 @@
+{
+  "slug": "arogya-wellness",
+  "name": "arogya-wellness",
+  "tagline": "Arogya Wellness Assistant is an AI-powered health platform built with LangChain that uses multiple specialized agents to provide personalized guidance on symptoms, diet, fitness, and lifestyle.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "flask",
+    "healthcare-ai",
+    "langchain",
+    "llm",
+    "multi-agent-orchestration",
+    "react"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "venkata-arjun",
+    "url": "https://github.com/venkata-arjun"
+  },
+  "source": {
+    "primary": "github",
+    "github": "venkata-arjun/arogya-wellness",
+    "huggingface": null,
+    "homepage": "https://arogya-wellness.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-15T15:39:14Z",
+    "first_commit_at": "2025-12-15T11:02:05Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1466,
+  "rank_in_category": 146,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:13.271282Z",
+  "last_refreshed_at": "2026-05-06T15:52:13.271285Z"
+}

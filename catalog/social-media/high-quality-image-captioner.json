@@ -1,0 +1,42 @@
+{
+  "slug": "high-quality-image-captioner",
+  "name": "high_quality_image_captioner",
+  "tagline": "A FastAPI + Hugging Face app wrapping the BLIP large v1 image captioner",
+  "category": "social-media",
+  "tags": [
+    "ai",
+    "ai-social-media",
+    "blip",
+    "computer-vision",
+    "fastapi",
+    "fastapi-template",
+    "huggingface",
+    "image-captioning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sponteen",
+    "url": "https://github.com/sponteen"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sponteen/high_quality_image_captioner",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2024-10-24T08:45:30Z",
+    "first_commit_at": "2024-09-22T21:27:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1996,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:49.345258Z",
+  "last_refreshed_at": "2026-05-06T15:57:49.345262Z"
+}

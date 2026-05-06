@@ -1,0 +1,44 @@
+{
+  "slug": "full-stack-ai-agent-template",
+  "name": "full-stack-ai-agent-template",
+  "tagline": "Full-stack AI app generator — FastAPI + Next.js with agents, RAG, streaming, auth, and 20+ integrations out of the box.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "ai-agent-template",
+    "ai-agents",
+    "crewai",
+    "docker",
+    "fastapi",
+    "full-stack",
+    "langchain",
+    "langgraph",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "vstorm-co",
+    "url": "https://github.com/vstorm-co"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vstorm-co/full-stack-ai-agent-template",
+    "huggingface": null,
+    "homepage": "https://vstorm-co.github.io/full-stack-ai-agent-template/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1228,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-26T10:25:37Z",
+    "first_commit_at": "2025-12-19T12:23:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3428,
+  "rank_in_category": 90,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:35.612010Z",
+  "last_refreshed_at": "2026-05-06T15:51:35.612012Z"
+}

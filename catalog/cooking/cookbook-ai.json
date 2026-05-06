@@ -1,0 +1,44 @@
+{
+  "slug": "cookbook-ai",
+  "name": "cookbook-ai",
+  "tagline": "A full-stack web application that uses AI to generate personalized food recipes based on user descriptions",
+  "category": "cooking",
+  "tags": [
+    "ai-cooking",
+    "deepseek",
+    "fullstack",
+    "mongodb",
+    "nextauth",
+    "nextjs",
+    "openai",
+    "react",
+    "recipe-generator",
+    "tailwindcss"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "horlesq",
+    "url": "https://github.com/horlesq"
+  },
+  "source": {
+    "primary": "github",
+    "github": "horlesq/cookbook-ai",
+    "huggingface": null,
+    "homepage": "https://cookbook-ai-delta.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-15T19:35:57Z",
+    "first_commit_at": "2025-10-15T16:43:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2332,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:18.133516Z",
+  "last_refreshed_at": "2026-05-06T15:59:18.133519Z"
+}

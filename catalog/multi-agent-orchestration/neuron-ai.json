@@ -1,0 +1,44 @@
+{
+  "slug": "neuron-ai",
+  "name": "neuron-ai",
+  "tagline": "The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agentic-framework",
+    "agents",
+    "ai",
+    "llm",
+    "llm-inference",
+    "llms",
+    "php",
+    "vector-database"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "neuron-core",
+    "url": "https://github.com/neuron-core"
+  },
+  "source": {
+    "primary": "github",
+    "github": "neuron-core/neuron-ai",
+    "huggingface": null,
+    "homepage": "https://docs.neuron-ai.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1900,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T16:00:36Z",
+    "first_commit_at": "2025-03-02T15:37:05Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3793,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:46.401158Z",
+  "last_refreshed_at": "2026-05-06T15:52:46.401161Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "multibench",
+  "name": "MultiBench",
+  "tagline": "[NeurIPS 2021] Multiscale Benchmarks for Multimodal Representation Learning",
+  "category": "healthcare",
+  "tags": [
+    "computer-vision",
+    "deep-learning",
+    "healthcare",
+    "machine-learning",
+    "multimodal-learning",
+    "natural-language-processing",
+    "representation-learning",
+    "robotics",
+    "speech-processing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pliang279",
+    "url": "https://github.com/pliang279"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pliang279/MultiBench",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 628,
+    "downloads_30d": null,
+    "last_commit_at": "2024-01-27T08:16:57Z",
+    "first_commit_at": "2021-03-05T00:38:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3834,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:28.180352Z",
+  "last_refreshed_at": "2026-05-06T15:53:28.180356Z"
+}

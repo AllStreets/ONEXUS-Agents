@@ -1,0 +1,44 @@
+{
+  "slug": "xenohuru-api",
+  "name": "xenohuru-api",
+  "tagline": "Open-source tourism platform for Tanzania with GPS-accurate attraction data, real-time weather integration, and seasonal planning guides - REST API ",
+  "category": "travel-planning",
+  "tags": [
+    "african-tech",
+    "community-driven",
+    "django-rest-framework",
+    "east-africa",
+    "geospatial-data",
+    "gps-coordinates",
+    "location-based-services",
+    "monorepo",
+    "mountain-climbing",
+    "open-source-project"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "xenohuru",
+    "url": "https://github.com/xenohuru"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xenohuru/xenohuru-api",
+    "huggingface": null,
+    "homepage": "https://xenohuru.cleven.is-a.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-02T07:45:58Z",
+    "first_commit_at": "2026-02-10T16:01:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.317,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:55:09.965346Z",
+  "last_refreshed_at": "2026-05-06T15:55:09.965349Z"
+}

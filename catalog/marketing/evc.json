@@ -1,0 +1,42 @@
+{
+  "slug": "evc",
+  "name": "evc",
+  "tagline": "The open-source marketing agent workspace for Claude Code. 42 commands, 12 hooks, 4 industry starters.",
+  "category": "marketing",
+  "tags": [
+    "agent-workspace",
+    "ai-marketing",
+    "claude-code",
+    "content-engine",
+    "marketing",
+    "marketing-automation",
+    "marketing-ops",
+    "open-source"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SaigonXIII",
+    "url": "https://github.com/SaigonXIII"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SaigonXIII/evc",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 26,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T23:57:34Z",
+    "first_commit_at": "2026-04-05T23:57:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4017,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:02.431580Z",
+  "last_refreshed_at": "2026-05-06T15:57:02.431583Z"
+}

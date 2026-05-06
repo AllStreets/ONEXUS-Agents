@@ -1,0 +1,38 @@
+{
+  "slug": "kptncook",
+  "name": "kptncook",
+  "tagline": "Fetch receipts from kptncook API and export them to mealie or paprika",
+  "category": "cooking",
+  "tags": [
+    "cooking",
+    "mealie",
+    "paprika",
+    "receipts"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ephes",
+    "url": "https://github.com/ephes"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ephes/kptncook",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 71,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T18:12:58Z",
+    "first_commit_at": "2022-03-28T07:38:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5207,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:13.200504Z",
+  "last_refreshed_at": "2026-05-06T15:59:13.200507Z"
+}

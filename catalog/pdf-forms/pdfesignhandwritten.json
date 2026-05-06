@@ -1,0 +1,44 @@
+{
+  "slug": "pdfesignhandwritten",
+  "name": "PDFeSignHandwritten",
+  "tagline": "Windows executable for sign a PDF with a certificate and a hanwritten signature",
+  "category": "pdf-forms",
+  "tags": [
+    "csharp",
+    "ghostscript",
+    "itext7",
+    "p12",
+    "pdf-form",
+    "pdf-forms",
+    "pdf-sign",
+    "pdf-signature",
+    "pdf-signer",
+    "pdf-signing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "alexandrelozano",
+    "url": "https://github.com/alexandrelozano"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alexandrelozano/PDFeSignHandwritten",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2023-07-17T08:07:38Z",
+    "first_commit_at": "2022-04-03T10:27:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2606,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:49.222261Z",
+  "last_refreshed_at": "2026-05-06T16:02:49.222264Z"
+}

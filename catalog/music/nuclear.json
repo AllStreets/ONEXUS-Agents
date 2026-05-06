@@ -1,0 +1,44 @@
+{
+  "slug": "nuclear",
+  "name": "nuclear",
+  "tagline": "Streaming music player that finds free music for you",
+  "category": "music",
+  "tags": [
+    "agent",
+    "ai",
+    "desktop-app",
+    "linux",
+    "mac",
+    "mcp",
+    "mcp-server",
+    "music",
+    "music-player",
+    "react"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nukeop",
+    "url": "https://github.com/nukeop"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nukeop/nuclear",
+    "huggingface": null,
+    "homepage": "https://nuclearplayer.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 17427,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T22:51:31Z",
+    "first_commit_at": "2025-08-03T11:27:49Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.55,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:30.955181Z",
+  "last_refreshed_at": "2026-05-06T15:59:30.955184Z"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "recipe-buddy",
+  "name": "recipe-buddy",
+  "tagline": "Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping. ",
+  "category": "cooking",
+  "tags": [
+    "cooking",
+    "grocy",
+    "recipes"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "georgegebbett",
+    "url": "https://github.com/georgegebbett"
+  },
+  "source": {
+    "primary": "github",
+    "github": "georgegebbett/recipe-buddy",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 264,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-30T15:20:08Z",
+    "first_commit_at": "2022-04-24T22:24:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4506,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:59.234168Z",
+  "last_refreshed_at": "2026-05-06T15:58:59.234171Z"
+}

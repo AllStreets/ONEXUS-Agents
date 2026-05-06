@@ -1,0 +1,42 @@
+{
+  "slug": "akeys",
+  "name": "AKeyS",
+  "tagline": "Agentic Keyframe Search for Video Question Answering",
+  "category": "reasoning-math",
+  "tags": [
+    "agent",
+    "computer-vision",
+    "deep-learning",
+    "llm",
+    "reasoning-agent",
+    "reasoning-algoritm",
+    "search-algorithm",
+    "videoqa"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "fansunqi",
+    "url": "https://github.com/fansunqi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fansunqi/AKeyS",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2503.16032"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 18,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-07T12:03:36Z",
+    "first_commit_at": "2025-03-19T13:14:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0894,
+  "rank_in_category": 58,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:43.198085Z",
+  "last_refreshed_at": "2026-05-06T15:50:43.198088Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "flask-socialmedia-automation",
+  "name": "Flask-SocialMedia-Automation",
+  "tagline": "Social Media automation application built on Flask. Uses instagrapi to automate posting at scheduled times, and allows user to make AI generated posts. Twitter API is used in order to allow the user t",
+  "category": "social-media",
+  "tags": [
+    "ai",
+    "ai-app",
+    "ai-project",
+    "ai-social-media",
+    "ajax",
+    "automation",
+    "database",
+    "flask",
+    "flask-wtf",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SakethSripada",
+    "url": "https://github.com/SakethSripada"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SakethSripada/Flask-SocialMedia-Automation",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 34,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-25T09:01:40Z",
+    "first_commit_at": "2024-01-26T21:05:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3079,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:44.545409Z",
+  "last_refreshed_at": "2026-05-06T15:57:44.545412Z"
+}

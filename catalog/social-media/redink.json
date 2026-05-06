@@ -1,0 +1,44 @@
+{
+  "slug": "redink",
+  "name": "RedInk",
+  "tagline": "Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, \"One Sentence, One Image: Generate Xiaohongshu Text and Images.\"",
+  "category": "social-media",
+  "tags": [
+    "ai",
+    "aigc",
+    "content-generator",
+    "docker",
+    "flask",
+    "gemini",
+    "nano-banana-pro",
+    "python",
+    "social-media",
+    "text-to-image"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "HisMax",
+    "url": "https://github.com/HisMax"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HisMax/RedInk",
+    "huggingface": null,
+    "homepage": "https://redink.top/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 5214,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-17T01:20:53Z",
+    "first_commit_at": "2025-11-25T10:12:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5307,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:24.463953Z",
+  "last_refreshed_at": "2026-05-06T15:57:24.463956Z"
+}

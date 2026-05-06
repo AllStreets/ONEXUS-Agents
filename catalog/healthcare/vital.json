@@ -1,0 +1,38 @@
+{
+  "slug": "vital",
+  "name": "vital",
+  "tagline": "🍏 Intelligent health assistant powered by Mistral AI",
+  "category": "healthcare",
+  "tags": [
+    "apple-watch",
+    "healthcare-ai",
+    "mistral",
+    "voice-assistant"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "vitalvie",
+    "url": "https://github.com/vitalvie"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vitalvie/vital",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 49,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T20:37:01Z",
+    "first_commit_at": "2026-03-28T18:57:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4371,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:41.114083Z",
+  "last_refreshed_at": "2026-05-06T15:53:41.114087Z"
+}

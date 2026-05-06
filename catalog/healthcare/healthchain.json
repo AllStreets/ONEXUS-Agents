@@ -1,0 +1,44 @@
+{
+  "slug": "healthchain",
+  "name": "HealthChain",
+  "tagline": "Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥",
+  "category": "healthcare",
+  "tags": [
+    "ai",
+    "cds-hooks",
+    "ehr",
+    "fhir",
+    "fhir-api",
+    "healthcare",
+    "healthcare-ai",
+    "llm",
+    "machine-learning",
+    "mlops"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "healthchainai",
+    "url": "https://github.com/healthchainai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "healthchainai/HealthChain",
+    "huggingface": null,
+    "homepage": "https://healthchainai.github.io/HealthChain/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 193,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T14:00:31Z",
+    "first_commit_at": "2024-04-11T10:09:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5712,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:38.367883Z",
+  "last_refreshed_at": "2026-05-06T15:53:38.367887Z"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "rca-pdf-extraction-pipeline",
+  "name": "RCA-PDF-extraction-pipeline",
+  "tagline": "Automated document extraction pipeline using AI vision models for invoice and form data capture",
+  "category": "pdf-forms",
+  "tags": [
+    "computer-vision",
+    "document-ai",
+    "pdf-extraction",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "martymcenroe",
+    "url": "https://github.com/martymcenroe"
+  },
+  "source": {
+    "primary": "github",
+    "github": "martymcenroe/RCA-PDF-extraction-pipeline",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T13:43:23Z",
+    "first_commit_at": "2026-01-29T17:36:01Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3983,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:39.994474Z",
+  "last_refreshed_at": "2026-05-06T16:02:39.994476Z"
+}

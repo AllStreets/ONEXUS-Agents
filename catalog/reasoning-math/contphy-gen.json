@@ -1,0 +1,38 @@
+{
+  "slug": "contphy-gen",
+  "name": "ContPhy-Gen",
+  "tagline": "Codebase and tutorial of ContPhy dataset generation for ICML 2024 paper \"ContPhy: Continuum Physical Concept Learning and Reasoning from Videos\"",
+  "category": "reasoning-math",
+  "tags": [
+    "llm",
+    "multimodal",
+    "physical-simu",
+    "reasoning-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zzcnewly",
+    "url": "https://github.com/zzcnewly"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zzcnewly/ContPhy-Gen",
+    "huggingface": null,
+    "homepage": "https://physical-reasoning-project.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-31T14:11:34Z",
+    "first_commit_at": "2024-05-03T14:44:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0964,
+  "rank_in_category": 55,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:46.407293Z",
+  "last_refreshed_at": "2026-05-06T15:50:46.407296Z"
+}

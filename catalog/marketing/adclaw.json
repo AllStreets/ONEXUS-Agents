@@ -1,0 +1,44 @@
+{
+  "slug": "adclaw",
+  "name": "adclaw",
+  "tagline": "Multi-agent AI marketing team with 150+ skills, 25+ LLM providers, shared memory, personas agent multi-player office",
+  "category": "marketing",
+  "tags": [
+    "agent-framework",
+    "ai",
+    "ai-agents",
+    "ai-marketing",
+    "chatbot",
+    "content-generation",
+    "docker",
+    "llm",
+    "marketing",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "citedy",
+    "url": "https://github.com/citedy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "citedy/adclaw",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/adclaw/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T23:56:42Z",
+    "first_commit_at": "2026-03-15T17:27:01Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.428,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:04.444458Z",
+  "last_refreshed_at": "2026-05-06T15:57:04.444462Z"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "innoclaw",
+  "name": "InnoClaw",
+  "tagline": "An AI research Agent for scientific innovation.",
+  "category": "scientific-research",
+  "tags": [
+    "agent",
+    "openclaw"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SpectrAI-Initiative",
+    "url": "https://github.com/SpectrAI-Initiative"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SpectrAI-Initiative/InnoClaw",
+    "huggingface": null,
+    "homepage": "https://spectrai-initiative.github.io/InnoClaw/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 379,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-04T01:29:31Z",
+    "first_commit_at": "2026-02-25T14:20:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5228,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:06.698963Z",
+  "last_refreshed_at": "2026-05-06T15:50:06.698966Z"
+}

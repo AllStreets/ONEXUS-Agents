@@ -1,0 +1,44 @@
+{
+  "slug": "clinical-interview-voice-agent",
+  "name": "clinical-interview-voice-agent",
+  "tagline": "Voice agent prototype for structured clinical interviewing, with VAD-based interruption handling, modular ASR/LLM/TTS backends, and dialogue workflow control.",
+  "category": "healthcare",
+  "tags": [
+    "ai-product",
+    "asr",
+    "clinical-ai",
+    "dialogue-system",
+    "interruptible-ui",
+    "llm",
+    "python",
+    "realtime-ai",
+    "speech-ai",
+    "structured-interview"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "liu-dongfang",
+    "url": "https://github.com/liu-dongfang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "liu-dongfang/clinical-interview-voice-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-14T11:13:28Z",
+    "first_commit_at": "2026-03-13T07:16:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2913,
+  "rank_in_category": 98,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:09.156921Z",
+  "last_refreshed_at": "2026-05-06T15:53:09.156924Z"
+}

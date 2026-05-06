@@ -1,0 +1,38 @@
+{
+  "slug": "care-fe",
+  "name": "care_fe",
+  "tagline": "Care is a Digital Public Good enabling TeleICU & Decentralised Administration of Healthcare Capacity across States.",
+  "category": "healthcare",
+  "tags": [
+    "digital-public-goods",
+    "hacktoberfest",
+    "healthcare",
+    "hmis"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ohcnetwork",
+    "url": "https://github.com/ohcnetwork"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ohcnetwork/care_fe",
+    "huggingface": null,
+    "homepage": "https://care.ohc.network/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 604,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T13:46:30Z",
+    "first_commit_at": "2020-03-21T17:48:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6019,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:29.690321Z",
+  "last_refreshed_at": "2026-05-06T15:53:29.690325Z"
+}

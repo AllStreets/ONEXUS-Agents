@@ -1,0 +1,43 @@
+{
+  "slug": "advanced-sqlagent-cookbook",
+  "name": "advanced-sqlagent-cookbook",
+  "tagline": "Enterprise-grade SQL Agent using PydanticAI and Azure OpenAI for secure natural language to SQL conversion with comprehensive safety validation",
+  "category": "sql-analytics",
+  "tags": [
+    "azure-openai",
+    "docker",
+    "enterprise",
+    "natural-language",
+    "pydantic-ai",
+    "python",
+    "sql-agent",
+    "sql-security",
+    "streamlit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "abbaouiAchraf",
+    "url": "https://github.com/abbaouiAchraf"
+  },
+  "source": {
+    "primary": "github",
+    "github": "abbaouiAchraf/advanced-sqlagent-cookbook",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-06T07:59:02Z",
+    "first_commit_at": "2025-08-05T21:56:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1258,
+  "rank_in_category": 126,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:20.410581Z",
+  "last_refreshed_at": "2026-05-06T16:03:20.410584Z"
+}

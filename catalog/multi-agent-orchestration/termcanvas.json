@@ -1,0 +1,44 @@
+{
+  "slug": "termcanvas",
+  "name": "termcanvas",
+  "tagline": "An infinite canvas desktop app for visually managing terminals",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "ai-agents",
+    "canvas",
+    "claude-code",
+    "desktop-app",
+    "developer-tools",
+    "electron",
+    "git-worktree",
+    "infinite-canvas",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "blueberrycongee",
+    "url": "https://github.com/blueberrycongee"
+  },
+  "source": {
+    "primary": "github",
+    "github": "blueberrycongee/termcanvas",
+    "huggingface": null,
+    "homepage": "https://website-ten-mu-37.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 272,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T15:01:05Z",
+    "first_commit_at": "2026-03-14T22:33:29Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3223,
+  "rank_in_category": 105,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:52.266881Z",
+  "last_refreshed_at": "2026-05-06T15:51:52.266884Z"
+}

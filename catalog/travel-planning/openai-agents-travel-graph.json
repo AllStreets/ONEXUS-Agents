@@ -1,0 +1,44 @@
+{
+  "slug": "openai-agents-travel-graph",
+  "name": "openai-agents-travel-graph",
+  "tagline": "🧳 A state-of-the-art multi-agent travel planning system powered by OpenAI Agents SDK and LangGraph orchestration. Leverages Stagehand/Playwright for browser automation, Supabase for data persistence, ",
+  "category": "travel-planning",
+  "tags": [
+    "ai-travel-planning",
+    "autonomous-planning",
+    "browser-automation",
+    "budget-optimization",
+    "firecrawl",
+    "itinerary-planning",
+    "langchain",
+    "langgraph",
+    "multi-agent-system",
+    "openai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "BjornMelin",
+    "url": "https://github.com/BjornMelin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BjornMelin/openai-agents-travel-graph",
+    "huggingface": null,
+    "homepage": "https://github.com/BjornMelin/openai-agents-travel-graph"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-07T06:01:07Z",
+    "first_commit_at": "2025-05-05T06:34:33Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2757,
+  "rank_in_category": 55,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:55:24.987651Z",
+  "last_refreshed_at": "2026-05-06T15:55:24.987654Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "agentensemble",
+  "name": "AgentEnsemble",
+  "tagline": "AgentEnsemble is a Production-ready multi-agent orchestration for Python. ReAct, Swarm, Pipeline, Debate, Router, Planner, WorkflowGraph. Observability, cost tracking, human-in-loop. Structured output",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "langchain",
+    "llm",
+    "mistral",
+    "multi-agent-orchestration",
+    "open-source",
+    "pydantic",
+    "python",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "irfanalidv",
+    "url": "https://github.com/irfanalidv"
+  },
+  "source": {
+    "primary": "github",
+    "github": "irfanalidv/AgentEnsemble",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/agentensemble/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-03T06:07:08Z",
+    "first_commit_at": "2025-12-08T19:34:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2084,
+  "rank_in_category": 136,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:10.152879Z",
+  "last_refreshed_at": "2026-05-06T15:52:10.152882Z"
+}

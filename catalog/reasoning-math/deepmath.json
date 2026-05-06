@@ -1,0 +1,38 @@
+{
+  "slug": "deepmath",
+  "name": "DeepMath",
+  "tagline": "Simple framework for training and evaluating math reasoning agents using local models, GRPO and vLLM.",
+  "category": "reasoning-math",
+  "tags": [
+    "grpo",
+    "llm",
+    "math",
+    "reasoning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "IntelLabs",
+    "url": "https://github.com/IntelLabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "IntelLabs/DeepMath",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 35,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-10T01:04:07Z",
+    "first_commit_at": "2025-11-11T20:10:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1688,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:56.621142Z",
+  "last_refreshed_at": "2026-05-06T15:50:56.621146Z"
+}

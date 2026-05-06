@@ -1,0 +1,38 @@
+{
+  "slug": "minedreamer",
+  "name": "MineDreamer",
+  "tagline": "[IROS'25 Oral & NeurIPSw'24] Official implementation of \"MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control \"",
+  "category": "robotics",
+  "tags": [
+    "diffusion-model",
+    "embodied-agent",
+    "minecraft",
+    "multimodal-llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Zhoues",
+    "url": "https://github.com/Zhoues"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Zhoues/MineDreamer",
+    "huggingface": null,
+    "homepage": "https://sites.google.com/view/minedreamer/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 103,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-16T12:19:29Z",
+    "first_commit_at": "2024-03-15T09:52:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3459,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:01:36.159386Z",
+  "last_refreshed_at": "2026-05-06T16:01:36.159390Z"
+}

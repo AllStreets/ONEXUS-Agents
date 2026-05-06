@@ -1,0 +1,44 @@
+{
+  "slug": "healthcare-agents",
+  "name": "healthcare-agents",
+  "tagline": "Portable prompt and SKILL.md pack with 51 specialist AI agents for US healthcare administration workflows.",
+  "category": "healthcare",
+  "tags": [
+    "agents-md",
+    "ai-agents",
+    "ai-prompts",
+    "claude-code",
+    "copilot-instructions",
+    "cursor-rules",
+    "healthcare",
+    "healthcare-administration",
+    "healthcare-ai",
+    "healthcare-ai-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ajhcs",
+    "url": "https://github.com/ajhcs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ajhcs/healthcare-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 33,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T21:09:33Z",
+    "first_commit_at": "2026-03-19T01:12:13Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4573,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:44.889955Z",
+  "last_refreshed_at": "2026-05-06T15:53:44.889958Z"
+}

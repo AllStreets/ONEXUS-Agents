@@ -1,0 +1,44 @@
+{
+  "slug": "stepgeomchecker",
+  "name": "StepGeomChecker",
+  "tagline": "Free STEP viewer and 3D measurement tool for Windows with section view, IGES/STL support, and assembly tree browsing.",
+  "category": "3d-cad",
+  "tags": [
+    "3d-cad",
+    "3d-inspection",
+    "3d-measurement",
+    "3dcad",
+    "cad-tools",
+    "cad-viewer",
+    "engineering",
+    "geometry-measurement",
+    "iges",
+    "iges-viewer"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pandaxp28",
+    "url": "https://github.com/pandaxp28"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pandaxp28/StepGeomChecker",
+    "huggingface": null,
+    "homepage": "https://www.lwj.co.jp/software/stepgeomchecker.html"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T09:25:14Z",
+    "first_commit_at": "2026-03-12T08:23:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3517,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:54.757798Z",
+  "last_refreshed_at": "2026-05-06T16:03:54.757801Z"
+}

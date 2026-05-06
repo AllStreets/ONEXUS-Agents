@@ -1,0 +1,42 @@
+{
+  "slug": "yorozu-madoguchi",
+  "name": "yorozu_madoguchi",
+  "tagline": "AI-assisted travel planning web app with a React + Flask + PostgreSQL/Redis stack, orchestrated by Docker Compose.",
+  "category": "travel-planning",
+  "tags": [
+    "ai-assistant",
+    "docker-compose",
+    "flask",
+    "postgresql",
+    "react",
+    "redis",
+    "travel-planning",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kota-kawa",
+    "url": "https://github.com/kota-kawa"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kota-kawa/yorozu_madoguchi",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-11T15:54:41Z",
+    "first_commit_at": "2024-06-27T09:54:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3865,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:55:18.848279Z",
+  "last_refreshed_at": "2026-05-06T15:55:18.848283Z"
+}

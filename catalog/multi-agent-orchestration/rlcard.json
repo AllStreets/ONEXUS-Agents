@@ -1,0 +1,44 @@
+{
+  "slug": "rlcard",
+  "name": "rlcard",
+  "tagline": "Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai",
+    "blackjack",
+    "card-game",
+    "card-games",
+    "deep-reinforcement-learning",
+    "doudizhu",
+    "game",
+    "game-ai",
+    "game-bot",
+    "gym-environment"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "datamllab",
+    "url": "https://github.com/datamllab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "datamllab/rlcard",
+    "huggingface": null,
+    "homepage": "http://www.rlcard.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3458,
+    "downloads_30d": null,
+    "last_commit_at": "2024-06-26T23:01:52Z",
+    "first_commit_at": "2019-06-05T02:21:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2712,
+  "rank_in_category": 124,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:19.113113Z",
+  "last_refreshed_at": "2026-05-06T15:51:19.113116Z"
+}

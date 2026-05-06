@@ -1,0 +1,33 @@
+{
+  "slug": "sql-agent-kit",
+  "name": "sql-agent-kit",
+  "tagline": "这是一个基于大语言模型的 Text-to-SQL 工具，支持： 1. 多种 LLM（OpenAI、Qwen、硅基流动） 2. SQL 验证和安全检查 3. Schema 管理和语义注释 4. Few-shot 学习 5. 置信度评估 6. 查询执行和结果格式化",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "956501819",
+    "url": "https://github.com/956501819"
+  },
+  "source": {
+    "primary": "github",
+    "github": "956501819/sql-agent-kit",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 22,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-22T06:53:40Z",
+    "first_commit_at": "2026-04-21T07:48:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2717,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:40.868367Z",
+  "last_refreshed_at": "2026-05-06T16:03:40.868370Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "social-media-ai-agent",
+  "name": "social-media-ai-agent",
+  "tagline": "Multi-agent marketing automation system built with CrewAI --> generates market research, strategy, content calendars, social posts, blogs, and SEO-optimized content using structured Pydantic outputs.",
+  "category": "social-media",
+  "tags": [
+    "automation",
+    "crewai",
+    "genai",
+    "llm",
+    "marketing-automation",
+    "multi-agent",
+    "multi-agent-systems",
+    "pydantic",
+    "python",
+    "social-media-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kushalsamani",
+    "url": "https://github.com/kushalsamani"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kushalsamani/social-media-ai-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-14T07:33:00Z",
+    "first_commit_at": "2026-02-13T10:16:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.308,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:40.068241Z",
+  "last_refreshed_at": "2026-05-06T15:57:40.068244Z"
+}

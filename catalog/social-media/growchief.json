@@ -1,0 +1,41 @@
+{
+  "slug": "growchief",
+  "name": "growchief",
+  "tagline": "The Ultimate all-in social media automation (outreach) tool 🤖",
+  "category": "social-media",
+  "tags": [
+    "automation",
+    "n8n",
+    "nestjs",
+    "nodejs",
+    "outreach",
+    "social-media",
+    "temporal"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "growchief",
+    "url": "https://github.com/growchief"
+  },
+  "source": {
+    "primary": "github",
+    "github": "growchief/growchief",
+    "huggingface": null,
+    "homepage": "https://growchief.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 3324,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-13T05:36:00Z",
+    "first_commit_at": "2025-08-25T13:18:16Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4238,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:57:28.399326Z",
+  "last_refreshed_at": "2026-05-06T15:57:28.399330Z"
+}

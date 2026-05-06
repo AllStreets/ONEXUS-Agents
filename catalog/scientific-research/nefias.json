@@ -1,0 +1,44 @@
+{
+  "slug": "nefias",
+  "name": "nefias",
+  "tagline": "Network Forensic & Anomaly Detection System; tailored for covert channel/network steganography detection",
+  "category": "scientific-research",
+  "tags": [
+    "anomaly-detection",
+    "bash",
+    "covert-channels",
+    "distributed-computing",
+    "information-hiding",
+    "information-security",
+    "infosec",
+    "linux",
+    "network",
+    "network-covert-channels"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "cdpxe",
+    "url": "https://github.com/cdpxe"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cdpxe/nefias",
+    "huggingface": null,
+    "homepage": "http://www.wendzel.de/projects/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2024-05-13T08:40:23Z",
+    "first_commit_at": "2020-02-28T14:54:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2905,
+  "rank_in_category": 82,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:49:47.063408Z",
+  "last_refreshed_at": "2026-05-06T15:49:47.063411Z"
+}

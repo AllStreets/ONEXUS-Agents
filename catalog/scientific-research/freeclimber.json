@@ -1,0 +1,44 @@
+{
+  "slug": "freeclimber",
+  "name": "FreeClimber",
+  "tagline": "FreeClimber is a background-subtracting particle detection platform designed to quantify group climbing performance in a Drosophila negative geotaxis (climbing) assay",
+  "category": "scientific-research",
+  "tags": [
+    "animal-behavior",
+    "animal-movement",
+    "background-subtraction",
+    "climbing",
+    "drosophila",
+    "drosophila-behaviour",
+    "flies",
+    "local-linear-regression",
+    "locomotion",
+    "particle-detection"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "adamspierer",
+    "url": "https://github.com/adamspierer"
+  },
+  "source": {
+    "primary": "github",
+    "github": "adamspierer/FreeClimber",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2024-05-23T14:54:54Z",
+    "first_commit_at": "2020-04-17T22:58:29Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2726,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:49:51.296872Z",
+  "last_refreshed_at": "2026-05-06T15:49:51.296875Z"
+}

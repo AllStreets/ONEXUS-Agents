@@ -1,0 +1,38 @@
+{
+  "slug": "langchain-sql-agent-bootstrap",
+  "name": "langchain-sql-agent-bootstrap",
+  "tagline": "Langchain SQL Agent Boostrap application. Flask on the backend, React on the front.",
+  "category": "sql-analytics",
+  "tags": [
+    "flask",
+    "langchain",
+    "openai",
+    "sql"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "cogitovirus",
+    "url": "https://github.com/cogitovirus"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cogitovirus/langchain-sql-agent-bootstrap",
+    "huggingface": null,
+    "homepage": "https://cogitovirus.com/posts/20230402-gpt-4-langchain-agent-bootstrap/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 36,
+    "downloads_30d": null,
+    "last_commit_at": "2023-03-31T23:24:54Z",
+    "first_commit_at": "2023-03-24T17:56:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2041,
+  "rank_in_category": 78,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:37.943903Z",
+  "last_refreshed_at": "2026-05-06T16:03:37.943906Z"
+}

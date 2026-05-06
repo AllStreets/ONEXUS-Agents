@@ -1,0 +1,44 @@
+{
+  "slug": "cdss-xray-app",
+  "name": "cdss-xray-app",
+  "tagline": "AI-powered Clinical Decision Support System (CDSS) for chest X-ray analysis, detecting pneumonia (89.9% accuracy) using CNN on Kaggle's Chest X-ray Dataset. Full-stack app with Next.js, Django, Tensor",
+  "category": "healthcare",
+  "tags": [
+    "chest-xray-analysis",
+    "clinical-decision-support-system",
+    "convolutional-neural-networks",
+    "covid19-diagnosis",
+    "deep-learning",
+    "django",
+    "full-stack",
+    "healthcare-ai",
+    "kaggle",
+    "kaggle-dataset"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MMansy19",
+    "url": "https://github.com/MMansy19"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MMansy19/cdss-xray-app",
+    "huggingface": null,
+    "homepage": "https://cdss-xray-app.vercel.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-18T10:33:48Z",
+    "first_commit_at": "2025-05-05T07:58:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3027,
+  "rank_in_category": 93,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:49.987771Z",
+  "last_refreshed_at": "2026-05-06T15:53:49.987775Z"
+}

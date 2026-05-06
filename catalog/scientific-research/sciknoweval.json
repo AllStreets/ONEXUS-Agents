@@ -1,0 +1,42 @@
+{
+  "slug": "sciknoweval",
+  "name": "SciKnowEval",
+  "tagline": "SciKnowEval: Evaluating Multi-level Scientific Knowledge of Large Language Models",
+  "category": "scientific-research",
+  "tags": [
+    "benchmark",
+    "biology",
+    "chemistry",
+    "dataset",
+    "evaluation",
+    "language-model",
+    "llm",
+    "scientific-research"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "HICAI-ZJU",
+    "url": "https://github.com/HICAI-ZJU"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HICAI-ZJU/SciKnowEval",
+    "huggingface": null,
+    "homepage": "http://scimind.ai/sciknoweval"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-13T06:43:14Z",
+    "first_commit_at": "2024-05-07T08:36:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3118,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:49:46.242286Z",
+  "last_refreshed_at": "2026-05-06T15:49:46.242290Z"
+}

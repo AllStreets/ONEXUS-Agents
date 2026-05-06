@@ -1,0 +1,38 @@
+{
+  "slug": "public-domain-recipes",
+  "name": "public-domain-recipes",
+  "tagline": "A recipe website with no backstories, ads, or trackers.",
+  "category": "cooking",
+  "tags": [
+    "cooking",
+    "cooking-recipes",
+    "public-domain",
+    "recipe-website"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ronaldl29",
+    "url": "https://github.com/ronaldl29"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ronaldl29/public-domain-recipes",
+    "huggingface": null,
+    "homepage": "https://publicdomainrecipes.com/"
+  },
+  "license": "Unlicense",
+  "metrics": {
+    "stars": 97,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-11T21:08:41Z",
+    "first_commit_at": "2021-03-10T17:02:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4644,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:10.270886Z",
+  "last_refreshed_at": "2026-05-06T15:59:10.270889Z"
+}

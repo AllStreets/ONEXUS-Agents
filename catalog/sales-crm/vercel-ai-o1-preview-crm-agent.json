@@ -1,0 +1,40 @@
+{
+  "slug": "vercel-ai-o1-preview-crm-agent",
+  "name": "vercel-ai-o1-preview-crm-agent",
+  "tagline": "A demo of OpenAI o1 and Next.js, used to automate the import of user-provided contacts file.",
+  "category": "sales-crm",
+  "tags": [
+    "agentic-workflow",
+    "nextjs",
+    "openai",
+    "openai-o1",
+    "vercel",
+    "vercel-ai-sdk"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "inngest",
+    "url": "https://github.com/inngest"
+  },
+  "source": {
+    "primary": "github",
+    "github": "inngest/vercel-ai-o1-preview-crm-agent",
+    "huggingface": null,
+    "homepage": "https://www.inngest.com/blog/nextjs-openai-o1-preview"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 28,
+    "downloads_30d": null,
+    "last_commit_at": "2025-01-04T02:13:13Z",
+    "first_commit_at": "2024-10-16T16:59:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3182,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:56:18.223062Z",
+  "last_refreshed_at": "2026-05-06T15:56:18.223065Z"
+}

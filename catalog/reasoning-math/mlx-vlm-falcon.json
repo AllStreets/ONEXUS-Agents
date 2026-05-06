@@ -1,0 +1,33 @@
+{
+  "slug": "mlx-vlm-falcon",
+  "name": "mlx-vlm-falcon",
+  "tagline": "Grounded reasoning agent: Falcon Perception + Gemma 4 VLM on Apple Silicon",
+  "category": "reasoning-math",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "korale77",
+    "url": "https://github.com/korale77"
+  },
+  "source": {
+    "primary": "github",
+    "github": "korale77/mlx-vlm-falcon",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 26,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T11:02:08Z",
+    "first_commit_at": "2026-04-05T09:56:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1735,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:57.998811Z",
+  "last_refreshed_at": "2026-05-06T15:50:57.998814Z"
+}

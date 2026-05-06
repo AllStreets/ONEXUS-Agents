@@ -1,0 +1,39 @@
+{
+  "slug": "game-playing",
+  "name": "Game-Playing",
+  "tagline": "Similar to candy crush game. Make the move to score more points than the opponent.",
+  "category": "game-playing",
+  "tags": [
+    "alpha-beta-pruning",
+    "artificial-intelligence",
+    "game-playing",
+    "game-playing-agent",
+    "minmax-algorithm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "KrishnaJay",
+    "url": "https://github.com/KrishnaJay"
+  },
+  "source": {
+    "primary": "github",
+    "github": "KrishnaJay/Game-Playing",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2018-10-26T19:19:59Z",
+    "first_commit_at": "2017-12-19T23:25:56Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.21,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:01:15.675594Z",
+  "last_refreshed_at": "2026-05-06T16:01:15.675597Z"
+}

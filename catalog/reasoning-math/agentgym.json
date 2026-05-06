@@ -1,0 +1,43 @@
+{
+  "slug": "agentgym",
+  "name": "AgentGym",
+  "tagline": "A framework making it effortless to convert any llm model into a reasoning agent like o1 or DeepSeek's r1",
+  "category": "reasoning-math",
+  "tags": [
+    "agents",
+    "ai",
+    "alibaba",
+    "deepseek",
+    "llms",
+    "o1",
+    "qwen",
+    "r1",
+    "rl"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "The-Swarm-Corporation",
+    "url": "https://github.com/The-Swarm-Corporation"
+  },
+  "source": {
+    "primary": "github",
+    "github": "The-Swarm-Corporation/AgentGym",
+    "huggingface": null,
+    "homepage": "https://swarms.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 24,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-13T00:22:50Z",
+    "first_commit_at": "2025-01-29T16:33:48Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1202,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:58.841781Z",
+  "last_refreshed_at": "2026-05-06T15:50:58.841784Z"
+}

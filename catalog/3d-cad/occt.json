@@ -1,0 +1,42 @@
+{
+  "slug": "occt",
+  "name": "OCCT",
+  "tagline": "Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.",
+  "category": "3d-cad",
+  "tags": [
+    "3d",
+    "3d-cad",
+    "cad",
+    "cae",
+    "cam",
+    "occt",
+    "occt3d",
+    "opencascade"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Open-Cascade-SAS",
+    "url": "https://github.com/Open-Cascade-SAS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Open-Cascade-SAS/OCCT",
+    "huggingface": null,
+    "homepage": "https://occt3d.com/"
+  },
+  "license": "LGPL-2.1",
+  "metrics": {
+    "stars": 2420,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T13:17:12Z",
+    "first_commit_at": "2020-03-16T15:04:06Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7098,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:50.656746Z",
+  "last_refreshed_at": "2026-05-06T16:03:50.656748Z"
+}

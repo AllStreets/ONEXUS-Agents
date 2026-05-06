@@ -1,0 +1,44 @@
+{
+  "slug": "claw-orchestrator",
+  "name": "claw-orchestrator",
+  "tagline": "Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "agent-teams",
+    "ai-agent",
+    "claude-code",
+    "claw",
+    "claw-orchestrator",
+    "cli",
+    "codex",
+    "coding-agent",
+    "cursor-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Enderfga",
+    "url": "https://github.com/Enderfga"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Enderfga/claw-orchestrator",
+    "huggingface": null,
+    "homepage": "https://github.com/Enderfga/claw-orchestrator#readme"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 436,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T06:15:49Z",
+    "first_commit_at": "2026-01-30T16:00:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3335,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:47.972134Z",
+  "last_refreshed_at": "2026-05-06T15:51:47.972137Z"
+}

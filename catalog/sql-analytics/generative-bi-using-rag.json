@@ -1,0 +1,40 @@
+{
+  "slug": "generative-bi-using-rag",
+  "name": "generative-bi-using-rag",
+  "tagline": "A solution guidance for Generative BI using Amazon Bedrock, Amazon OpenSearch with RAG",
+  "category": "sql-analytics",
+  "tags": [
+    "llm",
+    "nlq",
+    "nlq-to-sql",
+    "rag",
+    "text-to-sql",
+    "text2sql"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aws-samples",
+    "url": "https://github.com/aws-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-samples/generative-bi-using-rag",
+    "huggingface": null,
+    "homepage": "https://aws.amazon.com/cn/blogs/china/build-text2sql-industry-data-query-assistant-using-bedrock-and-rag/"
+  },
+  "license": "MIT-0",
+  "metrics": {
+    "stars": 173,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-21T11:34:52Z",
+    "first_commit_at": "2024-03-12T13:42:47Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2381,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:07.308569Z",
+  "last_refreshed_at": "2026-05-06T16:03:07.308572Z"
+}

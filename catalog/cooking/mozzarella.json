@@ -1,0 +1,42 @@
+{
+  "slug": "mozzarella",
+  "name": "mozzarella",
+  "tagline": "Learn how to make homemade mozzarella",
+  "category": "cooking",
+  "tags": [
+    "cheese",
+    "cooking",
+    "cooking-recipes",
+    "liquid",
+    "milk",
+    "mozzarella",
+    "recipe",
+    "whey"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hendricius",
+    "url": "https://github.com/hendricius"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hendricius/mozzarella",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 64,
+    "downloads_30d": null,
+    "last_commit_at": "2018-12-30T18:24:17Z",
+    "first_commit_at": "2018-12-30T18:24:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3112,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:15.357458Z",
+  "last_refreshed_at": "2026-05-06T15:59:15.357461Z"
+}

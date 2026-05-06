@@ -1,0 +1,38 @@
+{
+  "slug": "sql-o1",
+  "name": "SQL-o1",
+  "tagline": "SQL-o1: A Self-Reward Heuristic Dynamic Search Method for Text-to-SQL",
+  "category": "sql-analytics",
+  "tags": [
+    "heuristic-dynamic-search",
+    "mcts-algorithm",
+    "self-rewarding",
+    "text-to-sql"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ShuaiLyu0110",
+    "url": "https://github.com/ShuaiLyu0110"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ShuaiLyu0110/SQL-o1",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2502.11741"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 198,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-23T01:54:17Z",
+    "first_commit_at": "2025-02-17T03:16:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2245,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:03:06.839103Z",
+  "last_refreshed_at": "2026-05-06T16:03:06.839107Z"
+}

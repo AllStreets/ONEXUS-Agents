@@ -1,0 +1,44 @@
+{
+  "slug": "android-fhir",
+  "name": "android-fhir",
+  "tagline": "The Android FHIR SDK is a set of Kotlin libraries for building offline-capable, mobile-first healthcare applications using the HL7® FHIR® standard on Android.",
+  "category": "healthcare",
+  "tags": [
+    "android",
+    "android-architecture-components",
+    "android-development",
+    "android-fhir-sdk",
+    "android-library",
+    "fhir",
+    "fhir-client",
+    "health",
+    "healthcare",
+    "interoperability"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ohs-foundation",
+    "url": "https://github.com/ohs-foundation"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ohs-foundation/android-fhir",
+    "huggingface": null,
+    "homepage": "https://google.github.io/android-fhir/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 585,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-25T19:37:09Z",
+    "first_commit_at": "2020-03-17T13:31:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5405,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:30.488466Z",
+  "last_refreshed_at": "2026-05-06T15:53:30.488469Z"
+}

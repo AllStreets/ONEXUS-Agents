@@ -1,0 +1,44 @@
+{
+  "slug": "mealmatch",
+  "name": "MealMatch",
+  "tagline": "MealMatch is an intelligent web application that suggests recipes based on the ingredients you already have at home. It leverages a multi-agent architecture using MESA and integrates with the Spoonacu",
+  "category": "cooking",
+  "tags": [
+    "ai-cooking",
+    "ai-meal-planner",
+    "ai-project",
+    "flask-webapp",
+    "food-ai",
+    "food-automation",
+    "food-recommendation",
+    "ingredient-matching",
+    "ingredient-recognition",
+    "intelligent-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hurr13ane",
+    "url": "https://github.com/hurr13ane"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hurr13ane/MealMatch",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-12T16:18:46Z",
+    "first_commit_at": "2025-06-11T17:50:32Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.206,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:16.629310Z",
+  "last_refreshed_at": "2026-05-06T15:59:16.629313Z"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "coding-tutor",
+  "name": "Coding-Tutor",
+  "tagline": "[ACL 2025 Findings] Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The Curious Case of LLMs as Your Coding Tutors",
+  "category": "education-tutoring",
+  "tags": [
+    "coding-assistant",
+    "evaluation-framework",
+    "llm-agents",
+    "tutoring"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "iwangjian",
+    "url": "https://github.com/iwangjian"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iwangjian/Coding-Tutor",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2502.13311"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 87,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-02T19:14:02Z",
+    "first_commit_at": "2025-01-23T08:36:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3005,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:23.942512Z",
+  "last_refreshed_at": "2026-05-06T15:50:23.942515Z"
+}

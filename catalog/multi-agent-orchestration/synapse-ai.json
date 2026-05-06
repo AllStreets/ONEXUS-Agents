@@ -1,0 +1,44 @@
+{
+  "slug": "synapse-ai",
+  "name": "synapse-ai",
+  "tagline": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating AI agents powered by any LLM — local, cloud or CLIs.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "custom-agents",
+    "custom-tools",
+    "directed-acyclic-graph",
+    "llm-agent",
+    "mcp-client",
+    "mcp-server",
+    "mcp-servers",
+    "mcp-tools",
+    "multi-agent",
+    "multi-agent-orchestration"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "naveenraj-17",
+    "url": "https://github.com/naveenraj-17"
+  },
+  "source": {
+    "primary": "github",
+    "github": "naveenraj-17/synapse-ai",
+    "huggingface": null,
+    "homepage": "https://synapseorch.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 47,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T14:19:00Z",
+    "first_commit_at": "2026-04-01T05:19:32Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.344,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:51:59.457256Z",
+  "last_refreshed_at": "2026-05-06T15:51:59.457260Z"
+}

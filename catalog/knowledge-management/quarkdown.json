@@ -1,0 +1,44 @@
+{
+  "slug": "quarkdown",
+  "name": "quarkdown",
+  "tagline": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+  "category": "knowledge-management",
+  "tags": [
+    "compiler",
+    "documentation",
+    "knowledge-management",
+    "markdown",
+    "markup",
+    "markup-language",
+    "paper",
+    "pdf",
+    "presentations",
+    "scripting-language"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "iamgio",
+    "url": "https://github.com/iamgio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iamgio/quarkdown",
+    "huggingface": null,
+    "homepage": "https://quarkdown.com/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 13803,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T04:44:40Z",
+    "first_commit_at": "2024-01-30T21:13:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6837,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:16.594859Z",
+  "last_refreshed_at": "2026-05-06T16:02:16.594862Z"
+}

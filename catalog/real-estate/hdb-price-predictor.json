@@ -1,0 +1,44 @@
+{
+  "slug": "hdb-price-predictor",
+  "name": "hdb-price-predictor",
+  "tagline": "A Streamlit web app that predicts Singapore HDB resale flat prices using a pre-trained XGBoost model. Includes an interactive transaction map, light/dark theme toggle, and Docker support for easy depl",
+  "category": "real-estate",
+  "tags": [
+    "data-science",
+    "docker",
+    "folium",
+    "geospatial",
+    "housing",
+    "interactive-map",
+    "machine-learning",
+    "prediction",
+    "real-estate",
+    "singapore"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "seehiong",
+    "url": "https://github.com/seehiong"
+  },
+  "source": {
+    "primary": "github",
+    "github": "seehiong/hdb-price-predictor",
+    "huggingface": null,
+    "homepage": "https://hdb-price-predictor-xgb.streamlit.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 174,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-16T14:10:24Z",
+    "first_commit_at": "2025-05-13T14:24:52Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4047,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:42.990897Z",
+  "last_refreshed_at": "2026-05-06T15:58:42.990900Z"
+}

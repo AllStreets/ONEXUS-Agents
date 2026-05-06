@@ -1,0 +1,43 @@
+{
+  "slug": "knowledge-agent-template",
+  "name": "knowledge-agent-template",
+  "tagline": "Open source file-system and knowledge based agent template. Build AI agents that stay up to date with your knowledge base",
+  "category": "knowledge-management",
+  "tags": [
+    "agents",
+    "ai-agent",
+    "chatbot",
+    "file-system",
+    "knowledge-base",
+    "nuxt",
+    "sandbox",
+    "typescript",
+    "vue"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "vercel-labs",
+    "url": "https://github.com/vercel-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vercel-labs/knowledge-agent-template",
+    "huggingface": null,
+    "homepage": "https://chatsdk-knowledge-agent.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 751,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-27T23:18:08Z",
+    "first_commit_at": "2026-01-20T15:02:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.489,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:28.205825Z",
+  "last_refreshed_at": "2026-05-06T16:02:28.205828Z"
+}

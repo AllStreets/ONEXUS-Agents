@@ -1,0 +1,44 @@
+{
+  "slug": "agentops",
+  "name": "agentops",
+  "tagline": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and Ca",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agentops",
+    "agents-sdk",
+    "ai",
+    "anthropic",
+    "autogen",
+    "cost-estimation",
+    "crewai",
+    "evals",
+    "evaluation-metrics"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AgentOps-AI",
+    "url": "https://github.com/AgentOps-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AgentOps-AI/agentops",
+    "huggingface": null,
+    "homepage": "https://agentops.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5520,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-19T18:37:57Z",
+    "first_commit_at": "2023-08-15T23:26:58Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3748,
+  "rank_in_category": 58,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:38.943680Z",
+  "last_refreshed_at": "2026-05-06T15:52:38.943683Z"
+}

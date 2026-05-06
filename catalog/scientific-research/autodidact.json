@@ -1,0 +1,33 @@
+{
+  "slug": "autodidact",
+  "name": "AutoDidact",
+  "tagline": "Autonomously train research-agent LLMs on custom data using reinforcement learning and self-verification.",
+  "category": "scientific-research",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "dCaples",
+    "url": "https://github.com/dCaples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dCaples/AutoDidact",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 689,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-22T01:15:55Z",
+    "first_commit_at": "2025-03-08T05:11:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3688,
+  "rank_in_category": 58,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:49:59.417216Z",
+  "last_refreshed_at": "2026-05-06T15:49:59.417219Z"
+}

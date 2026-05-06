@@ -1,0 +1,38 @@
+{
+  "slug": "rl-musician",
+  "name": "rl-musician",
+  "tagline": "Composition of short musical pieces with reinforcement learning. To be more detailed, framing of fifth species counterpoint writing as an optimization problem.",
+  "category": "music",
+  "tags": [
+    "ai-music",
+    "algorithmic-composition",
+    "counterpoint",
+    "reinforcement-learning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Nikolay-Lysenko",
+    "url": "https://github.com/Nikolay-Lysenko"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Nikolay-Lysenko/rl-musician",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 48,
+    "downloads_30d": null,
+    "last_commit_at": "2023-10-17T20:53:07Z",
+    "first_commit_at": "2019-08-17T09:57:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1711,
+  "rank_in_category": 67,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:00:48.505027Z",
+  "last_refreshed_at": "2026-05-06T16:00:48.505030Z"
+}

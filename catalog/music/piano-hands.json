@@ -1,0 +1,37 @@
+{
+  "slug": "piano-hands",
+  "name": "Piano-Hands",
+  "tagline": "Music AI implementation and model to split mixed Piano compositions into separate parts for each hand",
+  "category": "music",
+  "tags": [
+    "midi",
+    "music-ai",
+    "piano"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "asigalov61",
+    "url": "https://github.com/asigalov61"
+  },
+  "source": {
+    "primary": "github",
+    "github": "asigalov61/Piano-Hands",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2022-10-07T07:36:53Z",
+    "first_commit_at": "2022-10-06T07:43:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1481,
+  "rank_in_category": 79,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:00:20.695739Z",
+  "last_refreshed_at": "2026-05-06T16:00:20.695742Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "iwe",
+  "name": "iwe",
+  "tagline": "Markdown memory system for you and your AI agent",
+  "category": "knowledge-management",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "cli",
+    "developer-tools",
+    "graph",
+    "gtd",
+    "helix",
+    "knowledge-graph",
+    "knowledge-management",
+    "lsp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "iwe-org",
+    "url": "https://github.com/iwe-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iwe-org/iwe",
+    "huggingface": null,
+    "homepage": "https://iwe.md/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1014,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T11:20:29Z",
+    "first_commit_at": "2024-09-20T01:38:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5997,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:25.261098Z",
+  "last_refreshed_at": "2026-05-06T16:02:25.261102Z"
+}

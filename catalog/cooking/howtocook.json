@@ -1,0 +1,39 @@
+{
+  "slug": "howtocook",
+  "name": "HowToCook",
+  "tagline": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+  "category": "cooking",
+  "tags": [
+    "chinese",
+    "cookbook",
+    "cooking",
+    "dishes",
+    "recipes"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Anduin2017",
+    "url": "https://github.com/Anduin2017"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Anduin2017/HowToCook",
+    "huggingface": null,
+    "homepage": "https://cook.aiursoft.com/"
+  },
+  "license": "Unlicense",
+  "metrics": {
+    "stars": 99779,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T04:13:51Z",
+    "first_commit_at": "2020-02-29T10:32:47Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7092,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:53.709512Z",
+  "last_refreshed_at": "2026-05-06T15:58:53.709515Z"
+}

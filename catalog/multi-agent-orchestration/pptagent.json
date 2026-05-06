@@ -1,0 +1,41 @@
+{
+  "slug": "pptagent",
+  "name": "PPTAgent",
+  "tagline": "An Agentic Framework for Reflective PowerPoint Generation",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "llm",
+    "mcp",
+    "openclaw",
+    "presentation",
+    "slide"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "icip-cas",
+    "url": "https://github.com/icip-cas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "icip-cas/PPTAgent",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2501.03936"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4253,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T16:59:19Z",
+    "first_commit_at": "2024-06-26T09:34:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4093,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:39.525292Z",
+  "last_refreshed_at": "2026-05-06T15:52:39.525295Z"
+}

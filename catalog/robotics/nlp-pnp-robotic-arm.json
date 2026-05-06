@@ -1,0 +1,44 @@
+{
+  "slug": "nlp-pnp-robotic-arm",
+  "name": "nlp-pnp-robotic-arm",
+  "tagline": "SPARC is an intelligent ROS2 Humble-based pick-and-place robotic system integrating MoveIt, YOLOv8-OBB, and Isaac Sim. It enables real-time object detection, motion planning for Franka Panda and UR5 a",
+  "category": "robotics",
+  "tags": [
+    "ai-robotics",
+    "chatbot",
+    "human-robot-interaction",
+    "isaac-sim",
+    "llm",
+    "manipulation",
+    "motion-planning",
+    "moveit",
+    "natural-language-processing",
+    "object-detection"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sahilrajpurkar03",
+    "url": "https://github.com/sahilrajpurkar03"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sahilrajpurkar03/nlp-pnp-robotic-arm",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 59,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-22T12:53:45Z",
+    "first_commit_at": "2025-08-10T22:39:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3471,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:01:58.426297Z",
+  "last_refreshed_at": "2026-05-06T16:01:58.426301Z"
+}

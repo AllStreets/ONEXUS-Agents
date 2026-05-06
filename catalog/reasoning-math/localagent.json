@@ -1,0 +1,33 @@
+{
+  "slug": "localagent",
+  "name": "LocalAgent",
+  "tagline": "Local Reasoning Agent using LangChain + Ollama",
+  "category": "reasoning-math",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "vedas-dixit",
+    "url": "https://github.com/vedas-dixit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vedas-dixit/LocalAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 119,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-17T11:27:52Z",
+    "first_commit_at": "2025-10-25T07:38:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1983,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:50:54.226651Z",
+  "last_refreshed_at": "2026-05-06T15:50:54.226655Z"
+}

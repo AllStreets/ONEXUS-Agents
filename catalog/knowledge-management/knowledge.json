@@ -1,0 +1,41 @@
+{
+  "slug": "knowledge",
+  "name": "knowledge",
+  "tagline": "Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.",
+  "category": "knowledge-management",
+  "tags": [
+    "knowledge-discovery",
+    "knowledge-graph",
+    "knowledge-management",
+    "large-language-models",
+    "learning",
+    "llm",
+    "research"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "KnowledgeCanvas",
+    "url": "https://github.com/KnowledgeCanvas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "KnowledgeCanvas/knowledge",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1459,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-27T19:20:05Z",
+    "first_commit_at": "2021-07-10T18:57:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4687,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:24.130804Z",
+  "last_refreshed_at": "2026-05-06T16:02:24.130807Z"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "healthcare-ai-model-evaluator",
+  "name": "healthcare-ai-model-evaluator",
+  "tagline": "Healthcare AI Model Evaluator (HAIME) empowers healthcare organizations to independently evaluate and customize AI solutions, addressing challenges of transparency, clinical relevance, and real-world ",
+  "category": "healthcare",
+  "tags": [
+    "ai-azd-templates",
+    "azd-templates",
+    "azure",
+    "evaluation-metrics",
+    "healthcare-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/healthcare-ai-model-evaluator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 47,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-17T11:01:42Z",
+    "first_commit_at": "2025-11-18T06:39:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3801,
+  "rank_in_category": 58,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:41.854616Z",
+  "last_refreshed_at": "2026-05-06T15:53:41.854619Z"
+}

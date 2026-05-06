@@ -1,0 +1,44 @@
+{
+  "slug": "gitjournal",
+  "name": "GitJournal",
+  "tagline": "Mobile first Note Taking integrated with Git",
+  "category": "knowledge-management",
+  "tags": [
+    "git",
+    "google-keep",
+    "journal",
+    "knowledge-graph",
+    "knowledge-management",
+    "markdown",
+    "memex",
+    "note-taking",
+    "notes",
+    "notes-app"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "GitJournal",
+    "url": "https://github.com/GitJournal"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GitJournal/GitJournal",
+    "huggingface": null,
+    "homepage": "https://gitjournal.io/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 4145,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T08:09:47Z",
+    "first_commit_at": "2019-01-10T11:27:18Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6501,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:18.544183Z",
+  "last_refreshed_at": "2026-05-06T16:02:18.544186Z"
+}

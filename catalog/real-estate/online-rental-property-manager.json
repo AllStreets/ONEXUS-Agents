@@ -1,0 +1,44 @@
+{
+  "slug": "online-rental-property-manager",
+  "name": "online-rental-property-manager",
+  "tagline": "Manage your rental properties, units, applications, leases and tenants.",
+  "category": "real-estate",
+  "tags": [
+    "landlord",
+    "mariadb",
+    "mysql",
+    "php",
+    "property-management",
+    "real-estate",
+    "rental",
+    "small-business",
+    "tenants",
+    "webapp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "bigprof-software",
+    "url": "https://github.com/bigprof-software"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bigprof-software/online-rental-property-manager",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 173,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-26T08:19:31Z",
+    "first_commit_at": "2018-03-13T12:33:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5773,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:43.675789Z",
+  "last_refreshed_at": "2026-05-06T15:58:43.675792Z"
+}

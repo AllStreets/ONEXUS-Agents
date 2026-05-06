@@ -1,0 +1,44 @@
+{
+  "slug": "simpmusic",
+  "name": "SimpMusic",
+  "tagline": "A cross-platform music app using YouTube Music for backend",
+  "category": "music",
+  "tags": [
+    "android",
+    "android-16",
+    "android-app",
+    "android-application",
+    "android-auto",
+    "compose-multiplatform",
+    "exoplayer",
+    "kotlin",
+    "linux",
+    "macos"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "maxrave-dev",
+    "url": "https://github.com/maxrave-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "maxrave-dev/SimpMusic",
+    "huggingface": null,
+    "homepage": "https://simpmusic.org/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 8985,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T15:36:15Z",
+    "first_commit_at": "2023-04-15T04:50:40Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5274,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:44.574573Z",
+  "last_refreshed_at": "2026-05-06T15:59:44.574576Z"
+}

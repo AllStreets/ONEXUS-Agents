@@ -1,0 +1,41 @@
+{
+  "slug": "serpentai",
+  "name": "SerpentAI",
+  "tagline": "Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "artificial-intelligence",
+    "computer-vision",
+    "deep-learning",
+    "framework",
+    "machine-learning",
+    "python",
+    "video-games"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SerpentAI",
+    "url": "https://github.com/SerpentAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SerpentAI/SerpentAI",
+    "huggingface": null,
+    "homepage": "http://serpent.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6986,
+    "downloads_30d": null,
+    "last_commit_at": "2022-11-07T01:59:31Z",
+    "first_commit_at": "2017-05-15T05:19:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2818,
+  "rank_in_category": 121,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:52:36.752177Z",
+  "last_refreshed_at": "2026-05-06T15:52:36.752180Z"
+}

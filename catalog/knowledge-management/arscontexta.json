@@ -1,0 +1,40 @@
+{
+  "slug": "arscontexta",
+  "name": "arscontexta",
+  "tagline": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own",
+  "category": "knowledge-management",
+  "tags": [
+    "claude-code",
+    "claude-code-plugin",
+    "knowledge-base",
+    "knowledge-management",
+    "markdown",
+    "second-brain"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agenticnotetaking",
+    "url": "https://github.com/agenticnotetaking"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agenticnotetaking/arscontexta",
+    "huggingface": null,
+    "homepage": "https://arscontexta.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3300,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-24T23:54:21Z",
+    "first_commit_at": "2026-02-15T17:26:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4916,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:02:20.054571Z",
+  "last_refreshed_at": "2026-05-06T16:02:20.054574Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "openship",
+  "name": "openship",
+  "tagline": "multi-channel fulfillment at scale",
+  "category": "e-commerce",
+  "tags": [
+    "3pl",
+    "e-commerce",
+    "fulfillment",
+    "marketplace-api",
+    "netlify",
+    "nextjs",
+    "oms",
+    "order-management",
+    "order-management-system",
+    "shopify"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openshiporg",
+    "url": "https://github.com/openshiporg"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openshiporg/openship",
+    "huggingface": null,
+    "homepage": "https://openship.org/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 1155,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-23T17:48:45Z",
+    "first_commit_at": "2022-08-10T05:43:29Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3669,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:58:17.518429Z",
+  "last_refreshed_at": "2026-05-06T15:58:17.518432Z"
+}

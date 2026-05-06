@@ -1,0 +1,36 @@
+{
+  "slug": "dianna",
+  "name": "dianna",
+  "tagline": "Deep Insight And Neural Network Analysis",
+  "category": "scientific-research",
+  "tags": [
+    "explainable-artificial-intelligence",
+    "scientific-research"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "dianna-ai",
+    "url": "https://github.com/dianna-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dianna-ai/dianna",
+    "huggingface": null,
+    "homepage": "https://dianna.readthedocs.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 55,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T10:37:55Z",
+    "first_commit_at": "2021-07-06T12:48:05Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.531,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:49:40.607026Z",
+  "last_refreshed_at": "2026-05-06T15:49:40.607028Z"
+}

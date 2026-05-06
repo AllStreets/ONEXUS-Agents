@@ -1,0 +1,44 @@
+{
+  "slug": "sonic-pi",
+  "name": "sonic-pi",
+  "tagline": "Code. Music. Live.",
+  "category": "music",
+  "tags": [
+    "art",
+    "audio",
+    "education",
+    "instrument",
+    "live-coding",
+    "livecoding",
+    "music",
+    "schools",
+    "synthesis",
+    "synthesizer"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sonic-pi-net",
+    "url": "https://github.com/sonic-pi-net"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sonic-pi-net/sonic-pi",
+    "huggingface": null,
+    "homepage": "https://sonic-pi.net/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 11794,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T19:07:42Z",
+    "first_commit_at": "2013-08-02T10:10:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5248,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:59:36.166612Z",
+  "last_refreshed_at": "2026-05-06T15:59:36.166614Z"
+}

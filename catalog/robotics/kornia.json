@@ -1,0 +1,44 @@
+{
+  "slug": "kornia",
+  "name": "kornia",
+  "tagline": "🐍 Geometric Computer Vision Library for Spatial AI",
+  "category": "robotics",
+  "tags": [
+    "artificial-intelligence",
+    "computer-vision",
+    "deep-learning",
+    "hacktoberfest",
+    "image-processing",
+    "machine-learning",
+    "neural-network",
+    "python",
+    "pytorch",
+    "robotics"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kornia",
+    "url": "https://github.com/kornia"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kornia/kornia",
+    "huggingface": null,
+    "homepage": "https://kornia.readthedocs.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 11195,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-03T10:30:56Z",
+    "first_commit_at": "2018-08-22T10:31:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6616,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T16:01:48.682912Z",
+  "last_refreshed_at": "2026-05-06T16:01:48.682915Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "medplum",
+  "name": "medplum",
+  "tagline": "Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.",
+  "category": "healthcare",
+  "tags": [
+    "ehr",
+    "electronic-health-record",
+    "fhir",
+    "fhir-server",
+    "graphql",
+    "healthcare",
+    "hipaa",
+    "medical",
+    "react",
+    "soc2"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "medplum",
+    "url": "https://github.com/medplum"
+  },
+  "source": {
+    "primary": "github",
+    "github": "medplum/medplum",
+    "huggingface": null,
+    "homepage": "https://medplum.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2317,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T14:14:06Z",
+    "first_commit_at": "2021-03-14T20:59:58Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.638,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:18.420276Z",
+  "last_refreshed_at": "2026-05-06T15:53:18.420280Z"
+}

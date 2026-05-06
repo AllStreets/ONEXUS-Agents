@@ -1,0 +1,44 @@
+{
+  "slug": "colon-x",
+  "name": "Colon-X",
+  "tagline": "Project COLON-X (Shaping the neXt frontier in intelligent COLONoscopy)",
+  "category": "healthcare",
+  "tags": [
+    "ai-healthcare",
+    "clinical-reasoning",
+    "colonoscopy",
+    "deepseek-r1",
+    "gastrointestinal",
+    "multimodal-benchmarks",
+    "multimodal-colonoscopy-analysis",
+    "multimodal-large-language-models",
+    "multimodal-reasoning",
+    "polyp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ai4colonoscopy",
+    "url": "https://github.com/ai4colonoscopy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ai4colonoscopy/Colon-X",
+    "huggingface": null,
+    "homepage": "https://github.com/ai4colonoscopy/Colon-X"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-02T04:18:07Z",
+    "first_commit_at": "2025-12-04T17:54:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4477,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-06T15:53:59.434317Z",
+  "last_refreshed_at": "2026-05-06T15:53:59.434320Z"
+}
