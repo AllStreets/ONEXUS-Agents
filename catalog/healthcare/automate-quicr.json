@@ -1,0 +1,44 @@
+{
+  "slug": "automate-quicr",
+  "name": "Automate-QuICR",
+  "tagline": "An end-to-end Python app that generates professional patient chart review and quality improvement reports. QuICR produces patient chart reviews, traditionally time-consuming and labor-intensive, using",
+  "category": "healthcare",
+  "tags": [
+    "chart-review",
+    "clinical-ai",
+    "electronic-medical-records",
+    "generative-ai",
+    "healthcare-application",
+    "jinja2",
+    "medical-documentation",
+    "natural-language-processing",
+    "openai-api",
+    "pdf-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MorrisGlr",
+    "url": "https://github.com/MorrisGlr"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MorrisGlr/Automate-QuICR",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-23T13:51:16Z",
+    "first_commit_at": "2025-03-29T20:10:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3761,
+  "rank_in_category": 60,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-07T15:57:47.457710Z",
+  "last_refreshed_at": "2026-05-07T15:57:47.457714Z"
+}

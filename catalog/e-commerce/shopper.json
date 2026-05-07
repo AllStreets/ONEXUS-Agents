@@ -1,0 +1,41 @@
+{
+  "slug": "shopper",
+  "name": "shopper",
+  "tagline": "Headless e-commerce administration built with Laravel to create and manage online store. ",
+  "category": "e-commerce",
+  "tags": [
+    "admin-dashboard",
+    "e-commerce",
+    "laravel",
+    "laravel-ecommerce",
+    "laravel-shopper",
+    "livewire",
+    "tailwindcss"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "shopperlabs",
+    "url": "https://github.com/shopperlabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shopperlabs/shopper",
+    "huggingface": null,
+    "homepage": "https://laravelshopper.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1156,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-04T19:48:01Z",
+    "first_commit_at": "2019-11-19T07:08:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4253,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-07T16:04:00.752001Z",
+  "last_refreshed_at": "2026-05-07T16:04:00.752005Z"
+}

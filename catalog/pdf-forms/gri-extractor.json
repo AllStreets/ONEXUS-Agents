@@ -1,0 +1,44 @@
+{
+  "slug": "gri-extractor",
+  "name": "GRI-Extractor",
+  "tagline": "A tool to automatically extract GRI disclosure codes from corporate sustainability reports, enabling efficient analysis of environmental, social, and governance (ESG) data. Supports English and Indone",
+  "category": "pdf-forms",
+  "tags": [
+    "gri",
+    "groq",
+    "llm",
+    "machine-learning",
+    "nlp",
+    "pattern-matching",
+    "pdf-extraction",
+    "python",
+    "streamlit",
+    "sustainability-developoment-goals"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rrayhka",
+    "url": "https://github.com/rrayhka"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rrayhka/GRI-Extractor",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-09T01:14:16Z",
+    "first_commit_at": "2025-06-08T04:30:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2199,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-07T16:08:24.409195Z",
+  "last_refreshed_at": "2026-05-07T16:08:24.409199Z"
+}

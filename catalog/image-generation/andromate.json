@@ -1,0 +1,40 @@
+{
+  "slug": "andromate",
+  "name": "AndroMate",
+  "tagline": "A voice‑controlled AI assistant for Termux on Android.",
+  "category": "image-generation",
+  "tags": [
+    "android-automation",
+    "image-generation-ai",
+    "no-api-key",
+    "termux",
+    "termux-ai",
+    "tgpt"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Anon4You",
+    "url": "https://github.com/Anon4You"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Anon4You/AndroMate",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-10T06:30:10Z",
+    "first_commit_at": "2026-02-22T04:08:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2563,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-07T15:42:12.650905Z",
+  "last_refreshed_at": "2026-05-07T15:42:12.650909Z"
+}

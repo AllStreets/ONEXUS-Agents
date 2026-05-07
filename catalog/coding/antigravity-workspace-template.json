@@ -1,7 +1,7 @@
 {
   "slug": "antigravity-workspace-template",
   "name": "antigravity-workspace-template",
-  "tagline": "Workspace template + MCP server for Claude Code, Codex CLI, Cursor & Windsurf. Multi-agent knowledge engine (ag-refresh / ag-ask) that turns any codebase into a queryable AI assistant.",
+  "tagline": "Multi-agent knowledge engine (ag-refresh / ag-ask) that turns any codebase into a queryable AI assistant.Workspace template + MCP server for Claude Code, Codex CLI, Cursor & Windsurf. ",
   "category": "coding",
   "tags": [
     "agentic-ai",
@@ -28,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1208,
+    "stars": 1211,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-05T11:44:38Z",
+    "last_commit_at": "2026-05-07T04:11:23Z",
     "first_commit_at": "2025-11-19T09:09:18Z"
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3071,
-  "rank_in_category": 23,
+  "composite_score": 0.3079,
+  "rank_in_category": 24,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:20:49.591995Z",
-  "last_refreshed_at": "2026-05-06T15:30:05.125720Z"
+  "last_refreshed_at": "2026-05-07T15:31:48.778834Z"
 }

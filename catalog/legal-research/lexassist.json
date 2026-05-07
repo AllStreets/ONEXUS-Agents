@@ -1,0 +1,38 @@
+{
+  "slug": "lexassist",
+  "name": "LexAssist",
+  "tagline": "🇨🇭 Assistant IA pour la recherche juridique suisse | Réduisez 30% de votre temps de recherche | 26 cantons, 4 langues",
+  "category": "legal-research",
+  "tags": [
+    "legal-research",
+    "legal-tech",
+    "swiss-law",
+    "switzerland"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "chevriercedric",
+    "url": "https://github.com/chevriercedric"
+  },
+  "source": {
+    "primary": "github",
+    "github": "chevriercedric/LexAssist",
+    "huggingface": null,
+    "homepage": "https://chevriercedric.github.io/LexAssist/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-03T00:12:50Z",
+    "first_commit_at": "2026-01-02T21:55:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0621,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-07T15:38:29.795115Z",
+  "last_refreshed_at": "2026-05-07T15:38:29.795118Z"
+}

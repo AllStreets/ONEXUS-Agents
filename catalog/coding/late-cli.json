@@ -1,19 +1,19 @@
 {
   "slug": "late-cli",
   "name": "late-cli",
-  "tagline": "Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wr",
+  "tagline": "Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs, zero context bloat. Single static binary, zero dependencies, any model.",
   "category": "coding",
   "tags": [
     "agent",
-    "ai",
     "ai-agent",
-    "ai-agents",
-    "ai-coding",
     "ai-coding-assistant",
-    "ai-skills",
+    "cli",
+    "coding-agent",
     "developer-tools",
     "golang",
-    "harness"
+    "llm",
+    "llm-orchestration",
+    "mcp"
   ],
   "author": {
     "type": "user",
@@ -28,17 +28,17 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 264,
+    "stars": 268,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-03T02:07:29Z",
+    "last_commit_at": "2026-05-06T18:25:18Z",
     "first_commit_at": "2026-02-21T16:22:08Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2252,
-  "rank_in_category": 126,
+  "composite_score": 0.2283,
+  "rank_in_category": 123,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-03T14:12:04.822074Z",
-  "last_refreshed_at": "2026-05-06T15:28:49.910187Z"
+  "last_refreshed_at": "2026-05-07T15:30:22.941493Z"
 }
