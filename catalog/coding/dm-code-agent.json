@@ -1,0 +1,44 @@
+{
+  "slug": "dm-code-agent",
+  "name": "DM-Code-Agent",
+  "tagline": "Lightweight, auditable Python code agent (~1500 LOC) — ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   eval and trace replay.",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "agent-evaluation",
+    "agent-skills",
+    "code-agent",
+    "llm",
+    "llm-agent",
+    "mcp",
+    "rag",
+    "react-agent",
+    "reflexion-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hwfengcs",
+    "url": "https://github.com/hwfengcs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hwfengcs/DM-Code-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 134,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T13:58:06Z",
+    "first_commit_at": "2025-09-30T04:07:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2287,
+  "rank_in_category": 121,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-07T15:30:40.628029Z",
+  "last_refreshed_at": "2026-05-07T15:30:40.628033Z"
+}

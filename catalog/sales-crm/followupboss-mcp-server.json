@@ -1,0 +1,44 @@
+{
+  "slug": "followupboss-mcp-server",
+  "name": "followupboss-mcp-server",
+  "tagline": "Talk to your Follow Up Boss CRM in plain English. 159-tool MCP server for realtors, built by a working broker (Neuhaus Realty Group, Austin TX). Free self-host, ELv2 licensed.",
+  "category": "sales-crm",
+  "tags": [
+    "ai-for-realtors",
+    "ai-tools",
+    "anthropic",
+    "austin-tx",
+    "broker",
+    "claude",
+    "claude-ai",
+    "crm",
+    "crm-ai",
+    "follow-up-boss"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mindwear-capitian",
+    "url": "https://github.com/mindwear-capitian"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mindwear-capitian/followupboss-mcp-server",
+    "huggingface": null,
+    "homepage": "https://neuhausre.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T18:54:20Z",
+    "first_commit_at": "2026-02-23T14:38:45Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5009,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-07T16:01:17.125088Z",
+  "last_refreshed_at": "2026-05-07T16:01:17.125093Z"
+}

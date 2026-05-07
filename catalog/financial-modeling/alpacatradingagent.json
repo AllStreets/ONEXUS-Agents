@@ -3,7 +3,18 @@
   "name": "AlpacaTradingAgent",
   "tagline": "AlpacaTradingAgent: Multi-Agents LLM Financial Trading Framework and perform trades on alpaca",
   "category": "financial-modeling",
-  "tags": [],
+  "tags": [
+    "ai-agents",
+    "algorithmic-trading",
+    "alpaca",
+    "alpaca-api",
+    "automated-trading",
+    "crypto-trading",
+    "dash",
+    "financial-analysis",
+    "fintech",
+    "langgraph"
+  ],
   "author": {
     "type": "user",
     "handle": "huygiatrng",
@@ -17,17 +28,17 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 187,
+    "stars": 190,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-04T04:24:55Z",
+    "last_commit_at": "2026-05-07T03:52:47Z",
     "first_commit_at": "2024-12-28T03:32:06Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3945,
-  "rank_in_category": 16,
+  "composite_score": 0.3982,
+  "rank_in_category": 15,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:26:07.685666Z",
-  "last_refreshed_at": "2026-05-06T15:35:06.386182Z"
+  "last_refreshed_at": "2026-05-07T15:37:26.346822Z"
 }

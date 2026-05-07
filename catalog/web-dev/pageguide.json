@@ -1,0 +1,38 @@
+{
+  "slug": "pageguide",
+  "name": "pageguide",
+  "tagline": "Explainable Web Assistant - Safe, Fun, Efficient",
+  "category": "web-dev",
+  "tags": [
+    "explainable-web-agent",
+    "grounding",
+    "safety",
+    "web-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tin-xai",
+    "url": "https://github.com/tin-xai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tin-xai/pageguide",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T19:57:02Z",
+    "first_commit_at": "2025-12-31T22:32:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2581,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-07T15:33:01.258887Z",
+  "last_refreshed_at": "2026-05-07T15:33:01.258891Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "koreanpulse",
+  "name": "koreanpulse",
+  "tagline": "English-first Korean equity intelligence MCP — DART filings, foreign-holder 5%-rule flows, activist filings, KRX news. For Claude Desktop / Cursor / FastMCP trading agents.",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-trading",
+    "chatgpt",
+    "claude-ai",
+    "claude-desktop",
+    "cursor",
+    "dart",
+    "fastmcp",
+    "hedge-fund",
+    "korean-equity",
+    "korean-news"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "whdrnr2583-cmd",
+    "url": "https://github.com/whdrnr2583-cmd"
+  },
+  "source": {
+    "primary": "github",
+    "github": "whdrnr2583-cmd/koreanpulse",
+    "huggingface": null,
+    "homepage": "https://koreanpulse.dev/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T13:46:36Z",
+    "first_commit_at": "2026-05-05T07:48:40Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2701,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-07T15:35:51.383760Z",
+  "last_refreshed_at": "2026-05-07T15:35:51.383764Z"
+}

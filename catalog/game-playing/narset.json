@@ -1,0 +1,37 @@
+{
+  "slug": "narset",
+  "name": "narset",
+  "tagline": "IS-MCTS agent for Legends of Code and Magic (WIP)",
+  "category": "game-playing",
+  "tags": [
+    "game-playing",
+    "legends-of-code-and-magic",
+    "monte-carlo-tree-search"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ronaldosvieira",
+    "url": "https://github.com/ronaldosvieira"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ronaldosvieira/narset",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2021-06-02T17:13:05Z",
+    "first_commit_at": "2019-09-25T13:44:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.21,
+  "rank_in_category": 52,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-07T16:06:53.006404Z",
+  "last_refreshed_at": "2026-05-07T16:06:53.006408Z"
+}

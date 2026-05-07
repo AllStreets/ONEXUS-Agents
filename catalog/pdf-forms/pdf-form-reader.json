@@ -1,0 +1,44 @@
+{
+  "slug": "pdf-form-reader",
+  "name": "PDF-Form-Reader",
+  "tagline": "This Python script extracts information from PDF forms using OCR (Optical Character Recognition) and saves the extracted data into an Excel file. It is particularly designed for processing forms with ",
+  "category": "pdf-forms",
+  "tags": [
+    "csv-export",
+    "forms",
+    "graphical-checkboxes",
+    "ocr-text-reader",
+    "openpyxl",
+    "pdf-document-processor",
+    "pdf-forms",
+    "pillow",
+    "pymupdf-fitz",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "atthharvva",
+    "url": "https://github.com/atthharvva"
+  },
+  "source": {
+    "primary": "github",
+    "github": "atthharvva/PDF-Form-Reader",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2025-01-09T07:12:00Z",
+    "first_commit_at": "2024-12-30T05:26:37Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2122,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-07T16:08:37.641990Z",
+  "last_refreshed_at": "2026-05-07T16:08:37.641994Z"
+}
