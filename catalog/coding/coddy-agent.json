@@ -1,7 +1,7 @@
 {
   "slug": "coddy-agent",
   "name": "coddy-agent",
-  "tagline": "Open-source ReAct AI coding agent in Go with TUI. Works with Cursor, Zed via ACP. Supports any OpenAI-compatible providers. Can use SKILLS and MCP servers.",
+  "tagline": "Open-source distroless harness coding agent in Go. Works with Cursor, Zed via ACP. Supports any OpenAI-compatible providers. Can use SKILLS and MCP servers.",
   "category": "coding",
   "tags": [
     "acp",
@@ -30,15 +30,15 @@
   "metrics": {
     "stars": 7,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-07T08:18:31Z",
+    "last_commit_at": "2026-05-07T21:07:39Z",
     "first_commit_at": "2026-03-23T06:49:03Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.172,
-  "rank_in_category": 179,
+  "composite_score": 0.1716,
+  "rank_in_category": 181,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:19:50.268639Z",
-  "last_refreshed_at": "2026-05-07T15:30:51.725843Z"
+  "last_refreshed_at": "2026-05-08T14:53:27.879240Z"
 }

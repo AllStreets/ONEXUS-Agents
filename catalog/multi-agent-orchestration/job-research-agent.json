@@ -1,0 +1,40 @@
+{
+  "slug": "job-research-agent",
+  "name": "job-research-agent",
+  "tagline": "An AI-powered multi-agent system that researches companies and generates personalized cover letters using CrewAI and Groq",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "crewai",
+    "groq-llm",
+    "langchain",
+    "multi-agent-orchestration",
+    "python",
+    "serper-api"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "YashRM27",
+    "url": "https://github.com/YashRM27"
+  },
+  "source": {
+    "primary": "github",
+    "github": "YashRM27/job-research-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T13:26:34Z",
+    "first_commit_at": "2026-04-28T13:02:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2202,
+  "rank_in_category": 133,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-08T15:20:10.471890Z",
+  "last_refreshed_at": "2026-05-08T15:20:10.471893Z"
+}

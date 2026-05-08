@@ -1,0 +1,44 @@
+{
+  "slug": "cognitive-companion",
+  "name": "cognitive-companion",
+  "tagline": "A privacy-first, on-premise AI system for senior care in multigenerational households.",
+  "category": "healthcare",
+  "tags": [
+    "cognitive-science",
+    "dementia-care",
+    "healthcare-ai",
+    "local",
+    "offline-ai",
+    "privacy-focused",
+    "senior-care",
+    "sensor-fusion",
+    "vision",
+    "vision-language-model"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SilverMind-Project",
+    "url": "https://github.com/SilverMind-Project"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SilverMind-Project/cognitive-companion",
+    "huggingface": null,
+    "homepage": "https://silvermind-project.github.io/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-08T04:46:47Z",
+    "first_commit_at": "2026-03-25T11:27:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4362,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-08T15:22:09.563730Z",
+  "last_refreshed_at": "2026-05-08T15:22:09.563733Z"
+}

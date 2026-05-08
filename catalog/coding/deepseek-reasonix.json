@@ -1,0 +1,44 @@
+{
+  "slug": "deepseek-reasonix",
+  "name": "DeepSeek-Reasonix",
+  "tagline": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "agent-framework",
+    "ai-agent",
+    "ai-coding",
+    "cli",
+    "coding-agent",
+    "deepseek",
+    "developer-tools",
+    "ink",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "esengine",
+    "url": "https://github.com/esengine"
+  },
+  "source": {
+    "primary": "github",
+    "github": "esengine/DeepSeek-Reasonix",
+    "huggingface": null,
+    "homepage": "https://esengine.github.io/DeepSeek-Reasonix/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 703,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-08T14:31:55Z",
+    "first_commit_at": "2026-04-21T08:25:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2398,
+  "rank_in_category": 114,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-08T14:52:26.225694Z",
+  "last_refreshed_at": "2026-05-08T14:52:26.225697Z"
+}

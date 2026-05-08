@@ -1,7 +1,7 @@
 {
   "slug": "legal-agent-orchestrator",
   "name": "legal-agent-orchestrator",
-  "tagline": "An AI legal workflow running on Claude Code. Eight legal agents — each with their own jurisdiction, knowledge base, and MCP tools — collaborate to produce legal opinions with full audit trails.",
+  "tagline": "An AI legal workflow running on Claude Code. Four legal agents — each with their own jurisdiction, knowledge base, and MCP tools — collaborate to produce legal opinions with full audit trails.",
   "category": "legal-research",
   "tags": [],
   "author": {
@@ -17,17 +17,17 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 31,
+    "stars": 32,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-07T09:03:01Z",
+    "last_commit_at": "2026-05-08T09:08:51Z",
     "first_commit_at": "2026-04-10T02:31:05Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2214,
+  "composite_score": 0.2222,
   "rank_in_category": 11,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:27:13.499321Z",
-  "last_refreshed_at": "2026-05-07T15:38:32.893521Z"
+  "last_refreshed_at": "2026-05-08T15:00:56.363425Z"
 }

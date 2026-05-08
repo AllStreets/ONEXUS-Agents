@@ -1,0 +1,41 @@
+{
+  "slug": "beacon-ai",
+  "name": "beacon-ai",
+  "tagline": "Beacon AI is a demo application of 24/7 customer service agent that can triage the inquiries and resolve them or mark for human review and escalade them.",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "chatgpt",
+    "claude",
+    "customer-service-ai",
+    "llm",
+    "triage-ai-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ThisIsAlish",
+    "url": "https://github.com/ThisIsAlish"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ThisIsAlish/beacon-ai",
+    "huggingface": null,
+    "homepage": "https://beacon-ai-mu.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-08T08:25:26Z",
+    "first_commit_at": "2026-05-05T02:43:47Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3598,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-08T15:01:07.092942Z",
+  "last_refreshed_at": "2026-05-08T15:01:07.092945Z"
+}
