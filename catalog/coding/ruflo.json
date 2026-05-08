@@ -1,0 +1,44 @@
+{
+  "slug": "ruflo",
+  "name": "ruflo",
+  "tagline": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite",
+  "category": "coding",
+  "tags": [
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-rag",
+    "agentic-workflow",
+    "agents",
+    "ai-agent",
+    "ai-assistant",
+    "ai-coding",
+    "ai-skills",
+    "anthropic-claude"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ruvnet",
+    "url": "https://github.com/ruvnet"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ruvnet/ruflo",
+    "huggingface": null,
+    "homepage": "https://cognitum.one/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 46626,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T17:15:21Z",
+    "first_commit_at": "2025-06-02T21:24:20Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.374,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-08T14:54:04.512755Z",
+  "last_refreshed_at": "2026-05-08T14:54:04.512758Z"
+}
