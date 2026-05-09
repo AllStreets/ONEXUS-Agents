@@ -1,0 +1,43 @@
+{
+  "slug": "ade-document-processing-skills",
+  "name": "ade-document-processing-skills",
+  "tagline": "Agent skills for LandingAI's Agentic Document Extraction (ADE) — production-ready document AI for agentic coding assistants",
+  "category": "document-processing",
+  "tags": [
+    "ade",
+    "agent-skills",
+    "claude",
+    "document-extraction",
+    "document-processing",
+    "landingai",
+    "ocr",
+    "pdf-parsing",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "landing-ai",
+    "url": "https://github.com/landing-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "landing-ai/ade-document-processing-skills",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T16:55:39Z",
+    "first_commit_at": "2026-03-13T21:11:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3653,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-09T14:35:00.032559Z",
+  "last_refreshed_at": "2026-05-09T14:35:00.032563Z"
+}

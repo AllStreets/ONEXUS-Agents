@@ -1,0 +1,44 @@
+{
+  "slug": "miniharvery",
+  "name": "MiniHarvery",
+  "tagline": "AI research workbench for Indian law — ask a plain-English question, get a structured legal brief with live citations from Indian Kanoon, India Code, and Google CSE. FastAPI + React + Cloudflare LLaMA",
+  "category": "legal-research",
+  "tags": [
+    "ai",
+    "clerk",
+    "cloudflare-ai",
+    "cloudflare-workers-ai",
+    "fastapi",
+    "indian-kanoon",
+    "indian-law",
+    "legal-research",
+    "legal-tech",
+    "llama"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "paritoshtripathi935",
+    "url": "https://github.com/paritoshtripathi935"
+  },
+  "source": {
+    "primary": "github",
+    "github": "paritoshtripathi935/MiniHarvery",
+    "huggingface": null,
+    "homepage": "https://mini-harvey.netlify.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-09T14:11:35Z",
+    "first_commit_at": "2026-04-18T12:35:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1414,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-09T14:25:14.098303Z",
+  "last_refreshed_at": "2026-05-09T14:25:14.098306Z"
+}
