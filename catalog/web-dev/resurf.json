@@ -1,0 +1,39 @@
+{
+  "slug": "resurf",
+  "name": "resurf",
+  "tagline": "A deterministic, reproducible test environment for AI browser agents",
+  "category": "web-dev",
+  "tags": [
+    "ai-agents",
+    "browser-agent",
+    "llm",
+    "playwright",
+    "web-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "lightfeed",
+    "url": "https://github.com/lightfeed"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lightfeed/resurf",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T08:17:00Z",
+    "first_commit_at": "2026-05-06T07:07:18Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2537,
+  "rank_in_category": 69,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-09T14:20:52.233324Z",
+  "last_refreshed_at": "2026-05-09T14:20:52.233328Z"
+}

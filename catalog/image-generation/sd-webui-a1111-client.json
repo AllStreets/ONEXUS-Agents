@@ -1,0 +1,44 @@
+{
+  "slug": "sd-webui-a1111-client",
+  "name": "sd-webui-a1111-client",
+  "tagline": "API client for AUTOMATIC111/stable-diffusion-webui for nodejs/browser",
+  "category": "image-generation",
+  "tags": [
+    "a1111-stable-diffusion-webui",
+    "a1111-webui",
+    "api",
+    "image-generation",
+    "image-generation-ai",
+    "js",
+    "sd",
+    "sdxl",
+    "stable-diffusion",
+    "stable-diffusion-webui"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "StableCanvas",
+    "url": "https://github.com/StableCanvas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "StableCanvas/sd-webui-a1111-client",
+    "huggingface": null,
+    "homepage": "https://stablecanvas.github.io/sd-webui-a1111-client/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-14T08:29:35Z",
+    "first_commit_at": "2023-07-20T07:48:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1161,
+  "rank_in_category": 121,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-09T14:28:38.498701Z",
+  "last_refreshed_at": "2026-05-09T14:28:38.498705Z"
+}

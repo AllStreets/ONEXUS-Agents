@@ -1,0 +1,44 @@
+{
+  "slug": "awesome-trading-agents",
+  "name": "awesome-trading-agents",
+  "tagline": "Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.",
+  "category": "financial-modeling",
+  "tags": [
+    "agent-skills",
+    "agentic-ai",
+    "ai-trading",
+    "awesome",
+    "awesome-list",
+    "claude-skills",
+    "financial-ai",
+    "fintech",
+    "llm-agents",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "LLMQuant",
+    "url": "https://github.com/LLMQuant"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LLMQuant/awesome-trading-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "CC0-1.0",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-09T13:47:50Z",
+    "first_commit_at": "2026-05-07T18:07:26Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3451,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-09T14:23:18.439416Z",
+  "last_refreshed_at": "2026-05-09T14:23:18.439420Z"
+}
