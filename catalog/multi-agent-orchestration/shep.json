@@ -1,0 +1,44 @@
+{
+  "slug": "shep",
+  "name": "shep",
+  "tagline": "Ship features 10x faster. Burn tokens at scale. 😈",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "agentic-ai",
+    "ai",
+    "ai-agents",
+    "ai-code-generation",
+    "ai-coding",
+    "ai-native",
+    "automation",
+    "claude",
+    "claude-code"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "shep-ai",
+    "url": "https://github.com/shep-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shep-ai/shep",
+    "huggingface": null,
+    "homepage": "https://shep.bot/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 174,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-08T13:03:02Z",
+    "first_commit_at": "2026-02-01T22:56:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.317,
+  "rank_in_category": 107,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-10T14:40:25.550390Z",
+  "last_refreshed_at": "2026-05-10T14:40:25.550394Z"
+}

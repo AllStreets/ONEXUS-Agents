@@ -1,0 +1,44 @@
+{
+  "slug": "duchifat-2-1-instruct",
+  "name": "Duchifat-2.1-Instruct",
+  "tagline": "razielAI/Duchifat-2.1-Instruct — text-generation",
+  "category": "music",
+  "tags": [
+    "transformers",
+    "safetensors",
+    "duchifat_v2",
+    "text-generation",
+    "duchifat",
+    "agent",
+    "chemistry",
+    "biology",
+    "art",
+    "medical"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "razielAI",
+    "url": "https://huggingface.co/razielAI"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "razielAI/Duchifat-2.1-Instruct",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 36,
+    "last_commit_at": "2026-04-01T11:39:24Z",
+    "first_commit_at": "2026-04-01T07:14:54Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4465,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-10T14:47:47.813686Z",
+  "last_refreshed_at": "2026-05-10T14:47:47.813688Z"
+}

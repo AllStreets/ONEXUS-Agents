@@ -1,0 +1,44 @@
+{
+  "slug": "kreuzberg-cloud",
+  "name": "kreuzberg-cloud",
+  "tagline": "Cloud-native document extraction platform — SaaS at kreuzberg.dev or self-host on any Kubernetes cluster. 90+ formats, REST API, webhooks. Built on Kreuzberg.",
+  "category": "document-processing",
+  "tags": [
+    "api",
+    "axum",
+    "busl",
+    "cloud-native",
+    "document-extraction",
+    "document-processing",
+    "helm",
+    "kreuzberg",
+    "kubernetes",
+    "microservices"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kreuzberg-dev",
+    "url": "https://github.com/kreuzberg-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kreuzberg-dev/kreuzberg-cloud",
+    "huggingface": null,
+    "homepage": "https://kreuzberg.dev/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-10T14:32:53Z",
+    "first_commit_at": "2025-11-24T20:51:52Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4111,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-10T14:35:36.527050Z",
+  "last_refreshed_at": "2026-05-10T14:35:36.527054Z"
+}

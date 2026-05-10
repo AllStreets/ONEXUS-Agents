@@ -1,0 +1,44 @@
+{
+  "slug": "portfolio-research-agent",
+  "name": "portfolio-research-agent",
+  "tagline": "A full-stack web application where a user submits a research question and a multi-agent system autonomously plans, searches, retrieves, summarizes, and synthesizes a structured report - with every age",
+  "category": "scientific-research",
+  "tags": [
+    "agentic-ai",
+    "fastapi",
+    "full-stack",
+    "fullstack",
+    "langchain",
+    "langgraph",
+    "multi-agent",
+    "nextjs",
+    "portfolio",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "vectorleap-pulse",
+    "url": "https://github.com/vectorleap-pulse"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vectorleap-pulse/portfolio-research-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-09T19:53:22Z",
+    "first_commit_at": "2026-05-09T12:58:39Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3712,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-10T14:38:16.092720Z",
+  "last_refreshed_at": "2026-05-10T14:38:16.092722Z"
+}

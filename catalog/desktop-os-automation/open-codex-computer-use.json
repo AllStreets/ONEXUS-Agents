@@ -1,0 +1,44 @@
+{
+  "slug": "open-codex-computer-use",
+  "name": "open-codex-computer-use",
+  "tagline": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
+  "category": "desktop-os-automation",
+  "tags": [
+    "accessibility",
+    "ai-agent",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "codex-computer-use",
+    "computer-use",
+    "computer-use-agent",
+    "cross-platform",
+    "cua"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "iFurySt",
+    "url": "https://github.com/iFurySt"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iFurySt/open-codex-computer-use",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 701,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-10T03:39:39Z",
+    "first_commit_at": "2026-04-17T05:00:42Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3878,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-10T14:34:35.346732Z",
+  "last_refreshed_at": "2026-05-10T14:34:35.346735Z"
+}
