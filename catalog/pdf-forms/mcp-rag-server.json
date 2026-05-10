@@ -1,0 +1,44 @@
+{
+  "slug": "mcp-rag-server",
+  "name": "mcp-rag-server",
+  "tagline": "Lightweight RAG server for the Model Context Protocol: ingest source code, docs, build a vector index, and expose search/citations to LLMs via MCP tools.",
+  "category": "pdf-forms",
+  "tags": [
+    "code-search",
+    "embeddings",
+    "huggingface",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "nodejs",
+    "openai-compatible",
+    "pdf-extraction",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Daniel-Barta",
+    "url": "https://github.com/Daniel-Barta"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Daniel-Barta/mcp-rag-server",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-08T20:34:21Z",
+    "first_commit_at": "2025-09-05T17:08:37Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.476,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-10T14:49:02.874387Z",
+  "last_refreshed_at": "2026-05-10T14:49:02.874390Z"
+}

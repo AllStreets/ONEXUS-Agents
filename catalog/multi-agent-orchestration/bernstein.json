@@ -4,16 +4,16 @@
   "tagline": "Deterministic orchestrator for 40+ CLI AI agents. Git worktree isolation, HMAC audit trail, MCP server mode. https://bernstein.run",
   "category": "multi-agent-orchestration",
   "tags": [
-    "a2a-protocol",
     "agent-framework",
-    "agent-orchestration",
-    "agentic-ai",
-    "agentic-workflow",
+    "agent-orchestrator",
     "ai-agents",
     "ai-coding",
-    "autonomous-agents",
+    "aider",
     "claude-code",
-    "cli-tool"
+    "cli-agent-orchestrator",
+    "cli-tool",
+    "codex-cli",
+    "coding-agent"
   ],
   "author": {
     "type": "org",
@@ -28,17 +28,17 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 292,
+    "stars": 307,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-08T15:00:56Z",
+    "last_commit_at": "2026-05-10T12:34:16Z",
     "first_commit_at": "2026-03-29T16:54:46Z"
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3726,
-  "rank_in_category": 60,
+  "composite_score": 0.3744,
+  "rank_in_category": 57,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:51:51.530031Z",
-  "last_refreshed_at": "2026-05-08T15:19:39.829799Z"
+  "last_refreshed_at": "2026-05-10T14:40:27.169785Z"
 }

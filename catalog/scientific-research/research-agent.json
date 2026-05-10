@@ -1,44 +1,44 @@
 {
   "slug": "research-agent",
-  "name": "research-agent",
-  "tagline": "An autonomous AI research assistant that runs from the system tray. It uses LangChain to plan, browse, and synthesize web data into comprehensive Markdown reports using local (LM Studio) or cloud LLMs",
+  "name": "Research-Agent",
+  "tagline": "Autonomous research agent — 10 sources in parallel, self-correcting loop, exports PDF/Word/HTML. Powered by LangGraph + Ollama.",
   "category": "scientific-research",
   "tags": [
-    "agentic-workflow",
-    "ai-agents",
-    "autonomous-agents",
-    "cypherpk",
-    "deep-search",
-    "duckduckgo-search",
-    "generative-ai",
-    "langchain-python",
+    "ai-agent",
+    "artificial-intelligence",
+    "arxiv",
+    "autonomous-agent",
+    "chromadb",
+    "langchain",
+    "langgraph",
     "llm",
-    "open-source"
+    "multi-source-search",
+    "ollama"
   ],
   "author": {
     "type": "user",
-    "handle": "PavanKumarVattikuti",
-    "url": "https://github.com/PavanKumarVattikuti"
+    "handle": "RobertoDeLaCamara",
+    "url": "https://github.com/RobertoDeLaCamara"
   },
   "source": {
     "primary": "github",
-    "github": "PavanKumarVattikuti/research-agent",
+    "github": "RobertoDeLaCamara/Research-Agent",
     "huggingface": null,
     "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 2,
+    "stars": 4,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-08T15:04:31Z",
-    "first_commit_at": "2026-02-21T17:41:13Z"
+    "last_commit_at": "2026-05-10T12:30:15Z",
+    "first_commit_at": "2025-10-13T09:45:52Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3657,
-  "rank_in_category": 62,
+  "composite_score": 0.4011,
+  "rank_in_category": 46,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-01T14:40:52.362377Z",
-  "last_refreshed_at": "2026-05-08T15:16:49.924505Z"
+  "first_seen_at": "2026-05-10T14:38:15.439389Z",
+  "last_refreshed_at": "2026-05-10T14:38:15.439391Z"
 }

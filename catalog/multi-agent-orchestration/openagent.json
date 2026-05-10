@@ -4,7 +4,6 @@
   "tagline": "⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org",
   "category": "multi-agent-orchestration",
   "tags": [
-    "a2a",
     "agent",
     "agentic",
     "agentic-ai",
@@ -13,6 +12,7 @@
     "chatgpt",
     "gpt",
     "harness",
+    "hermes-agent",
     "knowledge-base"
   ],
   "author": {
@@ -28,17 +28,17 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 4596,
+    "stars": 4633,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-08T14:38:55Z",
+    "last_commit_at": "2026-05-10T14:31:57Z",
     "first_commit_at": "2023-06-22T07:46:47Z"
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4639,
+  "composite_score": 0.4651,
   "rank_in_category": 5,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:29:15.114526Z",
-  "last_refreshed_at": "2026-05-08T15:18:58.211961Z"
+  "last_refreshed_at": "2026-05-10T14:39:50.811262Z"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "wrenai",
   "name": "WrenAI",
-  "tagline": "The open context layer that gives AI agents grounded, governed SQL across 20+ data sources.",
+  "tagline": "The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, dashboards, and advanced analytics.",
   "category": "sql-analytics",
   "tags": [
     "agent",
@@ -10,10 +10,10 @@
     "charts",
     "context-engineering",
     "duckdb",
+    "genbi",
     "llm",
     "openai",
-    "postgresql",
-    "rag"
+    "postgresql"
   ],
   "author": {
     "type": "org",
@@ -24,21 +24,21 @@
     "primary": "github",
     "github": "Canner/WrenAI",
     "huggingface": null,
-    "homepage": "https://getwren.ai/oss"
+    "homepage": "https://docs.getwren.ai/oss/introduction"
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 15107,
+    "stars": 15158,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-08T11:33:04Z",
+    "last_commit_at": "2026-05-09T15:27:51Z",
     "first_commit_at": "2024-03-13T06:18:20Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4509,
+  "composite_score": 0.4511,
   "rank_in_category": 3,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:31:57.447441Z",
-  "last_refreshed_at": "2026-05-08T15:32:29.775207Z"
+  "last_refreshed_at": "2026-05-10T14:49:19.650100Z"
 }
