@@ -1,0 +1,44 @@
+{
+  "slug": "browseruse-agent-bench",
+  "name": "browseruse-agent-bench",
+  "tagline": "Real-world browser-agent benchmark: 210 tasks across 107 websites, multi-agent/multi-browser evaluation, reproducible leaderboard and result submissions.",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "agent-evaluation",
+    "ai-agents",
+    "benchmark",
+    "browser-agent",
+    "browser-automation",
+    "browseruse",
+    "computer-use",
+    "leaderboard",
+    "lexbench"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "lexmount",
+    "url": "https://github.com/lexmount"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lexmount/browseruse-agent-bench",
+    "huggingface": null,
+    "homepage": "https://lexmount.github.io/browseruse-agent-bench/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-11T15:58:37Z",
+    "first_commit_at": "2026-05-09T03:49:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2634,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-11T16:01:20.730611Z",
+  "last_refreshed_at": "2026-05-11T16:01:20.730614Z"
+}

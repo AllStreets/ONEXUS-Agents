@@ -1,44 +1,44 @@
 {
   "slug": "ai-trading-agent",
   "name": "ai-trading-agent",
-  "tagline": "Agentic AI involves several key components. This is an AI Agent for trading.These agents typically use reinforcement learning (RL) methods to optimize their behaviour over time through interactions wi",
+  "tagline": "Build your own AI hedge fund with Claude, Codex, Cursor & OpenClaw. The agent-native skills directory for Trader Dev MCP — write Pine Script, backtest crypto strategies, optimize parameters.",
   "category": "financial-modeling",
   "tags": [
-    "agentic-ai",
+    "ai-trader",
     "ai-trading",
-    "deep-q-network",
-    "dqn",
-    "financial-ai",
-    "openai-gym",
-    "quantitative-trading",
-    "reinforcement-learning",
-    "rl-agents",
-    "stock-market"
+    "ai-trading-agent",
+    "ai-trading-agents",
+    "algorithmic-trading",
+    "backtesting",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "codex"
   ],
   "author": {
-    "type": "user",
-    "handle": "zahramh99",
-    "url": "https://github.com/zahramh99"
+    "type": "org",
+    "handle": "DaviddTech",
+    "url": "https://github.com/DaviddTech"
   },
   "source": {
     "primary": "github",
-    "github": "zahramh99/ai-trading-agent",
+    "github": "DaviddTech/ai-trading-agent",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://trader.dev/"
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
     "stars": 1,
     "downloads_30d": null,
-    "last_commit_at": "2025-04-08T21:34:42Z",
-    "first_commit_at": "2025-04-08T21:19:20Z"
+    "last_commit_at": "2026-05-11T06:20:42Z",
+    "first_commit_at": "2026-05-10T20:00:26Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.0484,
-  "rank_in_category": 159,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2694,
+  "rank_in_category": 53,
   "discovered_via": "auto",
-  "first_seen_at": "2026-04-30T03:24:59.491214Z",
-  "last_refreshed_at": "2026-05-10T14:25:47.807452Z"
+  "first_seen_at": "2026-05-11T16:05:09.905095Z",
+  "last_refreshed_at": "2026-05-11T16:05:09.905098Z"
 }

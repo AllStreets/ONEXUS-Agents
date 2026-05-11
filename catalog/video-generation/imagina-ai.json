@@ -1,0 +1,44 @@
+{
+  "slug": "imagina-ai",
+  "name": "Imagina-AI",
+  "tagline": "Turn a single theme into a cinematic short film, a local-first pipeline that drafts the script, storyboards each scene, renders the video, and lip-syncs the voiceover, with graceful fallback to cloud ",
+  "category": "video-generation",
+  "tags": [
+    "ai-video-generation",
+    "cinematic-video",
+    "diffusers",
+    "fastapi",
+    "gemini",
+    "generative-ai",
+    "kokoro-tts",
+    "lip-sync",
+    "ltx-video",
+    "mlx"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "himanshumahajan138",
+    "url": "https://github.com/himanshumahajan138"
+  },
+  "source": {
+    "primary": "github",
+    "github": "himanshumahajan138/Imagina-AI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-11T07:20:55Z",
+    "first_commit_at": "2025-09-14T04:55:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4293,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-11T16:14:19.978099Z",
+  "last_refreshed_at": "2026-05-11T16:14:19.978102Z"
+}
