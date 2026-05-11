@@ -1,0 +1,44 @@
+{
+  "slug": "kandev",
+  "name": "kandev",
+  "tagline": "AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "acp",
+    "agent-orchestration",
+    "agentic-ai",
+    "agentic-development-environment",
+    "ai-agents",
+    "claude-code",
+    "code-review",
+    "coding-agents",
+    "developer-tools",
+    "github-copilot"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kdlbs",
+    "url": "https://github.com/kdlbs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kdlbs/kandev",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 176,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-11T16:14:27Z",
+    "first_commit_at": "2026-01-10T01:30:24Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.321,
+  "rank_in_category": 106,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-11T16:28:48.163521Z",
+  "last_refreshed_at": "2026-05-11T16:28:48.163525Z"
+}

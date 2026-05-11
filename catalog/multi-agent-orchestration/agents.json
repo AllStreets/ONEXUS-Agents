@@ -1,44 +1,44 @@
 {
   "slug": "agents",
   "name": "agents",
-  "tagline": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+  "tagline": "Intelligent automation and multi-agent orchestration for Claude Code",
   "category": "multi-agent-orchestration",
   "tags": [
-    "agent",
-    "agent-builder",
-    "agent-framework",
-    "agents-sdk",
-    "ai",
-    "ai-agent",
-    "ai-agents",
-    "aiagentframework",
-    "developer-sdk",
-    "inkeep"
+    "agents",
+    "anthropic",
+    "anthropic-claude",
+    "automation",
+    "claude",
+    "claude-code",
+    "claude-code-cli",
+    "claude-code-commands",
+    "claude-code-plugin",
+    "claude-code-plugins"
   ],
   "author": {
-    "type": "org",
-    "handle": "inkeep",
-    "url": "https://github.com/inkeep"
+    "type": "user",
+    "handle": "wshobson",
+    "url": "https://github.com/wshobson"
   },
   "source": {
     "primary": "github",
-    "github": "inkeep/agents",
+    "github": "wshobson/agents",
     "huggingface": null,
-    "homepage": "https://docs.inkeep.com/"
+    "homepage": "https://sethhobson.com/"
   },
-  "license": "NOASSERTION",
+  "license": "MIT",
   "metrics": {
-    "stars": 1132,
+    "stars": 35197,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-09T07:03:18Z",
-    "first_commit_at": "2025-09-05T12:34:49Z"
+    "last_commit_at": "2026-05-09T15:16:30Z",
+    "first_commit_at": "2025-07-24T23:29:24Z"
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.408,
-  "rank_in_category": 24,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4152,
+  "rank_in_category": 21,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-06T15:51:36.939392Z",
-  "last_refreshed_at": "2026-05-10T14:40:09.611294Z"
+  "first_seen_at": "2026-05-11T16:29:22.134833Z",
+  "last_refreshed_at": "2026-05-11T16:29:22.134836Z"
 }

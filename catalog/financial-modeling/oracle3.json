@@ -1,19 +1,19 @@
 {
   "slug": "oracle3",
   "name": "oracle3",
-  "tagline": "Autonomous prediction market trading agent deploying Wang Transform pricing across Kalshi, Polymarket & Solana",
+  "tagline": "Autonomous prediction market trading agent | Wang Transform pricing engine calibrated on 291K+ contracts | Kalshi · Polymarket · Solana DFlow · Jito bundles · 633 tests",
   "category": "financial-modeling",
   "tags": [
     "ai-agent",
     "algorithmic-trading",
     "arbitrage",
+    "autonomous-agent",
+    "defi-trading",
     "dflow",
+    "hierarchical-mle",
+    "jito-bundles",
     "kalshi",
-    "kelly-criterion",
-    "llm",
-    "on-chain",
-    "polymarket",
-    "prediction-market"
+    "kelly-criterion"
   ],
   "author": {
     "type": "user",
@@ -28,17 +28,17 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 168,
+    "stars": 208,
     "downloads_30d": null,
-    "last_commit_at": "2026-03-28T15:26:41Z",
+    "last_commit_at": "2026-05-08T07:48:25Z",
     "first_commit_at": "2026-02-28T20:20:13Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2929,
-  "rank_in_category": 47,
+  "composite_score": 0.3546,
+  "rank_in_category": 26,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:26:08.474605Z",
-  "last_refreshed_at": "2026-05-06T15:35:07.119720Z"
+  "last_refreshed_at": "2026-05-11T16:07:02.539235Z"
 }

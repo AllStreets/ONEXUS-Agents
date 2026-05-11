@@ -1,0 +1,39 @@
+{
+  "slug": "mira",
+  "name": "MIRA",
+  "tagline": "Autonomous investing research agent that researches the market, develops investing and trading strategies and manages a persistent paper portfolio.",
+  "category": "financial-modeling",
+  "tags": [
+    "agent",
+    "investing",
+    "investing-agent",
+    "trading-agent",
+    "trading-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "TimHanewich",
+    "url": "https://github.com/TimHanewich"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TimHanewich/MIRA",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-09T13:01:48Z",
+    "first_commit_at": "2026-04-26T23:35:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2178,
+  "rank_in_category": 83,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-11T16:05:12.867812Z",
+  "last_refreshed_at": "2026-05-11T16:05:12.867816Z"
+}

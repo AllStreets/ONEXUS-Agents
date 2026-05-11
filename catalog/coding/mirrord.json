@@ -1,0 +1,44 @@
+{
+  "slug": "mirrord",
+  "name": "mirrord",
+  "tagline": "Run local code as if it were a pod in a remote Kubernetes cluster: real env vars, DNS, network, traffic. Used by AI coding agents and developers.",
+  "category": "coding",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "ai-coding",
+    "api",
+    "backend",
+    "claude-code",
+    "cli",
+    "cloud",
+    "cloud-native",
+    "debug"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "metalbear-co",
+    "url": "https://github.com/metalbear-co"
+  },
+  "source": {
+    "primary": "github",
+    "github": "metalbear-co/mirrord",
+    "huggingface": null,
+    "homepage": "https://metalbear.com/mirrord"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5059,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-11T14:30:30Z",
+    "first_commit_at": "2022-02-01T16:40:25Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3181,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-11T15:59:40.895726Z",
+  "last_refreshed_at": "2026-05-11T15:59:40.895729Z"
+}

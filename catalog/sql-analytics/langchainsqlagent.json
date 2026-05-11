@@ -1,0 +1,39 @@
+{
+  "slug": "langchainsqlagent",
+  "name": "LangChainSQLAgent",
+  "tagline": "This project enables performing SQL queries in natural language using LangChain and Streamlit.",
+  "category": "sql-analytics",
+  "tags": [
+    "faiss-vector-database",
+    "langchain",
+    "postgresql",
+    "sql-agent",
+    "streamlit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aysenurcftc",
+    "url": "https://github.com/aysenurcftc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aysenurcftc/LangChainSQLAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2024-11-25T14:17:01Z",
+    "first_commit_at": "2024-10-22T16:02:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1311,
+  "rank_in_category": 127,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-11T16:43:30.604459Z",
+  "last_refreshed_at": "2026-05-11T16:43:30.604462Z"
+}

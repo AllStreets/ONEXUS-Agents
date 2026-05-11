@@ -1,0 +1,33 @@
+{
+  "slug": "zed-stakpak-agent-server",
+  "name": "zed-stakpak-agent-server",
+  "tagline": "Zed extension for Stakpak Open-source DevOps agent with Agent Client Protocol (ACP) support.",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "stakpak",
+    "url": "https://github.com/stakpak"
+  },
+  "source": {
+    "primary": "github",
+    "github": "stakpak/zed-stakpak-agent-server",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-29T01:02:04Z",
+    "first_commit_at": "2025-11-02T22:21:20Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1976,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-11T16:23:33.412076Z",
+  "last_refreshed_at": "2026-05-11T16:23:33.412079Z"
+}

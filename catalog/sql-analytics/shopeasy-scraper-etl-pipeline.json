@@ -1,0 +1,44 @@
+{
+  "slug": "shopeasy-scraper-etl-pipeline",
+  "name": "ShopEasy-Scraper-ETL-Pipeline",
+  "tagline": "A robust, scalable web scraping data pipeline that extracts product data from real-world websites and transforms it into a structured, analytics-ready database.",
+  "category": "sql-analytics",
+  "tags": [
+    "analytics",
+    "automation",
+    "beatifulsoup4",
+    "data-engineering",
+    "data-pipeline",
+    "database-design",
+    "etl-pipeline",
+    "pandas",
+    "postgresql",
+    "price-intelligence"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "samuelede",
+    "url": "https://github.com/samuelede"
+  },
+  "source": {
+    "primary": "github",
+    "github": "samuelede/ShopEasy-Scraper-ETL-Pipeline",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-09T21:52:15Z",
+    "first_commit_at": "2026-05-09T15:46:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2282,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-11T16:43:45.708054Z",
+  "last_refreshed_at": "2026-05-11T16:43:45.708057Z"
+}
