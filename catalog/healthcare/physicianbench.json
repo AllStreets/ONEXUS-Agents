@@ -1,0 +1,39 @@
+{
+  "slug": "physicianbench",
+  "name": "PhysicianBench",
+  "tagline": "The benchmark tasks and evaluation harness for \"PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments\".",
+  "category": "healthcare",
+  "tags": [
+    "benchmark",
+    "ehr",
+    "healthcare-ai",
+    "llm-agent",
+    "medical-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "HealthRex",
+    "url": "https://github.com/HealthRex"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HealthRex/PhysicianBench",
+    "huggingface": null,
+    "homepage": "https://healthrex.github.io/PhysicianBench/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T03:44:32Z",
+    "first_commit_at": "2026-04-28T18:43:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4339,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-12T16:15:06.477993Z",
+  "last_refreshed_at": "2026-05-12T16:15:06.477996Z"
+}

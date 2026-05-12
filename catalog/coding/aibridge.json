@@ -1,0 +1,44 @@
+{
+  "slug": "aibridge",
+  "name": "AIBridge",
+  "tagline": "A file-based Unity automation bridge for AI coding assistants, enabling logs, compilation, asset/prefab operations, scene editing, and screenshots without MCP.",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "ai-coding-assistant",
+    "cli-tool",
+    "codex",
+    "coding-agent",
+    "cursor",
+    "editor-tools",
+    "gamedev",
+    "mcp-alternative",
+    "prefab"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "liyingsong99",
+    "url": "https://github.com/liyingsong99"
+  },
+  "source": {
+    "primary": "github",
+    "github": "liyingsong99/AIBridge",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 130,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-12T13:19:22Z",
+    "first_commit_at": "2026-01-22T06:20:07Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2206,
+  "rank_in_category": 135,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-12T15:42:20.620435Z",
+  "last_refreshed_at": "2026-05-12T15:42:20.620438Z"
+}
