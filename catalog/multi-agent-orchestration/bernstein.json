@@ -1,7 +1,7 @@
 {
   "slug": "bernstein",
   "name": "bernstein",
-  "tagline": "Deterministic orchestrator for 40+ CLI AI agents. Git worktree isolation, HMAC audit trail, MCP server mode. https://bernstein.run",
+  "tagline": "Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained audit log, signed agent cards, per-artefact lineage, air-gap deploy. The orchestrat",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-framework",
@@ -28,17 +28,17 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 317,
+    "stars": 329,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-11T10:57:46Z",
+    "last_commit_at": "2026-05-12T12:37:10Z",
     "first_commit_at": "2026-03-29T16:54:46Z"
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3748,
-  "rank_in_category": 57,
+  "composite_score": 0.3756,
+  "rank_in_category": 56,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:51:51.530031Z",
-  "last_refreshed_at": "2026-05-11T16:28:50.169612Z"
+  "last_refreshed_at": "2026-05-12T16:12:33.668378Z"
 }

@@ -1,0 +1,39 @@
+{
+  "slug": "dramai",
+  "name": "dramai",
+  "tagline": "🎬 Open-source AI short-drama studio in your browser · 浏览器内的开源 AI 短剧工作台 ·   text→storyboard→images→video→CapCut · zero backend",
+  "category": "video-generation",
+  "tags": [
+    "ai",
+    "ai-storyboard",
+    "ai-video-generation",
+    "short-drama",
+    "storyboard"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hyyyyyyz",
+    "url": "https://github.com/hyyyyyyz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hyyyyyyz/dramai",
+    "huggingface": null,
+    "homepage": "https://hyyyyyyz.github.io/dramai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-04T15:02:27Z",
+    "first_commit_at": "2026-05-04T09:20:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3842,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-12T15:57:23.845140Z",
+  "last_refreshed_at": "2026-05-12T15:57:23.845143Z"
+}

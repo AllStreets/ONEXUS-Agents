@@ -1,0 +1,41 @@
+{
+  "slug": "wtf-ufo",
+  "name": "wtf-ufo",
+  "tagline": "Reproducible UFO/UAP archive extraction: OCR, cleaned text, RAG chunks, and knowledge graph for the War.gov release.",
+  "category": "pdf-forms",
+  "tags": [
+    "knowledge-graph",
+    "ocr",
+    "pdf-extraction",
+    "public-records",
+    "rag",
+    "uap",
+    "ufo"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "timfaner",
+    "url": "https://github.com/timfaner"
+  },
+  "source": {
+    "primary": "github",
+    "github": "timfaner/wtf-ufo",
+    "huggingface": null,
+    "homepage": "https://www.war.gov/UFO/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-08T22:19:27Z",
+    "first_commit_at": "2026-05-08T22:00:04Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3931,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-12T16:26:09.479735Z",
+  "last_refreshed_at": "2026-05-12T16:26:09.479738Z"
+}

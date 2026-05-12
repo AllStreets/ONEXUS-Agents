@@ -1,19 +1,19 @@
 {
   "slug": "late-cli",
   "name": "late-cli",
-  "tagline": "Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs, zero context bloat. Single static binary, zero dependencies, any model.",
+  "tagline": "Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.",
   "category": "coding",
   "tags": [
     "agent",
     "ai-agent",
     "ai-coding-assistant",
+    "autonomous-agents",
+    "claude",
     "cli",
     "coding-agent",
-    "developer-tools",
-    "golang",
-    "llm",
-    "llm-orchestration",
-    "mcp"
+    "coding-agents",
+    "deepseek",
+    "gemini"
   ],
   "author": {
     "type": "user",
@@ -28,17 +28,17 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 281,
+    "stars": 286,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-10T14:53:45Z",
+    "last_commit_at": "2026-05-11T20:39:53Z",
     "first_commit_at": "2026-02-21T16:22:08Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.229,
+  "composite_score": 0.2296,
   "rank_in_category": 123,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-03T14:12:04.822074Z",
-  "last_refreshed_at": "2026-05-11T15:58:09.746999Z"
+  "last_refreshed_at": "2026-05-12T15:42:08.262190Z"
 }
