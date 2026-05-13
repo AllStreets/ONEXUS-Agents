@@ -1,0 +1,42 @@
+{
+  "slug": "pi-mcp-adapter",
+  "name": "pi-mcp-adapter",
+  "tagline": "Token-efficient MCP adapter for Pi coding agent",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "claude",
+    "coding-agent",
+    "extension",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "pi"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nicobailon",
+    "url": "https://github.com/nicobailon"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nicobailon/pi-mcp-adapter",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 661,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-11T05:57:36Z",
+    "first_commit_at": "2026-01-19T23:23:53Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2928,
+  "rank_in_category": 46,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-13T15:44:12.258814Z",
+  "last_refreshed_at": "2026-05-13T15:44:12.258818Z"
+}

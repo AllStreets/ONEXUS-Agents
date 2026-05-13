@@ -1,0 +1,44 @@
+{
+  "slug": "sod-0-6b",
+  "name": "SOD-0.6B",
+  "tagline": "youngzhong/SOD-0.6B — text-generation",
+  "category": "reasoning-math",
+  "tags": [
+    "transformers",
+    "safetensors",
+    "qwen3",
+    "text-generation",
+    "agent",
+    "tool-use",
+    "distillation",
+    "math",
+    "code",
+    "reasoning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "youngzhong",
+    "url": "https://huggingface.co/youngzhong"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "youngzhong/SOD-0.6B",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 26,
+    "last_commit_at": "2026-05-12T16:33:48Z",
+    "first_commit_at": "2026-05-12T16:10:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1945,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-13T16:02:52.694193Z",
+  "last_refreshed_at": "2026-05-13T16:02:52.694197Z"
+}
