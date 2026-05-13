@@ -1,19 +1,19 @@
 {
   "slug": "skales",
   "name": "skales",
-  "tagline": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no ter",
+  "tagline": "Local-first AI desktop agent for Windows, macOS, Linux & Android. Codework, multi-agent teams, desktop automation, 15+ AI providers. No Docker. No terminal. AI Companion. Agent Skills (SKILL.md). Migr",
   "category": "desktop-os-automation",
   "tags": [
+    "agentic-ai",
     "ai-agent",
     "ai-assistant",
     "ai-companions",
+    "android",
     "automation",
     "autonomous-agent",
-    "calendar",
-    "code-generation",
     "desktop-app",
-    "desktop-buddy",
-    "electron"
+    "electron",
+    "linux"
   ],
   "author": {
     "type": "org",
@@ -28,17 +28,17 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 928,
+    "stars": 929,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-11T09:14:13Z",
+    "last_commit_at": "2026-05-13T12:03:49Z",
     "first_commit_at": "2026-03-08T09:37:22Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3443,
+  "composite_score": 0.3456,
   "rank_in_category": 14,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:37:04.754596Z",
-  "last_refreshed_at": "2026-05-12T16:03:42.238668Z"
+  "last_refreshed_at": "2026-05-13T15:59:19.161525Z"
 }

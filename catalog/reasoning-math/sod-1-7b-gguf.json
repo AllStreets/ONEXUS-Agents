@@ -1,0 +1,44 @@
+{
+  "slug": "sod-1-7b-gguf",
+  "name": "SOD-1.7B-GGUF",
+  "tagline": "mradermacher/SOD-1.7B-GGUF — None",
+  "category": "reasoning-math",
+  "tags": [
+    "transformers",
+    "gguf",
+    "agent",
+    "tool-use",
+    "distillation",
+    "math",
+    "code",
+    "reasoning",
+    "en",
+    "base_model:youngzhong/SOD-1.7B"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mradermacher",
+    "url": "https://huggingface.co/mradermacher"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "mradermacher/SOD-1.7B-GGUF",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-05-13T09:33:49Z",
+    "first_commit_at": "2026-05-13T07:47:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1397,
+  "rank_in_category": 48,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-13T16:02:53.440723Z",
+  "last_refreshed_at": "2026-05-13T16:02:53.440726Z"
+}

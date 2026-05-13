@@ -1,0 +1,44 @@
+{
+  "slug": "vaulytica",
+  "name": "vaulytica",
+  "tagline": "Vaulytica is a free, browser-based contract linter that provides deterministic, citable analysis of PDF and DOCX documents using specialized rules to generate a comprehensive Word-based audit trail wi",
+  "category": "legal-research",
+  "tags": [
+    "audit-trail",
+    "browser-based",
+    "compliance-as-code",
+    "contract-analysis",
+    "contract-management",
+    "deterministic",
+    "document-automation",
+    "docx-parser",
+    "legal-compliance",
+    "legal-documents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "clay-good",
+    "url": "https://github.com/clay-good"
+  },
+  "source": {
+    "primary": "github",
+    "github": "clay-good/vaulytica",
+    "huggingface": null,
+    "homepage": "https://vaulytica.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-13T14:40:02Z",
+    "first_commit_at": "2025-10-14T00:38:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.18,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-13T15:50:32.046812Z",
+  "last_refreshed_at": "2026-05-13T15:50:32.046816Z"
+}

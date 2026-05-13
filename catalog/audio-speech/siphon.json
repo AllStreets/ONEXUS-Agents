@@ -1,18 +1,18 @@
 {
   "slug": "siphon",
   "name": "siphon",
-  "tagline": "Open-source Python framework for building AI calling agents. No per-minute fees, no vendor lock-in. Full control over infrastructure, data, and costs. Production-ready with scaling.",
+  "tagline": "The open-source foundation for production Voice AI. Build, scale, and own your AI calling infrastructure. Bridge legacy SIP to modern LLMs over ultra-low latency WebRTC pipelines. Zero platform fees, ",
   "category": "audio-speech",
   "tags": [
-    "agent",
-    "ai",
     "ai-agents",
-    "calling",
-    "calling-agents",
+    "ai-calling",
+    "cpaas",
     "infrastructure",
     "livekit",
     "llm",
     "openai",
+    "python-framework",
+    "retell-alternative",
     "self-hosted"
   ],
   "author": {
@@ -30,15 +30,15 @@
   "metrics": {
     "stars": 37,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-11T22:14:31Z",
+    "last_commit_at": "2026-05-12T22:14:11Z",
     "first_commit_at": "2026-01-07T17:37:18Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3925,
-  "rank_in_category": 20,
+  "composite_score": 0.3926,
+  "rank_in_category": 22,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:32:50.702649Z",
-  "last_refreshed_at": "2026-05-12T15:58:14.061311Z"
+  "last_refreshed_at": "2026-05-13T15:55:47.681777Z"
 }

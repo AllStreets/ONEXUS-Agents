@@ -1,33 +1,42 @@
 {
   "slug": "desktop-agent",
   "name": "desktop-agent",
-  "tagline": "A powerful desktop automation tool that allows AI models to control your computer through visual feedback, precise commands, and voice input",
+  "tagline": "Zenno Windows desktop agent for activity tracking, context detection, and nudges.",
   "category": "desktop-os-automation",
-  "tags": [],
+  "tags": [
+    "activity-tracking",
+    "desktop-agent",
+    "productivity",
+    "python",
+    "sckit-learn",
+    "sqlite",
+    "windows",
+    "xgboost"
+  ],
   "author": {
-    "type": "user",
-    "handle": "RuslanKoroy",
-    "url": "https://github.com/RuslanKoroy"
+    "type": "org",
+    "handle": "zenno-fyp",
+    "url": "https://github.com/zenno-fyp"
   },
   "source": {
     "primary": "github",
-    "github": "RuslanKoroy/desktop-agent",
+    "github": "zenno-fyp/desktop-agent",
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 35,
+    "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2025-03-16T07:19:39Z",
-    "first_commit_at": "2025-03-15T23:08:11Z"
+    "last_commit_at": "2026-05-10T22:40:49Z",
+    "first_commit_at": "2026-02-03T18:20:09Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1822,
-  "rank_in_category": 83,
+  "composite_score": 0.2339,
+  "rank_in_category": 45,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-11T16:20:44.214697Z",
-  "last_refreshed_at": "2026-05-12T16:03:49.818070Z"
+  "first_seen_at": "2026-05-13T15:59:13.543996Z",
+  "last_refreshed_at": "2026-05-13T15:59:13.543999Z"
 }

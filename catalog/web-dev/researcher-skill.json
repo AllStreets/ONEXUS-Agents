@@ -1,0 +1,44 @@
+{
+  "slug": "researcher-skill",
+  "name": "researcher-skill",
+  "tagline": "ReAct deep search skill for Claude Code. Searches deep, not wide — each round follows leads from the last.",
+  "category": "web-dev",
+  "tags": [
+    "agent-skill",
+    "ai-research",
+    "claude",
+    "claude-code",
+    "claude-skill",
+    "deep-research",
+    "literature-review",
+    "react-agent",
+    "scientific-research",
+    "web-search"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "recomby-ai",
+    "url": "https://github.com/recomby-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "recomby-ai/researcher-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-28T15:17:00Z",
+    "first_commit_at": "2026-03-20T02:21:12Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1968,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-13T15:47:06.558560Z",
+  "last_refreshed_at": "2026-05-13T15:47:06.558563Z"
+}

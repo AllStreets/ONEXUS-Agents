@@ -1,0 +1,40 @@
+{
+  "slug": "fin-safety-inspect",
+  "name": "fin-safety-inspect",
+  "tagline": "Inspect AI task pack for financial agent safety and first public LangGraph adapter for Inspect AI.",
+  "category": "financial-modeling",
+  "tags": [
+    "agent-safety",
+    "ai-safety",
+    "financial-ai",
+    "inspect-ai",
+    "langchain",
+    "langgraph"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "acai77777",
+    "url": "https://github.com/acai77777"
+  },
+  "source": {
+    "primary": "github",
+    "github": "acai77777/fin-safety-inspect",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-13T12:51:20Z",
+    "first_commit_at": "2026-04-30T03:04:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2211,
+  "rank_in_category": 83,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-13T15:49:22.320379Z",
+  "last_refreshed_at": "2026-05-13T15:49:22.320384Z"
+}

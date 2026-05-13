@@ -1,0 +1,39 @@
+{
+  "slug": "efficientvideoagent",
+  "name": "EfficientVideoAgent",
+  "tagline": "EVA: Efficient Reinforcement Learning for End-to-End Video Agent",
+  "category": "video-generation",
+  "tags": [
+    "agents",
+    "multimodal",
+    "video",
+    "video-agents",
+    "vlm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wangruohui",
+    "url": "https://github.com/wangruohui"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wangruohui/EfficientVideoAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T20:12:58Z",
+    "first_commit_at": "2025-12-25T10:31:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4308,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-13T15:55:27.260496Z",
+  "last_refreshed_at": "2026-05-13T15:55:27.260500Z"
+}
