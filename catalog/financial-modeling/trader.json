@@ -1,0 +1,38 @@
+{
+  "slug": "trader",
+  "name": "trader",
+  "tagline": "AI agent for trading on prediction markets (specifically, Omen on Gnosis and Polymarket on Polygon)",
+  "category": "financial-modeling",
+  "tags": [
+    "olas",
+    "prediction-market",
+    "trading-agent",
+    "valory"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "valory-xyz",
+    "url": "https://github.com/valory-xyz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "valory-xyz/trader",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 70,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-14T14:29:53Z",
+    "first_commit_at": "2023-07-04T07:02:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3959,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-14T15:23:45.847317Z",
+  "last_refreshed_at": "2026-05-14T15:23:45.847321Z"
+}

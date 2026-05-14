@@ -1,7 +1,7 @@
 {
   "slug": "unbrowse",
   "name": "unbrowse",
-  "tagline": "Unbrowse — api native browser skill/cli for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.",
+  "tagline": "Unbrowse — api native browser MCP/SDK for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.",
   "category": "browser-automation",
   "tags": [
     "agents",
@@ -30,15 +30,15 @@
   "metrics": {
     "stars": 649,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-13T09:00:08Z",
+    "last_commit_at": "2026-05-14T14:56:39Z",
     "first_commit_at": "2026-01-27T15:30:24Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3331,
+  "composite_score": 0.3334,
   "rank_in_category": 37,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:26:56.448849Z",
-  "last_refreshed_at": "2026-05-13T15:57:43.998482Z"
+  "last_refreshed_at": "2026-05-14T15:32:46.699223Z"
 }

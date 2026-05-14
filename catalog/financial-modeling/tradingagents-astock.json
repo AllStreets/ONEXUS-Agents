@@ -1,0 +1,33 @@
+{
+  "slug": "tradingagents-astock",
+  "name": "TradingAgents-astock",
+  "tagline": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
+  "category": "financial-modeling",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "simonlin1212",
+    "url": "https://github.com/simonlin1212"
+  },
+  "source": {
+    "primary": "github",
+    "github": "simonlin1212/TradingAgents-astock",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/pdf/2412.20138"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 140,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-14T11:47:54Z",
+    "first_commit_at": "2026-05-13T00:23:58Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3431,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-14T15:25:08.605124Z",
+  "last_refreshed_at": "2026-05-14T15:25:08.605127Z"
+}
