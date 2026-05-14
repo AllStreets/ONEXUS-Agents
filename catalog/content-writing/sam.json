@@ -1,0 +1,33 @@
+{
+  "slug": "sam",
+  "name": "sam",
+  "tagline": "Content Writing Agent. Simple & Extendable. Use with any model so your content doesn't sound like Claude. ",
+  "category": "content-writing",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "every-app",
+    "url": "https://github.com/every-app"
+  },
+  "source": {
+    "primary": "github",
+    "github": "every-app/sam",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-01T17:27:44Z",
+    "first_commit_at": "2026-03-28T19:11:52Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3858,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-14T15:27:57.683800Z",
+  "last_refreshed_at": "2026-05-14T15:27:57.683804Z"
+}

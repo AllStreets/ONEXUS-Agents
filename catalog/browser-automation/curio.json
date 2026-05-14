@@ -1,0 +1,38 @@
+{
+  "slug": "curio",
+  "name": "Curio",
+  "tagline": "A Chrome side-panel browser agent",
+  "category": "browser-automation",
+  "tags": [
+    "agent",
+    "browser-extension",
+    "chrome-extension",
+    "firefox-addon"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "void5tar",
+    "url": "https://github.com/void5tar"
+  },
+  "source": {
+    "primary": "github",
+    "github": "void5tar/Curio",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 36,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-13T09:57:07Z",
+    "first_commit_at": "2026-05-12T09:52:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.282,
+  "rank_in_category": 67,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-14T15:33:39.299718Z",
+  "last_refreshed_at": "2026-05-14T15:33:39.299722Z"
+}

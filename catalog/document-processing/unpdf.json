@@ -1,0 +1,40 @@
+{
+  "slug": "unpdf",
+  "name": "unpdf",
+  "tagline": "High-performance Rust PDF extraction library with Markdown/JSON output, CJK/RTL support, multi-column layout detection, and Python/.NET/CLI bindings.",
+  "category": "document-processing",
+  "tags": [
+    "cjk",
+    "document-extraction",
+    "ffi",
+    "markdown",
+    "pdf",
+    "rust"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "iyulab",
+    "url": "https://github.com/iyulab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iyulab/unpdf",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-12T03:20:38Z",
+    "first_commit_at": "2026-01-27T11:14:14Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.442,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-14T15:34:49.678736Z",
+  "last_refreshed_at": "2026-05-14T15:34:49.678739Z"
+}
