@@ -1,19 +1,19 @@
 {
   "slug": "yuclaw-brain",
   "name": "yuclaw-brain",
-  "tagline": "Open-source institutional finance research OS. Local 120B Nemotron. ZKP proofs. Research only — not financial advice.",
+  "tagline": "Open-source AI signal generator for quant research. Local Llama 3.1 70B via Ollama, hash-anchored signals on Ethereum Sepolia, Alpaca paper trading. Not financial advice. MIT.",
   "category": "financial-modeling",
   "tags": [
-    "aversarial-validation",
+    "alpaca",
     "calmar",
-    "dark-pool",
     "financial-ai",
-    "nemotron",
+    "local-llm",
     "nvidia-dgx",
     "openclaw",
+    "paper-trading",
     "python",
     "quantitative-finance",
-    "zkp"
+    "research-tool"
   ],
   "author": {
     "type": "user",
@@ -30,15 +30,15 @@
   "metrics": {
     "stars": 3,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-14T15:00:23Z",
+    "last_commit_at": "2026-05-15T15:00:23Z",
     "first_commit_at": "2026-03-17T10:05:03Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2529,
-  "rank_in_category": 64,
+  "composite_score": 0.253,
+  "rank_in_category": 65,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:24:57.950264Z",
-  "last_refreshed_at": "2026-05-14T15:24:10.292742Z"
+  "last_refreshed_at": "2026-05-15T15:19:45.605891Z"
 }

@@ -1,0 +1,39 @@
+{
+  "slug": "class12-project",
+  "name": "class12_project",
+  "tagline": "Small Django web app to collect and display travel planning information based on user info",
+  "category": "travel-planning",
+  "tags": [
+    "dataset",
+    "django",
+    "python",
+    "sql",
+    "travel-planning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "arushisinha12",
+    "url": "https://github.com/arushisinha12"
+  },
+  "source": {
+    "primary": "github",
+    "github": "arushisinha12/class12_project",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-08T05:58:55Z",
+    "first_commit_at": "2026-02-08T05:51:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2539,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-15T15:41:03.460470Z",
+  "last_refreshed_at": "2026-05-15T15:41:03.460474Z"
+}

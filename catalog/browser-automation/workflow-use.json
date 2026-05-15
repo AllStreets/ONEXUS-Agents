@@ -1,0 +1,38 @@
+{
+  "slug": "workflow-use",
+  "name": "workflow-use",
+  "tagline": "⚙️ Create and run workflows (RPA 2.0)",
+  "category": "browser-automation",
+  "tags": [
+    "browser-automation",
+    "browser-use-box",
+    "rpa",
+    "telegram-automation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "browser-use",
+    "url": "https://github.com/browser-use"
+  },
+  "source": {
+    "primary": "github",
+    "github": "browser-use/workflow-use",
+    "huggingface": null,
+    "homepage": "https://browser-use.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 4010,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-15T07:28:18Z",
+    "first_commit_at": "2025-05-05T10:41:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3785,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-15T15:29:33.968154Z",
+  "last_refreshed_at": "2026-05-15T15:29:33.968157Z"
+}

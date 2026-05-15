@@ -1,0 +1,44 @@
+{
+  "slug": "crm-syntra",
+  "name": "CRM-Syntra",
+  "tagline": "CRM de gestão de leads desenvolvido com Spring Boot, focado em automação comercial, pipeline de vendas e integrações via webhook.",
+  "category": "sales-crm",
+  "tags": [
+    "automation",
+    "crm",
+    "hibernate",
+    "java",
+    "lead-management",
+    "postgresql",
+    "sales-crm",
+    "spring-boot",
+    "spring-security",
+    "thymeleaf"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MathTrajan",
+    "url": "https://github.com/MathTrajan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MathTrajan/CRM-Syntra",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-13T18:04:05Z",
+    "first_commit_at": "2026-05-13T15:27:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.357,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-15T15:41:46.362570Z",
+  "last_refreshed_at": "2026-05-15T15:41:46.362573Z"
+}

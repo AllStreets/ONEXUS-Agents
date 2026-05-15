@@ -4,16 +4,16 @@
   "tagline": "AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading",
   "category": "financial-modeling",
   "tags": [
-    "ai-trade",
-    "ai-trading-algorithm",
-    "algorithmic-trading-portfolio",
+    "agent",
     "algotrade",
-    "backtesting-frameworks",
-    "cryptocurrencies",
-    "cryptocurrency-analyser",
-    "financial-analysis",
-    "forex-trading",
-    "ibkr"
+    "alpaca",
+    "backtesting",
+    "binance",
+    "coinbase",
+    "crypto",
+    "exchange",
+    "finance",
+    "fintech"
   ],
   "author": {
     "type": "user",
@@ -28,17 +28,17 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 5124,
+    "stars": 5264,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-14T10:01:21Z",
+    "last_commit_at": "2026-05-15T14:29:06Z",
     "first_commit_at": "2025-12-28T19:06:49Z"
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.4457,
-  "rank_in_category": 10,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4967,
+  "rank_in_category": 6,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-02T14:14:57.618552Z",
-  "last_refreshed_at": "2026-05-14T15:24:53.429132Z"
+  "last_refreshed_at": "2026-05-15T15:20:39.161201Z"
 }
