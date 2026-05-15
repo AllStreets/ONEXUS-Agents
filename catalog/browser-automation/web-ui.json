@@ -1,0 +1,38 @@
+{
+  "slug": "web-ui",
+  "name": "web-ui",
+  "tagline": "🖥️ Run AI Agent in your browser.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "browser-automation",
+    "browser-use-box",
+    "cloud-browser"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "browser-use",
+    "url": "https://github.com/browser-use"
+  },
+  "source": {
+    "primary": "github",
+    "github": "browser-use/web-ui",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 15968,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-15T07:26:24Z",
+    "first_commit_at": "2025-01-02T01:30:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4075,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-15T15:29:26.923975Z",
+  "last_refreshed_at": "2026-05-15T15:29:26.923979Z"
+}

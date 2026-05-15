@@ -1,7 +1,7 @@
 {
   "slug": "hs-sql-agent",
   "name": "hs-sql-agent",
-  "tagline": "security, high granular security control sql agent mcp, include admin panel, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird",
+  "tagline": "A high-performance C# SQL Agent MCP that eliminates LLM hallucinations and security risks. Instead of letting the AI write raw SQL, it extracts parameters to generate deterministic, injection-free que",
   "category": "sql-analytics",
   "tags": [
     "accuracy",
@@ -30,15 +30,15 @@
   "metrics": {
     "stars": 4,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-12T15:17:00Z",
+    "last_commit_at": "2026-05-15T14:24:24Z",
     "first_commit_at": "2026-04-03T08:10:29Z"
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3055,
+  "composite_score": 0.3076,
   "rank_in_category": 20,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:32:25.215306Z",
-  "last_refreshed_at": "2026-05-12T16:26:56.957235Z"
+  "last_refreshed_at": "2026-05-15T15:47:46.226746Z"
 }

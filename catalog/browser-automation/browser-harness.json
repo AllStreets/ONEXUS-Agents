@@ -1,0 +1,44 @@
+{
+  "slug": "browser-harness",
+  "name": "browser-harness",
+  "tagline": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "browser-agent",
+    "browser-automation",
+    "browser-use",
+    "browser-use-box",
+    "browser-use-cloud",
+    "cdp",
+    "cloud-browser",
+    "llm",
+    "persistent-browser"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "browser-use",
+    "url": "https://github.com/browser-use"
+  },
+  "source": {
+    "primary": "github",
+    "github": "browser-use/browser-harness",
+    "huggingface": null,
+    "homepage": "https://browser-harness.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12763,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-15T07:18:05Z",
+    "first_commit_at": "2026-04-17T00:51:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3719,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-15T15:28:51.340539Z",
+  "last_refreshed_at": "2026-05-15T15:28:51.340542Z"
+}

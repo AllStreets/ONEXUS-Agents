@@ -1,0 +1,42 @@
+{
+  "slug": "sensenova-skills",
+  "name": "SenseNova-Skills",
+  "tagline": "Modular SenseNova skills for building AI-powered office assistants and productivity workflows",
+  "category": "document-processing",
+  "tags": [
+    "agent",
+    "agent-skills",
+    "ai-agents",
+    "ai-assistant",
+    "data-analysis",
+    "document-processing",
+    "office-automation",
+    "presentation-slides"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OpenSenseNova",
+    "url": "https://github.com/OpenSenseNova"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OpenSenseNova/SenseNova-Skills",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1360,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-15T04:43:37Z",
+    "first_commit_at": "2026-04-14T06:21:52Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.545,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-15T15:31:50.012930Z",
+  "last_refreshed_at": "2026-05-15T15:31:50.012934Z"
+}

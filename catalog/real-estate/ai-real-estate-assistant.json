@@ -1,19 +1,19 @@
 {
   "slug": "ai-real-estate-assistant",
   "name": "ai-real-estate-assistant",
-  "tagline": "Advanced AI Real Estate Assistant using RAG, LLMs, and Python. Features market analysis, property valuation, and intelligent search.",
+  "tagline": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI + Next.js + ChromaDB.",
   "category": "real-estate",
   "tags": [
     "ai",
     "assistant",
     "chatbot",
+    "chromadb",
+    "conversational-ai",
     "docker",
     "fastapi",
     "llm",
-    "nextjs",
-    "proptech",
-    "python",
-    "python3"
+    "mapbox",
+    "mortgage-calculator"
   ],
   "author": {
     "type": "user",
@@ -24,21 +24,21 @@
     "primary": "github",
     "github": "AleksNeStu/ai-real-estate-assistant",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://realestate-web-dz1y.onrender.com/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 185,
+    "stars": 186,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-12T13:15:26Z",
+    "last_commit_at": "2026-05-15T09:24:59Z",
     "first_commit_at": "2024-07-27T11:01:19Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6292,
-  "rank_in_category": 4,
+  "composite_score": 0.6326,
+  "rank_in_category": 5,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:58:40.695371Z",
-  "last_refreshed_at": "2026-05-12T16:21:36.568887Z"
+  "last_refreshed_at": "2026-05-15T15:44:15.974162Z"
 }
