@@ -1,33 +1,42 @@
 {
   "slug": "web-agent",
   "name": "web-agent",
-  "tagline": "Open-source web data agent optimized for structured web research",
+  "tagline": "Browser-native agent · profiles · tools  — by aratech | Zero installs, isolated, secured and self-evolving agent.",
   "category": "web-dev",
-  "tags": [],
+  "tags": [
+    "agentic-ai",
+    "hermes-agent",
+    "openclaw",
+    "self-improving-agent",
+    "self-improving-ai",
+    "skills",
+    "web-agent",
+    "web-tools"
+  ],
   "author": {
-    "type": "org",
-    "handle": "firecrawl",
-    "url": "https://github.com/firecrawl"
+    "type": "user",
+    "handle": "nikola66",
+    "url": "https://github.com/nikola66"
   },
   "source": {
     "primary": "github",
-    "github": "firecrawl/web-agent",
+    "github": "nikola66/web-agent",
     "huggingface": null,
-    "homepage": "https://firecrawl.dev/"
+    "homepage": "https://webagent.aratech.ae/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1086,
+    "stars": 10,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-19T19:49:49Z",
-    "first_commit_at": "2026-03-27T22:08:05Z"
+    "last_commit_at": "2026-05-16T12:00:09Z",
+    "first_commit_at": "2026-05-13T22:23:53Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3727,
-  "rank_in_category": 25,
+  "composite_score": 0.2819,
+  "rank_in_category": 54,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-01T14:23:02.692654Z",
-  "last_refreshed_at": "2026-05-15T15:17:58.516683Z"
+  "first_seen_at": "2026-05-16T14:25:39.592711Z",
+  "last_refreshed_at": "2026-05-16T14:25:39.592715Z"
 }

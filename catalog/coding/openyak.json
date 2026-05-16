@@ -1,7 +1,7 @@
 {
   "slug": "openyak",
   "name": "openyak",
-  "tagline": "OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and O",
+  "tagline": "Open-source local-first AI agent for desktop work. No account, no telemetry: use local models with Ollama/Rapid-MLX or bring your own provider key.",
   "category": "coding",
   "tags": [
     "agent",
@@ -9,11 +9,11 @@
     "ai-agent",
     "ai-coding-assistant",
     "byok",
-    "chatgpt-alternative",
-    "claude-code",
     "claude-code-alternative",
-    "codex",
-    "codex-alternative"
+    "codex-alternative",
+    "coding-agent",
+    "cursor-alternative",
+    "desktop-agent"
   ],
   "author": {
     "type": "org",
@@ -28,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 784,
+    "stars": 783,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-14T19:57:22Z",
+    "last_commit_at": "2026-05-16T06:11:48Z",
     "first_commit_at": "2026-03-20T21:14:53Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.243,
-  "rank_in_category": 114,
+  "composite_score": 0.2435,
+  "rank_in_category": 112,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:23:29.336144Z",
-  "last_refreshed_at": "2026-05-15T15:13:49.360556Z"
+  "last_refreshed_at": "2026-05-16T14:23:04.535133Z"
 }

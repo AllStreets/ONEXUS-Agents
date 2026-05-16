@@ -1,33 +1,40 @@
 {
   "slug": "trading-agent",
-  "name": "Trading-Agent-",
-  "tagline": "A trading agent AI is an artificial intelligence system that uses computational intelligence methods such as machine learning and deep reinforcement learning to automatically discover, implement, and ",
+  "name": "Trading-agent",
+  "tagline": "Autonomous AI trading agent on Alpaca paper trading with regime-aware allocation (HMM), circuit breakers, and capital preservation.",
   "category": "financial-modeling",
-  "tags": [],
+  "tags": [
+    "algorithmic-trading",
+    "alpaca",
+    "hmm",
+    "python",
+    "regime-detection",
+    "trading-agent"
+  ],
   "author": {
     "type": "user",
-    "handle": "MiChaelinzo",
-    "url": "https://github.com/MiChaelinzo"
+    "handle": "saitarrun",
+    "url": "https://github.com/saitarrun"
   },
   "source": {
     "primary": "github",
-    "github": "MiChaelinzo/Trading-Agent-",
+    "github": "saitarrun/Trading-agent",
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 129,
+    "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-02-05T08:59:01Z",
-    "first_commit_at": "2023-06-11T12:43:09Z"
+    "last_commit_at": "2026-05-16T04:42:36Z",
+    "first_commit_at": "2026-04-29T06:17:05Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2935,
-  "rank_in_category": 48,
+  "composite_score": 0.2209,
+  "rank_in_category": 84,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-01T14:26:10.839442Z",
-  "last_refreshed_at": "2026-05-03T14:16:31.785662Z"
+  "first_seen_at": "2026-05-16T14:28:04.896853Z",
+  "last_refreshed_at": "2026-05-16T14:28:04.896857Z"
 }
