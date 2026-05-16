@@ -1,0 +1,44 @@
+{
+  "slug": "open-browser-use",
+  "name": "open-browser-use",
+  "tagline": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "ai-agents",
+    "browser-automation",
+    "browser-use",
+    "browser-use-agent",
+    "cdp",
+    "chrome-automation",
+    "chrome-devtools-protocol",
+    "chrome-extension",
+    "cli"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "iFurySt",
+    "url": "https://github.com/iFurySt"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iFurySt/open-browser-use",
+    "huggingface": null,
+    "homepage": "https://www.ifuryst.com/en/blog/2026/open-browser-use/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 81,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-16T03:52:58Z",
+    "first_commit_at": "2026-04-24T02:46:40Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3463,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-16T14:37:31.830677Z",
+  "last_refreshed_at": "2026-05-16T14:37:31.830680Z"
+}

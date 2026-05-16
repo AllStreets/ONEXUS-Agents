@@ -1,0 +1,44 @@
+{
+  "slug": "cyberverse",
+  "name": "CyberVerse",
+  "tagline": "Open-source real-time audio/video agent platform. Build voice-first AI agents with WebRTC, persona memory, tools, RAG, and optional digital-human video.",
+  "category": "video-generation",
+  "tags": [
+    "ai-agents",
+    "ai-companion",
+    "digital-human",
+    "digital-life",
+    "grok-companion",
+    "jarvis-assistant",
+    "sillytavern",
+    "streaming",
+    "voice-agent",
+    "voice-assistant"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dsd2077",
+    "url": "https://github.com/dsd2077"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dsd2077/CyberVerse",
+    "huggingface": null,
+    "homepage": "https://www.cyberverse.cc/kanshan"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 533,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-16T11:37:15Z",
+    "first_commit_at": "2026-04-18T15:04:19Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5257,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-16T14:34:41.727555Z",
+  "last_refreshed_at": "2026-05-16T14:34:41.727559Z"
+}

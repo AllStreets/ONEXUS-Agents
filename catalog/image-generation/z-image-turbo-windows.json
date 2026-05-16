@@ -1,0 +1,44 @@
+{
+  "slug": "z-image-turbo-windows",
+  "name": "Z-Image-Turbo-Windows",
+  "tagline": "One-click Windows installer for Z-Image Turbo AI image generation. Optimized for low-VRAM GPUs (4GB+). Features Gradio web UI, automatic setup, and GGUF model support.",
+  "category": "image-generation",
+  "tags": [
+    "ai-image-generation",
+    "ai-tools",
+    "gguf",
+    "gradio-ui",
+    "image-generation",
+    "low-vram",
+    "one-click-installer",
+    "stable-diffusion",
+    "windows-installer",
+    "z-image-turbo"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "airesearch-official",
+    "url": "https://github.com/airesearch-official"
+  },
+  "source": {
+    "primary": "github",
+    "github": "airesearch-official/Z-Image-Turbo-Windows",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 38,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-08T11:11:56Z",
+    "first_commit_at": "2025-12-12T11:59:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3063,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-16T14:33:56.194686Z",
+  "last_refreshed_at": "2026-05-16T14:33:56.194690Z"
+}
