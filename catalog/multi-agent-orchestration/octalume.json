@@ -1,0 +1,44 @@
+{
+  "slug": "octalume",
+  "name": "OCTALUME",
+  "tagline": "AI-native SDLC framework for regulated industries. 8 phase-gated stages, 9 specialized agents, built-in HIPAA / SOC 2 / PCI / GDPR scanners. Plugs into Claude Code via MCP (30+ tools). MIT, self-hosta",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "agentic-ai",
+    "ai-governance",
+    "ai-sdlc",
+    "autonomous-sdlc",
+    "claude-code",
+    "compliance-ready",
+    "devsecops",
+    "enterprise-framework",
+    "hipaa"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Harery",
+    "url": "https://github.com/Harery"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Harery/OCTALUME",
+    "huggingface": null,
+    "homepage": "https://github.com/Harery/OCTALUME"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-17T14:02:36Z",
+    "first_commit_at": "2026-01-20T14:52:37Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.288,
+  "rank_in_category": 121,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-17T14:45:52.823830Z",
+  "last_refreshed_at": "2026-05-17T14:45:52.823833Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "judicex",
+  "name": "judicex",
+  "tagline": "Open-source Legal AI workspace for evidence-grounded legal   drafting, matter analysis and verifiable answers.",
+  "category": "legal-research",
+  "tags": [
+    "ai",
+    "anthropic",
+    "document-analysis",
+    "flask",
+    "lawtech",
+    "legal-ai",
+    "legal-drafting",
+    "legal-research",
+    "legaltech",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JustVugg",
+    "url": "https://github.com/JustVugg"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JustVugg/judicex",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-16T23:49:54Z",
+    "first_commit_at": "2026-05-09T16:14:30Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1399,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-17T14:32:39.162058Z",
+  "last_refreshed_at": "2026-05-17T14:32:39.162062Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "lumibot",
+  "name": "lumibot",
+  "tagline": "Backtestable AI trading agents and algorithmic trading strategies for stocks, options, crypto, futures, forex, SEC filings, macro data, and real brokers.",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-agents",
+    "algorithmic-trading",
+    "alpaca",
+    "backtesting",
+    "broker",
+    "crypto-trading",
+    "finance",
+    "forex",
+    "fred",
+    "futures-trading"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Lumiwealth",
+    "url": "https://github.com/Lumiwealth"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Lumiwealth/lumibot",
+    "huggingface": null,
+    "homepage": "https://lumibot.lumiwealth.com/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 1555,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-17T01:37:04Z",
+    "first_commit_at": "2020-09-10T10:35:50Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4721,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-17T14:31:44.016970Z",
+  "last_refreshed_at": "2026-05-17T14:31:44.016974Z"
+}

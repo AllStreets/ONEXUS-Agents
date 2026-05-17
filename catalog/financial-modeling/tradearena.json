@@ -1,0 +1,44 @@
+{
+  "slug": "tradearena",
+  "name": "TradeArena",
+  "tagline": "Auditable benchmark framework for LLM trading agents with replayable trajectories, realistic execution, risk gates, and quickstart demos.",
+  "category": "financial-modeling",
+  "tags": [
+    "agent-benchmark",
+    "agent-evaluation",
+    "ai-agents",
+    "auditability",
+    "backtesting",
+    "benchmark",
+    "execution-simulation",
+    "financial-ai",
+    "llm-agents",
+    "portfolio-optimization"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "weich97",
+    "url": "https://github.com/weich97"
+  },
+  "source": {
+    "primary": "github",
+    "github": "weich97/TradeArena",
+    "huggingface": null,
+    "homepage": "https://weich97.github.io/TradeArena/showcase.html"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-17T13:39:39Z",
+    "first_commit_at": "2026-05-16T15:49:10Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.22,
+  "rank_in_category": 86,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-17T14:31:07.717156Z",
+  "last_refreshed_at": "2026-05-17T14:31:07.717160Z"
+}

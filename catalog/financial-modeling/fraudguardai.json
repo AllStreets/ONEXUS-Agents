@@ -1,0 +1,41 @@
+{
+  "slug": "fraudguardai",
+  "name": "FraudGuardAI",
+  "tagline": "Real-time financial fraud detection powered by XGBoost (99.98% AUC-ROC) + Groq Llama-3.3. Features a cyberpunk terminal dashboard, bank statement forensics via two-call AI pipeline, 3D risk graph, and",
+  "category": "financial-modeling",
+  "tags": [
+    "bank-statement-analysis",
+    "fastapi",
+    "financial-ai",
+    "fintech",
+    "fraud-detection",
+    "langchain",
+    "xgboost"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "LoganthP",
+    "url": "https://github.com/LoganthP"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LoganthP/FraudGuardAI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-16T19:52:47Z",
+    "first_commit_at": "2026-05-16T19:37:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2187,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-17T14:31:05.224478Z",
+  "last_refreshed_at": "2026-05-17T14:31:05.224481Z"
+}
