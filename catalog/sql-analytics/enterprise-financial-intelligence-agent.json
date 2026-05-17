@@ -1,0 +1,44 @@
+{
+  "slug": "enterprise-financial-intelligence-agent",
+  "name": "enterprise-financial-intelligence-agent",
+  "tagline": "Enterprise financial intelligence AI agent platform with RAG, SEC EDGAR ingestion, FRED macro analysis, SQL analytics, LangGraph orchestration, security guardrails, evaluation, and observability.",
+  "category": "sql-analytics",
+  "tags": [
+    "ai-agents",
+    "enterprise-ai",
+    "evaluation-engine",
+    "fastapi",
+    "financial-ai",
+    "fred-api",
+    "langgraph",
+    "llmops",
+    "observability",
+    "postgresql"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "WWIIITT",
+    "url": "https://github.com/WWIIITT"
+  },
+  "source": {
+    "primary": "github",
+    "github": "WWIIITT/enterprise-financial-intelligence-agent",
+    "huggingface": null,
+    "homepage": "https://wwiiitt.github.io/enterprise-financial-intelligence-agent/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-16T18:08:55Z",
+    "first_commit_at": "2026-05-12T14:29:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2294,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-17T14:54:24.273224Z",
+  "last_refreshed_at": "2026-05-17T14:54:24.273227Z"
+}

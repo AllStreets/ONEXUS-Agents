@@ -1,0 +1,40 @@
+{
+  "slug": "scout",
+  "name": "Scout",
+  "tagline": "Self-hosted deep research engine for Claude Code. Open a GitHub Issue → cited research published to your Jekyll site via GitHub Pages.",
+  "category": "scientific-research",
+  "tags": [
+    "ai-research",
+    "claude",
+    "claude-code",
+    "deep-research",
+    "research-agent",
+    "self-hosted"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Laoujin",
+    "url": "https://github.com/Laoujin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Laoujin/Scout",
+    "huggingface": null,
+    "homepage": "https://laoujin.github.io/Scout/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T19:09:29Z",
+    "first_commit_at": "2026-04-20T19:59:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3373,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-17T14:43:28.379988Z",
+  "last_refreshed_at": "2026-05-17T14:43:28.379991Z"
+}

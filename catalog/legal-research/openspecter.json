@@ -1,11 +1,11 @@
 {
   "slug": "openspecter",
   "name": "OpenSpecter",
-  "tagline": "Enterprise-grade AI workspace for legal teams. Self-hostable. Apache-2.0.",
+  "tagline": "Enterprise-grade AI workspace for legal teams. Self-hostable. AGPL-3.0.",
   "category": "legal-research",
   "tags": [
+    "agpl-3",
     "ai",
-    "apache-2",
     "enterprise-software",
     "legal-research",
     "legal-tech",
@@ -26,19 +26,19 @@
     "huggingface": null,
     "homepage": "https://www.openspecter.com/"
   },
-  "license": "Apache-2.0",
+  "license": "AGPL-3.0",
   "metrics": {
     "stars": 16,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-08T14:35:37Z",
+    "last_commit_at": "2026-05-17T01:09:36Z",
     "first_commit_at": "2026-05-08T14:14:36Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1966,
-  "rank_in_category": 15,
+  "composite_score": 0.2044,
+  "rank_in_category": 16,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-08T15:00:32.347717Z",
-  "last_refreshed_at": "2026-05-16T14:29:53.540171Z"
+  "last_refreshed_at": "2026-05-17T14:32:24.409542Z"
 }

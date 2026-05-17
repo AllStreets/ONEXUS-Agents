@@ -1,0 +1,40 @@
+{
+  "slug": "llvm-harness",
+  "name": "llvm-harness",
+  "tagline": "Agentic Harness for the LLVM Compiler",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "automated-program-repair",
+    "compiler",
+    "harness-engineering",
+    "llvm",
+    "swe-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dtcxzyw",
+    "url": "https://github.com/dtcxzyw"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dtcxzyw/llvm-harness",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2603.20075"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T12:55:32Z",
+    "first_commit_at": "2026-02-06T14:24:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1487,
+  "rank_in_category": 200,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-17T14:26:36.539946Z",
+  "last_refreshed_at": "2026-05-17T14:26:36.539950Z"
+}

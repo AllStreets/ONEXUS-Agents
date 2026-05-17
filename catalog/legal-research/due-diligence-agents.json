@@ -1,7 +1,7 @@
 {
   "slug": "due-diligence-agents",
   "name": "due-diligence-agents",
-  "tagline": "Find what gets buried in the data room. Open-source integrated M&A due diligence — 9 specialist domains across every contract, cross-referenced with exact citations.",
+  "tagline": "Find what gets buried in the data room. 13 AI agents analyze every contract across 9 domains (Legal, Finance, Commercial, Tech, Cyber, HR, Tax, Regulatory, ESG), cross-reference findings, and trace ea",
   "category": "legal-research",
   "tags": [
     "ai-agents",
@@ -9,11 +9,11 @@
     "claude",
     "compliance",
     "contract-analysis",
+    "corp-dev",
     "cybersecurity",
     "document-analysis",
     "due-diligence",
-    "esg",
-    "hr-tech"
+    "fintech"
   ],
   "author": {
     "type": "user",
@@ -30,15 +30,15 @@
   "metrics": {
     "stars": 16,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-30T03:31:04Z",
+    "last_commit_at": "2026-05-17T04:33:04Z",
     "first_commit_at": "2026-03-30T21:57:02Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.191,
-  "rank_in_category": 16,
+  "composite_score": 0.2072,
+  "rank_in_category": 15,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:25:18.710881Z",
-  "last_refreshed_at": "2026-05-16T14:29:35.761798Z"
+  "last_refreshed_at": "2026-05-17T14:32:08.437920Z"
 }
