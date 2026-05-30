@@ -1,7 +1,7 @@
 {
   "slug": "opencode-telegram-bot",
   "name": "opencode-telegram-bot",
-  "tagline": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support. Can be used as lightweight OpenClaw alterna",
+  "tagline": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support.",
   "category": "coding",
   "tags": [
     "ai-agent",
@@ -10,10 +10,10 @@
     "developer-tools",
     "grammy",
     "nodejs",
-    "openclaw",
     "openclaw-alternative",
     "opencode",
-    "telegram"
+    "telegram",
+    "telegrambot"
   ],
   "author": {
     "type": "user",
@@ -28,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 585,
+    "stars": 728,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-02T22:56:15Z",
+    "last_commit_at": "2026-05-30T08:47:36Z",
     "first_commit_at": "2026-02-11T15:19:15Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2272,
-  "rank_in_category": 129,
+  "composite_score": 0.2455,
+  "rank_in_category": 114,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:18:45.312795Z",
-  "last_refreshed_at": "2026-05-04T15:11:35.843455Z"
+  "last_refreshed_at": "2026-05-30T20:53:09.538974Z"
 }

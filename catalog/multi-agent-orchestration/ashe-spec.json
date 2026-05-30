@@ -1,0 +1,44 @@
+{
+  "slug": "ashe-spec",
+  "name": "ashe-spec",
+  "tagline": "ASHE — capability-broker protocol for AI agents. Open spec by Phor for AI agent capability mediation, multi-agent orchestration, and large language model governance. Apache 2.0 with patent grant.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-governance",
+    "agent-infrastructure",
+    "ai-agent-protocol",
+    "ai-agents",
+    "ai-protocol",
+    "ai-safety",
+    "ashe",
+    "bounded-outcomes",
+    "capability-mediation",
+    "llm-governance"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "patrickkarle",
+    "url": "https://github.com/patrickkarle"
+  },
+  "source": {
+    "primary": "github",
+    "github": "patrickkarle/ashe-spec",
+    "huggingface": null,
+    "homepage": "https://phor.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-30T15:27:38Z",
+    "first_commit_at": "2026-05-29T03:11:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2299,
+  "rank_in_category": 142,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:12:42.406190Z",
+  "last_refreshed_at": "2026-05-30T21:12:42.406193Z"
+}

@@ -9,11 +9,11 @@
     "agentic-rag",
     "agentic-workflow",
     "agents",
-    "ai-agent",
+    "ai-agents",
     "ai-assistant",
     "ai-coding",
     "ai-skills",
-    "anthropic-claude"
+    "autonomous-agents"
   ],
   "author": {
     "type": "user",
@@ -28,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 52160,
+    "stars": 56637,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-16T23:20:34Z",
+    "last_commit_at": "2026-05-30T20:51:20Z",
     "first_commit_at": "2025-06-02T21:24:20Z"
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3762,
+  "composite_score": 0.3785,
   "rank_in_category": 7,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-08T14:54:04.512755Z",
-  "last_refreshed_at": "2026-05-17T14:27:41.395597Z"
+  "last_refreshed_at": "2026-05-30T20:54:22.689121Z"
 }

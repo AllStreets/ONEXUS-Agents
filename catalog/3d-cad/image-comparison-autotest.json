@@ -1,0 +1,44 @@
+{
+  "slug": "image-comparison-autotest",
+  "name": "Image-Comparison-Autotest",
+  "tagline": "Automated 3D PDF export validation pipeline · STL rendering · C2W matrix reconstruction · SSIM · IoU · Python",
+  "category": "3d-cad",
+  "tags": [
+    "3d-cad",
+    "automation",
+    "computer-vision",
+    "image-processing",
+    "iou",
+    "matplotlib",
+    "morphological-processing",
+    "opencv",
+    "pdf-parsing",
+    "pikepdf"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "deshmukhvs23",
+    "url": "https://github.com/deshmukhvs23"
+  },
+  "source": {
+    "primary": "github",
+    "github": "deshmukhvs23/Image-Comparison-Autotest",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-27T19:16:43Z",
+    "first_commit_at": "2026-05-26T12:04:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3553,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:21:02.846884Z",
+  "last_refreshed_at": "2026-05-30T21:21:02.846888Z"
+}

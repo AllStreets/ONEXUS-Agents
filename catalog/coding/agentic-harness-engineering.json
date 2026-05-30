@@ -1,7 +1,7 @@
 {
   "slug": "agentic-harness-engineering",
   "name": "agentic-harness-engineering",
-  "tagline": "Official code for AHE — Agentic Harness Engineering: observability-driven automatic evolution of coding-agent harnesses (concurrent work with meta-harness). Lifts Terminal-Bench 2 pass@1 69.7%→77.0% o",
+  "tagline": "Official AHE code — Agentic Harness Engineering: observability-driven automatic evolution of coding-agent harnesses (concurrent w/ meta-harness). NexAU-AHE reaches 84.7% ± 2.1 pass@1 on Terminal-Bench",
   "category": "coding",
   "tags": [],
   "author": {
@@ -17,17 +17,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 207,
+    "stars": 474,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-05T05:01:49Z",
+    "last_commit_at": "2026-05-27T05:21:07Z",
     "first_commit_at": "2026-04-26T04:16:45Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2087,
-  "rank_in_category": 147,
+  "composite_score": 0.2307,
+  "rank_in_category": 137,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-02T14:12:23.096290Z",
-  "last_refreshed_at": "2026-05-17T14:28:17.024433Z"
+  "last_refreshed_at": "2026-05-30T20:54:55.251885Z"
 }

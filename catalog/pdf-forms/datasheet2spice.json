@@ -1,0 +1,44 @@
+{
+  "slug": "datasheet2spice",
+  "name": "datasheet2spice",
+  "tagline": "Traceable datasheet-to-SPICE model generation for power MOSFETs and diodes, with browser extraction and validation benchmarks.",
+  "category": "pdf-forms",
+  "tags": [
+    "circuit-simulation",
+    "datasheet",
+    "diode",
+    "eda",
+    "electronics",
+    "ltspice",
+    "modeling",
+    "mosfet",
+    "ngspice",
+    "open-source-eda"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lisiqi1983",
+    "url": "https://github.com/lisiqi1983"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lisiqi1983/datasheet2spice",
+    "huggingface": null,
+    "homepage": "https://lisiqi1983.github.io/datasheet2spice/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-21T07:40:28Z",
+    "first_commit_at": "2026-05-17T15:32:58Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3907,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:20:12.723838Z",
+  "last_refreshed_at": "2026-05-30T21:20:12.723842Z"
+}

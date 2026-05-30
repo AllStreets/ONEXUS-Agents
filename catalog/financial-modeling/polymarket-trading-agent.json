@@ -1,0 +1,44 @@
+{
+  "slug": "polymarket-trading-agent",
+  "name": "polymarket-trading-agent",
+  "tagline": "Automate Polymarket trading with real-time market data, position tracking, exit logic, and a local dashboard in Rust",
+  "category": "financial-modeling",
+  "tags": [
+    "agent",
+    "algorithmic-trading",
+    "copy-trade-bot",
+    "dflow",
+    "ethereum",
+    "kalshi",
+    "kelly-criterion",
+    "market",
+    "openclaw",
+    "politics-trading-bot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Roughim",
+    "url": "https://github.com/Roughim"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Roughim/polymarket-trading-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-30T17:42:43Z",
+    "first_commit_at": "2025-07-09T21:34:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2509,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T20:57:24.473895Z",
+  "last_refreshed_at": "2026-05-30T20:57:24.473899Z"
+}

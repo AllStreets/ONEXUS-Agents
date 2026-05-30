@@ -1,7 +1,7 @@
 {
   "slug": "story-shot-agent",
   "name": "story-shot-agent",
-  "tagline": "剧本分镜智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt | 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词。保持角色/剧情跨片段一致，支持 MCP/REST API/函数调用 | Python库 + A2A集成。（LLM-powered screenplay-to-vi",
+  "tagline": "剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt | 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词。保持角色/剧情跨片段一致，支持 MCP/REST API/函数调用 | Python库 + A2A集成。（LLM-powered screenplay-to-",
   "category": "video-generation",
   "tags": [
     "agent-to-agent",
@@ -28,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 68,
+    "stars": 84,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-15T10:32:32Z",
+    "last_commit_at": "2026-05-21T10:56:23Z",
     "first_commit_at": "2025-10-23T13:28:56Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4791,
-  "rank_in_category": 31,
+  "composite_score": 0.4748,
+  "rank_in_category": 34,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:31:53.789769Z",
-  "last_refreshed_at": "2026-05-17T14:36:21.806622Z"
+  "last_refreshed_at": "2026-05-30T21:02:52.302577Z"
 }

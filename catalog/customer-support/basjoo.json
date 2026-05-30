@@ -1,0 +1,44 @@
+{
+  "slug": "basjoo",
+  "name": "basjoo",
+  "tagline": "Open-source AI customer support platform — RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAPI + Next.js + R2R + pgvector.",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "chatbot",
+    "customer-support",
+    "embeddable-widget",
+    "fastapi",
+    "llm-agent",
+    "nextjs",
+    "open-source",
+    "pgvector",
+    "r2r"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "haoyiyin",
+    "url": "https://github.com/haoyiyin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "haoyiyin/basjoo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 116,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-30T18:24:31Z",
+    "first_commit_at": "2026-03-28T14:38:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.478,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T20:59:40.051467Z",
+  "last_refreshed_at": "2026-05-30T20:59:40.051471Z"
+}

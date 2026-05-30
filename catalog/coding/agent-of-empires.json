@@ -1,7 +1,7 @@
 {
   "slug": "agent-of-empires",
   "name": "agent-of-empires",
-  "tagline": "Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux a",
+  "tagline": "Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.",
   "category": "coding",
   "tags": [
     "ai-coding",
@@ -16,29 +16,29 @@
     "github-copilot-cli"
   ],
   "author": {
-    "type": "user",
-    "handle": "njbrake",
-    "url": "https://github.com/njbrake"
+    "type": "org",
+    "handle": "agent-of-empires",
+    "url": "https://github.com/agent-of-empires"
   },
   "source": {
     "primary": "github",
-    "github": "njbrake/agent-of-empires",
+    "github": "agent-of-empires/agent-of-empires",
     "huggingface": null,
     "homepage": "http://www.agent-of-empires.com/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 2269,
+    "stars": 2463,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-16T19:39:47Z",
+    "last_commit_at": "2026-05-30T20:54:15Z",
     "first_commit_at": "2026-01-09T19:03:59Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2639,
-  "rank_in_category": 82,
+  "composite_score": 0.2665,
+  "rank_in_category": 81,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-01T14:20:42.990833Z",
-  "last_refreshed_at": "2026-05-17T14:27:48.931393Z"
+  "first_seen_at": "2026-05-30T20:54:30.153106Z",
+  "last_refreshed_at": "2026-05-30T20:54:30.153110Z"
 }

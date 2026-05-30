@@ -1,7 +1,7 @@
 {
   "slug": "comfyui-wan-vace-prep",
   "name": "ComfyUI-Wan-VACE-Prep",
-  "tagline": "ComfyUI nodes designed to help make common video editing tasks with Wan VACE less complicated. Smooth transitions, extensions, outpainting.",
+  "tagline": "ComfyUI nodes designed to help make common video editing tasks with video generation models less complicated. Smooth transitions, extensions, outpainting. Primarily designed for Wan VACE, with some LT",
   "category": "image-generation",
   "tags": [
     "ai-video",
@@ -28,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 83,
+    "stars": 86,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-12T19:44:33Z",
+    "last_commit_at": "2026-05-28T23:33:36Z",
     "first_commit_at": "2026-01-03T23:55:53Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3279,
-  "rank_in_category": 37,
+  "composite_score": 0.3348,
+  "rank_in_category": 36,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:30:02.770570Z",
-  "last_refreshed_at": "2026-05-17T14:34:58.724922Z"
+  "last_refreshed_at": "2026-05-30T21:01:27.546063Z"
 }

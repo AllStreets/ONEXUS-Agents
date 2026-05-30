@@ -1,0 +1,44 @@
+{
+  "slug": "hybrid-rag-support-agent",
+  "name": "hybrid-rag-support-agent",
+  "tagline": "Production-grade hybrid RAG pipeline that classifies, routes, and responds to support tickets using BM25 retrieval + Claude LLM synthesis with deterministic triage, confidence-gated query expansion, a",
+  "category": "customer-support",
+  "tags": [
+    "ai-agent",
+    "bm25",
+    "claude-ai",
+    "customer-support",
+    "hybrid-search",
+    "information-retrieval",
+    "intelligent-agent",
+    "langchain-alternative",
+    "llm",
+    "machine-learning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yerramsettysuchita",
+    "url": "https://github.com/yerramsettysuchita"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yerramsettysuchita/hybrid-rag-support-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-29T08:55:17Z",
+    "first_commit_at": "2026-05-29T08:53:16Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3576,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T20:59:17.959138Z",
+  "last_refreshed_at": "2026-05-30T20:59:17.959141Z"
+}

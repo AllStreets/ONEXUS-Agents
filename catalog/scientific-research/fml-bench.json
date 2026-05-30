@@ -1,7 +1,7 @@
 {
   "slug": "fml-bench",
   "name": "FML-bench",
-  "tagline": "FML-bench: A Benchmark for Automatic ML Research Agents Highlighting the Importance of Exploration Breadth",
+  "tagline": "FML-bench",
   "category": "scientific-research",
   "tags": [
     "autonomous-research",
@@ -18,21 +18,21 @@
     "primary": "github",
     "github": "qrzou/FML-bench",
     "huggingface": null,
-    "homepage": "https://arxiv.org/abs/2510.10472"
+    "homepage": "https://arxiv.org/abs/2605.17373"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 21,
+    "stars": 22,
     "downloads_30d": null,
-    "last_commit_at": "2025-10-22T08:07:49Z",
-    "first_commit_at": "2025-10-17T14:41:34Z"
+    "last_commit_at": "2026-05-19T04:10:00Z",
+    "first_commit_at": "2026-05-17T17:09:32Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2768,
-  "rank_in_category": 93,
+  "composite_score": 0.4156,
+  "rank_in_category": 48,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:28:36.962786Z",
-  "last_refreshed_at": "2026-05-17T14:43:17.386234Z"
+  "last_refreshed_at": "2026-05-30T21:10:05.042301Z"
 }

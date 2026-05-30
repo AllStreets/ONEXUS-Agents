@@ -1,0 +1,39 @@
+{
+  "slug": "ehragent",
+  "name": "EhrAgent",
+  "tagline": "[EMNLP'24] EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records",
+  "category": "sql-analytics",
+  "tags": [
+    "ehr",
+    "llm",
+    "llm-agent",
+    "medical-qa",
+    "text-to-sql"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wshi83",
+    "url": "https://github.com/wshi83"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wshi83/EhrAgent",
+    "huggingface": null,
+    "homepage": "https://wshi83.github.io/EHR-Agent-page/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 136,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-26T17:45:46Z",
+    "first_commit_at": "2024-01-07T06:53:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2304,
+  "rank_in_category": 58,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:20:32.425301Z",
+  "last_refreshed_at": "2026-05-30T21:20:32.425305Z"
+}

@@ -1,19 +1,19 @@
 {
   "slug": "agents",
   "name": "agents",
-  "tagline": "Intelligent automation and multi-agent orchestration for Claude Code",
+  "tagline": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI",
   "category": "multi-agent-orchestration",
   "tags": [
+    "agent-skills",
+    "agentic-ai",
     "agents",
+    "ai-agents",
     "anthropic",
-    "anthropic-claude",
     "automation",
-    "claude",
     "claude-code",
-    "claude-code-cli",
-    "claude-code-commands",
-    "claude-code-plugin",
-    "claude-code-plugins"
+    "claude-code-plugins",
+    "codex-cli",
+    "copilot"
   ],
   "author": {
     "type": "user",
@@ -28,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 35530,
+    "stars": 36153,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-17T00:46:43Z",
+    "last_commit_at": "2026-05-29T19:12:02Z",
     "first_commit_at": "2025-07-24T23:29:24Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4173,
-  "rank_in_category": 22,
+  "composite_score": 0.4179,
+  "rank_in_category": 20,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-11T16:29:22.134833Z",
-  "last_refreshed_at": "2026-05-17T14:45:55.722990Z"
+  "last_refreshed_at": "2026-05-30T21:11:41.489300Z"
 }

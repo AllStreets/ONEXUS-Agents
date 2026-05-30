@@ -1,7 +1,7 @@
 {
   "slug": "lean-ctx",
   "name": "lean-ctx",
-  "tagline": "The Context OS for AI Development. Reduce token waste in Cursor, Claude Code, Copilot, Windsurf, Codex, Gemini and more by 60-95% (up to 99% on cached reads). Shell Hook + MCP Server. 59 tools. 10 rea",
+  "tagline": "LeanCTX — the cognitive context layer for agentic systems. 62 MCP tools, 10 read modes, 60+ shell patterns. Up to 99% token savings. Works with Cursor, Claude Code, Copilot, Windsurf, Codex, Gemini.",
   "category": "coding",
   "tags": [
     "agentic-coding",
@@ -9,11 +9,11 @@
     "ai-coding",
     "claude-code",
     "context-engineering",
+    "context-layer",
     "copilot",
     "cursor",
     "developer-tools",
-    "gemini-cli",
-    "llm"
+    "gemini-cli"
   ],
   "author": {
     "type": "user",
@@ -28,17 +28,17 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 1718,
+    "stars": 2279,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-17T14:16:40Z",
+    "last_commit_at": "2026-05-30T14:46:41Z",
     "first_commit_at": "2026-03-23T13:30:19Z"
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3055,
-  "rank_in_category": 30,
+  "composite_score": 0.3101,
+  "rank_in_category": 26,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-04T15:13:13.680819Z",
-  "last_refreshed_at": "2026-05-17T14:27:52.826899Z"
+  "last_refreshed_at": "2026-05-30T20:54:31.215568Z"
 }

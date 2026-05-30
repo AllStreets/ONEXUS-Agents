@@ -1,7 +1,7 @@
 {
   "slug": "open-multi-agent",
   "name": "open-multi-agent",
-  "tagline": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies.",
+  "tagline": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-framework",
@@ -28,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 6158,
+    "stars": 6292,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-15T13:58:24Z",
+    "last_commit_at": "2026-05-30T18:30:36Z",
     "first_commit_at": "2026-03-31T20:33:15Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3706,
-  "rank_in_category": 61,
+  "composite_score": 0.3739,
+  "rank_in_category": 58,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-10T14:39:50.247521Z",
-  "last_refreshed_at": "2026-05-17T14:45:00.508763Z"
+  "last_refreshed_at": "2026-05-30T21:11:49.117395Z"
 }

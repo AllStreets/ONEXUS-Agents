@@ -1,7 +1,7 @@
 {
   "slug": "code-review-graph",
   "name": "code-review-graph",
-  "tagline": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.",
+  "tagline": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
   "category": "coding",
   "tags": [
     "ai-coding",
@@ -28,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 16651,
+    "stars": 17720,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-16T13:11:25Z",
+    "last_commit_at": "2026-05-25T22:03:58Z",
     "first_commit_at": "2026-02-26T17:31:42Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2902,
-  "rank_in_category": 52,
+  "composite_score": 0.2875,
+  "rank_in_category": 58,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:20:35.668266Z",
-  "last_refreshed_at": "2026-05-17T14:27:44.023224Z"
+  "last_refreshed_at": "2026-05-30T20:54:25.277994Z"
 }

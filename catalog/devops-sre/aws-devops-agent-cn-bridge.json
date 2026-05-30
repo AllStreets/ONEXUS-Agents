@@ -1,0 +1,44 @@
+{
+  "slug": "aws-devops-agent-cn-bridge",
+  "name": "aws-devops-agent-cn-bridge",
+  "tagline": "CloudFormation bridge for AWS DevOps Agent (Global partition) to operate on aws-cn resources via IAM Roles Anywhere. Read-only by default; opt-in to PowerUser/Admin. Supports multi-MCP-server hosting ",
+  "category": "devops-sre",
+  "tags": [
+    "alb",
+    "aws",
+    "aws-cn",
+    "china-region",
+    "cloudformation",
+    "cloudfront",
+    "cross-partition",
+    "devops-agent",
+    "iam-roles-anywhere",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "RadiumGu",
+    "url": "https://github.com/RadiumGu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RadiumGu/aws-devops-agent-cn-bridge",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT-0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-21T14:29:56Z",
+    "first_commit_at": "2026-05-21T07:05:57Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2557,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:08:37.477849Z",
+  "last_refreshed_at": "2026-05-30T21:08:37.477852Z"
+}

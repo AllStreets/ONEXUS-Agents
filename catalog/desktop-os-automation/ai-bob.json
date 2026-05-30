@@ -1,0 +1,44 @@
+{
+  "slug": "ai-bob",
+  "name": "AI-BOB",
+  "tagline": "A fully offline, serverless intelligent desktop agent and OS manager for Windows. Combines local PyWebView GUI with quantized GGUF LLMs (Qwen/Gemma) featuring advanced Iraqi/Arabic dialect post-proces",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai-assistant",
+    "arabic-nlp",
+    "desktop-agent",
+    "gguf",
+    "iraqi-dialect",
+    "llm",
+    "offline-ai",
+    "pywebview",
+    "serverless",
+    "windows-automation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "gcp64",
+    "url": "https://github.com/gcp64"
+  },
+  "source": {
+    "primary": "github",
+    "github": "gcp64/AI-BOB",
+    "huggingface": null,
+    "homepage": "https://github.com/gcp64/AI-BOB"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-30T00:59:59Z",
+    "first_commit_at": "2026-05-26T19:29:21Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2294,
+  "rank_in_category": 55,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:06:51.095572Z",
+  "last_refreshed_at": "2026-05-30T21:06:51.095576Z"
+}

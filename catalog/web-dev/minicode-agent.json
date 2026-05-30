@@ -1,0 +1,44 @@
+{
+  "slug": "minicode-agent",
+  "name": "MiniCode-Agent",
+  "tagline": "Minimal local-Qwen coding agent in a single Python file. ReAct loop, tool dispatch, atomic tools, no framework. Educational.",
+  "category": "web-dev",
+  "tags": [
+    "aducational",
+    "agent-framework",
+    "ai-agent",
+    "coding-agent",
+    "function-calling",
+    "llm-agent",
+    "local-llm",
+    "no-framework",
+    "qwen",
+    "qwen3"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "xu-kai-quan",
+    "url": "https://github.com/xu-kai-quan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xu-kai-quan/MiniCode-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T10:57:02Z",
+    "first_commit_at": "2026-04-19T08:30:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2237,
+  "rank_in_category": 86,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T20:55:42.378657Z",
+  "last_refreshed_at": "2026-05-30T20:55:42.378661Z"
+}

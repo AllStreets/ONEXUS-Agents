@@ -1,0 +1,44 @@
+{
+  "slug": "pages-seo",
+  "name": "pages-seo",
+  "tagline": "Self-hosted programmatic-SEO + daily-AI-blog toolkit for Cloudflare Pages. Brand DNA → auto-planned content calendar → daily posts with hero images. Free tier covers most cases.",
+  "category": "content-writing",
+  "tags": [
+    "ai-blog",
+    "anthropic",
+    "cloudflare-pages",
+    "cloudflare-workers",
+    "context-generation",
+    "d1-database",
+    "edge-computing",
+    "free",
+    "gemini",
+    "indexnow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Benjamin-Bloch",
+    "url": "https://github.com/Benjamin-Bloch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Benjamin-Bloch/pages-seo",
+    "huggingface": null,
+    "homepage": "https://seo.benjaminb.xyz/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-24T12:27:14Z",
+    "first_commit_at": "2026-05-18T09:12:53Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3507,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:00:36.700048Z",
+  "last_refreshed_at": "2026-05-30T21:00:36.700051Z"
+}

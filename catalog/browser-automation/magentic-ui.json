@@ -1,7 +1,7 @@
 {
   "slug": "magentic-ui",
   "name": "magentic-ui",
-  "tagline": "A research prototype of a human-centered web agent",
+  "tagline": "An experimental agent that works across the browser and local file system",
   "category": "browser-automation",
   "tags": [
     "agents",
@@ -22,21 +22,21 @@
     "primary": "github",
     "github": "microsoft/magentic-ui",
     "huggingface": null,
-    "homepage": "https://www.microsoft.com/en-us/research/blog/magentic-ui-an-experimental-human-centered-web-agent/"
+    "homepage": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 9802,
+    "stars": 9872,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-15T17:43:12Z",
+    "last_commit_at": "2026-05-28T00:47:52Z",
     "first_commit_at": "2024-11-02T01:38:55Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3744,
-  "rank_in_category": 21,
+  "composite_score": 0.4029,
+  "rank_in_category": 9,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:26:50.550205Z",
-  "last_refreshed_at": "2026-04-30T16:15:56.499949Z"
+  "last_refreshed_at": "2026-05-30T21:05:24.324188Z"
 }

@@ -5,15 +5,15 @@
   "category": "desktop-os-automation",
   "tags": [
     "agent",
+    "agent-context",
+    "agent-harness",
     "agentic",
     "agentic-ai",
     "agents",
     "ai",
     "ai-agents",
     "aiagent",
-    "aiagents",
-    "autonomous-agents",
-    "cognitive-agents"
+    "aiagents"
   ],
   "author": {
     "type": "user",
@@ -28,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1280,
+    "stars": 1296,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-12T22:02:25Z",
+    "last_commit_at": "2026-05-26T20:43:45Z",
     "first_commit_at": "2023-09-16T15:09:48Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3915,
+  "composite_score": 0.3923,
   "rank_in_category": 8,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:27:05.580802Z",
-  "last_refreshed_at": "2026-05-17T14:39:48.457639Z"
+  "last_refreshed_at": "2026-05-30T21:06:22.348967Z"
 }

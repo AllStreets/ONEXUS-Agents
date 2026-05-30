@@ -1,0 +1,44 @@
+{
+  "slug": "airecipe",
+  "name": "AIrecipe",
+  "tagline": "AIrecipe — AI 驱动的智能菜谱全栈平台。微信小程序端支持 AI 拍照识别食材自动推荐菜谱、海量菜谱浏览与搜索、分步烹饪指导、食材智能对比、收藏夹系统、小冰箱食材管理、小菜篮采购清单、健身餐与儿童餐定制推荐。Vue3 后台管理系统支持菜谱/食材/用户/反馈全量 CRUD、AI 一键生成菜谱封面与步骤图、数据统计看板、RBAC 权限控制。Express + Prisma + Postgre",
+  "category": "cooking",
+  "tags": [
+    "ai-cooking",
+    "express",
+    "monorepo",
+    "pnpm",
+    "postgresql",
+    "prisma",
+    "recipe-management",
+    "typescript",
+    "vue3",
+    "wechat-miniprogram"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "csm5143",
+    "url": "https://github.com/csm5143"
+  },
+  "source": {
+    "primary": "github",
+    "github": "csm5143/AIrecipe",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-27T11:41:18Z",
+    "first_commit_at": "2026-04-21T15:44:27Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3581,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:18:35.230764Z",
+  "last_refreshed_at": "2026-05-30T21:18:35.230767Z"
+}

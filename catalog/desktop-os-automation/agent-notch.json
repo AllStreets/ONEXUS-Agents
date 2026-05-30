@@ -1,7 +1,7 @@
 {
   "slug": "agent-notch",
   "name": "agent-notch",
-  "tagline": "Agent Notch — macOS computer-use agent that lives in the notch. Voice in, screen context in, Claude Sonnet drives the mouse.",
+  "tagline": "macOS computer-use agent in the notch. Long-press, talk, Claude drives the mouse.",
   "category": "desktop-os-automation",
   "tags": [
     "ai-agent",
@@ -9,9 +9,9 @@
     "apple-silicon",
     "automation",
     "claude",
+    "claude-code",
     "computer-use",
     "desktop-agent",
-    "gemini",
     "hackathon",
     "llm"
   ],
@@ -26,19 +26,19 @@
     "huggingface": null,
     "homepage": "https://agent-notch.vercel.app/"
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 11,
+    "stars": 19,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-17T09:37:44Z",
+    "last_commit_at": "2026-05-23T23:18:34Z",
     "first_commit_at": "2026-05-16T17:44:54Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2688,
-  "rank_in_category": 37,
+  "composite_score": 0.2716,
+  "rank_in_category": 35,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-17T14:40:06.893442Z",
-  "last_refreshed_at": "2026-05-17T14:40:06.893445Z"
+  "last_refreshed_at": "2026-05-30T21:06:40.967590Z"
 }

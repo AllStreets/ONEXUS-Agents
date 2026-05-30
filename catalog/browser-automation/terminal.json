@@ -1,0 +1,39 @@
+{
+  "slug": "terminal",
+  "name": "terminal",
+  "tagline": "Terminal UI to get stuff done in the browser",
+  "category": "browser-automation",
+  "tags": [
+    "browser-automation",
+    "browser-use",
+    "cdp",
+    "terminal",
+    "tui"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "browser-use",
+    "url": "https://github.com/browser-use"
+  },
+  "source": {
+    "primary": "github",
+    "github": "browser-use/terminal",
+    "huggingface": null,
+    "homepage": "https://browser-use.com/terminal"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 486,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-30T20:29:36Z",
+    "first_commit_at": "2026-05-05T22:09:59Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3235,
+  "rank_in_category": 48,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:05:29.521573Z",
+  "last_refreshed_at": "2026-05-30T21:05:29.521576Z"
+}

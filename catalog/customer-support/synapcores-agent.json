@@ -1,0 +1,44 @@
+{
+  "slug": "synapcores-agent",
+  "name": "synapcores-agent",
+  "tagline": "Real, framework-free AI support agent where SynapCores is the brain — memory, RAG, tool routing, generation in one database. Browser chat widget + live Brain debug sidebar. Fork and run in 30s.",
+  "category": "customer-support",
+  "tags": [
+    "agentic-memory",
+    "ai-agent",
+    "chatbot",
+    "framework-free",
+    "llm",
+    "mcp",
+    "memory",
+    "python",
+    "rag",
+    "support-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SynapCores",
+    "url": "https://github.com/SynapCores"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SynapCores/synapcores-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-26T02:06:39Z",
+    "first_commit_at": "2026-05-25T23:22:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3947,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T20:59:16.313619Z",
+  "last_refreshed_at": "2026-05-30T20:59:16.313622Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "ai-healthcare-pipeline",
+  "name": "ai-healthcare-pipeline",
+  "tagline": "FHIR R4 → Snowflake → Dagster → Claude enrichment + LLM-as-Judge + Rules Engine → dbt Gold/Review routing. Dual-validation AI governance layer — confidence scoring + deterministic cross-validation mak",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "clinical-documentation",
+    "dagster",
+    "data-engineering",
+    "dbt",
+    "fhir",
+    "generative-ai",
+    "healthcare",
+    "llm",
+    "llm-as-judge"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ericg1212",
+    "url": "https://github.com/ericg1212"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ericg1212/ai-healthcare-pipeline",
+    "huggingface": null,
+    "homepage": "https://www.linkedin.com/in/ericgrynspan/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-26T02:43:16Z",
+    "first_commit_at": "2026-05-11T17:15:49Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2139,
+  "rank_in_category": 74,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:13:29.163391Z",
+  "last_refreshed_at": "2026-05-30T21:13:29.163394Z"
+}

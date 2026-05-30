@@ -1,0 +1,41 @@
+{
+  "slug": "tradehive-tradingagents",
+  "name": "TradeHive-TradingAgents",
+  "tagline": "Multi-agent LLM trading framework: hard-discipline (code) + soft-judgment (LLM) hybrid. Best risk-adjusted performance on NVDA 6-month benchmark — +43.9% / -3.2% MDD, beating RSI, Momentum, Buy & Hold",
+  "category": "financial-modeling",
+  "tags": [
+    "finance",
+    "financial-ai",
+    "langgraph",
+    "llm",
+    "multi-agent",
+    "quantitative-trading-tool",
+    "trading-agents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Handshakeworm",
+    "url": "https://github.com/Handshakeworm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Handshakeworm/TradeHive-TradingAgents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-26T01:55:18Z",
+    "first_commit_at": "2026-03-23T13:21:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2357,
+  "rank_in_category": 76,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T20:57:37.424966Z",
+  "last_refreshed_at": "2026-05-30T20:57:37.424970Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "clinical-decision-support-agent",
+  "name": "clinical-decision-support-agent",
+  "tagline": "mou11/clinical-decision-support-agent — text-generation",
+  "category": "healthcare",
+  "tags": [
+    "llm-agent",
+    "medical-ai",
+    "llm",
+    "clinical-decision-support",
+    "langgraph",
+    "pubmed",
+    "groq",
+    "llama",
+    "agent",
+    "medical"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mou11",
+    "url": "https://huggingface.co/mou11"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "mou11/clinical-decision-support-agent",
+    "homepage": null
+  },
+  "license": "mit",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": 59,
+    "last_commit_at": "2026-05-19T19:40:06Z",
+    "first_commit_at": "2026-05-15T22:09:01Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.502,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:14:33.665982Z",
+  "last_refreshed_at": "2026-05-30T21:14:33.665985Z"
+}
