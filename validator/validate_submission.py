@@ -73,15 +73,31 @@ def _validate_one(path: Path, allowed_cats: set[str]) -> list[str]:
     return errs
 
 
+def _is_meta_path(path: Path) -> bool:
+    """True for catalog metadata files we should NOT validate as Agent schema.
+
+    Catches both top-level files like catalog/_categories.json AND files inside
+    underscore-prefixed dirs like catalog/_dropped/2026-05-30.json (whose
+    filename doesn't start with underscore but whose parent does).
+    """
+    if path.name.startswith("_"):
+        return True
+    try:
+        rel_parts = path.resolve().relative_to(CATALOG_DIR.resolve()).parts
+    except ValueError:
+        return False
+    return any(part.startswith("_") for part in rel_parts)
+
+
 def _expand(targets: tuple[str, ...]) -> list[Path]:
     out: list[Path] = []
     if not targets:
-        out.extend(p for p in CATALOG_DIR.rglob("*.json") if not p.name.startswith("_"))
+        out.extend(p for p in CATALOG_DIR.rglob("*.json") if not _is_meta_path(p))
         return out
     for t in targets:
         p = Path(t)
         if p.is_dir():
-            out.extend(p.rglob("*.json"))
+            out.extend(q for q in p.rglob("*.json") if not _is_meta_path(q))
         else:
             out.append(p)
     return out
