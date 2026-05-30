@@ -1,0 +1,41 @@
+{
+  "slug": "computeruse-data-psai",
+  "name": "computeruse-data-psai",
+  "tagline": "This dataset contains 3,167 completed tasks of human-computer interactions captured with video, screenshots, DOM snapshots, and detailed interaction events. Created by Paradigm Shift AI for advancing ",
+  "category": "web-dev",
+  "tags": [
+    "browser-agent",
+    "computer-use",
+    "dataset",
+    "gui-agent",
+    "reinforcement-learning",
+    "training",
+    "web-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "anaishowland",
+    "url": "https://github.com/anaishowland"
+  },
+  "source": {
+    "primary": "github",
+    "github": "anaishowland/computeruse-data-psai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-29T17:43:47Z",
+    "first_commit_at": "2025-10-29T17:43:16Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0925,
+  "rank_in_category": 141,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T20:55:26.098442Z",
+  "last_refreshed_at": "2026-05-30T20:55:26.098446Z"
+}

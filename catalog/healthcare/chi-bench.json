@@ -1,0 +1,38 @@
+{
+  "slug": "chi-bench",
+  "name": "chi-bench",
+  "tagline": "Χ-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?",
+  "category": "healthcare",
+  "tags": [
+    "benchmark",
+    "care-management",
+    "healthcare-ai",
+    "prior-authorization"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "actava-ai",
+    "url": "https://github.com/actava-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "actava-ai/chi-bench",
+    "huggingface": null,
+    "homepage": "https://actava.ai/benchmarks"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 35,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-22T05:02:41Z",
+    "first_commit_at": "2026-05-07T17:12:16Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3031,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:13:57.978994Z",
+  "last_refreshed_at": "2026-05-30T21:13:57.978998Z"
+}

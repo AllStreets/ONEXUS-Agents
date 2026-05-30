@@ -1,0 +1,42 @@
+{
+  "slug": "provenant",
+  "name": "provenant",
+  "tagline": "Wiki-based retrieval for AI coding agents. 65× token reduction, +24pp Coverage@5 on SWE-bench Verified.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "codebase-indexing",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "python",
+    "retrieval-augmented-generation",
+    "swe-bench"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shreyash-sharma",
+    "url": "https://github.com/shreyash-sharma"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shreyash-sharma/provenant",
+    "huggingface": null,
+    "homepage": "https://www.shreyashsharma.com/writing/provenant"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-28T13:56:27Z",
+    "first_commit_at": "2026-05-23T16:29:42Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1836,
+  "rank_in_category": 182,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T20:55:07.081966Z",
+  "last_refreshed_at": "2026-05-30T20:55:07.081969Z"
+}

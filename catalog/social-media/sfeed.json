@@ -1,19 +1,18 @@
 {
   "slug": "sfeed",
   "name": "sfeed",
-  "tagline": "Post to social media using any AI Agent (Claude Code, Codex, etc)",
+  "tagline": "Schedule post to social media using any AI Agent (Claude Code, Codex, etc)",
   "category": "social-media",
   "tags": [
-    "agent-skills",
     "agentic-social-media",
-    "ai-agents",
-    "cli-tool",
     "facebook-post-automation",
-    "instagram",
     "instagram-automation-tools",
     "instagram-post-scheduler",
-    "mcp-server",
-    "posting-scheduler"
+    "posting-scheduler",
+    "social-media-agent",
+    "social-media-automation",
+    "social-media-scheduler",
+    "social-media-tools"
   ],
   "author": {
     "type": "user",
@@ -30,15 +29,15 @@
   "metrics": {
     "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-16T16:36:09Z",
+    "last_commit_at": "2026-05-30T19:29:27Z",
     "first_commit_at": "2026-04-09T04:28:57Z"
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4121,
-  "rank_in_category": 33,
+  "composite_score": 0.4148,
+  "rank_in_category": 34,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:30:42.304252Z",
-  "last_refreshed_at": "2026-05-17T14:50:04.945389Z"
+  "last_refreshed_at": "2026-05-30T21:16:52.744870Z"
 }

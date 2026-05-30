@@ -1,9 +1,10 @@
 {
   "slug": "ai-dj",
   "name": "ai-dj",
-  "tagline": "VST3 for live performance. 8 tracks, 8 AI models, 30 seconds of patience per loop. It occasionally hallucinates. Not a song generator — you still have to do the work. Stay human.",
+  "tagline": "Standalone (Ableton Link) + VST3/AU for live performance. 8 tracks, 8 AI models, 30 seconds of patience per loop. It occasionally hallucinates. Not a song generator - you still have to do the work. St",
   "category": "music",
   "tags": [
+    "ableton-link-audio",
     "ai",
     "ai-music",
     "ai-music-generation",
@@ -12,8 +13,7 @@
     "daw",
     "juce",
     "live-performance",
-    "llm",
-    "music-ai"
+    "llm"
   ],
   "author": {
     "type": "user",
@@ -28,17 +28,17 @@
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 210,
+    "stars": 215,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-17T12:31:06Z",
-    "first_commit_at": "2025-05-16T10:45:36Z"
+    "last_commit_at": "2026-05-30T21:11:56Z",
+    "first_commit_at": "2025-05-16T10:35:06Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3943,
-  "rank_in_category": 25,
+  "composite_score": 0.3963,
+  "rank_in_category": 26,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T16:00:06.204590Z",
-  "last_refreshed_at": "2026-05-17T14:52:12.549171Z"
+  "last_refreshed_at": "2026-05-30T21:18:56.714841Z"
 }

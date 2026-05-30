@@ -1,0 +1,44 @@
+{
+  "slug": "patter",
+  "name": "Patter",
+  "tagline": "Open-source voice-AI SDK. The Vapi/Retell alternative for builders who want to own the stack. Give your AI agent a phone number in 4 lines — Python and TypeScript, MIT licensed, Twilio, Telnyx, and Pl",
+  "category": "audio-speech",
+  "tags": [
+    "ai-agent",
+    "ai-phone-agent",
+    "conversational-ai",
+    "llm",
+    "mcp",
+    "open-source",
+    "openai",
+    "python",
+    "realtime-api",
+    "sdk"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "PatterAI",
+    "url": "https://github.com/PatterAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PatterAI/Patter",
+    "huggingface": null,
+    "homepage": "https://getpatter.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 302,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-30T18:20:46Z",
+    "first_commit_at": "2026-04-07T13:26:11Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4552,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:03:25.179637Z",
+  "last_refreshed_at": "2026-05-30T21:03:25.179641Z"
+}

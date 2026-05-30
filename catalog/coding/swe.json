@@ -1,0 +1,43 @@
+{
+  "slug": "swe",
+  "name": "swe",
+  "tagline": "Runs mini-swe-agent against a local Ollama instance (qwen2.5-coder:7b) — no cloud API keys required.",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "coding-agent",
+    "docker",
+    "llm",
+    "local-llm",
+    "mini-swe-agent",
+    "ollama",
+    "qwen",
+    "swe-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "binRick",
+    "url": "https://github.com/binRick"
+  },
+  "source": {
+    "primary": "github",
+    "github": "binRick/swe",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-23T01:49:18Z",
+    "first_commit_at": "2026-04-03T20:21:45Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1357,
+  "rank_in_category": 227,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T20:53:27.260912Z",
+  "last_refreshed_at": "2026-05-30T20:53:27.260916Z"
+}

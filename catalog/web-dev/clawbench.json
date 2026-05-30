@@ -16,29 +16,29 @@
     "chrome-extension"
   ],
   "author": {
-    "type": "user",
-    "handle": "reacher-z",
-    "url": "https://github.com/reacher-z"
+    "type": "org",
+    "handle": "TIGER-AI-Lab",
+    "url": "https://github.com/TIGER-AI-Lab"
   },
   "source": {
     "primary": "github",
-    "github": "reacher-z/ClawBench",
+    "github": "TIGER-AI-Lab/ClawBench",
     "huggingface": null,
     "homepage": "https://claw-bench.com/"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 292,
+    "stars": 348,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-17T04:43:44Z",
+    "last_commit_at": "2026-05-25T00:33:10Z",
     "first_commit_at": "2026-04-10T07:49:42Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3753,
-  "rank_in_category": 25,
+  "composite_score": 0.3723,
+  "rank_in_category": 23,
   "discovered_via": "auto",
-  "first_seen_at": "2026-04-30T03:24:02.027690Z",
-  "last_refreshed_at": "2026-05-17T14:28:30.509918Z"
+  "first_seen_at": "2026-05-30T20:55:11.324630Z",
+  "last_refreshed_at": "2026-05-30T20:55:11.324633Z"
 }

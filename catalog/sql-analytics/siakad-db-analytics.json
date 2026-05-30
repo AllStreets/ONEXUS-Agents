@@ -1,0 +1,42 @@
+{
+  "slug": "siakad-db-analytics",
+  "name": "siakad-db-analytics",
+  "tagline": "Academic Information System (SIAKAD) relational database optimized in 3NF and integrated with a real-time executive analytics dashboard using Python and MySQL.",
+  "category": "sql-analytics",
+  "tags": [
+    "dashboard",
+    "data-engineering",
+    "data-visualization",
+    "database-design",
+    "mysql",
+    "python",
+    "sql-analytics",
+    "streamlit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dimssrmdn01",
+    "url": "https://github.com/dimssrmdn01"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dimssrmdn01/siakad-db-analytics",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-27T13:53:10Z",
+    "first_commit_at": "2026-05-26T07:11:26Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2268,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:20:42.864464Z",
+  "last_refreshed_at": "2026-05-30T21:20:42.864467Z"
+}

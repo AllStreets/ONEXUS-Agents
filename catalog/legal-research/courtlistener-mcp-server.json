@@ -1,0 +1,44 @@
+{
+  "slug": "courtlistener-mcp-server",
+  "name": "courtlistener-mcp-server",
+  "tagline": "Search and retrieve US court opinions, federal dockets, judge records, citation networks, and oral arguments from CourtListener's 9M+ opinion corpus via MCP. STDIO or Streamable HTTP.",
+  "category": "legal-research",
+  "tags": [
+    "ai-agents",
+    "ai-tools",
+    "case-law",
+    "citation-network",
+    "court-opinions",
+    "courtlistener",
+    "cyanheads",
+    "federal-courts",
+    "judges",
+    "legal"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "cyanheads",
+    "url": "https://github.com/cyanheads"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cyanheads/courtlistener-mcp-server",
+    "huggingface": null,
+    "homepage": "https://www.npmjs.com/package/@cyanheads/courtlistener-mcp-server"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-30T14:02:42Z",
+    "first_commit_at": "2026-05-26T00:03:09Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.19,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T20:59:09.485081Z",
+  "last_refreshed_at": "2026-05-30T20:59:09.485085Z"
+}

@@ -1,17 +1,16 @@
 {
   "slug": "nowork",
   "name": "nowork",
-  "tagline": "NoWork: A desktop AI workstation for multi-agent collaboration. Let AI agents handle your workflows while you relax.",
+  "tagline": "NoWork — open-source desktop AI agent workspace for coding, research, documents, and multi-agent workflows.",
   "category": "desktop-os-automation",
   "tags": [
-    "agents",
-    "agno",
     "ai-agent",
-    "coding-assistant",
+    "ai-agents",
+    "coding-agent",
     "desktop-agent",
-    "llm",
-    "vibe-coding",
-    "vibe-working"
+    "desktop-agents",
+    "desktop-ai",
+    "multi-agent"
   ],
   "author": {
     "type": "user",
@@ -26,17 +25,17 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 1,
+    "stars": 2,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-16T13:28:26Z",
+    "last_commit_at": "2026-05-25T03:27:40Z",
     "first_commit_at": "2026-04-22T08:32:35Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2306,
-  "rank_in_category": 53,
+  "composite_score": 0.2379,
+  "rank_in_category": 51,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:27:25.823756Z",
-  "last_refreshed_at": "2026-05-17T14:40:16.171987Z"
+  "last_refreshed_at": "2026-05-30T21:06:49.664140Z"
 }

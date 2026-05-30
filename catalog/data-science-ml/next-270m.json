@@ -7,13 +7,13 @@
     "transformers",
     "safetensors",
     "gguf",
-    "gemma3_text",
-    "text-generation",
     "turkish",
     "türkiye",
     "english",
     "ai",
-    "lamapi"
+    "lamapi",
+    "gemma3",
+    "next"
   ],
   "author": {
     "type": "org",
@@ -29,16 +29,16 @@
   "license": "mit",
   "metrics": {
     "stars": 5,
-    "downloads_30d": 145,
+    "downloads_30d": 127,
     "last_commit_at": "2026-03-01T18:19:11Z",
     "first_commit_at": "2025-10-18T15:16:36Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3583,
-  "rank_in_category": 11,
+  "composite_score": 0.3367,
+  "rank_in_category": 12,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T16:55:58.451941Z",
-  "last_refreshed_at": "2026-05-17T14:30:31.048300Z"
+  "last_refreshed_at": "2026-05-30T20:57:06.339654Z"
 }

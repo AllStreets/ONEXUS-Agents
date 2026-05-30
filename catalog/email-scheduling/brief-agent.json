@@ -1,0 +1,44 @@
+{
+  "slug": "brief-agent",
+  "name": "brief-agent",
+  "tagline": "Demo of an AI email brief agent built on iGPT, delivers a chief-of-staff style brief over your inbox with priorities, deadlines, statuses, and next steps. Includes a reusable LangGraph base class for ",
+  "category": "email-scheduling",
+  "tags": [
+    "agent-framework",
+    "agentic-ai",
+    "ai-agents",
+    "ai-assistant",
+    "chief-of-staff",
+    "daily-briefing",
+    "email-agent",
+    "email-assistant",
+    "email-brief",
+    "email-intelligence"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "igptai",
+    "url": "https://github.com/igptai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "igptai/brief-agent",
+    "huggingface": null,
+    "homepage": "https://www.igpt.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-03T15:13:30Z",
+    "first_commit_at": "2026-05-03T15:13:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.321,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:08:19.356719Z",
+  "last_refreshed_at": "2026-05-30T21:08:19.356722Z"
+}

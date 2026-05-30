@@ -1,0 +1,39 @@
+{
+  "slug": "codicodec-flow",
+  "name": "CoDiCodec-Flow",
+  "tagline": "Realtime audio generation model using Flow Matching DiT on CoDiCodec latents.",
+  "category": "music",
+  "tags": [
+    "ai-music",
+    "diffusion-transformer",
+    "flow-matching",
+    "neural-audio-synthesis",
+    "realtime-audio-streaming"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "moiseshorta",
+    "url": "https://github.com/moiseshorta"
+  },
+  "source": {
+    "primary": "github",
+    "github": "moiseshorta/CoDiCodec-Flow",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 28,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-30T18:13:16Z",
+    "first_commit_at": "2026-05-15T11:59:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.308,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:19:07.943432Z",
+  "last_refreshed_at": "2026-05-30T21:19:07.943435Z"
+}

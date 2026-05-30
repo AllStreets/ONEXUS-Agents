@@ -1,7 +1,7 @@
 {
   "slug": "pilot-shell",
   "name": "pilot-shell",
-  "tagline": "How real engineers run Claude Code: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make Claude Code production-ready.",
+  "tagline": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.",
   "category": "coding",
   "tags": [
     "ai-agents",
@@ -28,17 +28,17 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 1721,
+    "stars": 1733,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-15T11:31:04Z",
+    "last_commit_at": "2026-05-28T19:23:18Z",
     "first_commit_at": "2025-10-24T05:48:02Z"
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3136,
+  "composite_score": 0.3143,
   "rank_in_category": 20,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:20:47.420983Z",
-  "last_refreshed_at": "2026-05-17T14:27:52.344633Z"
+  "last_refreshed_at": "2026-05-30T20:54:33.911392Z"
 }

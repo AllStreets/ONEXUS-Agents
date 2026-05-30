@@ -1,7 +1,7 @@
 {
   "slug": "coddy-agent",
   "name": "coddy-agent",
-  "tagline": "Open-source distroless harness coding agent in Go. Works with any IDE via ACP. Supports any OpenAI-compatible providers. Can use SKILLS and MCP servers.",
+  "tagline": "Open-source distroless harness coding agent in Go. Has embedded WebUI. Works with any IDE via ACP and with OpenAI clients via OpenAI-compatible REST API. Supports any OpenAI-compatible providers. Can ",
   "category": "coding",
   "tags": [
     "acp",
@@ -28,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 11,
+    "stars": 44,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-17T13:16:23Z",
+    "last_commit_at": "2026-05-30T19:59:22Z",
     "first_commit_at": "2026-03-23T06:49:03Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1797,
-  "rank_in_category": 175,
+  "composite_score": 0.2013,
+  "rank_in_category": 166,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:19:50.268639Z",
-  "last_refreshed_at": "2026-05-17T14:27:13.138545Z"
+  "last_refreshed_at": "2026-05-30T20:53:53.389303Z"
 }

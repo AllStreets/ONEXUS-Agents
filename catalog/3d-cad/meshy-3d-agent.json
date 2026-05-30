@@ -1,0 +1,44 @@
+{
+  "slug": "meshy-3d-agent",
+  "name": "meshy-3d-agent",
+  "tagline": "AI agent skills for Meshy AI 3D generation platform",
+  "category": "3d-cad",
+  "tags": [
+    "3d-generation",
+    "agent-skills",
+    "ai",
+    "claude-code-skills",
+    "claude-skills",
+    "cursor-skills",
+    "image-to-3d",
+    "meshy",
+    "skill-md",
+    "text-to-3d"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "meshy-dev",
+    "url": "https://github.com/meshy-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "meshy-dev/meshy-3d-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-09T03:16:20Z",
+    "first_commit_at": "2026-03-17T05:38:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4511,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:21:04.795552Z",
+  "last_refreshed_at": "2026-05-30T21:21:04.795555Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "uodo-mcp",
+  "name": "uodo-mcp",
+  "tagline": "MCP server for searching and analyzing UODO decisions (Polish Data Protection Authority). For lawyers, DPOs, and compliance teams.",
+  "category": "legal-research",
+  "tags": [
+    "data-protection",
+    "gdpr",
+    "legal-research",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "model-context-protocol-servers",
+    "rodo",
+    "uodo"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pawelojdowski",
+    "url": "https://github.com/pawelojdowski"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pawelojdowski/uodo-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-11T09:52:55Z",
+    "first_commit_at": "2026-05-06T06:52:12Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.1722,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T20:59:05.330899Z",
+  "last_refreshed_at": "2026-05-30T20:59:05.330902Z"
+}

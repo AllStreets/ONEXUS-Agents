@@ -1,0 +1,43 @@
+{
+  "slug": "contract-whisperer",
+  "name": "contract-whisperer",
+  "tagline": "Live tool to understand what a smart contract really does — paste an address, get an answer",
+  "category": "legal-research",
+  "tags": [
+    "ai",
+    "contract-analysis",
+    "ethereum",
+    "nextjs",
+    "smart-contracts",
+    "solidity",
+    "typescript",
+    "viem",
+    "web3"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mariano-aguero",
+    "url": "https://github.com/mariano-aguero"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mariano-aguero/contract-whisperer",
+    "huggingface": null,
+    "homepage": "https://contract-whisperer-one.vercel.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-20T12:14:25Z",
+    "first_commit_at": "2026-01-15T20:09:22Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0905,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T20:58:48.386789Z",
+  "last_refreshed_at": "2026-05-30T20:58:48.386792Z"
+}

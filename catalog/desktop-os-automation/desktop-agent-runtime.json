@@ -1,0 +1,44 @@
+{
+  "slug": "desktop-agent-runtime",
+  "name": "desktop-agent-runtime",
+  "tagline": "Local-first desktop AI companion runtime integrating launcher, Open-LLM-VTuber, GPT-SoVITS, Live2D, memory, tools, and project prompts.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai-companion",
+    "desktop-agent",
+    "electron",
+    "gpt-sovits",
+    "live2d",
+    "local-first",
+    "open-llm-vtuber",
+    "python",
+    "typescript",
+    "voice-assistant"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lulu930128",
+    "url": "https://github.com/lulu930128"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lulu930128/desktop-agent-runtime",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-30T15:45:06Z",
+    "first_commit_at": "2026-05-15T04:28:14Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2421,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:06:47.792306Z",
+  "last_refreshed_at": "2026-05-30T21:06:47.792309Z"
+}

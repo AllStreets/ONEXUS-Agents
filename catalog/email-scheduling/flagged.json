@@ -1,7 +1,7 @@
 {
   "slug": "flagged",
   "name": "flagged",
-  "tagline": "Local AI email monitor. Watches your Gmail, scores importance with a local LLM, alerts you on Telegram. Privacy-first — nothing leaves your machine. flagged.email",
+  "tagline": "Open-source important-email highlighter. Keep using Gmail and surface emails that are too important to miss with frontier or open-source models.",
   "category": "email-scheduling",
   "tags": [
     "ai",
@@ -24,21 +24,21 @@
     "primary": "github",
     "github": "Massideation/flagged",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://flagged.email/"
   },
   "license": "MIT",
   "metrics": {
     "stars": 1,
     "downloads_30d": null,
-    "last_commit_at": "2026-03-06T16:15:38Z",
+    "last_commit_at": "2026-05-30T17:56:32Z",
     "first_commit_at": "2026-03-06T15:28:49Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2733,
-  "rank_in_category": 22,
+  "composite_score": 0.3679,
+  "rank_in_category": 8,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:27:56.669533Z",
-  "last_refreshed_at": "2026-05-17T14:41:34.437328Z"
+  "last_refreshed_at": "2026-05-30T21:08:14.557509Z"
 }

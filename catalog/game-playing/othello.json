@@ -1,37 +1,44 @@
 {
   "slug": "othello",
   "name": "Othello",
-  "tagline": "Implementation of the game othello (reversi) in C++ and ARM",
+  "tagline": "A Two Board Game I Guess",
   "category": "game-playing",
   "tags": [
-    "arm",
-    "assembly-language-programming",
-    "game-playing"
+    "adversial-search",
+    "ai-research",
+    "alpha-beta-pruning",
+    "artificial-intelligence",
+    "board-game",
+    "computer-vision",
+    "flask",
+    "flask-socketio",
+    "from-scratch",
+    "game-ai"
   ],
   "author": {
     "type": "user",
-    "handle": "samarthaggarwal",
-    "url": "https://github.com/samarthaggarwal"
+    "handle": "Sachcith",
+    "url": "https://github.com/Sachcith"
   },
   "source": {
     "primary": "github",
-    "github": "samarthaggarwal/Othello",
+    "github": "Sachcith/Othello",
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 3,
+    "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2018-06-24T20:00:40Z",
-    "first_commit_at": "2018-06-24T19:54:02Z"
+    "last_commit_at": "2026-05-30T18:53:06Z",
+    "first_commit_at": "2025-08-15T13:32:23Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2505,
-  "rank_in_category": 35,
+  "composite_score": 0.3875,
+  "rank_in_category": 12,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-06T16:01:11.385160Z",
-  "last_refreshed_at": "2026-05-17T14:52:46.011455Z"
+  "first_seen_at": "2026-05-30T21:19:12.648342Z",
+  "last_refreshed_at": "2026-05-30T21:19:12.648345Z"
 }

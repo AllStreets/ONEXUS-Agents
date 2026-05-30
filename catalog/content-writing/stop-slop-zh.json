@@ -1,0 +1,44 @@
+{
+  "slug": "stop-slop-zh",
+  "name": "stop-slop-zh",
+  "tagline": "🚫 Stop AI slop in Chinese writing. 干掉中文 AI 味 — banned words, punctuation rules, structure constraints & 4-layer QA. Works with Claude Code, Cursor, Codex CLI.",
+  "category": "content-writing",
+  "tags": [
+    "ai-writing",
+    "anti-ai-slop",
+    "chinese",
+    "chinese-nlp",
+    "claude-code",
+    "claude-skills",
+    "content-writing",
+    "skills",
+    "stop-slop",
+    "writing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pencil20388-eng",
+    "url": "https://github.com/pencil20388-eng"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pencil20388-eng/stop-slop-zh",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-28T06:34:27Z",
+    "first_commit_at": "2026-05-26T01:53:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4282,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-30T21:00:41.912361Z",
+  "last_refreshed_at": "2026-05-30T21:00:41.912364Z"
+}
