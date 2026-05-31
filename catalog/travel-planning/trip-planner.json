@@ -1,36 +1,43 @@
 {
   "slug": "trip-planner",
   "name": "trip-planner",
-  "tagline": "Furkot trip planner widget",
+  "tagline": "Simple trip planner to find attractions in place. Creates KML file for map and add description to OneNote. It is using OpenAI and Google APIs",
   "category": "travel-planning",
   "tags": [
-    "microdata",
-    "trip-planner"
+    "google-maps",
+    "google-maps-api",
+    "onenote",
+    "openai",
+    "openai-api",
+    "trip-assistant",
+    "trip-planner",
+    "trip-planning",
+    "trips"
   ],
   "author": {
-    "type": "org",
-    "handle": "furkot",
-    "url": "https://github.com/furkot"
+    "type": "user",
+    "handle": "mkesicki",
+    "url": "https://github.com/mkesicki"
   },
   "source": {
     "primary": "github",
-    "github": "furkot/trip-planner",
+    "github": "mkesicki/trip-planner",
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
     "stars": 2,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-15T03:11:40Z",
-    "first_commit_at": "2014-02-09T22:25:27Z"
+    "last_commit_at": "2026-02-28T19:38:15Z",
+    "first_commit_at": "2023-08-29T19:08:53Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3873,
-  "rank_in_category": 19,
+  "composite_score": 0.3411,
+  "rank_in_category": 26,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-06T15:54:52.680628Z",
-  "last_refreshed_at": "2026-05-30T21:14:52.951097Z"
+  "first_seen_at": "2026-05-31T15:06:55.650163Z",
+  "last_refreshed_at": "2026-05-31T15:06:55.650167Z"
 }

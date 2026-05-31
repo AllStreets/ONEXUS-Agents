@@ -1,0 +1,44 @@
+{
+  "slug": "gemini-spark",
+  "name": "gemini-spark",
+  "tagline": "Google Gemini Spark agent — system-wide control beyond Google Workspace. Zero setup, free launch tier. Win/Mac. MIT.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai-agent",
+    "antigravity",
+    "autonomous-agent",
+    "desktop-agent",
+    "gemini-3-5",
+    "gemini-agent",
+    "gemini-spark",
+    "gemini-spark-desktop",
+    "gemini-spark-download",
+    "gemini-spark-downloader"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "google-gemini-spark",
+    "url": "https://github.com/google-gemini-spark"
+  },
+  "source": {
+    "primary": "github",
+    "github": "google-gemini-spark/gemini-spark",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-21T10:21:48Z",
+    "first_commit_at": "2026-05-21T10:03:28Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2201,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-31T14:58:53.115837Z",
+  "last_refreshed_at": "2026-05-31T14:58:53.115841Z"
+}

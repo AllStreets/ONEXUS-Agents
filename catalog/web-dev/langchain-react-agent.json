@@ -4,16 +4,16 @@
   "tagline": "基于 LangChain/LangGraph 的 ReAct Agent ，结合 RAG、工具调用与 Streamlit 界面，面向智能客服与报告生成场景。",
   "category": "web-dev",
   "tags": [
-    "agentic-ai",
     "ai-agent",
-    "deepseek",
-    "function-calling",
-    "generative-ai",
+    "chromadb",
+    "dashscope",
     "langchain",
     "langgraph",
     "llm",
-    "mcp",
-    "rag"
+    "qwen",
+    "rag",
+    "react-agent",
+    "streamlit"
   ],
   "author": {
     "type": "user",
@@ -28,7 +28,7 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 216,
+    "stars": 217,
     "downloads_30d": null,
     "last_commit_at": "2026-05-10T06:59:55Z",
     "first_commit_at": "2026-03-11T07:02:42Z"
@@ -36,9 +36,9 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3398,
+  "composite_score": 0.3389,
   "rank_in_category": 33,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-14T15:21:52.888939Z",
-  "last_refreshed_at": "2026-05-30T20:55:31.207972Z"
+  "last_refreshed_at": "2026-05-31T14:47:09.906220Z"
 }
