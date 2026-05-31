@@ -1,0 +1,44 @@
+{
+  "slug": "ai-support-agent-template",
+  "name": "ai-support-agent-template",
+  "tagline": "Production-ready AI support-agent template with FastAPI, Markdown knowledge base, retrieval pipeline, session memory, safety policies and optional WebSocket worker integration.",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-agent-tools",
+    "ai-agents-automation",
+    "automation",
+    "docker",
+    "fastapi",
+    "llm",
+    "python",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "byKalachevski",
+    "url": "https://github.com/byKalachevski"
+  },
+  "source": {
+    "primary": "github",
+    "github": "byKalachevski/ai-support-agent-template",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-31T13:05:20Z",
+    "first_commit_at": "2026-05-31T11:54:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3599,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-31T14:51:05.748304Z",
+  "last_refreshed_at": "2026-05-31T14:51:05.748308Z"
+}

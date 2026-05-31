@@ -1,0 +1,44 @@
+{
+  "slug": "agent-desk",
+  "name": "agent-desk",
+  "tagline": "Open-source AI customer support system. AI-first support, human-ready operations.",
+  "category": "customer-support",
+  "tags": [
+    "ai-agent",
+    "chatbot",
+    "customer-service",
+    "customer-support",
+    "customer-support-ai",
+    "golang",
+    "helpdesk",
+    "knowledge-base",
+    "live-chat",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "huabeitech",
+    "url": "https://github.com/huabeitech"
+  },
+  "source": {
+    "primary": "github",
+    "github": "huabeitech/agent-desk",
+    "huggingface": null,
+    "homepage": "https://agent-desk.huabei.pro/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 73,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-31T13:57:37Z",
+    "first_commit_at": "2026-04-09T02:01:23Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4661,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-31T14:51:31.782380Z",
+  "last_refreshed_at": "2026-05-31T14:51:31.782384Z"
+}
