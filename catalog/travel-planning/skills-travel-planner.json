@@ -1,0 +1,44 @@
+{
+  "slug": "skills-travel-planner",
+  "name": "skills-travel-planner",
+  "tagline": "开源 AI 路书生成工具 · Cursor/Claude Agent Skill：简版行程表 → tripData.json → 可交付 HTML/PDF。小红书配图、LLM 润色、飞猪酒店数据。Open-source AI travel roadbook generator for custom tour advisors.",
+  "category": "travel-planning",
+  "tags": [
+    "ai-travel-planner",
+    "claude-skill",
+    "cursor-skill",
+    "custom-travel",
+    "html-itinerary",
+    "itinerary-generator",
+    "llm",
+    "roadbook",
+    "travel-agent",
+    "trip-planner"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "huanyuzhilv",
+    "url": "https://github.com/huanyuzhilv"
+  },
+  "source": {
+    "primary": "github",
+    "github": "huanyuzhilv/skills-travel-planner",
+    "huggingface": null,
+    "homepage": "https://huanyuzhilv.github.io/skills-travel-planner/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T13:57:54Z",
+    "first_commit_at": "2026-06-01T13:10:31Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3823,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T19:06:35.569764Z",
+  "last_refreshed_at": "2026-06-01T19:06:35.569767Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "outlook-agent",
+  "name": "outlook-agent",
+  "tagline": "Local safety-gated MCP bridge for AI agents and Outlook mail & calendar: metadata-first reads, explicit content, reviewed sends, guarded cleanup.",
+  "category": "email-scheduling",
+  "tags": [
+    "agent-safety",
+    "ai-agents",
+    "calendar-agent",
+    "cli",
+    "email-agent",
+    "ews",
+    "exchange",
+    "golang",
+    "llm-tools",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "johnkil",
+    "url": "https://github.com/johnkil"
+  },
+  "source": {
+    "primary": "github",
+    "github": "johnkil/outlook-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T11:07:30Z",
+    "first_commit_at": "2026-05-27T16:30:53Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4253,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T18:58:32.520205Z",
+  "last_refreshed_at": "2026-06-01T18:58:32.520208Z"
+}

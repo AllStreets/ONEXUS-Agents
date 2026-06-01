@@ -1,0 +1,44 @@
+{
+  "slug": "paper-pilot",
+  "name": "paper-pilot",
+  "tagline": "Your AI's research copilot. Searches 6 academic databases, downloads real PDFs, reads them cover to cover, extracts evidence, renders figures. MCP server for Claude, Codex & any AI agent. Free & open ",
+  "category": "scientific-research",
+  "tags": [
+    "academic-search",
+    "ai-agent",
+    "ai-research",
+    "arxiv",
+    "claude",
+    "codex",
+    "deep-research",
+    "literature-review",
+    "llm-tools",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aytzey",
+    "url": "https://github.com/aytzey"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aytzey/paper-pilot",
+    "huggingface": null,
+    "homepage": "https://github.com/aytzey/paper-pilot"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T12:53:42Z",
+    "first_commit_at": "2026-04-09T14:46:30Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4427,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T19:01:06.276280Z",
+  "last_refreshed_at": "2026-06-01T19:01:06.276284Z"
+}

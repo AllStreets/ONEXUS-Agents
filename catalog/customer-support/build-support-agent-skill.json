@@ -1,0 +1,39 @@
+{
+  "slug": "build-support-agent-skill",
+  "name": "build-support-agent-skill",
+  "tagline": "Agent Skill playbook for building DaanBot-style customer support agents",
+  "category": "customer-support",
+  "tags": [
+    "agent-skills",
+    "customer-support",
+    "daanbot",
+    "rag",
+    "support-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "DefaultHQ",
+    "url": "https://github.com/DefaultHQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DefaultHQ/build-support-agent-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T17:01:29Z",
+    "first_commit_at": "2026-05-29T20:47:51Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3601,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T18:47:16.906692Z",
+  "last_refreshed_at": "2026-06-01T18:47:16.906695Z"
+}

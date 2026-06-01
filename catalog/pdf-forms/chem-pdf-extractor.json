@@ -1,0 +1,44 @@
+{
+  "slug": "chem-pdf-extractor",
+  "name": "chem-pdf-extractor",
+  "tagline": "LLM-powered scientific PDF data extraction tool for chemistry and chemical engineering literature.",
+  "category": "pdf-forms",
+  "tags": [
+    "catalysis",
+    "chemical-engineering",
+    "data-extraction",
+    "excel-export",
+    "literature-review",
+    "llm",
+    "materials-science",
+    "ollama",
+    "pdf-extraction",
+    "research-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "myklovenyzforever",
+    "url": "https://github.com/myklovenyzforever"
+  },
+  "source": {
+    "primary": "github",
+    "github": "myklovenyzforever/chem-pdf-extractor",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T10:38:16Z",
+    "first_commit_at": "2026-06-01T07:13:52Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4096,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T19:14:10.854890Z",
+  "last_refreshed_at": "2026-06-01T19:14:10.854893Z"
+}

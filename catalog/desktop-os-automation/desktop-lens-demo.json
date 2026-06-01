@@ -1,0 +1,44 @@
+{
+  "slug": "desktop-lens-demo",
+  "name": "desktop-lens-demo",
+  "tagline": "macOS desktop activity monitor — captures window events & screenshots, reconstructs workflows via LLM (Claude/Gemini/Kimi). Tauri 2 + Rust + React PoC.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "activity-monitor",
+    "desktop-agent",
+    "llm",
+    "macos",
+    "react",
+    "rust",
+    "sqlite",
+    "tauri",
+    "typescript",
+    "vite"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "0xkaz",
+    "url": "https://github.com/0xkaz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "0xkaz/desktop-lens-demo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-31T20:39:18Z",
+    "first_commit_at": "2026-05-31T17:22:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2291,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T18:57:01.274441Z",
+  "last_refreshed_at": "2026-06-01T18:57:01.274444Z"
+}

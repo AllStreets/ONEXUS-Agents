@@ -1,0 +1,44 @@
+{
+  "slug": "alook",
+  "name": "alook",
+  "tagline": "The collaboration layer for your AI workforce. Run a team of AI agents that coordinate over email, share memory, and get better with every task.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-automation",
+    "agent-orchestration",
+    "agent-workflow",
+    "ai-agents",
+    "ai-collaboration",
+    "ai-memory",
+    "ai-workforce",
+    "autonomous-agents",
+    "claude-code",
+    "claude-code-skills"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "alookai",
+    "url": "https://github.com/alookai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alookai/alook",
+    "huggingface": null,
+    "homepage": "https://alook.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 258,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T18:30:34Z",
+    "first_commit_at": "2026-04-07T15:39:18Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3226,
+  "rank_in_category": 108,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T19:03:41.964234Z",
+  "last_refreshed_at": "2026-06-01T19:03:41.964237Z"
+}

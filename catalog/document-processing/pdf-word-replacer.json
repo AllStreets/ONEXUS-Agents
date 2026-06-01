@@ -1,0 +1,44 @@
+{
+  "slug": "pdf-word-replacer",
+  "name": "pdf-word-replacer",
+  "tagline": "Python CLI to replace visible PDF text with font-aware fallback and cleaner word spacing.",
+  "category": "document-processing",
+  "tags": [
+    "automation",
+    "cli",
+    "document-processing",
+    "pdf",
+    "pdf-editor",
+    "pdf-processing",
+    "pdf-tools",
+    "pymupdf",
+    "python",
+    "text-replacement"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pumpzera",
+    "url": "https://github.com/pumpzera"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pumpzera/pdf-word-replacer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 87,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T06:01:13Z",
+    "first_commit_at": "2026-04-05T05:10:52Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3994,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T18:58:13.156811Z",
+  "last_refreshed_at": "2026-06-01T18:58:13.156814Z"
+}

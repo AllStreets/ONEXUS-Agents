@@ -1,7 +1,7 @@
 {
   "slug": "clawbench",
   "name": "ClawBench",
-  "tagline": "Open-source benchmark for browser AI agents on 153 everyday online tasks across 144 live websites. 5-layer recording + DOM-match + LLM judge. Top score 33.3%.",
+  "tagline": "Open-source benchmark for browser AI agents on daily tasks.",
   "category": "web-dev",
   "tags": [
     "agent-evaluation",
@@ -28,7 +28,7 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 349,
+    "stars": 353,
     "downloads_30d": null,
     "last_commit_at": "2026-05-25T00:33:10Z",
     "first_commit_at": "2026-04-10T07:49:42Z"
@@ -36,9 +36,9 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3712,
+  "composite_score": 0.3698,
   "rank_in_category": 24,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-30T20:55:11.324630Z",
-  "last_refreshed_at": "2026-05-31T14:46:49.251165Z"
+  "last_refreshed_at": "2026-06-01T18:41:27.474767Z"
 }
