@@ -1,0 +1,43 @@
+{
+  "slug": "minicode",
+  "name": "MiniCode",
+  "tagline": "A lightweight terminal coding assistant with Claude Code-like workflow, tool loop, and TUI architecture, built for learning and experimentation. Multi-language support: TypeScript , Python and Rust im",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "cli",
+    "coding-agent",
+    "developer-tools",
+    "nodejs",
+    "terminal",
+    "tool-calling",
+    "tui",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "LiuMengxuan04",
+    "url": "https://github.com/LiuMengxuan04"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LiuMengxuan04/MiniCode",
+    "huggingface": null,
+    "homepage": "https://liumengxuan04.github.io/MiniCode/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 744,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-21T05:25:32Z",
+    "first_commit_at": "2026-03-31T16:12:17Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2312,
+  "rank_in_category": 138,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T18:38:49.842523Z",
+  "last_refreshed_at": "2026-06-01T18:38:49.842526Z"
+}

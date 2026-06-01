@@ -1,0 +1,33 @@
+{
+  "slug": "qwen-code",
+  "name": "qwen-code",
+  "tagline": "An open-source AI coding agent that lives in your terminal.",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "QwenLM",
+    "url": "https://github.com/QwenLM"
+  },
+  "source": {
+    "primary": "github",
+    "github": "QwenLM/qwen-code",
+    "huggingface": null,
+    "homepage": "https://qwenlm.github.io/qwen-code-docs/en/users/overview"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 24827,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T16:26:32Z",
+    "first_commit_at": "2025-04-17T17:19:55Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3193,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T18:40:49.599006Z",
+  "last_refreshed_at": "2026-06-01T18:40:49.599010Z"
+}

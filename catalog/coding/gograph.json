@@ -1,0 +1,44 @@
+{
+  "slug": "gograph",
+  "name": "gograph",
+  "tagline": "A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases.",
+  "category": "coding",
+  "tags": [
+    "agentic-coding",
+    "ai-agent",
+    "ai-coding-assistant",
+    "antigravity",
+    "ast",
+    "claude-code",
+    "cli",
+    "code-analysis",
+    "code-navigation",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ozgurcd",
+    "url": "https://github.com/ozgurcd"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ozgurcd/gograph",
+    "huggingface": null,
+    "homepage": "https://github.com/ozgurcd/gograph"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 150,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-31T00:27:39Z",
+    "first_commit_at": "2026-05-08T23:15:09Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2647,
+  "rank_in_category": 85,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T18:39:34.507177Z",
+  "last_refreshed_at": "2026-06-01T18:39:34.507180Z"
+}

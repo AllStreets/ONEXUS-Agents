@@ -1,0 +1,44 @@
+{
+  "slug": "docstore",
+  "name": "docstore",
+  "tagline": " Extract structured fields from documents once, query forever",
+  "category": "document-processing",
+  "tags": [
+    "caching",
+    "claude-code",
+    "document-extraction",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "python",
+    "rag",
+    "structured-data",
+    "vibecoding"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "LumientAI",
+    "url": "https://github.com/LumientAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LumientAI/docstore",
+    "huggingface": null,
+    "homepage": "https://docstore.lumient.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T11:32:35Z",
+    "first_commit_at": "2026-05-31T20:08:42Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4373,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T18:57:46.511323Z",
+  "last_refreshed_at": "2026-06-01T18:57:46.511326Z"
+}

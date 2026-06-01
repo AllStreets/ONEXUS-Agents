@@ -1,0 +1,44 @@
+{
+  "slug": "qwopus3-6-27b-v2-mtp-gguf-etheroi",
+  "name": "Qwopus3.6-27B-v2-MTP-GGUF-etheroi",
+  "tagline": "developerjeremylive/Qwopus3.6-27B-v2-MTP-GGUF-etheroi — image-text-to-text",
+  "category": "devops-sre",
+  "tags": [
+    "transformers",
+    "gguf",
+    "llama.cpp",
+    "image-text-to-text",
+    "vision",
+    "multimodal",
+    "text-generation-inference",
+    "unsloth",
+    "conversational",
+    "mtp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "developerjeremylive",
+    "url": "https://huggingface.co/developerjeremylive"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "developerjeremylive/Qwopus3.6-27B-v2-MTP-GGUF-etheroi",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 46,
+    "last_commit_at": "2026-05-31T22:55:16Z",
+    "first_commit_at": "2026-05-31T22:55:15Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3091,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T18:59:41.363373Z",
+  "last_refreshed_at": "2026-06-01T18:59:41.363376Z"
+}

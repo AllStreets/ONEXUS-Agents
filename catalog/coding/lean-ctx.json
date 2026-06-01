@@ -1,7 +1,7 @@
 {
   "slug": "lean-ctx",
   "name": "lean-ctx",
-  "tagline": "LeanCTX — the cognitive context layer for agentic systems. 62 MCP tools, 10 read modes, 60+ shell patterns. Up to 99% token savings. Works with Cursor, Claude Code, Copilot, Windsurf, Codex, Gemini.",
+  "tagline": "LeanCTX — the Context OS for AI development. One local binary that compresses, remembers, routes, and verifies every token between your code and the model. 63 MCP tools, 10 read modes, up to 99% token",
   "category": "coding",
   "tags": [
     "agentic-coding",
@@ -28,17 +28,17 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 2287,
+    "stars": 2330,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-31T13:04:16Z",
+    "last_commit_at": "2026-06-01T15:22:56Z",
     "first_commit_at": "2026-03-23T13:30:19Z"
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3104,
-  "rank_in_category": 25,
+  "composite_score": 0.3106,
+  "rank_in_category": 26,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-04T15:13:13.680819Z",
-  "last_refreshed_at": "2026-05-31T14:46:08.367590Z"
+  "last_refreshed_at": "2026-06-01T18:40:35.955841Z"
 }

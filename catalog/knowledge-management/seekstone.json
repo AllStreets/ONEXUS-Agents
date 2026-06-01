@@ -1,0 +1,44 @@
+{
+  "slug": "seekstone",
+  "name": "seekstone",
+  "tagline": "Obsidian MCP server for Claude — filesystem-direct, 575× smaller payloads than the REST plugin. No Obsidian app or plugins required.",
+  "category": "knowledge-management",
+  "tags": [
+    "ai",
+    "claude",
+    "llm",
+    "markdown",
+    "mcp",
+    "model-context-protocol",
+    "nodejs",
+    "notes",
+    "obsidian",
+    "obsidian-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shaqmughal",
+    "url": "https://github.com/shaqmughal"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shaqmughal/seekstone",
+    "huggingface": null,
+    "homepage": "https://www.npmjs.com/package/obsidian-mcp-seekstone"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T02:55:34Z",
+    "first_commit_at": "2026-05-29T01:30:23Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4092,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-01T19:13:45.244888Z",
+  "last_refreshed_at": "2026-06-01T19:13:45.244892Z"
+}
