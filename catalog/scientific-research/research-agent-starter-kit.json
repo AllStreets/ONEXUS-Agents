@@ -1,19 +1,19 @@
 {
   "slug": "research-agent-starter-kit",
   "name": "research-agent-starter-kit",
-  "tagline": "A privacy-first starter kit for research agents: source-first workflows, cognitive planning, self-review loops, writing-quality gates, literature ops, and GitHub-safe sharing.",
+  "tagline": "A privacy-first starter kit for research agents: source-first workflows, material passports, formal delivery guards, self-review, knowledge-base setup, external review fallback, and safe sharing.",
   "category": "scientific-research",
   "tags": [
     "academic-research",
     "academic-writing",
     "ai-agent",
     "codex",
+    "delivery-guard",
+    "external-review",
     "knowledge-base",
     "literature-review",
-    "privacy-first",
-    "python",
-    "research-agent",
-    "research-automation"
+    "material-passport",
+    "obsidian"
   ],
   "author": {
     "type": "user",
@@ -28,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 6,
+    "stars": 7,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-30T21:04:27Z",
+    "last_commit_at": "2026-06-02T10:18:47Z",
     "first_commit_at": "2026-05-28T18:39:39Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3907,
-  "rank_in_category": 57,
+  "composite_score": 0.3982,
+  "rank_in_category": 53,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-01T19:01:04.883588Z",
-  "last_refreshed_at": "2026-06-01T19:01:04.883591Z"
+  "last_refreshed_at": "2026-06-02T17:43:36.106442Z"
 }

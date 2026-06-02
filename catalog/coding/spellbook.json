@@ -1,0 +1,44 @@
+{
+  "slug": "spellbook",
+  "name": "spellbook",
+  "tagline": "Cross-runtime skills for Claude Code, Codex, and multi-agent workflows.",
+  "category": "coding",
+  "tags": [
+    "agent-skills",
+    "ai-agent-skills",
+    "ai-agents",
+    "ai-coding-assistant",
+    "automation",
+    "claude",
+    "claude-code",
+    "claude-code-skills",
+    "code-review",
+    "codex"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "majiayu000",
+    "url": "https://github.com/majiayu000"
+  },
+  "source": {
+    "primary": "github",
+    "github": "majiayu000/spellbook",
+    "huggingface": null,
+    "homepage": "https://github.com/majiayu000/spellbook#quick-start"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 153,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T16:04:12Z",
+    "first_commit_at": "2025-12-09T08:17:46Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2261,
+  "rank_in_category": 143,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-02T17:23:52.062627Z",
+  "last_refreshed_at": "2026-06-02T17:23:52.062631Z"
+}

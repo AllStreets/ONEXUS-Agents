@@ -1,0 +1,44 @@
+{
+  "slug": "compdf-skills",
+  "name": "compdf-skills",
+  "tagline": "ComPDF skills are AI-agent-ready PDF processing skills for Claude Code, Cursor, Copilot, OpenCode, and 39+ coding agents to convert, edit, split, insert, compare, compress PDFs., and more",
+  "category": "document-processing",
+  "tags": [
+    "ai-agent",
+    "claude-skills",
+    "cursor",
+    "document-processing",
+    "opencode",
+    "pdf-conversion",
+    "pdf-editor",
+    "pdf-sdk",
+    "pdf-viewer",
+    "skills"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ComPDFKit",
+    "url": "https://github.com/ComPDFKit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ComPDFKit/compdf-skills",
+    "huggingface": null,
+    "homepage": "https://www.compdf.com/?utm_source=github&utm_medium=skills_about&utm_campaign=compdf_github_skills_about_repo&ref_platform_id=github_compdfkit"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 99,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-25T06:29:15Z",
+    "first_commit_at": "2026-03-27T01:29:34Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4685,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-02T17:40:55.220926Z",
+  "last_refreshed_at": "2026-06-02T17:40:55.220929Z"
+}
