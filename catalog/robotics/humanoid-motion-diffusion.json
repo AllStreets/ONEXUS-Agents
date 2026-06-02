@@ -1,0 +1,42 @@
+{
+  "slug": "humanoid-motion-diffusion",
+  "name": "Humanoid-Motion-Diffusion",
+  "tagline": "Official implementation of Humanoid-Motion-Diffusion, leveraging generative diffusion models to synthesize advanced motion controllers for humanoid robots and legged locomotion research.",
+  "category": "robotics",
+  "tags": [
+    "aist",
+    "diffusion-models",
+    "humanoid-robotics",
+    "pytorch",
+    "reinforcement-learning",
+    "robotics-ai",
+    "sim-to-real",
+    "smpl"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Blackhand01",
+    "url": "https://github.com/Blackhand01"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Blackhand01/Humanoid-Motion-Diffusion",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-02T16:41:45Z",
+    "first_commit_at": "2026-05-10T19:44:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3621,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-02T17:54:58.081258Z",
+  "last_refreshed_at": "2026-06-02T17:54:58.081262Z"
+}

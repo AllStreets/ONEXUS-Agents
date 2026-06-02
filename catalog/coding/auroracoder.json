@@ -1,0 +1,44 @@
+{
+  "slug": "auroracoder",
+  "name": "AuroraCoder",
+  "tagline": "An autonomous AI coding agent with novel innovations in tool state management and code editing, running in a Docker sandbox with a persistent shell, parallel tools, and a VNC desktop.",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "ai-coding-assistant",
+    "autonomous-agent",
+    "deepseek",
+    "deepseek-coder",
+    "docker",
+    "glm",
+    "llm-agent",
+    "novnc",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "1001WillsStudio",
+    "url": "https://github.com/1001WillsStudio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "1001WillsStudio/AuroraCoder",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-02T14:07:05Z",
+    "first_commit_at": "2025-04-09T02:26:25Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1926,
+  "rank_in_category": 178,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-02T17:23:18.866255Z",
+  "last_refreshed_at": "2026-06-02T17:23:18.866259Z"
+}

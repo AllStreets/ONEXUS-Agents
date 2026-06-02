@@ -1,0 +1,33 @@
+{
+  "slug": "travel-agent",
+  "name": "travel-agent",
+  "tagline": "> 基于 Multi-Agent 架构的智能旅行规划系统，集成高德地图 MCP 服务，支持 CLI 和 Web 双界面。输入目的地、日期和偏好，AI 自动规划包含天气、景点、酒店、餐饮、交通和预算的完整旅行方案。",
+  "category": "travel-planning",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "yichunfu5-prog",
+    "url": "https://github.com/yichunfu5-prog"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yichunfu5-prog/travel-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-28T01:45:03Z",
+    "first_commit_at": "2026-05-21T13:47:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4541,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-02T17:49:42.457624Z",
+  "last_refreshed_at": "2026-06-02T17:49:42.457628Z"
+}
