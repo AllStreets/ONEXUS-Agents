@@ -1,0 +1,41 @@
+{
+  "slug": "finer",
+  "name": "finer",
+  "tagline": "Agent-native pipeline for converting multimodal financial KOL timelines into evidence-linked investment intents, trade actions, and backtestable performance.",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-agent",
+    "backtesting",
+    "financial-ai",
+    "investment-research",
+    "llm",
+    "multimodal-ai",
+    "rlhf"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kelipovanatalja453-bot",
+    "url": "https://github.com/kelipovanatalja453-bot"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kelipovanatalja453-bot/finer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T17:33:28Z",
+    "first_commit_at": "2026-04-28T02:10:41Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2406,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-03T18:07:15.068335Z",
+  "last_refreshed_at": "2026-06-03T18:07:15.068338Z"
+}

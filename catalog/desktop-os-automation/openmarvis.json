@@ -1,0 +1,44 @@
+{
+  "slug": "openmarvis",
+  "name": "OpenMarvis",
+  "tagline": "Open-source Marvis-like desktop AI agent for macOS — Main + File + Search Agents, layered dispatch protocol, mv-* card rendering, 3-tier security gate. FastAPI + Next.js. Apache 2.0.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agentic-ai",
+    "ai-agent",
+    "anthropic",
+    "claude",
+    "desktop-agent",
+    "fastapi",
+    "llm",
+    "macos",
+    "marvis",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "george351419-sys",
+    "url": "https://github.com/george351419-sys"
+  },
+  "source": {
+    "primary": "github",
+    "github": "george351419-sys/OpenMarvis",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T16:35:59Z",
+    "first_commit_at": "2026-06-01T09:49:38Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2301,
+  "rank_in_category": 57,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-03T18:19:51.357345Z",
+  "last_refreshed_at": "2026-06-03T18:19:51.357348Z"
+}
