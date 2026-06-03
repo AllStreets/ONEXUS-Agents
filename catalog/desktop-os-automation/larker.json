@@ -1,0 +1,42 @@
+{
+  "slug": "larker",
+  "name": "larker",
+  "tagline": "AI-driven desktop automation agent with VLM-powered visual UI understanding and dual-track localization (OpenCV + VLM).",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent",
+    "computer-use",
+    "desktop-agent",
+    "opencv",
+    "pyautogui",
+    "python",
+    "ui-automation",
+    "vlm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "qiadastrachen-bit",
+    "url": "https://github.com/qiadastrachen-bit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "qiadastrachen-bit/larker",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T08:30:32Z",
+    "first_commit_at": "2026-04-23T15:41:02Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2436,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-03T18:19:40.814204Z",
+  "last_refreshed_at": "2026-06-03T18:19:40.814208Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "patch",
+  "name": "patch",
+  "tagline": "An autonomous SWE-agent: give it a repo + a bug, it locates the code, edits it, runs the tests, iterates, and returns a verified git diff. Works on a throwaway copy. Bounded, inspectable, fully test-m",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "ai-agent",
+    "anthropic",
+    "automated-bug-fixing",
+    "claude",
+    "code-repair",
+    "developer-tools",
+    "llm-agent",
+    "pytest",
+    "swe-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "alexandremourin",
+    "url": "https://github.com/alexandremourin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alexandremourin/patch",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T11:48:44Z",
+    "first_commit_at": "2026-06-03T17:05:00Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1397,
+  "rank_in_category": 227,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-03T18:01:33.791221Z",
+  "last_refreshed_at": "2026-06-03T18:01:33.791225Z"
+}
