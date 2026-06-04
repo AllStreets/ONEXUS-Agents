@@ -1,0 +1,44 @@
+{
+  "slug": "fhir-agent-benchmark",
+  "name": "fhir-agent-benchmark",
+  "tagline": "An open benchmark for evaluating AI agents on FHIR-native healthcare workflows: clinical reasoning, medication reconciliation, FHIR generation, data-quality detection, safety, and serialization robust",
+  "category": "healthcare",
+  "tags": [
+    "agents",
+    "benchmark",
+    "clinical-ai",
+    "evaluation",
+    "fhir",
+    "healthcare-ai",
+    "hl7",
+    "interoperability",
+    "llm",
+    "llm-agents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Faridmurzone",
+    "url": "https://github.com/Faridmurzone"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Faridmurzone/fhir-agent-benchmark",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T12:00:31Z",
+    "first_commit_at": "2026-05-31T16:06:36Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2369,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-04T16:46:14.249445Z",
+  "last_refreshed_at": "2026-06-04T16:46:14.249446Z"
+}

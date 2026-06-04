@@ -1,7 +1,7 @@
 {
   "slug": "magentic-ui",
   "name": "magentic-ui",
-  "tagline": "An experimental agent that works across the browser and local file system",
+  "tagline": "MagenticLite is an experimental agent that works across the browser and local file system",
   "category": "browser-automation",
   "tags": [
     "agents",
@@ -11,7 +11,9 @@
     "browser-use",
     "computer-use-agent",
     "cua",
-    "ui"
+    "fara",
+    "magenticbrain",
+    "magenticlite"
   ],
   "author": {
     "type": "org",
@@ -26,17 +28,17 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 9889,
+    "stars": 9895,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-28T00:47:52Z",
+    "last_commit_at": "2026-06-04T03:40:56Z",
     "first_commit_at": "2024-11-02T01:38:55Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3991,
-  "rank_in_category": 12,
+  "composite_score": 0.4057,
+  "rank_in_category": 11,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:26:50.550205Z",
-  "last_refreshed_at": "2026-06-03T18:18:00.567460Z"
+  "last_refreshed_at": "2026-06-04T16:36:28.598142Z"
 }

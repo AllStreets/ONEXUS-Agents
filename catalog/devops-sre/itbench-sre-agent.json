@@ -1,0 +1,33 @@
+{
+  "slug": "itbench-sre-agent",
+  "name": "ITBench-SRE-Agent",
+  "tagline": "⚠️ ARCHIVED - All development moved to https://github.com/itbench-hub/ITBench-CISO-SRE-FinOps-Agent",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "itbench-hub",
+    "url": "https://github.com/itbench-hub"
+  },
+  "source": {
+    "primary": "github",
+    "github": "itbench-hub/ITBench-SRE-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-09T20:31:01Z",
+    "first_commit_at": "2025-02-08T20:20:44Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1535,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-04T16:41:11.670954Z",
+  "last_refreshed_at": "2026-06-04T16:41:11.670956Z"
+}
