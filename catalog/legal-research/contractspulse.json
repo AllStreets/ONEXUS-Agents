@@ -1,0 +1,43 @@
+{
+  "slug": "contractspulse",
+  "name": "ContractsPulse",
+  "tagline": "Self-hosted AI contract intelligence platform for legal-grade risk analysis and plain-English clause warnings. Built with SvelteKit, FastAPI, and Pydantic-AI.",
+  "category": "legal-research",
+  "tags": [
+    "ai-agents",
+    "contract-analysis",
+    "fastapi",
+    "homelab",
+    "legaltech",
+    "pydantic-ai",
+    "risk-assessment",
+    "self-hosted",
+    "sveltekit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aayushus",
+    "url": "https://github.com/aayushus"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aayushus/ContractsPulse",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T17:24:19Z",
+    "first_commit_at": "2026-05-17T21:06:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1563,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-04T16:28:28.762011Z",
+  "last_refreshed_at": "2026-06-04T16:28:28.762013Z"
+}
