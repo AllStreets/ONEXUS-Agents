@@ -1,16 +1,19 @@
 {
   "slug": "monkeycode",
   "name": "MonkeyCode",
-  "tagline": "AI 开发平台，内置云端开发环境，并支持业内最全的顶尖大模型。无论是开发项目、做调研、写文档，还是分析数据、处理任务，打开浏览器就能随时开始，让 AI 持续帮你推进工作",
+  "tagline": "企业级 AI 开发平台，内置了开发环境管理、AI 模型管理、AI 任务管理、项目需求管理等能力，是真正面向专业开发团队的 AI 助手",
   "category": "coding",
   "tags": [
     "ai",
+    "ai-agent",
     "ai-coding",
-    "ai-security",
-    "aicodeassistant",
+    "ai-coding-assistant",
     "aicoding",
+    "claude",
+    "codex",
     "coding",
-    "vscode-extension"
+    "cursor",
+    "opencode"
   ],
   "author": {
     "type": "org",
@@ -25,9 +28,9 @@
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 3219,
+    "stars": 3222,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-04T13:50:56Z",
+    "last_commit_at": "2026-06-05T14:02:24Z",
     "first_commit_at": "2026-03-09T07:42:50Z"
   },
   "benchmarks": [],
@@ -37,5 +40,5 @@
   "rank_in_category": 84,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:20:24.824578Z",
-  "last_refreshed_at": "2026-06-04T16:22:48.270989Z"
+  "last_refreshed_at": "2026-06-05T15:54:55.719226Z"
 }

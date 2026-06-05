@@ -1,7 +1,7 @@
 {
   "slug": "tradearena",
   "name": "TradeArena",
-  "tagline": "Auditable benchmark framework for LLM trading agents with replayable trajectories, realistic execution, risk gates, and quickstart demos.",
+  "tagline": "TreLLM is an LLM-driven trading audit and control system; TradeArena is its public leaderboard for replayable trajectories, risk gates, execution calibration, and reproducible agent evidence.",
   "category": "financial-modeling",
   "tags": [
     "agent-benchmark",
@@ -10,10 +10,10 @@
     "auditability",
     "backtesting",
     "benchmark",
+    "execution-calibration",
     "execution-simulation",
     "financial-ai",
-    "llm-agents",
-    "portfolio-optimization"
+    "leaderboard"
   ],
   "author": {
     "type": "user",
@@ -30,15 +30,15 @@
   "metrics": {
     "stars": 3,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-04T16:21:27Z",
+    "last_commit_at": "2026-06-05T15:46:29Z",
     "first_commit_at": "2026-05-16T15:49:10Z"
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2489,
-  "rank_in_category": 70,
+  "composite_score": 0.249,
+  "rank_in_category": 69,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-17T14:31:07.717156Z",
-  "last_refreshed_at": "2026-06-04T16:26:55.176600Z"
+  "last_refreshed_at": "2026-06-05T15:59:54.760775Z"
 }

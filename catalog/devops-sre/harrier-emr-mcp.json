@@ -1,0 +1,44 @@
+{
+  "slug": "harrier-emr-mcp",
+  "name": "harrier-emr-mcp",
+  "tagline": "Evidence-backed EMR, Spark, and Kubernetes diagnosis MCP server for AWS DevOps Agent",
+  "category": "devops-sre",
+  "tags": [
+    "aws",
+    "aws-emr",
+    "devops-agent",
+    "emr",
+    "emr-on-eks",
+    "emr-serverless",
+    "incident-response",
+    "kubernetes",
+    "mcp",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "the-platform-layer",
+    "url": "https://github.com/the-platform-layer"
+  },
+  "source": {
+    "primary": "github",
+    "github": "the-platform-layer/harrier-emr-mcp",
+    "huggingface": null,
+    "homepage": "https://harrier.theplatformlayer.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T00:52:21Z",
+    "first_commit_at": "2026-05-27T06:57:27Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2698,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-05T16:13:53.428533Z",
+  "last_refreshed_at": "2026-06-05T16:13:53.428537Z"
+}

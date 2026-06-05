@@ -1,0 +1,42 @@
+{
+  "slug": "comidp-mcp-server",
+  "name": "ComIDP-MCP-Server",
+  "tagline": "A lightweight MCP (Model Context Protocol) server for integrating ComPDF AI with Claude Desktop, enabling AI-powered intelligent document processing and data extraction from PDFs via natural language.",
+  "category": "document-processing",
+  "tags": [
+    "data-extraction-from-pdf",
+    "document-extraction",
+    "extract-data",
+    "mcp",
+    "mcp-server",
+    "mcp-tools",
+    "ocr",
+    "pdf-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ComPDFKit",
+    "url": "https://github.com/ComPDFKit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ComPDFKit/ComIDP-MCP-Server",
+    "huggingface": null,
+    "homepage": "https://www.compdf.com/solutions/intelligent-document-processing?utm_source=github&utm_medium=pdf_ai_about&utm_campaign=github_pdf_ai_about_repo&ref_platform_id=github_compdfkit"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 82,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T03:15:26Z",
+    "first_commit_at": "2025-06-13T09:07:59Z"
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5544,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-05T16:12:12.715316Z",
+  "last_refreshed_at": "2026-06-05T16:12:12.715320Z"
+}

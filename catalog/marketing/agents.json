@@ -1,0 +1,44 @@
+{
+  "slug": "agents",
+  "name": "agents",
+  "tagline": "Open-source marketing agents for Claude, ChatGPT, Codex, OpenClaw & Hermes. One plugin: SEO audits, GEO / AI-visibility, local SEO, KOL pricing, social listening & competitive intelligence from read-o",
+  "category": "marketing",
+  "tags": [
+    "ai-visibility",
+    "answer-engine-optimization",
+    "brand-monitoring",
+    "competitive-intelligence",
+    "creator-discovery",
+    "creator-marketing",
+    "geo-optimization",
+    "influencer-marketing",
+    "kol-pricing",
+    "local-seo"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "unifapi-agent",
+    "url": "https://github.com/unifapi-agent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "unifapi-agent/agents",
+    "huggingface": null,
+    "homepage": "https://unifapi.com/agents"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 482,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T11:13:20Z",
+    "first_commit_at": "2026-05-13T03:54:43Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.522,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-05T16:23:17.397000Z",
+  "last_refreshed_at": "2026-06-05T16:23:17.397004Z"
+}

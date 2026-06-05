@@ -1,0 +1,42 @@
+{
+  "slug": "row-bot",
+  "name": "row-bot",
+  "tagline": "Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messagi",
+  "category": "web-dev",
+  "tags": [
+    "ai-assistant",
+    "langchain",
+    "langchain-python",
+    "local-llm",
+    "ollama",
+    "privacy",
+    "react-agent",
+    "sovereign-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "siddsachar",
+    "url": "https://github.com/siddsachar"
+  },
+  "source": {
+    "primary": "github",
+    "github": "siddsachar/row-bot",
+    "huggingface": null,
+    "homepage": "https://row-bot.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1225,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T14:23:56Z",
+    "first_commit_at": "2026-02-12T17:47:57Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4216,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-05T15:57:22.777997Z",
+  "last_refreshed_at": "2026-06-05T15:57:22.778001Z"
+}

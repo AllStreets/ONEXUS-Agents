@@ -1,0 +1,44 @@
+{
+  "slug": "opencode-parser",
+  "name": "opencode-parser",
+  "tagline": "Parse any file in opencode. Supports PDF, DOCX, XLSX, PPTX, images, EPUB, HTML, Markdown, Jupyter, archives, and plain text.",
+  "category": "document-processing",
+  "tags": [
+    "csv",
+    "document-extraction",
+    "document-parser",
+    "docx",
+    "epub",
+    "file-parser",
+    "json",
+    "jupyter",
+    "llm-tool",
+    "magic-bytes"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "TejasS1233",
+    "url": "https://github.com/TejasS1233"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TejasS1233/opencode-parser",
+    "huggingface": null,
+    "homepage": "https://www.npmjs.com/package/opencode-parser"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T17:49:50Z",
+    "first_commit_at": "2026-06-04T16:29:14Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3862,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-05T16:12:31.047609Z",
+  "last_refreshed_at": "2026-06-05T16:12:31.047613Z"
+}
