@@ -1,0 +1,44 @@
+{
+  "slug": "mimic-sepsis-drl",
+  "name": "mimic-sepsis-drl",
+  "tagline": "Offline reinforcement learning for sepsis treatment policy evaluation using Conservative Q-Learning on a MIMIC-IV v3.1 Sepsis-3 ICU cohort.",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "conservative-q-learning",
+    "cql",
+    "fqe",
+    "healthcare-ai",
+    "machine-learning",
+    "mimic-iv",
+    "off-policy-evaluation",
+    "offline-reinforcement-learning",
+    "physionet"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "EnesDemir143",
+    "url": "https://github.com/EnesDemir143"
+  },
+  "source": {
+    "primary": "github",
+    "github": "EnesDemir143/mimic-sepsis-drl",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/morpeN1/mimic-sepsis-cql"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T15:14:46Z",
+    "first_commit_at": "2026-03-28T18:58:35Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2434,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-05T16:19:50.114736Z",
+  "last_refreshed_at": "2026-06-05T16:19:50.114740Z"
+}

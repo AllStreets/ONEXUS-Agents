@@ -12,8 +12,8 @@
     "byok",
     "claude-mcp",
     "codex-mcp",
-    "hermes-agent",
-    "linux-browser"
+    "codex-web-browser",
+    "hermes-agent"
   ],
   "author": {
     "type": "user",
@@ -30,15 +30,15 @@
   "metrics": {
     "stars": 88,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-04T16:12:03Z",
+    "last_commit_at": "2026-06-05T05:59:57Z",
     "first_commit_at": "2026-03-07T07:21:49Z"
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3525,
+  "composite_score": 0.3522,
   "rank_in_category": 34,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-04T15:25:43.466738Z",
-  "last_refreshed_at": "2026-06-04T16:37:03.280459Z"
+  "last_refreshed_at": "2026-06-05T16:10:19.732042Z"
 }

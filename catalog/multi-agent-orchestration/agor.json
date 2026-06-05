@@ -1,0 +1,44 @@
+{
+  "slug": "agor",
+  "name": "agor",
+  "tagline": "Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "agentic",
+    "ai-agents",
+    "ai-coding",
+    "ai-pair-programming",
+    "canvas",
+    "claude-code",
+    "codex",
+    "coding-assistant",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "preset-io",
+    "url": "https://github.com/preset-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "preset-io/agor",
+    "huggingface": null,
+    "homepage": "https://agor.live/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1242,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T16:07:03Z",
+    "first_commit_at": "2025-10-04T07:29:09Z"
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3607,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-05T16:18:27.076538Z",
+  "last_refreshed_at": "2026-06-05T16:18:27.076542Z"
+}
