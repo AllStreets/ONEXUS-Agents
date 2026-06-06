@@ -1,0 +1,47 @@
+{
+  "slug": "meetingbot",
+  "name": "meetingbot",
+  "tagline": "Open Source Meeting Bot API",
+  "category": "email-scheduling",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "meetingbot",
+    "url": "https://github.com/meetingbot"
+  },
+  "source": {
+    "primary": "github",
+    "github": "meetingbot/meetingbot",
+    "huggingface": null,
+    "homepage": "https://meetingbot.tech/"
+  },
+  "license": "LGPL-3.0",
+  "metrics": {
+    "stars": 270,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-09T23:23:32Z",
+    "first_commit_at": "2024-09-03T13:00:18Z",
+    "forks": 81,
+    "watchers": 7,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5259,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:01.236102Z",
+  "last_refreshed_at": "2026-06-06T10:15:01.236105Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "llm-text-to-knowledge-graph",
+  "name": "llm-text-to-knowledge-graph",
+  "tagline": "A Python package and command-line interface for extracting knowledge graphs from text, with a special focus on supporting agents working with scientific hypotheses and experiment design",
+  "category": "customer-support",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "ndexbio",
+    "url": "https://github.com/ndexbio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ndexbio/llm-text-to-knowledge-graph",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 18,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-13T17:47:52Z",
+    "first_commit_at": "2024-09-12T15:20:21Z",
+    "forks": 7,
+    "watchers": 4,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3952,
+  "rank_in_category": 135,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:00:12.544221Z",
+  "last_refreshed_at": "2026-06-06T10:00:12.544224Z"
+}

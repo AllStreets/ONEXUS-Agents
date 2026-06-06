@@ -1,0 +1,50 @@
+{
+  "slug": "git-surgeon",
+  "name": "git-surgeon",
+  "tagline": "Git primitives for autonomous coding agents",
+  "category": "coding",
+  "tags": [
+    "ai-agents",
+    "git"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "raine",
+    "url": "https://github.com/raine"
+  },
+  "source": {
+    "primary": "github",
+    "github": "raine/git-surgeon",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 125,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-28T20:40:10Z",
+    "first_commit_at": "2026-01-27T18:11:43Z",
+    "forks": 5,
+    "watchers": 2,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2862,
+  "rank_in_category": 320,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:22.832658Z",
+  "last_refreshed_at": "2026-06-06T09:48:22.832660Z"
+}

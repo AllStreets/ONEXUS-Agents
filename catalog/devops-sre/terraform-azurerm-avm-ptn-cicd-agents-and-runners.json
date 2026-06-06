@@ -1,0 +1,47 @@
+{
+  "slug": "terraform-azurerm-avm-ptn-cicd-agents-and-runners",
+  "name": "terraform-azurerm-avm-ptn-cicd-agents-and-runners",
+  "tagline": "Terraform Azure Verified Pattern Module for CI CD Agents and Runners",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "Azure",
+    "url": "https://github.com/Azure"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Azure/terraform-azurerm-avm-ptn-cicd-agents-and-runners",
+    "huggingface": null,
+    "homepage": "https://registry.terraform.io/modules/Azure/avm-ptn-cicd-agents-and-runners"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 39,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-18T09:00:13Z",
+    "first_commit_at": "2024-03-16T11:45:20Z",
+    "forks": 23,
+    "watchers": 6,
+    "open_issues": 34,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4652,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:43.412028Z",
+  "last_refreshed_at": "2026-06-06T10:15:43.412031Z"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "kubernetes-plugin",
+  "name": "kubernetes-plugin",
+  "tagline": "Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment",
+  "category": "data-engineering",
+  "tags": [
+    "agent",
+    "cloud",
+    "kubernetes"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "jenkinsci",
+    "url": "https://github.com/jenkinsci"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jenkinsci/kubernetes-plugin",
+    "huggingface": null,
+    "homepage": "https://plugins.jenkins.io/kubernetes/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2306,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T16:41:51Z",
+    "first_commit_at": "2014-09-22T17:44:22Z",
+    "forks": 1278,
+    "watchers": 57,
+    "open_issues": 406,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6926,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:53:00.070495Z",
+  "last_refreshed_at": "2026-06-06T09:53:00.070499Z"
+}

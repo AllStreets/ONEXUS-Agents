@@ -1,0 +1,47 @@
+{
+  "slug": "sentinel-devops-agent",
+  "name": "sentinel-devops-agent",
+  "tagline": "Sentinel is an autonomous DevOps agent that predicts failures before they happen, auto-heals services, and keeps infrastructure healthy 24/7 using Cline CLI, Kestra AI workflows, and a real-time Verce",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "SKfaizan-786",
+    "url": "https://github.com/SKfaizan-786"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SKfaizan-786/sentinel-devops-agent",
+    "huggingface": null,
+    "homepage": "https://sentinel-devops-agent.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-08T19:02:54Z",
+    "first_commit_at": "2025-12-09T10:44:56Z",
+    "forks": 17,
+    "watchers": 0,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3318,
+  "rank_in_category": 119,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:24.919023Z",
+  "last_refreshed_at": "2026-06-06T10:15:24.919027Z"
+}

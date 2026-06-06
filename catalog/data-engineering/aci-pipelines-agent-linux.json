@@ -1,0 +1,57 @@
+{
+  "slug": "aci-pipelines-agent-linux",
+  "name": "aci-pipelines-agent-linux",
+  "tagline": "Azure DevOps Pipelines Self Hosted Agent in Azure Container Instance with basic private VNET connectivity",
+  "category": "data-engineering",
+  "tags": [
+    "azure",
+    "azure-container-instances",
+    "azure-container-registry",
+    "azure-devops",
+    "azure-devops-agent",
+    "bicep",
+    "docker",
+    "self-hosted-agent",
+    "vnet"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "EverAzureRest",
+    "url": "https://github.com/EverAzureRest"
+  },
+  "source": {
+    "primary": "github",
+    "github": "EverAzureRest/aci-pipelines-agent-linux",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2023-04-10T22:36:43Z",
+    "first_commit_at": "2020-03-12T00:16:03Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2752,
+  "rank_in_category": 113,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:50.651350Z",
+  "last_refreshed_at": "2026-06-06T09:52:50.651353Z"
+}

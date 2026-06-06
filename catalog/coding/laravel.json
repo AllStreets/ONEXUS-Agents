@@ -1,0 +1,51 @@
+{
+  "slug": "laravel",
+  "name": "laravel",
+  "tagline": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
+  "category": "coding",
+  "tags": [
+    "framework",
+    "laravel",
+    "php"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "laravel",
+    "url": "https://github.com/laravel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "laravel/laravel",
+    "huggingface": null,
+    "homepage": "https://laravel.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 84404,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T09:05:09Z",
+    "first_commit_at": "2011-06-09T04:45:08Z",
+    "forks": 24729,
+    "watchers": 4377,
+    "open_issues": 31,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4698,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:46:51.776842Z",
+  "last_refreshed_at": "2026-06-06T09:46:51.776845Z"
+}

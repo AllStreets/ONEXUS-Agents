@@ -1,0 +1,47 @@
+{
+  "slug": "fcmbench",
+  "name": "FCMBench",
+  "tagline": "Prompts and evaluation scripts of FCMBench",
+  "category": "audio-speech",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "QFIN-tech",
+    "url": "https://github.com/QFIN-tech"
+  },
+  "source": {
+    "primary": "github",
+    "github": "QFIN-tech/FCMBench",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 120,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T12:29:16Z",
+    "first_commit_at": "2026-01-05T01:19:39Z",
+    "forks": 6,
+    "watchers": 5,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4423,
+  "rank_in_category": 89,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:07:40.305903Z",
+  "last_refreshed_at": "2026-06-06T10:07:40.305907Z"
+}

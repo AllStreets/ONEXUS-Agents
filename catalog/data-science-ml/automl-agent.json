@@ -1,0 +1,51 @@
+{
+  "slug": "automl-agent",
+  "name": "automl-agent",
+  "tagline": "[ICML-25] AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML",
+  "category": "data-science-ml",
+  "tags": [
+    "automl",
+    "llm-agents",
+    "multi-agent-systems"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "DeepAuto-AI",
+    "url": "https://github.com/DeepAuto-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DeepAuto-AI/automl-agent",
+    "huggingface": null,
+    "homepage": "https://deepauto-ai.github.io/automl-agent/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 140,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-11T19:39:49Z",
+    "first_commit_at": "2025-05-08T08:36:54Z",
+    "forks": 20,
+    "watchers": 4,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2983,
+  "rank_in_category": 124,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:09.604477Z",
+  "last_refreshed_at": "2026-06-06T09:54:09.604480Z"
+}

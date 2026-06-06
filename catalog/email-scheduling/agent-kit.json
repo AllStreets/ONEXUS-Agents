@@ -1,0 +1,57 @@
+{
+  "slug": "agent-kit",
+  "name": "agent-kit",
+  "tagline": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
+  "category": "email-scheduling",
+  "tags": [
+    "agent",
+    "ai-agent",
+    "claude",
+    "email",
+    "keyid",
+    "mcp",
+    "model-context-protocol",
+    "sms",
+    "tools"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "KeyID-AI",
+    "url": "https://github.com/KeyID-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "KeyID-AI/agent-kit",
+    "huggingface": null,
+    "homepage": "https://keyid.ai/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 693,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-13T02:31:10Z",
+    "first_commit_at": "2026-03-13T01:55:26Z",
+    "forks": 8,
+    "watchers": 9,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5069,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:40.347287Z",
+  "last_refreshed_at": "2026-06-06T10:14:40.347289Z"
+}

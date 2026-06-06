@@ -1,0 +1,58 @@
+{
+  "slug": "meeting-bots-control-panel",
+  "name": "Meeting-Bots-Control-Panel",
+  "tagline": "A control panel for managing on-demand open-source meeting bots via the CueMeet API. Easily deploy, monitor, and control meeting bots with a simple API integration.",
+  "category": "email-scheduling",
+  "tags": [
+    "api-integration",
+    "control-panel",
+    "cuemeet",
+    "cumeet-api",
+    "docker",
+    "javascript",
+    "meeting-bot",
+    "meeting-bot-control-panel",
+    "monitoring",
+    "postgresql"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "CueMeet",
+    "url": "https://github.com/CueMeet"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CueMeet/Meeting-Bots-Control-Panel",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-24T06:07:39Z",
+    "first_commit_at": "2025-03-18T18:47:18Z",
+    "forks": 8,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3284,
+  "rank_in_category": 149,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:03.645771Z",
+  "last_refreshed_at": "2026-06-06T10:15:03.645775Z"
+}

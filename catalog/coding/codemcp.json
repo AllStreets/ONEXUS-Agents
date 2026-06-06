@@ -1,0 +1,47 @@
+{
+  "slug": "codemcp",
+  "name": "codemcp",
+  "tagline": "Coding assistant MCP for Claude Desktop",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "ezyang",
+    "url": "https://github.com/ezyang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ezyang/codemcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1614,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-25T02:10:23Z",
+    "first_commit_at": "2025-03-09T02:00:17Z",
+    "forks": 140,
+    "watchers": 13,
+    "open_issues": 78,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2817,
+  "rank_in_category": 332,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:20.129667Z",
+  "last_refreshed_at": "2026-06-06T09:47:20.129671Z"
+}

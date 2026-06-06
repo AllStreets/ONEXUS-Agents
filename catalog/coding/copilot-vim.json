@@ -1,0 +1,47 @@
+{
+  "slug": "copilot-vim",
+  "name": "copilot.vim",
+  "tagline": "Neovim plugin for GitHub Copilot",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "github",
+    "url": "https://github.com/github"
+  },
+  "source": {
+    "primary": "github",
+    "github": "github/copilot.vim",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 11627,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-09T20:49:25Z",
+    "first_commit_at": "2021-10-27T09:02:17Z",
+    "forks": 752,
+    "watchers": 177,
+    "open_issues": 60,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3386,
+  "rank_in_category": 209,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:49:01.706509Z",
+  "last_refreshed_at": "2026-06-06T09:49:01.706512Z"
+}

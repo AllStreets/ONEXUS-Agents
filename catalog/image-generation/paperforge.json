@@ -1,0 +1,55 @@
+{
+  "slug": "paperforge",
+  "name": "PaperForge",
+  "tagline": "End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution, result backfill, and LaTeX paper compilation. Supports multi-LLM routing, SSH ",
+  "category": "image-generation",
+  "tags": [
+    "academic-writing",
+    "ai",
+    "latex",
+    "llm",
+    "paper-generation",
+    "remote-execution",
+    "ssh"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "QJHWC",
+    "url": "https://github.com/QJHWC"
+  },
+  "source": {
+    "primary": "github",
+    "github": "QJHWC/PaperForge",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 564,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-03T06:47:40Z",
+    "first_commit_at": "2026-03-29T04:49:22Z",
+    "forks": 88,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4013,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:04:41.415386Z",
+  "last_refreshed_at": "2026-06-06T10:04:41.415389Z"
+}

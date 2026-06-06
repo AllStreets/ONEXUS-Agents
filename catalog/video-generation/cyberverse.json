@@ -1,44 +1,58 @@
 {
   "slug": "cyberverse",
   "name": "CyberVerse",
-  "tagline": "Open-source real-time audio/video agent platform. Build voice-first AI agents with WebRTC, persona memory, tools, RAG, and optional digital-human video.",
+  "tagline": "Self hosted, real-time digital human agent platform. Build voice-first AI agents with WebRTC, persona memory, tools, RAG, and optional digital-human video.",
   "category": "video-generation",
   "tags": [
     "ai-agents",
     "ai-companion",
     "digital-human",
     "digital-life",
-    "grok-companion",
     "jarvis-assistant",
-    "sillytavern",
+    "lip-sync",
     "streaming",
-    "voice-agent",
-    "voice-assistant"
+    "talking-avatar",
+    "talking-head",
+    "voice-agent"
   ],
   "author": {
-    "type": "user",
-    "handle": "dsd2077",
-    "url": "https://github.com/dsd2077"
+    "type": "org",
+    "handle": "Lynpoint",
+    "url": "https://github.com/Lynpoint"
   },
   "source": {
     "primary": "github",
-    "github": "dsd2077/CyberVerse",
+    "github": "Lynpoint/CyberVerse",
     "huggingface": null,
-    "homepage": "https://www.cyberverse.cc/kanshan"
+    "homepage": "https://www.cyberverse.cc/"
   },
   "license": "GPL-3.0",
   "metrics": {
-    "stars": 545,
+    "stars": 1116,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-16T11:37:15Z",
-    "first_commit_at": "2026-04-18T15:04:19Z"
+    "last_commit_at": "2026-06-05T08:36:46Z",
+    "first_commit_at": "2026-04-18T15:04:19Z",
+    "forks": 153,
+    "watchers": 7,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4967,
-  "rank_in_category": 27,
+  "composite_score": 0.5836,
+  "rank_in_category": 29,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-16T14:34:41.727555Z",
-  "last_refreshed_at": "2026-05-17T14:36:35.827077Z"
+  "first_seen_at": "2026-06-06T10:06:13.738010Z",
+  "last_refreshed_at": "2026-06-06T10:06:13.738013Z"
 }

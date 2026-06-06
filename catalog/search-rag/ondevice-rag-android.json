@@ -1,0 +1,53 @@
+{
+  "slug": "ondevice-rag-android",
+  "name": "OnDevice-RAG-Android",
+  "tagline": "A custom RAG pipeline for multi-document QA from PDF/DOCX documents, in Android",
+  "category": "search-rag",
+  "tags": [
+    "android",
+    "large-language-models",
+    "on-device-ml",
+    "question-answering",
+    "retrieval-augmented-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shubham0204",
+    "url": "https://github.com/shubham0204"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shubham0204/OnDevice-RAG-Android",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 191,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-03T01:35:43Z",
+    "first_commit_at": "2024-05-21T01:31:39Z",
+    "forks": 24,
+    "watchers": 2,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.385,
+  "rank_in_category": 113,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:17.845563Z",
+  "last_refreshed_at": "2026-06-06T10:11:17.845566Z"
+}

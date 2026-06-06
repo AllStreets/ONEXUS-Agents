@@ -1,0 +1,52 @@
+{
+  "slug": "codexbar",
+  "name": "CodexBar",
+  "tagline": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+  "category": "audio-speech",
+  "tags": [
+    "ai",
+    "claude-code",
+    "codex",
+    "swift"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "steipete",
+    "url": "https://github.com/steipete"
+  },
+  "source": {
+    "primary": "github",
+    "github": "steipete/CodexBar",
+    "huggingface": null,
+    "homepage": "https://codex.bar/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14306,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T22:41:25Z",
+    "first_commit_at": "2025-11-16T17:00:45Z",
+    "forks": 1136,
+    "watchers": 44,
+    "open_issues": 90,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6872,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:07:35.654252Z",
+  "last_refreshed_at": "2026-06-06T10:07:35.654255Z"
+}

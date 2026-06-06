@@ -1,0 +1,47 @@
+{
+  "slug": "vishwakarma",
+  "name": "vishwakarma",
+  "tagline": "Autonomous SRE agent that investigates alerts, runs runbooks, and resolves incidents using LLMs",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "vijaygupta18",
+    "url": "https://github.com/vijaygupta18"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vijaygupta18/vishwakarma",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-19T11:44:43Z",
+    "first_commit_at": "2026-03-12T22:17:07Z",
+    "forks": 5,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2896,
+  "rank_in_category": 150,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:34.583208Z",
+  "last_refreshed_at": "2026-06-06T10:15:34.583211Z"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "oneke",
+  "name": "OneKE",
+  "tagline": "[WWW 2025] A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System.",
+  "category": "document-processing",
+  "tags": [
+    "agent",
+    "agents",
+    "artificial-intelligence",
+    "event-extraction",
+    "information-extraction",
+    "knowledge-extraction",
+    "knowledge-graph",
+    "large-language-models",
+    "multi-agent",
+    "named-entity-recognition"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "zjunlp",
+    "url": "https://github.com/zjunlp"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zjunlp/OneKE",
+    "huggingface": null,
+    "homepage": "http://oneke.openkg.cn/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 179,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-28T07:38:47Z",
+    "first_commit_at": "2024-09-14T11:35:40Z",
+    "forks": 21,
+    "watchers": 8,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3755,
+  "rank_in_category": 169,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:07.855510Z",
+  "last_refreshed_at": "2026-06-06T10:14:07.855513Z"
+}

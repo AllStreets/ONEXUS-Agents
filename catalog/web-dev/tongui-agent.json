@@ -1,0 +1,56 @@
+{
+  "slug": "tongui-agent",
+  "name": "TongUI-agent",
+  "tagline": "[AAAI 2026]Release of code, datasets and model for our work TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "computer-use",
+    "computer-use-agent",
+    "gui-agent",
+    "tongui",
+    "vision-language-action",
+    "vision-language-action-model",
+    "vision-language-model"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TongUI-agent",
+    "url": "https://github.com/TongUI-agent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TongUI-agent/TongUI-agent",
+    "huggingface": null,
+    "homepage": "https://tongui-agent.github.io/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 111,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-01T07:43:39Z",
+    "first_commit_at": "2025-04-18T04:50:33Z",
+    "forks": 8,
+    "watchers": 3,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3286,
+  "rank_in_category": 213,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:51:40.681533Z",
+  "last_refreshed_at": "2026-06-06T09:51:40.681536Z"
+}

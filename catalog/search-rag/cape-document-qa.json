@@ -1,0 +1,47 @@
+{
+  "slug": "cape-document-qa",
+  "name": "cape-document-qa",
+  "tagline": "This repo contains a machine reading model, built on top of on document-qa, a powerful machine reading library and  recent state of the art approach in open domain question answering. ",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "bloomsburyai",
+    "url": "https://github.com/bloomsburyai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bloomsburyai/cape-document-qa",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 17,
+    "downloads_30d": null,
+    "last_commit_at": "2018-11-12T10:59:54Z",
+    "first_commit_at": "2018-07-31T12:48:49Z",
+    "forks": 9,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2435,
+  "rank_in_category": 178,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:19.498448Z",
+  "last_refreshed_at": "2026-06-06T10:11:19.498451Z"
+}

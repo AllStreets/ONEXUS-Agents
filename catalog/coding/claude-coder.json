@@ -1,0 +1,55 @@
+{
+  "slug": "claude-coder",
+  "name": "claude-coder",
+  "tagline": "Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag",
+  "category": "coding",
+  "tags": [
+    "chatgpt",
+    "claude",
+    "coding-agents",
+    "llm",
+    "openai",
+    "vscode",
+    "vscode-extension"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kodu-ai",
+    "url": "https://github.com/kodu-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kodu-ai/claude-coder",
+    "huggingface": null,
+    "homepage": "https://www.kodu.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 5263,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-30T10:21:02Z",
+    "first_commit_at": "2024-07-06T00:51:41Z",
+    "forks": 198,
+    "watchers": 53,
+    "open_issues": 44,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2832,
+  "rank_in_category": 327,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:18.026327Z",
+  "last_refreshed_at": "2026-06-06T09:48:18.026330Z"
+}

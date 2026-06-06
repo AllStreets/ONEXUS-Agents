@@ -1,0 +1,47 @@
+{
+  "slug": "qwen3",
+  "name": "Qwen3",
+  "tagline": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "QwenLM",
+    "url": "https://github.com/QwenLM"
+  },
+  "source": {
+    "primary": "github",
+    "github": "QwenLM/Qwen3",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 27290,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-09T03:05:47Z",
+    "first_commit_at": "2024-02-05T05:49:07Z",
+    "forks": 1991,
+    "watchers": 166,
+    "open_issues": 53,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.543,
+  "rank_in_category": 45,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:10:43.290564Z",
+  "last_refreshed_at": "2026-06-06T10:10:43.290567Z"
+}

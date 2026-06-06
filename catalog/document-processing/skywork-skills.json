@@ -1,0 +1,51 @@
+{
+  "slug": "skywork-skills",
+  "name": "Skywork-Skills",
+  "tagline": "Skywork Agent Skills for AI office suites, including AI PPT, AI Document, AI Excel, AI Image, AI Search/DeepResearch and AI Music.  These skills can be used by any skills-compatible agent, including C",
+  "category": "document-processing",
+  "tags": [
+    "agent",
+    "agent-skills",
+    "skills"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SkyworkAI",
+    "url": "https://github.com/SkyworkAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SkyworkAI/Skywork-Skills",
+    "huggingface": null,
+    "homepage": "https://skywork.ai/skill-landing"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 171,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-02T03:08:45Z",
+    "first_commit_at": "2026-03-16T11:48:02Z",
+    "forks": 24,
+    "watchers": 2,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4644,
+  "rank_in_category": 109,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:12.208296Z",
+  "last_refreshed_at": "2026-06-06T10:14:12.208300Z"
+}

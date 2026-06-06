@@ -1,0 +1,50 @@
+{
+  "slug": "playwright-mcp",
+  "name": "playwright-mcp",
+  "tagline": "Playwright MCP server",
+  "category": "browser-automation",
+  "tags": [
+    "mcp",
+    "playwright"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/playwright-mcp",
+    "huggingface": null,
+    "homepage": "https://www.npmjs.com/package/@playwright/mcp"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 33558,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T20:56:00Z",
+    "first_commit_at": "2025-03-21T17:48:36Z",
+    "forks": 2761,
+    "watchers": 132,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4867,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:21.392420Z",
+  "last_refreshed_at": "2026-06-06T10:12:21.392423Z"
+}

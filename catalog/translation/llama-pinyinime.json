@@ -1,0 +1,47 @@
+{
+  "slug": "llama-pinyinime",
+  "name": "llama-pinyinIME",
+  "tagline": "Android Pinyin IME for port of Facebook's LLaMA model in C/C++",
+  "category": "translation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "shixiangcap",
+    "url": "https://github.com/shixiangcap"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shixiangcap/llama-pinyinIME",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2023-06-27T06:35:06Z",
+    "first_commit_at": "2023-06-06T12:47:26Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2474,
+  "rank_in_category": 172,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:09:58.774581Z",
+  "last_refreshed_at": "2026-06-06T10:09:58.774584Z"
+}

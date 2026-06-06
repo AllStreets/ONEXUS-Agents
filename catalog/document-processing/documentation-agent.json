@@ -1,0 +1,47 @@
+{
+  "slug": "documentation-agent",
+  "name": "documentation-agent",
+  "tagline": "An intelligent documentation query system built with LlamaIndex and Mirascope, powered by OpenAI embeddings and GPT-4.",
+  "category": "document-processing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "Croups",
+    "url": "https://github.com/Croups"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Croups/documentation-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2024-11-25T18:00:36Z",
+    "first_commit_at": "2024-11-25T17:42:36Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2638,
+  "rank_in_category": 235,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:42.325951Z",
+  "last_refreshed_at": "2026-06-06T10:13:42.325954Z"
+}

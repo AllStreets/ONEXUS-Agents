@@ -1,0 +1,58 @@
+{
+  "slug": "opik",
+  "name": "opik",
+  "tagline": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+  "category": "audio-speech",
+  "tags": [
+    "evaluation",
+    "hacktoberfest",
+    "hacktoberfest2025",
+    "langchain",
+    "llama-index",
+    "llm",
+    "llm-evaluation",
+    "llm-observability",
+    "llmops",
+    "open-source"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "comet-ml",
+    "url": "https://github.com/comet-ml"
+  },
+  "source": {
+    "primary": "github",
+    "github": "comet-ml/opik",
+    "huggingface": null,
+    "homepage": "https://www.comet.com/docs/opik/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 19433,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T17:47:46Z",
+    "first_commit_at": "2024-09-02T11:29:29Z",
+    "forks": 1497,
+    "watchers": 123,
+    "open_issues": 163,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.727,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:08:22.773265Z",
+  "last_refreshed_at": "2026-06-06T10:08:22.773267Z"
+}

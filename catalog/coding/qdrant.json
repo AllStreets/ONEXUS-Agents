@@ -1,0 +1,58 @@
+{
+  "slug": "qdrant",
+  "name": "qdrant",
+  "tagline": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+  "category": "coding",
+  "tags": [
+    "ai-search",
+    "ai-search-engine",
+    "embeddings-similarity",
+    "hnsw",
+    "hybrid-search",
+    "image-search",
+    "knn-algorithm",
+    "machine-learning",
+    "mlops",
+    "nearest-neighbor-search"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "qdrant",
+    "url": "https://github.com/qdrant"
+  },
+  "source": {
+    "primary": "github",
+    "github": "qdrant/qdrant",
+    "huggingface": null,
+    "homepage": "https://qdrant.tech/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 31848,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T08:23:55Z",
+    "first_commit_at": "2020-05-30T21:35:38Z",
+    "forks": 2323,
+    "watchers": 152,
+    "open_issues": 568,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4456,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:38.001152Z",
+  "last_refreshed_at": "2026-06-06T09:47:38.001155Z"
+}

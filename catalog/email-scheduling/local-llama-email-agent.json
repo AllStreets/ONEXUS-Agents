@@ -1,0 +1,52 @@
+{
+  "slug": "local-llama-email-agent",
+  "name": "Local-LLaMA-Email-Agent",
+  "tagline": "LLEmail harnesses the power of the open-source LLaMA3 model to revolutionize email management. Designed to enhance productivity, LLEmail offers automated summarization and task extraction, without any",
+  "category": "email-scheduling",
+  "tags": [
+    "agents",
+    "ai",
+    "llama3",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "isaiahshall",
+    "url": "https://github.com/isaiahshall"
+  },
+  "source": {
+    "primary": "github",
+    "github": "isaiahshall/Local-LLaMA-Email-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2024-05-22T15:56:38Z",
+    "first_commit_at": "2024-04-23T00:53:28Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2907,
+  "rank_in_category": 170,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:34.591434Z",
+  "last_refreshed_at": "2026-06-06T10:14:34.591437Z"
+}

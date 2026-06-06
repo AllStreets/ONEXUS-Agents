@@ -1,0 +1,58 @@
+{
+  "slug": "openmontage",
+  "name": "OpenMontage",
+  "tagline": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "claude",
+    "copilot",
+    "cursor",
+    "elevenlabs",
+    "ffmpeg",
+    "flux",
+    "image-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "calesthio",
+    "url": "https://github.com/calesthio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "calesthio/OpenMontage",
+    "huggingface": null,
+    "homepage": "https://github.com/calesthio/OpenMontage"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 4431,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T12:12:36Z",
+    "first_commit_at": "2026-03-29T15:25:17Z",
+    "forks": 902,
+    "watchers": 43,
+    "open_issues": 54,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.345,
+  "rank_in_category": 202,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:16.307610Z",
+  "last_refreshed_at": "2026-06-06T09:47:16.307613Z"
+}

@@ -1,7 +1,7 @@
 {
   "slug": "hexagon",
   "name": "hexagon",
-  "tagline": "Go AI Agent 框架引擎 — ReAct / Plan-and-Execute 推理，Tool 调度，上下文状态机编排，100k+ 并发 Agent。Hexagon 生态 L2。",
+  "tagline": "Go AI Agent 框架 — Go 生态的 LangChain + LangGraph：ReAct / Plan-and-Execute / Reflection / ToT 多范式推理开箱即用，图编排与多 Agent 协作，A2A 协议，OpenTelemetry 可观测。对标字节 Eino。Hexagon 生态 L2 核心。",
   "category": "web-dev",
   "tags": [
     "ai-agent",
@@ -28,14 +28,28 @@
     "stars": 7,
     "downloads_30d": null,
     "last_commit_at": "2026-06-03T13:19:14Z",
-    "first_commit_at": "2026-01-31T15:54:12Z"
+    "first_commit_at": "2026-01-31T15:54:12Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2807,
-  "rank_in_category": 55,
+  "composite_score": 0.3804,
+  "rank_in_category": 166,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:22:21.891954Z",
-  "last_refreshed_at": "2026-06-05T15:57:36.413954Z"
+  "last_refreshed_at": "2026-06-06T09:49:43.471763Z"
 }

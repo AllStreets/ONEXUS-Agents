@@ -1,0 +1,51 @@
+{
+  "slug": "docker-terraform",
+  "name": "docker-terraform",
+  "tagline": ":whale: Containerized Terraform CLI to avoid having to install terraform on local development machines or CI/CD agents. ",
+  "category": "devops-sre",
+  "tags": [
+    "3musketeers",
+    "docker",
+    "terraform"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "contino",
+    "url": "https://github.com/contino"
+  },
+  "source": {
+    "primary": "github",
+    "github": "contino/docker-terraform",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2022-01-31T05:26:43Z",
+    "first_commit_at": "2018-07-02T09:14:05Z",
+    "forks": 19,
+    "watchers": 180,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2916,
+  "rank_in_category": 149,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:43.674164Z",
+  "last_refreshed_at": "2026-06-06T10:15:43.674167Z"
+}

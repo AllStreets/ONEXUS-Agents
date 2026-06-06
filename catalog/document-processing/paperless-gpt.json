@@ -1,0 +1,56 @@
+{
+  "slug": "paperless-gpt",
+  "name": "paperless-gpt",
+  "tagline": "Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI",
+  "category": "document-processing",
+  "tags": [
+    "ai",
+    "chatgpt",
+    "llm",
+    "mistral",
+    "ocr",
+    "ollama",
+    "paperless",
+    "paperless-ngx"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "icereed",
+    "url": "https://github.com/icereed"
+  },
+  "source": {
+    "primary": "github",
+    "github": "icereed/paperless-gpt",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2403,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T00:41:56Z",
+    "first_commit_at": "2024-09-23T12:55:43Z",
+    "forks": 170,
+    "watchers": 18,
+    "open_issues": 199,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6555,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:19.695270Z",
+  "last_refreshed_at": "2026-06-06T10:14:19.695273Z"
+}

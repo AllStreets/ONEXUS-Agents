@@ -1,0 +1,53 @@
+{
+  "slug": "openagents",
+  "name": "openagents",
+  "tagline": "OpenAgents - AI Agent Networks for Open Collaboration",
+  "category": "devops-sre",
+  "tags": [
+    "agents",
+    "ai",
+    "collaboration",
+    "llm",
+    "network"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openagents-org",
+    "url": "https://github.com/openagents-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openagents-org/openagents",
+    "huggingface": null,
+    "homepage": "https://openagents.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3720,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T23:23:49Z",
+    "first_commit_at": "2025-03-10T22:27:52Z",
+    "forks": 363,
+    "watchers": 61,
+    "open_issues": 75,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6025,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:52.091659Z",
+  "last_refreshed_at": "2026-06-06T10:15:52.091663Z"
+}

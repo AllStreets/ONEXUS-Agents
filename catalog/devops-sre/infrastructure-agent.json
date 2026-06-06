@@ -1,0 +1,47 @@
+{
+  "slug": "infrastructure-agent",
+  "name": "infrastructure-agent",
+  "tagline": "New Relic Infrastructure Agent",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "newrelic",
+    "url": "https://github.com/newrelic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "newrelic/infrastructure-agent",
+    "huggingface": null,
+    "homepage": "https://docs.newrelic.com/docs/infrastructure/install-configure-manage-infrastructure"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 149,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T04:42:00Z",
+    "first_commit_at": "2020-04-17T19:36:44Z",
+    "forks": 153,
+    "watchers": 10,
+    "open_issues": 39,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5481,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:49.587821Z",
+  "last_refreshed_at": "2026-06-06T10:15:49.587825Z"
+}

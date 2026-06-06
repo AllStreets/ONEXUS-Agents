@@ -1,0 +1,57 @@
+{
+  "slug": "mcp-server-wazuh",
+  "name": "mcp-server-wazuh",
+  "tagline": "MCP Server for Wazuh SIEM",
+  "category": "devops-sre",
+  "tags": [
+    "llm",
+    "mcp",
+    "mcp-server",
+    "model-context-pro",
+    "model-context-protocol-servers",
+    "security-operations",
+    "siem",
+    "wazuh",
+    "wazuh-integration"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "gbrigandi",
+    "url": "https://github.com/gbrigandi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "gbrigandi/mcp-server-wazuh",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 210,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-12T03:06:04Z",
+    "first_commit_at": "2025-05-07T18:14:55Z",
+    "forks": 55,
+    "watchers": 13,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4246,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:41.521989Z",
+  "last_refreshed_at": "2026-06-06T10:15:41.521992Z"
+}

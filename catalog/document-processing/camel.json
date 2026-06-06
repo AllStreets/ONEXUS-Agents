@@ -1,0 +1,57 @@
+{
+  "slug": "camel",
+  "name": "camel",
+  "tagline": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+  "category": "document-processing",
+  "tags": [
+    "agent",
+    "ai-societies",
+    "artificial-intelligence",
+    "communicative-ai",
+    "cooperative-ai",
+    "deep-learning",
+    "large-language-models",
+    "multi-agent-systems",
+    "natural-language-processing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "camel-ai",
+    "url": "https://github.com/camel-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "camel-ai/camel",
+    "huggingface": null,
+    "homepage": "https://docs.camel-ai.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 17125,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T09:40:14Z",
+    "first_commit_at": "2023-03-17T21:41:54Z",
+    "forks": 1932,
+    "watchers": 120,
+    "open_issues": 451,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7244,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:49.958410Z",
+  "last_refreshed_at": "2026-06-06T10:13:49.958414Z"
+}

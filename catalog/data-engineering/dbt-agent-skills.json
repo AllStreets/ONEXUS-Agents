@@ -1,0 +1,47 @@
+{
+  "slug": "dbt-agent-skills",
+  "name": "dbt-agent-skills",
+  "tagline": "A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively.",
+  "category": "data-engineering",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "dbt-labs",
+    "url": "https://github.com/dbt-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dbt-labs/dbt-agent-skills",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 545,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-19T15:51:37Z",
+    "first_commit_at": "2026-01-08T01:11:47Z",
+    "forks": 42,
+    "watchers": 7,
+    "open_issues": 29,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5597,
+  "rank_in_category": 60,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:53:08.005820Z",
+  "last_refreshed_at": "2026-06-06T09:53:08.005823Z"
+}

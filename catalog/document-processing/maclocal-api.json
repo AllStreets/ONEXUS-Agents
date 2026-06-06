@@ -1,0 +1,58 @@
+{
+  "slug": "maclocal-api",
+  "name": "maclocal-api",
+  "tagline": "'afm' command cli: macOS server and single prompt mode that exposes Apple's Foundation and MLX Models and other APIs running on your Mac through a single aggregated OpenAI-compatible API endpoint. Sup",
+  "category": "document-processing",
+  "tags": [
+    "ai",
+    "apple-foundation-models",
+    "apple-intelligence",
+    "apple-llm",
+    "apple-llm-integration",
+    "apple-silicon",
+    "finetuning-llms",
+    "local-llm",
+    "localai",
+    "lora"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "scouzi1966",
+    "url": "https://github.com/scouzi1966"
+  },
+  "source": {
+    "primary": "github",
+    "github": "scouzi1966/maclocal-api",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 293,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-02T01:12:16Z",
+    "first_commit_at": "2025-08-08T01:20:14Z",
+    "forks": 15,
+    "watchers": 3,
+    "open_issues": 17,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5573,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:50.879597Z",
+  "last_refreshed_at": "2026-06-06T10:13:50.879600Z"
+}

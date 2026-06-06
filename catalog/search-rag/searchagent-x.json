@@ -1,0 +1,58 @@
+{
+  "slug": "searchagent-x",
+  "name": "SearchAgent-X",
+  "tagline": "A High-Efficiency System of Large Language Model Based Search Agents",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "ai",
+    "approximate-nearest-neighbor-search",
+    "efficient-ai",
+    "information-retrieval",
+    "llm",
+    "llm-serving",
+    "post-training",
+    "rag",
+    "rlhf"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tiannuo-yang",
+    "url": "https://github.com/tiannuo-yang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tiannuo-yang/SearchAgent-X",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2505.12065"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 78,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-02T09:19:55Z",
+    "first_commit_at": "2025-05-15T13:22:10Z",
+    "forks": 5,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2811,
+  "rank_in_category": 165,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:06.719454Z",
+  "last_refreshed_at": "2026-06-06T10:11:06.719457Z"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "claudebar",
+  "name": "ClaudeBar",
+  "tagline": "A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.",
+  "category": "coding",
+  "tags": [
+    "antigravity",
+    "claude",
+    "claude-code",
+    "codex",
+    "gemini",
+    "githubcopilot",
+    "glm5",
+    "kimi"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "tddworks",
+    "url": "https://github.com/tddworks"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tddworks/ClaudeBar",
+    "huggingface": null,
+    "homepage": "https://tddworks.github.io/ClaudeBar/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1214,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T03:05:43Z",
+    "first_commit_at": "2025-12-20T09:37:30Z",
+    "forks": 100,
+    "watchers": 7,
+    "open_issues": 49,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3389,
+  "rank_in_category": 207,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:21.168814Z",
+  "last_refreshed_at": "2026-06-06T09:47:21.168818Z"
+}

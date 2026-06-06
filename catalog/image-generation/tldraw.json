@@ -1,0 +1,58 @@
+{
+  "slug": "tldraw",
+  "name": "tldraw",
+  "tagline": "very good whiteboard infinite canvas SDK",
+  "category": "image-generation",
+  "tags": [
+    "canvas",
+    "collaboration",
+    "design",
+    "diagram",
+    "drawing",
+    "infinite",
+    "multiplayer",
+    "react",
+    "sdk",
+    "sketch"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "tldraw",
+    "url": "https://github.com/tldraw"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tldraw/tldraw",
+    "huggingface": null,
+    "homepage": "https://tldraw.dev/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 47628,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T08:43:38Z",
+    "first_commit_at": "2021-05-09T11:48:30Z",
+    "forks": 3281,
+    "watchers": 166,
+    "open_issues": 399,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6752,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:05:00.501286Z",
+  "last_refreshed_at": "2026-06-06T10:05:00.501289Z"
+}

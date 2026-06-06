@@ -1,0 +1,47 @@
+{
+  "slug": "bedrock-translation-agent",
+  "name": "bedrock-translation-agent",
+  "tagline": "Multi-Model agentic & reflective translation workflow in Amazon Bedrock",
+  "category": "translation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "aws-samples",
+    "url": "https://github.com/aws-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-samples/bedrock-translation-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT-0",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-08T05:35:51Z",
+    "first_commit_at": "2024-06-20T16:59:12Z",
+    "forks": 1,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2341,
+  "rank_in_category": 181,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:09:13.114102Z",
+  "last_refreshed_at": "2026-06-06T10:09:13.114105Z"
+}

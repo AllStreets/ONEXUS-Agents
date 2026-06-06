@@ -1,0 +1,54 @@
+{
+  "slug": "stablecascade-text2image",
+  "name": "StableCascade-text2image",
+  "tagline": "Stable Cascade text-to-image generation pipeline — high-resolution image synthesis with cascade architecture",
+  "category": "image-generation",
+  "tags": [
+    "colab",
+    "deep-learning",
+    "generative-ai",
+    "image-generation",
+    "stable-cascade",
+    "text-to-image"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MushroomFleet",
+    "url": "https://github.com/MushroomFleet"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MushroomFleet/StableCascade-text2image",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-07T16:36:38Z",
+    "first_commit_at": "2024-02-14T00:33:21Z",
+    "forks": 1,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3471,
+  "rank_in_category": 130,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:04:58.760914Z",
+  "last_refreshed_at": "2026-06-06T10:04:58.760917Z"
+}

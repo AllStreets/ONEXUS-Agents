@@ -1,0 +1,55 @@
+{
+  "slug": "sparrow",
+  "name": "sparrow",
+  "tagline": "Structured data extraction, instruction calling and agentic workflows with ML, LLM and Vision LLM",
+  "category": "data-science-ml",
+  "tags": [
+    "agentic-ai",
+    "computer-vision",
+    "documentai",
+    "huggingface-transformers",
+    "llm",
+    "machinelearning",
+    "vllm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "katanaml",
+    "url": "https://github.com/katanaml"
+  },
+  "source": {
+    "primary": "github",
+    "github": "katanaml/sparrow",
+    "huggingface": null,
+    "homepage": "https://sparrow.katanaml.io/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 5160,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T11:41:44Z",
+    "first_commit_at": "2022-01-08T08:44:15Z",
+    "forks": 518,
+    "watchers": 59,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5883,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:53:59.600304Z",
+  "last_refreshed_at": "2026-06-06T09:53:59.600307Z"
+}

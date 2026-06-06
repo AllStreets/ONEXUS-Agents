@@ -1,0 +1,47 @@
+{
+  "slug": "de-bench",
+  "name": "DE-Bench",
+  "tagline": "DE Bench: Can Agents Solve Real-World Data Engineering Problems? Built to test Ardent's AI Data Engineer",
+  "category": "data-engineering",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "ArdentAILabs",
+    "url": "https://github.com/ArdentAILabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ArdentAILabs/DE-Bench",
+    "huggingface": null,
+    "homepage": "http://tryardent.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 35,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-07T12:27:29Z",
+    "first_commit_at": "2024-05-27T06:01:43Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3896,
+  "rank_in_category": 85,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:53:14.917627Z",
+  "last_refreshed_at": "2026-06-06T09:53:14.917630Z"
+}

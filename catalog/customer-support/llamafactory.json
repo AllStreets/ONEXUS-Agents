@@ -1,0 +1,58 @@
+{
+  "slug": "llamafactory",
+  "name": "LlamaFactory",
+  "tagline": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+  "category": "customer-support",
+  "tags": [
+    "agent",
+    "ai",
+    "deepseek",
+    "fine-tuning",
+    "gemma",
+    "gpt",
+    "instruction-tuning",
+    "large-language-models",
+    "llama",
+    "llama3"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hiyouga",
+    "url": "https://github.com/hiyouga"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hiyouga/LlamaFactory",
+    "huggingface": null,
+    "homepage": "https://llamafactory.readthedocs.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 71936,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T02:47:51Z",
+    "first_commit_at": "2023-05-28T10:09:04Z",
+    "forks": 8793,
+    "watchers": 337,
+    "open_issues": 1029,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7695,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:00:15.294105Z",
+  "last_refreshed_at": "2026-06-06T10:00:15.294108Z"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "amazon-textract-transformer-pipeline",
+  "name": "amazon-textract-transformer-pipeline",
+  "tagline": "Post-process Amazon Textract results with Hugging Face transformer models for document understanding",
+  "category": "document-processing",
+  "tags": [
+    "amazon-textract",
+    "document-analysis",
+    "huggingface-transformers",
+    "ocr"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aws-samples",
+    "url": "https://github.com/aws-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-samples/amazon-textract-transformer-pipeline",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT-0",
+  "metrics": {
+    "stars": 104,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-14T15:09:18Z",
+    "first_commit_at": "2021-09-14T16:16:04Z",
+    "forks": 23,
+    "watchers": 23,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.393,
+  "rank_in_category": 154,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:57.332858Z",
+  "last_refreshed_at": "2026-06-06T10:13:57.332861Z"
+}

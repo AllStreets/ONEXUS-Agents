@@ -1,0 +1,51 @@
+{
+  "slug": "glm-ocr",
+  "name": "GLM-OCR",
+  "tagline": "GLM-OCR: Accurate ×  Fast × Comprehensive",
+  "category": "document-processing",
+  "tags": [
+    "glm",
+    "image2text",
+    "ocr"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "zai-org",
+    "url": "https://github.com/zai-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zai-org/GLM-OCR",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6908,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T08:52:11Z",
+    "first_commit_at": "2026-02-02T12:59:43Z",
+    "forks": 636,
+    "watchers": 31,
+    "open_issues": 41,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5974,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:03.897267Z",
+  "last_refreshed_at": "2026-06-06T10:14:03.897271Z"
+}

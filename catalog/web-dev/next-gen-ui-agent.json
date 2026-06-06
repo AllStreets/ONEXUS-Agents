@@ -1,0 +1,56 @@
+{
+  "slug": "next-gen-ui-agent",
+  "name": "next-gen-ui-agent",
+  "tagline": "The goal of this AI agent is to generate personalised and rich UI components based on the user prompt, chat history and backend data provided by other agents in your AI assistant.",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "ai",
+    "genai",
+    "generative-ui",
+    "gui",
+    "llm",
+    "ui",
+    "ux"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "RedHat-UX",
+    "url": "https://github.com/RedHat-UX"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RedHat-UX/next-gen-ui-agent",
+    "huggingface": null,
+    "homepage": "https://redhat-ux.github.io/next-gen-ui-agent/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 22,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-18T08:15:11Z",
+    "first_commit_at": "2025-03-10T13:00:59Z",
+    "forks": 6,
+    "watchers": 16,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3685,
+  "rank_in_category": 180,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:51:43.848397Z",
+  "last_refreshed_at": "2026-06-06T09:51:43.848401Z"
+}

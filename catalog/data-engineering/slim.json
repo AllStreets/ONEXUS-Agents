@@ -1,0 +1,58 @@
+{
+  "slug": "slim",
+  "name": "slim",
+  "tagline": "Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)",
+  "category": "data-engineering",
+  "tags": [
+    "apparmor",
+    "containers",
+    "docker",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "minify",
+    "minify-images",
+    "seccomp",
+    "seccomp-profile"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "slimtoolkit",
+    "url": "https://github.com/slimtoolkit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "slimtoolkit/slim",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 23297,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-28T16:47:58Z",
+    "first_commit_at": "2015-09-09T18:22:21Z",
+    "forks": 833,
+    "watchers": 181,
+    "open_issues": 208,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7278,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:54.757022Z",
+  "last_refreshed_at": "2026-06-06T09:52:54.757026Z"
+}

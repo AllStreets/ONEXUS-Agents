@@ -1,0 +1,58 @@
+{
+  "slug": "flutter-skill",
+  "name": "flutter-skill",
+  "tagline": "AI-powered E2E testing for 10 platforms. 253 MCP tools. Zero config. Works with Claude, Cursor, Windsurf, Copilot. Test Flutter, React Native, iOS, Android, Web, Electron, Tauri, KMP, .NET MAUI — all ",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-testing",
+    "android",
+    "automation",
+    "claude",
+    "cross-platform",
+    "cursor",
+    "e2e-testing",
+    "electron",
+    "flutter"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ai-dashboad",
+    "url": "https://github.com/ai-dashboad"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ai-dashboad/flutter-skill",
+    "huggingface": null,
+    "homepage": "https://ai-dashboad.github.io/flutter-skill/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 284,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-21T16:24:38Z",
+    "first_commit_at": "2026-01-30T05:46:25Z",
+    "forks": 38,
+    "watchers": 2,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3518,
+  "rank_in_category": 186,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:15.722508Z",
+  "last_refreshed_at": "2026-06-06T09:48:15.722511Z"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "pydantic-ai",
+  "name": "pydantic-ai",
+  "tagline": "AI Agent Framework, the Pydantic way",
+  "category": "customer-support",
+  "tags": [
+    "agent-framework",
+    "genai",
+    "llm",
+    "pydantic",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pydantic",
+    "url": "https://github.com/pydantic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pydantic/pydantic-ai",
+    "huggingface": null,
+    "homepage": "https://ai.pydantic.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 17553,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T20:34:09Z",
+    "first_commit_at": "2024-06-14T02:52:51Z",
+    "forks": 2182,
+    "watchers": 110,
+    "open_issues": 616,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7302,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:00:22.688160Z",
+  "last_refreshed_at": "2026-06-06T10:00:22.688163Z"
+}

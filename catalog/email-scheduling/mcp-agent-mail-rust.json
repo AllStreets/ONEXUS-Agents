@@ -1,0 +1,53 @@
+{
+  "slug": "mcp-agent-mail-rust",
+  "name": "mcp_agent_mail_rust",
+  "tagline": "Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisory file locks, and an interactive TUI console",
+  "category": "email-scheduling",
+  "tags": [
+    "ai-agents",
+    "coordination",
+    "mcp",
+    "rust",
+    "tui"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Dicklesworthstone",
+    "url": "https://github.com/Dicklesworthstone"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Dicklesworthstone/mcp_agent_mail_rust",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 84,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T02:57:25Z",
+    "first_commit_at": "2026-02-05T05:33:42Z",
+    "forks": 23,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5057,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:45.957365Z",
+  "last_refreshed_at": "2026-06-06T10:14:45.957368Z"
+}

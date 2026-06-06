@@ -1,0 +1,47 @@
+{
+  "slug": "claude-for-legal",
+  "name": "claude-for-legal",
+  "tagline": "A suite of plugins for legal workflows",
+  "category": "legal-research",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "anthropics",
+    "url": "https://github.com/anthropics"
+  },
+  "source": {
+    "primary": "github",
+    "github": "anthropics/claude-for-legal",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 8083,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T15:46:04Z",
+    "first_commit_at": "2026-05-11T20:44:26Z",
+    "forks": 1468,
+    "watchers": 89,
+    "open_issues": 57,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4288,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:58:44.024999Z",
+  "last_refreshed_at": "2026-06-06T09:58:44.025002Z"
+}

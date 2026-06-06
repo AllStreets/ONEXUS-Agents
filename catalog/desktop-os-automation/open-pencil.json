@@ -1,0 +1,57 @@
+{
+  "slug": "open-pencil",
+  "name": "open-pencil",
+  "tagline": "AI-native design editor. Open-source Figma alternative.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai",
+    "collaboration",
+    "design-editor",
+    "figma-alternative",
+    "open-source",
+    "skia",
+    "tauri",
+    "vue",
+    "webgpu"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "open-pencil",
+    "url": "https://github.com/open-pencil"
+  },
+  "source": {
+    "primary": "github",
+    "github": "open-pencil/open-pencil",
+    "huggingface": null,
+    "homepage": "https://openpencil.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5423,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T08:31:29Z",
+    "first_commit_at": "2026-02-27T12:48:35Z",
+    "forks": 498,
+    "watchers": 43,
+    "open_issues": 64,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4438,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:51.999800Z",
+  "last_refreshed_at": "2026-06-06T10:12:51.999808Z"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "open-assistant",
+  "name": "Open-Assistant",
+  "tagline": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+  "category": "browser-automation",
+  "tags": [
+    "ai",
+    "assistant",
+    "chatgpt",
+    "discord-bot",
+    "language-model",
+    "machine-learning",
+    "nextjs",
+    "python",
+    "rlhf"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "LAION-AI",
+    "url": "https://github.com/LAION-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LAION-AI/Open-Assistant",
+    "huggingface": null,
+    "homepage": "https://open-assistant.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 37409,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-17T01:55:35Z",
+    "first_commit_at": "2022-12-13T05:24:17Z",
+    "forks": 3281,
+    "watchers": 431,
+    "open_issues": 297,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3813,
+  "rank_in_category": 87,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:20.821158Z",
+  "last_refreshed_at": "2026-06-06T10:12:20.821162Z"
+}

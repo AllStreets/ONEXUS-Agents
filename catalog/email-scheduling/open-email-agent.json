@@ -1,0 +1,47 @@
+{
+  "slug": "open-email-agent",
+  "name": "open-email-agent",
+  "tagline": "LLM-powered email agent for tackling long-horizon tasks with planning, computer access, and sub-agent delegation",
+  "category": "email-scheduling",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "LivXue",
+    "url": "https://github.com/LivXue"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LivXue/open-email-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-03T03:32:35Z",
+    "first_commit_at": "2026-01-14T06:09:24Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3232,
+  "rank_in_category": 153,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:34.077844Z",
+  "last_refreshed_at": "2026-06-06T10:14:34.077847Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "webllama",
+  "name": "webllama",
+  "tagline": "Llama-3 agents that can browse the web by following instructions and talking to you",
+  "category": "browser-automation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "McGill-NLP",
+    "url": "https://github.com/McGill-NLP"
+  },
+  "source": {
+    "primary": "github",
+    "github": "McGill-NLP/webllama",
+    "huggingface": null,
+    "homepage": "https://webllama.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1402,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-10T16:44:00Z",
+    "first_commit_at": "2024-04-19T15:48:09Z",
+    "forks": 103,
+    "watchers": 23,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3193,
+  "rank_in_category": 140,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:10.178777Z",
+  "last_refreshed_at": "2026-06-06T10:12:10.178780Z"
+}

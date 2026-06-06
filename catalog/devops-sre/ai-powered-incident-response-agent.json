@@ -1,0 +1,47 @@
+{
+  "slug": "ai-powered-incident-response-agent",
+  "name": "ai_powered_incident_response_agent",
+  "tagline": "An Autonomous SRE agent which receives a PagerDuty or OpsGenie alert, investigates our infrastructure using live monitoring data, and produces a structured root-cause report with no human intervention",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "sd031",
+    "url": "https://github.com/sd031"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sd031/ai_powered_incident_response_agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T16:46:16Z",
+    "first_commit_at": "2026-04-29T16:35:27Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3266,
+  "rank_in_category": 123,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:35.187420Z",
+  "last_refreshed_at": "2026-06-06T10:15:35.187423Z"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "lazyllm",
+  "name": "LazyLLM",
+  "tagline": "Easiest and laziest way for  building multi-agent LLMs applications.",
+  "category": "search-rag",
+  "tags": [
+    "agents",
+    "ai-agent",
+    "data",
+    "deep-learning",
+    "documentation-tool",
+    "finetuning",
+    "framework",
+    "knowlege-graph",
+    "langchain",
+    "lazyllm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "LazyAGI",
+    "url": "https://github.com/LazyAGI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LazyAGI/LazyLLM",
+    "huggingface": null,
+    "homepage": "https://docs.lazyllm.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3839,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T11:38:04Z",
+    "first_commit_at": "2024-06-04T05:01:45Z",
+    "forks": 390,
+    "watchers": 149,
+    "open_issues": 38,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6222,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:11.246485Z",
+  "last_refreshed_at": "2026-06-06T10:11:11.246488Z"
+}

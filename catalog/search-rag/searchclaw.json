@@ -1,0 +1,47 @@
+{
+  "slug": "searchclaw",
+  "name": "SearchClaw",
+  "tagline": "Harness for deep search agent",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "RUC-NLPIR",
+    "url": "https://github.com/RUC-NLPIR"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RUC-NLPIR/SearchClaw",
+    "huggingface": null,
+    "homepage": "https://github.com/RUC-NLPIR/SearchClaw/blob/main/report/SearchClaw.pdf"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 97,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T02:09:54Z",
+    "first_commit_at": "2026-04-03T15:27:04Z",
+    "forks": 11,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4035,
+  "rank_in_category": 95,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:06.198100Z",
+  "last_refreshed_at": "2026-06-06T10:11:06.198103Z"
+}

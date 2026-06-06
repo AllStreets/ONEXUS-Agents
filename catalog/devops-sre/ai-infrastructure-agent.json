@@ -1,0 +1,54 @@
+{
+  "slug": "ai-infrastructure-agent",
+  "name": "ai-infrastructure-agent",
+  "tagline": "AI Infrastructure Agent is an intelligent system that allows you to manage AWS infrastructure using natural language commands.",
+  "category": "devops-sre",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "aws",
+    "devops",
+    "infrastructure",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "VersusControl",
+    "url": "https://github.com/VersusControl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "VersusControl/ai-infrastructure-agent",
+    "huggingface": null,
+    "homepage": "https://ai-agent.devopsvn.tech/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 211,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-04T06:42:58Z",
+    "first_commit_at": "2025-08-30T06:49:43Z",
+    "forks": 69,
+    "watchers": 6,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4031,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:49.157012Z",
+  "last_refreshed_at": "2026-06-06T10:15:49.157016Z"
+}

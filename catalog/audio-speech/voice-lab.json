@@ -1,0 +1,51 @@
+{
+  "slug": "voice-lab",
+  "name": "voice-lab",
+  "tagline": "Testing and evaluation framework for voice agents ",
+  "category": "audio-speech",
+  "tags": [
+    "agents",
+    "ai-agents",
+    "llms"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "saharmor",
+    "url": "https://github.com/saharmor"
+  },
+  "source": {
+    "primary": "github",
+    "github": "saharmor/voice-lab",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 171,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-04T10:13:02Z",
+    "first_commit_at": "2024-10-31T22:03:27Z",
+    "forks": 14,
+    "watchers": 3,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3661,
+  "rank_in_category": 123,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:08:12.849714Z",
+  "last_refreshed_at": "2026-06-06T10:08:12.849717Z"
+}

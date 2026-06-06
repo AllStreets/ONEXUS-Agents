@@ -1,0 +1,58 @@
+{
+  "slug": "ainativelang",
+  "name": "ainativelang",
+  "tagline": "AINL helps turn AI from \"a smart conversation\" into \"a structured worker.\"  It is designed for teams building AI workflows that need multiple steps, state and memory, tool use, repeatable execution, v",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent-orchestration",
+    "ai-agents",
+    "ai-native-language",
+    "ainl",
+    "claude-code",
+    "compiler",
+    "deterministic-execution",
+    "domain-specific-language",
+    "dsl",
+    "graph-ir"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sbhooley",
+    "url": "https://github.com/sbhooley"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sbhooley/ainativelang",
+    "huggingface": null,
+    "homepage": "https://ainativelang.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 840,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T03:18:46Z",
+    "first_commit_at": "2026-03-10T05:25:54Z",
+    "forks": 38,
+    "watchers": 13,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4497,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:53.237144Z",
+  "last_refreshed_at": "2026-06-06T10:12:53.237147Z"
+}

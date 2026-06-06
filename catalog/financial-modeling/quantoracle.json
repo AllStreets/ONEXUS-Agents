@@ -1,0 +1,58 @@
+{
+  "slug": "quantoracle",
+  "name": "quantoracle",
+  "tagline": "63 deterministic quant computation tools for autonomous financial agents. Options, derivatives, risk, portfolio, statistics, crypto/DeFi, macro/FX, TVM. 1,000 free calls/day — no signup.",
+  "category": "financial-modeling",
+  "tags": [
+    "agentkit",
+    "ai-agent",
+    "backtesting",
+    "black-scholes",
+    "crypto",
+    "defi",
+    "derivatives",
+    "fastapi",
+    "finance",
+    "kelly-criterion"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "QuantOracledev",
+    "url": "https://github.com/QuantOracledev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "QuantOracledev/quantoracle",
+    "huggingface": null,
+    "homepage": "https://quantoracle.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T01:50:42Z",
+    "first_commit_at": "2026-04-04T13:40:20Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.425,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:56:07.692493Z",
+  "last_refreshed_at": "2026-06-06T09:56:07.692496Z"
+}

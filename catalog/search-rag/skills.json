@@ -1,0 +1,58 @@
+{
+  "slug": "skills",
+  "name": "skills",
+  "tagline": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, ",
+  "category": "search-rag",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "cursor",
+    "embeddings",
+    "hybrid-search",
+    "monitoring",
+    "multitenancy",
+    "performance"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "qdrant",
+    "url": "https://github.com/qdrant"
+  },
+  "source": {
+    "primary": "github",
+    "github": "qdrant/skills",
+    "huggingface": null,
+    "homepage": "https://skills.qdrant.tech/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 148,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T23:37:45Z",
+    "first_commit_at": "2026-01-29T18:14:49Z",
+    "forks": 18,
+    "watchers": 2,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4741,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:14.181307Z",
+  "last_refreshed_at": "2026-06-06T10:11:14.181310Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "smart-assistant-agent",
+  "name": "smart-assistant-agent",
+  "tagline": "AWS Bedrock agent acting as a Telegram chat assistant.",
+  "category": "content-writing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "dashapetr",
+    "url": "https://github.com/dashapetr"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dashapetr/smart-assistant-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 17,
+    "downloads_30d": null,
+    "last_commit_at": "2024-05-05T12:42:44Z",
+    "first_commit_at": "2024-02-11T12:16:10Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3182,
+  "rank_in_category": 160,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:02:50.905656Z",
+  "last_refreshed_at": "2026-06-06T10:02:50.905659Z"
+}

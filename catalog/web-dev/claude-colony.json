@@ -1,0 +1,58 @@
+{
+  "slug": "claude-colony",
+  "name": "claude-colony",
+  "tagline": "Multi-agent Claude Code you can actually control. Spawn specialist teams in tmux, watch them work side-by-side, steer when needed. Built on native Claude Code agents. No black boxes.",
+  "category": "web-dev",
+  "tags": [
+    "agentic-ai",
+    "agentic-engineering",
+    "agentic-framework",
+    "agentic-rag",
+    "agentic-workflow",
+    "ai-assistant",
+    "ai-coding",
+    "ai-tools",
+    "anthropic-claude",
+    "autonomous-agents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MakingJamie",
+    "url": "https://github.com/MakingJamie"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MakingJamie/claude-colony",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-05T10:18:57Z",
+    "first_commit_at": "2025-12-21T18:32:12Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2947,
+  "rank_in_category": 231,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:51:35.161056Z",
+  "last_refreshed_at": "2026-06-06T09:51:35.161060Z"
+}

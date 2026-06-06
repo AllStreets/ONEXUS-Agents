@@ -1,0 +1,58 @@
+{
+  "slug": "gym",
+  "name": "Gym",
+  "tagline": "Evaluate and improve models and agents using environments",
+  "category": "email-scheduling",
+  "tags": [
+    "agents",
+    "benchmarks",
+    "environments",
+    "evaluation",
+    "gym",
+    "llm",
+    "reinforcement-learning",
+    "reinforcement-learning-environments",
+    "rl-environment",
+    "rl-training"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NVIDIA-NeMo",
+    "url": "https://github.com/NVIDIA-NeMo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVIDIA-NeMo/Gym",
+    "huggingface": null,
+    "homepage": "https://docs.nvidia.com/nemo/gym/main/about/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 963,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T06:30:34Z",
+    "first_commit_at": "2025-08-25T21:37:55Z",
+    "forks": 172,
+    "watchers": 9,
+    "open_issues": 400,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6023,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:57.203213Z",
+  "last_refreshed_at": "2026-06-06T10:14:57.203216Z"
+}

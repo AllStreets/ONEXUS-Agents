@@ -1,0 +1,52 @@
+{
+  "slug": "rag",
+  "name": "rag",
+  "tagline": "This NVIDIA RAG blueprint serves as a reference solution for a foundational Retrieval Augmented Generation (RAG) pipeline.",
+  "category": "search-rag",
+  "tags": [
+    "blueprint",
+    "nim",
+    "rag",
+    "retrieval-augmented-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NVIDIA-AI-Blueprints",
+    "url": "https://github.com/NVIDIA-AI-Blueprints"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVIDIA-AI-Blueprints/rag",
+    "huggingface": null,
+    "homepage": "https://build.nvidia.com/nvidia/build-an-enterprise-rag-pipeline"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 653,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T10:23:22Z",
+    "first_commit_at": "2024-12-11T22:26:46Z",
+    "forks": 281,
+    "watchers": 14,
+    "open_issues": 27,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5713,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:10:59.740880Z",
+  "last_refreshed_at": "2026-06-06T10:10:59.740883Z"
+}

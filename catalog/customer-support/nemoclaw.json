@@ -1,0 +1,54 @@
+{
+  "slug": "nemoclaw",
+  "name": "NemoClaw",
+  "tagline": "Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+  "category": "customer-support",
+  "tags": [
+    "ai-agents",
+    "nvidia",
+    "openclaw",
+    "openshell",
+    "sandboxing",
+    "typescript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NVIDIA",
+    "url": "https://github.com/NVIDIA"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVIDIA/NemoClaw",
+    "huggingface": null,
+    "homepage": "https://docs.nvidia.com/nemoclaw/latest/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 20986,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T09:31:04Z",
+    "first_commit_at": "2026-03-14T16:47:02Z",
+    "forks": 2786,
+    "watchers": 112,
+    "open_issues": 412,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.693,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:00:20.419182Z",
+  "last_refreshed_at": "2026-06-06T10:00:20.419185Z"
+}

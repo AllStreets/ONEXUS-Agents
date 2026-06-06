@@ -1,0 +1,47 @@
+{
+  "slug": "tts-agent-harness",
+  "name": "tts-agent-harness",
+  "tagline": "Multi-agent TTS production harness: Fish TTS + WhisperX + Claude, with cross-episode memory and auto-fix loop",
+  "category": "audio-speech",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "vq7k",
+    "url": "https://github.com/vq7k"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vq7k/tts-agent-harness",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 41,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-21T06:58:04Z",
+    "first_commit_at": "2026-03-30T01:36:02Z",
+    "forks": 15,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4272,
+  "rank_in_category": 93,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:07:51.174175Z",
+  "last_refreshed_at": "2026-06-06T10:07:51.174178Z"
+}

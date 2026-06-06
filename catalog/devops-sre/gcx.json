@@ -1,0 +1,47 @@
+{
+  "slug": "gcx",
+  "name": "gcx",
+  "tagline": "A CLI for managing Grafana Cloud resources. Optimized for agentic usage.",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "grafana",
+    "url": "https://github.com/grafana"
+  },
+  "source": {
+    "primary": "github",
+    "github": "grafana/gcx",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 351,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T23:02:50Z",
+    "first_commit_at": "2026-03-23T13:12:02Z",
+    "forks": 23,
+    "watchers": 3,
+    "open_issues": 119,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4901,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:45.238071Z",
+  "last_refreshed_at": "2026-06-06T10:15:45.238075Z"
+}

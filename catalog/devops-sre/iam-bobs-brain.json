@@ -1,0 +1,58 @@
+{
+  "slug": "iam-bobs-brain",
+  "name": "iam-bobs-brain",
+  "tagline": "General-purpose enterprise orchestrator on Google ADK + Vertex AI Agent Engine. Multi-agent system with risk tiers (R0-R4), policy gates, evidence bundles, and Mission Spec v1 workflows.",
+  "category": "devops-sre",
+  "tags": [
+    "a2a-protocol",
+    "agent-engine",
+    "ai-agents",
+    "enterprise",
+    "google-adk",
+    "multi-agent",
+    "orchestration",
+    "policy-gates",
+    "python",
+    "risk-management"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jeremylongshore",
+    "url": "https://github.com/jeremylongshore"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jeremylongshore/iam-bobs-brain",
+    "huggingface": null,
+    "homepage": "https://intent-solutions-io.github.io/bobs-brain/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-25T01:49:05Z",
+    "first_commit_at": "2025-08-05T22:06:22Z",
+    "forks": 7,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3295,
+  "rank_in_category": 121,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:46.955500Z",
+  "last_refreshed_at": "2026-06-06T10:15:46.955503Z"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "docext",
+  "name": "docext",
+  "tagline": "An on-premises, OCR-free unstructured data extraction, markdown conversion and benchmarking toolkit. (https://idp-leaderboard.org/)",
+  "category": "document-processing",
+  "tags": [
+    "document",
+    "document-analysis",
+    "document-data-extraction",
+    "document-information-extraction",
+    "extraction",
+    "llm-ocr",
+    "llms",
+    "machine-learning",
+    "nlp",
+    "ocr"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NanoNets",
+    "url": "https://github.com/NanoNets"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NanoNets/docext",
+    "huggingface": null,
+    "homepage": "https://nanonets.com/document-parsing-and-extraction"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2022,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-17T09:41:55Z",
+    "first_commit_at": "2025-03-25T03:56:46Z",
+    "forks": 143,
+    "watchers": 20,
+    "open_issues": 21,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.549,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:20.343763Z",
+  "last_refreshed_at": "2026-06-06T10:14:20.343766Z"
+}

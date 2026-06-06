@@ -1,0 +1,50 @@
+{
+  "slug": "qwen-vl",
+  "name": "Qwen-VL",
+  "tagline": "The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.",
+  "category": "search-rag",
+  "tags": [
+    "large-language-models",
+    "vision-language-model"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "QwenLM",
+    "url": "https://github.com/QwenLM"
+  },
+  "source": {
+    "primary": "github",
+    "github": "QwenLM/Qwen-VL",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 6664,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-07T02:37:06Z",
+    "first_commit_at": "2023-08-21T07:57:15Z",
+    "forks": 489,
+    "watchers": 46,
+    "open_issues": 324,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.438,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:23.764075Z",
+  "last_refreshed_at": "2026-06-06T10:11:23.764078Z"
+}

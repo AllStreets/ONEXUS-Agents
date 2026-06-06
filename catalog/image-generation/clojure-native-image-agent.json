@@ -1,0 +1,50 @@
+{
+  "slug": "clojure-native-image-agent",
+  "name": "clojure-native-image-agent",
+  "tagline": "Helps GraalVM's native-image-agent to be more useful for Clojure applications.",
+  "category": "image-generation",
+  "tags": [
+    "clojure",
+    "graalvm-native-image"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "luontola",
+    "url": "https://github.com/luontola"
+  },
+  "source": {
+    "primary": "github",
+    "github": "luontola/clojure-native-image-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2022-07-12T11:43:48Z",
+    "first_commit_at": "2021-09-18T16:37:37Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2031,
+  "rank_in_category": 216,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:04:26.541051Z",
+  "last_refreshed_at": "2026-06-06T10:04:26.541054Z"
+}

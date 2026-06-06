@@ -1,0 +1,47 @@
+{
+  "slug": "claudette-scheduling-agent",
+  "name": "claudette-scheduling-agent",
+  "tagline": "An AI-powered scheduling assistant that automates email responses and calendar management using Anthropic's Claude API.",
+  "category": "email-scheduling",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "maraoz",
+    "url": "https://github.com/maraoz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "maraoz/claudette-scheduling-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2024-10-21T13:13:08Z",
+    "first_commit_at": "2024-08-25T21:20:00Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3014,
+  "rank_in_category": 162,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:49.359789Z",
+  "last_refreshed_at": "2026-06-06T10:14:49.359793Z"
+}

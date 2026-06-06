@@ -1,0 +1,58 @@
+{
+  "slug": "eca",
+  "name": "eca",
+  "tagline": "Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-coding",
+    "chat",
+    "clojure",
+    "code-assistant",
+    "completion",
+    "editor",
+    "emacs",
+    "hacktoberfest",
+    "intellij"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "editor-code-assistant",
+    "url": "https://github.com/editor-code-assistant"
+  },
+  "source": {
+    "primary": "github",
+    "github": "editor-code-assistant/eca",
+    "huggingface": null,
+    "homepage": "http://eca.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 868,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T17:48:58Z",
+    "first_commit_at": "2025-06-08T17:31:13Z",
+    "forks": 63,
+    "watchers": 12,
+    "open_issues": 66,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3556,
+  "rank_in_category": 182,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:22.868143Z",
+  "last_refreshed_at": "2026-06-06T09:47:22.868146Z"
+}

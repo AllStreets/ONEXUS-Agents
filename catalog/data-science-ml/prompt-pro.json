@@ -1,0 +1,58 @@
+{
+  "slug": "prompt-pro",
+  "name": "prompt-pro",
+  "tagline": "Master AI prompting for business innovation. O'Reilly Live Learning course by Tim Warner covering ChatGPT, Claude, Copilot, and enterprise prompt engineering with MCP implementation.",
+  "category": "data-science-ml",
+  "tags": [
+    "agentic-ai",
+    "ai-training",
+    "artificial-intelligence",
+    "business-ai",
+    "chatgpt",
+    "claude",
+    "context-engineering",
+    "course-materials",
+    "education",
+    "google-gemini"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "timothywarner-org",
+    "url": "https://github.com/timothywarner-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "timothywarner-org/prompt-pro",
+    "huggingface": null,
+    "homepage": "https://techtrainertim.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 41,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-12T14:07:40Z",
+    "first_commit_at": "2025-08-08T20:42:54Z",
+    "forks": 19,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4115,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:35.847892Z",
+  "last_refreshed_at": "2026-06-06T09:54:35.847895Z"
+}

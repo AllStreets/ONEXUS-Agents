@@ -1,0 +1,58 @@
+{
+  "slug": "agent-device",
+  "name": "agent-device",
+  "tagline": "CLI to control iOS and Android devices for AI agents",
+  "category": "desktop-os-automation",
+  "tags": [
+    "adb",
+    "agentic-ai",
+    "agents",
+    "ai-agents",
+    "android-emulator",
+    "automation",
+    "e2e-testing",
+    "expo",
+    "flutter",
+    "ios-simulator"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "callstack",
+    "url": "https://github.com/callstack"
+  },
+  "source": {
+    "primary": "github",
+    "github": "callstack/agent-device",
+    "huggingface": null,
+    "homepage": "https://agent-device.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2489,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T08:14:13Z",
+    "first_commit_at": "2026-01-30T18:41:54Z",
+    "forks": 134,
+    "watchers": 7,
+    "open_issues": 37,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4185,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:52.533531Z",
+  "last_refreshed_at": "2026-06-06T10:12:52.533535Z"
+}

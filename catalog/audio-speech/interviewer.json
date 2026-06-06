@@ -1,0 +1,55 @@
+{
+  "slug": "interviewer",
+  "name": "Interviewer",
+  "tagline": "AI Mock Interviewer",
+  "category": "audio-speech",
+  "tags": [
+    "ai",
+    "chatgpt",
+    "coding",
+    "gradio",
+    "huggingface",
+    "interview-preparation",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "IliaLarchenko",
+    "url": "https://github.com/IliaLarchenko"
+  },
+  "source": {
+    "primary": "github",
+    "github": "IliaLarchenko/Interviewer",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/spaces/IliaLarchenko/interviewer"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 111,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-16T11:49:47Z",
+    "first_commit_at": "2024-04-16T13:19:21Z",
+    "forks": 35,
+    "watchers": 1,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3706,
+  "rank_in_category": 120,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:07:40.755442Z",
+  "last_refreshed_at": "2026-06-06T10:07:40.755445Z"
+}

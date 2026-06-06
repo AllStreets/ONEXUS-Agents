@@ -1,0 +1,58 @@
+{
+  "slug": "opensail",
+  "name": "OpenSail",
+  "tagline": "OpenSail is the open-source alternative to Codex App, Claude Desktop, Cursor, and Cowork for agentic software work.",
+  "category": "web-dev",
+  "tags": [
+    "agents",
+    "ai",
+    "automation",
+    "btrfs",
+    "connectors",
+    "deployment",
+    "desktop",
+    "desktop-app",
+    "docker",
+    "kubernetes"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TesslateAI",
+    "url": "https://github.com/TesslateAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TesslateAI/OpenSail",
+    "huggingface": null,
+    "homepage": "https://tesslate.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 569,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-30T00:52:22Z",
+    "first_commit_at": "2025-09-13T22:26:09Z",
+    "forks": 94,
+    "watchers": 5,
+    "open_issues": 100,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5188,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:50:45.140598Z",
+  "last_refreshed_at": "2026-06-06T09:50:45.140602Z"
+}

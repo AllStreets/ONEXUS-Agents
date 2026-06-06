@@ -1,0 +1,58 @@
+{
+  "slug": "playwright",
+  "name": "playwright",
+  "tagline": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+  "category": "coding",
+  "tags": [
+    "automation",
+    "chrome",
+    "chromium",
+    "e2e-testing",
+    "electron",
+    "end-to-end-testing",
+    "firefox",
+    "javascript",
+    "playwright",
+    "test"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/playwright",
+    "huggingface": null,
+    "homepage": "https://playwright.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 90388,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T20:40:11Z",
+    "first_commit_at": "2019-11-15T18:32:44Z",
+    "forks": 5876,
+    "watchers": 585,
+    "open_issues": 179,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4629,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:46:50.243831Z",
+  "last_refreshed_at": "2026-06-06T09:46:50.243834Z"
+}

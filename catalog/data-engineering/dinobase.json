@@ -1,0 +1,51 @@
+{
+  "slug": "dinobase",
+  "name": "dinobase",
+  "tagline": "The agent-first data platform",
+  "category": "data-engineering",
+  "tags": [
+    "agents",
+    "ai",
+    "database"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "DinobaseHQ",
+    "url": "https://github.com/DinobaseHQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DinobaseHQ/dinobase",
+    "huggingface": null,
+    "homepage": "https://dinobase.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 261,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T23:55:34Z",
+    "first_commit_at": "2026-03-24T10:11:55Z",
+    "forks": 13,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5047,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:32.110214Z",
+  "last_refreshed_at": "2026-06-06T09:52:32.110217Z"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "chatgpt-vscode",
+  "name": "chatgpt-vscode",
+  "tagline": "Your best AI pair programmer in VS Code",
+  "category": "coding",
+  "tags": [
+    "chatgpt",
+    "gpt-3",
+    "gpt-4",
+    "vscode"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ai-genie",
+    "url": "https://github.com/ai-genie"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ai-genie/chatgpt-vscode",
+    "huggingface": null,
+    "homepage": "https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode"
+  },
+  "license": "ISC",
+  "metrics": {
+    "stars": 1276,
+    "downloads_30d": null,
+    "last_commit_at": "2024-09-15T21:48:24Z",
+    "first_commit_at": "2023-03-20T09:14:51Z",
+    "forks": 84,
+    "watchers": 13,
+    "open_issues": 123,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2587,
+  "rank_in_category": 367,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:45.983864Z",
+  "last_refreshed_at": "2026-06-06T09:48:45.983868Z"
+}

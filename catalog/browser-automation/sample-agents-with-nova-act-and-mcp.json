@@ -1,0 +1,51 @@
+{
+  "slug": "sample-agents-with-nova-act-and-mcp",
+  "name": "sample-agents-with-nova-act-and-mcp",
+  "tagline": "Discover how to build agents that can perform actions on websites by combining Amazon Nova Act with Model Context Protocol (MCP).",
+  "category": "browser-automation",
+  "tags": [
+    "amazon-bedrock",
+    "amazon-nova-act",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aws-samples",
+    "url": "https://github.com/aws-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-samples/sample-agents-with-nova-act-and-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT-0",
+  "metrics": {
+    "stars": 80,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-28T17:49:48Z",
+    "first_commit_at": "2025-04-10T19:24:23Z",
+    "forks": 70,
+    "watchers": 2,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2745,
+  "rank_in_category": 190,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:02.913016Z",
+  "last_refreshed_at": "2026-06-06T10:12:02.913019Z"
+}

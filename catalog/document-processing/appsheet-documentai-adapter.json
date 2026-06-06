@@ -1,0 +1,47 @@
+{
+  "slug": "appsheet-documentai-adapter",
+  "name": "appsheet-documentai-adapter",
+  "tagline": "A serverless function to serve as adapter via API between AppSheet no-code apps and the GCP Document AI service.",
+  "category": "document-processing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "tyayers",
+    "url": "https://github.com/tyayers"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tyayers/appsheet-documentai-adapter",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2022-11-09T14:41:10Z",
+    "first_commit_at": "2021-09-22T15:09:52Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3017,
+  "rank_in_category": 217,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:15.371070Z",
+  "last_refreshed_at": "2026-06-06T10:14:15.371074Z"
+}

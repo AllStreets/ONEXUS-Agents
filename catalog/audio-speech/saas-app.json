@@ -1,0 +1,58 @@
+{
+  "slug": "saas-app",
+  "name": "saas-app",
+  "tagline": "LMS SaaS app featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe — also integrates Vapi AI voice agent for seamless, interactive learning sessions.",
+  "category": "audio-speech",
+  "tags": [
+    "clerk",
+    "nextjs",
+    "nextjs15",
+    "sentry",
+    "shadcn",
+    "shadcn-ui",
+    "stripe",
+    "supabase",
+    "tailwind",
+    "tailwindcss"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "adrianhajdin",
+    "url": "https://github.com/adrianhajdin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "adrianhajdin/saas-app",
+    "huggingface": null,
+    "homepage": "https://jsmastery.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 423,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-23T10:22:07Z",
+    "first_commit_at": "2025-05-16T12:11:10Z",
+    "forks": 191,
+    "watchers": 5,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4001,
+  "rank_in_category": 103,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:08:10.701898Z",
+  "last_refreshed_at": "2026-06-06T10:08:10.701901Z"
+}

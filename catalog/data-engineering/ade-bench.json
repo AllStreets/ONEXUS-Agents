@@ -1,0 +1,47 @@
+{
+  "slug": "ade-bench",
+  "name": "ade-bench",
+  "tagline": "ade-bench",
+  "category": "data-engineering",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "dbt-labs",
+    "url": "https://github.com/dbt-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dbt-labs/ade-bench",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 102,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-28T14:45:36Z",
+    "first_commit_at": "2025-06-03T01:45:53Z",
+    "forks": 19,
+    "watchers": 3,
+    "open_issues": 32,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5461,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:53:11.430542Z",
+  "last_refreshed_at": "2026-06-06T09:53:11.430546Z"
+}
