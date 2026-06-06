@@ -47,6 +47,9 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Fallback if Anthropic fails or is rate-limited. Both providers
+          # are optional — keyword classifier handles the easy cases for free.
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           ARGS=""
           if [ "${{ github.event.inputs.seeds_only }}" = "true" ]; then ARGS="$ARGS --seeds-only"; fi
