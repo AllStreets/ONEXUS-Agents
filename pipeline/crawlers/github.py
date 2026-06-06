@@ -9,6 +9,8 @@ from typing import Any
 import httpx
 from tenacity import retry, stop_after_attempt, wait_exponential
 
+from pipeline.budget import get_budget
+
 GITHUB_API = "https://api.github.com"
 
 
@@ -18,7 +20,9 @@ def _headers() -> dict[str, str]:
         "X-GitHub-Api-Version": "2022-11-28",
         "User-Agent": "onexus-agents-pipeline/0.1",
     }
-    token = os.environ.get("GITHUB_TOKEN")
+    # Prefer user-supplied PAT (5000/hr) over Actions GITHUB_TOKEN (1000/hr).
+    # Both are free; PAT requires only `public_repo` read scope.
+    token = os.environ.get("GH_PAT") or os.environ.get("GITHUB_TOKEN")
     if token:
         h["Authorization"] = f"Bearer {token}"
     return h
@@ -32,6 +36,8 @@ def fetch_repo(client: httpx.Client, full_name: str) -> dict[str, Any] | None:
     (legal block) as "skip this one" so a single throttled or DMCA'd repo can't
     crash a multi-thousand-repo crawl.
     """
+    if not get_budget().spend("gh"):
+        return None
     r = client.get(
         f"{GITHUB_API}/repos/{full_name}",
         headers=_headers(),
@@ -69,6 +75,8 @@ def fetch_repo(client: httpx.Client, full_name: str) -> dict[str, Any] | None:
 
 def _fetch_first_commit_date(client: httpx.Client, full_name: str) -> str | None:
     """Cheap proxy: paginate to the last commit page and grab its committer date."""
+    if not get_budget().spend("gh"):
+        return None
     try:
         r = client.get(
             f"{GITHUB_API}/repos/{full_name}/commits",
@@ -109,6 +117,8 @@ def search_repos(client: httpx.Client, query: str, limit: int = 30) -> list[str]
     Returns [] on 403 (secondary rate limit) or 422 (bad query) so a single
     bad query doesn't kill the whole crawl.
     """
+    if not get_budget().spend("gh"):
+        return []
     r = client.get(
         f"{GITHUB_API}/search/repositories",
         headers=_headers(),

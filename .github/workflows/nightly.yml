@@ -41,6 +41,10 @@ jobs:
       - name: run nightly refresh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: a fine-grained PAT with public_repo:read raises GH's
+          # rate window from 1000/hr → 5000/hr. Falls back to GITHUB_TOKEN
+          # if the secret isn't set.
+          GH_PAT: ${{ secrets.GH_PAT }}
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |

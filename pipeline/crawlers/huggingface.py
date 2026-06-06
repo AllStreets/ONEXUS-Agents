@@ -9,6 +9,8 @@ from typing import Any
 import httpx
 from tenacity import retry, stop_after_attempt, wait_exponential
 
+from pipeline.budget import get_budget
+
 HF_API = "https://huggingface.co/api"
 
 
@@ -22,6 +24,8 @@ def _headers() -> dict[str, str]:
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(min=1, max=10))
 def fetch_model(client: httpx.Client, model_id: str) -> dict[str, Any] | None:
+    if not get_budget().spend("hf"):
+        return None
     r = client.get(f"{HF_API}/models/{model_id}", headers=_headers(), timeout=15)
     if r.status_code == 404:
         return None
@@ -45,6 +49,8 @@ def fetch_model(client: httpx.Client, model_id: str) -> dict[str, Any] | None:
 def search_models(
     client: httpx.Client, tags: list[str], limit: int = 30
 ) -> list[str]:
+    if not get_budget().spend("hf"):
+        return []
     r = client.get(
         f"{HF_API}/models",
         headers=_headers(),

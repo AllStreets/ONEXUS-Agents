@@ -17,6 +17,8 @@ import httpx
 from rich.console import Console
 from rich.progress import Progress
 
+from pipeline.budget import from_env as budget_from_env
+from pipeline.budget import set_budget
 from pipeline.build import (
     build_from_github,
     build_from_huggingface,
@@ -38,6 +40,30 @@ from pipeline.store import (
 
 TOP_N = 250
 console = Console()
+
+
+def _broaden_queries(cat: Category) -> list[str]:
+    """Auto-generate broader GitHub queries from each category's seed_keywords.
+
+    The hand-curated `github_search_queries` are mostly `topic:X` filters that
+    only match repos whose author specifically tagged that niche topic. Most
+    real agent repos don't. This function adds name/description and README
+    fallbacks at a low star floor so undersampled categories actually fill.
+
+    Cheap: each variant is one search call (1 of ~30k budget); dedupe in
+    `_discover` prevents extra repo fetches for results already seen.
+    """
+    extra: list[str] = []
+    seen: set[str] = set(cat.github_search_queries)
+    for kw in cat.seed_keywords:
+        for tmpl in (
+            f'"{kw}" in:name,description stars:>5',
+            f'"{kw}" in:readme stars:>10',
+        ):
+            if tmpl not in seen:
+                extra.append(tmpl)
+                seen.add(tmpl)
+    return extra
 
 
 def _index_existing() -> dict[tuple[str, str], Agent]:
@@ -154,7 +180,8 @@ def _discover(
         a.source.huggingface for ags in by_cat.values() for a in ags if a.source.huggingface
     }
     for cat in categories.categories:
-        for q in cat.github_search_queries:
+        all_queries = cat.github_search_queries + _broaden_queries(cat)
+        for q in all_queries:
             try:
                 hits = gh.search_repos(client, q, limit=per_query_limit)
             except Exception as e:  # noqa: BLE001
@@ -292,6 +319,9 @@ def main(
 ) -> None:
     """Run the nightly catalog refresh."""
     console.print(f"[bold]ONEXUS-Agents nightly[/] · dry_run={dry_run} · seeds_only={seeds_only}")
+    budget = budget_from_env()
+    set_budget(budget)
+    console.print(f"[dim]budget · gh={budget.gh_remaining} hf={budget.hf_remaining}")
     cats = load_categories()
     if category_filter:
         cats.categories = [c for c in cats.categories if c.slug in category_filter]
@@ -326,6 +356,7 @@ def main(
     drops_file = _record_drops(dropped) if not dry_run else None
     total_kept = sum(min(len(v), TOP_N) for v in by_cat.values())
     console.print(f"[green]Done.[/] {total_kept} agents across {len(by_cat)} categories.")
+    console.print(f"[dim]budget left · gh={budget.gh_remaining} hf={budget.hf_remaining}")
     if drops_file:
         console.print(f"Drops recorded in {drops_file.relative_to(CATALOG_DIR.parent)}")
 
