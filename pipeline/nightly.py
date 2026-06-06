@@ -191,7 +191,9 @@ def _discover(
     seen_hf: set[str] = {
         a.source.huggingface for ags in by_cat.values() for a in ags if a.source.huggingface
     }
-    classifier_calls = 0
+    classifier_ok = 0
+    classifier_err = 0
+    classifier_first_errors: list[str] = []
     for cat in categories.categories:
         curated_queries = list(cat.github_search_queries)
         broad_queries = _broaden_queries(cat)
@@ -235,13 +237,24 @@ def _discover(
                     text = f"{agent.tagline} | tags: {' '.join(agent.tags)}"
                     result = classify_with_hint(text, categories, cat.slug)
                     if result.reason.startswith("openai:"):
-                        classifier_calls += 1
+                        # Successful openai response sets category. Errors return
+                        # category=None and reason like "openai: AuthError: ..."
+                        if result.category:
+                            classifier_ok += 1
+                        else:
+                            classifier_err += 1
+                            if len(classifier_first_errors) < 3:
+                                classifier_first_errors.append(result.reason)
                     if result.category and result.category != cat.slug:
                         agent.category = result.category
                         actual_cat = result.category
                 by_cat[actual_cat].append(agent)
-        if classifier_calls:
-            console.print(f"[dim]classifier · openai calls so far: {classifier_calls}")
+        if classifier_ok or classifier_err:
+            console.print(
+                f"[dim]classifier · openai ok={classifier_ok} err={classifier_err}"
+            )
+    for msg in classifier_first_errors:
+        console.print(f"[yellow]classifier first errors · {msg}")
 
         hf_tags = (cat.huggingface_filters or {}).get("tags") or []
         if hf_tags:
