@@ -39,14 +39,12 @@ from pipeline.store import (
     write_agent,
 )
 
-TOP_N = 250
-# Per-category overrides for the featured cap. `coding` is the only category
-# currently saturated at the legacy 250 cap; raising it lets the
-# composite_score actually drive the top-of-coding ranking instead of just
-# truncating the tail. Other categories aren't anywhere near cap yet.
-PER_CATEGORY_FEATURED_CAP: dict[str, int] = {
-    "coding": 500,
-}
+TOP_N = 500
+# Per-category overrides for the featured cap. Empty by default — every
+# category gets the 500-entry default. Add slugs here to raise (or lower)
+# specific categories. Discovery overflow past the cap that still passes
+# TAIL_QUALITY_THRESHOLD goes to catalog/<cat>/_tail/.
+PER_CATEGORY_FEATURED_CAP: dict[str, int] = {}
 # Entries past the featured cap that still pass the quality threshold go to
 # catalog/<cat>/_tail/ — visible to site loaders that opt in but skipped by
 # the validator's `_`-dir filter (PR #44). Entries below threshold land in
