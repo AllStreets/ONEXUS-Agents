@@ -23,6 +23,14 @@ export type Metrics = {
   downloads_30d: number | null;
   last_commit_at: string | null;
   first_commit_at: string | null;
+  forks?: number | null;
+  watchers?: number | null;
+  open_issues?: number | null;
+  archived?: boolean | null;
+  is_fork?: boolean | null;
+  is_template?: boolean | null;
+  library_name?: string | null;
+  pipeline_tag?: string | null;
 };
 
 export type Benchmark = {

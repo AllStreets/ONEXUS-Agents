@@ -36,6 +36,8 @@ def fetch_model(client: httpx.Client, model_id: str) -> dict[str, Any] | None:
         "tags": data.get("tags") or [],
         "html_url": f"https://huggingface.co/{model_id}",
         "pipeline_tag": data.get("pipeline_tag"),
+        # Tier 1: already returned by /models — capture for ranking signal.
+        "library_name": data.get("library_name"),
     }
 
 
