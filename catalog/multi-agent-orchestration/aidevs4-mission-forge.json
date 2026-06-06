@@ -1,0 +1,47 @@
+{
+  "slug": "aidevs4-mission-forge",
+  "name": "aidevs4-mission-forge",
+  "tagline": "AI agent orchestration platform for the AI Devs 4 challenge. Runs hierarchical multi-agent missions via LLM providers with a real-time monitoring dashboard. An orchestrator agent delegates to speciali",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "dikamilo",
+    "url": "https://github.com/dikamilo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dikamilo/aidevs4-mission-forge",
+    "huggingface": null,
+    "homepage": "https://aidevs.pl/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-11T13:17:34Z",
+    "first_commit_at": "2026-04-11T11:47:32Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.236,
+  "rank_in_category": 251,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:20:03.833972Z",
+  "last_refreshed_at": "2026-06-06T15:20:03.833975Z"
+}

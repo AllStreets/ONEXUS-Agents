@@ -1,0 +1,50 @@
+{
+  "slug": "alphaquanter",
+  "name": "AlphaQuanter",
+  "tagline": "[ACL2026] AlphaQuanter: An End-to-End Tool-Orchestrated Agentic Reinforcement Learning Framework for Stock Trading.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agentic-rl"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "horizon-llm",
+    "url": "https://github.com/horizon-llm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "horizon-llm/AlphaQuanter",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 55,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-17T05:38:40Z",
+    "first_commit_at": "2025-10-16T09:05:11Z",
+    "forks": 9,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2381,
+  "rank_in_category": 248,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:19:57.224495Z",
+  "last_refreshed_at": "2026-06-06T15:19:57.224498Z"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "pi-agent-teams",
+  "name": "pi-agent-teams",
+  "tagline": "Experimental agent swarm extension for Pi. Inspired by Claude agent teams.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-swarm",
+    "agent-teams",
+    "pi",
+    "pi-extension",
+    "teams"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tmustier",
+    "url": "https://github.com/tmustier"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tmustier/pi-agent-teams",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 80,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T15:51:41Z",
+    "first_commit_at": "2026-02-07T22:07:46Z",
+    "forks": 16,
+    "watchers": 0,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3197,
+  "rank_in_category": 194,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:20:19.775244Z",
+  "last_refreshed_at": "2026-06-06T15:20:19.775247Z"
+}

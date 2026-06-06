@@ -1,0 +1,58 @@
+{
+  "slug": "agent-squad",
+  "name": "agent-squad",
+  "tagline": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+  "category": "reasoning-math",
+  "tags": [
+    "agentic-ai",
+    "agents",
+    "ai-agents",
+    "ai-agents-framework",
+    "anthropic",
+    "anthropic-claude",
+    "aws",
+    "aws-bedrock",
+    "aws-cdk",
+    "aws-lambda"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "2FastLabs",
+    "url": "https://github.com/2FastLabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "2FastLabs/agent-squad",
+    "huggingface": null,
+    "homepage": "https://2fastlabs.github.io/agent-squad/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7647,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T09:47:49Z",
+    "first_commit_at": "2024-07-23T12:48:30Z",
+    "forks": 719,
+    "watchers": 53,
+    "open_issues": 131,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4454,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:23.282998Z",
+  "last_refreshed_at": "2026-06-06T15:18:23.283001Z"
+}

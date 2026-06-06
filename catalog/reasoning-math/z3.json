@@ -1,0 +1,47 @@
+{
+  "slug": "z3",
+  "name": "z3",
+  "tagline": "The Z3 Theorem Prover",
+  "category": "reasoning-math",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "Z3Prover",
+    "url": "https://github.com/Z3Prover"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Z3Prover/z3",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 12319,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T13:24:28Z",
+    "first_commit_at": "2015-03-26T18:16:07Z",
+    "forks": 1659,
+    "watchers": 174,
+    "open_issues": 179,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4617,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:32.111367Z",
+  "last_refreshed_at": "2026-06-06T15:18:32.111371Z"
+}

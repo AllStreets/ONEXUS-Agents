@@ -1,0 +1,52 @@
+{
+  "slug": "rocq",
+  "name": "rocq",
+  "tagline": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment f",
+  "category": "reasoning-math",
+  "tags": [
+    "coq",
+    "dependent-types",
+    "proof-assistant",
+    "theorem-proving"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "rocq-prover",
+    "url": "https://github.com/rocq-prover"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rocq-prover/rocq",
+    "huggingface": null,
+    "homepage": "https://rocq-prover.org/"
+  },
+  "license": "LGPL-2.1",
+  "metrics": {
+    "stars": 5470,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T14:23:55Z",
+    "first_commit_at": "2011-02-17T05:49:37Z",
+    "forks": 733,
+    "watchers": 99,
+    "open_issues": 2546,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4445,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:32.965212Z",
+  "last_refreshed_at": "2026-06-06T15:18:32.965215Z"
+}

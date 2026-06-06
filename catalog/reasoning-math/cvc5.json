@@ -1,0 +1,47 @@
+{
+  "slug": "cvc5",
+  "name": "cvc5",
+  "tagline": "cvc5 is an open-source automatic theorem prover for Satisfiability Modulo Theories (SMT) problems.",
+  "category": "reasoning-math",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "cvc5",
+    "url": "https://github.com/cvc5"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cvc5/cvc5",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1313,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T14:51:13Z",
+    "first_commit_at": "2012-12-06T18:45:04Z",
+    "forks": 290,
+    "watchers": 34,
+    "open_issues": 223,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4181,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:36.211296Z",
+  "last_refreshed_at": "2026-06-06T15:18:36.211299Z"
+}

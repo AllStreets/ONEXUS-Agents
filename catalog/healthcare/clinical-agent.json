@@ -1,0 +1,51 @@
+{
+  "slug": "clinical-agent",
+  "name": "clinical-agent",
+  "tagline": "ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning. BCB '24: Proceedings of the 15th ACM International Conference on Bioinformatics, Computational Biology and H",
+  "category": "healthcare",
+  "tags": [
+    "agent",
+    "clinical-trials",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lingyue404",
+    "url": "https://github.com/lingyue404"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lingyue404/clinical-agent",
+    "huggingface": null,
+    "homepage": "https://dl.acm.org/doi/abs/10.1145/3698587.3701359"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 35,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-16T16:22:30Z",
+    "first_commit_at": "2024-08-04T03:51:55Z",
+    "forks": 9,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.268,
+  "rank_in_category": 142,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:21:43.419847Z",
+  "last_refreshed_at": "2026-06-06T15:21:43.419851Z"
+}

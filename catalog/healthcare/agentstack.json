@@ -1,0 +1,47 @@
+{
+  "slug": "agentstack",
+  "name": "agentstack",
+  "tagline": "Deploy, and share agents with open infrastructure, free from vendor lock-in.",
+  "category": "healthcare",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "i-am-bee",
+    "url": "https://github.com/i-am-bee"
+  },
+  "source": {
+    "primary": "github",
+    "github": "i-am-bee/agentstack",
+    "huggingface": null,
+    "homepage": "https://agentstack.beeai.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1114,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T17:22:54Z",
+    "first_commit_at": "2025-01-27T17:21:19Z",
+    "forks": 181,
+    "watchers": 20,
+    "open_issues": 365,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5475,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:21:29.485927Z",
+  "last_refreshed_at": "2026-06-06T15:21:29.485930Z"
+}

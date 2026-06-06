@@ -1,0 +1,58 @@
+{
+  "slug": "gemma3n-disaster-assistant",
+  "name": "gemma3n-disaster-assistant",
+  "tagline": "AI-powered disaster response platform with offline-first architecture using Gemma 3n. Provides computer vision hazard detection, voice analysis with emergency keywords, PDF report generation, and mult",
+  "category": "healthcare",
+  "tags": [
+    "ai",
+    "computer-vision",
+    "emergency-response",
+    "fastapi",
+    "gemma3n",
+    "kaggle",
+    "kaggle-competition",
+    "multimodal",
+    "offline-disaster-response",
+    "offline-sync"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rembertdesigns",
+    "url": "https://github.com/rembertdesigns"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rembertdesigns/gemma3n-disaster-assistant",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-23T02:22:35Z",
+    "first_commit_at": "2025-06-27T01:17:54Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.217,
+  "rank_in_category": 183,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:21:59.847616Z",
+  "last_refreshed_at": "2026-06-06T15:21:59.847618Z"
+}

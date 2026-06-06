@@ -1,0 +1,52 @@
+{
+  "slug": "lagent",
+  "name": "lagent",
+  "tagline": "A lightweight framework for building LLM-based agents",
+  "category": "reasoning-math",
+  "tags": [
+    "agent",
+    "gpt",
+    "llm",
+    "transformers"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "InternLM",
+    "url": "https://github.com/InternLM"
+  },
+  "source": {
+    "primary": "github",
+    "github": "InternLM/lagent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2256,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T09:07:14Z",
+    "first_commit_at": "2023-08-20T12:45:45Z",
+    "forks": 235,
+    "watchers": 19,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4215,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:23.727799Z",
+  "last_refreshed_at": "2026-06-06T15:18:23.727842Z"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "openaaas",
+  "name": "OpenAaaS",
+  "tagline": "OpenAaaS: science agent network — bring AI to your data, not your data to AI. AaaS, Agent as a Service, MCP protocol, local execution, Docker sandbox, zero-config Rust nodes.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "aaas",
+    "agent-as-a-service",
+    "ai-agents",
+    "ai-for-science",
+    "docker",
+    "mcp",
+    "model-context-protocal",
+    "scientific"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Wolido",
+    "url": "https://github.com/Wolido"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Wolido/OpenAaaS",
+    "huggingface": null,
+    "homepage": "https://www.open-aaas.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 19,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T15:16:05Z",
+    "first_commit_at": "2026-04-29T12:25:45Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3181,
+  "rank_in_category": 195,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:20:39.249905Z",
+  "last_refreshed_at": "2026-06-06T15:20:39.249908Z"
+}

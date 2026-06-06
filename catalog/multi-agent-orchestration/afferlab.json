@@ -1,0 +1,55 @@
+{
+  "slug": "afferlab",
+  "name": "afferlab",
+  "tagline": "AfferLab — Orchestrate agents. Control context.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "ai",
+    "context-engineering",
+    "llm",
+    "local-first",
+    "strategy",
+    "workflow"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "afferlab",
+    "url": "https://github.com/afferlab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "afferlab/afferlab",
+    "huggingface": null,
+    "homepage": "https://www.afferlab.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-26T13:48:45Z",
+    "first_commit_at": "2026-03-12T13:42:50Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2283,
+  "rank_in_category": 259,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:20:02.536009Z",
+  "last_refreshed_at": "2026-06-06T15:20:02.536013Z"
+}

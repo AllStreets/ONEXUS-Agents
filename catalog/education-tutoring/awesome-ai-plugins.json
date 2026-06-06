@@ -1,0 +1,58 @@
+{
+  "slug": "awesome-ai-plugins",
+  "name": "awesome-ai-plugins",
+  "tagline": "A curated list of awesome plugins for AI assistants including Claude Code, OpenAI Codex, Gemini, OpenCode and More.",
+  "category": "education-tutoring",
+  "tags": [
+    "ai-assistant",
+    "awesome",
+    "awesome-list",
+    "claude-code",
+    "codex",
+    "extensions",
+    "gemini-cli",
+    "mcp",
+    "model-context-protocol",
+    "plugins"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "hashgraph-online",
+    "url": "https://github.com/hashgraph-online"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hashgraph-online/awesome-ai-plugins",
+    "huggingface": null,
+    "homepage": "https://hol.org/registry/plugins"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 69,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T01:55:17Z",
+    "first_commit_at": "2026-04-07T18:49:58Z",
+    "forks": 32,
+    "watchers": 0,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5308,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:17:17.980504Z",
+  "last_refreshed_at": "2026-06-06T15:17:17.980507Z"
+}

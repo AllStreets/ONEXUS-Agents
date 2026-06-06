@@ -1,0 +1,58 @@
+{
+  "slug": "omagent",
+  "name": "OmAgent",
+  "tagline": "[EMNLP-2024] Build multimodal language agents for fast prototype and production",
+  "category": "reasoning-math",
+  "tags": [
+    "agent",
+    "chatbot",
+    "gemini",
+    "gpt",
+    "gpt4",
+    "gradio",
+    "language-agent",
+    "large-language-models",
+    "llama",
+    "llava"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "om-ai-lab",
+    "url": "https://github.com/om-ai-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "om-ai-lab/OmAgent",
+    "huggingface": null,
+    "homepage": "https://om-agent.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2649,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-19T11:36:13Z",
+    "first_commit_at": "2024-07-04T17:48:43Z",
+    "forks": 289,
+    "watchers": 131,
+    "open_issues": 20,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2999,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:18.151053Z",
+  "last_refreshed_at": "2026-06-06T15:18:18.151055Z"
+}

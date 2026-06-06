@@ -1,0 +1,52 @@
+{
+  "slug": "flux",
+  "name": "flux",
+  "tagline": "FLUX: A logic programming method for reasoning agents",
+  "category": "reasoning-math",
+  "tags": [
+    "agent-oriented-programming",
+    "programming-language",
+    "prolog",
+    "prolog-interpreter"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "logicmoo",
+    "url": "https://github.com/logicmoo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "logicmoo/flux",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2018-07-29T04:54:26Z",
+    "first_commit_at": "2018-06-13T11:20:36Z",
+    "forks": 2,
+    "watchers": 9,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.16,
+  "rank_in_category": 155,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:13.218163Z",
+  "last_refreshed_at": "2026-06-06T15:18:13.218166Z"
+}

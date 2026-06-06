@@ -1,0 +1,58 @@
+{
+  "slug": "turbo-flow",
+  "name": "turbo-flow",
+  "tagline": "Advanced Agentic Development Environment Supporting Devpods, Rackspace Spot Instances, Github Codespaces, Google Cloud Shell, and more!  Features 600+ AI subagents, Claude Flow, SPARC methodology, and",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-ai",
+    "agentic-engineering",
+    "agentic-framework",
+    "agentic-rag",
+    "agentic-workflow",
+    "ai-assistant",
+    "ai-tools",
+    "anthropic-claude",
+    "autonomous-agents",
+    "claude-code"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "marcuspat",
+    "url": "https://github.com/marcuspat"
+  },
+  "source": {
+    "primary": "github",
+    "github": "marcuspat/turbo-flow",
+    "huggingface": null,
+    "homepage": "https://adventureonthewave.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 162,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-02T19:55:24Z",
+    "first_commit_at": "2025-08-22T05:34:09Z",
+    "forks": 43,
+    "watchers": 3,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4188,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:20:16.842087Z",
+  "last_refreshed_at": "2026-06-06T15:20:16.842090Z"
+}

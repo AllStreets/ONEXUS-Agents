@@ -1,0 +1,56 @@
+{
+  "slug": "golden-medical-agent",
+  "name": "golden-medical-agent",
+  "tagline": "A FastAPI backend for a multichannel AI agent, powered by LangGraph, OpenAI, Twilio, and Composio. This backend enables users to interact via email, SMS, or web chat, intelligently gathers required in",
+  "category": "healthcare",
+  "tags": [
+    "ai-agents",
+    "composio",
+    "fastapi",
+    "googlesheets",
+    "langgraph",
+    "openai",
+    "python",
+    "twilio"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "machan1119",
+    "url": "https://github.com/machan1119"
+  },
+  "source": {
+    "primary": "github",
+    "github": "machan1119/golden-medical-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-03T11:27:07Z",
+    "first_commit_at": "2025-07-01T06:07:21Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1937,
+  "rank_in_category": 201,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:21:34.132327Z",
+  "last_refreshed_at": "2026-06-06T15:21:34.132331Z"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "jido-ai",
+  "name": "jido_ai",
+  "tagline": "AI integration layer for Jido agents with LLM orchestration and reasoning strategies.",
+  "category": "reasoning-math",
+  "tags": [
+    "agent-framework",
+    "ai-agents",
+    "elixir",
+    "jido",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agentjido",
+    "url": "https://github.com/agentjido"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agentjido/jido_ai",
+    "huggingface": null,
+    "homepage": "https://github.com/agentjido/jido_ai#readme"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 189,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-02T19:30:00Z",
+    "first_commit_at": "2024-12-17T16:47:45Z",
+    "forks": 57,
+    "watchers": 9,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3548,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:28.504674Z",
+  "last_refreshed_at": "2026-06-06T15:18:28.504677Z"
+}

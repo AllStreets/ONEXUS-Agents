@@ -1,0 +1,47 @@
+{
+  "slug": "socratic-education-system",
+  "name": "Socratic-Education-System",
+  "tagline": "我们认为，受教育不仅是义务，更是应被保障的权利。然而，社会与经济条件的差异导致了优质教育资源的分配失衡。本项目旨在弥合城乡教育鸿沟，为偏远地区的师生提供基于 FastAPI 架构的启发式教学解决方案。系统摒弃了传统的“问答式”灌输，构建了以“助产术”为核心的对话智能体，通过多轮追问诱导学生自主拆解复杂问题，实现认知升级。在教师端，系统通过动态分析学生 JSON 档案，精准识别知识盲区并提供结构化教",
+  "category": "education-tutoring",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "HowieWang1121",
+    "url": "https://github.com/HowieWang1121"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HowieWang1121/Socratic-Education-System",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 115,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-03T15:58:21Z",
+    "first_commit_at": "2026-05-03T15:47:21Z",
+    "forks": 14,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4381,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:17:10.131139Z",
+  "last_refreshed_at": "2026-06-06T15:17:10.131142Z"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "agno",
+  "name": "agno",
+  "tagline": "Build, run, and manage agent platforms.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "developer-tools",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agno-agi",
+    "url": "https://github.com/agno-agi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agno-agi/agno",
+    "huggingface": null,
+    "homepage": "https://docs.agno.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 40544,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T19:41:34Z",
+    "first_commit_at": "2022-05-04T15:23:02Z",
+    "forks": 5482,
+    "watchers": 236,
+    "open_issues": 860,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5041,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:19:49.575423Z",
+  "last_refreshed_at": "2026-06-06T15:19:49.575426Z"
+}

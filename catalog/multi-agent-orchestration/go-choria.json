@@ -1,0 +1,51 @@
+{
+  "slug": "go-choria",
+  "name": "go-choria",
+  "tagline": "Backplane Development Framework and Server hosting Choria Agents, Networks, Federations and Streaming Data",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "backplane",
+    "framework",
+    "orchestration"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "choria-io",
+    "url": "https://github.com/choria-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "choria-io/go-choria",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 101,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-17T12:59:34Z",
+    "first_commit_at": "2017-06-02T14:58:43Z",
+    "forks": 36,
+    "watchers": 7,
+    "open_issues": 41,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3775,
+  "rank_in_category": 124,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:20:33.811190Z",
+  "last_refreshed_at": "2026-06-06T15:20:33.811193Z"
+}
