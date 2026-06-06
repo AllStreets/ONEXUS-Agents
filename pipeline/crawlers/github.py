@@ -139,3 +139,133 @@ def _parse_dt(value: str | None) -> datetime | None:
         return datetime.fromisoformat(value.replace("Z", "+00:00"))
     except ValueError:
         return None
+
+
+def _last_page_from_link(link: str) -> int:
+    """Extract the last page number from a paginated API Link header.
+
+    GitHub's REST API returns counts only via pagination — the trick is to
+    request per_page=1 and read the last-page index from the Link header,
+    which gives an exact count in one API call.
+    """
+    import re
+    for part in link.split(","):
+        if 'rel="last"' in part:
+            m = re.search(r"[?&]page=(\d+)", part)
+            if m:
+                return int(m.group(1))
+    return 1
+
+
+def count_contributors(client: httpx.Client, full_name: str) -> int | None:
+    """Total contributor count via per_page=1 pagination Link header."""
+    if not get_budget().spend("gh"):
+        return None
+    try:
+        r = client.get(
+            f"{GITHUB_API}/repos/{full_name}/contributors",
+            headers=_headers(),
+            params={"per_page": 1, "anon": "false"},
+            timeout=15,
+        )
+        if r.status_code != 200:
+            return None
+        link = r.headers.get("Link", "")
+        if link:
+            return _last_page_from_link(link)
+        # No Link header → at most one page → count returned items
+        body = r.json()
+        return len(body) if isinstance(body, list) else None
+    except Exception:
+        return None
+
+
+def fetch_releases_summary(client: httpx.Client, full_name: str) -> dict[str, Any] | None:
+    """Total release count + most-recent release date in one call."""
+    if not get_budget().spend("gh"):
+        return None
+    try:
+        r = client.get(
+            f"{GITHUB_API}/repos/{full_name}/releases",
+            headers=_headers(),
+            params={"per_page": 1},
+            timeout=15,
+        )
+        if r.status_code != 200:
+            return None
+        link = r.headers.get("Link", "")
+        total = _last_page_from_link(link) if link else len(r.json() or [])
+        body = r.json() or []
+        latest = body[0].get("published_at") if body else None
+        return {"total": total, "latest_at": _parse_dt(latest)}
+    except Exception:
+        return None
+
+
+def count_commits_since(client: httpx.Client, full_name: str, since_iso: str) -> int | None:
+    """Commits authored since `since_iso` (ISO-8601). Per-page=1 + Link pagination."""
+    if not get_budget().spend("gh"):
+        return None
+    try:
+        r = client.get(
+            f"{GITHUB_API}/repos/{full_name}/commits",
+            headers=_headers(),
+            params={"per_page": 1, "since": since_iso},
+            timeout=15,
+        )
+        if r.status_code != 200:
+            return None
+        link = r.headers.get("Link", "")
+        if link:
+            return _last_page_from_link(link)
+        body = r.json()
+        return len(body) if isinstance(body, list) else 0
+    except Exception:
+        return None
+
+
+def fetch_readme(client: httpx.Client, full_name: str) -> str | None:
+    """Decoded README text or None. Uses /readme which returns base64-content."""
+    if not get_budget().spend("gh"):
+        return None
+    try:
+        r = client.get(
+            f"{GITHUB_API}/repos/{full_name}/readme",
+            headers=_headers(),
+            timeout=15,
+        )
+        if r.status_code != 200:
+            return None
+        data = r.json()
+        content = data.get("content") or ""
+        encoding = data.get("encoding") or "base64"
+        if encoding == "base64":
+            import base64
+            try:
+                return base64.b64decode(content).decode("utf-8", errors="replace")
+            except Exception:
+                return None
+        return content
+    except Exception:
+        return None
+
+
+def has_ci_workflows(client: httpx.Client, full_name: str, default_branch: str = "main") -> bool | None:
+    """True if .github/workflows/ exists in the default branch. Single HEAD-ish GET."""
+    if not get_budget().spend("gh"):
+        return None
+    try:
+        r = client.get(
+            f"{GITHUB_API}/repos/{full_name}/contents/.github/workflows",
+            headers=_headers(),
+            params={"ref": default_branch},
+            timeout=10,
+        )
+        if r.status_code == 200:
+            body = r.json()
+            return isinstance(body, list) and len(body) > 0
+        if r.status_code == 404:
+            return False
+        return None
+    except Exception:
+        return None

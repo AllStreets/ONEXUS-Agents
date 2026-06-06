@@ -35,6 +35,13 @@ class Metrics(BaseModel):
     is_template: bool | None = None
     library_name: str | None = None
     pipeline_tag: str | None = None
+    # Tier 2: one extra cheap API call each. Captured by the weekly enricher.
+    contributors_count: int | None = None
+    releases_total: int | None = None
+    latest_release_at: datetime | None = None
+    commits_90d: int | None = None
+    has_ci: bool | None = None
+    readme_length: int | None = None
 
 
 class Benchmark(BaseModel):

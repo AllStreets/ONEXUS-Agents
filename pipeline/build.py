@@ -17,12 +17,37 @@ UTC_NOW = lambda: datetime.now(UTC)  # noqa: E731
 MCP_SERVER_SIGNALS = frozenset({"mcp-server", "mcp-servers", "model-context-protocol"})
 GENERIC_MCP_ADAPTER = "mcp/stdio"
 
+# README markers that indicate the repo IS an MCP server. Anchored to invocation
+# patterns and config-key presence; soft-match the word "MCP" is rejected as
+# false-positive-prone (most LLM repos mention MCP in passing).
+_MCP_README_PATTERNS = (
+    re.compile(r"\bnpx\s+-y\s+@modelcontextprotocol/", re.I),
+    re.compile(r"\buvx\s+mcp-", re.I),
+    re.compile(r'"mcpServers"\s*:\s*\{', re.I),
+    re.compile(r"```json[^`]*\"mcpServers\"", re.S | re.I),
+    re.compile(r"\bmcp\.json\b", re.I),
+    re.compile(r"\b(?:is|provides?|implements?|exposes?)\s+(?:an?\s+)?mcp\s+server\b", re.I),
+)
 
-def detect_mcp_runnability(tags: list[str]) -> tuple[bool, str | None]:
-    """Return (runnable, adapter_ref) if tags declare an MCP server."""
+
+def detect_mcp_runnability(
+    tags: list[str], readme: str | None = None
+) -> tuple[bool, str | None]:
+    """Return (runnable, adapter_ref) if tags or README declare an MCP server.
+
+    Tag check is zero-false-positive (author-declared). README check uses
+    anchored patterns — invocation syntax (`npx -y @modelcontextprotocol/...`,
+    `uvx mcp-...`), config-key presence (`"mcpServers": {...}`, `mcp.json`),
+    and self-description ("is an MCP server", "provides an MCP server").
+    Bare mentions of "MCP" are NOT enough.
+    """
     lowered = {t.lower() for t in tags if isinstance(t, str)}
     if lowered & MCP_SERVER_SIGNALS:
         return True, GENERIC_MCP_ADAPTER
+    if readme:
+        for pat in _MCP_README_PATTERNS:
+            if pat.search(readme):
+                return True, GENERIC_MCP_ADAPTER
     return False, None
 
 
