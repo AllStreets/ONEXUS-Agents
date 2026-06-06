@@ -31,6 +31,12 @@ export type Metrics = {
   is_template?: boolean | null;
   library_name?: string | null;
   pipeline_tag?: string | null;
+  contributors_count?: number | null;
+  releases_total?: number | null;
+  latest_release_at?: string | null;
+  commits_90d?: number | null;
+  has_ci?: boolean | null;
+  readme_length?: number | null;
 };
 
 export type Benchmark = {

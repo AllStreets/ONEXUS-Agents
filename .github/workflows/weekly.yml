@@ -1,0 +1,117 @@
+name: weekly
+
+on:
+  schedule:
+    # 14:00 UTC every Sunday (1 hour after the nightly window so they don't clash)
+    - cron: "0 14 * * 0"
+  workflow_dispatch:
+    inputs:
+      enrich_limit:
+        description: "Max entries to fully enrich with Tier 2 metrics (0 disables)."
+        required: false
+        default: "500"
+      skip_runnable:
+        description: "Skip the runnable rescan pass."
+        required: false
+        default: "false"
+      dry_run:
+        description: "Compute everything; commit nothing."
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  rescan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+
+      - name: run weekly rescan
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.enrich_limit }}" ]; then
+            ARGS="$ARGS --enrich-limit ${{ github.event.inputs.enrich_limit }}"
+          fi
+          if [ "${{ github.event.inputs.skip_runnable }}" = "true" ]; then
+            ARGS="$ARGS --skip-runnable"
+          fi
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          onexus-agents-weekly $ARGS
+
+      - name: validate refreshed catalog
+        run: onexus-agents-validate
+
+      - name: open auto-merge PR with rescan results
+        if: github.event.inputs.dry_run != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "onexus-agents-bot"
+          git config user.email "bot@agents.onexus.dev"
+
+          if [ -z "$(git status --porcelain catalog/)" ]; then
+            echo "nothing changed"
+            exit 0
+          fi
+
+          DATE=$(date -u +%Y-%m-%d)
+          BRANCH="bot/weekly-rescan-$DATE"
+
+          git checkout -B "$BRANCH"
+          git add catalog/
+          git commit -m "chore(catalog): weekly rescan $DATE"
+          git push -fu origin "$BRANCH"
+
+          OPEN_PR=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number // empty')
+          if [ -z "$OPEN_PR" ]; then
+            gh pr create \
+              --base main \
+              --head "$BRANCH" \
+              --title "chore(catalog): weekly rescan $DATE" \
+              --body "Automated weekly rescan from \`onexus-agents-weekly\`. Re-runs runnable detection on every entry (with README-aware MCP signals) and enriches the staleset 500 entries with Tier 2 metrics."
+          fi
+
+          for i in $(seq 1 24); do
+            STATE=$(gh pr view "$BRANCH" --json mergeStateStatus --jq '.mergeStateStatus')
+            if [ "$STATE" != "UNKNOWN" ]; then
+              echo "merge state ready: $STATE"
+              break
+            fi
+            echo "waiting for checks to register (attempt $i, state=$STATE)..."
+            sleep 5
+          done
+
+          gh pr merge "$BRANCH" --squash --auto
+
+      - name: cleanup merged branch (best effort)
+        if: github.event.inputs.dry_run != 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          BRANCH="bot/weekly-rescan-$DATE"
+          sleep 30
+          git push origin --delete "$BRANCH" || echo "branch already gone or rate-limited"
