@@ -25,6 +25,7 @@ from pipeline.build import (
     merge_benchmarks,
     merge_overrides,
 )
+from pipeline.classifier import classify_with_hint
 from pipeline.crawlers import github as gh
 from pipeline.crawlers import huggingface as hf
 from pipeline.paths import CATALOG_DIR, DROPPED_DIR
@@ -192,9 +193,13 @@ def _discover(
     seen_hf: set[str] = {
         a.source.huggingface for ags in by_cat.values() for a in ags if a.source.huggingface
     }
+    classifier_calls = 0
     for cat in categories.categories:
-        all_queries = cat.github_search_queries + _broaden_queries(cat)
-        for q in all_queries:
+        curated_queries = list(cat.github_search_queries)
+        broad_queries = _broaden_queries(cat)
+        broad_set = set(broad_queries)
+        for q in curated_queries + broad_queries:
+            is_broad = q in broad_set
             try:
                 hits = gh.search_repos(client, q, limit=per_query_limit)
             except Exception as e:  # noqa: BLE001
@@ -219,10 +224,26 @@ def _discover(
                 except Exception as e:  # noqa: BLE001
                     console.print(f"[yellow]gh build failed for {repo}: {e}")
                     continue
-                if agent:
-                    merge_benchmarks(agent, prior)
-                    merge_overrides(agent, prior)
-                    by_cat[cat.slug].append(agent)
+                if not agent:
+                    continue
+                merge_benchmarks(agent, prior)
+                merge_overrides(agent, prior)
+                # Broad queries have weaker category precision than the
+                # hand-curated topic:X filters. Validate the query-origin
+                # category via keyword classifier, falling back to OpenAI
+                # gpt-5.4-mini only for the ambiguous cases.
+                actual_cat = cat.slug
+                if is_broad:
+                    text = f"{agent.tagline} | tags: {' '.join(agent.tags)}"
+                    result = classify_with_hint(text, categories, cat.slug)
+                    if result.reason.startswith("openai:"):
+                        classifier_calls += 1
+                    if result.category and result.category != cat.slug:
+                        agent.category = result.category
+                        actual_cat = result.category
+                by_cat[actual_cat].append(agent)
+        if classifier_calls:
+            console.print(f"[dim]classifier · openai calls so far: {classifier_calls}")
 
         hf_tags = (cat.huggingface_filters or {}).get("tags") or []
         if hf_tags:

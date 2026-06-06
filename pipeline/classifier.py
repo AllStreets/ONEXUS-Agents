@@ -98,7 +98,7 @@ def classify_openai(text: str, categories: CategoryIndex) -> Classification:
     try:
         client = OpenAI(api_key=api_key)
         msg = client.chat.completions.create(
-            model="gpt-4o-mini",
+            model="gpt-5.4-mini",
             max_tokens=64,
             messages=[
                 {"role": "system", "content": system},
@@ -110,7 +110,7 @@ def classify_openai(text: str, categories: CategoryIndex) -> Classification:
         return Classification(None, 0.0, f"openai: {type(e).__name__}: {e}")
 
     if candidate in slugs:
-        return Classification(candidate, 0.65, "openai: gpt-4o-mini")
+        return Classification(candidate, 0.65, "openai: gpt-5.4-mini")
     return Classification(None, 0.0, f"openai: invalid slug '{candidate}'")
 
 
@@ -119,11 +119,33 @@ classify_llm = classify_anthropic
 
 
 def classify(text: str, categories: CategoryIndex) -> Classification:
-    """Try keyword first, then Anthropic, then OpenAI."""
+    """Try keyword first, fall back to OpenAI gpt-5.4-mini.
+
+    Anthropic is intentionally NOT in the default chain — operator choice.
+    classify_anthropic() remains importable for callers that want it.
+    """
     keyword = classify_keyword(text, categories)
     if keyword.category:
         return keyword
-    anthropic_result = classify_anthropic(text, categories)
-    if anthropic_result.category:
-        return anthropic_result
+    return classify_openai(text, categories)
+
+
+def classify_with_hint(
+    text: str, categories: CategoryIndex, hint_slug: str
+) -> Classification:
+    """Validate or correct a query-origin category hint, calling LLM only when needed.
+
+    Discovery-time use case: a broadened search query from category X surfaced
+    a repo. We want to confirm X is right (cheap) or override to the actual
+    category (LLM only as last resort).
+
+      keyword agrees with hint → return hint (free)
+      keyword strongly disagrees (confidence ≥ 0.5) → trust keyword (free)
+      keyword is ambiguous → ask gpt-5.4-mini
+    """
+    keyword = classify_keyword(text, categories)
+    if keyword.category == hint_slug:
+        return keyword
+    if keyword.category and keyword.confidence >= 0.5:
+        return keyword
     return classify_openai(text, categories)
