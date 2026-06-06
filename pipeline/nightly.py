@@ -39,6 +39,19 @@ from pipeline.store import (
 )
 
 TOP_N = 250
+# Per-category overrides for the featured cap. `coding` is the only category
+# currently saturated at the legacy 250 cap; raising it lets the
+# composite_score actually drive the top-of-coding ranking instead of just
+# truncating the tail. Other categories aren't anywhere near cap yet.
+PER_CATEGORY_FEATURED_CAP: dict[str, int] = {
+    "coding": 500,
+}
+# Entries past the featured cap that still pass the quality threshold go to
+# catalog/<cat>/_tail/ — visible to site loaders that opt in but skipped by
+# the validator's `_`-dir filter (PR #44). Entries below threshold land in
+# catalog/_dropped/<date>.json as before.
+TAIL_CAP = 1000
+TAIL_QUALITY_THRESHOLD = 0.20
 console = Console()
 
 
@@ -253,7 +266,14 @@ def _write_and_truncate(
     *,
     dry_run: bool,
 ) -> dict[str, list[str]]:
-    """Score, truncate, write. Returns dropped slugs per category."""
+    """Score, truncate, write. Returns dropped slugs per category.
+
+    Three-tier output per category:
+      catalog/<cat>/<slug>.json         featured (top featured_cap by score)
+      catalog/<cat>/_tail/<slug>.json   tail (past cap but score >= threshold,
+                                        up to TAIL_CAP total)
+      catalog/_dropped/<date>.json      audit log of slugs we cut entirely
+    """
     cat_lookup: dict[str, Category] = {c.slug: c for c in categories.categories}
     dropped: dict[str, list[str]] = {}
 
@@ -271,24 +291,47 @@ def _write_and_truncate(
         deduped = list(by_slug.values())
 
         ranked = rank_category(deduped, cat)
-        kept = ranked[:TOP_N]
-        cut = ranked[TOP_N:]
+        featured_cap = PER_CATEGORY_FEATURED_CAP.get(cat_slug, TOP_N)
+        featured = ranked[:featured_cap]
+        tail_candidates = ranked[featured_cap : featured_cap + TAIL_CAP]
+        tail = [a for a in tail_candidates if a.composite_score >= TAIL_QUALITY_THRESHOLD]
+        cut = [
+            a
+            for a in ranked[featured_cap:]
+            if a not in tail
+        ]
 
         if cut:
             dropped[cat_slug] = [a.slug for a in cut]
 
         if dry_run:
-            console.print(f"[cyan]{cat_slug}: would keep {len(kept)}, drop {len(cut)}")
+            console.print(
+                f"[cyan]{cat_slug}: would keep featured={len(featured)} "
+                f"tail={len(tail)} drop={len(cut)}"
+            )
             continue
 
-        # Wipe the existing category dir so removed entries actually disappear
+        # Wipe the existing category dir so removed entries actually disappear,
+        # but preserve _tail/ — we wipe that separately below.
         cat_dir = CATALOG_DIR / cat_slug
         if cat_dir.exists():
             for f in cat_dir.glob("*.json"):
                 f.unlink()
 
-        for a in kept:
+        tail_dir = cat_dir / "_tail"
+        if tail_dir.exists():
+            for f in tail_dir.glob("*.json"):
+                f.unlink()
+
+        for a in featured:
             write_agent(a)
+
+        if tail:
+            tail_dir.mkdir(parents=True, exist_ok=True)
+            for a in tail:
+                (tail_dir / f"{a.slug}.json").write_text(
+                    a.model_dump_json(indent=2, exclude_none=False) + "\n"
+                )
 
     return dropped
 
