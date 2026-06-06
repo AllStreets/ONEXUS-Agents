@@ -1,0 +1,47 @@
+{
+  "slug": "gemini-api-cli",
+  "name": "gemini-api-cli",
+  "tagline": "gemini-api-cli",
+  "category": "audio-speech",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "google-gemini",
+    "url": "https://github.com/google-gemini"
+  },
+  "source": {
+    "primary": "github",
+    "github": "google-gemini/gemini-api-cli",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T21:01:51Z",
+    "first_commit_at": "2026-04-28T13:20:25Z",
+    "forks": 8,
+    "watchers": 2,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.461,
+  "rank_in_category": 76,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:08:01.776071Z",
+  "last_refreshed_at": "2026-06-06T10:08:01.776074Z"
+}

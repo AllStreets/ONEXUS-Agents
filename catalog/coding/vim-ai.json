@@ -1,0 +1,56 @@
+{
+  "slug": "vim-ai",
+  "name": "vim-ai",
+  "tagline": "AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.",
+  "category": "coding",
+  "tags": [
+    "chatgpt",
+    "code-generation",
+    "gemini",
+    "gpt-4",
+    "llm",
+    "neovim",
+    "openai",
+    "vim"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "madox2",
+    "url": "https://github.com/madox2"
+  },
+  "source": {
+    "primary": "github",
+    "github": "madox2/vim-ai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1168,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-11T23:10:05Z",
+    "first_commit_at": "2023-02-27T20:23:49Z",
+    "forks": 113,
+    "watchers": 17,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3253,
+  "rank_in_category": 238,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:21.726829Z",
+  "last_refreshed_at": "2026-06-06T09:47:21.726832Z"
+}

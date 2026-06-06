@@ -1,0 +1,50 @@
+{
+  "slug": "enhanced-document-understanding-on-aws",
+  "name": "enhanced-document-understanding-on-aws",
+  "tagline": "Enhanced Document Understanding on AWS delivers an easy-to-use web application that ingests and analyzes documents, extracts content, identifies and redacts sensitive customer information, and creates",
+  "category": "document-processing",
+  "tags": [
+    "document-analysis",
+    "document-processing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aws-solutions",
+    "url": "https://github.com/aws-solutions"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-solutions/enhanced-document-understanding-on-aws",
+    "huggingface": null,
+    "homepage": "https://aws.amazon.com/solutions/implementations/enhanced-document-understanding-on-aws/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 41,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-10T16:58:58Z",
+    "first_commit_at": "2023-08-16T13:56:32Z",
+    "forks": 19,
+    "watchers": 8,
+    "open_issues": 0,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1266,
+  "rank_in_category": 249,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:59.154940Z",
+  "last_refreshed_at": "2026-06-06T10:13:59.154943Z"
+}

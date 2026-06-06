@@ -1,0 +1,49 @@
+{
+  "slug": "supervised-installer",
+  "name": "supervised-installer",
+  "tagline": "Installer for a generic Linux system",
+  "category": "desktop-os-automation",
+  "tags": [
+    "hacktoberfest"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "home-assistant",
+    "url": "https://github.com/home-assistant"
+  },
+  "source": {
+    "primary": "github",
+    "github": "home-assistant/supervised-installer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1924,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-26T16:11:01Z",
+    "first_commit_at": "2019-04-24T11:35:39Z",
+    "forks": 623,
+    "watchers": 69,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4644,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:00.781041Z",
+  "last_refreshed_at": "2026-06-06T10:13:00.781045Z"
+}

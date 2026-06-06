@@ -1,0 +1,50 @@
+{
+  "slug": "hiclaw",
+  "name": "HiClaw",
+  "tagline": "An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.",
+  "category": "coding",
+  "tags": [
+    "agent-teams",
+    "openclaw"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agentscope-ai",
+    "url": "https://github.com/agentscope-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agentscope-ai/HiClaw",
+    "huggingface": null,
+    "homepage": "https://hiclaw.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4748,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T13:32:14Z",
+    "first_commit_at": "2026-02-13T04:54:18Z",
+    "forks": 572,
+    "watchers": 28,
+    "open_issues": 261,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3708,
+  "rank_in_category": 146,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:36.140662Z",
+  "last_refreshed_at": "2026-06-06T09:48:36.140665Z"
+}

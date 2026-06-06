@@ -1,0 +1,57 @@
+{
+  "slug": "agent-desktop",
+  "name": "agent-desktop",
+  "tagline": "Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "accessibility",
+    "accessibility-api",
+    "ai-agents",
+    "automation",
+    "cli",
+    "desktop-automation",
+    "macos",
+    "mcp",
+    "rust"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lahfir",
+    "url": "https://github.com/lahfir"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lahfir/agent-desktop",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 814,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T03:04:48Z",
+    "first_commit_at": "2026-02-19T18:00:49Z",
+    "forks": 43,
+    "watchers": 4,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3939,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:53.423578Z",
+  "last_refreshed_at": "2026-06-06T10:12:53.423581Z"
+}

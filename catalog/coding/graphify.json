@@ -1,0 +1,58 @@
+{
+  "slug": "graphify",
+  "name": "graphify",
+  "tagline": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable",
+  "category": "coding",
+  "tags": [
+    "antigravity",
+    "claude-code",
+    "codex",
+    "gemini",
+    "graphrag",
+    "knowledge-graph",
+    "leiden",
+    "openclaw",
+    "rag",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "safishamsi",
+    "url": "https://github.com/safishamsi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "safishamsi/graphify",
+    "huggingface": null,
+    "homepage": "https://graphifylabs.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 60102,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T08:41:06Z",
+    "first_commit_at": "2026-04-04T17:52:44Z",
+    "forks": 6235,
+    "watchers": 206,
+    "open_issues": 290,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4134,
+  "rank_in_category": 67,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:46:55.709409Z",
+  "last_refreshed_at": "2026-06-06T09:46:55.709412Z"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "google-calendar-agent",
+  "name": "google-calendar-agent",
+  "tagline": "A2A agent server enabling Google Calendar scheduling, retrieval, and automation",
+  "category": "email-scheduling",
+  "tags": [
+    "a2a",
+    "a2a-protocol",
+    "calendar",
+    "go",
+    "golang",
+    "google",
+    "google-calendar",
+    "google-calendar-api",
+    "inference-gateway"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "inference-gateway",
+    "url": "https://github.com/inference-gateway"
+  },
+  "source": {
+    "primary": "github",
+    "github": "inference-gateway/google-calendar-agent",
+    "huggingface": null,
+    "homepage": "https://registry.inference-gateway.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 17,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T14:39:28Z",
+    "first_commit_at": "2025-06-07T17:04:52Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4683,
+  "rank_in_category": 85,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:55.723609Z",
+  "last_refreshed_at": "2026-06-06T10:14:55.723613Z"
+}

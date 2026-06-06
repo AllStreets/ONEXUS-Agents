@@ -1,0 +1,54 @@
+{
+  "slug": "vizgenie",
+  "name": "vizgenie",
+  "tagline": "Turn natural language into Grafana dashboards. Powered by AI, VizGenie auto-generates PromQL queries, builds visualizations, and deploys them to Grafana.",
+  "category": "search-rag",
+  "tags": [
+    "devops",
+    "grafana",
+    "llm",
+    "prometheus",
+    "rag",
+    "visualization"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "vsion-x",
+    "url": "https://github.com/vsion-x"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vsion-x/vizgenie",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-19T13:00:57Z",
+    "first_commit_at": "2025-04-13T12:18:14Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3118,
+  "rank_in_category": 150,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:15.723215Z",
+  "last_refreshed_at": "2026-06-06T10:11:15.723218Z"
+}

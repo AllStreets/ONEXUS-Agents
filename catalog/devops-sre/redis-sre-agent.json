@@ -1,0 +1,47 @@
+{
+  "slug": "redis-sre-agent",
+  "name": "redis-sre-agent",
+  "tagline": "LangGraph-based Redis SRE Agent for infrastructure monitoring and incident response",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "redis-applied-ai",
+    "url": "https://github.com/redis-applied-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "redis-applied-ai/redis-sre-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T03:41:20Z",
+    "first_commit_at": "2025-08-20T00:52:30Z",
+    "forks": 6,
+    "watchers": 1,
+    "open_issues": 18,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4154,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:34.800517Z",
+  "last_refreshed_at": "2026-06-06T10:15:34.800520Z"
+}

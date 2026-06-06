@@ -1,0 +1,47 @@
+{
+  "slug": "llama3-2-langgraph-email-agent",
+  "name": "Llama3.2---LangGraph-Email-Agent",
+  "tagline": "Automated agent using LangChain and Gmail API to classify and respond to incoming emails based on their content.",
+  "category": "email-scheduling",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "Coding-Crashkurse",
+    "url": "https://github.com/Coding-Crashkurse"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Coding-Crashkurse/Llama3.2---LangGraph-Email-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2024-10-12T14:06:51Z",
+    "first_commit_at": "2024-10-12T14:04:28Z",
+    "forks": 5,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2949,
+  "rank_in_category": 168,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:33.717725Z",
+  "last_refreshed_at": "2026-06-06T10:14:33.717729Z"
+}

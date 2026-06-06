@@ -1,0 +1,54 @@
+{
+  "slug": "donut",
+  "name": "donut",
+  "tagline": "Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022",
+  "category": "document-processing",
+  "tags": [
+    "computer-vision",
+    "document-ai",
+    "eccv-2022",
+    "multimodal-pre-trained-model",
+    "nlp",
+    "ocr"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "clovaai",
+    "url": "https://github.com/clovaai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "clovaai/donut",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2111.15664"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6877,
+    "downloads_30d": null,
+    "last_commit_at": "2024-07-11T15:33:26Z",
+    "first_commit_at": "2022-07-20T01:21:19Z",
+    "forks": 561,
+    "watchers": 54,
+    "open_issues": 211,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4983,
+  "rank_in_category": 91,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:54.522149Z",
+  "last_refreshed_at": "2026-06-06T10:13:54.522153Z"
+}

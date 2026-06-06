@@ -1,0 +1,58 @@
+{
+  "slug": "yutu",
+  "name": "yutu",
+  "tagline": "The AI-powered toolkit that grows your YouTube channel on autopilot.",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "ai",
+    "automation",
+    "bot",
+    "chatgpt",
+    "claude",
+    "clawdbot-skill",
+    "cli",
+    "docker",
+    "gemini"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "eat-pray-ai",
+    "url": "https://github.com/eat-pray-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "eat-pray-ai/yutu",
+    "huggingface": null,
+    "homepage": "https://yutu.ifor.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 473,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T11:24:07Z",
+    "first_commit_at": "2023-05-20T09:46:22Z",
+    "forks": 52,
+    "watchers": 5,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5454,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:00.676617Z",
+  "last_refreshed_at": "2026-06-06T10:11:00.676621Z"
+}

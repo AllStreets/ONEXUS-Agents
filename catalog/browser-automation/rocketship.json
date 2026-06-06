@@ -1,0 +1,53 @@
+{
+  "slug": "rocketship",
+  "name": "rocketship",
+  "tagline": "A QA testing framework for your coding agent.",
+  "category": "browser-automation",
+  "tags": [
+    "agents",
+    "e2e-tests",
+    "go",
+    "kubernetes",
+    "temporal"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "rocketship-ai",
+    "url": "https://github.com/rocketship-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rocketship-ai/rocketship",
+    "huggingface": null,
+    "homepage": "https://docs.rocketship.sh/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 180,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-13T01:08:34Z",
+    "first_commit_at": "2025-03-11T02:40:17Z",
+    "forks": 13,
+    "watchers": 2,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3193,
+  "rank_in_category": 141,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:24.152597Z",
+  "last_refreshed_at": "2026-06-06T10:12:24.152600Z"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "screenagent",
+  "name": "ScreenAgent",
+  "tagline": "ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model (IJCAI-24)",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent",
+    "ai",
+    "llm",
+    "vlm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "niuzaisheng",
+    "url": "https://github.com/niuzaisheng"
+  },
+  "source": {
+    "primary": "github",
+    "github": "niuzaisheng/ScreenAgent",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2402.07945"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 602,
+    "downloads_30d": null,
+    "last_commit_at": "2024-11-25T02:51:51Z",
+    "first_commit_at": "2024-01-15T07:41:39Z",
+    "forks": 66,
+    "watchers": 13,
+    "open_issues": 21,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.315,
+  "rank_in_category": 103,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:15.427203Z",
+  "last_refreshed_at": "2026-06-06T10:13:15.427207Z"
+}

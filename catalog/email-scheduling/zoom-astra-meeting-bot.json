@@ -1,0 +1,47 @@
+{
+  "slug": "zoom-astra-meeting-bot",
+  "name": "zoom-astra-meeting-bot",
+  "tagline": "Zoom AstraDB RAG Chatbot that integrates Zoom's API with Astra DB to create an AI-powered chatbot. It fetches and processes Zoom meeting data, stores it in Astra DB, and uses OpenAI's language models ",
+  "category": "email-scheduling",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "ojusave",
+    "url": "https://github.com/ojusave"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ojusave/zoom-astra-meeting-bot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-24T18:52:27Z",
+    "first_commit_at": "2024-04-03T04:54:50Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2966,
+  "rank_in_category": 167,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:05.384847Z",
+  "last_refreshed_at": "2026-06-06T10:15:05.384850Z"
+}

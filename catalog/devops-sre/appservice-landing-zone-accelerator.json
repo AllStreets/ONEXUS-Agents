@@ -1,0 +1,58 @@
+{
+  "slug": "appservice-landing-zone-accelerator",
+  "name": "appservice-landing-zone-accelerator",
+  "tagline": "The Azure App Service landing zone accelerator is an open-source collection of architectural guidance and reference implementation to accelerate deployment of Azure App Service at scale.",
+  "category": "devops-sre",
+  "tags": [
+    "app-service",
+    "app-service-environment",
+    "architecture",
+    "azure",
+    "bicep",
+    "iac",
+    "landing-zone",
+    "landing-zone-accelerator",
+    "lza",
+    "terraform"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Azure",
+    "url": "https://github.com/Azure"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Azure/appservice-landing-zone-accelerator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 232,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-24T18:43:28Z",
+    "first_commit_at": "2022-01-11T21:12:15Z",
+    "forks": 118,
+    "watchers": 17,
+    "open_issues": 28,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4694,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:31.171253Z",
+  "last_refreshed_at": "2026-06-06T10:15:31.171256Z"
+}

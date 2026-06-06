@@ -1,0 +1,47 @@
+{
+  "slug": "kandinsky-for-automatic1111",
+  "name": "kandinsky-for-automatic1111",
+  "tagline": "Automatic1111 extension adding support for Kandinsky 2.X",
+  "category": "image-generation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "MMqd",
+    "url": "https://github.com/MMqd"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MMqd/kandinsky-for-automatic1111",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 101,
+    "downloads_30d": null,
+    "last_commit_at": "2023-08-22T04:11:51Z",
+    "first_commit_at": "2023-06-11T02:42:57Z",
+    "forks": 8,
+    "watchers": 3,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2928,
+  "rank_in_category": 165,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:05:12.073162Z",
+  "last_refreshed_at": "2026-06-06T10:05:12.073165Z"
+}

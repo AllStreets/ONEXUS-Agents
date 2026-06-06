@@ -1,0 +1,51 @@
+{
+  "slug": "plantuml-stdlib",
+  "name": "plantuml-stdlib",
+  "tagline": "Contains official Standard Library for PlantUML",
+  "category": "desktop-os-automation",
+  "tags": [
+    "icon",
+    "sprite",
+    "stdlib"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "plantuml",
+    "url": "https://github.com/plantuml"
+  },
+  "source": {
+    "primary": "github",
+    "github": "plantuml/plantuml-stdlib",
+    "huggingface": null,
+    "homepage": "https://plantuml.com/stdlib"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 639,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-29T19:55:20Z",
+    "first_commit_at": "2017-11-17T16:05:22Z",
+    "forks": 138,
+    "watchers": 20,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4419,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:17.665131Z",
+  "last_refreshed_at": "2026-06-06T10:13:17.665134Z"
+}

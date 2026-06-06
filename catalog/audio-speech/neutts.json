@@ -1,0 +1,47 @@
+{
+  "slug": "neutts",
+  "name": "neutts",
+  "tagline": "On-device TTS model by Neuphonic",
+  "category": "audio-speech",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "neuphonic",
+    "url": "https://github.com/neuphonic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "neuphonic/neutts",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 5975,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-02T14:10:13Z",
+    "first_commit_at": "2025-10-02T12:49:54Z",
+    "forks": 645,
+    "watchers": 58,
+    "open_issues": 38,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6591,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:08:26.830645Z",
+  "last_refreshed_at": "2026-06-06T10:08:26.830648Z"
+}

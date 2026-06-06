@@ -1,0 +1,47 @@
+{
+  "slug": "codeassist",
+  "name": "codeassist",
+  "tagline": "A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "gensyn-ai",
+    "url": "https://github.com/gensyn-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "gensyn-ai/codeassist",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 702,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-02T17:37:31Z",
+    "first_commit_at": "2025-11-05T00:47:59Z",
+    "forks": 124,
+    "watchers": 8,
+    "open_issues": 17,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2726,
+  "rank_in_category": 348,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:24.000117Z",
+  "last_refreshed_at": "2026-06-06T09:47:24.000120Z"
+}

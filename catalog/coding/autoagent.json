@@ -1,0 +1,50 @@
+{
+  "slug": "autoagent",
+  "name": "AutoAgent",
+  "tagline": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "llms"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "HKUDS",
+    "url": "https://github.com/HKUDS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HKUDS/AutoAgent",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2502.05957"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9375,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-16T06:35:28Z",
+    "first_commit_at": "2025-02-07T13:37:18Z",
+    "forks": 1313,
+    "watchers": 116,
+    "open_issues": 68,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3027,
+  "rank_in_category": 286,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:04.164319Z",
+  "last_refreshed_at": "2026-06-06T09:47:04.164322Z"
+}

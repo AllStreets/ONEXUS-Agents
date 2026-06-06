@@ -1,0 +1,57 @@
+{
+  "slug": "tabby",
+  "name": "tabby",
+  "tagline": "Self-hosted AI coding assistant",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "codegen",
+    "coding-assistant",
+    "coding-language",
+    "developer-experience",
+    "developer-tools",
+    "gen-ai",
+    "ide",
+    "llms"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TabbyML",
+    "url": "https://github.com/TabbyML"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TabbyML/tabby",
+    "huggingface": null,
+    "homepage": "https://tabbyml.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 33563,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-02T20:08:28Z",
+    "first_commit_at": "2023-03-16T07:38:33Z",
+    "forks": 1748,
+    "watchers": 181,
+    "open_issues": 317,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3767,
+  "rank_in_category": 136,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:14.204572Z",
+  "last_refreshed_at": "2026-06-06T09:47:14.204576Z"
+}

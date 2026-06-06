@@ -1,0 +1,58 @@
+{
+  "slug": "paddleocr",
+  "name": "PaddleOCR",
+  "tagline": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+  "category": "document-processing",
+  "tags": [
+    "ai4science",
+    "chineseocr",
+    "document-parsing",
+    "document-translation",
+    "kie",
+    "ocr",
+    "paddleocr-vl",
+    "pdf-extractor-rag",
+    "pdf-parser",
+    "pdf2markdown"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "PaddlePaddle",
+    "url": "https://github.com/PaddlePaddle"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PaddlePaddle/PaddleOCR",
+    "huggingface": null,
+    "homepage": "https://www.paddleocr.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 80702,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T18:21:43Z",
+    "first_commit_at": "2020-05-08T10:38:16Z",
+    "forks": 10640,
+    "watchers": 547,
+    "open_issues": 204,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7683,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:01.482087Z",
+  "last_refreshed_at": "2026-06-06T10:14:01.482090Z"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "azuredevops-selfhostedagents-aks",
+  "name": "AzureDevOps-SelfHostedAgents-AKS",
+  "tagline": "Self-hosted Azure DevOps Agents on Azure Kubernetes Cluster ",
+  "category": "devops-sre",
+  "tags": [
+    "azure-devops",
+    "azure-kubernetes-services",
+    "azure-pipelines",
+    "azure-pipelines-agent",
+    "test-automation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ghoshasish99",
+    "url": "https://github.com/ghoshasish99"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ghoshasish99/AzureDevOps-SelfHostedAgents-AKS",
+    "huggingface": null,
+    "homepage": "https://ghoshasish99.medium.com/azure-devops-self-hosted-agents-on-kubernetes-51685fde9a14"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2021-06-20T23:59:45Z",
+    "first_commit_at": "2021-06-20T20:14:42Z",
+    "forks": 20,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2599,
+  "rank_in_category": 154,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:26.026622Z",
+  "last_refreshed_at": "2026-06-06T10:15:26.026625Z"
+}

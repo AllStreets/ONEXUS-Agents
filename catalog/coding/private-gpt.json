@@ -1,0 +1,51 @@
+{
+  "slug": "private-gpt",
+  "name": "private-gpt",
+  "tagline": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-tools",
+    "on-premise"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "zylon-ai",
+    "url": "https://github.com/zylon-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zylon-ai/private-gpt",
+    "huggingface": null,
+    "homepage": "https://www.zylon.ai/private-gpt"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 57204,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T14:48:52Z",
+    "first_commit_at": "2023-05-02T09:15:31Z",
+    "forks": 7605,
+    "watchers": 461,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4591,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:31.963910Z",
+  "last_refreshed_at": "2026-06-06T09:47:31.963914Z"
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "vibetest-use",
+  "name": "vibetest-use",
+  "tagline": "Vibetest MCP - automated QA testing using Browser-Use agents",
+  "category": "browser-automation",
+  "tags": [
+    "agents",
+    "browser",
+    "claude",
+    "cursor",
+    "mcp",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "browser-use",
+    "url": "https://github.com/browser-use"
+  },
+  "source": {
+    "primary": "github",
+    "github": "browser-use/vibetest-use",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 798,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-02T23:02:43Z",
+    "first_commit_at": "2025-05-29T12:12:41Z",
+    "forks": 82,
+    "watchers": 7,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3424,
+  "rank_in_category": 122,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:16.025327Z",
+  "last_refreshed_at": "2026-06-06T10:12:16.025330Z"
+}

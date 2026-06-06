@@ -1,0 +1,52 @@
+{
+  "slug": "local-llm-comparison-colab-ui",
+  "name": "Local-LLM-Comparison-Colab-UI",
+  "tagline": "Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.",
+  "category": "search-rag",
+  "tags": [
+    "ai",
+    "gpt",
+    "llama",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Troyanovsky",
+    "url": "https://github.com/Troyanovsky"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Troyanovsky/Local-LLM-Comparison-Colab-UI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1101,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-13T07:02:41Z",
+    "first_commit_at": "2023-05-07T06:58:16Z",
+    "forks": 157,
+    "watchers": 36,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4556,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:25.412777Z",
+  "last_refreshed_at": "2026-06-06T10:11:25.412780Z"
+}

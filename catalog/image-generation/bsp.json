@@ -1,0 +1,47 @@
+{
+  "slug": "bsp",
+  "name": "bsp",
+  "tagline": "Radxa BSP Build Tool",
+  "category": "image-generation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "radxa-repo",
+    "url": "https://github.com/radxa-repo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "radxa-repo/bsp",
+    "huggingface": null,
+    "homepage": "https://radxa-repo.github.io/bsp/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 81,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-21T10:17:45Z",
+    "first_commit_at": "2022-05-05T11:06:48Z",
+    "forks": 73,
+    "watchers": 13,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4984,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:05:15.141811Z",
+  "last_refreshed_at": "2026-06-06T10:05:15.141814Z"
+}

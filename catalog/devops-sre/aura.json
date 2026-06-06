@@ -1,0 +1,58 @@
+{
+  "slug": "aura",
+  "name": "aura",
+  "tagline": "A production-ready framework for composing AI agents from declarative TOML configuration, with MCP tool integration, RAG pipelines, and an OpenAI-compatible web API.",
+  "category": "devops-sre",
+  "tags": [
+    "ai-agent-framework",
+    "ai-agents",
+    "ai-sre",
+    "aiops",
+    "devops",
+    "harness",
+    "llm",
+    "llmops",
+    "mcp",
+    "model-context-protocol"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mezmo",
+    "url": "https://github.com/mezmo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mezmo/aura",
+    "huggingface": null,
+    "homepage": "https://www.mezmo.com/aura"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 78,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T20:49:22Z",
+    "first_commit_at": "2026-03-02T22:36:21Z",
+    "forks": 17,
+    "watchers": 3,
+    "open_issues": 48,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5087,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:39.849960Z",
+  "last_refreshed_at": "2026-06-06T10:15:39.849964Z"
+}

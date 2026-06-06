@@ -1,0 +1,58 @@
+{
+  "slug": "smalltalk",
+  "name": "smalltalk",
+  "tagline": "A tinystruct-based chat module which integrated with @OpenAI GPT-4 / 3.5-turbo / ChatGPT. @tinystruct",
+  "category": "search-rag",
+  "tags": [
+    "chat-application",
+    "chatbot",
+    "chatgpt",
+    "deepseek",
+    "deepseek-r1",
+    "deepseek-v3",
+    "gpt-3",
+    "gpt-3-5-turbo",
+    "gpt-35-turbo",
+    "gpt-4"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "tinystruct",
+    "url": "https://github.com/tinystruct"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tinystruct/smalltalk",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 357,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-12T16:19:01Z",
+    "first_commit_at": "2021-01-11T14:20:29Z",
+    "forks": 54,
+    "watchers": 4,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4761,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:27.237819Z",
+  "last_refreshed_at": "2026-06-06T10:11:27.237822Z"
+}

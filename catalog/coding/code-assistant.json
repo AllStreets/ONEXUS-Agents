@@ -1,0 +1,56 @@
+{
+  "slug": "code-assistant",
+  "name": "code-assistant",
+  "tagline": "An LLM-powered, autonomous coding assistant. Also offers an MCP and ACP mode.",
+  "category": "coding",
+  "tags": [
+    "agentic-ai",
+    "assistant",
+    "claude-opus",
+    "claude-sonnet",
+    "coding-agent",
+    "gemini-pro",
+    "gpt-5-codex",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "stippi",
+    "url": "https://github.com/stippi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "stippi/code-assistant",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 168,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T04:16:39Z",
+    "first_commit_at": "2024-11-02T18:34:22Z",
+    "forks": 30,
+    "watchers": 4,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3879,
+  "rank_in_category": 117,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:20.811922Z",
+  "last_refreshed_at": "2026-06-06T09:48:20.811923Z"
+}

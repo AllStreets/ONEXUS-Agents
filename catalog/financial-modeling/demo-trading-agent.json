@@ -1,7 +1,7 @@
 {
   "slug": "demo-trading-agent",
   "name": "demo-trading-agent",
-  "tagline": "Reference trading agent for agents.systemr.ai. Momentum strategy with pre-trade risk gates.",
+  "tagline": "Reference agent workflow using System R AI finance tools for decision-support examples.",
   "category": "financial-modeling",
   "tags": [
     "ai-agents",
@@ -30,15 +30,29 @@
   "metrics": {
     "stars": 2,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-06T14:17:51Z",
-    "first_commit_at": "2026-03-08T16:18:33Z"
+    "last_commit_at": "2026-06-05T21:04:02Z",
+    "first_commit_at": "2026-03-08T16:18:33Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1642,
-  "rank_in_category": 127,
+  "composite_score": 0.3568,
+  "rank_in_category": 110,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:24:41.638330Z",
-  "last_refreshed_at": "2026-06-05T15:59:39.669414Z"
+  "last_refreshed_at": "2026-06-06T09:54:57.387554Z"
 }

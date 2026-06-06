@@ -1,0 +1,58 @@
+{
+  "slug": "lollms-hub",
+  "name": "lollms_hub",
+  "tagline": "A proxy server for multiple ollama instances with Key security",
+  "category": "legal-research",
+  "tags": [
+    "agent",
+    "api-gateway",
+    "federation",
+    "load-balancer",
+    "ollama",
+    "personal",
+    "proxy",
+    "rate-limiting",
+    "security",
+    "user-management"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ParisNeo",
+    "url": "https://github.com/ParisNeo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ParisNeo/lollms_hub",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 634,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-23T01:45:29Z",
+    "first_commit_at": "2024-01-15T22:35:19Z",
+    "forks": 100,
+    "watchers": 5,
+    "open_issues": 20,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.371,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:58:02.329766Z",
+  "last_refreshed_at": "2026-06-06T09:58:02.329769Z"
+}

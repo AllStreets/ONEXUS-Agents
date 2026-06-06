@@ -1,0 +1,58 @@
+{
+  "slug": "antigravity-workspace-template",
+  "name": "antigravity-workspace-template",
+  "tagline": "Give Claude Code, Cursor, Codex CLI a ChatGPT for your codebase. Multi-agent knowledge engine, grounded Q&A with file paths and line numbers. Works in any AI IDE.",
+  "category": "document-processing",
+  "tags": [
+    "agents-sdk",
+    "ai-agent",
+    "claude-code",
+    "code-intelligence",
+    "code-search",
+    "codebase-qa",
+    "codex-cli",
+    "copilot",
+    "cursor",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "study8677",
+    "url": "https://github.com/study8677"
+  },
+  "source": {
+    "primary": "github",
+    "github": "study8677/antigravity-workspace-template",
+    "huggingface": null,
+    "homepage": "https://deepwiki.com/study8677/antigravity-workspace-template"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1265,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T12:38:26Z",
+    "first_commit_at": "2025-11-19T08:51:14Z",
+    "forks": 258,
+    "watchers": 21,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6696,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:44.238814Z",
+  "last_refreshed_at": "2026-06-06T10:13:44.238817Z"
+}

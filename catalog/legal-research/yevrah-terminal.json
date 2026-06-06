@@ -1,0 +1,53 @@
+{
+  "slug": "yevrah-terminal",
+  "name": "yevrah_terminal",
+  "tagline": "Yevrah Terminal - Legal Research Tool",
+  "category": "legal-research",
+  "tags": [
+    "api",
+    "courtlistener",
+    "courts",
+    "groq",
+    "legaltext"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "legaltextai",
+    "url": "https://github.com/legaltextai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "legaltextai/yevrah_terminal",
+    "huggingface": null,
+    "homepage": "https://legaltext.dev/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-12T10:44:47Z",
+    "first_commit_at": "2026-01-10T16:20:09Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1604,
+  "rank_in_category": 194,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:58:37.692985Z",
+  "last_refreshed_at": "2026-06-06T09:58:37.692988Z"
+}

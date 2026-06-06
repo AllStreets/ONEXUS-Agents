@@ -1,0 +1,58 @@
+{
+  "slug": "n8n-install",
+  "name": "n8n-install",
+  "tagline": "🚀 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTPS. Free Zapier/Make alternative.",
+  "category": "image-generation",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "automation",
+    "chatgpt-alternative",
+    "dify",
+    "docker",
+    "flowise",
+    "homelab",
+    "llm",
+    "local-llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kossakovsky",
+    "url": "https://github.com/kossakovsky"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kossakovsky/n8n-install",
+    "huggingface": null,
+    "homepage": "https://github.com/kossakovsky/n8n-install#readme"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 880,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-17T18:41:18Z",
+    "first_commit_at": "2025-02-16T21:09:35Z",
+    "forks": 226,
+    "watchers": 28,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5077,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:05:02.791990Z",
+  "last_refreshed_at": "2026-06-06T10:05:02.791994Z"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "translator",
+  "name": "translator",
+  "tagline": "A translation agent",
+  "category": "translation",
+  "tags": [
+    "llm",
+    "translation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "2389-research",
+    "url": "https://github.com/2389-research"
+  },
+  "source": {
+    "primary": "github",
+    "github": "2389-research/translator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-09T16:59:00Z",
+    "first_commit_at": "2025-05-13T16:16:09Z",
+    "forks": 0,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2354,
+  "rank_in_category": 180,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:09:14.259494Z",
+  "last_refreshed_at": "2026-06-06T10:09:14.259497Z"
+}

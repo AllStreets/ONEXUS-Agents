@@ -1,0 +1,47 @@
+{
+  "slug": "ml-stable-diffusion",
+  "name": "ml-stable-diffusion",
+  "tagline": "Stable Diffusion with Core ML on Apple Silicon",
+  "category": "image-generation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "apple",
+    "url": "https://github.com/apple"
+  },
+  "source": {
+    "primary": "github",
+    "github": "apple/ml-stable-diffusion",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 17865,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-03T18:01:03Z",
+    "first_commit_at": "2022-11-30T19:41:05Z",
+    "forks": 1055,
+    "watchers": 139,
+    "open_issues": 187,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4612,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:05:01.640640Z",
+  "last_refreshed_at": "2026-06-06T10:05:01.640643Z"
+}

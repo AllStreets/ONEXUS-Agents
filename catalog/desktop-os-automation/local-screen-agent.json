@@ -1,0 +1,47 @@
+{
+  "slug": "local-screen-agent",
+  "name": "local-screen-agent",
+  "tagline": "local-screen-agent",
+  "category": "desktop-os-automation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "stevibe",
+    "url": "https://github.com/stevibe"
+  },
+  "source": {
+    "primary": "github",
+    "github": "stevibe/local-screen-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 65,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T13:24:24Z",
+    "first_commit_at": "2026-06-03T14:32:29Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3174,
+  "rank_in_category": 101,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:15.658351Z",
+  "last_refreshed_at": "2026-06-06T10:13:15.658354Z"
+}

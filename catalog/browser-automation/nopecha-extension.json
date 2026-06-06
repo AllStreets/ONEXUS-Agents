@@ -1,0 +1,58 @@
+{
+  "slug": "nopecha-extension",
+  "name": "nopecha-extension",
+  "tagline": "Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.",
+  "category": "browser-automation",
+  "tags": [
+    "aws-waf-captcha",
+    "captcha",
+    "captcha-breaking",
+    "captcha-bypass",
+    "captcha-recognition",
+    "captcha-solver",
+    "captcha-solving",
+    "funcaptcha",
+    "funcaptcha-solver",
+    "hcaptcha"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "NopeCHALLC",
+    "url": "https://github.com/NopeCHALLC"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NopeCHALLC/nopecha-extension",
+    "huggingface": null,
+    "homepage": "https://nopecha.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10343,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T20:20:35Z",
+    "first_commit_at": "2023-03-23T17:59:59Z",
+    "forks": 173,
+    "watchers": 23,
+    "open_issues": 42,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4709,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:57.780024Z",
+  "last_refreshed_at": "2026-06-06T10:11:57.780027Z"
+}

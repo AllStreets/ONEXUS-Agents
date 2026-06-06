@@ -1,0 +1,47 @@
+{
+  "slug": "vs-code-agents",
+  "name": "vs-code-agents",
+  "tagline": "A multi-agent workflow system for GitHub Copilot in VS Code that brings structure, quality gates, and long-term memory to AI-assisted development with Flowbaby.",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "groupzer0",
+    "url": "https://github.com/groupzer0"
+  },
+  "source": {
+    "primary": "github",
+    "github": "groupzer0/vs-code-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 271,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-18T13:41:32Z",
+    "first_commit_at": "2025-12-13T13:34:37Z",
+    "forks": 47,
+    "watchers": 7,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3686,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:30.712087Z",
+  "last_refreshed_at": "2026-06-06T10:15:30.712090Z"
+}

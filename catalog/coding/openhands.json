@@ -27,10 +27,24 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 75907,
+    "stars": 75957,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-05T15:49:35Z",
-    "first_commit_at": "2024-03-13T03:36:30Z"
+    "last_commit_at": "2026-06-05T21:59:17Z",
+    "first_commit_at": "2024-03-13T03:36:30Z",
+    "forks": 9645,
+    "watchers": 452,
+    "open_issues": 350,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
   },
   "benchmarks": [
     {
@@ -42,9 +56,9 @@
   ],
   "runnable": true,
   "adapter_ref": "adapters/openhands/mcp.json",
-  "composite_score": 0.533,
+  "composite_score": 0.6392,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-06-05T15:52:44.741679Z"
+  "last_refreshed_at": "2026-06-06T09:43:36.463474Z"
 }

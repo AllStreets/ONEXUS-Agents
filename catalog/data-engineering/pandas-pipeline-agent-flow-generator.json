@@ -1,0 +1,51 @@
+{
+  "slug": "pandas-pipeline-agent-flow-generator",
+  "name": "pandas_pipeline_agent_flow_generator",
+  "tagline": "An intelligent, automated system for generating and testing pandas data cleaning pipelines using AI agents and structured quality checklists.",
+  "category": "data-engineering",
+  "tags": [
+    "agent",
+    "langgraph-python",
+    "pandas-python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mpraes",
+    "url": "https://github.com/mpraes"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mpraes/pandas_pipeline_agent_flow_generator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-03T01:36:56Z",
+    "first_commit_at": "2025-07-26T02:04:42Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2898,
+  "rank_in_category": 108,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:44.097401Z",
+  "last_refreshed_at": "2026-06-06T09:52:44.097404Z"
+}

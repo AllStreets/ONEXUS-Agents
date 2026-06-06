@@ -1,0 +1,53 @@
+{
+  "slug": "cursor2api",
+  "name": "cursor2api",
+  "tagline": "将 Cursor Web Docs 免费 API 转换为 OpenAI/Anthropic 兼容格式的代理服务。提供 Claude Code工具及图片支持。",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "cc",
+    "claude",
+    "cursor",
+    "gpt"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "7836246",
+    "url": "https://github.com/7836246"
+  },
+  "source": {
+    "primary": "github",
+    "github": "7836246/cursor2api",
+    "huggingface": null,
+    "homepage": "https://cursor.com/cn/docs"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1814,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T07:31:54Z",
+    "first_commit_at": "2026-03-04T06:57:42Z",
+    "forks": 516,
+    "watchers": 8,
+    "open_issues": 62,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3471,
+  "rank_in_category": 198,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:05.349177Z",
+  "last_refreshed_at": "2026-06-06T09:48:05.349180Z"
+}

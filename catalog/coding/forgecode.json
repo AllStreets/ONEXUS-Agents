@@ -1,0 +1,58 @@
+{
+  "slug": "forgecode",
+  "name": "forgecode",
+  "tagline": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+  "category": "coding",
+  "tags": [
+    "ai-pair-programming",
+    "ai-workflows",
+    "artifical-intelligense",
+    "claude-3-7-sonnet",
+    "claude-4",
+    "claude-4-sonnet",
+    "cli-assistant",
+    "command-line",
+    "grok",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "tailcallhq",
+    "url": "https://github.com/tailcallhq"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tailcallhq/forgecode",
+    "huggingface": null,
+    "homepage": "https://forgecode.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7392,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T05:51:43Z",
+    "first_commit_at": "2024-12-08T20:33:37Z",
+    "forks": 1439,
+    "watchers": 23,
+    "open_issues": 72,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4129,
+  "rank_in_category": 69,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:45.492235Z",
+  "last_refreshed_at": "2026-06-06T09:48:45.492238Z"
+}

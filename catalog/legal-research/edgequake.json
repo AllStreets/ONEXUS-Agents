@@ -1,0 +1,52 @@
+{
+  "slug": "edgequake",
+  "name": "edgequake",
+  "tagline": "EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation",
+  "category": "legal-research",
+  "tags": [
+    "graphrag",
+    "knowledge-graph",
+    "lightrag",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "raphaelmansuy",
+    "url": "https://github.com/raphaelmansuy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "raphaelmansuy/edgequake",
+    "huggingface": null,
+    "homepage": "https://edgequake.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2004,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T19:26:07Z",
+    "first_commit_at": "2026-02-09T08:47:11Z",
+    "forks": 228,
+    "watchers": 14,
+    "open_issues": 28,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3982,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:58:45.744988Z",
+  "last_refreshed_at": "2026-06-06T09:58:45.744992Z"
+}

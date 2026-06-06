@@ -1,0 +1,58 @@
+{
+  "slug": "skybridge",
+  "name": "skybridge",
+  "tagline": "Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic.",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "ai",
+    "apps-sdk",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "devtools",
+    "ext-apps",
+    "llms",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "alpic-ai",
+    "url": "https://github.com/alpic-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alpic-ai/skybridge",
+    "huggingface": null,
+    "homepage": "https://skybridge.tech/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1688,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-02T22:31:22Z",
+    "first_commit_at": "2025-10-07T05:53:11Z",
+    "forks": 94,
+    "watchers": 3,
+    "open_issues": 54,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5943,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:51:59.068459Z",
+  "last_refreshed_at": "2026-06-06T09:51:59.068462Z"
+}

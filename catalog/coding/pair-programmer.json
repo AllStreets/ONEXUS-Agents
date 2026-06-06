@@ -1,0 +1,57 @@
+{
+  "slug": "pair-programmer",
+  "name": "pair-programmer",
+  "tagline": "Pair Programmer for Claude Code, Codex and Cursor",
+  "category": "coding",
+  "tags": [
+    "ai-agents",
+    "ai-assisted-development",
+    "ai-coding",
+    "claude-code",
+    "claude-plugins",
+    "context",
+    "livestream",
+    "real-time",
+    "videodb"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "video-db",
+    "url": "https://github.com/video-db"
+  },
+  "source": {
+    "primary": "github",
+    "github": "video-db/pair-programmer",
+    "huggingface": null,
+    "homepage": "https://docs.videodb.io/examples-and-tutorials/ai-copilots/pair-programmer"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 127,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-16T11:03:14Z",
+    "first_commit_at": "2026-02-10T08:47:30Z",
+    "forks": 21,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2606,
+  "rank_in_category": 364,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:48.154538Z",
+  "last_refreshed_at": "2026-06-06T09:48:48.154542Z"
+}

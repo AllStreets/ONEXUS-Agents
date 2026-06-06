@@ -1,0 +1,58 @@
+{
+  "slug": "thrum",
+  "name": "thrum",
+  "tagline": "Persistent Git-backed messaging for AI coding agents — coordinate Claude Code, Codex, and others across sessions, worktrees, and machines.",
+  "category": "email-scheduling",
+  "tags": [
+    "agent-coordination",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "git",
+    "golang",
+    "llm-tools",
+    "messaging",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "leonletto",
+    "url": "https://github.com/leonletto"
+  },
+  "source": {
+    "primary": "github",
+    "github": "leonletto/thrum",
+    "huggingface": null,
+    "homepage": "https://thrum.team/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 28,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T07:09:28Z",
+    "first_commit_at": "2026-02-03T18:39:30Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4738,
+  "rank_in_category": 82,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:48.133879Z",
+  "last_refreshed_at": "2026-06-06T10:14:48.133882Z"
+}

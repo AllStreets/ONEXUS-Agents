@@ -1,0 +1,53 @@
+{
+  "slug": "auslaw-mcp",
+  "name": "auslaw-mcp",
+  "tagline": "MCP server for Australian and New Zealand legal research. Searches AustLII for case law and legislation, retrieves full-text judgements with paragraph numbers preserved, and supports OCR for scanned P",
+  "category": "legal-research",
+  "tags": [
+    "ai",
+    "anz",
+    "austlii",
+    "law",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "russellbrenner",
+    "url": "https://github.com/russellbrenner"
+  },
+  "source": {
+    "primary": "github",
+    "github": "russellbrenner/auslaw-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-28T03:45:34Z",
+    "first_commit_at": "2025-10-09T01:25:02Z",
+    "forks": 8,
+    "watchers": 0,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2913,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:58:29.859275Z",
+  "last_refreshed_at": "2026-06-06T09:58:29.859278Z"
+}

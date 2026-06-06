@@ -1,0 +1,54 @@
+{
+  "slug": "az-devops-agent-on-aks",
+  "name": "Az-DevOps-Agent-On-AKS",
+  "tagline": "Build and deploy Azure DevOps Pipeline agent in a container on Azure Kubernetes Service.  Elastically scale the DevOps build infrastructure.",
+  "category": "data-engineering",
+  "tags": [
+    "aks",
+    "azure-container-registry",
+    "azure-devops-agent",
+    "build-agent",
+    "devops",
+    "kubernetes"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ganrad",
+    "url": "https://github.com/ganrad"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ganrad/Az-DevOps-Agent-On-AKS",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 51,
+    "downloads_30d": null,
+    "last_commit_at": "2023-11-01T23:34:03Z",
+    "first_commit_at": "2019-08-16T15:50:25Z",
+    "forks": 52,
+    "watchers": 4,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3808,
+  "rank_in_category": 89,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:36.300060Z",
+  "last_refreshed_at": "2026-06-06T09:52:36.300064Z"
+}

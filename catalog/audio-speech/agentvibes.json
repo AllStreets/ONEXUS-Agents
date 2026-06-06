@@ -1,0 +1,54 @@
+{
+  "slug": "agentvibes",
+  "name": "AgentVibes",
+  "tagline": "🎭 TTS for Claude Code",
+  "category": "audio-speech",
+  "tags": [
+    "ai-agents",
+    "collaborative-coding",
+    "docker",
+    "github-projects",
+    "team-generator",
+    "themed-agents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "paulpreibisch",
+    "url": "https://github.com/paulpreibisch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "paulpreibisch/AgentVibes",
+    "huggingface": null,
+    "homepage": "https://github.com/paulpreibisch/AgentVibes"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 146,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T06:56:33Z",
+    "first_commit_at": "2025-06-10T21:21:31Z",
+    "forks": 23,
+    "watchers": 0,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5359,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:07:22.041630Z",
+  "last_refreshed_at": "2026-06-06T10:07:22.041633Z"
+}

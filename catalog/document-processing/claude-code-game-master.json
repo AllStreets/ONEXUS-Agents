@@ -1,0 +1,52 @@
+{
+  "slug": "claude-code-game-master",
+  "name": "Claude-Code-Game-Master",
+  "tagline": "Total conversion for Claude Code. Use RAG and the RPG ruleset apis to play a persistent adventure in any book or world of your choosing.",
+  "category": "document-processing",
+  "tags": [
+    "claude",
+    "rag",
+    "rpg",
+    "story"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Sstobo",
+    "url": "https://github.com/Sstobo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Sstobo/Claude-Code-Game-Master",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 120,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-26T12:24:35Z",
+    "first_commit_at": "2026-02-08T14:34:55Z",
+    "forks": 22,
+    "watchers": 1,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4312,
+  "rank_in_category": 135,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:08.559292Z",
+  "last_refreshed_at": "2026-06-06T10:14:08.559295Z"
+}

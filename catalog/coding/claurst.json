@@ -1,9 +1,18 @@
 {
   "slug": "claurst",
   "name": "claurst",
-  "tagline": "Your favorite Terminal Coding Agent, now in Rust",
+  "tagline": "Agentic Coding for Builders who Ship",
   "category": "coding",
-  "tags": [],
+  "tags": [
+    "claude",
+    "claude-code",
+    "claurst",
+    "cli",
+    "codex",
+    "gemini",
+    "rust",
+    "tui"
+  ],
   "author": {
     "type": "user",
     "handle": "Kuberwastaken",
@@ -13,21 +22,35 @@
     "primary": "github",
     "github": "Kuberwastaken/claurst",
     "huggingface": null,
-    "homepage": "http://claurst.kuber.studio/"
+    "homepage": "https://claurst.kuber.studio/"
   },
   "license": "GPL-3.0",
   "metrics": {
-    "stars": 9557,
+    "stars": 9764,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-10T13:09:43Z",
-    "first_commit_at": "2026-04-01T18:18:48Z"
+    "last_commit_at": "2026-06-04T17:50:01Z",
+    "first_commit_at": "2026-04-01T18:18:48Z",
+    "forks": 7790,
+    "watchers": 122,
+    "open_issues": 29,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2559,
-  "rank_in_category": 101,
+  "composite_score": 0.3926,
+  "rank_in_category": 111,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:21:13.585357Z",
-  "last_refreshed_at": "2026-05-10T14:22:53.516920Z"
+  "last_refreshed_at": "2026-06-06T09:49:02.187542Z"
 }

@@ -1,0 +1,49 @@
+{
+  "slug": "checkmk",
+  "name": "checkmk",
+  "tagline": "Checkmk - Best-in-class infrastructure & application monitoring",
+  "category": "web-dev",
+  "tags": [
+    "monitoring"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Checkmk",
+    "url": "https://github.com/Checkmk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Checkmk/checkmk",
+    "huggingface": null,
+    "homepage": "https://checkmk.com/"
+  },
+  "license": "GPL-2.0",
+  "metrics": {
+    "stars": 2277,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T20:59:42Z",
+    "first_commit_at": "2009-11-16T18:34:46Z",
+    "forks": 537,
+    "watchers": 69,
+    "open_issues": 39,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6184,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:51:57.250660Z",
+  "last_refreshed_at": "2026-06-06T09:51:57.250663Z"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "zipkin",
+  "name": "zipkin",
+  "tagline": "Zipkin is a distributed tracing system",
+  "category": "content-writing",
+  "tags": [
+    "distributed-tracing",
+    "observability",
+    "openzipkin",
+    "tracing",
+    "zipkin"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openzipkin",
+    "url": "https://github.com/openzipkin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openzipkin/zipkin",
+    "huggingface": null,
+    "homepage": "https://zipkin.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 17437,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-08T14:42:17Z",
+    "first_commit_at": "2012-06-06T18:28:34Z",
+    "forks": 3104,
+    "watchers": 663,
+    "open_issues": 168,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7091,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:02:01.466969Z",
+  "last_refreshed_at": "2026-06-06T10:02:01.466971Z"
+}

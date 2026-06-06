@@ -1,0 +1,58 @@
+{
+  "slug": "awesome-claude",
+  "name": "awesome-claude",
+  "tagline": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports",
+  "category": "data-science-ml",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "ai-directory",
+    "ai-tools",
+    "anthropic",
+    "artificial-intelligence",
+    "awesome-list",
+    "claude",
+    "claude-ai",
+    "claude-api"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JSONbored",
+    "url": "https://github.com/JSONbored"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JSONbored/awesome-claude",
+    "huggingface": null,
+    "homepage": "https://heyclau.de/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 261,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T09:54:06Z",
+    "first_commit_at": "2025-09-15T01:34:08Z",
+    "forks": 67,
+    "watchers": 2,
+    "open_issues": 263,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5462,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:32.636811Z",
+  "last_refreshed_at": "2026-06-06T09:54:32.636815Z"
+}

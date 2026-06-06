@@ -1,0 +1,55 @@
+{
+  "slug": "imdlbenco",
+  "name": "IMDLBenCo",
+  "tagline": "[NeurIPS'24 Spotlight] A comprehensive benchmark & codebase for Image manipulation detection/localization.",
+  "category": "translation",
+  "tags": [
+    "benchmark",
+    "benco",
+    "image-manipulation-detection",
+    "imd",
+    "imdl",
+    "imdl-benco",
+    "iml"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "scu-zjz",
+    "url": "https://github.com/scu-zjz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "scu-zjz/IMDLBenCo",
+    "huggingface": null,
+    "homepage": "https://scu-zjz.github.io/IMDLBenCo-doc"
+  },
+  "license": "CC-BY-4.0",
+  "metrics": {
+    "stars": 298,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-14T15:08:11Z",
+    "first_commit_at": "2024-05-11T12:40:49Z",
+    "forks": 49,
+    "watchers": 17,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.529,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:09:51.342565Z",
+  "last_refreshed_at": "2026-06-06T10:09:51.342568Z"
+}

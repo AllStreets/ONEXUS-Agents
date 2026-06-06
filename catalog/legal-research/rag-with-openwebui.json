@@ -1,0 +1,47 @@
+{
+  "slug": "rag-with-openwebui",
+  "name": "rag_with_openwebui",
+  "tagline": "A Retrieval-Augmented Generation (RAG) system integrated with OpenWebUI for document querying. It processes documents, retrieves relevant information using a vector database, and generates accurate re",
+  "category": "legal-research",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "robaita",
+    "url": "https://github.com/robaita"
+  },
+  "source": {
+    "primary": "github",
+    "github": "robaita/rag_with_openwebui",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2025-02-07T06:09:49Z",
+    "first_commit_at": "2025-02-07T03:34:08Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1403,
+  "rank_in_category": 209,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:58:40.773014Z",
+  "last_refreshed_at": "2026-06-06T09:58:40.773016Z"
+}

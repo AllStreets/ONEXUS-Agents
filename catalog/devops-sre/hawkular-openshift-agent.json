@@ -1,0 +1,47 @@
+{
+  "slug": "hawkular-openshift-agent",
+  "name": "hawkular-openshift-agent",
+  "tagline": "A Hawkular feed that collects metrics from Prometheus and/or Jolokia endpoints deployed in one or more pods within an OpenShift node.",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "hawkular",
+    "url": "https://github.com/hawkular"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hawkular/hawkular-openshift-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2017-11-14T20:45:13Z",
+    "first_commit_at": "2016-10-19T22:09:57Z",
+    "forks": 21,
+    "watchers": 12,
+    "open_issues": 26,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.068,
+  "rank_in_category": 177,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:55.564598Z",
+  "last_refreshed_at": "2026-06-06T10:15:55.564601Z"
+}

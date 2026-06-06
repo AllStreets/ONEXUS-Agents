@@ -1,0 +1,55 @@
+{
+  "slug": "textmatchcut",
+  "name": "TextMatchCut",
+  "tagline": "A free, open-source, cross-platform desktop (webapp) to generate TextMatchCut. Built with Wails, Go, and React. Runs locally ",
+  "category": "web-dev",
+  "tags": [
+    "ai",
+    "gemini",
+    "openai",
+    "react",
+    "textmatchcut",
+    "wails",
+    "web-dev"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TextMatchCut",
+    "url": "https://github.com/TextMatchCut"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TextMatchCut/TextMatchCut",
+    "huggingface": null,
+    "homepage": "https://textmatchcut.github.io/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-06T15:15:23Z",
+    "first_commit_at": "2025-08-02T11:19:34Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2372,
+  "rank_in_category": 279,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:22:50.430377Z",
+  "last_refreshed_at": "2026-06-06T09:50:00.906116Z"
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "pce",
+  "name": "pce",
+  "tagline": "Emulates Mac Plus, PC, & Atari ST in the browser using WebAssembly",
+  "category": "browser-automation",
+  "tags": [
+    "atari-st",
+    "classic-mac-os",
+    "emscripten",
+    "emulator",
+    "ibm-pc",
+    "pce"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jsdf",
+    "url": "https://github.com/jsdf"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jsdf/pce",
+    "huggingface": null,
+    "homepage": "https://jamesfriend.com.au/pce-js"
+  },
+  "license": "GPL-2.0",
+  "metrics": {
+    "stars": 917,
+    "downloads_30d": null,
+    "last_commit_at": "2022-06-23T02:49:26Z",
+    "first_commit_at": "2013-10-29T09:02:42Z",
+    "forks": 152,
+    "watchers": 41,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3146,
+  "rank_in_category": 150,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:15.454251Z",
+  "last_refreshed_at": "2026-06-06T10:12:15.454254Z"
+}

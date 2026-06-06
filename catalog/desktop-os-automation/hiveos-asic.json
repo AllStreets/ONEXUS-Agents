@@ -1,0 +1,52 @@
+{
+  "slug": "hiveos-asic",
+  "name": "hiveos-asic",
+  "tagline": "Hive OS client for ASICs",
+  "category": "desktop-os-automation",
+  "tags": [
+    "asic",
+    "bitcoin",
+    "litecoin",
+    "mining"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "minershive",
+    "url": "https://github.com/minershive"
+  },
+  "source": {
+    "primary": "github",
+    "github": "minershive/hiveos-asic",
+    "huggingface": null,
+    "homepage": "https://hiveos.farm/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 193,
+    "downloads_30d": null,
+    "last_commit_at": "2024-07-07T00:14:34Z",
+    "first_commit_at": "2018-04-02T13:35:58Z",
+    "forks": 87,
+    "watchers": 30,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2854,
+  "rank_in_category": 131,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:18.823044Z",
+  "last_refreshed_at": "2026-06-06T10:13:18.823047Z"
+}

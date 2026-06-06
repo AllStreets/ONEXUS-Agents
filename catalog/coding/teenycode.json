@@ -1,0 +1,52 @@
+{
+  "slug": "teenycode",
+  "name": "teenycode",
+  "tagline": "A tiny coding agent in 200 LOC",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "codex",
+    "coding-agent",
+    "openai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yangshun",
+    "url": "https://github.com/yangshun"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yangshun/teenycode",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 91,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T14:13:17Z",
+    "first_commit_at": "2026-04-23T02:29:28Z",
+    "forks": 13,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2425,
+  "rank_in_category": 397,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:45.035250Z",
+  "last_refreshed_at": "2026-06-06T09:47:45.035253Z"
+}

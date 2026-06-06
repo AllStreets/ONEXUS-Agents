@@ -1,0 +1,58 @@
+{
+  "slug": "mengram",
+  "name": "mengram",
+  "tagline": "Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.",
+  "category": "devops-sre",
+  "tags": [
+    "agent-memory",
+    "ai-agents",
+    "ai-memory",
+    "claude-desktop",
+    "cognitive-architecture",
+    "cohere",
+    "cursor-ai",
+    "episodic-memory",
+    "knowledge-graph",
+    "letta-alternative"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "alibaizhanov",
+    "url": "https://github.com/alibaizhanov"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alibaizhanov/mengram",
+    "huggingface": null,
+    "homepage": "https://mengram.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 173,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T09:03:08Z",
+    "first_commit_at": "2026-02-10T19:20:33Z",
+    "forks": 27,
+    "watchers": 4,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5282,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:31.559882Z",
+  "last_refreshed_at": "2026-06-06T10:15:31.559885Z"
+}

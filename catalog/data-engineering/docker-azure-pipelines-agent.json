@@ -1,0 +1,47 @@
+{
+  "slug": "docker-azure-pipelines-agent",
+  "name": "docker-azure-pipelines-agent",
+  "tagline": "Docker based agent for Azure Pipelines",
+  "category": "data-engineering",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "emberstack",
+    "url": "https://github.com/emberstack"
+  },
+  "source": {
+    "primary": "github",
+    "github": "emberstack/docker-azure-pipelines-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 31,
+    "downloads_30d": null,
+    "last_commit_at": "2023-02-01T04:01:12Z",
+    "first_commit_at": "2020-01-11T15:42:29Z",
+    "forks": 17,
+    "watchers": 1,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3595,
+  "rank_in_category": 93,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:39.453986Z",
+  "last_refreshed_at": "2026-06-06T09:52:39.453989Z"
+}

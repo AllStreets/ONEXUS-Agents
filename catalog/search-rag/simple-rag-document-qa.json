@@ -1,0 +1,47 @@
+{
+  "slug": "simple-rag-document-qa",
+  "name": "simple-rag-document-qa",
+  "tagline": "A simple RAG application for doing question-answering on a PDF document. Uses the PyCharm documentation as the source document and langchain to build the RAG pipeline.",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "t-redactyl",
+    "url": "https://github.com/t-redactyl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "t-redactyl/simple-rag-document-qa",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 66,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-06T13:38:58Z",
+    "first_commit_at": "2024-05-31T15:07:42Z",
+    "forks": 24,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3064,
+  "rank_in_category": 153,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:18.216623Z",
+  "last_refreshed_at": "2026-06-06T10:11:18.216627Z"
+}

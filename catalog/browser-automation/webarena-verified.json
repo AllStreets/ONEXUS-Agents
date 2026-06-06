@@ -1,0 +1,47 @@
+{
+  "slug": "webarena-verified",
+  "name": "webarena-verified",
+  "tagline": "A verified version of the WebArena Benchmark",
+  "category": "browser-automation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "ServiceNow",
+    "url": "https://github.com/ServiceNow"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ServiceNow/webarena-verified",
+    "huggingface": null,
+    "homepage": "https://servicenow.github.io/webarena-verified/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 40,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-08T19:20:25Z",
+    "first_commit_at": "2025-12-02T16:47:23Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2726,
+  "rank_in_category": 196,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:05.988040Z",
+  "last_refreshed_at": "2026-06-06T10:12:05.988043Z"
+}

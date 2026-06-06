@@ -1,0 +1,58 @@
+{
+  "slug": "osworld-g",
+  "name": "OSWorld-G",
+  "tagline": "[NeurIPS 2025 Spotlight] Scaling Computer-Use Grounding via UI Decomposition and Synthesis",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent",
+    "benchmark",
+    "dataset",
+    "gui",
+    "large-action-model",
+    "models",
+    "multimodal",
+    "natural-language-processing",
+    "rpa",
+    "vlm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "xlang-ai",
+    "url": "https://github.com/xlang-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xlang-ai/OSWorld-G",
+    "huggingface": null,
+    "homepage": "https://osworld-grounding.github.io/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 167,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-06T12:05:22Z",
+    "first_commit_at": "2024-12-05T15:43:00Z",
+    "forks": 7,
+    "watchers": 5,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2857,
+  "rank_in_category": 130,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:11.962543Z",
+  "last_refreshed_at": "2026-06-06T10:13:11.962547Z"
+}

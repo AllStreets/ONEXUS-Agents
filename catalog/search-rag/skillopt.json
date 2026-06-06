@@ -1,0 +1,50 @@
+{
+  "slug": "skillopt",
+  "name": "SkillOpt",
+  "tagline": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+  "category": "search-rag",
+  "tags": [
+    "agent-skills",
+    "self-evolving-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/SkillOpt",
+    "huggingface": null,
+    "homepage": "https://aka.ms/skillopt"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5118,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T16:08:10Z",
+    "first_commit_at": "2026-05-08T06:41:01Z",
+    "forks": 506,
+    "watchers": 29,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5798,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:23.984363Z",
+  "last_refreshed_at": "2026-06-06T10:11:23.984366Z"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "dingtalk-skills",
+  "name": "dingtalk-skills",
+  "tagline": "【Openclaw & Hermes & 企业机器人🤖】钉钉Skill库，含：钉钉文档、AI(多维)表格、群(单)聊、会议室、日程、待办、通讯录、AI搜索等，自动管理配置，轻量级—仅依赖curl， skill经过严格测试。Lightweight DingTalk Skill Library (curl only). Includes AI search, docs, sheets, chat, m",
+  "category": "email-scheduling",
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "ai-table",
+    "anthropic-skills",
+    "dingtalk",
+    "dingtalk-api",
+    "document",
+    "openclaw",
+    "openclaw-skill",
+    "skills-sh"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "breath57",
+    "url": "https://github.com/breath57"
+  },
+  "source": {
+    "primary": "github",
+    "github": "breath57/dingtalk-skills",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 75,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-28T14:43:59Z",
+    "first_commit_at": "2026-03-05T06:43:35Z",
+    "forks": 9,
+    "watchers": 1,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.503,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:58.850865Z",
+  "last_refreshed_at": "2026-06-06T10:14:58.850868Z"
+}

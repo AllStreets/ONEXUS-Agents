@@ -4,9 +4,16 @@
   "tagline": "Deterministic execution for non-deterministic AI.",
   "category": "coding",
   "tags": [
+    "agentic-coding",
     "ai-coding",
-    "prompt",
-    "teaql"
+    "code-generation",
+    "coding-agent",
+    "ddd",
+    "developer-tools",
+    "domain-driven-design",
+    "java",
+    "rust",
+    "semantic-guardrails"
   ],
   "author": {
     "type": "org",
@@ -23,15 +30,29 @@
   "metrics": {
     "stars": 2765,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-05T03:44:48Z",
-    "first_commit_at": "2022-05-15T17:07:12Z"
+    "last_commit_at": "2026-06-06T08:40:37Z",
+    "first_commit_at": "2022-05-15T17:07:12Z",
+    "forks": 951,
+    "watchers": 100,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3078,
-  "rank_in_category": 29,
+  "composite_score": 0.3969,
+  "rank_in_category": 100,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-04T16:23:06.837819Z",
-  "last_refreshed_at": "2026-06-05T15:56:09.656672Z"
+  "last_refreshed_at": "2026-06-06T09:44:40.359507Z"
 }

@@ -1,0 +1,58 @@
+{
+  "slug": "rtfm",
+  "name": "rtfm",
+  "tagline": "The open retrieval layer for AI coding agents. Indexes code, docs, legal, research, data — 22 parsers (incl. EPUB, DOCX, ODT), FTS5 + semantic search, knowledge graph. Serves surgical context via MCP.",
+  "category": "legal-research",
+  "tags": [
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "code-search",
+    "context-engineering",
+    "developer-tools",
+    "embeddings",
+    "fts",
+    "json-schema",
+    "knowledge-base"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "roomi-fields",
+    "url": "https://github.com/roomi-fields"
+  },
+  "source": {
+    "primary": "github",
+    "github": "roomi-fields/rtfm",
+    "huggingface": null,
+    "homepage": "https://roomi-fields.github.io/rtfm/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-25T08:42:54Z",
+    "first_commit_at": "2025-12-31T15:03:14Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.316,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:58:30.896795Z",
+  "last_refreshed_at": "2026-06-06T09:58:30.896797Z"
+}

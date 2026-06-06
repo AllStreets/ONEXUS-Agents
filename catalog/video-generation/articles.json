@@ -1,0 +1,47 @@
+{
+  "slug": "articles",
+  "name": "articles",
+  "tagline": "My article collection",
+  "category": "video-generation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "Quriosity-agent",
+    "url": "https://github.com/Quriosity-agent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Quriosity-agent/articles",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T02:20:55Z",
+    "first_commit_at": "2026-02-04T06:39:40Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4359,
+  "rank_in_category": 103,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:06:36.101090Z",
+  "last_refreshed_at": "2026-06-06T10:06:36.101093Z"
+}

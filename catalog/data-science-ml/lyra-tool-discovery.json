@@ -1,0 +1,58 @@
+{
+  "slug": "lyra-tool-discovery",
+  "name": "lyra-tool-discovery",
+  "tagline": "AI powered automation toolkit which acts as an agent that discovers MCP servers for you. Point it at GitHub/npm/configure your own discovery, let GPT or Claude analyze the API or MCP or any tool, get ",
+  "category": "data-science-ml",
+  "tags": [
+    "ai-agents-dev",
+    "anthropic",
+    "api",
+    "awesome",
+    "cli-automation",
+    "crypto",
+    "cryptocurrency",
+    "cursor",
+    "defi",
+    "gpt"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nirholas",
+    "url": "https://github.com/nirholas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nirholas/lyra-tool-discovery",
+    "huggingface": null,
+    "homepage": "https://github.com/nirholas/lyra-tool-discovery"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T05:07:47Z",
+    "first_commit_at": "2026-01-11T12:30:37Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4085,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:19.051041Z",
+  "last_refreshed_at": "2026-06-06T09:54:19.051045Z"
+}

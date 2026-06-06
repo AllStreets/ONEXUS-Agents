@@ -1,0 +1,50 @@
+{
+  "slug": "openai-python",
+  "name": "openai-python",
+  "tagline": "The official Python library for the OpenAI API",
+  "category": "coding",
+  "tags": [
+    "openai",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openai",
+    "url": "https://github.com/openai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openai/openai-python",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/openai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 30908,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T16:49:32Z",
+    "first_commit_at": "2020-10-25T23:23:05Z",
+    "forks": 4828,
+    "watchers": 364,
+    "open_issues": 526,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4492,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:38.977959Z",
+  "last_refreshed_at": "2026-06-06T09:47:38.977962Z"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "pvm",
+  "name": "pvm",
+  "tagline": "Phi-3.5 for Mac: Locally-run Vision and Language Models for Apple Silicon",
+  "category": "audio-speech",
+  "tags": [
+    "agent",
+    "api",
+    "bgpt",
+    "fine-tuning",
+    "finetuning",
+    "llm",
+    "lora",
+    "lstm",
+    "mac",
+    "macos"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JosefAlbers",
+    "url": "https://github.com/JosefAlbers"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JosefAlbers/pvm",
+    "huggingface": null,
+    "homepage": "https://medium.com/@albersj66"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 277,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-09T20:28:13Z",
+    "first_commit_at": "2024-05-27T18:26:04Z",
+    "forks": 21,
+    "watchers": 7,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4198,
+  "rank_in_category": 95,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:07:38.968484Z",
+  "last_refreshed_at": "2026-06-06T10:07:38.968487Z"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "skill-seekers",
+  "name": "Skill_Seekers",
+  "tagline": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+  "category": "web-dev",
+  "tags": [
+    "ai-tools",
+    "ast-parser",
+    "automation",
+    "claude-ai",
+    "claude-skills",
+    "code-analysis",
+    "conflict-detection",
+    "documentation",
+    "documentation-generator",
+    "github"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yusufkaraaslan",
+    "url": "https://github.com/yusufkaraaslan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yusufkaraaslan/Skill_Seekers",
+    "huggingface": null,
+    "homepage": "https://skillseekersweb.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13965,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T20:37:33Z",
+    "first_commit_at": "2025-10-17T14:43:48Z",
+    "forks": 1444,
+    "watchers": 67,
+    "open_issues": 100,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.679,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:51:12.296567Z",
+  "last_refreshed_at": "2026-06-06T09:51:12.296570Z"
+}

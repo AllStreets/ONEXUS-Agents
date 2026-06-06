@@ -1,0 +1,58 @@
+{
+  "slug": "documentgenerator-doge",
+  "name": "DocumentGenerator_DoGe",
+  "tagline": "Synthetic Document Generator for Document AI. Creates document images annotated with text and bounding boxes of each word. Images contain headings, tables, paragraphs with different formatting and fon",
+  "category": "document-processing",
+  "tags": [
+    "ai",
+    "bounding-boxes",
+    "data-generator",
+    "dataset",
+    "document",
+    "document-generation",
+    "document-generator",
+    "ocr",
+    "synthetic-data",
+    "synthetic-dataset-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Travvy88",
+    "url": "https://github.com/Travvy88"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Travvy88/DocumentGenerator_DoGe",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 32,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-23T14:56:27Z",
+    "first_commit_at": "2024-11-02T10:15:44Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.324,
+  "rank_in_category": 204,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:13.642109Z",
+  "last_refreshed_at": "2026-06-06T10:14:13.642114Z"
+}

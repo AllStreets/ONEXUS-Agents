@@ -1,0 +1,47 @@
+{
+  "slug": "od-swe-bench",
+  "name": "OD-SWE-bench",
+  "tagline": "Enhanced fork of SWE-bench, tailored for OpenDevin's ecosystem.",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "OpenDevin",
+    "url": "https://github.com/OpenDevin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OpenDevin/OD-SWE-bench",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 30,
+    "downloads_30d": null,
+    "last_commit_at": "2024-05-26T13:28:38Z",
+    "first_commit_at": "2023-10-10T10:19:08Z",
+    "forks": 9,
+    "watchers": 9,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1934,
+  "rank_in_category": 472,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:46:39.981355Z",
+  "last_refreshed_at": "2026-06-06T09:46:39.981359Z"
+}

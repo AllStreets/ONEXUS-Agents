@@ -1,0 +1,58 @@
+{
+  "slug": "pipelock",
+  "name": "pipelock",
+  "tagline": "Open-source AI agent firewall for MCP security: agent egress control, DLP, SSRF, and prompt injection defense.",
+  "category": "coding",
+  "tags": [
+    "agent-security",
+    "ai-agent-security",
+    "ai-agents",
+    "ai-firewall",
+    "ai-security",
+    "dlp",
+    "egress-proxy",
+    "fetch-proxy",
+    "github-action",
+    "golang"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "luckyPipewrench",
+    "url": "https://github.com/luckyPipewrench"
+  },
+  "source": {
+    "primary": "github",
+    "github": "luckyPipewrench/pipelock",
+    "huggingface": null,
+    "homepage": "https://pipelab.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 697,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T04:40:14Z",
+    "first_commit_at": "2026-02-08T03:01:38Z",
+    "forks": 78,
+    "watchers": 3,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3306,
+  "rank_in_category": 226,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:07.354744Z",
+  "last_refreshed_at": "2026-06-06T09:48:07.354747Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "azdo-k8s-agents",
+  "name": "azdo-k8s-agents",
+  "tagline": "Self-Hosted Azure DevOps agents based on Kubernetes clusters",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "cloudoven",
+    "url": "https://github.com/cloudoven"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cloudoven/azdo-k8s-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-02T07:31:37Z",
+    "first_commit_at": "2021-04-21T11:54:45Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.346,
+  "rank_in_category": 107,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:25.839096Z",
+  "last_refreshed_at": "2026-06-06T10:15:25.839100Z"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "mco",
+  "name": "mco",
+  "tagline": "[Successor: Hive — https://hivehq.dev] Original neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code. New work continues in Hive.",
+  "category": "coding",
+  "tags": [
+    "ai-agents",
+    "ai-ide",
+    "claude",
+    "cli",
+    "code-review",
+    "codex",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "gemini"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mco-org",
+    "url": "https://github.com/mco-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mco-org/mco",
+    "huggingface": null,
+    "homepage": "https://hivehq.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 365,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-23T06:41:16Z",
+    "first_commit_at": "2026-02-26T07:25:36Z",
+    "forks": 31,
+    "watchers": 3,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3029,
+  "rank_in_category": 283,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:13.109492Z",
+  "last_refreshed_at": "2026-06-06T09:48:13.109494Z"
+}

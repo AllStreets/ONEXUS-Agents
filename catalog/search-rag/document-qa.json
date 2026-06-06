@@ -1,0 +1,47 @@
+{
+  "slug": "document-qa",
+  "name": "document-qa",
+  "tagline": "document-qa",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "allenai",
+    "url": "https://github.com/allenai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "allenai/document-qa",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 437,
+    "downloads_30d": null,
+    "last_commit_at": "2024-02-04T03:28:02Z",
+    "first_commit_at": "2017-08-10T22:36:36Z",
+    "forks": 118,
+    "watchers": 52,
+    "open_issues": 30,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3689,
+  "rank_in_category": 123,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:17.484734Z",
+  "last_refreshed_at": "2026-06-06T10:11:17.484738Z"
+}

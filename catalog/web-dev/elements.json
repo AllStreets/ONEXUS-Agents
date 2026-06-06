@@ -1,0 +1,56 @@
+{
+  "slug": "elements",
+  "name": "elements",
+  "tagline": "The Design System and UI Agent Harness for AI/ML Factories, Robotics, and Autonomous Vehicles",
+  "category": "web-dev",
+  "tags": [
+    "angular",
+    "cli",
+    "mcp-server",
+    "react",
+    "typescript",
+    "ui",
+    "vue",
+    "web-component"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NVIDIA",
+    "url": "https://github.com/NVIDIA"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVIDIA/elements",
+    "huggingface": null,
+    "homepage": "https://nvidia.github.io/elements/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T06:27:33Z",
+    "first_commit_at": "2023-12-26T19:07:33Z",
+    "forks": 1,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4865,
+  "rank_in_category": 98,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:51:46.524530Z",
+  "last_refreshed_at": "2026-06-06T09:51:46.524533Z"
+}

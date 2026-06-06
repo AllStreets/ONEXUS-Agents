@@ -1,0 +1,47 @@
+{
+  "slug": "free-outbound-agent",
+  "name": "free_outbound_agent",
+  "tagline": "Open-source AI-powered outbound email agent. Finds prospects on GitHub and Dev.to, writes personalized emails with Claude or GPT-4, sends via any SMTP provider.",
+  "category": "email-scheduling",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "Dumebii",
+    "url": "https://github.com/Dumebii"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Dumebii/free_outbound_agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-27T13:57:41Z",
+    "first_commit_at": "2026-05-22T14:12:35Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4347,
+  "rank_in_category": 94,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:34.411867Z",
+  "last_refreshed_at": "2026-06-06T10:14:34.411870Z"
+}

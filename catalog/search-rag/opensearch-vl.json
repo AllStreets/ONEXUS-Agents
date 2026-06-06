@@ -1,0 +1,54 @@
+{
+  "slug": "opensearch-vl",
+  "name": "OpenSearch-VL",
+  "tagline": "🔍 OpenSearch-VL provides a fully open recipe for training strong multimodal deep search agents through high-quality data curation, diverse visual/search tools, and fatal-aware agentic reinforcement le",
+  "category": "search-rag",
+  "tags": [
+    "deep-research-agent",
+    "multimodal",
+    "opensource",
+    "search-agent",
+    "think-with-image",
+    "vlm-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shawn0728",
+    "url": "https://github.com/shawn0728"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shawn0728/OpenSearch-VL",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/pdf/2605.05185"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 210,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-19T05:52:18Z",
+    "first_commit_at": "2026-05-03T11:04:37Z",
+    "forks": 18,
+    "watchers": 4,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.449,
+  "rank_in_category": 73,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:04.875256Z",
+  "last_refreshed_at": "2026-06-06T10:11:04.875260Z"
+}

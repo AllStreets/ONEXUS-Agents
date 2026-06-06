@@ -1,0 +1,58 @@
+{
+  "slug": "uk-legal-mcp",
+  "name": "uk-legal-mcp",
+  "tagline": "UK legal research MCP server — case law, legislation, Hansard, HMRC, OSCOLA citations. 14 tools.",
+  "category": "legal-research",
+  "tags": [
+    "ai-skills",
+    "case-law",
+    "claude",
+    "hansard",
+    "legal",
+    "legislation",
+    "mcp",
+    "mcp-server",
+    "oscola",
+    "uk"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "paulieb89",
+    "url": "https://github.com/paulieb89"
+  },
+  "source": {
+    "primary": "github",
+    "github": "paulieb89/uk-legal-mcp",
+    "huggingface": null,
+    "homepage": "https://bouch.dev/guides/add-mcp-server"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-31T02:44:11Z",
+    "first_commit_at": "2026-03-29T02:46:53Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3077,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:58:38.194328Z",
+  "last_refreshed_at": "2026-06-06T09:58:38.194331Z"
+}

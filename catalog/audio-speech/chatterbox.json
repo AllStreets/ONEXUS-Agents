@@ -1,0 +1,47 @@
+{
+  "slug": "chatterbox",
+  "name": "chatterbox",
+  "tagline": "SoTA open-source TTS",
+  "category": "audio-speech",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "resemble-ai",
+    "url": "https://github.com/resemble-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "resemble-ai/chatterbox",
+    "huggingface": null,
+    "homepage": "https://resemble-ai.github.io/chatterbox_demopage/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 24977,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-20T13:37:52Z",
+    "first_commit_at": "2025-05-28T15:57:27Z",
+    "forks": 3316,
+    "watchers": 148,
+    "open_issues": 340,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6995,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:08:21.680132Z",
+  "last_refreshed_at": "2026-06-06T10:08:21.680134Z"
+}

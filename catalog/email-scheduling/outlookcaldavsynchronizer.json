@@ -1,0 +1,56 @@
+{
+  "slug": "outlookcaldavsynchronizer",
+  "name": "outlookcaldavsynchronizer",
+  "tagline": "Sync Outlook with Google, SOGo, Nextcloud or any other CalDAV/CardDAV server",
+  "category": "email-scheduling",
+  "tags": [
+    "caldav",
+    "calendar",
+    "carddav",
+    "contacts",
+    "google-calendar",
+    "outlook",
+    "synchronization",
+    "tasks"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aluxnimm",
+    "url": "https://github.com/aluxnimm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aluxnimm/outlookcaldavsynchronizer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 1066,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-14T02:48:28Z",
+    "first_commit_at": "2015-07-20T07:32:12Z",
+    "forks": 104,
+    "watchers": 62,
+    "open_issues": 166,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5741,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:52.485783Z",
+  "last_refreshed_at": "2026-06-06T10:14:52.485786Z"
+}

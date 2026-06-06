@@ -1,0 +1,53 @@
+{
+  "slug": "nexus",
+  "name": "nexus",
+  "tagline": "Nexus, the shared context plane where every agent and human connect, collaborate, and evolve together.",
+  "category": "document-processing",
+  "tags": [
+    "ai-memory",
+    "context-engineering",
+    "context-store",
+    "filesystem",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nexi-lab",
+    "url": "https://github.com/nexi-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nexi-lab/nexus",
+    "huggingface": null,
+    "homepage": "https://nexi-lab.github.io/nexus/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 225,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T09:58:30Z",
+    "first_commit_at": "2025-10-08T03:34:11Z",
+    "forks": 10,
+    "watchers": 4,
+    "open_issues": 84,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.551,
+  "rank_in_category": 69,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:07.359518Z",
+  "last_refreshed_at": "2026-06-06T10:14:07.359521Z"
+}

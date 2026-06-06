@@ -1,0 +1,47 @@
+{
+  "slug": "youtube-dl",
+  "name": "youtube-dl",
+  "tagline": "Command-line program to download videos from YouTube.com and other video sites",
+  "category": "browser-automation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "ytdl-org",
+    "url": "https://github.com/ytdl-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ytdl-org/youtube-dl",
+    "huggingface": null,
+    "homepage": "http://ytdl-org.github.io/youtube-dl/"
+  },
+  "license": "Unlicense",
+  "metrics": {
+    "stars": 140437,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-19T16:45:25Z",
+    "first_commit_at": "2010-10-31T14:35:07Z",
+    "forks": 10671,
+    "watchers": 2157,
+    "open_issues": 4123,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4617,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:18.466449Z",
+  "last_refreshed_at": "2026-06-06T10:12:18.466452Z"
+}
