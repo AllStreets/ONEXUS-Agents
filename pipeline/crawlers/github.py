@@ -57,6 +57,13 @@ def fetch_repo(client: httpx.Client, full_name: str) -> dict[str, Any] | None:
         "owner_html_url": (data.get("owner") or {}).get("html_url"),
         "topics": data.get("topics") or [],
         "html_url": data.get("html_url"),
+        # Tier 1: already returned by /repos — capture instead of dropping.
+        "forks": data.get("forks_count"),
+        "watchers": data.get("subscribers_count"),
+        "open_issues": data.get("open_issues_count"),
+        "archived": bool(data.get("archived", False)),
+        "is_fork": bool(data.get("fork", False)),
+        "is_template": bool(data.get("is_template", False)),
     }
 
 

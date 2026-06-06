@@ -26,6 +26,15 @@ class Metrics(BaseModel):
     downloads_30d: int | None = None
     last_commit_at: datetime | None = None
     first_commit_at: datetime | None = None
+    # Tier 1: fields already returned by /repos and /models — no new API cost.
+    forks: int | None = None
+    watchers: int | None = None
+    open_issues: int | None = None
+    archived: bool | None = None
+    is_fork: bool | None = None
+    is_template: bool | None = None
+    library_name: str | None = None
+    pipeline_tag: str | None = None
 
 
 class Benchmark(BaseModel):
