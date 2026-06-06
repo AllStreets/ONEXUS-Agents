@@ -1,43 +1,35 @@
 {
   "slug": "maestro",
   "name": "maestro",
-  "tagline": "Workflow fluency for AI coding agents. 1 core skill · 25 commands · 7 domain references · memory layer · audit trail — works across Cursor, Claude Code, Gemini CLI, Copilot, and 6 more.",
+  "tagline": "Maestro orchestrates agents and multiagent workflows in a declarative fashion",
   "category": "multi-agent-orchestration",
   "tags": [
-    "agent-orchestration",
-    "ai",
-    "ai-agents",
-    "ai-workflows",
-    "claude-code",
-    "codex",
-    "copilot",
-    "cursor",
-    "developer-tools",
-    "gemini"
+    "multiagent-systems",
+    "python"
   ],
   "author": {
-    "type": "user",
-    "handle": "sharpdeveye",
-    "url": "https://github.com/sharpdeveye"
+    "type": "org",
+    "handle": "AI4quantum",
+    "url": "https://github.com/AI4quantum"
   },
   "source": {
     "primary": "github",
-    "github": "sharpdeveye/maestro",
+    "github": "AI4quantum/maestro",
     "huggingface": null,
-    "homepage": "https://maestroskills.dev/"
+    "homepage": null
   },
-  "license": "MIT",
+  "license": "Apache-2.0",
   "metrics": {
-    "stars": 202,
+    "stars": 41,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-29T12:33:00Z",
-    "first_commit_at": "2026-04-02T15:23:44Z",
-    "forks": null,
-    "watchers": null,
-    "open_issues": null,
-    "archived": null,
-    "is_fork": null,
-    "is_template": null,
+    "last_commit_at": "2026-04-17T20:21:40Z",
+    "first_commit_at": "2024-11-12T18:33:24Z",
+    "forks": 19,
+    "watchers": 6,
+    "open_issues": 0,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
@@ -50,9 +42,9 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2973,
-  "rank_in_category": 126,
+  "composite_score": 0.1197,
+  "rank_in_category": 286,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-06T15:51:54.791632Z",
-  "last_refreshed_at": "2026-05-17T14:45:34.322628Z"
+  "first_seen_at": "2026-06-06T15:19:58.251389Z",
+  "last_refreshed_at": "2026-06-06T15:19:58.251392Z"
 }

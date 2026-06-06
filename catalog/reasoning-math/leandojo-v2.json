@@ -1,0 +1,52 @@
+{
+  "slug": "leandojo-v2",
+  "name": "LeanDojo-v2",
+  "tagline": "LeanDojo-v2 is an end-to-end framework for training, evaluating, and deploying AI-assisted theorem provers for Lean 4. ",
+  "category": "reasoning-math",
+  "tags": [
+    "lean4",
+    "library",
+    "machine-learning",
+    "theorem-proving"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "lean-dojo",
+    "url": "https://github.com/lean-dojo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lean-dojo/LeanDojo-v2",
+    "huggingface": null,
+    "homepage": "https://leandojo.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 94,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-26T07:48:21Z",
+    "first_commit_at": "2025-10-16T17:44:32Z",
+    "forks": 17,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2837,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:19:01.281195Z",
+  "last_refreshed_at": "2026-06-06T15:19:01.281198Z"
+}

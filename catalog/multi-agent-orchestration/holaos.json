@@ -1,0 +1,58 @@
+{
+  "slug": "holaos",
+  "name": "holaOS",
+  "tagline": "Your super agent for work: local-first, learn your working context in mins and never forget it.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agent-harness",
+    "agent-os",
+    "agentic",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "artificial-intelligence",
+    "electron",
+    "holaboss"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "holaboss-ai",
+    "url": "https://github.com/holaboss-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "holaboss-ai/holaOS",
+    "huggingface": null,
+    "homepage": "https://holaos.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 5503,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-02T04:41:23Z",
+    "first_commit_at": "2026-03-22T07:36:16Z",
+    "forks": 403,
+    "watchers": 41,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4662,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:20:07.897052Z",
+  "last_refreshed_at": "2026-06-06T15:20:07.897055Z"
+}

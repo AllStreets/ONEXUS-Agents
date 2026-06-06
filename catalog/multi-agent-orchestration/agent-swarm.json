@@ -1,0 +1,52 @@
+{
+  "slug": "agent-swarm",
+  "name": "agent-swarm",
+  "tagline": "Intelligence that compounds. Every single day.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "swarm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "desplega-ai",
+    "url": "https://github.com/desplega-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "desplega-ai/agent-swarm",
+    "huggingface": null,
+    "homepage": "https://agent-swarm.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 506,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T11:08:59Z",
+    "first_commit_at": "2025-12-19T18:59:13Z",
+    "forks": 56,
+    "watchers": 4,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3791,
+  "rank_in_category": 121,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:20:15.150770Z",
+  "last_refreshed_at": "2026-06-06T15:20:15.150773Z"
+}

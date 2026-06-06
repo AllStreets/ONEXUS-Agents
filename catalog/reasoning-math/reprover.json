@@ -1,0 +1,53 @@
+{
+  "slug": "reprover",
+  "name": "ReProver",
+  "tagline": "Retrieval-Augmented Theorem Provers for Lean",
+  "category": "reasoning-math",
+  "tags": [
+    "lean",
+    "lean4",
+    "llm",
+    "machine-learning",
+    "theorem-proving"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "lean-dojo",
+    "url": "https://github.com/lean-dojo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lean-dojo/ReProver",
+    "huggingface": null,
+    "homepage": "https://leandojo.org/leandojo.html"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 326,
+    "downloads_30d": null,
+    "last_commit_at": "2025-01-30T13:34:20Z",
+    "first_commit_at": "2023-03-16T19:23:13Z",
+    "forks": 71,
+    "watchers": 9,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2539,
+  "rank_in_category": 108,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:42.049511Z",
+  "last_refreshed_at": "2026-06-06T15:18:42.049514Z"
+}

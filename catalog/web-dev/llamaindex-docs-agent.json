@@ -1,0 +1,58 @@
+{
+  "slug": "llamaindex-docs-agent",
+  "name": "llamaindex-docs-agent",
+  "tagline": "A simple ReAct agent that has access to LlamaIndex docs and to the internet to provide you with insights on LlamaIndex itself.",
+  "category": "web-dev",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "chatbot",
+    "documentation",
+    "fastapi",
+    "gradio",
+    "hybrid-search",
+    "llama-index",
+    "llms",
+    "qdrant"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AstraBert",
+    "url": "https://github.com/AstraBert"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AstraBert/llamaindex-docs-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2025-02-23T23:11:34Z",
+    "first_commit_at": "2025-02-22T00:33:27Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1997,
+  "rank_in_category": 293,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T14:37:11.308234Z",
+  "last_refreshed_at": "2026-06-06T14:37:11.308237Z"
+}

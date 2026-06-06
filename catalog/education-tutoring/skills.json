@@ -1,0 +1,52 @@
+{
+  "slug": "skills",
+  "name": "skills",
+  "tagline": "Skills for teaching agents how to build on Cloudflare.",
+  "category": "education-tutoring",
+  "tags": [
+    "agents",
+    "cloudflare",
+    "skills",
+    "workers"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "cloudflare",
+    "url": "https://github.com/cloudflare"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cloudflare/skills",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1724,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T11:19:50Z",
+    "first_commit_at": "2025-12-10T16:45:17Z",
+    "forks": 152,
+    "watchers": 19,
+    "open_issues": 20,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5971,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:17:19.777530Z",
+  "last_refreshed_at": "2026-06-06T15:17:19.777534Z"
+}

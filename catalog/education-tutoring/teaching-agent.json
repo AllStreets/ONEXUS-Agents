@@ -1,0 +1,54 @@
+{
+  "slug": "teaching-agent",
+  "name": "teaching-agent",
+  "tagline": "A BMAD-method-inspired teaching agent to support the creation of lectures with LiaScript",
+  "category": "education-tutoring",
+  "tags": [
+    "bmad",
+    "bmad-method",
+    "bmad-methodology",
+    "education",
+    "liascript",
+    "oer"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "LiaScript",
+    "url": "https://github.com/LiaScript"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LiaScript/teaching-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "BSL-1.0",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T08:46:23Z",
+    "first_commit_at": "2025-11-07T16:13:34Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3637,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:17:21.497709Z",
+  "last_refreshed_at": "2026-06-06T15:17:21.497713Z"
+}

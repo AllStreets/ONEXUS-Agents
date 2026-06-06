@@ -1,0 +1,50 @@
+{
+  "slug": "lean4",
+  "name": "lean4",
+  "tagline": "Lean 4 programming language and theorem prover",
+  "category": "reasoning-math",
+  "tags": [
+    "lean",
+    "lean4"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "leanprover",
+    "url": "https://github.com/leanprover"
+  },
+  "source": {
+    "primary": "github",
+    "github": "leanprover/lean4",
+    "huggingface": null,
+    "homepage": "https://lean-lang.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 8183,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T14:56:59Z",
+    "first_commit_at": "2018-04-15T02:49:20Z",
+    "forks": 868,
+    "watchers": 77,
+    "open_issues": 1504,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4512,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:32.522229Z",
+  "last_refreshed_at": "2026-06-06T15:18:32.522232Z"
+}

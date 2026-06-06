@@ -1,0 +1,52 @@
+{
+  "slug": "ax-crew",
+  "name": "ax-crew",
+  "tagline": "Low code framework to build and launch a crew of AI agents with shared state. See docs https://axcrew.dev",
+  "category": "education-tutoring",
+  "tags": [
+    "agents",
+    "ai-providers",
+    "json",
+    "llms"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "amitdeshmukh",
+    "url": "https://github.com/amitdeshmukh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "amitdeshmukh/ax-crew",
+    "huggingface": null,
+    "homepage": "https://axcrew.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 43,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-30T07:29:47Z",
+    "first_commit_at": "2024-07-11T17:01:49Z",
+    "forks": 5,
+    "watchers": 2,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4116,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:17:32.948582Z",
+  "last_refreshed_at": "2026-06-06T15:17:32.948585Z"
+}

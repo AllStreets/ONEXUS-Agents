@@ -1,0 +1,51 @@
+{
+  "slug": "biomni",
+  "name": "Biomni",
+  "tagline": "Biomni: a general-purpose biomedical AI agent",
+  "category": "scientific-research",
+  "tags": [
+    "agent",
+    "ai",
+    "biomedicine"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "snap-stanford",
+    "url": "https://github.com/snap-stanford"
+  },
+  "source": {
+    "primary": "github",
+    "github": "snap-stanford/Biomni",
+    "huggingface": null,
+    "homepage": "https://biomni.stanford.edu/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3166,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T19:05:16Z",
+    "first_commit_at": "2025-03-19T21:06:53Z",
+    "forks": 592,
+    "watchers": 36,
+    "open_issues": 68,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6784,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:16:50.054367Z",
+  "last_refreshed_at": "2026-06-06T15:16:50.054371Z"
+}

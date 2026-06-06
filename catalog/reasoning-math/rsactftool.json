@@ -1,0 +1,51 @@
+{
+  "slug": "rsactftool",
+  "name": "RsaCtfTool",
+  "tagline": "RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data",
+  "category": "reasoning-math",
+  "tags": [
+    "cryptography",
+    "rsa",
+    "rsa-attack"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "RsaCtfTool",
+    "url": "https://github.com/RsaCtfTool"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RsaCtfTool/RsaCtfTool",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6965,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T12:03:22Z",
+    "first_commit_at": "2015-03-07T17:29:33Z",
+    "forks": 998,
+    "watchers": 67,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.449,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:51.705762Z",
+  "last_refreshed_at": "2026-06-06T15:18:51.705765Z"
+}

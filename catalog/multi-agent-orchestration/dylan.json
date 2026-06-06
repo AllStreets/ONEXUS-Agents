@@ -1,0 +1,52 @@
+{
+  "slug": "dylan",
+  "name": "DyLAN",
+  "tagline": "Official Implementation of Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "chatgpt",
+    "gpt4",
+    "llm",
+    "llm-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SALT-NLP",
+    "url": "https://github.com/SALT-NLP"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SALT-NLP/DyLAN",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 208,
+    "downloads_30d": null,
+    "last_commit_at": "2024-05-16T07:46:26Z",
+    "first_commit_at": "2023-10-03T14:33:11Z",
+    "forks": 28,
+    "watchers": 3,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2734,
+  "rank_in_category": 228,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:20:31.427587Z",
+  "last_refreshed_at": "2026-06-06T15:20:31.427590Z"
+}

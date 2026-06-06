@@ -1,0 +1,53 @@
+{
+  "slug": "agda",
+  "name": "agda",
+  "tagline": "Agda is a dependently typed programming language / interactive theorem prover.",
+  "category": "reasoning-math",
+  "tags": [
+    "agda",
+    "dependent-types",
+    "programming-language",
+    "proof-assistant",
+    "type-theory"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agda",
+    "url": "https://github.com/agda"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agda/agda",
+    "huggingface": null,
+    "homepage": "https://wiki.portal.chalmers.se/agda/pmwiki.php"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2862,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T15:15:35Z",
+    "first_commit_at": "2015-08-08T17:51:48Z",
+    "forks": 413,
+    "watchers": 60,
+    "open_issues": 1046,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4294,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:33.396964Z",
+  "last_refreshed_at": "2026-06-06T15:18:33.396967Z"
+}

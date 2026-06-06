@@ -1,0 +1,52 @@
+{
+  "slug": "claudeclaw",
+  "name": "claudeclaw",
+  "tagline": "Use Claude to orchestrate agents like OpenClaw",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "claude-code",
+    "openclaw"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sbusso",
+    "url": "https://github.com/sbusso"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sbusso/claudeclaw",
+    "huggingface": null,
+    "homepage": "https://sbusso.github.io/claudeclaw/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 173,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T19:58:05Z",
+    "first_commit_at": "2026-03-22T08:05:11Z",
+    "forks": 56,
+    "watchers": 3,
+    "open_issues": 10,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3586,
+  "rank_in_category": 147,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:19:53.959911Z",
+  "last_refreshed_at": "2026-06-06T15:19:53.959914Z"
+}

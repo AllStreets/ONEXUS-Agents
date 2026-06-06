@@ -1,0 +1,56 @@
+{
+  "slug": "agent-runtime",
+  "name": "agent-runtime",
+  "tagline": "Unified Tokio agent runtime — orchestration, memory, knowledge graph, and ReAct loop in one crate",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "knowledge-graph",
+    "llm",
+    "memory",
+    "orchestration",
+    "react-agent",
+    "rust",
+    "tokio"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Mattbusel",
+    "url": "https://github.com/Mattbusel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Mattbusel/agent-runtime",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-23T10:58:30Z",
+    "first_commit_at": "2026-03-09T20:21:04Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2714,
+  "rank_in_category": 254,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T14:37:14.097745Z",
+  "last_refreshed_at": "2026-06-06T14:37:14.097748Z"
+}

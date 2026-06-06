@@ -1,0 +1,47 @@
+{
+  "slug": "openscientist",
+  "name": "openscientist",
+  "tagline": "AI co-scientist",
+  "category": "scientific-research",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "openscientist-io",
+    "url": "https://github.com/openscientist-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openscientist-io/openscientist",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 33,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T02:30:28Z",
+    "first_commit_at": "2025-11-15T23:31:17Z",
+    "forks": 5,
+    "watchers": 3,
+    "open_issues": 61,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5047,
+  "rank_in_category": 60,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:16:56.176531Z",
+  "last_refreshed_at": "2026-06-06T15:16:56.176534Z"
+}
