@@ -41,11 +41,21 @@ from pipeline.store import (
     write_agent,
 )
 
-TOP_N = 500
+# FEATURED_CAP marks the "ranked featured" portion of each category — the top
+# slot for promotional surfaces (homepage, category landing leaderboard). It
+# is NOT a visibility constraint: every agent past this rank still gets a
+# page at /catalog/<cat>/<slug> and a row in the category list past rank 500.
+# The historical _tail/ subdirectory has been unified into the parent dir —
+# storage layout is now flat per category.
+FEATURED_CAP = 500
+TOP_N = FEATURED_CAP  # back-compat alias
+
+# Total agents to keep per category after ranking. Past this, entries that
+# fall below the quality threshold are dropped to catalog/_dropped/<date>.json
+# as before. Effectively the max size of any one category's flat dir.
+PER_CATEGORY_TOTAL_CAP = 1500
 # Per-category overrides for the featured cap. Empty by default — every
-# category gets the 500-entry default. Add slugs here to raise (or lower)
-# specific categories. Discovery overflow past the cap that still passes
-# TAIL_QUALITY_THRESHOLD goes to catalog/<cat>/_tail/.
+# category uses FEATURED_CAP for its ranked-featured cutoff.
 PER_CATEGORY_FEATURED_CAP: dict[str, int] = {}
 
 # Stale-entry cleanup: nightly runs once a day, so 28 consecutive failures
@@ -60,10 +70,10 @@ STALE_CLEANUP_THRESHOLD_DAYS = 28
 # ONEXUS_CLASSIFIER_MAX env var if you want more/fewer reclassifications.
 CLASSIFIER_MAX_PER_RUN = 2000
 # Entries past the featured cap that still pass the quality threshold go to
-# catalog/<cat>/_tail/ — visible to site loaders that opt in but skipped by
-# the validator's `_`-dir filter (PR #44). Entries below threshold land in
-# catalog/_dropped/<date>.json as before.
-TAIL_CAP = 1000
+# Quality floor applied past the featured cap. Entries with composite_score
+# below this drop into catalog/_dropped/<date>.json instead of getting a page.
+# The featured/_tail two-tier directory split was removed — all kept agents
+# now live flat at catalog/<cat>/<slug>.json.
 TAIL_QUALITY_THRESHOLD = 0.20
 console = Console()
 
@@ -326,11 +336,13 @@ def _write_and_truncate(
 ) -> dict[str, list[str]]:
     """Score, truncate, write. Returns dropped slugs per category.
 
-    Three-tier output per category:
-      catalog/<cat>/<slug>.json         featured (top featured_cap by score)
-      catalog/<cat>/_tail/<slug>.json   tail (past cap but score >= threshold,
-                                        up to TAIL_CAP total)
-      catalog/_dropped/<date>.json      audit log of slugs we cut entirely
+    Flat per-category layout. Every kept agent lives at
+    catalog/<cat>/<slug>.json and gets a static page. The featured/tail
+    split was removed — `rank_in_category` is the ranking signal now.
+
+      kept: top PER_CATEGORY_TOTAL_CAP entries by composite_score that pass
+            TAIL_QUALITY_THRESHOLD
+      cut:  everything else → catalog/_dropped/<date>.json audit
     """
     cat_lookup: dict[str, Category] = {c.slug: c for c in categories.categories}
     dropped: dict[str, list[str]] = {}
@@ -349,47 +361,45 @@ def _write_and_truncate(
         deduped = list(by_slug.values())
 
         ranked = rank_category(deduped, cat)
-        featured_cap = PER_CATEGORY_FEATURED_CAP.get(cat_slug, TOP_N)
-        featured = ranked[:featured_cap]
-        tail_candidates = ranked[featured_cap : featured_cap + TAIL_CAP]
-        tail = [a for a in tail_candidates if a.composite_score >= TAIL_QUALITY_THRESHOLD]
-        cut = [
+        kept_candidates = ranked[:PER_CATEGORY_TOTAL_CAP]
+        # Past the featured cap we still apply the quality threshold, so
+        # garbage doesn't sneak in via the long tail.
+        featured_cap = PER_CATEGORY_FEATURED_CAP.get(cat_slug, FEATURED_CAP)
+        kept = [
             a
-            for a in ranked[featured_cap:]
-            if a not in tail
+            for i, a in enumerate(kept_candidates)
+            if i < featured_cap or a.composite_score >= TAIL_QUALITY_THRESHOLD
         ]
+        cut = [a for a in ranked if a not in kept]
 
         if cut:
             dropped[cat_slug] = [a.slug for a in cut]
 
         if dry_run:
+            featured_count = sum(1 for a in kept if a.rank_in_category <= featured_cap)
             console.print(
-                f"[cyan]{cat_slug}: would keep featured={len(featured)} "
-                f"tail={len(tail)} drop={len(cut)}"
+                f"[cyan]{cat_slug}: would keep total={len(kept)} "
+                f"(featured≤{featured_cap}: {featured_count}) drop={len(cut)}"
             )
             continue
 
-        # Wipe the existing category dir so removed entries actually disappear,
-        # but preserve _tail/ — we wipe that separately below.
+        # Wipe both the parent dir and any leftover _tail/ from the prior
+        # two-tier layout. After this PR _tail/ should never reappear.
         cat_dir = CATALOG_DIR / cat_slug
         if cat_dir.exists():
             for f in cat_dir.glob("*.json"):
                 f.unlink()
+            legacy_tail = cat_dir / "_tail"
+            if legacy_tail.exists():
+                for f in legacy_tail.glob("*.json"):
+                    f.unlink()
+                try:
+                    legacy_tail.rmdir()
+                except OSError:
+                    pass
 
-        tail_dir = cat_dir / "_tail"
-        if tail_dir.exists():
-            for f in tail_dir.glob("*.json"):
-                f.unlink()
-
-        for a in featured:
+        for a in kept:
             write_agent(a)
-
-        if tail:
-            tail_dir.mkdir(parents=True, exist_ok=True)
-            for a in tail:
-                (tail_dir / f"{a.slug}.json").write_text(
-                    a.model_dump_json(indent=2, exclude_none=False) + "\n"
-                )
 
     return dropped
 

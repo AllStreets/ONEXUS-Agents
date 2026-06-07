@@ -91,7 +91,6 @@ export type CategoryIndex = {
 
 let _categories: CategoryIndex | null = null;
 let _agents: Agent[] | null = null;
-const _tailAgentsCache: Record<string, Agent[]> = {};
 
 export function loadCategories(): CategoryIndex {
   if (_categories) return _categories;
@@ -164,37 +163,3 @@ export function runnableAgentsByAdapter(): Record<string, Agent[]> {
   return out;
 }
 
-/**
- * Lazily load the tail tier for a single category from catalog/<slug>/_tail/.
- *
- * Featured entries (loadAllAgents) live in catalog/<slug>/*.json. Anything
- * past the per-category featured cap that still passed the quality threshold
- * lives under _tail/. The default site routes don't surface tail entries —
- * call this from a dedicated long-tail route when ready.
- */
-export function loadTailAgents(categorySlug: string): Agent[] {
-  if (categorySlug in _tailAgentsCache) return _tailAgentsCache[categorySlug];
-  const dir = path.join(ROOT, categorySlug, "_tail");
-  const out: Agent[] = [];
-  try {
-    for (const f of fs.readdirSync(dir)) {
-      if (!f.endsWith(".json")) continue;
-      const raw = fs.readFileSync(path.join(dir, f), "utf-8");
-      out.push(JSON.parse(raw) as Agent);
-    }
-  } catch {
-    // _tail/ doesn't exist yet for this category — fine.
-  }
-  _tailAgentsCache[categorySlug] = out;
-  return out;
-}
-
-export function tailCounts(): Record<string, number> {
-  const counts: Record<string, number> = {};
-  for (const dirent of fs.readdirSync(ROOT, { withFileTypes: true })) {
-    if (!dirent.isDirectory()) continue;
-    if (dirent.name.startsWith("_")) continue;
-    counts[dirent.name] = loadTailAgents(dirent.name).length;
-  }
-  return counts;
-}
