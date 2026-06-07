@@ -12,19 +12,21 @@ const benched = cats.categories.filter((c) => c.benchmark_anchor);
     <p class="text-[var(--color-fg-dim)] mb-10">
       Every score in this catalog is computed from the same composite formula.
       No editorial weighting, no paid placement, no hidden adjustments.
+      All weights live in <code class="mono">pipeline/ranking.py</code> and the git history is the audit log.
     </p>
 
     <section class="mb-10">
       <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">With benchmark</h2>
       <div class="panel p-5">
         <pre class="font-mono text-sm leading-relaxed"><code>composite =
-    0.30 * benchmark
-  + 0.18 * stars        (log-normalized within category)
-  + 0.18 * downloads    (log-normalized within category)
-  + 0.14 * recency      (last commit decay, half-life 90d)
-  + 0.05 * age          (project maturity, capped at 24mo)
-  + 0.05 * runnable     (1 if MCP adapter exists, else 0)
-  + 0.10 * reserved     (community signal, future)</code></pre>
+    0.30 * benchmark      (leaderboard score 0..1)
+  + 0.15 * stars          (log-normalized within category)
+  + 0.07 * forks          (log-normalized within category)
+  + 0.10 * downloads      (log-normalized; HF only)
+  + 0.13 * recency        (last commit decay, half-life 90d)
+  + 0.05 * age            (project maturity, capped at 24mo)
+  + 0.05 * runnable       (1 if MCP adapter exists, else 0)
+  + 0.15 * quality        (composite — see below)</code></pre>
       </div>
       <p class="mt-3 text-sm text-[var(--color-fg-dim)]">
         Used for {benched.length} categories with peer-recognized benchmarks:
@@ -41,12 +43,13 @@ const benched = cats.categories.filter((c) => c.benchmark_anchor);
       <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Without benchmark</h2>
       <div class="panel p-5">
         <pre class="font-mono text-sm leading-relaxed"><code>composite =
-    0.28 * stars
-  + 0.28 * downloads
-  + 0.22 * recency
-  + 0.07 * age
+    0.22 * stars
+  + 0.10 * forks
+  + 0.15 * downloads
+  + 0.20 * recency
+  + 0.05 * age
   + 0.05 * runnable
-  + 0.10 * reserved</code></pre>
+  + 0.23 * quality</code></pre>
       </div>
       <p class="mt-3 text-sm text-[var(--color-fg-dim)]">
         Used for the remaining {cats.categories.length - benched.length} categories.
@@ -56,41 +59,93 @@ const benched = cats.categories.filter((c) => c.benchmark_anchor);
     </section>
 
     <section class="mb-10">
-      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Pipeline</h2>
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Multiplicative penalties</h2>
+      <p class="text-[var(--color-fg-dim)] mb-3">
+        After the weighted score, two flags multiply the result down. An archived
+        5,000-star repo will always rank below a live 1,000-star competitor on
+        otherwise-equal signals.
+      </p>
+      <div class="panel p-5">
+        <pre class="font-mono text-sm leading-relaxed"><code>final = composite
+  * (0.5 if archived else 1.0)
+  * (0.8 if is_template else 1.0)</code></pre>
+      </div>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Quality sub-score</h2>
+      <p class="text-[var(--color-fg-dim)] mb-3">
+        A 0–1 value that bundles signals too small to merit their own slot but collectively meaningful:
+      </p>
+      <ul class="space-y-2 text-sm text-[var(--color-fg-dim)] list-disc list-outside ml-5">
+        <li><span class="text-[var(--color-fg)] font-mono">+0.15</span> — semantic identity (HF <code class="mono">library_name</code> or <code class="mono">pipeline_tag</code> present)</li>
+        <li><span class="text-[var(--color-fg)] font-mono">+0.10</span> — framework detected (langchain, llamaindex, crewai, autogen, smolagents, dspy, openai-agents-sdk, anthropic-sdk, mcp, transformers, gradio)</li>
+        <li><span class="text-[var(--color-fg)] font-mono">+0.10</span> — active maintenance (any open issues)</li>
+        <li><span class="text-[var(--color-fg)] font-mono">+0.05</span> — discoverability (≥10 watchers)</li>
+        <li><span class="text-[var(--color-fg)] font-mono">−0.10</span> — is a fork</li>
+        <li><span class="text-[var(--color-fg)] font-mono">−0.15</span> — is a GitHub template</li>
+      </ul>
+      <p class="mt-3 text-sm text-[var(--color-fg-dim)]">
+        Starts at a neutral <code class="mono">0.5</code> and clamps to <code class="mono">[0, 1]</code>.
+        Archived entries collapse to <code class="mono">0</code> regardless.
+      </p>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Nightly pipeline · 13:00 UTC</h2>
       <ol class="space-y-3 text-[var(--color-fg-dim)]">
         <li class="flex gap-3">
           <span class="font-mono text-[var(--color-accent)] shrink-0">01</span>
-          <span><span class="text-[var(--color-fg)] font-mono">refresh seeds</span> — re-fetch metrics for every entry in <code class="mono">seeds/*.yaml</code> from GitHub and Hugging Face APIs.</span>
+          <span><span class="text-[var(--color-fg)] font-mono">refresh seeds</span> — re-fetch metrics for every entry in <code class="mono">pipeline/seeds/*.yaml</code> from GitHub and Hugging Face APIs.</span>
         </li>
         <li class="flex gap-3">
           <span class="font-mono text-[var(--color-accent)] shrink-0">02</span>
-          <span><span class="text-[var(--color-fg)] font-mono">auto-discover</span> — run each category's GitHub topic queries and Hugging Face filters; deduplicate against the existing catalog.</span>
+          <span><span class="text-[var(--color-fg)] font-mono">auto-discover</span> — run 315 hand-curated GitHub queries plus 384 auto-broadened ones derived from each category's seed keywords; dedupe across results.</span>
         </li>
         <li class="flex gap-3">
           <span class="font-mono text-[var(--color-accent)] shrink-0">03</span>
-          <span><span class="text-[var(--color-fg)] font-mono">classify</span> — heuristic keyword match first; ambiguous candidates fall through to Claude Haiku for category assignment.</span>
+          <span><span class="text-[var(--color-fg)] font-mono">classify</span> — keyword match first (free). For broad-query repos that don't clear the keyword threshold, escalate to <code class="mono">gpt-5.4-mini</code>. The keyword classifier reclaims most cases; the LLM only fires when no category-keyword evidence aligns with the hint.</span>
         </li>
         <li class="flex gap-3">
           <span class="font-mono text-[var(--color-accent)] shrink-0">04</span>
-          <span><span class="text-[var(--color-fg)] font-mono">score</span> — apply the composite formula per category; benchmark slot pulled from the relevant leaderboard scraper when available.</span>
+          <span><span class="text-[var(--color-fg)] font-mono">detect frameworks</span> — scan tags + tagline (and READMEs on the weekly pass) for the 11 supported agent frameworks; if <code class="mono">mcp</code> is detected, runnable is also flipped on.</span>
         </li>
         <li class="flex gap-3">
           <span class="font-mono text-[var(--color-accent)] shrink-0">05</span>
-          <span><span class="text-[var(--color-fg)] font-mono">truncate</span> — keep the top 250 per category. Drops are recorded in <code class="mono">catalog/_dropped/&lt;date&gt;.json</code>.</span>
+          <span><span class="text-[var(--color-fg)] font-mono">score</span> — apply the composite formula and multiplicative penalties per category.</span>
         </li>
         <li class="flex gap-3">
           <span class="font-mono text-[var(--color-accent)] shrink-0">06</span>
-          <span><span class="text-[var(--color-fg)] font-mono">commit</span> — push the diff. Vercel rebuilds the dashboard. The git history is the audit log.</span>
+          <span><span class="text-[var(--color-fg)] font-mono">keep + cap</span> — top 500 per category form the featured ranked set; anything past that still passing the quality threshold (≥ 0.20) keeps its page in the same flat directory. Below threshold drops to <code class="mono">catalog/_dropped/&lt;date&gt;.json</code>.</span>
+        </li>
+        <li class="flex gap-3">
+          <span class="font-mono text-[var(--color-accent)] shrink-0">07</span>
+          <span><span class="text-[var(--color-fg)] font-mono">report + commit</span> — write the daily quality summary to <code class="mono">reports/YYYY-MM-DD.md</code>; auto-merge PR. Vercel rebuilds.</span>
         </li>
       </ol>
     </section>
 
     <section class="mb-10">
-      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Drops and reinstatement</h2>
-      <p class="text-[var(--color-fg-dim)]">
-        An agent that falls below rank 100 is removed from its category's catalog at the next daily run.
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Weekly rescan · 17:00 UTC Sundays</h2>
+      <p class="text-[var(--color-fg-dim)] mb-3">
+        Runs separately from the nightly to enrich entries that the discovery pass can't see deeply:
+      </p>
+      <ul class="space-y-2 text-sm text-[var(--color-fg-dim)] list-disc list-outside ml-5">
+        <li><span class="text-[var(--color-fg)] font-mono">runnable rescan</span> — for every non-runnable entry, fetch the README and re-run MCP detection against anchored README patterns (npm/uvx invocation, <code class="mono">mcpServers</code> config keys, self-declarations). Never demotes.</li>
+        <li><span class="text-[var(--color-fg)] font-mono">Tier 2 enrichment</span> — for the staleset 500 entries, populate <code class="mono">contributors_count</code>, <code class="mono">releases_total</code>, <code class="mono">latest_release_at</code>, <code class="mono">commits_90d</code>, <code class="mono">has_ci</code>, <code class="mono">readme_length</code>.</li>
+        <li><span class="text-[var(--color-fg)] font-mono">framework refinement</span> — README-aware framework detection unions with what the nightly populated; never demotes a tag-derived hit.</li>
+      </ul>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Drops, hygiene, and reinstatement</h2>
+      <p class="text-[var(--color-fg-dim)] mb-3">
+        An agent that falls below the quality threshold (≥ 0.20 composite) is removed from the catalog at the next daily run.
         It can re-enter at any time if its score recovers — there is no permanent ban.
-        Every drop is logged with the displacing agent in <code class="mono">catalog/_dropped/</code> for full traceability.
+        Every drop is logged in <code class="mono">catalog/_dropped/&lt;date&gt;.json</code> for full traceability.
+      </p>
+      <p class="text-[var(--color-fg-dim)]">
+        Stale-entry cleanup: an entry that fails to refresh for <span class="text-[var(--color-fg)] font-mono">28 consecutive nightlies</span> (≈ four weeks of 404, archived, or sustained rate-limit) drops automatically. A transient outage never removes anything; sustained absence does.
       </p>
     </section>
 

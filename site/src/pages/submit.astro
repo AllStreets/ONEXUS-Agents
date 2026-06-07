@@ -57,8 +57,10 @@ import Icon from "@/components/Icon.astro";
           <h2 class="text-xl font-mono">Add your catalog entry</h2>
         </div>
         <p class="text-[var(--color-fg-dim)] ml-12 mb-3">
-          Create <code class="mono">catalog/&lt;category&gt;/&lt;your-slug&gt;.json</code> matching this shape.
-          You don't need to fill in <code class="mono">composite_score</code> or <code class="mono">rank_in_category</code> — the daily job recomputes those.
+          Create <code class="mono">catalog/&lt;category&gt;/&lt;your-slug&gt;.json</code> with the minimum required fields below.
+          You don't need to fill in <code class="mono">composite_score</code>, <code class="mono">rank_in_category</code>, or any Tier 2 metrics
+          (<code class="mono">forks</code>, <code class="mono">contributors_count</code>, <code class="mono">frameworks</code>, …) —
+          the nightly and weekly jobs recompute everything for every entry, including yours.
         </p>
         <pre class="ml-12 panel p-4 text-xs overflow-x-auto"><code>{`{
   "slug": "your-agent",
@@ -74,15 +76,15 @@ import Icon from "@/components/Icon.astro";
     "homepage": null
   },
   "license": "Apache-2.0",
-  "metrics": { "stars": 0, "downloads_30d": null, "last_commit_at": null, "first_commit_at": null },
+  "metrics": { "stars": 0 },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
   "composite_score": 0.0,
   "rank_in_category": 999,
   "discovered_via": "submission",
-  "first_seen_at": "2026-04-29T00:00:00Z",
-  "last_refreshed_at": "2026-04-29T00:00:00Z"
+  "first_seen_at": "2026-06-07T00:00:00Z",
+  "last_refreshed_at": "2026-06-07T00:00:00Z"
 }`}</code></pre>
       </li>
 
@@ -102,7 +104,7 @@ import Icon from "@/components/Icon.astro";
         </div>
         <p class="text-[var(--color-fg-dim)] ml-12">
           Use the <span class="mono">Agent submission</span> PR template. CI runs the validator on every push.
-          Once green, an admin reviews and merges. Your entry becomes part of the ranking pool the next night.
+          Once green, the PR auto-merges — your entry becomes part of the ranking pool the next nightly.
         </p>
       </li>
     </ol>
