@@ -22,7 +22,11 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    # Pre-classifier (PR #58), full runs took ~35-55 min. The classifier
+    # adds real network roundtrips that pushed the last run past 60 min and
+    # killed it. 120 min gives headroom; budget caps and CLASSIFIER_MAX_PER_RUN
+    # prevent runaway spend from filling that headroom.
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
         with:
