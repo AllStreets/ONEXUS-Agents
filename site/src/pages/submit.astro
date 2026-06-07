@@ -7,7 +7,7 @@ import Icon from "@/components/Icon.astro";
   <div class="max-w-3xl mx-auto px-6 py-12">
     <h1 class="text-4xl font-bold mb-3">Submit an agent</h1>
     <p class="text-[var(--color-fg-dim)] mb-10">
-      The catalog is a git repository. Submitting an agent means opening a pull request.
+      Two paths. Most submitters want the form.
     </p>
 
     <section class="mb-10 panel-2 p-5">
@@ -18,6 +18,27 @@ import Icon from "@/components/Icon.astro";
         next daily run.
       </p>
     </section>
+
+    <section class="mb-12 panel p-6 border-l-2 border-l-[var(--color-accent)]">
+      <h2 class="text-xl font-mono mb-2 flex items-center gap-2">
+        <Icon name="sparkles" size="sm" class="text-[var(--color-accent)]" />
+        Fastest path — open an issue
+      </h2>
+      <p class="text-[var(--color-fg-dim)] mb-4">
+        Pick the <span class="mono">Submit an agent</span> issue template. Fill in source, repo, category,
+        and license. A workflow fetches the real metadata, validates, and opens an auto-merging PR.
+        No fork, no clone, no JSON.
+      </p>
+      <a href="https://github.com/AllStreets/ONEXUS-Agents/issues/new?template=agent-submission.yml" class="inline-flex items-center gap-2 px-4 py-2 rounded-md bg-[var(--color-accent)] text-[var(--color-bg)] font-mono text-sm hover:bg-[var(--color-accent-dim)] transition-colors">
+        <Icon name="play" size="sm" />
+        Submit via form
+      </a>
+    </section>
+
+    <h2 class="text-xl font-mono mb-2">Or do it by hand</h2>
+    <p class="text-[var(--color-fg-dim)] mb-6">
+      For larger / custom entries (multi-source, hand-written adapter, benchmark scores), do a real PR.
+    </p>
 
     <ol class="space-y-8 mb-10">
       <li>
