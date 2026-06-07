@@ -92,6 +92,7 @@ const adapterEntries = Object.entries(byAdapter).sort((a, b) => b[1].length - a[
     </div>
 
     {agents.length > 0 ? (
+      <>
       <div class="panel overflow-hidden">
         <table class="w-full">
           <thead>
@@ -105,11 +106,54 @@ const adapterEntries = Object.entries(byAdapter).sort((a, b) => b[1].length - a[
               <th class="px-3 py-2 text-right font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)]">Links</th>
             </tr>
           </thead>
-          <tbody>
+          <tbody data-agent-rows>
             {agents.map((a, i) => <AgentRow agent={{ ...a, rank_in_category: i + 1 }} showCategory={true} />)}
           </tbody>
         </table>
       </div>
+
+      {agents.length > 100 && (
+        <div class="mt-6 flex items-center justify-between">
+          <div class="font-mono text-xs text-[var(--color-fg-mute)]">
+            Showing <span data-shown-count>100</span> of {agents.length}
+          </div>
+          <button
+            type="button"
+            data-load-more
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-md border border-[var(--color-border)] text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] hover:border-[var(--color-accent)] font-mono text-sm transition-colors"
+          >
+            <Icon name="arrow-right" size="sm" />
+            Load 100 more
+          </button>
+        </div>
+      )}
+
+      <script is:inline>
+        (() => {
+          const PAGE_SIZE = 100;
+          const tbody = document.querySelector("[data-agent-rows]");
+          const button = document.querySelector("[data-load-more]");
+          const counter = document.querySelector("[data-shown-count]");
+          if (!tbody) return;
+          const rows = Array.from(tbody.querySelectorAll("tr"));
+          let shown = PAGE_SIZE;
+          const apply = () => {
+            rows.forEach((r, i) => {
+              r.style.display = i < shown ? "" : "none";
+            });
+            if (counter) counter.textContent = String(Math.min(shown, rows.length));
+            if (button && shown >= rows.length) button.style.display = "none";
+          };
+          apply();
+          if (button) {
+            button.addEventListener("click", () => {
+              shown += PAGE_SIZE;
+              apply();
+            });
+          }
+        })();
+      </script>
+      </>
     ) : (
       <div class="panel p-8 text-center text-[var(--color-fg-dim)]">
         <Icon name="sparkles" class="mx-auto mb-3 text-[var(--color-fg-mute)]" />
