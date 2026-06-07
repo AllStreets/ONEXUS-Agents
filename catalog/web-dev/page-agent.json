@@ -49,8 +49,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.6501,
   "rank_in_category": 20,
   "discovered_via": "auto",

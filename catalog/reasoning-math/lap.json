@@ -1,7 +1,7 @@
 {
   "slug": "lap",
   "name": "LAP",
-  "tagline": "Your agents are guessing at APIs. Give them the actual Agent-Native spec. 1500+ API's Ready To-Use skills,  Compile any API spec into a lean, agent-native format. 10× smaller. OpenAPI, GraphQL, AsyncA",
+  "tagline": "Your agents are guessing at APIs. Give them the actual Agent-Native spec. 1500+ API's Ready To-Use skills,  Compile any API spec into a lean, agent-native format. 10\u00d7 smaller. OpenAPI, GraphQL, AsyncA",
   "category": "reasoning-math",
   "tags": [
     "agent-experience",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.2753,
   "rank_in_category": 96,
   "discovered_via": "auto",

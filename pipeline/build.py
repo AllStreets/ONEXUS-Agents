@@ -52,6 +52,23 @@ def detect_mcp_runnability(
     return False, None
 
 
+def apply_mcp_framework_runnability(
+    runnable: bool, adapter_ref: str | None, frameworks: list[str]
+) -> tuple[bool, str | None]:
+    """If the framework detector found `mcp`, force runnable + default adapter.
+
+    The MCP framework detector (pipeline.frameworks) uses broader signals
+    than detect_mcp_runnability (it accepts `from mcp` Python imports and
+    npm @modelcontextprotocol/ usage). Anything it flags as MCP IS an MCP
+    server by definition and should always be marked runnable. This keeps
+    `/runnable` count and `frameworks=["mcp"]` count consistent (was 470 vs
+    406 with 191 gap before this lived).
+    """
+    if "mcp" in frameworks and not runnable:
+        return True, adapter_ref or GENERIC_MCP_ADAPTER
+    return runnable, adapter_ref
+
+
 def slugify(name: str) -> str:
     s = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
     return s[:64] or "agent"
@@ -79,6 +96,12 @@ def build_from_github(
             runnable = True
             if adapter_ref is None:
                 adapter_ref = auto_adapter
+    frameworks = detect_frameworks(
+        tags=meta["topics"], tagline=(notes or meta["description"] or name)
+    )
+    runnable, adapter_ref = apply_mcp_framework_runnability(
+        runnable, adapter_ref, frameworks
+    )
     return Agent(
         slug=slug,
         name=name,
@@ -108,10 +131,7 @@ def build_from_github(
             archived=meta.get("archived"),
             is_fork=meta.get("is_fork"),
             is_template=meta.get("is_template"),
-            frameworks=detect_frameworks(
-                tags=meta["topics"],
-                tagline=(notes or meta["description"] or name),
-            ),
+            frameworks=frameworks,
         ),
         benchmarks=[],
         runnable=runnable,
@@ -146,6 +166,13 @@ def build_from_huggingface(
             runnable = True
             if adapter_ref is None:
                 adapter_ref = auto_adapter
+    frameworks = detect_frameworks(
+        tags=meta["tags"],
+        tagline=(notes or f"{model_id} — {meta.get('pipeline_tag', '')}"),
+    )
+    runnable, adapter_ref = apply_mcp_framework_runnability(
+        runnable, adapter_ref, frameworks
+    )
     return Agent(
         slug=slug,
         name=name,
@@ -171,10 +198,7 @@ def build_from_huggingface(
             first_commit_at=meta["first_commit_at"],
             library_name=meta.get("library_name"),
             pipeline_tag=meta.get("pipeline_tag"),
-            frameworks=detect_frameworks(
-                tags=meta["tags"],
-                tagline=(notes or f"{model_id} — {meta.get('pipeline_tag', '')}"),
-            ),
+            frameworks=frameworks,
         ),
         benchmarks=[],
         runnable=runnable,

@@ -1,7 +1,7 @@
 {
   "slug": "auto-browser",
   "name": "auto-browser",
-  "tagline": "Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent.",
+  "tagline": "Give your AI agent a real browser \u2014 with a human in the loop. Open-source MCP-native browser agent.",
   "category": "browser-automation",
   "tags": [
     "ai-agent",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.3935,
   "rank_in_category": 90,
   "discovered_via": "auto",

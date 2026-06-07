@@ -1,7 +1,7 @@
 {
   "slug": "pydantic-deepagents",
   "name": "pydantic-deepagents",
-  "tagline": "Build Claude Code–style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, and unlimited context — all on Pydantic AI.",
+  "tagline": "Build Claude Code\u2013style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, and unlimited context \u2014 all on Pydantic AI.",
   "category": "coding",
   "tags": [
     "agent-framework",
@@ -52,8 +52,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.3508,
   "rank_in_category": 230,
   "discovered_via": "auto",

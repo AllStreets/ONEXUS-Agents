@@ -1,7 +1,7 @@
 {
   "slug": "de-anthropocentric-research-engine",
   "name": "de-anthropocentric-research-engine",
-  "tagline": "800+ pure-markdown skills for autonomous AI research. Non-linear orchestration with backtracking, 4-layer military hierarchy (Campaign → Strategy → Tactic → SOP), 5 MCP integrations. The AI is the res",
+  "tagline": "800+ pure-markdown skills for autonomous AI research. Non-linear orchestration with backtracking, 4-layer military hierarchy (Campaign \u2192 Strategy \u2192 Tactic \u2192 SOP), 5 MCP integrations. The AI is the res",
   "category": "scientific-research",
   "tags": [
     "academic-research",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.5985,
   "rank_in_category": 63,
   "discovered_via": "auto",

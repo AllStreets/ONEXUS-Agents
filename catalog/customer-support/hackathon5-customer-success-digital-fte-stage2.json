@@ -1,7 +1,7 @@
 {
   "slug": "hackathon5-customer-success-digital-fte-stage2",
   "name": "hackathon5-customer-success-digital-fte-stage2",
-  "tagline": "Hackathon 5 — Stage 2 implementation of the Customer Success Digital FTE. This stage introduces FastAPI backend services, MCP tools, database persistence, and multi-channel support (Gmail, WhatsApp, W",
+  "tagline": "Hackathon 5 \u2014 Stage 2 implementation of the Customer Success Digital FTE. This stage introduces FastAPI backend services, MCP tools, database persistence, and multi-channel support (Gmail, WhatsApp, W",
   "category": "customer-support",
   "tags": [
     "ai-agents",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.3225,
   "rank_in_category": 193,
   "discovered_via": "auto",

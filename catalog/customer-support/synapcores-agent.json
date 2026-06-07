@@ -1,7 +1,7 @@
 {
   "slug": "synapcores-agent",
   "name": "synapcores-agent",
-  "tagline": "Real, framework-free AI support agent where SynapCores is the brain — memory, RAG, tool routing, generation in one database. Browser chat widget + live Brain debug sidebar. Fork and run in 30s.",
+  "tagline": "Real, framework-free AI support agent where SynapCores is the brain \u2014 memory, RAG, tool routing, generation in one database. Browser chat widget + live Brain debug sidebar. Fork and run in 30s.",
   "category": "customer-support",
   "tags": [
     "agentic-memory",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.4422,
   "rank_in_category": 113,
   "discovered_via": "auto",

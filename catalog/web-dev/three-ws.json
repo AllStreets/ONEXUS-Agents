@@ -1,7 +1,7 @@
 {
   "slug": "three-ws",
   "name": "three.ws",
-  "tagline": "Open-source 3D AI agent framework — GLB/glTF avatars with LLM brains, memory, emotions, and autonomous payments. MCP server · x402 · Solana/EVM · Three.js. Embed anywhere as a web component. Character",
+  "tagline": "Open-source 3D AI agent framework \u2014 GLB/glTF avatars with LLM brains, memory, emotions, and autonomous payments. MCP server \u00b7 x402 \u00b7 Solana/EVM \u00b7 Three.js. Embed anywhere as a web component. Character",
   "category": "web-dev",
   "tags": [
     "3d",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.466,
   "rank_in_category": 142,
   "discovered_via": "auto",

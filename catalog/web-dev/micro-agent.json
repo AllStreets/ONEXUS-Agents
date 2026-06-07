@@ -1,7 +1,7 @@
 {
   "slug": "micro-agent",
   "name": "Micro-Agent",
-  "tagline": "A lightweight AI agent framework for vertical domain applications | 面向垂域应用的轻量级 AI Agent 框架",
+  "tagline": "A lightweight AI agent framework for vertical domain applications | \u9762\u5411\u5782\u57df\u5e94\u7528\u7684\u8f7b\u91cf\u7ea7 AI Agent \u6846\u67b6",
   "category": "web-dev",
   "tags": [
     "ai-agent",
@@ -49,8 +49,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.5091,
   "rank_in_category": 100,
   "discovered_via": "auto",

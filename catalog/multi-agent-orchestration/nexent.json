@@ -1,7 +1,7 @@
 {
   "slug": "nexent",
   "name": "nexent",
-  "tagline": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedbac",
+  "tagline": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles \u2014 unified tools, skills, memory, and orchestration with built-in constraints, feedbac",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.4576,
   "rank_in_category": 63,
   "discovered_via": "auto",
