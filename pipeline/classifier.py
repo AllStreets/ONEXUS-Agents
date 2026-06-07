@@ -138,17 +138,32 @@ def classify_with_hint(
 ) -> Classification:
     """Validate or correct a query-origin category hint, calling LLM only when needed.
 
-    Discovery-time use case: a broadened search query from category X surfaced
-    a repo. We want to confirm X is right (cheap) or override to the actual
-    category (LLM only as last resort).
+    Conservative three-tier policy after audit (#68):
 
-      keyword agrees with hint → return hint (free)
-      keyword strongly disagrees (confidence ≥ 0.5) → trust keyword (free)
-      keyword is ambiguous → ask gpt-5.4-mini
+      1. Strong keyword signal (≥2 hits in some category) → keyword wins, free
+      2. Weak keyword signal: 1 hit AND it matches the hint → trust hint, free
+      3. No keyword signal that supports the hint → escalate to gpt-5.4-mini
+
+    Why: the #68 audit showed the LLM was second-guessing obvious cases.
+    "codeAI — Your AI pair programmer" (tags: nextjs, tailwind, vercel) got
+    moved coding → web-dev because tech-stack tags overrode the semantic.
+    With the new tier 2, a single "pair programmer" hit while the hint is
+    `coding` returns coding — no LLM call, no miscategorization. The LLM
+    still handles genuinely-ambiguous repos where no keyword evidence
+    aligns with the hint at all.
     """
     keyword = classify_keyword(text, categories)
-    if keyword.category == hint_slug:
+    if keyword.category:
         return keyword
-    if keyword.category and keyword.confidence >= 0.5:
-        return keyword
+
+    # Weak-signal path: if the hint's own seed_keywords match at all in the
+    # text, trust the hint. The broadened search query already chose this
+    # category — don't spend an LLM call to second-guess weak evidence.
+    text_lower = text.lower()
+    hint_cat = next((c for c in categories.categories if c.slug == hint_slug), None)
+    if hint_cat:
+        hint_hits = sum(1 for kw in hint_cat.seed_keywords if kw.lower() in text_lower)
+        if hint_hits >= 1:
+            return Classification(hint_slug, 0.4, "keyword (weak, matches hint)")
+
     return classify_openai(text, categories)
