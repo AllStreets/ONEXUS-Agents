@@ -1,0 +1,59 @@
+{
+  "slug": "prompt-library",
+  "name": "prompt-library",
+  "tagline": "AI Prompt Library: Curated prompts with metadata automation, documentation, and dynamic CLI. Execute AI prompts in CI pipelines or local workflows. Customizable toolkit for building AI-powered process",
+  "category": "coding",
+  "tags": [
+    "ai-prompts",
+    "anthropic",
+    "automation",
+    "cli",
+    "gpt",
+    "prompt-engineering",
+    "prompt-templates"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "thibaultyou",
+    "url": "https://github.com/thibaultyou"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thibaultyou/prompt-library",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 92,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-10T16:09:32Z",
+    "first_commit_at": "2024-09-27T13:42:57Z",
+    "forks": 31,
+    "watchers": 4,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.247,
+  "rank_in_category": 507,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:09:35.513779Z",
+  "last_refreshed_at": "2026-06-07T15:30:01.027728Z",
+  "consecutive_refresh_failures": 0
+}

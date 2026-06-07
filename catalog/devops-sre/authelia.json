@@ -1,0 +1,60 @@
+{
+  "slug": "authelia",
+  "name": "authelia",
+  "tagline": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+  "category": "devops-sre",
+  "tags": [
+    "2fa",
+    "authentication",
+    "docker",
+    "golang",
+    "kubernetes",
+    "ldap",
+    "mfa",
+    "multifactor",
+    "oauth2",
+    "openid-connect"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "authelia",
+    "url": "https://github.com/authelia"
+  },
+  "source": {
+    "primary": "github",
+    "github": "authelia/authelia",
+    "huggingface": null,
+    "homepage": "https://www.authelia.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 27997,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T21:02:21Z",
+    "first_commit_at": "2016-12-10T00:47:58Z",
+    "forks": 1419,
+    "watchers": 163,
+    "open_issues": 115,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6658,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:53.780857Z",
+  "last_refreshed_at": "2026-06-07T15:04:49.722617Z",
+  "consecutive_refresh_failures": 0
+}

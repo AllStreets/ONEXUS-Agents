@@ -29,7 +29,7 @@
   "license": "mit",
   "metrics": {
     "stars": 2,
-    "downloads_30d": 683,
+    "downloads_30d": 605,
     "last_commit_at": "2026-02-19T23:37:05Z",
     "first_commit_at": "2025-10-29T11:04:45Z",
     "forks": null,
@@ -46,14 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "transformers"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3853,
-  "rank_in_category": 84,
+  "composite_score": 0.4061,
+  "rank_in_category": 71,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T16:55:58.152917Z",
-  "last_refreshed_at": "2026-06-06T14:44:27.702021Z"
+  "last_refreshed_at": "2026-06-07T15:08:18.022155Z",
+  "consecutive_refresh_failures": 0
 }

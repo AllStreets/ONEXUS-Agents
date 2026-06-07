@@ -1,0 +1,57 @@
+{
+  "slug": "elasticmq",
+  "name": "elasticmq",
+  "tagline": "In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.",
+  "category": "devops-sre",
+  "tags": [
+    "amazon-sqs",
+    "aws",
+    "aws-sqs",
+    "elasticmq",
+    "messaging",
+    "scala",
+    "sqs-interface"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "softwaremill",
+    "url": "https://github.com/softwaremill"
+  },
+  "source": {
+    "primary": "github",
+    "github": "softwaremill/elasticmq",
+    "huggingface": null,
+    "homepage": "https://softwaremill.com/open-source/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2879,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T01:28:21Z",
+    "first_commit_at": "2011-06-25T07:37:20Z",
+    "forks": 202,
+    "watchers": 57,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5986,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:04:31.181358Z",
+  "last_refreshed_at": "2026-06-07T15:22:24.196125Z",
+  "consecutive_refresh_failures": 0
+}

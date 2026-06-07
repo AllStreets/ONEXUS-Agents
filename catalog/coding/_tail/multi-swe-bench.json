@@ -1,0 +1,49 @@
+{
+  "slug": "multi-swe-bench",
+  "name": "multi-swe-bench",
+  "tagline": " Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "multi-swe-bench",
+    "url": "https://github.com/multi-swe-bench"
+  },
+  "source": {
+    "primary": "github",
+    "github": "multi-swe-bench/multi-swe-bench",
+    "huggingface": null,
+    "homepage": "https://multi-swe-bench.github.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 337,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-18T06:27:09Z",
+    "first_commit_at": "2025-04-01T15:20:21Z",
+    "forks": 54,
+    "watchers": 1,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2464,
+  "rank_in_category": 508,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:21:22.832037Z",
+  "last_refreshed_at": "2026-06-07T14:54:09.692569Z",
+  "consecutive_refresh_failures": 0
+}

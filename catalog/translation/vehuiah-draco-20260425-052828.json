@@ -46,14 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "transformers"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2958,
-  "rank_in_category": 152,
+  "composite_score": 0.3186,
+  "rank_in_category": 141,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T16:56:11.674444Z",
-  "last_refreshed_at": "2026-06-06T15:04:41.253432Z"
+  "last_refreshed_at": "2026-06-07T15:40:37.225503Z",
+  "consecutive_refresh_failures": 0
 }

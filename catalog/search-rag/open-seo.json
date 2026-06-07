@@ -1,0 +1,58 @@
+{
+  "slug": "open-seo",
+  "name": "open-seo",
+  "tagline": "Open source alternative to Semrush and Ahrefs",
+  "category": "search-rag",
+  "tags": [
+    "backlink-analysis",
+    "keyword-research",
+    "mcp",
+    "seo",
+    "seo-tools",
+    "site-audit"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "every-app",
+    "url": "https://github.com/every-app"
+  },
+  "source": {
+    "primary": "github",
+    "github": "every-app/open-seo",
+    "huggingface": null,
+    "homepage": "https://openseo.so/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2154,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T20:49:27Z",
+    "first_commit_at": "2026-02-27T19:09:33Z",
+    "forks": 266,
+    "watchers": 16,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.579,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:03:03.500470Z",
+  "last_refreshed_at": "2026-06-07T15:20:39.633078Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "lobe-chat-agents",
+  "name": "lobe-chat-agents",
+  "tagline": "🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "lobe-chat-agent",
+    "lobehub",
+    "openai",
+    "prompt"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "lobehub",
+    "url": "https://github.com/lobehub"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lobehub/lobe-chat-agents",
+    "huggingface": null,
+    "homepage": "https://lobechat.com/discover/assistants"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1117,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T03:53:00Z",
+    "first_commit_at": "2023-09-01T15:41:09Z",
+    "forks": 316,
+    "watchers": 7,
+    "open_issues": 248,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4352,
+  "rank_in_category": 111,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:02:31.489311Z",
+  "last_refreshed_at": "2026-06-07T15:19:40.044940Z",
+  "consecutive_refresh_failures": 0
+}

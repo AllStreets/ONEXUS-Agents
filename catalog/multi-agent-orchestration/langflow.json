@@ -1,36 +1,29 @@
 {
   "slug": "langflow",
   "name": "langflow",
-  "tagline": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+  "tagline": "LangFlow is a TypeScript library for building powerful language-based apps. Easily combine large language models with other sources to create chatbots, agents, and question-answering systems. ",
   "category": "multi-agent-orchestration",
-  "tags": [
-    "agents",
-    "chatgpt",
-    "generative-ai",
-    "large-language-models",
-    "multiagent",
-    "react-flow"
-  ],
+  "tags": [],
   "author": {
-    "type": "org",
-    "handle": "langflow-ai",
-    "url": "https://github.com/langflow-ai"
+    "type": "user",
+    "handle": "Necmttn",
+    "url": "https://github.com/Necmttn"
   },
   "source": {
     "primary": "github",
-    "github": "langflow-ai/langflow",
+    "github": "Necmttn/langflow",
     "huggingface": null,
-    "homepage": "http://www.langflow.org/"
+    "homepage": null
   },
-  "license": "MIT",
+  "license": "GPL-3.0",
   "metrics": {
-    "stars": 149333,
+    "stars": 8,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-07T01:04:29Z",
-    "first_commit_at": "2023-02-08T22:28:04Z",
-    "forks": 9204,
-    "watchers": 470,
-    "open_issues": 931,
+    "last_commit_at": "2023-02-19T23:50:10Z",
+    "first_commit_at": "2023-02-15T00:29:46Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -47,9 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5229,
-  "rank_in_category": 6,
+  "composite_score": 0.1993,
+  "rank_in_category": 494,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T15:19:45.151269Z",
-  "last_refreshed_at": "2026-06-07T10:41:11.247588Z"
+  "first_seen_at": "2026-06-06T10:00:34.872840Z",
+  "last_refreshed_at": "2026-06-07T15:16:26.520967Z",
+  "consecutive_refresh_failures": 0
 }
