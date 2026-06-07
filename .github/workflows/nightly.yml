@@ -18,6 +18,14 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  issues: write
+
+env:
+  # Opt into Node.js 24 ahead of the 2026-09-16 deprecation of Node 20.
+  # actions/checkout and actions/setup-python both embed Node; until their
+  # default major versions ship Node 24 binaries, this env var forces the
+  # runtime upgrade on each invocation.
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 jobs:
   refresh:
@@ -62,6 +70,25 @@ jobs:
 
       - name: validate refreshed catalog
         run: onexus-agents-validate
+
+      - name: cost + budget guard
+        # Fails the job if the run blew through a sensible budget envelope.
+        # The thresholds match the documented free-tier story: classifier
+        # call total should stay under CLASSIFIER_MAX_PER_RUN (#64) and GH
+        # API budget should never reach zero.
+        run: |
+          python - <<'PY'
+          import json, sys
+          s = json.load(open("_run_stats.json"))
+          print(json.dumps(s, indent=2))
+          calls = s["classifier_ok"] + s["classifier_err"]
+          if calls > 2200:
+              sys.exit(f"classifier overspend: {calls} > 2200 (cap is 2000)")
+          if s["budget_remaining_gh"] <= 0:
+              sys.exit("GH API budget exhausted — raise ONEXUS_GH_BUDGET or PAT")
+          if s["budget_remaining_hf"] <= 0:
+              sys.exit("HF API budget exhausted — raise ONEXUS_HF_BUDGET")
+          PY
 
       - name: open auto-merge PR with refresh
         if: github.event.inputs.dry_run != 'true'
@@ -128,3 +155,37 @@ jobs:
           # delete the branch; if it's still ahead of merge, this is a no-op.
           sleep 30
           git push origin --delete "$BRANCH" || echo "branch already gone or rate-limited"
+
+      - name: open failure issue (only on workflow failure)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          # Reuse an existing open bot-failure issue rather than spamming.
+          EXISTING=$(gh issue list --state open --label bot-failure --json number --jq '.[0].number // empty')
+          BODY=$(cat <<EOF
+          The \`nightly\` workflow failed.
+
+          - Run: $RUN_URL
+          - Date (UTC): $DATE
+          - Event: ${{ github.event_name }}
+          - Commit: ${{ github.sha }}
+
+          Likely culprits: GH/HF API outage, OpenAI billing, GH_PAT expired,
+          job timeout, classifier overspend, validator caught a bad entry.
+
+          The cost-guard step inside the workflow prints the run-stats JSON
+          before failing — open the run log and search for "classifier_ok"
+          to see the budget snapshot.
+          EOF
+          )
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body "$BODY"
+          else
+            gh issue create \
+              --title "nightly failure $DATE" \
+              --label "bot-failure" \
+              --body "$BODY"
+          fi

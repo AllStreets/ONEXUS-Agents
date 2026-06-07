@@ -22,11 +22,16 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  issues: write
+
+env:
+  # Opt into Node.js 24 ahead of the 2026-09-16 deprecation of Node 20.
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 jobs:
   rescan:
     runs-on: ubuntu-latest
-    timeout-minutes: 75
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
         with:
@@ -117,3 +122,33 @@ jobs:
           BRANCH="bot/weekly-rescan-$DATE"
           sleep 30
           git push origin --delete "$BRANCH" || echo "branch already gone or rate-limited"
+
+      - name: open failure issue (only on workflow failure)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          EXISTING=$(gh issue list --state open --label bot-failure --json number --jq '.[0].number // empty')
+          BODY=$(cat <<EOF
+          The \`weekly\` rescan workflow failed.
+
+          - Run: $RUN_URL
+          - Date (UTC): $DATE
+          - Event: ${{ github.event_name }}
+          - Commit: ${{ github.sha }}
+
+          Likely culprits: GH API budget exhausted during 5-call/agent enrich,
+          OpenAI billing, GH_PAT expired, classifier overspend during the
+          runnable rescan README fetches.
+          EOF
+          )
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body "$BODY"
+          else
+            gh issue create \
+              --title "weekly failure $DATE" \
+              --label "bot-failure" \
+              --body "$BODY"
+          fi
