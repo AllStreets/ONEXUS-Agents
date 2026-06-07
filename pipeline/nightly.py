@@ -193,7 +193,7 @@ def _discover(
     *,
     per_query_limit: int,
     dry_run: bool,
-) -> None:
+) -> dict[str, int]:
     seen_gh: set[str] = {a.source.github for ags in by_cat.values() for a in ags if a.source.github}
     seen_hf: set[str] = {
         a.source.huggingface for ags in by_cat.values() for a in ags if a.source.huggingface
@@ -260,13 +260,6 @@ def _discover(
                 elif is_broad:
                     classifier_capped += 1
                 by_cat[actual_cat].append(agent)
-        if classifier_ok or classifier_err:
-            console.print(
-                f"[dim]classifier · openai ok={classifier_ok} err={classifier_err}"
-                + (f" capped={classifier_capped}" if classifier_capped else "")
-            )
-    for msg in classifier_first_errors:
-        console.print(f"[yellow]classifier first errors · {msg}")
 
         hf_tags = (cat.huggingface_filters or {}).get("tags") or []
         if hf_tags:
@@ -302,6 +295,20 @@ def _discover(
                     merge_benchmarks(agent, prior)
                     merge_overrides(agent, prior)
                     by_cat[cat.slug].append(agent)
+
+        if classifier_ok or classifier_err:
+            console.print(
+                f"[dim]classifier · openai ok={classifier_ok} err={classifier_err}"
+                + (f" capped={classifier_capped}" if classifier_capped else "")
+            )
+
+    for msg in classifier_first_errors:
+        console.print(f"[yellow]classifier first errors · {msg}")
+    return {
+        "classifier_ok": classifier_ok,
+        "classifier_err": classifier_err,
+        "classifier_capped": classifier_capped,
+    }
 
 
 def _write_and_truncate(
@@ -415,6 +422,7 @@ def main(
 
     existing = _index_existing()
     by_cat: dict[str, list[Agent]] = defaultdict(list)
+    discover_stats: dict[str, int] = {"classifier_ok": 0, "classifier_err": 0, "classifier_capped": 0}
 
     with httpx.Client() as client, Progress() as progress:
         t1 = progress.add_task("refresh seeds", total=1)
@@ -423,7 +431,7 @@ def main(
 
         if not seeds_only:
             t2 = progress.add_task("auto-discover", total=1)
-            _discover(client, cats, existing, by_cat, per_query_limit=per_query_limit, dry_run=dry_run)
+            discover_stats = _discover(client, cats, existing, by_cat, per_query_limit=per_query_limit, dry_run=dry_run)
             progress.advance(t2)
 
         # Preserve prior on-disk entries that this run didn't refresh. A failed
@@ -446,6 +454,24 @@ def main(
     console.print(f"[dim]budget left · gh={budget.gh_remaining} hf={budget.hf_remaining}")
     if drops_file:
         console.print(f"Drops recorded in {drops_file.relative_to(CATALOG_DIR.parent)}")
+
+    # Stats file is read by the cost-guard workflow step to fail the job on
+    # threshold breaches. Path is repo-root so CI doesn't need to know which
+    # subdir we wrote it to.
+    stats_path = CATALOG_DIR.parent / "_run_stats.json"
+    stats_path.write_text(
+        json.dumps(
+            {
+                "total_kept": total_kept,
+                "category_count": len(by_cat),
+                "budget_remaining_gh": budget.gh_remaining,
+                "budget_remaining_hf": budget.hf_remaining,
+                **discover_stats,
+            },
+            indent=2,
+        )
+        + "\n"
+    )
 
 
 if __name__ == "__main__":
