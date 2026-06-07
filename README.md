@@ -1,9 +1,10 @@
 # ONEXUS-Agents
 
-> The largest continuously-updated public catalog of the world's most powerful open-source agents.
-> Discovered daily. Ranked transparently. Bridged into ONEXUS on demand.
+> **The largest continuously-updated public catalog of the world's most powerful open-source AI agents.**
+> Over **7,000 agents** indexed across 40 task categories. Hundreds runnable today via MCP.
+> Discovered nightly. Ranked transparently. Bridged into ONEXUS on demand.
 
-`status: bootstrapping`  ·  `license: Apache-2.0`  ·  `python: 3.12`  ·  `node: 20.x`  ·  `update cadence: 13:00 UTC`
+`license: Apache-2.0`  ·  `python: 3.12`  ·  `node: 24.x`  ·  `update cadence: 13:00 UTC daily + 17:00 UTC Sundays`
 
 ---
 
@@ -13,35 +14,50 @@ ONEXUS-Agents is the public, open-source arm of [ONEXUS](https://github.com/AllS
 
 ONEXUS itself is a closed-loop runtime: Cortex routes intent, Engram remembers, Pulse schedules, Chronicle audits, Aegis enforces. It is the brain.
 
-**ONEXUS-Agents is the body's reach.** It is the catalog the kernel looks at when it needs an external skill: a coding agent, a browser agent, a legal-research agent, a video-generation pipeline. We crawl GitHub and Hugging Face every night, score every candidate against a transparent composite of popularity, recency, runnability, and (where one exists) a real benchmark, and publish the top 250 agents per category as static JSON.
+**ONEXUS-Agents is the body's reach.** It is the catalog the kernel looks at when it needs an external skill: a coding agent, a browser agent, a legal-research agent, a video-generation pipeline. We crawl GitHub and Hugging Face every night, score every candidate against a transparent composite of popularity, recency, runnability, quality signals, and (where one exists) a real benchmark, and publish the top 500 agents per category as static JSON.
 
 The catalog is the product. The dashboard is the showcase. The MCP bridge is the on-ramp.
 
 ## How it works
 
+Two scheduled jobs keep the catalog fresh:
+
 ```
-daily cron (13:00 UTC)
+nightly · 13:00 UTC daily                weekly · 17:00 UTC Sundays
+        │                                        │
+        ▼                                        ▼
+  refresh seeds                            re-scan every entry for
+        │                                  README-aware MCP signals
+        ▼                                        │
+  auto-discover from GitHub + HF                 ▼
+  (315 hand-curated queries +              enrich staleset 500 with
+   384 auto-broadened keyword queries)     Tier 2 metrics (contributors,
+        │                                  releases, commit cadence, CI)
+        ▼                                        │
+  classify (keyword first, free;                 ▼
+  OpenAI gpt-5.4-mini only when           open auto-merge PR
+  truly ambiguous)
         │
         ▼
-  refresh seeds  ──► auto-discover from GitHub + Hugging Face
+  score (composite, multi-signal)
         │
         ▼
-   classify into one of 40 task categories
+  per-category cap (500 featured + tail tier)
         │
         ▼
-   score (composite)  ──► truncate to top 250 / category
+  daily report → reports/YYYY-MM-DD.md
         │
         ▼
-   commit to catalog/  ──► Vercel rebuilds dashboard
+  open auto-merge PR → Vercel rebuilds dashboard
 ```
 
 Every agent in the catalog is a single JSON file under `catalog/<category>/<agent-slug>.json`. No database. The git history *is* the audit log.
 
-A subset of catalogued agents are marked `runnable: true` and have an `adapter_ref` — that's the MCP wrapper ONEXUS uses to actually invoke them. Discovery is broad; runnable is curated.
+A subset of catalogued agents are marked `runnable: true` and have an `adapter_ref` — that's the MCP wrapper ONEXUS uses to actually invoke them. Browse them at **[/runnable](https://agents.onexus.dev/runnable)**. Discovery is broad; runnable is curated and grows weekly as the Sunday rescan finds new MCP-server-shaped repos.
 
 ## The 40 categories
 
-Every category gets a top-250 leaderboard. Eight categories anchor on a real, peer-recognised benchmark that contributes 30% of the composite score; the other 32 score on popularity, recency, age, and runnability alone until a credible benchmark exists.
+Each category gets a top-500 featured leaderboard. Anything ranked past 500 that still passes a quality threshold lands in `catalog/<cat>/_tail/` for long-tail discoverability. Eight categories anchor on a real, peer-recognised benchmark that contributes 30% of the composite score; the others score on popularity, recency, age, runnability, quality signals, and framework detection.
 
 | # | Category | Benchmark |
 |---|---|---|
@@ -107,9 +123,22 @@ As new public benchmarks land, they get wired into [`catalog/_categories.json`](
   "license": "Apache-2.0",
   "metrics": {
     "stars": 28400,
+    "forks": 3100,
+    "watchers": 280,
+    "open_issues": 412,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
     "downloads_30d": null,
     "last_commit_at": "2026-04-22T14:01:00Z",
-    "first_commit_at": "2023-05-09T00:00:00Z"
+    "first_commit_at": "2023-05-09T00:00:00Z",
+    "contributors_count": 87,
+    "releases_total": 142,
+    "latest_release_at": "2026-04-20T00:00:00Z",
+    "commits_90d": 312,
+    "has_ci": true,
+    "readme_length": 18432,
+    "frameworks": ["mcp"]
   },
   "benchmarks": [
     { "name": "SWE-bench Verified", "score": 26.3, "as_of": "2026-03-15", "source_url": "..." }
@@ -120,20 +149,25 @@ As new public benchmarks land, they get wired into [`catalog/_categories.json`](
   "rank_in_category": 3,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-04-29T00:00:00Z"
+  "last_refreshed_at": "2026-06-07T00:00:00Z",
+  "consecutive_refresh_failures": 0
 }
 ```
 
 ## Submitting an agent
 
-Submissions go through GitHub pull requests. The catalog is a git repository, so the act of adding an agent is the act of opening a PR.
+Two paths. Most submitters want the form.
+
+**Fastest — open an issue:** Use the **[Submit an agent](https://github.com/AllStreets/ONEXUS-Agents/issues/new?template=agent-submission.yml)** issue template. Fill in source, repo, category, license. A workflow fetches the real GitHub/HF metadata, validates, and opens an auto-merging PR. No fork, no clone, no JSON.
+
+**Hand-authored PR:** For larger or custom entries (multi-source, hand-written adapter, benchmark scores):
 
 1. Fork the repo.
 2. Add `catalog/<category>/<your-agent>.json` matching the schema above.
 3. Open a PR using the **Agent submission** template.
-4. CI runs `onexus-agents-validate` against your file. If it passes, an admin reviews and merges.
+4. CI runs `onexus-agents-validate`. If it passes, an admin reviews and merges.
 
-You do *not* need to compute `composite_score` or `rank_in_category` — the daily job recomputes those for everything in the catalog. Hand-authored entries become first-class members of the ranking pool the next day after merge.
+You do *not* need to compute `composite_score`, `rank_in_category`, or any Tier 2 metrics — the daily and weekly jobs recompute those for everything in the catalog. Hand-authored entries become first-class members of the ranking pool the next day after merge.
 
 ## ONEXUS integration
 
@@ -170,41 +204,56 @@ The composite score is fully public. With a benchmark anchor:
 
 ```
 0.30 * benchmark
-+ 0.18 * stars (normalized)
-+ 0.18 * downloads (normalized)
-+ 0.14 * recency (last commit)
-+ 0.05 * age (project maturity)
-+ 0.05 * runnable
-+ 0.10 * reserved (community signal, future)
++ 0.15 * stars (log-normalized)
++ 0.07 * forks (log-normalized)
++ 0.10 * downloads (log-normalized, HF only)
++ 0.13 * recency (last commit, 90-day half-life)
++ 0.05 * age (project maturity, 24-month cap)
++ 0.05 * runnable (binary)
++ 0.15 * quality (composite — see below)
 ```
 
 Without a benchmark anchor:
 
 ```
-0.28 * stars
-+ 0.28 * downloads
-+ 0.22 * recency
-+ 0.07 * age
+0.22 * stars
++ 0.10 * forks
++ 0.15 * downloads
++ 0.20 * recency
++ 0.05 * age
 + 0.05 * runnable
-+ 0.10 * reserved
++ 0.23 * quality
 ```
 
-Agents below rank 100 in their category are dropped at the next daily run and replaced by higher-scoring entrants. Drops are logged in `catalog/_dropped/<date>.json` so the displacement is auditable.
+Then **multiplicative penalties**: `archived` × 0.5, `is_template` × 0.8. An archived 5k-star repo will always rank below a live 1k-star competitor on otherwise-equal signals.
 
-See [`docs/superpowers/specs/2026-04-29-onexus-agents-design.md`](docs/superpowers/specs/2026-04-29-onexus-agents-design.md) for the complete design.
+The `quality` sub-score (0–1) combines: archived flag, fork/template status, semantic identity (HF `library_name`/`pipeline_tag` presence), open-issue activity, watcher count, and **framework detection** (langchain, llamaindex, crewai, autogen, smolagents, dspy, openai-agents-sdk, anthropic-sdk, mcp, transformers, gradio — detected from tags, tagline, and README during the weekly rescan).
+
+Entries ranked past the per-category featured cap (500) that still pass the quality threshold (≥ 0.20 composite) land in `catalog/<cat>/_tail/` — searchable but not on the main category page. Everything else is logged in `catalog/_dropped/<date>.json` so the displacement is fully auditable.
+
+Catalog hygiene: entries that fail to refresh for 28 consecutive nightlies (≈4 weeks of 404, archived, or rate-limited responses) are dropped automatically. A transient outage never removes anything; sustained absence does.
 
 ## Layout
 
 ```
 catalog/         per-category JSON files (the catalog itself)
+  <cat>/         featured entries (top 500 by composite)
+  <cat>/_tail/   long-tail entries (passing quality threshold)
+  _dropped/      audit log of removed slugs per date
 seeds/           hand-curated YAML seeds per category
 adapters/        MCP wrappers for runnable agents
-pipeline/        daily ingestion (Python 3.12)
+pipeline/        ingestion + scoring + reporting (Python 3.12)
   crawlers/      GitHub + Hugging Face fetchers
   benchmarks/    benchmark scrapers
+  budget.py      per-run API budget cap (free-tier safe)
+  ranking.py     composite score + quality sub-score
+  classifier.py  keyword + OpenAI gpt-5.4-mini category classifier
+  frameworks.py  Tier 3 framework detection
+  report.py      daily quality summary
 validator/       schema + PR validation
+reports/         daily quality summaries (one MD per day)
 site/            Astro 4 + Tailwind v4 dashboard
-.github/         workflows + PR templates
+.github/         workflows + issue/PR templates
 docs/            design specs and methodology
 ```
 
@@ -216,11 +265,24 @@ uv venv && source .venv/bin/activate
 uv pip install -e ".[dev]"
 onexus-agents-validate catalog/coding/aider.json
 onexus-agents-nightly --dry-run
+onexus-agents-weekly --dry-run
 
 # Site
 cd site && pnpm install && pnpm dev
 ```
 
+## Pipeline ops
+
+The system runs unattended end-to-end:
+
+- **Nightly 13:00 UTC** — discover + classify + score + report + auto-merge PR
+- **Weekly 17:00 UTC Sundays** — README-aware runnable rescan + Tier 2 metric enrichment + auto-merge PR
+- **Submissions** — issue-form → PR with API-reconciled metadata → auto-merge
+
+Free-tier safe: a hard per-run API budget cap (12,000 GH calls default, raised to 30,000 if a `GH_PAT` secret is set; 5,000 HF; bounded OpenAI call budget). If anything fails — workflow timeout, conflict, OpenAI billing, budget exhaustion — a `bot-failure` GitHub issue auto-opens with the run URL, conclusion, and likely-culprit checklist.
+
 ## License
 
-Apache-2.0. Agent metadata and rankings are publicly redistributable. Each catalogued agent retains its own upstream license — see the `license` field on every catalog entry.
+Apache-2.0. Copyright 2026 AllStreets.
+
+Agent metadata and rankings are publicly redistributable. Each catalogued agent retains its own upstream license — see the `license` field on every catalog entry. The catalog as a whole is free for commercial and non-commercial use under the Apache 2.0 terms, including the patent grant.
