@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://agents.onexus.dev"><img src=".github/assets/hero-dark.svg" alt="ONEXUS / Agents — the catalog of the world's most powerful open-source AI agents" width="100%"/></a>
+<a href="https://onexus-agents.vercel.app"><img src=".github/assets/hero-dark.svg" alt="ONEXUS / Agents — the catalog of the world's most powerful open-source AI agents" width="100%"/></a>
 
 &nbsp;
 
-<a href="https://agents.onexus.dev"><img alt="agents" src="https://img.shields.io/badge/agents-7%2C000%2B-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
-<a href="https://agents.onexus.dev/runnable"><img alt="runnable" src="https://img.shields.io/badge/runnable_via_mcp-660%2B-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
-<a href="https://agents.onexus.dev/catalog"><img alt="categories" src="https://img.shields.io/badge/categories-40-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
+<a href="https://onexus-agents.vercel.app"><img alt="agents" src="https://img.shields.io/badge/agents-7%2C000%2B-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
+<a href="https://onexus-agents.vercel.app/runnable"><img alt="runnable" src="https://img.shields.io/badge/runnable_via_mcp-660%2B-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
+<a href="https://onexus-agents.vercel.app/catalog"><img alt="categories" src="https://img.shields.io/badge/categories-40-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
 <a href="https://github.com/AllStreets/ONEXUS-Agents/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/badge/license-Apache--2.0-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
 <br/>
 <img alt="cadence" src="https://img.shields.io/badge/refresh-13%3A00_UTC_daily_%2B_17%3A00_UTC_sundays-6b7382?style=flat-square&labelColor=07090c"/>
@@ -17,11 +17,11 @@
 &nbsp;
 
 <p>
-  <a href="https://agents.onexus.dev"><strong>Live catalog →</strong></a>
+  <a href="https://onexus-agents.vercel.app"><strong>Live catalog →</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://agents.onexus.dev/runnable"><strong>Runnable now →</strong></a>
+  <a href="https://onexus-agents.vercel.app/runnable"><strong>Runnable now →</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://agents.onexus.dev/methodology"><strong>Methodology →</strong></a>
+  <a href="https://onexus-agents.vercel.app/methodology"><strong>Methodology →</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/AllStreets/ONEXUS-Agents/issues/new?template=agent-submission.yml"><strong>Submit an agent →</strong></a>
 </p>
@@ -70,7 +70,7 @@ flowchart LR
   N7 --> PR((auto-merge PR)):::out
   W3 --> PR
   PR --> V([vercel rebuild]):::out
-  V --> SITE[/agents.onexus.dev/]:::out
+  V --> SITE[/onexus-agents.vercel.app/]:::out
 ```
 
 Every agent in the catalog is a single JSON file under `catalog/<category>/<agent-slug>.json`. **No database.** The git history *is* the audit log.
@@ -360,7 +360,7 @@ Agent metadata and rankings are publicly redistributable. Each catalogued agent 
 
 <sub>
   <strong>ONEXUS / Agents</strong> — agentic discovery, ranking, and dispatch infrastructure for the open web.<br/>
-  <a href="https://agents.onexus.dev">agents.onexus.dev</a> · <a href="https://github.com/AllStreets/ONEXUS">parent</a> · <a href="https://github.com/AllStreets/ONEXUS-Agents/issues">issues</a>
+  <a href="https://onexus-agents.vercel.app">onexus-agents.vercel.app</a> · <a href="https://github.com/AllStreets/ONEXUS">parent</a> · <a href="https://github.com/AllStreets/ONEXUS-Agents/issues">issues</a>
 </sub>
 
 </div>
