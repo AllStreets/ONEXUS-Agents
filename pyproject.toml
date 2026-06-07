@@ -28,14 +28,14 @@ dev = [
 onexus-agents-nightly = "pipeline.nightly:main"
 onexus-agents-weekly = "pipeline.weekly:main"
 onexus-agents-submit = "pipeline.from_submission:main"
-onexus-agents-validate = "validator.validate_submission:main"
+onexus-agents-validate = "pipeline.validator.validate_submission:main"
 
 [build-system]
 requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools.packages.find]
-include = ["pipeline*", "validator*"]
+include = ["pipeline*"]
 
 [tool.ruff]
 line-length = 100
