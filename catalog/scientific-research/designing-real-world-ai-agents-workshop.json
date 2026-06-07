@@ -1,7 +1,7 @@
 {
   "slug": "designing-real-world-ai-agents-workshop",
   "name": "designing-real-world-ai-agents-workshop",
-  "tagline": "Hands-on workshop: Build a multi-agent AI system from scratch — Deep Research Agent + Writing Workflow served as MCP servers. Includes code, slides, and video",
+  "tagline": "Hands-on workshop: Build a multi-agent AI system from scratch \u2014 Deep Research Agent + Writing Workflow served as MCP servers. Includes code, slides, and video",
   "category": "scientific-research",
   "tags": [
     "ai-agent",
@@ -48,8 +48,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.6046,
   "rank_in_category": 57,
   "discovered_via": "auto",

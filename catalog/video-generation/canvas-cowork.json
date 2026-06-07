@@ -1,7 +1,7 @@
 {
   "slug": "canvas-cowork",
   "name": "canvas-cowork",
-  "tagline": "Cowork on a spatial canvas from the CLI — create canvases, generate images/text/video/agent responses, read results, recall past work, and manage nodes",
+  "tagline": "Cowork on a spatial canvas from the CLI \u2014 create canvases, generate images/text/video/agent responses, read results, recall past work, and manage nodes",
   "category": "video-generation",
   "tags": [
     "agent-skills",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.4468,
   "rank_in_category": 102,
   "discovered_via": "auto",

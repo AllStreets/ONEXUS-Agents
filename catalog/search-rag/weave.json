@@ -1,7 +1,7 @@
 {
   "slug": "weave",
   "name": "Weave",
-  "tagline": "A highly efficient, secure, and stable application development platform with excellent performance, easy scalability, and deep integration of AI capabilities such as LLM, AI Chat, RAG, and Agents.高效、安",
+  "tagline": "A highly efficient, secure, and stable application development platform with excellent performance, easy scalability, and deep integration of AI capabilities such as LLM, AI Chat, RAG, and Agents.\u9ad8\u6548\u3001\u5b89",
   "category": "search-rag",
   "tags": [
     "agent",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.4904,
   "rank_in_category": 92,
   "discovered_via": "auto",

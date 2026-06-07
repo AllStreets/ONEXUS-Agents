@@ -1,7 +1,7 @@
 {
   "slug": "memu",
   "name": "memU",
-  "tagline": "The memory harness for proactive AI agents — structured storage, intent capture, 10x token reduction.",
+  "tagline": "The memory harness for proactive AI agents \u2014 structured storage, intent capture, 10x token reduction.",
   "category": "knowledge-management",
   "tags": [
     "agent-memory",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.7055,
   "rank_in_category": 4,
   "discovered_via": "auto",

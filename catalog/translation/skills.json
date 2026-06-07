@@ -1,7 +1,7 @@
 {
   "slug": "skills",
   "name": "skills",
-  "tagline": "Official AI agent skills for Better i18n — best practices for i18n implementation, translation workflows, and localization automation with Claude, GPT, and other AI assistants",
+  "tagline": "Official AI agent skills for Better i18n \u2014 best practices for i18n implementation, translation workflows, and localization automation with Claude, GPT, and other AI assistants",
   "category": "translation",
   "tags": [
     "agent",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.3591,
   "rank_in_category": 94,
   "discovered_via": "auto",

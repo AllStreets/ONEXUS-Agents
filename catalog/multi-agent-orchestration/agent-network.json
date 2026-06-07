@@ -1,7 +1,7 @@
 {
   "slug": "agent-network",
   "name": "agent-network",
-  "tagline": "多 Agent，一行命令。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM (Anthropic / OpenAI / xAI / MiniMax / DeepSeek / GLM / Kimi / 书生 / 小米 MiMo) — 一个 npm 包，自带 Web Dashboard，本地优先，Apach",
+  "tagline": "\u591a Agent\uff0c\u4e00\u884c\u547d\u4ee4\u3002Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ \u5bb6 LLM (Anthropic / OpenAI / xAI / MiniMax / DeepSeek / GLM / Kimi / \u4e66\u751f / \u5c0f\u7c73 MiMo) \u2014 \u4e00\u4e2a npm \u5305\uff0c\u81ea\u5e26 Web Dashboard\uff0c\u672c\u5730\u4f18\u5148\uff0cApach",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-network",
@@ -52,8 +52,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.3406,
   "rank_in_category": 282,
   "discovered_via": "auto",

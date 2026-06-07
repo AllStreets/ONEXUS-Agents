@@ -1,7 +1,7 @@
 {
   "slug": "cog",
   "name": "cog",
-  "tagline": "The Cog — AI-native IDE for orchestrating agents across any CLI. Multi-agent workspace with 25+ MCP tools, remote view, 3DS client, community presets, and more.",
+  "tagline": "The Cog \u2014 AI-native IDE for orchestrating agents across any CLI. Multi-agent workspace with 25+ MCP tools, remote view, 3DS client, community presets, and more.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agents",
@@ -49,8 +49,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.3172,
   "rank_in_category": 329,
   "discovered_via": "auto",

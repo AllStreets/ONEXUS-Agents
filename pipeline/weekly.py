@@ -29,7 +29,7 @@ from rich.console import Console
 
 from pipeline.budget import from_env as budget_from_env
 from pipeline.budget import set_budget
-from pipeline.build import detect_mcp_runnability
+from pipeline.build import apply_mcp_framework_runnability, detect_mcp_runnability
 from pipeline.crawlers import github as gh
 from pipeline.frameworks import detect_frameworks
 from pipeline.schema import Agent
@@ -83,6 +83,16 @@ def _enrich(client: httpx.Client, agent: Agent) -> None:
             tags=agent.tags, tagline=agent.tagline, readme=readme
         )
         m.frameworks = sorted(set(m.frameworks) | set(readme_hits))
+        # If README enrichment freshly detected `mcp` as a framework, make
+        # sure runnable + adapter_ref get the same treatment build.py applies
+        # to brand-new entries. Keeps /runnable count consistent with the
+        # `mcp` framework histogram.
+        new_runnable, new_adapter = apply_mcp_framework_runnability(
+            agent.runnable, agent.adapter_ref, m.frameworks
+        )
+        if new_runnable and not agent.runnable:
+            agent.runnable = True
+            agent.adapter_ref = new_adapter
 
 
 def _stalest_entries(paths: list[Path], n: int) -> list[Path]:

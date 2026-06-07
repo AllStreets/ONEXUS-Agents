@@ -1,7 +1,7 @@
 {
   "slug": "research-harness",
   "name": "research-harness",
-  "tagline": "做证据可信、过程可追、自主优化的长程自动化 AI 科研工具。",
+  "tagline": "\u505a\u8bc1\u636e\u53ef\u4fe1\u3001\u8fc7\u7a0b\u53ef\u8ffd\u3001\u81ea\u4e3b\u4f18\u5316\u7684\u957f\u7a0b\u81ea\u52a8\u5316 AI \u79d1\u7814\u5de5\u5177\u3002",
   "category": "scientific-research",
   "tags": [
     "ai-agents",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.5384,
   "rank_in_category": 104,
   "discovered_via": "auto",

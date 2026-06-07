@@ -1,7 +1,7 @@
 {
   "slug": "jarvis-registry",
   "name": "jarvis-registry",
-  "tagline": "Connect any AI copilot or autonomous agent to your enterprise tools — through a single, secure MCP/Agent gateway with built-in identity, access control, and full observability.",
+  "tagline": "Connect any AI copilot or autonomous agent to your enterprise tools \u2014 through a single, secure MCP/Agent gateway with built-in identity, access control, and full observability.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent",
@@ -47,8 +47,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.4294,
   "rank_in_category": 123,
   "discovered_via": "auto",

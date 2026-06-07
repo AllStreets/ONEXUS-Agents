@@ -1,7 +1,7 @@
 {
   "slug": "mcp",
   "name": "mcp",
-  "tagline": "Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.",
+  "tagline": "Official Microsoft Learn MCP Server and CLI tool \u2013 powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.",
   "category": "search-rag",
   "tags": [
     "ai",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.588,
   "rank_in_category": 41,
   "discovered_via": "auto",

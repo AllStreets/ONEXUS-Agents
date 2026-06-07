@@ -1,7 +1,7 @@
 {
   "slug": "ktx",
   "name": "ktx",
-  "tagline": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, and any AI agent to query data accurately through MCP with skills, memory and a semantic layer",
+  "tagline": "ktx is an executable context layer for data and analytics agents \ud83d\udc19 Allow Claude Code, Codex, and any AI agent to query data accurately through MCP with skills, memory and a semantic layer",
   "category": "data-engineering",
   "tags": [
     "agent",
@@ -51,8 +51,8 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.6116,
   "rank_in_category": 55,
   "discovered_via": "auto",
