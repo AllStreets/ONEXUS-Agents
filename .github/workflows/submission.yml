@@ -1,0 +1,108 @@
+name: submission
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  process:
+    if: github.event.label.name == 'agent-submission'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+
+      - name: write issue body to disk
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: printf "%s" "$ISSUE_BODY" > /tmp/issue-body.md
+
+      - name: process submission
+        id: process
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          onexus-agents-submit \
+            --issue-body-file /tmp/issue-body.md \
+            --output-summary-file /tmp/summary.md
+
+      - name: validate created entry
+        run: onexus-agents-validate
+
+      - name: open auto-merge PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUM: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: |
+          git config user.name "onexus-agents-bot"
+          git config user.email "bot@agents.onexus.dev"
+
+          if [ -z "$(git status --porcelain catalog/)" ]; then
+            gh issue comment "$ISSUE_NUM" --body "Submission produced no catalog change — entry might already exist."
+            exit 1
+          fi
+
+          BRANCH="bot/submission-${ISSUE_NUM}"
+          git checkout -B "$BRANCH"
+          git add catalog/
+          git commit -m "chore(submission): $ISSUE_TITLE (closes #${ISSUE_NUM})"
+          git push -fu origin "$BRANCH"
+
+          BODY=$(cat /tmp/summary.md)
+          OPEN_PR=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number // empty')
+          if [ -z "$OPEN_PR" ]; then
+            gh pr create \
+              --base main \
+              --head "$BRANCH" \
+              --title "submission: $ISSUE_TITLE" \
+              --body "Auto-generated from issue #${ISSUE_NUM}.
+
+          $BODY"
+          fi
+
+          for i in $(seq 1 24); do
+            STATE=$(gh pr view "$BRANCH" --json mergeStateStatus --jq '.mergeStateStatus')
+            if [ "$STATE" != "UNKNOWN" ]; then
+              echo "merge state ready: $STATE"
+              break
+            fi
+            sleep 5
+          done
+
+          gh pr merge "$BRANCH" --squash --auto
+
+          gh issue comment "$ISSUE_NUM" --body "Submission accepted — opened auto-merge PR. Branch: \`$BRANCH\`"
+
+      - name: report failure on issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUM: ${{ github.event.issue.number }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          gh issue comment "$ISSUE_NUM" --body "Submission processing failed. See the run log for details: $RUN_URL
+
+          If the issue is fixable (typo in slug, wrong category), edit the form and remove + re-add the \`agent-submission\` label to retry."

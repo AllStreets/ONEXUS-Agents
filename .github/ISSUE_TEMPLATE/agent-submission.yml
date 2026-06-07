@@ -1,0 +1,112 @@
+name: Submit an agent
+description: Add an open-source agent to the catalog without needing to fork.
+title: "submission: <slug>"
+labels: ["agent-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill out the form below. A workflow will reconcile your input with the
+        actual GitHub/Hugging Face metadata, validate the resulting catalog
+        entry, and (if it passes) open a pull request that auto-merges.
+
+        If anything fails the bot will comment on this issue with what to fix.
+
+  - type: dropdown
+    id: source-type
+    attributes:
+      label: Source
+      description: Where is the agent hosted?
+      options:
+        - github
+        - huggingface
+    validations:
+      required: true
+
+  - type: input
+    id: repo
+    attributes:
+      label: Repository (owner/name) or model id
+      description: |
+        For GitHub: `owner/name` — e.g. `AllStreets/ONEXUS-Agents`.
+        For Hugging Face: model id — e.g. `meta-llama/Llama-3.2-3B-Instruct`.
+      placeholder: owner/name
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Pick the closest match. The classifier may correct this on first nightly.
+      options:
+        - audio-speech
+        - bioinformatics
+        - browser-automation
+        - coding
+        - content-writing
+        - cooking
+        - customer-support
+        - data-engineering
+        - data-science-ml
+        - desktop-os-automation
+        - devops-sre
+        - document-processing
+        - e-commerce
+        - education-tutoring
+        - email-scheduling
+        - financial-modeling
+        - game-playing
+        - healthcare
+        - image-generation
+        - knowledge-management
+        - legal-research
+        - marketing
+        - multi-agent-orchestration
+        - music
+        - pdf-forms
+        - real-estate
+        - reasoning-math
+        - robotics
+        - sales-crm
+        - scientific-research
+        - search-rag
+        - security-pentesting
+        - social-media
+        - spreadsheet-excel
+        - sql-analytics
+        - translation
+        - travel-planning
+        - video-generation
+        - web-dev
+        - "3d-cad"
+    validations:
+      required: true
+
+  - type: input
+    id: tagline
+    attributes:
+      label: Tagline (optional)
+      description: One short sentence overriding the auto-fetched description. Leave blank to use the repo description.
+      placeholder: An open-source pair programmer with deep git awareness.
+
+  - type: dropdown
+    id: runnable
+    attributes:
+      label: Runnable via MCP?
+      description: Set yes ONLY if the repo ships an MCP server you can speak to over stdio.
+      options:
+        - "no"
+        - "yes (mcp/stdio)"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Acknowledgements
+      options:
+        - label: I am the maintainer, or this is a public project I have no ownership claim over.
+          required: true
+        - label: I have read the project's license is one this catalog accepts.
+          required: true

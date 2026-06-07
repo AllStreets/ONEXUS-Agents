@@ -26,6 +26,8 @@ dev = [
 
 [project.scripts]
 onexus-agents-nightly = "pipeline.nightly:main"
+onexus-agents-weekly = "pipeline.weekly:main"
+onexus-agents-submit = "pipeline.from_submission:main"
 onexus-agents-validate = "validator.validate_submission:main"
 
 [build-system]
