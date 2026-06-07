@@ -8,6 +8,7 @@ in catalog/_dropped/<date>.json for auditability.
 from __future__ import annotations
 
 import json
+import os
 from collections import defaultdict
 from datetime import UTC, datetime
 from pathlib import Path
@@ -45,6 +46,12 @@ TOP_N = 500
 # specific categories. Discovery overflow past the cap that still passes
 # TAIL_QUALITY_THRESHOLD goes to catalog/<cat>/_tail/.
 PER_CATEGORY_FEATURED_CAP: dict[str, int] = {}
+
+# Hard cap on per-run classifier (OpenAI) calls. Stops runaway cost if a
+# future query expansion makes broad-discovery surface explode; once hit,
+# subsequent broad-query repos keep their query-origin category. Tune via
+# ONEXUS_CLASSIFIER_MAX env var if you want more/fewer reclassifications.
+CLASSIFIER_MAX_PER_RUN = 2000
 # Entries past the featured cap that still pass the quality threshold go to
 # catalog/<cat>/_tail/ — visible to site loaders that opt in but skipped by
 # the validator's `_`-dir filter (PR #44). Entries below threshold land in
@@ -193,7 +200,9 @@ def _discover(
     }
     classifier_ok = 0
     classifier_err = 0
+    classifier_capped = 0
     classifier_first_errors: list[str] = []
+    classifier_max = int(os.environ.get("ONEXUS_CLASSIFIER_MAX") or CLASSIFIER_MAX_PER_RUN)
     for cat in categories.categories:
         curated_queries = list(cat.github_search_queries)
         broad_queries = _broaden_queries(cat)
@@ -233,7 +242,7 @@ def _discover(
                 # category via keyword classifier, falling back to OpenAI
                 # gpt-5.4-mini only for the ambiguous cases.
                 actual_cat = cat.slug
-                if is_broad:
+                if is_broad and (classifier_ok + classifier_err) < classifier_max:
                     text = f"{agent.tagline} | tags: {' '.join(agent.tags)}"
                     result = classify_with_hint(text, categories, cat.slug)
                     if result.reason.startswith("openai:"):
@@ -248,10 +257,13 @@ def _discover(
                     if result.category and result.category != cat.slug:
                         agent.category = result.category
                         actual_cat = result.category
+                elif is_broad:
+                    classifier_capped += 1
                 by_cat[actual_cat].append(agent)
         if classifier_ok or classifier_err:
             console.print(
                 f"[dim]classifier · openai ok={classifier_ok} err={classifier_err}"
+                + (f" capped={classifier_capped}" if classifier_capped else "")
             )
     for msg in classifier_first_errors:
         console.print(f"[yellow]classifier first errors · {msg}")
