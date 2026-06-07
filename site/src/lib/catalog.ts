@@ -148,6 +148,21 @@ export function topAgents(n: number): Agent[] {
     .slice(0, n);
 }
 
+export function runnableAgents(): Agent[] {
+  return loadAllAgents()
+    .filter((a) => a.runnable)
+    .sort((a, b) => b.composite_score - a.composite_score);
+}
+
+export function runnableAgentsByAdapter(): Record<string, Agent[]> {
+  const out: Record<string, Agent[]> = {};
+  for (const a of runnableAgents()) {
+    const key = a.adapter_ref ?? "unknown";
+    (out[key] ??= []).push(a);
+  }
+  return out;
+}
+
 /**
  * Lazily load the tail tier for a single category from catalog/<slug>/_tail/.
  *

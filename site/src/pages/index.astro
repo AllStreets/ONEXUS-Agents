@@ -2,13 +2,20 @@
 import Base from "@/layouts/Base.astro";
 import Icon from "@/components/Icon.astro";
 import AgentRow from "@/components/AgentRow.astro";
-import { loadCategories, totalAgentCount, topAgents, categoryCounts } from "@/lib/catalog";
+import {
+  loadCategories,
+  totalAgentCount,
+  topAgents,
+  categoryCounts,
+  runnableAgents,
+} from "@/lib/catalog";
 
 const cats = loadCategories();
 const total = totalAgentCount();
 const top = topAgents(8);
 const counts = categoryCounts();
 const categoriesWithBench = cats.categories.filter((c) => c.benchmark_anchor);
+const runnableCount = runnableAgents().length;
 ---
 
 <Base current="">
@@ -30,7 +37,9 @@ const categoriesWithBench = cats.categories.filter((c) => c.benchmark_anchor);
         <p class="text-lg text-[var(--color-fg-dim)] leading-relaxed max-w-2xl mb-8">
           ONEXUS-Agents indexes GitHub and Hugging Face every night, ranks every candidate against a
           transparent composite of popularity, recency, runnability, and real benchmarks, and
-          publishes the top 250 agents per category as static JSON.
+          publishes the top 500 agents per category as static JSON — plus the
+          <a href="/runnable" class="text-[var(--color-accent)] hover:underline">{runnableCount} you can run today</a>
+          via MCP.
         </p>
 
         <div class="flex flex-wrap items-center gap-3">
@@ -42,6 +51,13 @@ const categoriesWithBench = cats.categories.filter((c) => c.benchmark_anchor);
             Browse catalog
           </a>
           <a
+            href="/runnable"
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-md border border-[var(--color-border)] text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] hover:border-[var(--color-accent)] font-mono text-sm transition-colors"
+          >
+            <Icon name="play" size="sm" />
+            Runnable now
+          </a>
+          <a
             href="/methodology"
             class="inline-flex items-center gap-2 px-4 py-2 rounded-md border border-[var(--color-border)] text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] hover:border-[var(--color-accent)] font-mono text-sm transition-colors"
           >
@@ -50,10 +66,14 @@ const categoriesWithBench = cats.categories.filter((c) => c.benchmark_anchor);
           </a>
         </div>
 
-        <div class="mt-12 grid grid-cols-3 gap-6 max-w-lg">
+        <div class="mt-12 grid grid-cols-2 md:grid-cols-4 gap-6 max-w-2xl">
           <div>
-            <div class="font-mono text-3xl text-[var(--color-fg)]">{total}</div>
+            <div class="font-mono text-3xl text-[var(--color-fg)]">{total.toLocaleString()}</div>
             <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">agents</div>
+          </div>
+          <div>
+            <div class="font-mono text-3xl text-[var(--color-accent)]">{runnableCount}</div>
+            <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">runnable</div>
           </div>
           <div>
             <div class="font-mono text-3xl text-[var(--color-fg)]">{cats.categories.length}</div>
@@ -101,8 +121,8 @@ const categoriesWithBench = cats.categories.filter((c) => c.benchmark_anchor);
 
   <section class="max-w-7xl mx-auto px-6 py-16 border-t border-[var(--color-border)]">
     <div class="mb-8">
-      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-1">40 categories</h2>
-      <h3 class="text-2xl">Pick a task. Get the top 250.</h3>
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-1">{cats.categories.length} categories</h2>
+      <h3 class="text-2xl">Pick a task. Get the top 500.</h3>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
