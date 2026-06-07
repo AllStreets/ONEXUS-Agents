@@ -121,6 +121,9 @@ def write_report(
         delta = f"{'+' if d > 0 else ''}{d}" if d else "—"
         lines.append(f"| `{cat}`{marker} | {n} | {delta} |")
 
+    at_risk = sum(
+        1 for a in new_agents if (a.consecutive_refresh_failures or 0) >= 14
+    )
     lines += [
         "",
         "## Pipeline health",
@@ -128,6 +131,8 @@ def write_report(
         f"- GH API budget remaining: **{stats.get('budget_remaining_gh', 0):,}**",
         f"- HF API budget remaining: **{stats.get('budget_remaining_hf', 0):,}**",
         f"- Categories at cap ({cap_per_cat}): **{len(cats_at_cap)}** — " + (", ".join(f"`{c}`" for c in cats_at_cap) or "none"),
+        f"- Stale entries dropped this run: **{stats.get('stale_dropped', 0)}**",
+        f"- Stale entries at risk (≥14 consecutive failures): **{at_risk}**",
         "",
     ]
 
