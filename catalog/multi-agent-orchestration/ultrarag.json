@@ -1,0 +1,63 @@
+{
+  "slug": "ultrarag",
+  "name": "UltraRAG",
+  "tagline": "A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "deepseek",
+    "demo",
+    "easy",
+    "embedding",
+    "flask",
+    "gpt",
+    "huggingface-transformers",
+    "llm",
+    "mcp",
+    "multimodal"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OpenBMB",
+    "url": "https://github.com/OpenBMB"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OpenBMB/UltraRAG",
+    "huggingface": null,
+    "homepage": "https://ultrarag.github.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5582,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T06:46:15Z",
+    "first_commit_at": "2025-01-16T11:03:06Z",
+    "forks": 427,
+    "watchers": 40,
+    "open_issues": 10,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp",
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4652,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:02:03.681307Z",
+  "last_refreshed_at": "2026-06-07T15:18:41.616050Z",
+  "consecutive_refresh_failures": 0
+}

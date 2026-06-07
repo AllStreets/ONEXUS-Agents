@@ -24,13 +24,13 @@
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 63840,
+    "stars": 63843,
     "downloads_30d": null,
     "last_commit_at": "2026-06-04T23:39:01Z",
     "first_commit_at": "2023-07-14T07:10:44Z",
     "forks": 5549,
     "watchers": 462,
-    "open_issues": 333,
+    "open_issues": 332,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,9 +54,10 @@
   ],
   "runnable": true,
   "adapter_ref": "adapters/open-interpreter/mcp.json",
-  "composite_score": 0.6212,
+  "composite_score": 0.621,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-06-07T09:31:58.554235Z"
+  "last_refreshed_at": "2026-06-07T14:51:49.444669Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,52 @@
+{
+  "slug": "compound-engineering-plugin",
+  "name": "compound-engineering-plugin",
+  "tagline": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "compound",
+    "engineering"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "EveryInc",
+    "url": "https://github.com/EveryInc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "EveryInc/compound-engineering-plugin",
+    "huggingface": null,
+    "homepage": "https://every.to/guides/compound-engineering"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 20294,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T23:36:01Z",
+    "first_commit_at": "2025-10-09T20:37:38Z",
+    "forks": 1510,
+    "watchers": 104,
+    "open_issues": 90,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4546,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:00:21.421306Z",
+  "last_refreshed_at": "2026-06-07T15:16:03.535170Z",
+  "consecutive_refresh_failures": 0
+}

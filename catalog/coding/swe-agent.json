@@ -25,11 +25,11 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 19442,
+    "stars": 19448,
     "downloads_30d": null,
     "last_commit_at": "2026-06-06T01:23:41Z",
     "first_commit_at": "2024-04-02T08:57:35Z",
-    "forks": 2117,
+    "forks": 2119,
     "watchers": 110,
     "open_issues": 25,
     "archived": false,
@@ -55,9 +55,10 @@
   ],
   "runnable": true,
   "adapter_ref": "adapters/swe-agent/mcp.json",
-  "composite_score": 0.5888,
+  "composite_score": 0.5886,
   "rank_in_category": 2,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-06-07T09:31:19.125437Z"
+  "last_refreshed_at": "2026-06-07T14:51:09.809048Z",
+  "consecutive_refresh_failures": 0
 }
