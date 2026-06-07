@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://agents.onexus.dev"><img src="docs/hero-dark.svg" alt="ONEXUS / Agents — the catalog of the world's most powerful open-source AI agents" width="100%"/></a>
+<a href="https://agents.onexus.dev"><img src=".github/assets/hero-dark.svg" alt="ONEXUS / Agents — the catalog of the world's most powerful open-source AI agents" width="100%"/></a>
 
 &nbsp;
 
@@ -291,13 +291,14 @@ Combines: `archived` flag, `is_fork` / `is_template` flags, semantic identity (H
 │   ├── _dropped/             audit log of removed slugs per date
 │   └── _categories.json      category definitions + benchmark anchors
 │
-├── seeds/                    hand-curated YAML seeds per category
 ├── adapters/                 MCP wrappers for runnable agents
 ├── reports/                  daily quality summaries (one MD per day)
 │
 ├── pipeline/                 ingestion · scoring · reporting · classifier
 │   ├── crawlers/             GitHub + Hugging Face fetchers
 │   ├── benchmarks/           benchmark scrapers
+│   ├── seeds/                hand-curated YAML seeds per category
+│   ├── validator/            schema + submission validation
 │   ├── budget.py             per-run API budget cap (free-tier safe)
 │   ├── classifier.py         keyword + OpenAI gpt-5.4-mini category classifier
 │   ├── frameworks.py         Tier 3 framework detection
@@ -306,10 +307,9 @@ Combines: `archived` flag, `is_fork` / `is_template` flags, semantic identity (H
 │   ├── nightly.py            13:00 UTC entry point
 │   └── weekly.py             17:00 UTC Sunday entry point
 │
-├── validator/                schema + submission validation
 ├── site/                     Astro 4 + Tailwind v4 dashboard
-├── .github/                  workflows + issue/PR templates
-└── docs/                     design specs + methodology
+├── .github/                  workflows · issue/PR templates · README assets
+└── docs/                     design specs + migration notes
 ```
 
 ---

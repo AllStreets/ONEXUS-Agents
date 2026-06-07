@@ -23,7 +23,7 @@ cd ~/Downloads/ONEXUS-Agents
 
 # 3. Bootstrap (installs Homebrew, python@3.12, node, pnpm, gh,
 #    plus pipeline + site deps, then runs a validator smoke check).
-./scripts/setup-new-mac.sh
+./docs/setup-new-mac.sh
 ```
 
 That gets you a working pipeline + site. The script is idempotent — re-run it
