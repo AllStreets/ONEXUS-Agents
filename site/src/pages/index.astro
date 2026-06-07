@@ -25,7 +25,7 @@ const runnableCount = runnableAgents().length;
         <div class="flex items-center gap-2 mb-6">
           <span class="badge badge-accent">
             <Icon name="sparkles" size="sm" />
-            <span>updated daily · 13:00 UTC</span>
+            <span>nightly 13:00 UTC · weekly rescan Sundays</span>
           </span>
         </div>
 
@@ -36,8 +36,8 @@ const runnableCount = runnableAgents().length;
 
         <p class="text-lg text-[var(--color-fg-dim)] leading-relaxed max-w-2xl mb-8">
           ONEXUS-Agents indexes GitHub and Hugging Face every night, ranks every candidate against a
-          transparent composite of popularity, recency, runnability, and real benchmarks, and
-          publishes the top 500 agents per category as static JSON — plus the
+          transparent composite of popularity, recency, runnability, framework signals, quality, and real benchmarks.
+          Every kept agent — featured or long tail — gets its own page. Plus the
           <a href="/runnable" class="text-[var(--color-accent)] hover:underline">{runnableCount} you can run today</a>
           via MCP.
         </p>

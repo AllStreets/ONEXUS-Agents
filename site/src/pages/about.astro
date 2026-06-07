@@ -17,21 +17,21 @@ import Icon from "@/components/Icon.astro";
         Most catalogs are static blog posts or curated lists that go stale within a month.
       </p>
       <p class="text-[var(--color-fg-dim)]">
-        ONEXUS-Agents is built to keep up: a daily crawl, a transparent score,
-        a strict top-250-per-category cutoff, and the full git history as audit trail.
+        ONEXUS-Agents is built to keep up: a nightly crawl, a weekly rescan, a transparent score, every kept agent on its own page, and the full git history as audit trail.
       </p>
     </section>
 
     <section class="mb-10">
-      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Two tiers, one catalog</h2>
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Indexed vs. runnable</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
         <div class="panel p-5">
           <div class="font-mono text-[var(--color-fg)] mb-2 flex items-center gap-2">
-            <Icon name="list" size="sm" />Discovery
+            <Icon name="list" size="sm" />Indexed
           </div>
           <p class="text-sm text-[var(--color-fg-dim)]">
-            Every agent we find that fits a category gets cataloged.
-            You can browse, compare, and link straight to the source.
+            Every agent we discover that fits a category gets its own JSON + page.
+            Browse, compare, link straight to the source. Top 500 per category form the featured ranked set;
+            the long tail is searchable and addressable at the same URL shape.
           </p>
         </div>
         <div class="panel p-5">
@@ -39,7 +39,8 @@ import Icon from "@/components/Icon.astro";
             <Icon name="play" size="sm" class="text-[var(--color-accent)]" />Runnable
           </div>
           <p class="text-sm text-[var(--color-fg-dim)]">
-            A subset are marked <code class="mono">runnable: true</code> with a real MCP adapter.
+            A subset are marked <code class="mono">runnable: true</code> with an <code class="mono">adapter_ref</code>.
+            Any agent flagged with the <code class="mono">mcp</code> framework is automatically runnable.
             ONEXUS reads the catalog and dispatches to these directly.
           </p>
         </div>
@@ -51,12 +52,16 @@ import Icon from "@/components/Icon.astro";
       <ul class="grid grid-cols-2 gap-3 font-mono text-sm">
         <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">site</span> · Astro 4 + Tailwind v4</li>
         <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">pipeline</span> · Python 3.12 + httpx</li>
-        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">ranking</span> · custom composite</li>
-        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">classification</span> · keyword + Claude Haiku</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">ranking</span> · custom composite + quality sub-score</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">classification</span> · keyword + OpenAI gpt-5.4-mini</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">framework detection</span> · langchain · crewai · mcp · 8 more</li>
         <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">storage</span> · git (catalog/*.json)</li>
-        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">scheduling</span> · GitHub Actions cron</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">nightly</span> · GitHub Actions · 13:00 UTC</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">weekly rescan</span> · GitHub Actions · 17:00 UTC Sun</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">submissions</span> · issue form → auto-merge PR</li>
         <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">hosting</span> · Vercel (auto-deploy)</li>
         <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">bridge</span> · MCP-first</li>
+        <li class="panel p-3"><span class="text-[var(--color-fg-mute)]">audit</span> · daily report + bot-failure issues</li>
       </ul>
     </section>
 
