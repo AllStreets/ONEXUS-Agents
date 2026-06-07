@@ -37,6 +37,7 @@ export type Metrics = {
   commits_90d?: number | null;
   has_ci?: boolean | null;
   readme_length?: number | null;
+  frameworks?: string[];
 };
 
 export type Benchmark = {

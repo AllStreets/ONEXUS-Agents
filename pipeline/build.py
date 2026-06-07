@@ -7,6 +7,7 @@ from datetime import UTC, datetime
 
 from pipeline.crawlers import github as gh
 from pipeline.crawlers import huggingface as hf
+from pipeline.frameworks import detect_frameworks
 from pipeline.schema import Agent, Author, Metrics, Source
 
 UTC_NOW = lambda: datetime.now(UTC)  # noqa: E731
@@ -107,6 +108,10 @@ def build_from_github(
             archived=meta.get("archived"),
             is_fork=meta.get("is_fork"),
             is_template=meta.get("is_template"),
+            frameworks=detect_frameworks(
+                tags=meta["topics"],
+                tagline=(notes or meta["description"] or name),
+            ),
         ),
         benchmarks=[],
         runnable=runnable,
@@ -166,6 +171,10 @@ def build_from_huggingface(
             first_commit_at=meta["first_commit_at"],
             library_name=meta.get("library_name"),
             pipeline_tag=meta.get("pipeline_tag"),
+            frameworks=detect_frameworks(
+                tags=meta["tags"],
+                tagline=(notes or f"{model_id} — {meta.get('pipeline_tag', '')}"),
+            ),
         ),
         benchmarks=[],
         runnable=runnable,
