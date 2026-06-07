@@ -31,6 +31,7 @@ from pipeline.budget import from_env as budget_from_env
 from pipeline.budget import set_budget
 from pipeline.build import detect_mcp_runnability
 from pipeline.crawlers import github as gh
+from pipeline.frameworks import detect_frameworks
 from pipeline.schema import Agent
 from pipeline.store import iter_catalog_files, load_agent_file
 
@@ -76,6 +77,12 @@ def _enrich(client: httpx.Client, agent: Agent) -> None:
     readme = gh.fetch_readme(client, repo)
     if readme is not None:
         m.readme_length = len(readme)
+        # README-aware framework detection refines what nightly's tag/tagline
+        # pass already populated. Union — never demote a tag-derived hit.
+        readme_hits = detect_frameworks(
+            tags=agent.tags, tagline=agent.tagline, readme=readme
+        )
+        m.frameworks = sorted(set(m.frameworks) | set(readme_hits))
 
 
 def _stalest_entries(paths: list[Path], n: int) -> list[Path]:

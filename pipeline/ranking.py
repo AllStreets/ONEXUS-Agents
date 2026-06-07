@@ -89,7 +89,7 @@ def benchmark_score(agent: Agent, category: Category) -> float | None:
 
 
 def quality_score(m: Metrics) -> float:
-    """Composite 0-1 quality signal from Tier 1 metadata.
+    """Composite 0-1 quality signal from Tier 1+3 metadata.
 
     Starts at a neutral 0.5, then nudges up/down based on signal presence.
     A fully-unknown agent stays at 0.5 so the catalog isn't punished for
@@ -102,6 +102,11 @@ def quality_score(m: Metrics) -> float:
     # surface-area, not just hosted weights.
     if m.library_name or m.pipeline_tag:
         q += 0.15
+    # Tier 3: framework detection is a strong "this is a real agent built
+    # on a known stack" signal. We cap at +0.10 even when multiple are
+    # detected so a kitchen-sink repo doesn't get a runaway boost.
+    if m.frameworks:
+        q += 0.10
     # Active maintenance proxy: any open issues == anyone is filing them.
     # We treat unknown (None) as neutral.
     if m.open_issues is not None and m.open_issues > 0:

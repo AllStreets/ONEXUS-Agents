@@ -55,6 +55,11 @@ const ageDays = agent.metrics.first_commit_at
               <Icon name="play" size="sm" />runnable via MCP
             </span>
           )}
+          {(agent.metrics.frameworks ?? []).map((fw) => (
+            <span class="badge" title="Detected framework">
+              <Icon name="code" size="sm" />{fw}
+            </span>
+          ))}
           <span class="badge"><Icon name="check" size="sm" />{agent.license}</span>
           {agent.tags.map((t) => <span class="badge">{t}</span>)}
         </div>

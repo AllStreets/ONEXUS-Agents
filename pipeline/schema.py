@@ -42,6 +42,11 @@ class Metrics(BaseModel):
     commits_90d: int | None = None
     has_ci: bool | None = None
     readme_length: int | None = None
+    # Tier 3: derived from tags/tagline/README — no extra API call.
+    # Slugs of detected agent frameworks (langchain, crewai, etc.). Populated
+    # at build time from topics/tags + tagline, enriched during weekly rescan
+    # via README pattern matching.
+    frameworks: list[str] = Field(default_factory=list)
 
 
 class Benchmark(BaseModel):
