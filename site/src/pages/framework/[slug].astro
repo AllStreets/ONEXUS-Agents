@@ -2,36 +2,27 @@
 import Base from "@/layouts/Base.astro";
 import Icon from "@/components/Icon.astro";
 import AgentRow from "@/components/AgentRow.astro";
-import { loadCategories, agentsByCategory, categoryBySlug } from "@/lib/catalog";
-import { categoryGlyph } from "@/lib/format";
-import { FRAMEWORK_BY_SLUG } from "@/lib/frameworks";
+import { agentsByFramework, frameworkCounts } from "@/lib/catalog";
+import { FRAMEWORKS, FRAMEWORK_BY_SLUG } from "@/lib/frameworks";
 
 export function getStaticPaths() {
-  const cats = loadCategories();
-  return cats.categories.map((c) => ({ params: { category: c.slug } }));
+  return FRAMEWORKS.map((f) => ({ params: { slug: f.slug } }));
 }
 
-const { category: slug } = Astro.params;
-const category = categoryBySlug(slug!);
-if (!category) throw new Error(`Unknown category: ${slug}`);
-const agents = agentsByCategory(slug!);
-const anchor = category.benchmark_anchor;
-const runnableInCat = agents.filter((a) => a.runnable).length;
+const { slug } = Astro.params;
+const fw = FRAMEWORK_BY_SLUG[slug!];
+if (!fw) throw new Error(`Unknown framework: ${slug}`);
 
-// Top frameworks within this category — surfaces what stack the dominant
-// agents are built on without forcing the user to read every row.
-const fwHist: Record<string, number> = {};
-for (const a of agents) {
-  for (const fw of a.metrics.frameworks ?? []) {
-    fwHist[fw] = (fwHist[fw] ?? 0) + 1;
-  }
-}
-const topFrameworks = Object.entries(fwHist)
-  .sort((a, b) => b[1] - a[1])
-  .slice(0, 5);
+const agents = agentsByFramework(slug!);
+const runnableCount = agents.filter((a) => a.runnable).length;
+const counts = frameworkCounts();
 ---
 
-<Base current="catalog" title={`${category.name} agents — ONEXUS-Agents`}>
+<Base
+  current=""
+  title={`${fw.name} agents — ONEXUS-Agents`}
+  description={`${agents.length} ${fw.name}-based agents indexed across ${new Set(agents.map((a) => a.category)).size} categories.`}
+>
   <div class="max-w-7xl mx-auto px-6 py-12">
     <a href="/catalog" class="inline-flex items-center gap-1.5 text-sm font-mono text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] mb-6">
       <Icon name="arrow-left" size="sm" />
@@ -40,48 +31,30 @@ const topFrameworks = Object.entries(fwHist)
 
     <header class="flex items-start gap-5 mb-10">
       <span class="inline-flex items-center justify-center w-14 h-14 rounded-lg border border-[var(--color-border)] text-[var(--color-accent)]">
-        <Icon name={categoryGlyph(category.slug)} size="xl" />
+        <Icon name={fw.glyph} size="xl" />
       </span>
       <div class="flex-1">
-        <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-1">{category.slug}</div>
-        <h1 class="text-3xl font-bold mb-2">{category.name}</h1>
-        <p class="text-[var(--color-fg-dim)] max-w-2xl">{category.description}</p>
+        <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-1">framework · {fw.slug}</div>
+        <h1 class="text-3xl font-bold mb-2">{fw.name}</h1>
+        <p class="text-[var(--color-fg-dim)] max-w-2xl">{fw.description}</p>
 
         <div class="mt-4 flex flex-wrap items-center gap-2">
-          <span class="badge"><Icon name="list" size="sm" />{agents.length} ranked</span>
-          {runnableInCat > 0 && (
-            <a href="/runnable" class="badge badge-accent hover:opacity-80 transition-opacity">
-              <Icon name="play" size="sm" />{runnableInCat} runnable
-            </a>
+          <span class="badge"><Icon name="list" size="sm" />{agents.length} agents</span>
+          {runnableCount > 0 && (
+            <span class="badge badge-accent"><Icon name="play" size="sm" />{runnableCount} runnable</span>
           )}
-          {anchor ? (
-            <a href={anchor.leaderboard_url} target="_blank" rel="noopener" class="badge badge-accent">
-              <Icon name="check" size="sm" />
-              {anchor.name} ({Math.round(anchor.weight_share * 100)}% of score)
-              <Icon name="external-link" size="sm" />
-            </a>
-          ) : (
-            <span class="badge"><Icon name="circle" size="sm" />Popularity-ranked</span>
-          )}
+          <a href={fw.url} target="_blank" rel="noopener" class="badge hover:border-[var(--color-accent)] hover:text-[var(--color-accent)]">
+            <Icon name="github" size="sm" />{fw.url.replace(/^https?:\/\//, "")}
+            <Icon name="external-link" size="sm" />
+          </a>
         </div>
-
-        {topFrameworks.length > 0 && (
-          <div class="mt-4 flex flex-wrap items-center gap-x-3 gap-y-1.5 font-mono text-[11px]">
-            <span class="text-[var(--color-fg-mute)] uppercase tracking-wider">Top frameworks:</span>
-            {topFrameworks.map(([fw, count]) => (
-              <a href={`/framework/${fw}`} class="text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] transition-colors">
-                {FRAMEWORK_BY_SLUG[fw]?.name ?? fw} <span class="text-[var(--color-fg-mute)]">({count})</span>
-              </a>
-            ))}
-          </div>
-        )}
       </div>
     </header>
 
     {agents.length > 0 ? (
       <>
       <div class="panel overflow-hidden">
-        <table class="w-full table-fixed">
+        <table class="w-full">
           <thead>
             <tr class="border-b border-[var(--color-border)] bg-[var(--color-panel-2)]">
               <th class="px-4 py-2 text-right font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)] w-12">#</th>
@@ -94,7 +67,7 @@ const topFrameworks = Object.entries(fwHist)
             </tr>
           </thead>
           <tbody data-agent-rows>
-            {agents.map((a) => <AgentRow agent={a} />)}
+            {agents.map((a, i) => <AgentRow agent={{ ...a, rank_in_category: i + 1 }} showCategory={true} />)}
           </tbody>
         </table>
       </div>
@@ -125,28 +98,32 @@ const topFrameworks = Object.entries(fwHist)
           const rows = Array.from(tbody.querySelectorAll("tr"));
           let shown = PAGE_SIZE;
           const apply = () => {
-            rows.forEach((r, i) => {
-              r.style.display = i < shown ? "" : "none";
-            });
+            rows.forEach((r, i) => { r.style.display = i < shown ? "" : "none"; });
             if (counter) counter.textContent = String(Math.min(shown, rows.length));
             if (button && shown >= rows.length) button.style.display = "none";
           };
           apply();
-          if (button) {
-            button.addEventListener("click", () => {
-              shown += PAGE_SIZE;
-              apply();
-            });
-          }
+          if (button) button.addEventListener("click", () => { shown += PAGE_SIZE; apply(); });
         })();
       </script>
       </>
     ) : (
       <div class="panel p-8 text-center text-[var(--color-fg-dim)]">
         <Icon name="sparkles" class="mx-auto mb-3 text-[var(--color-fg-mute)]" />
-        <p>No agents indexed in this category yet. The next daily run will populate it.</p>
-        <a href="/submit" class="font-mono text-sm text-[var(--color-accent)] mt-3 inline-block">Submit one</a>
+        <p>No agents detected for this framework yet. The weekly rescan reads README content and may surface some.</p>
       </div>
     )}
+
+    <section class="mt-16 pt-12 border-t border-[var(--color-border)]">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-4">Browse another framework</h2>
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
+        {FRAMEWORKS.filter((f) => f.slug !== slug).map((f) => (
+          <a href={`/framework/${f.slug}`} class="panel p-3 flex items-center justify-between hover:border-[var(--color-accent)] transition-colors group">
+            <span class="font-mono text-sm text-[var(--color-fg)] group-hover:text-[var(--color-accent)]">{f.name}</span>
+            <span class="font-mono text-xs text-[var(--color-fg-mute)]">{counts[f.slug] ?? 0}</span>
+          </a>
+        ))}
+      </div>
+    </section>
   </div>
 </Base>

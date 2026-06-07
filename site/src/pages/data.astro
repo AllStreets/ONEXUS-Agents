@@ -1,0 +1,138 @@
+---
+import Base from "@/layouts/Base.astro";
+import Icon from "@/components/Icon.astro";
+import { totalAgentCount, runnableAgents } from "@/lib/catalog";
+
+const total = totalAgentCount();
+const runnable = runnableAgents().length;
+const SITE = "https://onexus-agents.vercel.app";
+const REPO = "https://github.com/AllStreets/ONEXUS-Agents";
+---
+
+<Base current="data" title="Data — ONEXUS-Agents" description="Consume the catalog programmatically — URL structure, JSON shape, search index, polling cadence.">
+  <div class="max-w-3xl mx-auto px-6 py-12">
+    <h1 class="text-4xl font-bold mb-3">Data</h1>
+    <p class="text-[var(--color-fg-dim)] mb-10">
+      The catalog is a public, machine-readable data source. Every kept agent is a single JSON file
+      under <code class="mono">catalog/&lt;category&gt;/&lt;slug&gt;.json</code> in the git repo and at a stable URL on this site.
+      No API key required. No rate limit. No paywall.
+    </p>
+
+    <section class="mb-10 panel-2 p-5">
+      <div class="grid grid-cols-3 gap-6">
+        <div>
+          <div class="font-mono text-3xl text-[var(--color-fg)]">{total.toLocaleString()}</div>
+          <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">agents</div>
+        </div>
+        <div>
+          <div class="font-mono text-3xl text-[var(--color-accent)]">{runnable}</div>
+          <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">runnable</div>
+        </div>
+        <div>
+          <div class="font-mono text-3xl text-[var(--color-fg)]">CC0-like</div>
+          <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">terms</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Where the data lives</h2>
+      <div class="panel p-5 mb-3">
+        <pre class="font-mono text-sm leading-relaxed"><code>catalog/
+├── &lt;category&gt;/&lt;slug&gt;.json   one file per kept agent
+├── _categories.json         the 40 category definitions
+└── _dropped/&lt;date&gt;.json     audit log of removed slugs</code></pre>
+      </div>
+      <p class="text-sm text-[var(--color-fg-dim)]">
+        The git repository at <a href={REPO} class="text-[var(--color-fg)] hover:text-[var(--color-accent)] mono">{REPO.replace(/^https?:\/\//, "")}</a> is canonical.
+        Every nightly + weekly run merges a commit to <code class="mono">main</code>; <code class="mono">git log catalog/</code> is the change feed.
+      </p>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Stable URLs</h2>
+      <ul class="space-y-3 text-sm">
+        <li class="panel p-3 flex flex-col gap-1">
+          <code class="text-[var(--color-fg)] break-all">{SITE}/catalog/&lt;category&gt;/&lt;slug&gt;</code>
+          <span class="text-[var(--color-fg-dim)]">Agent detail page (HTML). Embeds JSON-LD <code class="mono">SoftwareApplication</code> structured data.</span>
+        </li>
+        <li class="panel p-3 flex flex-col gap-1">
+          <code class="text-[var(--color-fg)] break-all">{`https://raw.githubusercontent.com/AllStreets/ONEXUS-Agents/main/catalog/<category>/<slug>.json`}</code>
+          <span class="text-[var(--color-fg-dim)]">Raw JSON for one agent. Always reflects latest <code class="mono">main</code>.</span>
+        </li>
+        <li class="panel p-3 flex flex-col gap-1">
+          <code class="text-[var(--color-fg)] break-all">{SITE}/search-index.json</code>
+          <span class="text-[var(--color-fg-dim)]">Compact array of every agent (slug, name, tagline, tags, category, runnable, benchmarked, href). One round-trip, ~1MB.</span>
+        </li>
+        <li class="panel p-3 flex flex-col gap-1">
+          <code class="text-[var(--color-fg)] break-all">{SITE}/framework/&lt;framework&gt;</code>
+          <span class="text-[var(--color-fg-dim)]">Filtered view by detected agent framework. Static HTML, paginated.</span>
+        </li>
+      </ul>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Code samples</h2>
+
+      <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-2">Python — fetch every runnable agent</div>
+      <pre class="panel p-4 text-xs overflow-x-auto mb-6"><code>{`import httpx, json
+r = httpx.get("${SITE}/search-index.json", timeout=15)
+runnable = [a for a in r.json()["agents"] if a["runnable"]]
+print(f"{len(runnable)} runnable agents")
+
+# Pull the full JSON for one
+agent = httpx.get(f"${SITE}{runnable[0]['href']}.json").json()
+print(agent["source"]["github"], agent["adapter_ref"])`}</code></pre>
+
+      <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-2">curl — one agent by category + slug</div>
+      <pre class="panel p-4 text-xs overflow-x-auto mb-6"><code>{`curl -sL https://raw.githubusercontent.com/AllStreets/ONEXUS-Agents/main/catalog/coding/aider.json | jq .composite_score`}</code></pre>
+
+      <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-2">Node — sync the whole catalog (git clone)</div>
+      <pre class="panel p-4 text-xs overflow-x-auto"><code>{`git clone --depth 1 ${REPO}.git
+# then walk catalog/<cat>/*.json — no API calls, instant access`}</code></pre>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Update cadence</h2>
+      <ul class="space-y-2 text-sm text-[var(--color-fg-dim)] list-disc list-outside ml-5">
+        <li><span class="text-[var(--color-fg)] font-mono">nightly · 13:00 UTC</span> — discovery + classify + score + report. Most fields refresh here.</li>
+        <li><span class="text-[var(--color-fg)] font-mono">weekly · 17:00 UTC Sundays</span> — runnable rescan + Tier 2 enrichment (contributors, releases, commit cadence, CI, README length, framework refinement).</li>
+        <li><span class="text-[var(--color-fg)] font-mono">submissions</span> — issue-form filings are processed within minutes; auto-merge on validate pass.</li>
+      </ul>
+      <p class="mt-3 text-sm text-[var(--color-fg-dim)]">
+        Vercel rebuilds on every merge to <code class="mono">main</code>. So fresh data is live on this site within ~60 seconds of a nightly/weekly merge.
+        If you need the absolute latest, fetch from <code class="mono">raw.githubusercontent.com</code> — it skips Vercel's edge cache.
+      </p>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Schema</h2>
+      <p class="text-sm text-[var(--color-fg-dim)] mb-3">
+        Every agent JSON validates against the Pydantic model in
+        <a href={`${REPO}/blob/main/pipeline/schema.py`} class="text-[var(--color-fg)] hover:text-[var(--color-accent)] mono">pipeline/schema.py</a>.
+        Optional fields default to null or empty list; existing entries grow new fields gracefully as the schema evolves.
+        See the <a href="/methodology" class="text-[var(--color-accent)] hover:underline">methodology page</a> for what each ranking signal means.
+      </p>
+    </section>
+
+    <section class="mb-10">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Terms</h2>
+      <p class="text-sm text-[var(--color-fg-dim)]">
+        The catalog metadata + scoring are Apache-2.0 — free for commercial and non-commercial use, including for training ML models.
+        Each <em>indexed agent</em> retains its own upstream license; check the <code class="mono">license</code> field on every entry before running or redistributing.
+      </p>
+    </section>
+
+    <section>
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Building something with this?</h2>
+      <p class="text-sm text-[var(--color-fg-dim)] mb-4">
+        Tell us what you're building. Open a discussion or drop a link in an issue — we'll cross-link from the README.
+      </p>
+      <a href={`${REPO}/issues/new`} class="inline-flex items-center gap-2 px-4 py-2 rounded-md border border-[var(--color-border)] text-[var(--color-fg-dim)] hover:text-[var(--color-accent)] hover:border-[var(--color-accent)] font-mono text-sm transition-colors">
+        <Icon name="github" size="sm" />
+        Open an issue
+        <Icon name="external-link" size="sm" />
+      </a>
+    </section>
+  </div>
+</Base>

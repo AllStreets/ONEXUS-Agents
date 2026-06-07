@@ -154,6 +154,22 @@ export function runnableAgents(): Agent[] {
     .sort((a, b) => b.composite_score - a.composite_score);
 }
 
+export function agentsByFramework(frameworkSlug: string): Agent[] {
+  return loadAllAgents()
+    .filter((a) => (a.metrics.frameworks ?? []).includes(frameworkSlug))
+    .sort((a, b) => b.composite_score - a.composite_score);
+}
+
+export function frameworkCounts(): Record<string, number> {
+  const counts: Record<string, number> = {};
+  for (const a of loadAllAgents()) {
+    for (const fw of a.metrics.frameworks ?? []) {
+      counts[fw] = (counts[fw] ?? 0) + 1;
+    }
+  }
+  return counts;
+}
+
 export function runnableAgentsByAdapter(): Record<string, Agent[]> {
   const out: Record<string, Agent[]> = {};
   for (const a of runnableAgents()) {
