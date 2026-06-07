@@ -2,12 +2,40 @@
 import Base from "@/layouts/Base.astro";
 import Icon from "@/components/Icon.astro";
 import AgentRow from "@/components/AgentRow.astro";
-import { runnableAgents, runnableAgentsByAdapter, totalAgentCount } from "@/lib/catalog";
+import {
+  runnableAgents,
+  runnableAgentsByAdapter,
+  totalAgentCount,
+  loadCategories,
+} from "@/lib/catalog";
 
 const agents = runnableAgents();
 const byAdapter = runnableAgentsByAdapter();
 const total = totalAgentCount();
 const adapterEntries = Object.entries(byAdapter).sort((a, b) => b[1].length - a[1].length);
+
+const categories = loadCategories().categories;
+const catNameBySlug: Record<string, string> = Object.fromEntries(
+  categories.map((c) => [c.slug, c.name]),
+);
+const categorySlugs = categories.map((c) => c.slug);
+
+// Compact inline search payload. Keep field names short — this ships
+// in the page HTML so 660 entries × ~200 bytes ≈ 130KB is the budget.
+const searchPayload = agents.map((a, i) => ({
+  i: i + 1,
+  s: a.slug,
+  n: a.name,
+  t: a.tagline,
+  tag: a.tags,
+  c: a.category,
+  cn: catNameBySlug[a.category] ?? a.category,
+  ar: a.adapter_ref ?? "",
+  fw: a.metrics.frameworks ?? [],
+  st: a.metrics.stars ?? 0,
+  sc: a.composite_score ?? 0,
+  bm: (a.benchmarks?.length ?? 0) > 0,
+}));
 ---
 
 <Base
@@ -41,7 +69,7 @@ const adapterEntries = Object.entries(byAdapter).sort((a, b) => b[1].length - a[
             <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">runnable</div>
           </div>
           <div>
-            <div class="font-mono text-3xl text-[var(--color-fg)]">{total}</div>
+            <div class="font-mono text-3xl text-[var(--color-fg)]">{total.toLocaleString()}</div>
             <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">indexed</div>
           </div>
           <div>
@@ -66,34 +94,44 @@ const adapterEntries = Object.entries(byAdapter).sort((a, b) => b[1].length - a[
     </div>
 
     <div class="mb-6">
-      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-1">By adapter</h2>
-      <h3 class="text-xl">Coverage at a glance</h3>
-    </div>
-
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 mb-12">
-      {adapterEntries.map(([adapter, list]) => (
-        <div class="panel p-4">
-          <div class="flex items-center justify-between mb-1">
-            <code class="font-mono text-sm text-[var(--color-fg)] truncate">{adapter}</code>
-            <span class="font-mono text-xs text-[var(--color-fg-mute)]">{list.length}</span>
-          </div>
-          <div class="text-xs text-[var(--color-fg-dim)] truncate">
-            top: {list[0]?.name}
-          </div>
-        </div>
-      ))}
-    </div>
-
-    <div class="flex items-end justify-between mb-6">
-      <div>
-        <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-1">All runnable agents</h2>
-        <h3 class="text-2xl">Ranked by composite score</h3>
+      <label class="block">
+        <span class="sr-only">Search runnable agents</span>
+        <span class="relative block">
+          <span class="absolute inset-y-0 left-0 flex items-center pl-3 text-[var(--color-fg-mute)] pointer-events-none">
+            <Icon name="search" size="sm" />
+          </span>
+          <input
+            id="runnable-search"
+            type="search"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="Filter — try 'langchain', 'audio-speech', 'mcp/stdio', or 'coding python'"
+            class="w-full bg-[var(--color-panel)] border border-[var(--color-border)] rounded-md pl-10 pr-3 py-2.5 text-sm text-[var(--color-fg)] placeholder:text-[var(--color-fg-mute)] focus:outline-none focus:border-[var(--color-accent)] transition-colors"
+          />
+        </span>
+      </label>
+      <div class="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 font-mono text-[11px] text-[var(--color-fg-mute)]">
+        <span class="uppercase tracking-wider">Filters:</span>
+        <span><span class="text-[var(--color-accent)]">framework</span> &middot; langchain, crewai, autogen, mcp, transformers, gradio</span>
+        <span><span class="text-[var(--color-accent)]">category</span> &middot; coding, web-dev, audio-speech, …</span>
+        <span><span class="text-[var(--color-accent)]">adapter</span> &middot; mcp/stdio</span>
+        <span><span class="text-[var(--color-accent)]">benchmarked</span></span>
       </div>
     </div>
 
     {agents.length > 0 ? (
       <>
-      <div class="panel overflow-hidden">
+      <div class="flex items-end justify-between mb-6">
+        <div>
+          <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-1">All runnable agents</h2>
+          <h3 class="text-2xl">Ranked by composite score</h3>
+        </div>
+        <div id="runnable-result-meta" class="font-mono text-xs text-[var(--color-fg-mute)]" hidden>
+          <span data-result-count>0</span> matches
+        </div>
+      </div>
+
+      <div class="panel overflow-hidden" id="runnable-table-wrap">
         <table class="w-full">
           <thead>
             <tr class="border-b border-[var(--color-border)] bg-[var(--color-panel-2)]">
@@ -112,8 +150,13 @@ const adapterEntries = Object.entries(byAdapter).sort((a, b) => b[1].length - a[
         </table>
       </div>
 
+      <div id="runnable-empty" hidden class="panel p-8 text-center text-[var(--color-fg-dim)] mt-4">
+        <Icon name="sparkles" class="mx-auto mb-3 text-[var(--color-fg-mute)]" />
+        <p>No runnable agents match. Try a different filter or clear the search.</p>
+      </div>
+
       {agents.length > 100 && (
-        <div class="mt-6 flex items-center justify-between">
+        <div id="runnable-load-more-wrap" class="mt-6 flex items-center justify-between">
           <div class="font-mono text-xs text-[var(--color-fg-mute)]">
             Showing <span data-shown-count>100</span> of {agents.length}
           </div>
@@ -128,29 +171,178 @@ const adapterEntries = Object.entries(byAdapter).sort((a, b) => b[1].length - a[
         </div>
       )}
 
+      <section class="mt-16 pt-12 border-t border-[var(--color-border)]">
+        <div class="mb-6">
+          <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-1">By adapter</h2>
+          <h3 class="text-xl">Coverage at a glance</h3>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+          {adapterEntries.map(([adapter, list]) => (
+            <div class="panel p-4">
+              <div class="flex items-center justify-between mb-1">
+                <code class="font-mono text-sm text-[var(--color-fg)] truncate">{adapter}</code>
+                <span class="font-mono text-xs text-[var(--color-fg-mute)]">{list.length}</span>
+              </div>
+              <div class="text-xs text-[var(--color-fg-dim)] truncate">
+                top: {list[0]?.name}
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <script
+        type="application/json"
+        id="runnable-data"
+        set:html={JSON.stringify({ a: searchPayload, c: categorySlugs })}
+      />
+
       <script is:inline>
         (() => {
           const PAGE_SIZE = 100;
           const tbody = document.querySelector("[data-agent-rows]");
           const button = document.querySelector("[data-load-more]");
           const counter = document.querySelector("[data-shown-count]");
-          if (!tbody) return;
+          const loadMoreWrap = document.getElementById("runnable-load-more-wrap");
+          const tableWrap = document.getElementById("runnable-table-wrap");
+          const emptyEl = document.getElementById("runnable-empty");
+          const resultMeta = document.getElementById("runnable-result-meta");
+          const resultCount = resultMeta?.querySelector("[data-result-count]");
+          const input = document.getElementById("runnable-search");
+          const dataEl = document.getElementById("runnable-data");
+          if (!tbody || !dataEl) return;
+
           const rows = Array.from(tbody.querySelectorAll("tr"));
+          const data = JSON.parse(dataEl.textContent || "{}");
+          const agents = data.a || [];
+          const categorySet = new Set(data.c || []);
+
+          // Semantic filter slugs. Frameworks come from pipeline/frameworks.py.
+          const FRAMEWORK_SLUGS = new Set([
+            "langchain", "llamaindex", "crewai", "autogen", "smolagents",
+            "dspy", "openai-agents-sdk", "anthropic-sdk", "mcp",
+            "transformers", "gradio",
+          ]);
+          const BENCH_KEYWORDS = new Set(["benchmarked", "benchmark", "bench"]);
+          const ADAPTER_KEYWORD_RE = /^mcp\/.*|^stdio$/;
+
           let shown = PAGE_SIZE;
-          const apply = () => {
-            rows.forEach((r, i) => {
-              r.style.display = i < shown ? "" : "none";
-            });
-            if (counter) counter.textContent = String(Math.min(shown, rows.length));
-            if (button && shown >= rows.length) button.style.display = "none";
+          let filteredOrder = rows.map((_, i) => i); // default: 0..N-1
+
+          const applyDisplay = () => {
+            for (let visualIdx = 0; visualIdx < rows.length; visualIdx++) {
+              rows[visualIdx].style.display = "none";
+            }
+            const limit = Math.min(shown, filteredOrder.length);
+            for (let i = 0; i < limit; i++) {
+              const r = rows[filteredOrder[i]];
+              if (r) r.style.display = "";
+            }
+            if (counter) counter.textContent = String(limit);
+
+            const overflow = filteredOrder.length > shown;
+            if (loadMoreWrap) loadMoreWrap.style.display = overflow ? "" : "none";
+            if (emptyEl) emptyEl.hidden = filteredOrder.length > 0;
+            if (tableWrap) tableWrap.style.display = filteredOrder.length > 0 ? "" : "none";
           };
-          apply();
+
+          const filter = (raw) => {
+            const tokens = raw.toLowerCase().split(/\s+/).filter(Boolean);
+            if (tokens.length === 0) {
+              filteredOrder = rows.map((_, i) => i);
+              shown = PAGE_SIZE;
+              if (resultMeta) resultMeta.hidden = true;
+              applyDisplay();
+              return;
+            }
+
+            const fwFilters = [];
+            const catFilters = [];
+            const adapterFilters = [];
+            const textTokens = [];
+            let benchOnly = false;
+
+            for (const t of tokens) {
+              if (FRAMEWORK_SLUGS.has(t)) fwFilters.push(t);
+              else if (categorySet.has(t)) catFilters.push(t);
+              else if (BENCH_KEYWORDS.has(t)) benchOnly = true;
+              else if (ADAPTER_KEYWORD_RE.test(t) || t === "stdio") adapterFilters.push(t);
+              else textTokens.push(t);
+            }
+
+            const scored = [];
+            for (let idx = 0; idx < agents.length; idx++) {
+              const a = agents[idx];
+
+              if (fwFilters.length && !fwFilters.every((f) => a.fw.includes(f))) continue;
+              if (catFilters.length && !catFilters.includes(a.c)) continue;
+              if (benchOnly && !a.bm) continue;
+              if (adapterFilters.length) {
+                const ar = (a.ar || "").toLowerCase();
+                if (!adapterFilters.every((ad) => ar.includes(ad))) continue;
+              }
+
+              let score = 0;
+              if (textTokens.length === 0) {
+                score = 10;
+              } else {
+                const haystacks = [
+                  a.n.toLowerCase(),
+                  a.s.toLowerCase(),
+                  (a.t || "").toLowerCase(),
+                  a.cn.toLowerCase(),
+                  a.c.toLowerCase(),
+                  (a.tag || []).join(" ").toLowerCase(),
+                ];
+                let allHit = true;
+                for (const tok of textTokens) {
+                  let hit = false;
+                  for (const h of haystacks) {
+                    const pos = h.indexOf(tok);
+                    if (pos === -1) continue;
+                    hit = true;
+                    score += pos === 0 ? 3 : 1;
+                  }
+                  if (!hit) {
+                    allHit = false;
+                    break;
+                  }
+                }
+                if (!allHit) continue;
+              }
+
+              // Secondary sort by composite_score
+              scored.push({ idx, primary: score, secondary: a.sc });
+            }
+
+            scored.sort((x, y) => y.primary - x.primary || y.secondary - x.secondary);
+            filteredOrder = scored.map((s) => s.idx);
+            shown = PAGE_SIZE;
+            if (resultMeta) {
+              resultMeta.hidden = false;
+              if (resultCount) resultCount.textContent = String(filteredOrder.length);
+            }
+            applyDisplay();
+          };
+
+          let raf = 0;
+          if (input) {
+            input.addEventListener("input", () => {
+              cancelAnimationFrame(raf);
+              const q = input.value.trim();
+              raf = requestAnimationFrame(() => filter(q));
+            });
+          }
+
           if (button) {
             button.addEventListener("click", () => {
               shown += PAGE_SIZE;
-              apply();
+              applyDisplay();
             });
           }
+
+          applyDisplay();
         })();
       </script>
       </>
