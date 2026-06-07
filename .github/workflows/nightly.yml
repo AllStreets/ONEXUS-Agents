@@ -109,6 +109,19 @@ jobs:
           git checkout -B "$BRANCH"
           git add catalog/ reports/
           git commit -m "chore(catalog): daily refresh $DATE"
+
+          # Rebase onto fresh main in case anything merged during this run
+          # (e.g. weekly rescan or a submission auto-PR). Without this, the
+          # branch's base is stale and the PR becomes CONFLICTING/DIRTY,
+          # silently closing instead of merging. If the rebase itself
+          # conflicts, fail loud — the failure-issue step will open a ticket.
+          git fetch origin main
+          git rebase origin/main || {
+            git rebase --abort
+            echo "rebase failed — concurrent merge to main produced a real conflict"
+            exit 1
+          }
+
           git push -fu origin "$BRANCH"
 
           # Reuse an *open* PR for the same date if one already exists (workflow re-run).

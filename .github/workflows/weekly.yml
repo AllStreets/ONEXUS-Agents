@@ -2,8 +2,13 @@ name: weekly
 
 on:
   schedule:
-    # 14:00 UTC every Sunday (1 hour after the nightly window so they don't clash)
-    - cron: "0 14 * * 0"
+    # 17:00 UTC every Sunday. Nightly is scheduled for 13:00 UTC but GitHub
+    # Actions cron is best-effort and can fire 1-2 hours late under load
+    # (today's nightly fired at 14:50). Combined with the 120-min job
+    # timeout, nightly can complete as late as ~17:00 UTC in the worst case.
+    # 17:00 gives a 4-hour nominal buffer; the rebase-before-push guard in
+    # both workflows handles any residual race.
+    - cron: "0 17 * * 0"
   workflow_dispatch:
     inputs:
       enrich_limit:
@@ -89,6 +94,17 @@ jobs:
           git checkout -B "$BRANCH"
           git add catalog/
           git commit -m "chore(catalog): weekly rescan $DATE"
+
+          # Rebase onto fresh main in case the nightly merged during this run
+          # (caused #75 to close as CONFLICTING on 2026-06-07, losing the
+          # entire weekly's worth of runnable flips + Tier 2 enrichment).
+          git fetch origin main
+          git rebase origin/main || {
+            git rebase --abort
+            echo "rebase failed — concurrent merge to main produced a real conflict"
+            exit 1
+          }
+
           git push -fu origin "$BRANCH"
 
           OPEN_PR=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number // empty')
