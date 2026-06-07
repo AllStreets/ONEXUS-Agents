@@ -98,7 +98,7 @@ jobs:
           git config user.name "onexus-agents-bot"
           git config user.email "bot@agents.onexus.dev"
 
-          if [ -z "$(git status --porcelain catalog/)" ]; then
+          if [ -z "$(git status --porcelain catalog/ reports/)" ]; then
             echo "nothing changed"
             exit 0
           fi
@@ -107,7 +107,7 @@ jobs:
           BRANCH="bot/refresh-$DATE"
 
           git checkout -B "$BRANCH"
-          git add catalog/
+          git add catalog/ reports/
           git commit -m "chore(catalog): daily refresh $DATE"
           git push -fu origin "$BRANCH"
 

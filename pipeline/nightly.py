@@ -31,6 +31,7 @@ from pipeline.crawlers import github as gh
 from pipeline.crawlers import huggingface as hf
 from pipeline.paths import CATALOG_DIR, DROPPED_DIR
 from pipeline.ranking import rank_category
+from pipeline.report import write_report
 from pipeline.schema import Agent, Category, CategoryIndex
 from pipeline.store import (
     iter_catalog_files,
@@ -421,6 +422,7 @@ def main(
         cats.categories = [c for c in cats.categories if c.slug in category_filter]
 
     existing = _index_existing()
+    prev_agents = list(existing.values())  # snapshot before this run rewrites catalog
     by_cat: dict[str, list[Agent]] = defaultdict(list)
     discover_stats: dict[str, int] = {"classifier_ok": 0, "classifier_err": 0, "classifier_capped": 0}
 
@@ -458,20 +460,25 @@ def main(
     # Stats file is read by the cost-guard workflow step to fail the job on
     # threshold breaches. Path is repo-root so CI doesn't need to know which
     # subdir we wrote it to.
+    final_stats = {
+        "total_kept": total_kept,
+        "category_count": len(by_cat),
+        "budget_remaining_gh": budget.gh_remaining,
+        "budget_remaining_hf": budget.hf_remaining,
+        **discover_stats,
+    }
     stats_path = CATALOG_DIR.parent / "_run_stats.json"
-    stats_path.write_text(
-        json.dumps(
-            {
-                "total_kept": total_kept,
-                "category_count": len(by_cat),
-                "budget_remaining_gh": budget.gh_remaining,
-                "budget_remaining_hf": budget.hf_remaining,
-                **discover_stats,
-            },
-            indent=2,
-        )
-        + "\n"
-    )
+    stats_path.write_text(json.dumps(final_stats, indent=2) + "\n")
+
+    # Daily quality summary. Written alongside the catalog so it lands in
+    # the same auto-merge PR. Skip on dry-run since the catalog is unchanged.
+    if not dry_run:
+        # Flatten by_cat using each agent's category attribute, which may have
+        # been reassigned by the classifier during _discover. Counting against
+        # cat slugs in by_cat would miscount the reassignments.
+        new_agents = [a for ags in by_cat.values() for a in ags]
+        report_path = write_report(new_agents, prev_agents, final_stats, cap_per_cat=TOP_N)
+        console.print(f"[dim]report written → {report_path.relative_to(CATALOG_DIR.parent)}")
 
 
 if __name__ == "__main__":
