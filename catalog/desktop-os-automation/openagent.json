@@ -1,0 +1,62 @@
+{
+  "slug": "openagent",
+  "name": "openagent",
+  "tagline": "⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "agi",
+    "chatbot",
+    "chatgpt",
+    "gpt",
+    "harness",
+    "hermes-agent",
+    "knowledge-base"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "the-open-agent",
+    "url": "https://github.com/the-open-agent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "the-open-agent/openagent",
+    "huggingface": null,
+    "homepage": "https://www.openagentai.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5176,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T09:44:48Z",
+    "first_commit_at": "2023-06-22T07:46:47Z",
+    "forks": 602,
+    "watchers": 60,
+    "open_issues": 47,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5482,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:12.619066Z",
+  "last_refreshed_at": "2026-06-07T10:20:26.427053Z"
+}

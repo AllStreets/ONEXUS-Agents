@@ -1,0 +1,59 @@
+{
+  "slug": "relay",
+  "name": "relay",
+  "tagline": "Headless Slack for agents. A hosted messaging store + router with fast retrieval",
+  "category": "sales-crm",
+  "tags": [
+    "agent",
+    "agent-collaboration",
+    "agent-communication",
+    "agent-skills",
+    "agentic-ai",
+    "agents",
+    "headless",
+    "orchestration",
+    "orchestration-systems",
+    "real-time"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AgentWorkforce",
+    "url": "https://github.com/AgentWorkforce"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AgentWorkforce/relay",
+    "huggingface": null,
+    "homepage": "https://agentrelay.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 711,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T10:03:01Z",
+    "first_commit_at": "2025-12-17T14:09:13Z",
+    "forks": 53,
+    "watchers": 5,
+    "open_issues": 61,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6446,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T10:43:31.600162Z",
+  "last_refreshed_at": "2026-06-07T10:43:31.600166Z"
+}

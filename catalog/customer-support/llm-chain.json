@@ -1,29 +1,37 @@
 {
   "slug": "llm-chain",
   "name": "llm-chain",
-  "tagline": "llm-chain is a collection of Rust crates designed to help you create advanced LLM applications such as chatbots, agents, and more.",
+  "tagline": "`llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks",
   "category": "customer-support",
-  "tags": [],
+  "tags": [
+    "chatgpt",
+    "langchain",
+    "llama",
+    "llm",
+    "openai",
+    "rust",
+    "text-summary"
+  ],
   "author": {
-    "type": "user",
-    "handle": "tryRAMCloud",
-    "url": "https://github.com/tryRAMCloud"
+    "type": "org",
+    "handle": "sobelio",
+    "url": "https://github.com/sobelio"
   },
   "source": {
     "primary": "github",
-    "github": "tryRAMCloud/llm-chain",
+    "github": "sobelio/llm-chain",
     "huggingface": null,
-    "homepage": "http://maxpaperclips.github.io/llm-chain/"
+    "homepage": "https://llm-chain.xyz/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 10,
+    "stars": 1600,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-20T17:11:38Z",
+    "last_commit_at": "2024-10-31T16:19:00Z",
     "first_commit_at": "2023-03-24T23:50:25Z",
-    "forks": 0,
-    "watchers": 1,
-    "open_issues": 5,
+    "forks": 142,
+    "watchers": 17,
+    "open_issues": 42,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -34,14 +42,17 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4812,
+  "composite_score": 0.4854,
   "rank_in_category": 91,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:00:34.293092Z",
-  "last_refreshed_at": "2026-06-06T14:52:15.400697Z"
+  "first_seen_at": "2026-06-07T09:56:57.003433Z",
+  "last_refreshed_at": "2026-06-07T09:56:57.003437Z"
 }

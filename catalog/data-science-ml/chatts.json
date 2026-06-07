@@ -1,0 +1,53 @@
+{
+  "slug": "chatts",
+  "name": "ChatTS",
+  "tagline": "ChatTS: Chat with Your Time Series",
+  "category": "data-science-ml",
+  "tags": [
+    "llm",
+    "multimodal",
+    "timeseries",
+    "timeseries-analysis"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NetManAIOps",
+    "url": "https://github.com/NetManAIOps"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NetManAIOps/ChatTS",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/spaces/xiezhe22/ChatTS"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 457,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T12:33:05Z",
+    "first_commit_at": "2024-12-21T11:33:36Z",
+    "forks": 50,
+    "watchers": 10,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4337,
+  "rank_in_category": 58,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:04:42.739521Z",
+  "last_refreshed_at": "2026-06-07T10:02:59.870570Z"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "scriberr",
+  "name": "Scriberr",
+  "tagline": "Self-hosted AI audio transcription",
+  "category": "audio-speech",
+  "tags": [
+    "ai",
+    "audio",
+    "transcript",
+    "transcription"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rishikanthc",
+    "url": "https://github.com/rishikanthc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rishikanthc/Scriberr",
+    "huggingface": null,
+    "homepage": "https://scriberr.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2717,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T03:07:49Z",
+    "first_commit_at": "2024-10-04T19:11:50Z",
+    "forks": 210,
+    "watchers": 19,
+    "open_issues": 86,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6517,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:49:06.201286Z",
+  "last_refreshed_at": "2026-06-07T09:39:34.128830Z"
+}

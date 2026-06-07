@@ -1,0 +1,52 @@
+{
+  "slug": "iaga-sentinel",
+  "name": "IAGA-Sentinel",
+  "tagline": "AI agents are getting tool access — shell, file system, databases, APIs, secrets. But **nobody is governing what they actually do with it**.  Frameworks like LangChain, CrewAI, AutoGen, and Claude Cod",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "EdoardoBambini",
+    "url": "https://github.com/EdoardoBambini"
+  },
+  "source": {
+    "primary": "github",
+    "github": "EdoardoBambini/IAGA-Sentinel",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 120,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-28T03:06:47Z",
+    "first_commit_at": "2026-04-01T13:44:08Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "autogen",
+      "crewai",
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3206,
+  "rank_in_category": 312,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:00:57.816125Z",
+  "last_refreshed_at": "2026-06-07T09:57:26.418577Z"
+}

@@ -28,7 +28,7 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 2316,
+    "stars": 2320,
     "downloads_30d": null,
     "last_commit_at": "2026-05-28T04:17:46Z",
     "first_commit_at": "2026-03-22T01:03:09Z",
@@ -45,14 +45,17 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3473,
-  "rank_in_category": 196,
+  "composite_score": 0.3616,
+  "rank_in_category": 204,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T16:11:11.895297Z",
-  "last_refreshed_at": "2026-06-06T14:30:15.039864Z"
+  "last_refreshed_at": "2026-06-07T09:32:26.017414Z"
 }

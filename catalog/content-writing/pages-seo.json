@@ -30,9 +30,9 @@
   "metrics": {
     "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-24T12:27:14Z",
+    "last_commit_at": "2026-06-07T09:51:39Z",
     "first_commit_at": "2026-05-18T09:12:53Z",
-    "forks": 2,
+    "forks": 3,
     "watchers": 0,
     "open_issues": 0,
     "archived": false,
@@ -45,14 +45,17 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3805,
-  "rank_in_category": 139,
+  "composite_score": 0.4268,
+  "rank_in_category": 124,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-30T21:00:36.700048Z",
-  "last_refreshed_at": "2026-06-06T14:53:23.999967Z"
+  "last_refreshed_at": "2026-06-07T09:58:08.276318Z"
 }

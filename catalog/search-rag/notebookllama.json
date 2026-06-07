@@ -1,0 +1,48 @@
+{
+  "slug": "notebookllama",
+  "name": "notebookllama",
+  "tagline": "A fully open-source, LlamaCloud-backed alternative to NotebookLM",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "run-llama",
+    "url": "https://github.com/run-llama"
+  },
+  "source": {
+    "primary": "github",
+    "github": "run-llama/notebookllama",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1907,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-02T08:58:20Z",
+    "first_commit_at": "2025-06-27T20:47:48Z",
+    "forks": 243,
+    "watchers": 10,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.467,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:05.660288Z",
+  "last_refreshed_at": "2026-06-07T10:28:22.453082Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "docker-azure-pipelines-agent-windows",
+  "name": "docker-azure-pipelines-agent-windows",
+  "tagline": "Azure Pipelines agent that runs on a container",
+  "category": "devops-sre",
+  "tags": [
+    "azure-devops",
+    "azure-pipelines-agent",
+    "docker-image",
+    "dockerfile",
+    "vsts",
+    "vsts-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Lambda3",
+    "url": "https://github.com/Lambda3"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Lambda3/docker-azure-pipelines-agent-windows",
+    "huggingface": null,
+    "homepage": "https://hub.docker.com/r/lambda3/azure-pipelines-agent-windows/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2023-06-05T19:14:36Z",
+    "first_commit_at": "2019-08-16T19:59:02Z",
+    "forks": 2,
+    "watchers": 4,
+    "open_issues": 0,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0454,
+  "rank_in_category": 238,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:50.037631Z",
+  "last_refreshed_at": "2026-06-07T09:45:33.982036Z"
+}

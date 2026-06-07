@@ -1,0 +1,48 @@
+{
+  "slug": "rlama",
+  "name": "rlama",
+  "tagline": "A powerful document AI question-answering tool that connects to your local Ollama models. Create, manage, and interact with RAG systems for all your document needs.",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "DonTizi",
+    "url": "https://github.com/DonTizi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DonTizi/rlama",
+    "huggingface": null,
+    "homepage": "https://rlama.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1092,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-09T16:24:43Z",
+    "first_commit_at": "2025-03-05T04:03:33Z",
+    "forks": 74,
+    "watchers": 17,
+    "open_issues": 25,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.377,
+  "rank_in_category": 156,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:10.995406Z",
+  "last_refreshed_at": "2026-06-07T10:28:48.163444Z"
+}

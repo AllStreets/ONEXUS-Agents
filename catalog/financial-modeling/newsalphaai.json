@@ -45,14 +45,17 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.228,
-  "rank_in_category": 244,
+  "composite_score": 0.2504,
+  "rank_in_category": 232,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-07T15:36:16.317981Z",
-  "last_refreshed_at": "2026-06-06T14:45:11.429127Z"
+  "last_refreshed_at": "2026-06-07T09:49:22.675450Z"
 }

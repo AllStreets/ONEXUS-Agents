@@ -29,7 +29,7 @@
   "license": "other",
   "metrics": {
     "stars": 152,
-    "downloads_30d": 4518,
+    "downloads_30d": 4479,
     "last_commit_at": "2024-02-06T10:38:24Z",
     "first_commit_at": "2024-02-05T08:14:00Z",
     "forks": null,
@@ -45,14 +45,17 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3153,
-  "rank_in_category": 62,
+  "composite_score": 0.3303,
+  "rank_in_category": 57,
   "discovered_via": "seed",
   "first_seen_at": "2026-04-30T03:22:51.796636Z",
-  "last_refreshed_at": "2026-06-06T14:29:56.865493Z"
+  "last_refreshed_at": "2026-06-07T09:32:11.319570Z"
 }

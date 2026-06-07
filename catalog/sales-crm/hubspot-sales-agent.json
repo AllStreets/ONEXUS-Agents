@@ -1,0 +1,62 @@
+{
+  "slug": "hubspot-sales-agent",
+  "name": "hubspot-sales-agent",
+  "tagline": "Autonomous sales agent — bulk outreach, inbox classification, research-driven personalization, lead recovery. HubSpot + Gmail. Runs on any local agent harness.",
+  "category": "sales-crm",
+  "tags": [
+    "agent-harness",
+    "ai-agent",
+    "anthropic",
+    "automation",
+    "claude-code",
+    "crm",
+    "email-automation",
+    "gmail",
+    "hubspot",
+    "inbox-classifier"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Dominien",
+    "url": "https://github.com/Dominien"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Dominien/hubspot-sales-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-13T10:18:49Z",
+    "first_commit_at": "2026-04-08T09:37:48Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4274,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T10:43:18.453221Z",
+  "last_refreshed_at": "2026-06-07T10:43:18.453224Z"
+}

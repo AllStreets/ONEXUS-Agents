@@ -1,0 +1,57 @@
+{
+  "slug": "clarc",
+  "name": "clarc",
+  "tagline": "Production-grade Claude Code workflow OS — agents, skills, hooks, commands, rules, and a continuous learning flywheel.",
+  "category": "coding",
+  "tags": [
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "cli",
+    "developer-tools",
+    "llm",
+    "productivity",
+    "workflow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "marvinrichter",
+    "url": "https://github.com/marvinrichter"
+  },
+  "source": {
+    "primary": "github",
+    "github": "marvinrichter/clarc",
+    "huggingface": null,
+    "homepage": "https://marvinrichter.github.io/clarc"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-27T07:59:08Z",
+    "first_commit_at": "2026-01-18T01:49:33Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2208,
+  "rank_in_category": 560,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:56.630461Z",
+  "last_refreshed_at": "2026-06-07T10:23:37.761684Z"
+}

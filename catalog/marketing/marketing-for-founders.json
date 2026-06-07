@@ -28,16 +28,16 @@
   },
   "license": "CC-BY-SA-4.0",
   "metrics": {
-    "stars": 6325,
+    "stars": 6332,
     "downloads_30d": null,
     "last_commit_at": "2026-04-18T13:09:32Z",
     "first_commit_at": "2025-05-19T13:29:04Z",
-    "forks": null,
-    "watchers": null,
-    "open_issues": null,
-    "archived": null,
-    "is_fork": null,
-    "is_template": null,
+    "forks": 590,
+    "watchers": 81,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
@@ -45,14 +45,15 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5815,
-  "rank_in_category": 16,
+  "composite_score": 0.6372,
+  "rank_in_category": 14,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:56:26.537343Z",
-  "last_refreshed_at": "2026-06-05T16:23:25.696501Z"
+  "last_refreshed_at": "2026-06-07T10:43:39.093275Z"
 }

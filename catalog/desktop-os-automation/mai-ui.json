@@ -1,0 +1,56 @@
+{
+  "slug": "mai-ui",
+  "name": "MAI-UI",
+  "tagline": "MAI-UI: Real-World Centric Foundation GUI Agents ranging from 2B to 235B",
+  "category": "desktop-os-automation",
+  "tags": [
+    "device-cloud-collaboration",
+    "gui-agent",
+    "gui-grounding",
+    "gui-navigation",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Tongyi-MAI",
+    "url": "https://github.com/Tongyi-MAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tongyi-MAI/MAI-UI",
+    "huggingface": null,
+    "homepage": "https://tongyi-mai.github.io/MAI-UI-blog"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1817,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-20T06:18:25Z",
+    "first_commit_at": "2025-12-29T03:03:34Z",
+    "forks": 177,
+    "watchers": 19,
+    "open_issues": 32,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3968,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:28.160132Z",
+  "last_refreshed_at": "2026-06-07T09:48:20.860814Z"
+}

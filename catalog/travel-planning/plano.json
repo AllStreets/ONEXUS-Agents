@@ -1,0 +1,59 @@
+{
+  "slug": "plano",
+  "name": "plano",
+  "tagline": "Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic. ",
+  "category": "travel-planning",
+  "tags": [
+    "ai-gateway",
+    "ai-gateway-support",
+    "envoy",
+    "envoyproxy",
+    "gateway",
+    "generative-ai",
+    "llm-gateway",
+    "llm-inference",
+    "llm-proxy",
+    "llm-routing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "katanemo",
+    "url": "https://github.com/katanemo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "katanemo/plano",
+    "huggingface": null,
+    "homepage": "https://planoai.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6574,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T21:55:55Z",
+    "first_commit_at": "2024-07-09T20:25:56Z",
+    "forks": 429,
+    "watchers": 51,
+    "open_issues": 139,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7643,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T10:42:58.040561Z",
+  "last_refreshed_at": "2026-06-07T10:42:58.040565Z"
+}

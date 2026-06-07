@@ -42,14 +42,17 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3147,
-  "rank_in_category": 260,
+  "composite_score": 0.3293,
+  "rank_in_category": 286,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:48:42.933354Z",
-  "last_refreshed_at": "2026-06-06T14:35:51.824794Z"
+  "last_refreshed_at": "2026-06-07T09:38:44.621910Z"
 }

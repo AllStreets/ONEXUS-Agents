@@ -1,0 +1,59 @@
+{
+  "slug": "weknora",
+  "name": "WeKnora",
+  "tagline": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "agentic",
+    "ai",
+    "chatbot",
+    "embeddings",
+    "evaluation",
+    "generative-ai",
+    "golang",
+    "knowledge-base",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Tencent",
+    "url": "https://github.com/Tencent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tencent/WeKnora",
+    "huggingface": null,
+    "homepage": "https://weknora.weixin.qq.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 16047,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T11:35:02Z",
+    "first_commit_at": "2025-08-05T07:08:07Z",
+    "forks": 2063,
+    "watchers": 82,
+    "open_issues": 229,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6289,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:51:11.745379Z",
+  "last_refreshed_at": "2026-06-07T09:42:35.931268Z"
+}

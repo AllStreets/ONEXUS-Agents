@@ -1,0 +1,59 @@
+{
+  "slug": "diffusion-literature-for-robotics",
+  "name": "diffusion-literature-for-robotics",
+  "tagline": "Summary of key papers and blogs about diffusion models to learn about the topic. Detailed list of all published diffusion robotics papers.",
+  "category": "scientific-research",
+  "tags": [
+    "diffusion-models",
+    "grasping",
+    "grasping-robot",
+    "imitation-learning",
+    "literature",
+    "motion-planning",
+    "offline-rl",
+    "reinforcement-learning",
+    "robotics",
+    "score-based-generative-modeling"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mbreuss",
+    "url": "https://github.com/mbreuss"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mbreuss/diffusion-literature-for-robotics",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 914,
+    "downloads_30d": null,
+    "last_commit_at": "2024-09-20T08:16:38Z",
+    "first_commit_at": "2022-11-02T12:34:07Z",
+    "forks": 45,
+    "watchers": 29,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4282,
+  "rank_in_category": 180,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:04:46.851644Z",
+  "last_refreshed_at": "2026-06-07T10:03:06.941181Z"
+}

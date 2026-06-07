@@ -8,12 +8,12 @@
     "deepseek",
     "gpt-oss",
     "healthcare",
+    "ios",
     "llama",
     "llm",
     "mlx",
     "on-device",
-    "on-premise",
-    "qwen"
+    "on-premise"
   ],
   "author": {
     "type": "user",
@@ -28,9 +28,9 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 1362,
+    "stars": 1366,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-06T11:32:22Z",
+    "last_commit_at": "2026-06-06T19:40:37Z",
     "first_commit_at": "2025-10-04T15:13:34Z",
     "forks": 170,
     "watchers": 15,
@@ -45,14 +45,15 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5358,
-  "rank_in_category": 17,
+  "composite_score": 0.5352,
+  "rank_in_category": 16,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:53:21.831996Z",
-  "last_refreshed_at": "2026-06-06T15:21:00.006135Z"
+  "last_refreshed_at": "2026-06-07T10:41:56.469798Z"
 }

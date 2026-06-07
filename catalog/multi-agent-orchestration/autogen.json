@@ -28,13 +28,13 @@
   },
   "license": "CC-BY-4.0",
   "metrics": {
-    "stars": 58732,
+    "stars": 58741,
     "downloads_30d": null,
     "last_commit_at": "2026-04-15T11:59:09Z",
     "first_commit_at": "2020-12-04T17:40:27Z",
-    "forks": 8864,
-    "watchers": 527,
-    "open_issues": 876,
+    "forks": 8865,
+    "watchers": 525,
+    "open_issues": 880,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,7 +45,10 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "autogen"
+    ]
   },
   "benchmarks": [
     {
@@ -57,9 +60,9 @@
   ],
   "runnable": true,
   "adapter_ref": "adapters/autogen/mcp.json",
-  "composite_score": 0.6188,
+  "composite_score": 0.6333,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-06-06T14:29:57.512119Z"
+  "last_refreshed_at": "2026-06-07T09:32:11.892745Z"
 }

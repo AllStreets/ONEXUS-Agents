@@ -1,0 +1,59 @@
+{
+  "slug": "ossinsight",
+  "name": "ossinsight",
+  "tagline": "Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss",
+  "category": "sql-analytics",
+  "tags": [
+    "aisql",
+    "analytics",
+    "chat2query",
+    "demo",
+    "github",
+    "htap",
+    "insight",
+    "openai",
+    "oss",
+    "realtime"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pingcap",
+    "url": "https://github.com/pingcap"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pingcap/ossinsight",
+    "huggingface": null,
+    "homepage": "https://ossinsight.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2429,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T01:13:17Z",
+    "first_commit_at": "2022-01-19T10:36:40Z",
+    "forks": 430,
+    "watchers": 17,
+    "open_issues": 229,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4694,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:40.836218Z",
+  "last_refreshed_at": "2026-06-07T09:38:40.218920Z"
+}

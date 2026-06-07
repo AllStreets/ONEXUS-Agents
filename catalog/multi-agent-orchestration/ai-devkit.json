@@ -1,0 +1,61 @@
+{
+  "slug": "ai-devkit",
+  "name": "ai-devkit",
+  "tagline": "Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. One config. All agents. Same workflow.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "agent-skills",
+    "ai",
+    "ai-agents",
+    "ai-coding",
+    "antigravity",
+    "claude-code",
+    "cli",
+    "codex-cli",
+    "coding-agents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "codeaholicguy",
+    "url": "https://github.com/codeaholicguy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "codeaholicguy/ai-devkit",
+    "huggingface": null,
+    "homepage": "https://ai-devkit.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1301,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T00:28:50Z",
+    "first_commit_at": "2025-10-14T06:28:06Z",
+    "forks": 209,
+    "watchers": 14,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4252,
+  "rank_in_category": 124,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T10:40:22.764552Z",
+  "last_refreshed_at": "2026-06-07T10:40:22.764555Z"
+}

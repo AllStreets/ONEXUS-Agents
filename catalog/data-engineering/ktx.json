@@ -1,0 +1,61 @@
+{
+  "slug": "ktx",
+  "name": "ktx",
+  "tagline": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, and any AI agent to query data accurately through MCP with skills, memory and a semantic layer",
+  "category": "data-engineering",
+  "tags": [
+    "agent",
+    "agent-skills",
+    "agents",
+    "ai-agent",
+    "ai-agents",
+    "analytics",
+    "analytics-engineering",
+    "business-intelligence",
+    "claude",
+    "claude-code"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Kaelio",
+    "url": "https://github.com/Kaelio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Kaelio/ktx",
+    "huggingface": null,
+    "homepage": "https://docs.kaelio.com/ktx"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 932,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T07:30:36Z",
+    "first_commit_at": "2026-05-10T21:12:26Z",
+    "forks": 49,
+    "watchers": 2,
+    "open_issues": 18,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6118,
+  "rank_in_category": 55,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:02:18.133869Z",
+  "last_refreshed_at": "2026-06-07T09:59:25.811241Z"
+}

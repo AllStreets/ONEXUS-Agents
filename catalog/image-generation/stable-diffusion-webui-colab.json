@@ -45,14 +45,17 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "gradio"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5062,
-  "rank_in_category": 39,
+  "composite_score": 0.5288,
+  "rank_in_category": 33,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:30:12.338986Z",
-  "last_refreshed_at": "2026-06-06T14:56:21.543632Z"
+  "last_refreshed_at": "2026-06-07T10:01:35.753133Z"
 }

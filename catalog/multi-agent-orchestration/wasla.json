@@ -1,0 +1,61 @@
+{
+  "slug": "wasla",
+  "name": "wasla",
+  "tagline": "Universal synchronization layer for AI orchestrators, agents, MCP configs, skills, commands, and dev-tool workflows.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "ai-agents",
+    "ai-orchestration",
+    "ai-skills",
+    "ai-tools",
+    "automation",
+    "claude-code",
+    "cli",
+    "codex",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "The-Untitled-Org",
+    "url": "https://github.com/The-Untitled-Org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "The-Untitled-Org/wasla",
+    "huggingface": null,
+    "homepage": "https://the-untitled-org.github.io/wasla/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T23:18:33Z",
+    "first_commit_at": "2026-05-16T15:21:35Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3518,
+  "rank_in_category": 251,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T10:41:22.397730Z",
+  "last_refreshed_at": "2026-06-07T10:41:22.397734Z"
+}

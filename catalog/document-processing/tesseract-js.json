@@ -1,0 +1,54 @@
+{
+  "slug": "tesseract-js",
+  "name": "tesseract.js",
+  "tagline": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+  "category": "document-processing",
+  "tags": [
+    "deep-learning",
+    "javascript",
+    "ocr",
+    "tesseract",
+    "webassembly"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "naptha",
+    "url": "https://github.com/naptha"
+  },
+  "source": {
+    "primary": "github",
+    "github": "naptha/tesseract.js",
+    "huggingface": null,
+    "homepage": "http://tesseract.projectnaptha.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 38124,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-17T04:19:12Z",
+    "first_commit_at": "2015-06-26T21:54:30Z",
+    "forks": 2364,
+    "watchers": 478,
+    "open_issues": 45,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7124,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:20.595871Z",
+  "last_refreshed_at": "2026-06-07T10:21:28.476870Z"
+}

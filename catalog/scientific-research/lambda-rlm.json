@@ -1,0 +1,58 @@
+{
+  "slug": "lambda-rlm",
+  "name": "lambda-RLM",
+  "tagline": "Method for Long Context RLMs using verifiable Lambda Calculus ",
+  "category": "scientific-research",
+  "tags": [
+    "document-qa",
+    "functional-programming",
+    "lambda-calculus",
+    "llm",
+    "llm-inference",
+    "long-context",
+    "reasoning",
+    "recursive-language-model",
+    "recursive-language-models"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lambda-calculus-LLM",
+    "url": "https://github.com/lambda-calculus-LLM"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lambda-calculus-LLM/lambda-RLM",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 296,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-24T13:06:09Z",
+    "first_commit_at": "2026-03-09T15:24:17Z",
+    "forks": 16,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4778,
+  "rank_in_category": 137,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:27.412572Z",
+  "last_refreshed_at": "2026-06-07T10:18:06.415660Z"
+}

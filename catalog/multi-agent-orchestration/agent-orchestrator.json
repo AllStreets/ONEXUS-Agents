@@ -16,25 +16,25 @@
     "parallel-coding"
   ],
   "author": {
-    "type": "org",
-    "handle": "ComposioHQ",
-    "url": "https://github.com/ComposioHQ"
+    "type": "user",
+    "handle": "AgentWrapper",
+    "url": "https://github.com/AgentWrapper"
   },
   "source": {
     "primary": "github",
-    "github": "ComposioHQ/agent-orchestrator",
+    "github": "AgentWrapper/agent-orchestrator",
     "huggingface": null,
     "homepage": "https://composio.dev/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 7426,
+    "stars": 7437,
     "downloads_30d": null,
     "last_commit_at": "2026-06-01T23:43:32Z",
-    "first_commit_at": "2026-02-13T09:52:36Z",
-    "forks": 1014,
+    "first_commit_at": "2026-02-13T09:55:31Z",
+    "forks": 1013,
     "watchers": 29,
-    "open_issues": 942,
+    "open_issues": 941,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,14 +45,15 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4278,
-  "rank_in_category": 62,
+  "composite_score": 0.4271,
+  "rank_in_category": 121,
   "discovered_via": "auto",
-  "first_seen_at": "2026-04-30T03:29:13.696565Z",
-  "last_refreshed_at": "2026-06-06T15:19:09.410741Z"
+  "first_seen_at": "2026-06-07T10:40:10.749738Z",
+  "last_refreshed_at": "2026-06-07T10:40:10.749741Z"
 }

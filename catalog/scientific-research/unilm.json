@@ -1,0 +1,59 @@
+{
+  "slug": "unilm",
+  "name": "unilm",
+  "tagline": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+  "category": "scientific-research",
+  "tags": [
+    "beit",
+    "beit-3",
+    "bitnet",
+    "deepnet",
+    "document-ai",
+    "foundation-models",
+    "kosmos",
+    "kosmos-1",
+    "layoutlm",
+    "layoutxlm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/unilm",
+    "huggingface": null,
+    "homepage": "https://aka.ms/GeneralAI"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 22143,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-23T04:09:35Z",
+    "first_commit_at": "2019-07-23T04:15:29Z",
+    "forks": 2696,
+    "watchers": 297,
+    "open_issues": 680,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6349,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:02.102049Z",
+  "last_refreshed_at": "2026-06-07T10:28:07.647369Z"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "loopat",
+  "name": "loopat",
+  "tagline": "Self-hosted AI workspace built around context management. Works solo, scales to teams.",
+  "category": "knowledge-management",
+  "tags": [
+    "agentic-ai",
+    "ai-agent",
+    "claude",
+    "claude-agetn-sdk",
+    "coding-agent",
+    "context-management",
+    "developer-tools",
+    "team-collaboration"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "simpx",
+    "url": "https://github.com/simpx"
+  },
+  "source": {
+    "primary": "github",
+    "github": "simpx/loopat",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 54,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T03:00:04Z",
+    "first_commit_at": "2026-05-04T16:06:45Z",
+    "forks": 10,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.521,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:46.914500Z",
+  "last_refreshed_at": "2026-06-07T09:36:48.495452Z"
+}

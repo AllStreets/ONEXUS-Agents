@@ -1,37 +1,32 @@
 {
   "slug": "localmind",
   "name": "LocalMind",
-  "tagline": "Locally Talk with your private documents, and even do a private research without any tokens concerns",
+  "tagline": "Private AI research agent — web search, document ingestion, RAG memory. Runs entirely in your browser.",
   "category": "search-rag",
-  "tags": [
-    "llms",
-    "open-source",
-    "rag-agent",
-    "web-agent"
-  ],
+  "tags": [],
   "author": {
     "type": "user",
-    "handle": "parkky21",
-    "url": "https://github.com/parkky21"
+    "handle": "NakliTechie",
+    "url": "https://github.com/NakliTechie"
   },
   "source": {
     "primary": "github",
-    "github": "parkky21/LocalMind",
+    "github": "NakliTechie/LocalMind",
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 4,
+    "stars": 53,
     "downloads_30d": null,
-    "last_commit_at": "2025-07-17T05:58:09Z",
-    "first_commit_at": "2025-07-16T20:04:14Z",
-    "forks": null,
-    "watchers": null,
-    "open_issues": null,
-    "archived": null,
-    "is_fork": null,
-    "is_template": null,
+    "last_commit_at": "2026-06-04T15:07:06Z",
+    "first_commit_at": "2026-04-03T09:56:47Z",
+    "forks": 6,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
@@ -39,14 +34,15 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1806,
-  "rank_in_category": 199,
+  "composite_score": 0.4086,
+  "rank_in_category": 124,
   "discovered_via": "auto",
-  "first_seen_at": "2026-04-30T03:26:20.972603Z",
-  "last_refreshed_at": "2026-04-30T16:15:20.537167Z"
+  "first_seen_at": "2026-06-06T10:07:28.838719Z",
+  "last_refreshed_at": "2026-06-07T10:10:12.169299Z"
 }

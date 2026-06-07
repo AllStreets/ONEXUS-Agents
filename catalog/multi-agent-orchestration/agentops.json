@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 5606,
+    "stars": 5608,
     "downloads_30d": null,
     "last_commit_at": "2026-03-19T18:37:57Z",
-    "first_commit_at": "2023-08-15T23:26:23Z",
-    "forks": 589,
+    "first_commit_at": "2023-08-15T23:26:58Z",
+    "forks": 590,
     "watchers": 50,
-    "open_issues": 161,
+    "open_issues": 163,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,14 +45,21 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "autogen",
+      "crewai",
+      "langchain",
+      "openai-agents-sdk"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4088,
-  "rank_in_category": 88,
+  "composite_score": 0.4233,
+  "rank_in_category": 130,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:52:38.943680Z",
-  "last_refreshed_at": "2026-06-06T15:19:39.899238Z"
+  "last_refreshed_at": "2026-06-07T10:41:03.273564Z"
 }

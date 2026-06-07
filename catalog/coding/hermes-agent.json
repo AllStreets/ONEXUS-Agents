@@ -1,0 +1,61 @@
+{
+  "slug": "hermes-agent",
+  "name": "hermes-agent",
+  "tagline": "The agent that grows with you",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "clawdbot",
+    "codex",
+    "hermes"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NousResearch",
+    "url": "https://github.com/NousResearch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NousResearch/hermes-agent",
+    "huggingface": null,
+    "homepage": "https://hermes-agent.nousresearch.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 185193,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T10:09:56Z",
+    "first_commit_at": "2025-07-23T01:32:44Z",
+    "forks": 31818,
+    "watchers": 724,
+    "open_issues": 18831,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4693,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:18.064854Z",
+  "last_refreshed_at": "2026-06-07T10:21:13.908051Z"
+}

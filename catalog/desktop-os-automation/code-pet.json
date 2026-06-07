@@ -1,0 +1,57 @@
+{
+  "slug": "code-pet",
+  "name": "code-pet",
+  "tagline": "A desktop pet that reacts to Claude Code in real time — sips tea, codes, runs, panics, and celebrates as your AI pair programmer works.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "claude",
+    "claude-code",
+    "desktop-pet",
+    "developer-tools",
+    "hooks",
+    "rust",
+    "stick-figure",
+    "tauri"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Xiaooolong",
+    "url": "https://github.com/Xiaooolong"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Xiaooolong/code-pet",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-16T19:27:17Z",
+    "first_commit_at": "2026-03-13T15:16:13Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2266,
+  "rank_in_category": 232,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:57.642591Z",
+  "last_refreshed_at": "2026-06-07T09:39:17.230750Z"
+}

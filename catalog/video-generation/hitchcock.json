@@ -1,0 +1,53 @@
+{
+  "slug": "hitchcock",
+  "name": "Hitchcock",
+  "tagline": "Hitchcock a multi-agent movie maker, powered by mahilo",
+  "category": "video-generation",
+  "tags": [
+    "agents",
+    "elevenlabs",
+    "fal-ai",
+    "mahilo"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ayushnangia",
+    "url": "https://github.com/ayushnangia"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ayushnangia/Hitchcock",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 72,
+    "downloads_30d": null,
+    "last_commit_at": "2025-02-24T11:39:41Z",
+    "first_commit_at": "2025-02-22T06:19:36Z",
+    "forks": 17,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3232,
+  "rank_in_category": 163,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:07:26.055453Z",
+  "last_refreshed_at": "2026-06-07T10:10:06.248407Z"
+}

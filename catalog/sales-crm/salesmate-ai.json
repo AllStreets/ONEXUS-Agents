@@ -26,13 +26,13 @@
     "stars": 2,
     "downloads_30d": null,
     "last_commit_at": "2025-12-17T09:57:51Z",
-    "first_commit_at": "2025-12-16T18:49:07Z",
-    "forks": null,
-    "watchers": null,
-    "open_issues": null,
-    "archived": null,
-    "is_fork": null,
-    "is_template": null,
+    "first_commit_at": "2025-12-16T18:48:22Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
@@ -40,14 +40,17 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3246,
-  "rank_in_category": 34,
+  "composite_score": 0.295,
+  "rank_in_category": 92,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:30:23.502590Z",
-  "last_refreshed_at": "2026-06-05T16:22:35.708712Z"
+  "last_refreshed_at": "2026-06-07T10:43:05.278469Z"
 }

@@ -1,40 +1,29 @@
 {
   "slug": "agents",
   "name": "agents",
-  "tagline": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI",
+  "tagline": "Open-source framework for developing real-time multimodal conversational AI agents.",
   "category": "multi-agent-orchestration",
-  "tags": [
-    "agent-skills",
-    "agentic-ai",
-    "agents",
-    "ai-agents",
-    "anthropic",
-    "automation",
-    "claude-code",
-    "claude-code-plugins",
-    "codex-cli",
-    "copilot"
-  ],
+  "tags": [],
   "author": {
-    "type": "user",
-    "handle": "wshobson",
-    "url": "https://github.com/wshobson"
+    "type": "org",
+    "handle": "videosdk-live",
+    "url": "https://github.com/videosdk-live"
   },
   "source": {
     "primary": "github",
-    "github": "wshobson/agents",
+    "github": "videosdk-live/agents",
     "huggingface": null,
-    "homepage": "https://sethhobson.com/"
+    "homepage": "https://docs.videosdk.live/ai_agents/introduction"
   },
-  "license": "MIT",
+  "license": "Apache-2.0",
   "metrics": {
-    "stars": 36428,
+    "stars": 628,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-05T08:23:07Z",
-    "first_commit_at": "2025-07-24T23:28:14Z",
-    "forks": 3948,
-    "watchers": 315,
-    "open_issues": 6,
+    "last_commit_at": "2026-06-05T10:59:10Z",
+    "first_commit_at": "2025-05-02T06:49:27Z",
+    "forks": 90,
+    "watchers": 8,
+    "open_issues": 4,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,14 +34,15 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.472,
-  "rank_in_category": 18,
+  "composite_score": 0.3987,
+  "rank_in_category": 163,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-11T16:29:22.134833Z",
-  "last_refreshed_at": "2026-06-06T15:19:07.406163Z"
+  "first_seen_at": "2026-06-06T10:06:16.710049Z",
+  "last_refreshed_at": "2026-06-07T10:05:14.385990Z"
 }

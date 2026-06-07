@@ -1,0 +1,59 @@
+{
+  "slug": "h2ogpt",
+  "name": "h2ogpt",
+  "tagline": "Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/",
+  "category": "knowledge-management",
+  "tags": [
+    "ai",
+    "chatgpt",
+    "embeddings",
+    "fedramp",
+    "generative",
+    "gpt",
+    "gpt4all",
+    "llama2",
+    "llm",
+    "mixtral"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "h2oai",
+    "url": "https://github.com/h2oai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "h2oai/h2ogpt",
+    "huggingface": null,
+    "homepage": "http://h2o.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 11987,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-09T23:30:01Z",
+    "first_commit_at": "2023-03-13T21:34:26Z",
+    "forks": 1309,
+    "watchers": 144,
+    "open_issues": 329,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2132,
+  "rank_in_category": 107,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:17.896820Z",
+  "last_refreshed_at": "2026-06-07T10:29:23.783665Z"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "flash-1-mini",
+  "name": "flash-1-mini",
+  "tagline": "Developer companion for flash-1-mini — bilingual Canadian legal AI model. Code, examples, and docs. Model weights on Hugging Face.",
+  "category": "legal-research",
+  "tags": [
+    "bilingual",
+    "canada",
+    "french",
+    "gguf",
+    "legal-ai",
+    "legal-research",
+    "llm",
+    "ollama",
+    "qwen",
+    "transformers"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "getsimpledirect",
+    "url": "https://github.com/getsimpledirect"
+  },
+  "source": {
+    "primary": "github",
+    "github": "getsimpledirect/flash-1-mini",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/simpledirect/flash-1-mini"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-02T14:54:45Z",
+    "first_commit_at": "2026-06-02T13:32:15Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2156,
+  "rank_in_category": 120,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T09:52:24.992733Z",
+  "last_refreshed_at": "2026-06-07T09:52:24.992737Z"
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "azure-pipelines-agent-cookbook",
+  "name": "azure-pipelines-agent-cookbook",
+  "tagline": "Chef Cookbook to install and manage Azure Pipelines Agent for Build and Release tasks",
+  "category": "devops-sre",
+  "tags": [
+    "azure-devops",
+    "azure-pipelines",
+    "azure-pipelines-agent",
+    "chef",
+    "cookbook"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/azure-pipelines-agent-cookbook",
+    "huggingface": null,
+    "homepage": "https://supermarket.chef.io/cookbooks/vsts_agent"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 39,
+    "downloads_30d": null,
+    "last_commit_at": "2021-06-27T21:53:52Z",
+    "first_commit_at": "2016-01-19T20:47:00Z",
+    "forks": 27,
+    "watchers": 29,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3024,
+  "rank_in_category": 186,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:37.541632Z",
+  "last_refreshed_at": "2026-06-07T09:45:08.515119Z"
+}

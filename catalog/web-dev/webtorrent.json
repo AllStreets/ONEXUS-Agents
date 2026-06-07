@@ -1,0 +1,59 @@
+{
+  "slug": "webtorrent",
+  "name": "webtorrent",
+  "tagline": "⚡️ Streaming torrent client for the web",
+  "category": "web-dev",
+  "tags": [
+    "bittorrent",
+    "browser",
+    "hacktoberfest",
+    "javascript",
+    "nodejs",
+    "p2p",
+    "streaming",
+    "torrent",
+    "webrtc",
+    "webtorrent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "webtorrent",
+    "url": "https://github.com/webtorrent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "webtorrent/webtorrent",
+    "huggingface": null,
+    "homepage": "https://webtorrent.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 30976,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T23:08:31Z",
+    "first_commit_at": "2013-10-15T08:16:40Z",
+    "forks": 2788,
+    "watchers": 670,
+    "open_issues": 70,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6762,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:21.639138Z",
+  "last_refreshed_at": "2026-06-07T10:21:34.286529Z"
+}

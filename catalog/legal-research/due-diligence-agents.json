@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "zoharbabin/due-diligence-agents",
     "huggingface": null,
-    "homepage": "https://pypi.org/project/dd-agents/"
+    "homepage": "https://zoharbabin.github.io/due-diligence-agents/"
   },
   "license": "Apache-2.0",
   "metrics": {
     "stars": 38,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-06T13:40:03Z",
+    "last_commit_at": "2026-06-07T05:10:17Z",
     "first_commit_at": "2026-03-30T21:57:02Z",
-    "forks": 8,
+    "forks": 9,
     "watchers": 0,
-    "open_issues": 11,
+    "open_issues": 17,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,14 +45,17 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2979,
-  "rank_in_category": 47,
+  "composite_score": 0.3139,
+  "rank_in_category": 35,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:25:18.710881Z",
-  "last_refreshed_at": "2026-06-06T14:47:40.168167Z"
+  "last_refreshed_at": "2026-06-07T09:51:59.890177Z"
 }

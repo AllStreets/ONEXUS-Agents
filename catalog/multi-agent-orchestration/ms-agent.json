@@ -1,0 +1,55 @@
+{
+  "slug": "ms-agent",
+  "name": "ms-agent",
+  "tagline": "MS-Agent: a lightweight framework to empower agentic execution of complex tasks",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-insight",
+    "agentic-search",
+    "chat-bot",
+    "code-generation",
+    "deep-research",
+    "memory"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "modelscope",
+    "url": "https://github.com/modelscope"
+  },
+  "source": {
+    "primary": "github",
+    "github": "modelscope/ms-agent",
+    "huggingface": null,
+    "homepage": "https://ms-agent-en.readthedocs.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4288,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T06:21:35Z",
+    "first_commit_at": "2023-07-13T01:59:58Z",
+    "forks": 505,
+    "watchers": 47,
+    "open_issues": 28,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4202,
+  "rank_in_category": 134,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:10:54.469191Z",
+  "last_refreshed_at": "2026-06-07T10:15:37.036511Z"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "automodel",
+  "name": "Automodel",
+  "tagline": "🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support",
+  "category": "data-science-ml",
+  "tags": [
+    "agent",
+    "deepseek-v3-2",
+    "deepseek-v4",
+    "finetuning",
+    "gemma3",
+    "gemma4",
+    "glm",
+    "gpt-oss",
+    "kimi-k2",
+    "llama"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NVIDIA-NeMo",
+    "url": "https://github.com/NVIDIA-NeMo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVIDIA-NeMo/Automodel",
+    "huggingface": null,
+    "homepage": "https://docs.nvidia.com/nemo/automodel/nightly/index.html"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 563,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T08:47:38Z",
+    "first_commit_at": "2025-05-21T22:28:29Z",
+    "forks": 177,
+    "watchers": 8,
+    "open_issues": 275,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5271,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:06:17.311217Z",
+  "last_refreshed_at": "2026-06-07T10:05:15.536653Z"
+}

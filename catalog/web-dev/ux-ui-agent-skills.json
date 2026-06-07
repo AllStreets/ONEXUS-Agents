@@ -1,9 +1,20 @@
 {
   "slug": "ux-ui-agent-skills",
   "name": "ux-ui-agent-skills",
-  "tagline": "ux-ui-agent-skills",
+  "tagline": "Turn Claude into a Senior Design Architect — DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework code, 138 design systems, and runnable skills.",
   "category": "web-dev",
-  "tags": [],
+  "tags": [
+    "accessibility",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "component-library",
+    "design-system",
+    "design-to-code",
+    "design-tokens",
+    "dtcg"
+  ],
   "author": {
     "type": "user",
     "handle": "plugin87",
@@ -17,11 +28,11 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 201,
+    "stars": 209,
     "downloads_30d": null,
-    "last_commit_at": "2026-03-16T13:28:36Z",
+    "last_commit_at": "2026-06-06T18:29:52Z",
     "first_commit_at": "2026-03-16T13:28:14Z",
-    "forks": 14,
+    "forks": 15,
     "watchers": 1,
     "open_issues": 1,
     "archived": false,
@@ -34,14 +45,15 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3826,
-  "rank_in_category": 164,
+  "composite_score": 0.473,
+  "rank_in_category": 132,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:51:40.084038Z",
-  "last_refreshed_at": "2026-06-06T14:39:59.626996Z"
+  "last_refreshed_at": "2026-06-07T09:43:32.071441Z"
 }

@@ -1,0 +1,59 @@
+{
+  "slug": "blue-agent",
+  "name": "blue-agent",
+  "tagline": "Deploy Azure Pipelines agent on Kubernetes. Easy way, cheap. Meet SLSA level 4. Windows and Linux.",
+  "category": "devops-sre",
+  "tags": [
+    "agent",
+    "auto-scale",
+    "azure",
+    "azure-devops",
+    "azure-pipelines",
+    "container",
+    "devops",
+    "docker",
+    "helm",
+    "keda"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "clemlesne",
+    "url": "https://github.com/clemlesne"
+  },
+  "source": {
+    "primary": "github",
+    "github": "clemlesne/blue-agent",
+    "huggingface": null,
+    "homepage": "https://clemlesne.github.io/blue-agent/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 63,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-14T13:33:43Z",
+    "first_commit_at": "2020-01-11T15:42:29Z",
+    "forks": 22,
+    "watchers": 3,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3181,
+  "rank_in_category": 163,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:35.854305Z",
+  "last_refreshed_at": "2026-06-07T09:45:04.987296Z"
+}

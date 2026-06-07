@@ -1,0 +1,48 @@
+{
+  "slug": "seo-agent",
+  "name": "seo-agent",
+  "tagline": "Implementation of an SEO Agent using SerpApi Search, Autocomplete, News API + OpenAI models.",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "serpapi",
+    "url": "https://github.com/serpapi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "serpapi/seo-agent",
+    "huggingface": null,
+    "homepage": "https://serpapi.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-10T12:16:25Z",
+    "first_commit_at": "2025-09-08T16:58:57Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2164,
+  "rank_in_category": 243,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T10:00:45.499362Z",
+  "last_refreshed_at": "2026-06-07T10:00:45.499365Z"
+}

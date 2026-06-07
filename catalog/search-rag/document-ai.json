@@ -1,0 +1,48 @@
+{
+  "slug": "document-ai",
+  "name": "document.ai",
+  "tagline": "基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "GanymedeNil",
+    "url": "https://github.com/GanymedeNil"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GanymedeNil/document.ai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 3674,
+    "downloads_30d": null,
+    "last_commit_at": "2023-05-12T10:31:26Z",
+    "first_commit_at": "2023-03-10T02:30:14Z",
+    "forks": 326,
+    "watchers": 42,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4141,
+  "rank_in_category": 123,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:10.612771Z",
+  "last_refreshed_at": "2026-06-07T10:28:46.028852Z"
+}

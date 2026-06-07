@@ -1,0 +1,58 @@
+{
+  "slug": "icepick",
+  "name": "icepick",
+  "tagline": "Build agents that scale with a zero-cost abstraction.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "bun",
+    "llm",
+    "no-frameworks",
+    "nodejs",
+    "orchestration",
+    "scalability",
+    "typescript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "hatchet-dev",
+    "url": "https://github.com/hatchet-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hatchet-dev/icepick",
+    "huggingface": null,
+    "homepage": "https://icepick.hatchet.run/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 574,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-29T18:56:17Z",
+    "first_commit_at": "2025-06-13T14:43:23Z",
+    "forks": 27,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2709,
+  "rank_in_category": 398,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:02:09.472140Z",
+  "last_refreshed_at": "2026-06-07T09:59:07.779397Z"
+}

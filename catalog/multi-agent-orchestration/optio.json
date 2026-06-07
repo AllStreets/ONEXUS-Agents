@@ -1,0 +1,58 @@
+{
+  "slug": "optio",
+  "name": "optio",
+  "tagline": "Workflow orchestration for AI coding agents, from task to merged PR.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agents",
+    "ai",
+    "claude-code",
+    "copilot",
+    "gemini",
+    "kubernetes",
+    "opencode",
+    "orchestration"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jonwiggins",
+    "url": "https://github.com/jonwiggins"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jonwiggins/optio",
+    "huggingface": null,
+    "homepage": "https://optio.host/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 975,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T18:23:25Z",
+    "first_commit_at": "2026-03-19T19:50:12Z",
+    "forks": 110,
+    "watchers": 9,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3577,
+  "rank_in_category": 243,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:04:38.617551Z",
+  "last_refreshed_at": "2026-06-07T10:02:51.994635Z"
+}

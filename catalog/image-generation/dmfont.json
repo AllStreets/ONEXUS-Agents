@@ -1,0 +1,54 @@
+{
+  "slug": "dmfont",
+  "name": "dmfont",
+  "tagline": "Official PyTorch implementation of DM-Font (ECCV 2020)",
+  "category": "image-generation",
+  "tags": [
+    "dmfont",
+    "eccv2020",
+    "few-shot",
+    "font-generation",
+    "pytorch"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "clovaai",
+    "url": "https://github.com/clovaai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "clovaai/dmfont",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 147,
+    "downloads_30d": null,
+    "last_commit_at": "2023-10-03T21:35:59Z",
+    "first_commit_at": "2020-07-07T09:21:53Z",
+    "forks": 41,
+    "watchers": 4,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3155,
+  "rank_in_category": 162,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:06:53.413200Z",
+  "last_refreshed_at": "2026-06-07T10:09:26.946152Z"
+}

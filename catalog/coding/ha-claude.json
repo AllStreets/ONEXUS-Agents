@@ -1,0 +1,61 @@
+{
+  "slug": "ha-claude",
+  "name": "ha-claude",
+  "tagline": "Home Assistant add-on: Claude Code, OpenAI/GPT, Gemini",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-assistant",
+    "anthropic",
+    "chatbot",
+    "chatgpt",
+    "claude",
+    "function-calling",
+    "gemini",
+    "gpt",
+    "home-assistant"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Bobsilvio",
+    "url": "https://github.com/Bobsilvio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Bobsilvio/ha-claude",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 78,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-17T09:36:15Z",
+    "first_commit_at": "2026-02-08T09:09:51Z",
+    "forks": 7,
+    "watchers": 5,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.286,
+  "rank_in_category": 403,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:07:57.631659Z",
+  "last_refreshed_at": "2026-06-07T10:11:08.029294Z"
+}

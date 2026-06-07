@@ -1,0 +1,59 @@
+{
+  "slug": "burr",
+  "name": "burr",
+  "tagline": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai",
+    "burr",
+    "chatbot-framework",
+    "dags",
+    "generative-ai",
+    "graphs",
+    "hacktoberfest",
+    "llmops",
+    "llms",
+    "mlops"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "apache",
+    "url": "https://github.com/apache"
+  },
+  "source": {
+    "primary": "github",
+    "github": "apache/burr",
+    "huggingface": null,
+    "homepage": "https://burr.apache.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2022,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T16:55:48Z",
+    "first_commit_at": "2024-01-29T23:27:08Z",
+    "forks": 144,
+    "watchers": 12,
+    "open_issues": 96,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4465,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:00:33.096814Z",
+  "last_refreshed_at": "2026-06-07T09:56:39.351725Z"
+}

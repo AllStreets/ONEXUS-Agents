@@ -1,0 +1,61 @@
+{
+  "slug": "oh-my-openagent",
+  "name": "oh-my-openagent",
+  "tagline": "omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "claude-skills",
+    "codex",
+    "cursor",
+    "gemini",
+    "ide"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "code-yeongyu",
+    "url": "https://github.com/code-yeongyu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "code-yeongyu/oh-my-openagent",
+    "huggingface": null,
+    "homepage": "https://omo.dev/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 61325,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T09:45:21Z",
+    "first_commit_at": "2025-12-03T02:28:10Z",
+    "forks": 4957,
+    "watchers": 213,
+    "open_issues": 649,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4357,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:00:15.771341Z",
+  "last_refreshed_at": "2026-06-07T09:56:07.171286Z"
+}

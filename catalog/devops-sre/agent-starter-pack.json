@@ -1,0 +1,57 @@
+{
+  "slug": "agent-starter-pack",
+  "name": "agent-starter-pack",
+  "tagline": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+  "category": "devops-sre",
+  "tags": [
+    "agents",
+    "gcp",
+    "gemini",
+    "genai-agents",
+    "generative-ai",
+    "llmops",
+    "mlops",
+    "observability"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "GoogleCloudPlatform",
+    "url": "https://github.com/GoogleCloudPlatform"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GoogleCloudPlatform/agent-starter-pack",
+    "huggingface": null,
+    "homepage": "https://googlecloudplatform.github.io/agent-starter-pack/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6458,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T18:57:09Z",
+    "first_commit_at": "2025-02-27T11:24:30Z",
+    "forks": 1486,
+    "watchers": 63,
+    "open_issues": 34,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6177,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:51:14.845488Z",
+  "last_refreshed_at": "2026-06-07T09:42:42.332740Z"
+}

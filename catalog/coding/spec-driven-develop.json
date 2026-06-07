@@ -1,10 +1,11 @@
 {
   "slug": "spec-driven-develop",
   "name": "spec_driven_develop",
-  "tagline": "A structured development methodology for AI coding agents, inspired by Qian Xuesen's engineering cybernetics. Closed-loop feedback control keeps plans aligned with reality. Pure Markdown, any platform",
+  "tagline": "Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and",
   "category": "coding",
   "tags": [
     "ai-agent",
+    "ai-assisted-development",
     "ai-coding-assistant",
     "claude-code",
     "codex",
@@ -12,8 +13,7 @@
     "dev-workflow",
     "developer-tools",
     "engineering-cybernetics",
-    "markdown",
-    "project-planning"
+    "github-issues"
   ],
   "author": {
     "type": "user",
@@ -28,11 +28,11 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 892,
+    "stars": 895,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-01T07:29:13Z",
+    "last_commit_at": "2026-06-07T08:18:28Z",
     "first_commit_at": "2026-03-21T09:37:12Z",
-    "forks": 92,
+    "forks": 93,
     "watchers": 3,
     "open_issues": 0,
     "archived": false,
@@ -45,14 +45,15 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3117,
-  "rank_in_category": 268,
+  "composite_score": 0.317,
+  "rank_in_category": 327,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-30T20:53:30.830538Z",
-  "last_refreshed_at": "2026-06-06T14:30:52.553303Z"
+  "last_refreshed_at": "2026-06-07T09:32:55.583627Z"
 }
