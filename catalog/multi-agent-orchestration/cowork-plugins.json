@@ -1,0 +1,62 @@
+{
+  "slug": "cowork-plugins",
+  "name": "cowork-plugins",
+  "tagline": "Claude Cowork 한국어 도메인 전문가 AI 마켓플레이스 — 21 plugins · 108 skills · Korean B2B (business · finance · legal · HR · marketing · content · commerce · BI · PM · sales) + AI media (image/video/voice) + office ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "ai-agents",
+    "ai-marketplace",
+    "ai-plugins",
+    "anthropic",
+    "automation-tools",
+    "b2b-ai",
+    "claude-code",
+    "claude-cowork",
+    "claude-plugins"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "modu-ai",
+    "url": "https://github.com/modu-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "modu-ai/cowork-plugins",
+    "huggingface": null,
+    "homepage": "https://cowork.mo.ai.kr/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 215,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T23:54:46Z",
+    "first_commit_at": "2026-04-04T15:31:19Z",
+    "forks": 51,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3761,
+  "rank_in_category": 204,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:00:55.714201Z",
+  "last_refreshed_at": "2026-06-07T09:57:21.847271Z"
+}

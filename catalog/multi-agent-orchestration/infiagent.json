@@ -1,0 +1,53 @@
+{
+  "slug": "infiagent",
+  "name": "infiAgent",
+  "tagline": "Build your own Cowork, AI Scientist and other SoTA Agents just by editing config files. Support anthropic skills. An infinite-horizon agent framework designed for long-running, complex tasks.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "framework",
+    "sdk",
+    "sdk-python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "polyuiislab",
+    "url": "https://github.com/polyuiislab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "polyuiislab/infiAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 1176,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-06T12:34:54Z",
+    "first_commit_at": "2025-10-21T03:50:45Z",
+    "forks": 51,
+    "watchers": 3,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3434,
+  "rank_in_category": 263,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:44.419873Z",
+  "last_refreshed_at": "2026-06-07T10:26:36.100310Z"
+}

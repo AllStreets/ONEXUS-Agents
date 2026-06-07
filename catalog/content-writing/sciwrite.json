@@ -1,0 +1,48 @@
+{
+  "slug": "sciwrite",
+  "name": "sciwrite",
+  "tagline": "Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin Sainani's \"Writing in the Sciences\" methodology.",
+  "category": "content-writing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "labarba",
+    "url": "https://github.com/labarba"
+  },
+  "source": {
+    "primary": "github",
+    "github": "labarba/sciwrite",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 691,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T00:42:44Z",
+    "first_commit_at": "2026-04-05T00:12:18Z",
+    "forks": 93,
+    "watchers": 3,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5205,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:54.158571Z",
+  "last_refreshed_at": "2026-06-07T10:23:27.446351Z"
+}

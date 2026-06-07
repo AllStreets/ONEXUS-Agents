@@ -1,0 +1,59 @@
+{
+  "slug": "conductor",
+  "name": "conductor",
+  "tagline": "Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "distributed-systems",
+    "durable-execution",
+    "grpc",
+    "java",
+    "javascript",
+    "microservice-orchestration",
+    "orchestration-engine",
+    "orchestrator",
+    "reactjs",
+    "spring-boot"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "conductor-oss",
+    "url": "https://github.com/conductor-oss"
+  },
+  "source": {
+    "primary": "github",
+    "github": "conductor-oss/conductor",
+    "huggingface": null,
+    "homepage": "https://docs.conductor-oss.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 31899,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T19:30:43Z",
+    "first_commit_at": "2016-12-07T22:49:52Z",
+    "forks": 918,
+    "watchers": 49,
+    "open_issues": 191,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4904,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:37.476321Z",
+  "last_refreshed_at": "2026-06-07T09:36:29.128983Z"
+}

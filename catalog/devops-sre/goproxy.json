@@ -1,0 +1,59 @@
+{
+  "slug": "goproxy",
+  "name": "goproxy",
+  "tagline": "🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port",
+  "category": "devops-sre",
+  "tags": [
+    "dns-proxy",
+    "encryption-proxy",
+    "http",
+    "http-proxy",
+    "https-proxy",
+    "kcptun",
+    "reverse-proxy",
+    "socket",
+    "socks5",
+    "socks5-proxy"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "snail007",
+    "url": "https://github.com/snail007"
+  },
+  "source": {
+    "primary": "github",
+    "github": "snail007/goproxy",
+    "huggingface": null,
+    "homepage": "https://www.goproxy.win/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 16975,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-02T08:34:45Z",
+    "first_commit_at": "2021-05-11T05:40:18Z",
+    "forks": 3093,
+    "watchers": 437,
+    "open_issues": 144,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4891,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:09:15.682121Z",
+  "last_refreshed_at": "2026-06-07T10:12:58.498335Z"
+}

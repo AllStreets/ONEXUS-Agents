@@ -28,10 +28,10 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 485,
+    "stars": 486,
     "downloads_30d": null,
     "last_commit_at": "2026-05-29T10:01:53Z",
-    "first_commit_at": "2025-10-24T15:36:01Z",
+    "first_commit_at": "2025-11-20T16:27:19Z",
     "forks": 70,
     "watchers": 7,
     "open_issues": 7,
@@ -45,14 +45,18 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6155,
-  "rank_in_category": 16,
+  "composite_score": 0.6355,
+  "rank_in_category": 15,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:14:55.198996Z",
-  "last_refreshed_at": "2026-06-06T15:12:24.650146Z"
+  "last_refreshed_at": "2026-06-07T10:31:12.398056Z"
 }

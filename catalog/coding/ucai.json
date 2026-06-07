@@ -1,0 +1,61 @@
+{
+  "slug": "ucai",
+  "name": "UCAI",
+  "tagline": "Universal Contract AI Interface (UCAI) 🔗 ABI to MCP | The open standard for connecting AI agents to blockchain. MCP server generator for smart contracts. Claude + Uniswap, Aave, ERC20, NFTs, DeFi. Pyt",
+  "category": "coding",
+  "tags": [
+    "abi",
+    "ai-agents",
+    "arbitrum",
+    "blockchain",
+    "claude",
+    "defi",
+    "erc20",
+    "ethereum",
+    "evm",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nirholas",
+    "url": "https://github.com/nirholas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nirholas/UCAI",
+    "huggingface": null,
+    "homepage": "https://ucai.tech/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 33,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T05:09:27Z",
+    "first_commit_at": "2026-01-04T23:28:59Z",
+    "forks": 11,
+    "watchers": 2,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.323,
+  "rank_in_category": 304,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:14.417176Z",
+  "last_refreshed_at": "2026-06-07T09:47:52.715181Z"
+}

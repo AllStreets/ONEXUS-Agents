@@ -1,0 +1,50 @@
+{
+  "slug": "openai-cs-agents-demo",
+  "name": "openai-cs-agents-demo",
+  "tagline": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
+  "category": "customer-support",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "openai",
+    "url": "https://github.com/openai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openai/openai-cs-agents-demo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6388,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-18T07:58:03Z",
+    "first_commit_at": "2025-06-14T03:09:55Z",
+    "forks": 978,
+    "watchers": 60,
+    "open_issues": 28,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "openai-agents-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.556,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:17.254109Z",
+  "last_refreshed_at": "2026-06-07T10:25:05.862599Z"
+}

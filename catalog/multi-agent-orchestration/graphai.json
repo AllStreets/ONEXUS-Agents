@@ -1,0 +1,48 @@
+{
+  "slug": "graphai",
+  "name": "graphai",
+  "tagline": "GraphAI is an asynchronous data flow execution engine, which allows developers to build agentic applications by describing agent workflows as declarative data flow graphs in YAML or JSON.",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "receptron",
+    "url": "https://github.com/receptron"
+  },
+  "source": {
+    "primary": "github",
+    "github": "receptron/graphai",
+    "huggingface": null,
+    "homepage": "https://graphai.info/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 371,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T07:04:55Z",
+    "first_commit_at": "2024-04-05T21:09:18Z",
+    "forks": 54,
+    "watchers": 8,
+    "open_issues": 21,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4098,
+  "rank_in_category": 150,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:47.672872Z",
+  "last_refreshed_at": "2026-06-07T10:26:56.938321Z"
+}

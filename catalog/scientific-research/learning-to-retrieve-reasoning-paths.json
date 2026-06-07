@@ -1,0 +1,56 @@
+{
+  "slug": "learning-to-retrieve-reasoning-paths",
+  "name": "learning_to_retrieve_reasoning_paths",
+  "tagline": "The official implementation of ICLR 2020, \"Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering\".",
+  "category": "scientific-research",
+  "tags": [
+    "hotpotqa",
+    "multi-hop-reasoning",
+    "natural-questions",
+    "open-domain-qa",
+    "reading-comprehension",
+    "retrieval",
+    "squad"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AkariAsai",
+    "url": "https://github.com/AkariAsai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AkariAsai/learning_to_retrieve_reasoning_paths",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 437,
+    "downloads_30d": null,
+    "last_commit_at": "2024-07-25T10:57:30Z",
+    "first_commit_at": "2020-02-14T06:56:29Z",
+    "forks": 66,
+    "watchers": 16,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4389,
+  "rank_in_category": 168,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:26.705137Z",
+  "last_refreshed_at": "2026-06-07T10:18:01.688214Z"
+}

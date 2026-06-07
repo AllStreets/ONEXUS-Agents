@@ -1,0 +1,56 @@
+{
+  "slug": "harvey",
+  "name": "harvey",
+  "tagline": "Autonomous AI sales agent powered by Claude Code. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude Max subscription.",
+  "category": "sales-crm",
+  "tags": [
+    "ai-agent",
+    "autonomous-agent",
+    "claude",
+    "cold-email",
+    "prospecting",
+    "python",
+    "sales-automation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ethanplusai",
+    "url": "https://github.com/ethanplusai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ethanplusai/harvey",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-29T02:31:44Z",
+    "first_commit_at": "2026-03-12T01:24:50Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3806,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T10:43:20.161476Z",
+  "last_refreshed_at": "2026-06-07T10:43:20.161479Z"
+}

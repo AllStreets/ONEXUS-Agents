@@ -1,0 +1,53 @@
+{
+  "slug": "expect",
+  "name": "expect",
+  "tagline": "Expect tests your agent's code in a real browser",
+  "category": "browser-automation",
+  "tags": [
+    "agent",
+    "browser",
+    "expect",
+    "test"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "millionco",
+    "url": "https://github.com/millionco"
+  },
+  "source": {
+    "primary": "github",
+    "github": "millionco/expect",
+    "huggingface": null,
+    "homepage": "https://expect.dev/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 3493,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T07:58:53Z",
+    "first_commit_at": "2026-03-12T06:01:59Z",
+    "forks": 154,
+    "watchers": 10,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3887,
+  "rank_in_category": 92,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:10.524615Z",
+  "last_refreshed_at": "2026-06-07T10:24:42.605178Z"
+}

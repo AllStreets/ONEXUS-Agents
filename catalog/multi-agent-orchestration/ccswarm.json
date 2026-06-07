@@ -1,0 +1,48 @@
+{
+  "slug": "ccswarm",
+  "name": "ccswarm",
+  "tagline": "Multi-agent orchestration system using Claude Code with Git worktree isolation and specialized AI agents for collaborative development",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "nwiizo",
+    "url": "https://github.com/nwiizo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nwiizo/ccswarm",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 138,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-05T12:36:13Z",
+    "first_commit_at": "2025-09-21T02:51:45Z",
+    "forks": 14,
+    "watchers": 0,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2948,
+  "rank_in_category": 359,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:50:52.164218Z",
+  "last_refreshed_at": "2026-06-07T09:41:56.732482Z"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "ethereum-wallet-toolkit",
+  "name": "ethereum-wallet-toolkit",
+  "tagline": "Python toolkit for Ethereum wallets: CLI tools + Model Context Protocol (MCP) servers for wallet generation, BIP39/BIP44 HD wallets, Web3 Secret Storage V3 keystores, and EIP-712 typed data signing",
+  "category": "coding",
+  "tags": [
+    "bip39",
+    "blockchain",
+    "cli",
+    "crypto",
+    "cryptocurrency",
+    "cryptography",
+    "ethereum",
+    "evm",
+    "hd-wallet",
+    "keygen"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nirholas",
+    "url": "https://github.com/nirholas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nirholas/ethereum-wallet-toolkit",
+    "huggingface": null,
+    "homepage": "https://github.com/nirholas/ethereum-wallet-toolkit"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T05:06:59Z",
+    "first_commit_at": "2026-01-19T13:45:13Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2465,
+  "rank_in_category": 498,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:22.971385Z",
+  "last_refreshed_at": "2026-06-07T09:48:11.865967Z"
+}

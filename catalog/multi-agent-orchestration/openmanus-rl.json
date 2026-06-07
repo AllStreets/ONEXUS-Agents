@@ -1,0 +1,48 @@
+{
+  "slug": "openmanus-rl",
+  "name": "OpenManus-RL",
+  "tagline": "A live stream development of RL tunning for LLM agents",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "OpenManus",
+    "url": "https://github.com/OpenManus"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OpenManus/OpenManus-RL",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4091,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-05T06:03:26Z",
+    "first_commit_at": "2025-03-06T19:13:02Z",
+    "forks": 574,
+    "watchers": 57,
+    "open_issues": 25,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4161,
+  "rank_in_category": 143,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:14.740598Z",
+  "last_refreshed_at": "2026-06-07T10:24:57.888728Z"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "inference",
+  "name": "inference",
+  "tagline": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready",
+  "category": "devops-sre",
+  "tags": [
+    "artificial-intelligence",
+    "chatglm",
+    "deployment",
+    "flan-t5",
+    "gemma",
+    "ggml",
+    "glm4",
+    "inference",
+    "llama",
+    "llama3"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "xorbitsai",
+    "url": "https://github.com/xorbitsai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xorbitsai/inference",
+    "huggingface": null,
+    "homepage": "https://inference.readthedocs.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 9345,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T16:24:26Z",
+    "first_commit_at": "2023-06-14T08:21:37Z",
+    "forks": 835,
+    "watchers": 60,
+    "open_issues": 55,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6397,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:03.240953Z",
+  "last_refreshed_at": "2026-06-07T10:28:14.065879Z"
+}

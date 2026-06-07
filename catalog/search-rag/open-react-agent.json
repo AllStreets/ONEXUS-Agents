@@ -1,0 +1,48 @@
+{
+  "slug": "open-react-agent",
+  "name": "Open_ReAct_Agent",
+  "tagline": "ReAct-Agent 是一个结合多模态工具、调度器推理与多级检索的企业级知识库问答系统。项目采用 Flask + SQLite + Faiss 搭建完整后端，并提供现代化的 Web 管理界面与丰富的 API，支持 Agent 决策、网络搜索、Python 代码执行等高级能力。",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "CaiZhexi",
+    "url": "https://github.com/CaiZhexi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CaiZhexi/Open_ReAct_Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-09T15:17:03Z",
+    "first_commit_at": "2025-11-02T01:32:36Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3496,
+  "rank_in_category": 179,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:51:08.180568Z",
+  "last_refreshed_at": "2026-06-07T09:42:29.589659Z"
+}

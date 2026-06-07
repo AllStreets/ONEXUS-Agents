@@ -1,0 +1,64 @@
+{
+  "slug": "octopoda-os",
+  "name": "Octopoda-OS",
+  "tagline": "The open-source memory operating system for AI agents. Persistent memory, semantic search, loop detection, agent messaging, crash recovery, and real-time observability.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "ai-agents",
+    "ai-memory",
+    "autogen",
+    "crash-recovery",
+    "crewai",
+    "developer-tools",
+    "knowledge-graph",
+    "langchain",
+    "llm-agents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "RyjoxTechnologies",
+    "url": "https://github.com/RyjoxTechnologies"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RyjoxTechnologies/Octopoda-OS",
+    "huggingface": null,
+    "homepage": "https://octopodas.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 341,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-22T14:04:10Z",
+    "first_commit_at": "2026-04-02T18:24:18Z",
+    "forks": 51,
+    "watchers": 1,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "autogen",
+      "crewai",
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4171,
+  "rank_in_category": 140,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:00:48.749275Z",
+  "last_refreshed_at": "2026-06-07T09:57:08.842217Z"
+}

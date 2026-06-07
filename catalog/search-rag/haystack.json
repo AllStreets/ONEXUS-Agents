@@ -28,7 +28,7 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 25466,
+    "stars": 25472,
     "downloads_30d": null,
     "last_commit_at": "2026-06-05T14:24:07Z",
     "first_commit_at": "2019-11-14T10:42:51Z",
@@ -45,14 +45,17 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "adapters/haystack/mcp.json",
-  "composite_score": 0.73,
+  "composite_score": 0.7431,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-04-30T03:22:27.634845Z",
-  "last_refreshed_at": "2026-06-06T14:29:36.069690Z"
+  "last_refreshed_at": "2026-06-07T09:31:54.851840Z"
 }

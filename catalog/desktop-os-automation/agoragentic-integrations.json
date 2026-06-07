@@ -30,11 +30,11 @@
   "metrics": {
     "stars": 20,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-05T21:51:46Z",
+    "last_commit_at": "2026-06-07T04:39:19Z",
     "first_commit_at": "2026-02-27T21:04:11Z",
     "forks": 4,
     "watchers": 0,
-    "open_issues": 5,
+    "open_issues": 6,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,14 +45,20 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "autogen",
+      "mcp",
+      "openai-agents-sdk",
+      "smolagents"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3762,
-  "rank_in_category": 62,
+  "composite_score": 0.3901,
+  "rank_in_category": 60,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:12:56.102584Z",
-  "last_refreshed_at": "2026-06-06T15:08:41.543486Z"
+  "last_refreshed_at": "2026-06-07T10:23:34.501300Z"
 }

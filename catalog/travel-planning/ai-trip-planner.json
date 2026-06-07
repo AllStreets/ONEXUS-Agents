@@ -1,42 +1,32 @@
 {
   "slug": "ai-trip-planner",
-  "name": "AI_Trip_Planner",
-  "tagline": "基于langchain1.1版本和高德mcp server的多智能体agent旅游助手",
+  "name": "ai-trip-planner",
+  "tagline": "ai-trip-planner",
   "category": "travel-planning",
-  "tags": [
-    "ai",
-    "amap",
-    "deepseek",
-    "fastapi",
-    "langchain",
-    "llm",
-    "python",
-    "travel-assistant",
-    "trip-planner"
-  ],
+  "tags": [],
   "author": {
     "type": "user",
-    "handle": "eason69113-source",
-    "url": "https://github.com/eason69113-source"
+    "handle": "amanaiproduct",
+    "url": "https://github.com/amanaiproduct"
   },
   "source": {
     "primary": "github",
-    "github": "eason69113-source/AI_Trip_Planner",
+    "github": "amanaiproduct/ai-trip-planner",
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 16,
+    "stars": 28,
     "downloads_30d": null,
-    "last_commit_at": "2025-12-30T05:33:38Z",
-    "first_commit_at": "2025-12-15T14:00:02Z",
-    "forks": null,
-    "watchers": null,
-    "open_issues": null,
-    "archived": null,
-    "is_fork": null,
-    "is_template": null,
+    "last_commit_at": "2025-10-27T19:51:14Z",
+    "first_commit_at": "2025-06-02T23:37:05Z",
+    "forks": 40,
+    "watchers": 0,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
@@ -44,14 +34,15 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3319,
-  "rank_in_category": 46,
+  "composite_score": 0.4048,
+  "rank_in_category": 47,
   "discovered_via": "auto",
-  "first_seen_at": "2026-04-30T03:30:10.316517Z",
-  "last_refreshed_at": "2026-05-17T14:47:54.467757Z"
+  "first_seen_at": "2026-06-07T10:43:01.407191Z",
+  "last_refreshed_at": "2026-06-07T10:43:01.407195Z"
 }

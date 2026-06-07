@@ -1,0 +1,56 @@
+{
+  "slug": "langgraph-travel-agent",
+  "name": "langgraph-travel-agent",
+  "tagline": "Production-ready LangGraph multi-agent system for travel planning. Async parallel orchestration across Amadeus, Hotelbeds, Twilio, HubSpot.",
+  "category": "travel-planning",
+  "tags": [
+    "ai-agents",
+    "fastapi",
+    "langchain",
+    "langgraph",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "HarimxChoi",
+    "url": "https://github.com/HarimxChoi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HarimxChoi/langgraph-travel-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-24T05:16:51Z",
+    "first_commit_at": "2025-11-09T15:11:55Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4797,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T10:42:55.358706Z",
+  "last_refreshed_at": "2026-06-07T10:42:55.358710Z"
+}

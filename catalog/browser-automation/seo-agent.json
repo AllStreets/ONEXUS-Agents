@@ -1,0 +1,50 @@
+{
+  "slug": "seo-agent",
+  "name": "seo-agent",
+  "tagline": "Local AI agent that audits URLs for SEO issues using Browser Use + Claude API + Playwright",
+  "category": "browser-automation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "dannwaneri",
+    "url": "https://github.com/dannwaneri"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dannwaneri/seo-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 28,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-14T01:46:27Z",
+    "first_commit_at": "2026-03-30T12:35:11Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3027,
+  "rank_in_category": 177,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T10:00:41.751925Z",
+  "last_refreshed_at": "2026-06-07T10:00:41.751929Z"
+}

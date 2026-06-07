@@ -45,14 +45,18 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3726,
-  "rank_in_category": 143,
+  "composite_score": 0.387,
+  "rank_in_category": 151,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:23:31.613866Z",
-  "last_refreshed_at": "2026-06-06T14:30:55.933945Z"
+  "last_refreshed_at": "2026-06-07T09:32:58.106711Z"
 }

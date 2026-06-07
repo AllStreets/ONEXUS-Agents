@@ -4,11 +4,16 @@
   "tagline": "Fragaria is a powerful and flexible Chain of Thought (CoT) reasoning API that leverages various Language Model (LLM) providers and incorporates Reinforcement Learning (RL) techniques to solve complex ",
   "category": "reasoning-math",
   "tags": [
+    "chain-of-thought",
+    "cot-reasoning",
     "generative-ai",
+    "groq",
     "llm",
-    "reasoning",
-    "reasoning-agent",
-    "reinforcement-learning"
+    "multi-provider",
+    "openai",
+    "pypi",
+    "python",
+    "reasoning"
   ],
   "author": {
     "type": "org",
@@ -26,7 +31,7 @@
     "stars": 21,
     "downloads_30d": null,
     "last_commit_at": "2025-08-28T21:24:06Z",
-    "first_commit_at": "2024-09-16T12:40:20Z",
+    "first_commit_at": "2024-09-16T12:47:46Z",
     "forks": 1,
     "watchers": 2,
     "open_issues": 0,
@@ -40,14 +45,15 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1739,
+  "composite_score": 0.1738,
   "rank_in_category": 146,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:50:42.466776Z",
-  "last_refreshed_at": "2026-06-06T15:17:59.276324Z"
+  "last_refreshed_at": "2026-06-07T10:38:44.002630Z"
 }

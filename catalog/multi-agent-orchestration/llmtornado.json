@@ -45,14 +45,18 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "mcp",
+      "openai-agents-sdk"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4264,
-  "rank_in_category": 64,
+  "composite_score": 0.4406,
+  "rank_in_category": 91,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:29:36.171439Z",
-  "last_refreshed_at": "2026-06-06T15:19:20.870765Z"
+  "last_refreshed_at": "2026-06-07T10:40:30.295186Z"
 }

@@ -1,0 +1,61 @@
+{
+  "slug": "sample-strands-agent-with-agentcore",
+  "name": "sample-strands-agent-with-agentcore",
+  "tagline": "Reference architecture for agentic AI chatbots with Strands Agents and Amazon Bedrock AgentCore",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a-protocol",
+    "agent-to-agent",
+    "agentcore",
+    "ai-agents",
+    "amazon-bedrock",
+    "browser-automation",
+    "mcp",
+    "multi-agent",
+    "skills",
+    "strands-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aws-samples",
+    "url": "https://github.com/aws-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-samples/sample-strands-agent-with-agentcore",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 169,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T22:04:08Z",
+    "first_commit_at": "2025-08-13T00:44:04Z",
+    "forks": 52,
+    "watchers": 9,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3845,
+  "rank_in_category": 189,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:02.399610Z",
+  "last_refreshed_at": "2026-06-07T10:19:38.917819Z"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "dat",
+  "name": "dat",
+  "tagline": "Asking yours data in a natural language way through pre-modeling (data models and semantic models).",
+  "category": "sales-crm",
+  "tags": [
+    "agent-framework",
+    "agents",
+    "chatbi",
+    "chatdata",
+    "context-engineering",
+    "data-analysis",
+    "llms",
+    "mcp",
+    "nl2sql",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "hexinfo",
+    "url": "https://github.com/hexinfo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hexinfo/dat",
+    "huggingface": null,
+    "homepage": "https://deepwiki.com/hexinfo/dat"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 251,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-26T00:58:53Z",
+    "first_commit_at": "2025-07-25T09:25:26Z",
+    "forks": 40,
+    "watchers": 6,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5047,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T10:43:23.245037Z",
+  "last_refreshed_at": "2026-06-07T10:43:23.245041Z"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "streaming-playwright-agent",
+  "name": "streaming-playwright-agent",
+  "tagline": "Super simple website application streaming Playwright agent using websocket that support multi-users including queue, 100% no LangChain, 100% no LlamaIndex, 100% use available models from HuggingFace.",
+  "category": "web-dev",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "mesolitica",
+    "url": "https://github.com/mesolitica"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mesolitica/streaming-playwright-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2024-04-02T08:00:11Z",
+    "first_commit_at": "2024-04-01T02:40:03Z",
+    "forks": 2,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "llamaindex"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2399,
+  "rank_in_category": 337,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:22.509729Z",
+  "last_refreshed_at": "2026-06-07T10:21:38.174595Z"
+}

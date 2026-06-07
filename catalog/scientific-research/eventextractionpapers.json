@@ -1,0 +1,55 @@
+{
+  "slug": "eventextractionpapers",
+  "name": "EventExtractionPapers",
+  "tagline": "A list of NLP resources focused on event extraction task",
+  "category": "scientific-research",
+  "tags": [
+    "event-coreference",
+    "event-detection",
+    "event-extraction",
+    "information-extraction",
+    "nlp",
+    "papers"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "BaptisteBlouin",
+    "url": "https://github.com/BaptisteBlouin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BaptisteBlouin/EventExtractionPapers",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 580,
+    "downloads_30d": null,
+    "last_commit_at": "2024-03-20T14:23:17Z",
+    "first_commit_at": "2019-12-13T14:36:48Z",
+    "forks": 93,
+    "watchers": 23,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4482,
+  "rank_in_category": 158,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:00.089739Z",
+  "last_refreshed_at": "2026-06-07T10:15:52.036310Z"
+}

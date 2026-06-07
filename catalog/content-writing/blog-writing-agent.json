@@ -21,7 +21,7 @@
     "downloads_30d": null,
     "last_commit_at": "2026-01-31T09:02:03Z",
     "first_commit_at": "2026-01-31T09:02:02Z",
-    "forks": 31,
+    "forks": 30,
     "watchers": 2,
     "open_issues": 1,
     "archived": false,
@@ -34,14 +34,17 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4171,
-  "rank_in_category": 112,
+  "composite_score": 0.4302,
+  "rank_in_category": 123,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:29:35.040886Z",
-  "last_refreshed_at": "2026-06-06T14:53:54.957718Z"
+  "last_refreshed_at": "2026-06-07T09:58:31.275234Z"
 }

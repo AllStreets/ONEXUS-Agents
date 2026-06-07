@@ -1,0 +1,61 @@
+{
+  "slug": "opencode-power-pack",
+  "name": "opencode-power-pack",
+  "tagline": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+  "category": "coding",
+  "tags": [
+    "ai-agents",
+    "anthropic",
+    "claude-code",
+    "code-review",
+    "developer-tools",
+    "llm-tools",
+    "opencode",
+    "plugin",
+    "security-audit",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "waybarrios",
+    "url": "https://github.com/waybarrios"
+  },
+  "source": {
+    "primary": "github",
+    "github": "waybarrios/opencode-power-pack",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 373,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-28T17:18:28Z",
+    "first_commit_at": "2026-04-27T01:16:17Z",
+    "forks": 33,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3036,
+  "rank_in_category": 361,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:18.189395Z",
+  "last_refreshed_at": "2026-06-07T10:25:11.604182Z"
+}

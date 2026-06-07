@@ -1,0 +1,54 @@
+{
+  "slug": "agentsmithy",
+  "name": "agentsmithy",
+  "tagline": "AgentSmithy provides a series of tools and templates that simplify the process of building and deploying custom AI agents on Google Cloud.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "ai",
+    "gcp",
+    "generative-ai",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "GoogleCloudPlatform",
+    "url": "https://github.com/GoogleCloudPlatform"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GoogleCloudPlatform/agentsmithy",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 110,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T23:57:37Z",
+    "first_commit_at": "2026-02-11T00:27:37Z",
+    "forks": 24,
+    "watchers": 1,
+    "open_issues": 28,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3512,
+  "rank_in_category": 252,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:07:48.266872Z",
+  "last_refreshed_at": "2026-06-07T10:10:48.977988Z"
+}

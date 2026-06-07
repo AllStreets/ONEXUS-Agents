@@ -1,0 +1,53 @@
+{
+  "slug": "llmpapers",
+  "name": "LLMPapers",
+  "tagline": "Papers & Works for large languange models (OpenAI GPT-4, Meta Llama, etc.).",
+  "category": "scientific-research",
+  "tags": [
+    "chatgpt",
+    "codex",
+    "gpt-3",
+    "large-language-models"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SEU-COIN",
+    "url": "https://github.com/SEU-COIN"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SEU-COIN/LLMPapers",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 314,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-15T07:03:19Z",
+    "first_commit_at": "2023-01-24T07:54:39Z",
+    "forks": 25,
+    "watchers": 7,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4499,
+  "rank_in_category": 157,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:58:17.120192Z",
+  "last_refreshed_at": "2026-06-07T09:53:35.972542Z"
+}

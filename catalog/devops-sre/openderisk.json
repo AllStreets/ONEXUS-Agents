@@ -28,10 +28,10 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 936,
+    "stars": 937,
     "downloads_30d": null,
     "last_commit_at": "2026-04-26T09:08:45Z",
-    "first_commit_at": "2025-04-23T13:15:21Z",
+    "first_commit_at": "2025-04-23T13:30:26Z",
     "forks": 125,
     "watchers": 17,
     "open_issues": 16,
@@ -45,14 +45,17 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5076,
-  "rank_in_category": 25,
+  "composite_score": 0.5237,
+  "rank_in_category": 40,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:15:37.404821Z",
-  "last_refreshed_at": "2026-06-06T15:13:40.541350Z"
+  "last_refreshed_at": "2026-06-07T10:32:58.108996Z"
 }

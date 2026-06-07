@@ -1,0 +1,59 @@
+{
+  "slug": "memvid",
+  "name": "memvid",
+  "tagline": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+  "category": "search-rag",
+  "tags": [
+    "ai",
+    "context",
+    "embedded",
+    "faiss",
+    "knowledge-base",
+    "knowledge-graph",
+    "llm",
+    "machine-learning",
+    "memory",
+    "memvid"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "memvid",
+    "url": "https://github.com/memvid"
+  },
+  "source": {
+    "primary": "github",
+    "github": "memvid/memvid",
+    "huggingface": null,
+    "homepage": "https://www.memvid.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 15630,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-27T19:31:24Z",
+    "first_commit_at": "2025-05-27T16:02:35Z",
+    "forks": 1350,
+    "watchers": 115,
+    "open_issues": 21,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6161,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:56:09.930057Z",
+  "last_refreshed_at": "2026-06-07T09:50:18.723193Z"
+}

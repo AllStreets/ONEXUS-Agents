@@ -1,0 +1,56 @@
+{
+  "slug": "trpc-agent-go",
+  "name": "trpc-agent-go",
+  "tagline": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a",
+    "agent",
+    "ai",
+    "llm",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "trpc-group",
+    "url": "https://github.com/trpc-group"
+  },
+  "source": {
+    "primary": "github",
+    "github": "trpc-group/trpc-agent-go",
+    "huggingface": null,
+    "homepage": "https://trpc-group.github.io/trpc-agent-go/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1252,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T12:25:22Z",
+    "first_commit_at": "2025-05-14T13:51:35Z",
+    "forks": 149,
+    "watchers": 17,
+    "open_issues": 52,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4316,
+  "rank_in_category": 113,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:02.820153Z",
+  "last_refreshed_at": "2026-06-07T09:44:18.013760Z"
+}

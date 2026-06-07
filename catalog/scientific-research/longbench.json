@@ -1,0 +1,53 @@
+{
+  "slug": "longbench",
+  "name": "LongBench",
+  "tagline": "LongBench v2 and LongBench (ACL 25'&24')",
+  "category": "scientific-research",
+  "tags": [
+    "benchmark",
+    "llm",
+    "long-context",
+    "longtext"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "THUDM",
+    "url": "https://github.com/THUDM"
+  },
+  "source": {
+    "primary": "github",
+    "github": "THUDM/LongBench",
+    "huggingface": null,
+    "homepage": "https://longbench2.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1183,
+    "downloads_30d": null,
+    "last_commit_at": "2025-01-15T02:04:04Z",
+    "first_commit_at": "2023-07-29T15:56:20Z",
+    "forks": 133,
+    "watchers": 8,
+    "open_issues": 67,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4598,
+  "rank_in_category": 147,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:25.227508Z",
+  "last_refreshed_at": "2026-06-07T10:17:52.218793Z"
+}

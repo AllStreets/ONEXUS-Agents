@@ -25,11 +25,11 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 11670,
+    "stars": 11677,
     "downloads_30d": null,
     "last_commit_at": "2026-06-05T06:11:29Z",
     "first_commit_at": "2024-12-04T06:47:27Z",
-    "forks": 952,
+    "forks": 951,
     "watchers": 72,
     "open_issues": 111,
     "archived": false,
@@ -42,14 +42,17 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4657,
-  "rank_in_category": 22,
+  "composite_score": 0.48,
+  "rank_in_category": 32,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T15:20:06.623233Z",
-  "last_refreshed_at": "2026-06-06T15:20:06.623236Z"
+  "last_refreshed_at": "2026-06-07T10:41:25.674746Z"
 }

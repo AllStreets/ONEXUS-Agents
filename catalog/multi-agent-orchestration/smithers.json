@@ -1,0 +1,48 @@
+{
+  "slug": "smithers",
+  "name": "smithers",
+  "tagline": "AI Orchestration Framework",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "smithersai",
+    "url": "https://github.com/smithersai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "smithersai/smithers",
+    "huggingface": null,
+    "homepage": "https://smithers.sh/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 240,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T23:50:19Z",
+    "first_commit_at": "2026-01-17T11:28:34Z",
+    "forks": 28,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3629,
+  "rank_in_category": 232,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:00:54.689694Z",
+  "last_refreshed_at": "2026-06-07T09:57:19.629175Z"
+}

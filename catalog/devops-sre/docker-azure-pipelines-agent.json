@@ -1,39 +1,32 @@
 {
   "slug": "docker-azure-pipelines-agent",
   "name": "docker-azure-pipelines-agent",
-  "tagline": "Azure DevOps Agent Docker Images. Based on this: https://github.com/microsoft/vsts-agent-docker",
+  "tagline": "Docker based agent for Azure Pipelines",
   "category": "devops-sre",
-  "tags": [
-    "agent",
-    "azdo",
-    "azure-devops",
-    "azure-devops-agent",
-    "docker",
-    "vsts-agent"
-  ],
+  "tags": [],
   "author": {
     "type": "org",
-    "handle": "codez-one",
-    "url": "https://github.com/codez-one"
+    "handle": "emberstack",
+    "url": "https://github.com/emberstack"
   },
   "source": {
     "primary": "github",
-    "github": "codez-one/docker-azure-pipelines-agent",
+    "github": "emberstack/docker-azure-pipelines-agent",
     "huggingface": null,
     "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 30,
+    "stars": 31,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-04T17:59:59Z",
-    "first_commit_at": "2019-09-03T15:53:15Z",
-    "forks": null,
-    "watchers": null,
-    "open_issues": null,
-    "archived": null,
-    "is_fork": null,
-    "is_template": null,
+    "last_commit_at": "2023-02-01T04:01:12Z",
+    "first_commit_at": "2020-01-11T15:42:29Z",
+    "forks": 17,
+    "watchers": 1,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
@@ -41,14 +34,15 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.429,
-  "rank_in_category": 61,
+  "composite_score": 0.2818,
+  "rank_in_category": 196,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-01T14:39:19.970195Z",
-  "last_refreshed_at": "2026-06-05T16:14:14.816211Z"
+  "first_seen_at": "2026-06-06T09:52:39.453986Z",
+  "last_refreshed_at": "2026-06-07T09:45:12.687270Z"
 }

@@ -1,0 +1,61 @@
+{
+  "slug": "memmachine",
+  "name": "MemMachine",
+  "tagline": "Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems.",
+  "category": "travel-planning",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agents",
+    "agents-sdk",
+    "ai",
+    "ai-agents",
+    "chatbots",
+    "conversational-agents",
+    "conversational-ai",
+    "genai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "MemMachine",
+    "url": "https://github.com/MemMachine"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MemMachine/MemMachine",
+    "huggingface": null,
+    "homepage": "https://memmachine.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3107,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T18:23:59Z",
+    "first_commit_at": "2025-08-15T16:40:53Z",
+    "forks": 180,
+    "watchers": 15,
+    "open_issues": 73,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "openai-agents-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7327,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T10:42:58.250689Z",
+  "last_refreshed_at": "2026-06-07T10:42:58.250693Z"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "reflexio",
+  "name": "reflexio",
+  "tagline": "Make your agents improve themselves. Reflexio is an AI agent self-improvement harness that enables your AI agents to continuously learn from real user interactions. ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "self-improvement",
+    "self-improving-agent",
+    "self-improving-ai",
+    "self-learning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ReflexioAI",
+    "url": "https://github.com/ReflexioAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ReflexioAI/reflexio",
+    "huggingface": null,
+    "homepage": "https://reflexio.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 284,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T06:46:45Z",
+    "first_commit_at": "2026-04-11T19:30:34Z",
+    "forks": 39,
+    "watchers": 15,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3699,
+  "rank_in_category": 217,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:02:27.530332Z",
+  "last_refreshed_at": "2026-06-07T09:59:46.402849Z"
+}

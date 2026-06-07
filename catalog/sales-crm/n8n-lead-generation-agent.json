@@ -1,0 +1,48 @@
+{
+  "slug": "n8n-lead-generation-agent",
+  "name": "n8n-Lead-Generation-Agent",
+  "tagline": "🚀 Automated B2B Lead Generation & Email Outreach Workflow built with n8n. Scrapes leads from Apollo, verifies emails with Hunter, generates cold emails using GPT, and stores results in Google Sheets.",
+  "category": "sales-crm",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "MuhammadAhmedYaqoob",
+    "url": "https://github.com/MuhammadAhmedYaqoob"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MuhammadAhmedYaqoob/n8n-Lead-Generation-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-07T13:51:55Z",
+    "first_commit_at": "2025-07-07T13:02:47Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3077,
+  "rank_in_category": 85,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T10:43:27.849037Z",
+  "last_refreshed_at": "2026-06-07T10:43:27.849041Z"
+}

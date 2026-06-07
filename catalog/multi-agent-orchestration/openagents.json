@@ -1,29 +1,40 @@
 {
   "slug": "openagents",
-  "name": "openagents",
-  "tagline": "Autopilot and the agent network",
+  "name": "OpenAgents",
+  "tagline": "[COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild",
   "category": "multi-agent-orchestration",
-  "tags": [],
+  "tags": [
+    "agent",
+    "assistant-chat-bots",
+    "code-generation",
+    "executable-langauge-grounding",
+    "gpt",
+    "hacktoberfest",
+    "language-model",
+    "language-model-agent",
+    "llm",
+    "semantic-parsing"
+  ],
   "author": {
     "type": "org",
-    "handle": "OpenAgentsInc",
-    "url": "https://github.com/OpenAgentsInc"
+    "handle": "xlang-ai",
+    "url": "https://github.com/xlang-ai"
   },
   "source": {
     "primary": "github",
-    "github": "OpenAgentsInc/openagents",
+    "github": "xlang-ai/OpenAgents",
     "huggingface": null,
-    "homepage": "https://openagents.com/"
+    "homepage": "https://arxiv.org/abs/2310.10634"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 422,
+    "stars": 4837,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-06T04:21:38Z",
-    "first_commit_at": "2023-11-07T16:16:46Z",
-    "forks": 51,
-    "watchers": 8,
-    "open_issues": 11,
+    "last_commit_at": "2024-11-18T09:39:29Z",
+    "first_commit_at": "2023-08-08T09:15:28Z",
+    "forks": 531,
+    "watchers": 41,
+    "open_issues": 13,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -34,14 +45,15 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4146,
-  "rank_in_category": 80,
+  "composite_score": 0.3372,
+  "rank_in_category": 278,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T15:20:30.572789Z",
-  "last_refreshed_at": "2026-06-06T15:20:30.572791Z"
+  "first_seen_at": "2026-06-06T09:50:34.236810Z",
+  "last_refreshed_at": "2026-06-07T09:41:18.092622Z"
 }

@@ -30,8 +30,8 @@
   "metrics": {
     "stars": 173,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-04T09:03:08Z",
-    "first_commit_at": "2026-02-10T19:20:33Z",
+    "last_commit_at": "2026-06-06T22:03:53Z",
+    "first_commit_at": "2026-02-10T19:21:43Z",
     "forks": 27,
     "watchers": 4,
     "open_issues": 8,
@@ -45,14 +45,19 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": [
+      "crewai",
+      "langchain",
+      "mcp"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5279,
-  "rank_in_category": 18,
+  "composite_score": 0.5491,
+  "rank_in_category": 30,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:15:31.559882Z",
-  "last_refreshed_at": "2026-06-06T15:13:30.029881Z"
+  "last_refreshed_at": "2026-06-07T10:32:44.924957Z"
 }

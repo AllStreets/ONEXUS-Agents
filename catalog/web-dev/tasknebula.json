@@ -1,0 +1,59 @@
+{
+  "slug": "tasknebula",
+  "name": "taskNebula",
+  "tagline": "Self-hosted project management with AI copilot. Linear-like UX, Jira scale, pair-programmer AI. Next.js + PostgreSQL + Docker.",
+  "category": "web-dev",
+  "tags": [
+    "ai-copilot",
+    "docker",
+    "issue-tracker",
+    "jira",
+    "kanban",
+    "linear",
+    "next-js",
+    "open-source",
+    "postgresql",
+    "project-management"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "neuraparse",
+    "url": "https://github.com/neuraparse"
+  },
+  "source": {
+    "primary": "github",
+    "github": "neuraparse/taskNebula",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 33,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-31T10:06:59Z",
+    "first_commit_at": "2026-01-05T15:45:51Z",
+    "forks": 7,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.402,
+  "rank_in_category": 185,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:50.683222Z",
+  "last_refreshed_at": "2026-06-07T09:39:03.950265Z"
+}

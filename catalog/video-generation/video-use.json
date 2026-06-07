@@ -1,0 +1,48 @@
+{
+  "slug": "video-use",
+  "name": "video-use",
+  "tagline": "Edit videos with coding agents",
+  "category": "video-generation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "browser-use",
+    "url": "https://github.com/browser-use"
+  },
+  "source": {
+    "primary": "github",
+    "github": "browser-use/video-use",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9193,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-15T06:39:02Z",
+    "first_commit_at": "2026-04-12T01:34:21Z",
+    "forks": 1330,
+    "watchers": 58,
+    "open_issues": 28,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6256,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:50:29.845953Z",
+  "last_refreshed_at": "2026-06-07T09:41:08.840579Z"
+}

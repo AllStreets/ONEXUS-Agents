@@ -1,0 +1,55 @@
+{
+  "slug": "transformers-js",
+  "name": "transformers.js",
+  "tagline": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+  "category": "web-dev",
+  "tags": [
+    "browser",
+    "javascript",
+    "transformers",
+    "webml"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "huggingface",
+    "url": "https://github.com/huggingface"
+  },
+  "source": {
+    "primary": "github",
+    "github": "huggingface/transformers.js",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/docs/transformers.js"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 16071,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T05:31:21Z",
+    "first_commit_at": "2023-02-14T16:36:13Z",
+    "forks": 1149,
+    "watchers": 98,
+    "open_issues": 244,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6797,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:02.496715Z",
+  "last_refreshed_at": "2026-06-07T10:28:09.763030Z"
+}

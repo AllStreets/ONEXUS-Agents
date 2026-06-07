@@ -1,0 +1,52 @@
+{
+  "slug": "voicetree",
+  "name": "voicetree",
+  "tagline": "The spatial IDE for recursive multi-agent orchestration. It's like an Obsidian graph-view that you work directly inside of. ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "claude-code",
+    "codex"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "voicetreelab",
+    "url": "https://github.com/voicetreelab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "voicetreelab/voicetree",
+    "huggingface": null,
+    "homepage": "https://voicetree.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 870,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T08:53:57Z",
+    "first_commit_at": "2025-03-01T04:38:50Z",
+    "forks": 57,
+    "watchers": 10,
+    "open_issues": 51,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4133,
+  "rank_in_category": 146,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:10:59.277888Z",
+  "last_refreshed_at": "2026-06-07T10:15:47.103078Z"
+}

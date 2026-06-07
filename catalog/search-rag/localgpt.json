@@ -1,0 +1,48 @@
+{
+  "slug": "localgpt",
+  "name": "localGPT",
+  "tagline": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. ",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "PromtEngineer",
+    "url": "https://github.com/PromtEngineer"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PromtEngineer/localGPT",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 22211,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-10T21:32:07Z",
+    "first_commit_at": "2023-05-24T05:32:41Z",
+    "forks": 2485,
+    "watchers": 179,
+    "open_issues": 23,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5701,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:55.216512Z",
+  "last_refreshed_at": "2026-06-07T09:45:43.658785Z"
+}

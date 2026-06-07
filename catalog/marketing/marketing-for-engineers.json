@@ -26,16 +26,16 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 13134,
+    "stars": 13139,
     "downloads_30d": null,
     "last_commit_at": "2020-10-27T20:51:02Z",
     "first_commit_at": "2017-04-19T12:21:56Z",
-    "forks": null,
-    "watchers": null,
-    "open_issues": null,
-    "archived": null,
-    "is_fork": null,
-    "is_template": null,
+    "forks": 942,
+    "watchers": 0,
+    "open_issues": 20,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
@@ -43,14 +43,15 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4831,
-  "rank_in_category": 37,
+  "composite_score": 0.1977,
+  "rank_in_category": 107,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:56:23.468391Z",
-  "last_refreshed_at": "2026-06-05T16:23:23.146033Z"
+  "last_refreshed_at": "2026-06-07T10:43:38.328467Z"
 }

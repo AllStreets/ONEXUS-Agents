@@ -1,0 +1,50 @@
+{
+  "slug": "seer",
+  "name": "seer",
+  "tagline": "This was designed for interp  researchers who want to do research on or with interp agents to give quality of life  improvements and fix some of the annoying things you get from only using Claude code",
+  "category": "coding",
+  "tags": [
+    "interpretability"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ajobi-uhc",
+    "url": "https://github.com/ajobi-uhc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ajobi-uhc/seer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 147,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-08T07:50:45Z",
+    "first_commit_at": "2025-09-30T02:45:35Z",
+    "forks": 9,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2153,
+  "rank_in_category": 570,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:33.128064Z",
+  "last_refreshed_at": "2026-06-07T09:48:30.657202Z"
+}

@@ -1,32 +1,29 @@
 {
   "slug": "autoagent",
-  "name": "AutoAgent",
-  "tagline": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
+  "name": "autoagent",
+  "tagline": "autonomous harness engineering",
   "category": "coding",
-  "tags": [
-    "agent",
-    "llms"
-  ],
+  "tags": [],
   "author": {
-    "type": "org",
-    "handle": "HKUDS",
-    "url": "https://github.com/HKUDS"
+    "type": "user",
+    "handle": "kevinrgu",
+    "url": "https://github.com/kevinrgu"
   },
   "source": {
     "primary": "github",
-    "github": "HKUDS/AutoAgent",
+    "github": "kevinrgu/autoagent",
     "huggingface": null,
-    "homepage": "https://arxiv.org/abs/2502.05957"
+    "homepage": null
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 9375,
+    "stars": 4475,
     "downloads_30d": null,
-    "last_commit_at": "2025-10-16T06:35:28Z",
-    "first_commit_at": "2025-02-07T13:37:18Z",
-    "forks": 1313,
-    "watchers": 116,
-    "open_issues": 68,
+    "last_commit_at": "2026-04-03T21:11:51Z",
+    "first_commit_at": "2026-04-02T21:04:18Z",
+    "forks": 498,
+    "watchers": 29,
+    "open_issues": 7,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -37,14 +34,15 @@
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": null
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3027,
-  "rank_in_category": 287,
+  "composite_score": 0.3169,
+  "rank_in_category": 328,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:47:04.164319Z",
-  "last_refreshed_at": "2026-06-06T14:33:19.393506Z"
+  "first_seen_at": "2026-06-06T10:04:30.558191Z",
+  "last_refreshed_at": "2026-06-07T10:02:35.476043Z"
 }

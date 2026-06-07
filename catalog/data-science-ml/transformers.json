@@ -1,0 +1,59 @@
+{
+  "slug": "transformers",
+  "name": "transformers",
+  "tagline": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+  "category": "data-science-ml",
+  "tags": [
+    "audio",
+    "deep-learning",
+    "deepseek",
+    "gemma",
+    "glm",
+    "hacktoberfest",
+    "llm",
+    "machine-learning",
+    "model-hub",
+    "natural-language-processing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "huggingface",
+    "url": "https://github.com/huggingface"
+  },
+  "source": {
+    "primary": "github",
+    "github": "huggingface/transformers",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/transformers"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 161378,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T08:55:03Z",
+    "first_commit_at": "2018-10-29T13:56:02Z",
+    "forks": 33438,
+    "watchers": 1217,
+    "open_issues": 2418,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7139,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:01.252542Z",
+  "last_refreshed_at": "2026-06-07T10:28:02.187054Z"
+}

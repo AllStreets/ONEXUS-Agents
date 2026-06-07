@@ -1,0 +1,61 @@
+{
+  "slug": "everos",
+  "name": "EverOS",
+  "tagline": "Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Codex, OpenClaw, Hermes, and more",
+  "category": "knowledge-management",
+  "tags": [
+    "agent-memory",
+    "agentic-ai",
+    "ai",
+    "chats",
+    "clawdbot",
+    "clawdbot-skill",
+    "llm",
+    "long-term-memory",
+    "mcp",
+    "memory"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "EverMind-AI",
+    "url": "https://github.com/EverMind-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "EverMind-AI/EverOS",
+    "huggingface": null,
+    "homepage": "https://evermind.ai/everos"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7055,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T00:54:10Z",
+    "first_commit_at": "2026-06-05T23:33:17Z",
+    "forks": 693,
+    "watchers": 97,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6991,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:05:12.320497Z",
+  "last_refreshed_at": "2026-06-07T10:15:35.941021Z"
+}

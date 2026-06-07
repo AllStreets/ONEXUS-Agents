@@ -1,0 +1,57 @@
+{
+  "slug": "all-agentic-architectures",
+  "name": "all-agentic-architectures",
+  "tagline": "35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benc",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "langchain",
+    "langgraph",
+    "langsmith",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "FareedKhan-dev",
+    "url": "https://github.com/FareedKhan-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "FareedKhan-dev/all-agentic-architectures",
+    "huggingface": null,
+    "homepage": "https://fareedkhan-dev.github.io/all-agentic-architectures/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3450,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T20:51:13Z",
+    "first_commit_at": "2025-09-24T11:47:58Z",
+    "forks": 603,
+    "watchers": 30,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4395,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:10:55.109847Z",
+  "last_refreshed_at": "2026-06-07T10:15:38.153214Z"
+}
