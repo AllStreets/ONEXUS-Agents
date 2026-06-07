@@ -35,7 +35,7 @@ const standard = cats.categories.filter((c) => !c.benchmark_anchor);
     <div class="mb-10">
       <h1 class="text-4xl font-bold mb-3">Catalog</h1>
       <p class="text-[var(--color-fg-dim)] max-w-2xl">
-        {total} agents across {cats.categories.length} categories. Each category lists its top 250 by composite score.
+        {total.toLocaleString()} agents across {cats.categories.length} categories — every one indexed and ranked by composite score, every one with its own page. The first 500 of each category are the featured ranked set.
       </p>
     </div>
 

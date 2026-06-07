@@ -57,7 +57,7 @@ A subset of catalogued agents are marked `runnable: true` and have an `adapter_r
 
 ## The 40 categories
 
-Each category gets a top-500 featured leaderboard. Anything ranked past 500 that still passes a quality threshold lands in `catalog/<cat>/_tail/` for long-tail discoverability. Eight categories anchor on a real, peer-recognised benchmark that contributes 30% of the composite score; the others score on popularity, recency, age, runnability, quality signals, and framework detection.
+Every agent in every category gets its own page. The top 500 by composite score are the "featured ranked" set per category — used for homepage spotlights, the category leaderboard header, and ONEXUS Cortex dispatch. The rest are still indexed, listed below the featured set on the category page, searchable, and have their own `/catalog/<cat>/<slug>` URL — same data shape, different rank. Eight categories anchor on a real, peer-recognised benchmark that contributes 30% of the composite score; the others score on popularity, recency, age, runnability, quality signals, and framework detection.
 
 | # | Category | Benchmark |
 |---|---|---|
@@ -229,7 +229,7 @@ Then **multiplicative penalties**: `archived` × 0.5, `is_template` × 0.8. An a
 
 The `quality` sub-score (0–1) combines: archived flag, fork/template status, semantic identity (HF `library_name`/`pipeline_tag` presence), open-issue activity, watcher count, and **framework detection** (langchain, llamaindex, crewai, autogen, smolagents, dspy, openai-agents-sdk, anthropic-sdk, mcp, transformers, gradio — detected from tags, tagline, and README during the weekly rescan).
 
-Entries ranked past the per-category featured cap (500) that still pass the quality threshold (≥ 0.20 composite) land in `catalog/<cat>/_tail/` — searchable but not on the main category page. Everything else is logged in `catalog/_dropped/<date>.json` so the displacement is fully auditable.
+Entries ranked past the per-category featured cap (500) that still pass the quality threshold (≥ 0.20 composite) are kept in the flat per-category directory alongside the featured set — every agent gets a page. Up to `PER_CATEGORY_TOTAL_CAP` (1,500) per category. Everything below the quality threshold (or past the total cap) is logged in `catalog/_dropped/<date>.json` so the displacement is fully auditable.
 
 Catalog hygiene: entries that fail to refresh for 28 consecutive nightlies (≈4 weeks of 404, archived, or rate-limited responses) are dropped automatically. A transient outage never removes anything; sustained absence does.
 
@@ -237,8 +237,7 @@ Catalog hygiene: entries that fail to refresh for 28 consecutive nightlies (≈4
 
 ```
 catalog/         per-category JSON files (the catalog itself)
-  <cat>/         featured entries (top 500 by composite)
-  <cat>/_tail/   long-tail entries (passing quality threshold)
+  <cat>/         every kept agent — featured (top 500) + long tail, flat namespace
   _dropped/      audit log of removed slugs per date
 seeds/           hand-curated YAML seeds per category
 adapters/        MCP wrappers for runnable agents

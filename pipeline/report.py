@@ -55,20 +55,6 @@ def _format_delta(new: int, old: int) -> str:
     return f" ({'+' if diff > 0 else ''}{diff})"
 
 
-def _tail_counts() -> dict[str, int]:
-    out: dict[str, int] = {}
-    if not CATALOG_DIR.exists():
-        return out
-    for cat_dir in CATALOG_DIR.iterdir():
-        if not cat_dir.is_dir() or cat_dir.name.startswith("_"):
-            continue
-        tail_dir = cat_dir / "_tail"
-        if not tail_dir.exists():
-            continue
-        n = sum(1 for _ in tail_dir.glob("*.json"))
-        if n:
-            out[cat_dir.name] = n
-    return out
 
 
 def write_report(
@@ -97,8 +83,6 @@ def write_report(
     cats_at_cap = sorted(c for c in new_cats if new_cats[c] >= cap_per_cat)
 
     fw_hist = _framework_histogram(new_agents).most_common()
-    tail = _tail_counts()
-    tail_total = sum(tail.values())
 
     lines: list[str] = [
         f"# Catalog Report — {today}",
@@ -108,7 +92,6 @@ def write_report(
         f"- Categories: **{len(new_cats)}** populated",
         f"- Runnable: **{new_runnable}** ({100 * new_runnable / new_total:.1f}%)" + _format_delta(new_runnable, prev_runnable),
         f"- Framework coverage: **{new_fw_count}** / {new_total} ({fw_coverage_pct:.1f}%)",
-        f"- Tail tier: **{tail_total}** entries across {len(tail)} categories",
         "",
         "## Per-category counts",
         "| Category | Today | Δ |",
@@ -144,16 +127,6 @@ def write_report(
         ]
         for fw, count in fw_hist:
             lines.append(f"| `{fw}` | {count} |")
-        lines.append("")
-
-    if tail:
-        lines += [
-            "## Tail tier",
-            "| Category | Tail count |",
-            "|---|---:|",
-        ]
-        for cat, count in sorted(tail.items(), key=lambda kv: -kv[1]):
-            lines.append(f"| `{cat}` | {count} |")
         lines.append("")
 
     lines.append(f"---\n*generated {datetime.now(UTC).isoformat()}*\n")
