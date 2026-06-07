@@ -48,6 +48,12 @@ TOP_N = 500
 # TAIL_QUALITY_THRESHOLD goes to catalog/<cat>/_tail/.
 PER_CATEGORY_FEATURED_CAP: dict[str, int] = {}
 
+# Stale-entry cleanup: nightly runs once a day, so 28 consecutive failures
+# ≈ four weeks. A repo that goes 404, is archived without a redirect, or
+# is consistently rate-limited for four weeks loses its catalog spot.
+# Reset happens automatically on any successful build_from_github/huggingface.
+STALE_CLEANUP_THRESHOLD_DAYS = 28
+
 # Hard cap on per-run classifier (OpenAI) calls. Stops runaway cost if a
 # future query expansion makes broad-discovery surface explode; once hit,
 # subsequent broad-query repos keep their query-origin category. Tune via
@@ -439,12 +445,27 @@ def main(
         # Preserve prior on-disk entries that this run didn't refresh. A failed
         # GitHub fetch (rate limit, transient outage) makes build_from_github
         # return None, which would otherwise drop the entry from by_cat and let
-        # _write_and_truncate's dir-wipe delete it. The catalog must only shrink
-        # via ranking, never via missing API responses.
+        # _write_and_truncate's dir-wipe delete it. The catalog only shrinks
+        # via ranking OR after STALE_CLEANUP_THRESHOLD_DAYS consecutive
+        # refresh failures (4 weeks) — at which point the repo is effectively
+        # dead and should leave the catalog.
         seen = {(c, a.slug) for c, ags in by_cat.items() for a in ags}
+        stale_dropped: list[tuple[str, str]] = []
         for (c, slug), agent in existing.items():
-            if (c, slug) not in seen:
-                by_cat[c].append(agent)
+            if (c, slug) in seen:
+                continue
+            agent.consecutive_refresh_failures = (
+                (agent.consecutive_refresh_failures or 0) + 1
+            )
+            if agent.consecutive_refresh_failures >= STALE_CLEANUP_THRESHOLD_DAYS:
+                stale_dropped.append((c, slug))
+                continue
+            by_cat[c].append(agent)
+        if stale_dropped:
+            console.print(
+                f"[yellow]stale cleanup · dropped {len(stale_dropped)} entries "
+                f"after {STALE_CLEANUP_THRESHOLD_DAYS} consecutive refresh failures"
+            )
 
         t3 = progress.add_task("score + write", total=1)
         dropped = _write_and_truncate(by_cat, cats, dry_run=dry_run)
@@ -465,6 +486,7 @@ def main(
         "category_count": len(by_cat),
         "budget_remaining_gh": budget.gh_remaining,
         "budget_remaining_hf": budget.hf_remaining,
+        "stale_dropped": len(stale_dropped),
         **discover_stats,
     }
     stats_path = CATALOG_DIR.parent / "_run_stats.json"

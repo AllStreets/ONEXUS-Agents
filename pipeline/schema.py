@@ -74,6 +74,12 @@ class Agent(BaseModel):
     discovered_via: Literal["seed", "auto", "submission"]
     first_seen_at: datetime
     last_refreshed_at: datetime
+    # Catalog hygiene: incremented each nightly the entry wasn't refreshed.
+    # Resets to 0 on any successful build_from_github/huggingface (the new
+    # Agent is created fresh, so the counter is naturally 0). Entries with
+    # this counter >= STALE_CLEANUP_THRESHOLD_DAYS get dropped from the
+    # catalog by the missing-preservation loop in nightly.main.
+    consecutive_refresh_failures: int = 0
 
 
 class CategoryAnchor(BaseModel):
