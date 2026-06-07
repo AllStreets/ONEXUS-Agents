@@ -50,12 +50,12 @@
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.5783,
   "rank_in_category": 23,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:56:36.967465Z",
-  "last_refreshed_at": "2026-06-07T10:43:41.425543Z",
+  "last_refreshed_at": "2026-06-07T18:48:51.943092Z",
   "consecutive_refresh_failures": 1
 }
