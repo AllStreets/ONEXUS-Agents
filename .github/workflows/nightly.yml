@@ -156,6 +156,41 @@ jobs:
           # the next step handle it best-effort.
           gh pr merge "$BRANCH" --squash --auto
 
+      - name: verify PR actually merged (closes silent-failure gap)
+        if: github.event.inputs.dry_run != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          BRANCH="bot/refresh-$DATE"
+          # Poll for up to 10 minutes for the auto-merge to land. A PR that
+          # ends up CLOSED-without-merge (e.g. CONFLICTING/DIRTY from a
+          # concurrent merge) won't trigger if: failure() because the
+          # workflow itself succeeded — only the merge silently lost. This
+          # step fails the job in that case, which triggers the failure
+          # auto-issue from PR #70.
+          for i in $(seq 1 60); do
+            STATE=$(gh pr view "$BRANCH" --json state --jq '.state' 2>/dev/null || echo MISSING)
+            case "$STATE" in
+              MERGED)
+                echo "PR merged successfully"
+                exit 0
+                ;;
+              CLOSED)
+                echo "PR was CLOSED without merging — likely conflict during concurrent merge"
+                exit 1
+                ;;
+              MISSING)
+                echo "PR no longer queryable — treating as missed"
+                exit 1
+                ;;
+            esac
+            echo "attempt $i: state=$STATE, waiting..."
+            sleep 10
+          done
+          echo "10 minutes elapsed and PR is still $STATE — auto-merge blocked"
+          exit 1
+
       - name: cleanup merged branch (best effort)
         if: github.event.inputs.dry_run != 'true'
         continue-on-error: true

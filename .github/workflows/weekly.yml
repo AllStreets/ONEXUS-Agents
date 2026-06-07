@@ -128,6 +128,39 @@ jobs:
 
           gh pr merge "$BRANCH" --squash --auto
 
+      - name: verify PR actually merged (closes silent-failure gap)
+        if: github.event.inputs.dry_run != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          BRANCH="bot/weekly-rescan-$DATE"
+          # Poll for up to 10 minutes for the auto-merge to land. If the PR
+          # ends up CLOSED without merging — exactly what happened to #75 on
+          # 2026-06-07 when the weekly raced with the nightly — fail the job
+          # so the failure auto-issue from #70 fires.
+          for i in $(seq 1 60); do
+            STATE=$(gh pr view "$BRANCH" --json state --jq '.state' 2>/dev/null || echo MISSING)
+            case "$STATE" in
+              MERGED)
+                echo "PR merged successfully"
+                exit 0
+                ;;
+              CLOSED)
+                echo "PR was CLOSED without merging — likely conflict during concurrent merge"
+                exit 1
+                ;;
+              MISSING)
+                echo "PR no longer queryable — treating as missed"
+                exit 1
+                ;;
+            esac
+            echo "attempt $i: state=$STATE, waiting..."
+            sleep 10
+          done
+          echo "10 minutes elapsed and PR is still $STATE — auto-merge blocked"
+          exit 1
+
       - name: cleanup merged branch (best effort)
         if: github.event.inputs.dry_run != 'true'
         continue-on-error: true
