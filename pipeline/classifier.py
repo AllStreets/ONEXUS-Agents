@@ -99,7 +99,10 @@ def classify_openai(text: str, categories: CategoryIndex) -> Classification:
         client = OpenAI(api_key=api_key)
         msg = client.chat.completions.create(
             model="gpt-5.4-mini",
-            max_tokens=64,
+            # GPT-5.x renamed the param: rejects max_tokens with 400 BadRequest,
+            # requires max_completion_tokens. Older models accept either, so
+            # we standardize on the new name.
+            max_completion_tokens=64,
             messages=[
                 {"role": "system", "content": system},
                 {"role": "user", "content": user},
