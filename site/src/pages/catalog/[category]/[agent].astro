@@ -23,9 +23,44 @@ const benchmark = agent.benchmarks?.[0];
 const ageDays = agent.metrics.first_commit_at
   ? Math.floor((Date.now() - new Date(agent.metrics.first_commit_at).getTime()) / 86_400_000)
   : null;
+
+// JSON-LD structured data — surfaces this catalog in Google's
+// SoftwareApplication results and improves LLM-search ingestion.
+const canonical = `https://onexus-agents.vercel.app/catalog/${agent.category}/${agent.slug}`;
+const codeRepo = ghHref || hfHref || homeHref || canonical;
+const jsonLd: Record<string, unknown> = {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": agent.name,
+  "description": agent.tagline,
+  "applicationCategory": "AIApplication",
+  "operatingSystem": "Cross-platform",
+  "url": canonical,
+  "codeRepository": codeRepo,
+  "license": agent.license,
+  "author": {
+    "@type": agent.author.type === "org" ? "Organization" : "Person",
+    "name": agent.author.handle,
+    "url": agent.author.url,
+  },
+  "keywords": agent.tags.join(", "),
+  "softwareVersion": agent.metrics.latest_release_at ?? undefined,
+  "datePublished": agent.metrics.first_commit_at ?? undefined,
+  "dateModified": agent.metrics.last_commit_at ?? agent.last_refreshed_at,
+};
+if (typeof agent.metrics.stars === "number" && agent.metrics.stars > 0) {
+  jsonLd["aggregateRating"] = {
+    "@type": "AggregateRating",
+    "ratingValue": Math.min(5, 1 + Math.log10(agent.metrics.stars)).toFixed(2),
+    "ratingCount": agent.metrics.stars,
+    "bestRating": "5",
+    "worstRating": "1",
+  };
+}
 ---
 
 <Base current="catalog" title={`${agent.name} — ${category.name} — ONEXUS-Agents`} description={agent.tagline}>
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
   <div class="max-w-5xl mx-auto px-6 py-12">
     <nav class="flex items-center gap-1.5 text-sm font-mono text-[var(--color-fg-dim)] mb-6">
       <a href="/catalog" class="hover:text-[var(--color-accent)]">catalog</a>
