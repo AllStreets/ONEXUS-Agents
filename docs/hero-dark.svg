@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="ONEXUS Agents — the catalog of the world's most powerful open-source AI agents">
+  <defs>
+    <!-- Subtle dot grid -->
+    <pattern id="grid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="16" cy="16" r="0.9" fill="#0f1822"/>
+    </pattern>
+
+    <!-- Cyan title gradient -->
+    <linearGradient id="cyan" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7df9ff"/>
+      <stop offset="55%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#0098b8"/>
+    </linearGradient>
+
+    <!-- Soft cyan glow for the title -->
+    <filter id="glow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Inner highlight on the title (gives the depth feel) -->
+    <linearGradient id="cyanLight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="40%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Accent stripe gradient (top + bottom border accents) -->
+    <linearGradient id="stripe" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00d4ff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Side panel for stats -->
+    <linearGradient id="panel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0c1218" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#070b0f" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="340" fill="#07090c"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+
+  <!-- Top + bottom accent stripes -->
+  <rect x="0" y="0" width="1200" height="1.5" fill="url(#stripe)"/>
+  <rect x="0" y="338.5" width="1200" height="1.5" fill="url(#stripe)"/>
+
+  <!-- Eyebrow ‑ small mono tag above the title -->
+  <g transform="translate(80, 78)">
+    <rect x="0" y="-13" width="16" height="2" fill="#00d4ff"/>
+    <text x="26" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#00d4ff" letter-spacing="0.35em">ONEXUS · AGENTS</text>
+  </g>
+
+  <!-- Big 3D title -->
+  <g transform="translate(80, 215)">
+    <!-- Offset depth layer (gives the 3-D push) -->
+    <text font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-weight="900" font-size="118" fill="#0d1822" letter-spacing="-0.04em" transform="translate(6, 6)">Agents.</text>
+    <!-- Glow halo -->
+    <text font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-weight="900" font-size="118" fill="#00d4ff" fill-opacity="0.35" letter-spacing="-0.04em" filter="url(#glow)">Agents.</text>
+    <!-- Main painted face -->
+    <text font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-weight="900" font-size="118" fill="url(#cyan)" letter-spacing="-0.04em">Agents.</text>
+    <!-- Glossy top highlight -->
+    <text font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-weight="900" font-size="118" fill="url(#cyanLight)" letter-spacing="-0.04em">Agents.</text>
+  </g>
+
+  <!-- Tagline -->
+  <text x="80" y="265" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="19" fill="#9aa3b1">
+    The catalog of the world's most powerful open-source AI agents.
+  </text>
+  <text x="80" y="293" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#6b7382" letter-spacing="0.04em">
+    Discovered nightly · ranked transparently · bridged to ONEXUS on demand
+  </text>
+
+  <!-- Right-side stats panel -->
+  <g transform="translate(840, 60)">
+    <rect x="0" y="0" width="280" height="220" rx="12" fill="url(#panel)" stroke="#1a2530" stroke-width="1"/>
+
+    <!-- Header rule -->
+    <line x1="20" y1="32" x2="48" y2="32" stroke="#00d4ff" stroke-width="2"/>
+    <text x="56" y="36" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#00d4ff" letter-spacing="0.18em">CATALOG SNAPSHOT</text>
+
+    <!-- 7,000+ agents -->
+    <text x="20" y="74" font-family="Inter, system-ui, sans-serif" font-weight="800" font-size="32" fill="#e6e9ee">7,000+</text>
+    <text x="20" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6b7382" letter-spacing="0.14em">AGENTS INDEXED</text>
+
+    <!-- 660+ runnable -->
+    <text x="20" y="132" font-family="Inter, system-ui, sans-serif" font-weight="800" font-size="32" fill="#00d4ff">660+</text>
+    <text x="20" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6b7382" letter-spacing="0.14em">RUNNABLE VIA MCP</text>
+
+    <!-- 40 categories -->
+    <text x="20" y="190" font-family="Inter, system-ui, sans-serif" font-weight="800" font-size="32" fill="#e6e9ee">40</text>
+    <text x="20" y="208" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6b7382" letter-spacing="0.14em">TASK CATEGORIES</text>
+  </g>
+</svg>
