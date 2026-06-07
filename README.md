@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/hero-dark.svg" alt="ONEXUS / Agents — the catalog of the world's most powerful open-source AI agents" width="100%"/>
+<a href="https://agents.onexus.dev"><img src="docs/hero-dark.svg" alt="ONEXUS / Agents — the catalog of the world's most powerful open-source AI agents" width="100%"/></a>
 
 &nbsp;
 
