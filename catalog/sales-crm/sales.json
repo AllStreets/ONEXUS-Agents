@@ -1,30 +1,38 @@
 {
   "slug": "sales",
   "name": "sales",
-  "tagline": "Sales CRM by Sannty | Stop losing deals in spreadsheets",
+  "tagline": "Claude Code skills for sales, marketing, and GTM — CRM, outbound, note-takers, enrichment, email marketing, influencer marketing, social   listening, directories, and more. Install: npx skills add sal",
   "category": "sales-crm",
   "tags": [
-    "sales-crm",
-    "sales-crm-pipeline-lite"
+    "ai-skills",
+    "claude",
+    "claude-code",
+    "cold-email",
+    "conversion-intelligence",
+    "crm",
+    "email-marketing",
+    "gtm",
+    "helpdesk",
+    "influencer-marketing"
   ],
   "author": {
-    "type": "user",
-    "handle": "AshishKapoor",
-    "url": "https://github.com/AshishKapoor"
+    "type": "org",
+    "handle": "sales-skills",
+    "url": "https://github.com/sales-skills"
   },
   "source": {
     "primary": "github",
-    "github": "AshishKapoor/sales",
+    "github": "sales-skills/sales",
     "huggingface": null,
-    "homepage": "https://sales-crm.sannty.in/"
+    "homepage": null
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 1,
+    "stars": 43,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-21T06:34:16Z",
-    "first_commit_at": "2025-04-02T06:02:22Z",
-    "forks": 0,
+    "last_commit_at": "2026-06-06T16:36:55Z",
+    "first_commit_at": "2026-03-23T16:13:52Z",
+    "forks": 4,
     "watchers": 1,
     "open_issues": 1,
     "archived": false,
@@ -43,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3814,
-  "rank_in_category": 55,
+  "composite_score": 0.528,
+  "rank_in_category": 25,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-06T15:56:01.475371Z",
-  "last_refreshed_at": "2026-06-07T10:43:10.941632Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-06-06T10:15:10.613219Z",
+  "last_refreshed_at": "2026-06-08T18:05:07.488028Z",
+  "consecutive_refresh_failures": 0
 }

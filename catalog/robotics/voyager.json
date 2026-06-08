@@ -1,0 +1,54 @@
+{
+  "slug": "voyager",
+  "name": "Voyager",
+  "tagline": "An Open-Ended Embodied Agent with Large Language Models",
+  "category": "robotics",
+  "tags": [
+    "embodied-learning",
+    "large-language-models",
+    "minecraft",
+    "open-ended-learning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "MineDojo",
+    "url": "https://github.com/MineDojo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MineDojo/Voyager",
+    "huggingface": null,
+    "homepage": "https://voyager.minedojo.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6962,
+    "downloads_30d": null,
+    "last_commit_at": "2024-04-03T18:51:36Z",
+    "first_commit_at": "2023-05-25T18:20:15Z",
+    "forks": 675,
+    "watchers": 70,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5351,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:27.007211Z",
+  "last_refreshed_at": "2026-06-08T18:38:27.007214Z",
+  "consecutive_refresh_failures": 0
+}

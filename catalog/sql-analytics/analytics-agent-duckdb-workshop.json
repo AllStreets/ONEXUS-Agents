@@ -1,0 +1,49 @@
+{
+  "slug": "analytics-agent-duckdb-workshop",
+  "name": "analytics-agent-duckdb-workshop",
+  "tagline": "Engineering reliable analytics agents from scratch with DuckDB, MCP and a semantic layer",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "motherduckdb",
+    "url": "https://github.com/motherduckdb"
+  },
+  "source": {
+    "primary": "github",
+    "github": "motherduckdb/analytics-agent-duckdb-workshop",
+    "huggingface": null,
+    "homepage": "https://motherduckdb.github.io/analytics-agent-duckdb-workshop/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T17:26:07Z",
+    "first_commit_at": "2026-04-10T11:41:49Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3182,
+  "rank_in_category": 82,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:04.895024Z",
+  "last_refreshed_at": "2026-06-08T18:43:04.895027Z",
+  "consecutive_refresh_failures": 0
+}

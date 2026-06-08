@@ -1,0 +1,59 @@
+{
+  "slug": "sql-server-first-responder-kit",
+  "name": "SQL-Server-First-Responder-Kit",
+  "tagline": "sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.",
+  "category": "sql-analytics",
+  "tags": [
+    "first-responder-kit",
+    "health-checks",
+    "microsoft-sql-server",
+    "ms-sql-server",
+    "sp-blitz",
+    "sp-blitzcache",
+    "sp-blitzfirst",
+    "sp-blitzindex",
+    "sql-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "BrentOzarULTD",
+    "url": "https://github.com/BrentOzarULTD"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BrentOzarULTD/SQL-Server-First-Responder-Kit",
+    "huggingface": null,
+    "homepage": "http://firstresponderkit.org/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 3818,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T12:39:28Z",
+    "first_commit_at": "2014-06-02T15:26:41Z",
+    "forks": 1098,
+    "watchers": 256,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5062,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:34.975223Z",
+  "last_refreshed_at": "2026-06-08T18:42:34.975227Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "atmosphere",
   "name": "atmosphere",
-  "tagline": "Real-time transport layer for Java AI agents. Build once with @Agent \u2014 deliver over WebSocket, SSE, gRPC, and WebTransport/HTTP3. Talk MCP, A2A and AG-UI. ",
+  "tagline": "Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, and WebTransport/HTTP3. Talk MCP, A2A and AG-UI. ",
   "category": "email-scheduling",
   "tags": [
     "acp",
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.7046,
-  "rank_in_category": 5,
+  "composite_score": 0.7528,
+  "rank_in_category": 2,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:14:38.918612Z",
   "last_refreshed_at": "2026-06-07T10:30:29.974282Z",
-  "consecutive_refresh_failures": 1
+  "consecutive_refresh_failures": 2
 }

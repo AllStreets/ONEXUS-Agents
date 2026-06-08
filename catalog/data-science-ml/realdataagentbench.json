@@ -1,0 +1,49 @@
+{
+  "slug": "realdataagentbench",
+  "name": "RealDataAgentBench",
+  "tagline": "Benchmark for evaluating LLM data-science agents across correctness, code quality, efficiency, and statistical validity.",
+  "category": "data-science-ml",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "patibandlavenkatamanideep",
+    "url": "https://github.com/patibandlavenkatamanideep"
+  },
+  "source": {
+    "primary": "github",
+    "github": "patibandlavenkatamanideep/RealDataAgentBench",
+    "huggingface": null,
+    "homepage": "https://patibandlavenkatamanideep.github.io/RealDataAgentBench/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-18T13:00:41Z",
+    "first_commit_at": "2026-04-09T05:50:05Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3243,
+  "rank_in_category": 135,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T17:10:11.994160Z",
+  "last_refreshed_at": "2026-06-08T17:10:11.994163Z",
+  "consecutive_refresh_failures": 0
+}

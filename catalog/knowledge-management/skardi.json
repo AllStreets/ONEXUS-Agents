@@ -1,0 +1,60 @@
+{
+  "slug": "skardi",
+  "name": "skardi",
+  "tagline": "Skardi is an agent data plane that gives AI agents data autonomy.",
+  "category": "knowledge-management",
+  "tags": [
+    "agent",
+    "datafusion",
+    "datalake",
+    "iceberg",
+    "lance",
+    "mongo",
+    "mysql",
+    "postgres",
+    "rag",
+    "redis"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SkardiLabs",
+    "url": "https://github.com/SkardiLabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SkardiLabs/skardi",
+    "huggingface": null,
+    "homepage": "https://www.skardi.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 76,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-15T07:58:55Z",
+    "first_commit_at": "2026-03-08T14:29:26Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4794,
+  "rank_in_category": 132,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:40:11.837003Z",
+  "last_refreshed_at": "2026-06-08T18:40:11.837006Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "oms-agent-for-linux",
+  "name": "OMS-Agent-for-Linux",
+  "tagline": "OMS-Agent-for-Linux",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/OMS-Agent-for-Linux",
+    "huggingface": null,
+    "homepage": "http://www.microsoft.com/oms"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 409,
+    "downloads_30d": null,
+    "last_commit_at": "2024-09-11T14:52:33Z",
+    "first_commit_at": "2015-10-05T19:50:18Z",
+    "forks": 301,
+    "watchers": 24,
+    "open_issues": 0,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1198,
+  "rank_in_category": 230,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:12.221451Z",
+  "last_refreshed_at": "2026-06-08T18:43:12.221454Z",
+  "consecutive_refresh_failures": 0
+}

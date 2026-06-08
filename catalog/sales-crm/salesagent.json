@@ -1,29 +1,29 @@
 {
   "slug": "salesagent",
-  "name": "SalesAgent",
-  "tagline": "SalesBot 2.0",
+  "name": "salesagent",
+  "tagline": "A media sales agent that implements the AdCP Media Buy protocol",
   "category": "sales-crm",
   "tags": [],
   "author": {
     "type": "org",
-    "handle": "MiuLab",
-    "url": "https://github.com/MiuLab"
+    "handle": "prebid",
+    "url": "https://github.com/prebid"
   },
   "source": {
     "primary": "github",
-    "github": "MiuLab/SalesAgent",
+    "github": "prebid/salesagent",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://docs.adcontextprotocol.org/docs/media-buy"
   },
-  "license": "Unknown",
+  "license": "Apache-2.0",
   "metrics": {
-    "stars": 30,
+    "stars": 32,
     "downloads_30d": null,
-    "last_commit_at": "2025-08-14T03:59:18Z",
-    "first_commit_at": "2024-03-11T06:59:42Z",
-    "forks": 6,
-    "watchers": 1,
-    "open_issues": 0,
+    "last_commit_at": "2026-06-08T18:11:42Z",
+    "first_commit_at": "2025-07-23T18:48:54Z",
+    "forks": 44,
+    "watchers": 2,
+    "open_issues": 160,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3702,
-  "rank_in_category": 59,
+  "composite_score": 0.5758,
+  "rank_in_category": 13,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-06T15:56:14.822752Z",
-  "last_refreshed_at": "2026-06-07T10:43:14.575447Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-06-08T18:30:11.160003Z",
+  "last_refreshed_at": "2026-06-08T18:30:11.160007Z",
+  "consecutive_refresh_failures": 0
 }

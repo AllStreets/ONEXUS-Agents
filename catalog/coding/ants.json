@@ -1,0 +1,56 @@
+{
+  "slug": "ants",
+  "name": "ants",
+  "tagline": "🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.",
+  "category": "coding",
+  "tags": [
+    "ants",
+    "go",
+    "goroutine",
+    "goroutine-pool",
+    "pool",
+    "worker-pool"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "panjf2000",
+    "url": "https://github.com/panjf2000"
+  },
+  "source": {
+    "primary": "github",
+    "github": "panjf2000/ants",
+    "huggingface": null,
+    "homepage": "https://ants.andypan.me/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14429,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-25T01:29:32Z",
+    "first_commit_at": "2018-05-19T01:13:39Z",
+    "forks": 1434,
+    "watchers": 174,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4196,
+  "rank_in_category": 107,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:02.858089Z",
+  "last_refreshed_at": "2026-06-08T17:58:47.245557Z",
+  "consecutive_refresh_failures": 0
+}

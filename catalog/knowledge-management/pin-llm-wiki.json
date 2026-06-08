@@ -1,0 +1,54 @@
+{
+  "slug": "pin-llm-wiki",
+  "name": "pin-llm-wiki",
+  "tagline": "Skill for Claude, Cursor & Copilot that automates the Karpathy LLM Wiki workflow: ingest web, GitHub, and YouTube URLs into a well-structured, citable, cross-referenced knowledge base with automatic l",
+  "category": "knowledge-management",
+  "tags": [
+    "agent-skill",
+    "claude-skill",
+    "cursor-skill",
+    "llm-wiki"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ndjordjevic",
+    "url": "https://github.com/ndjordjevic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ndjordjevic/pin-llm-wiki",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 75,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T07:13:43Z",
+    "first_commit_at": "2026-04-21T14:41:10Z",
+    "forks": 13,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5148,
+  "rank_in_category": 108,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:40:12.226383Z",
+  "last_refreshed_at": "2026-06-08T18:40:12.226386Z",
+  "consecutive_refresh_failures": 0
+}

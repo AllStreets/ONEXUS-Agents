@@ -1,0 +1,56 @@
+{
+  "slug": "rlinf",
+  "name": "RLinf",
+  "tagline": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
+  "category": "robotics",
+  "tags": [
+    "agentic-ai",
+    "embodied-ai",
+    "reinforcement-learning",
+    "rl-infra",
+    "rlinf",
+    "vla-rl"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "RLinf",
+    "url": "https://github.com/RLinf"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RLinf/RLinf",
+    "huggingface": null,
+    "homepage": "https://rlinf.readthedocs.io/en/latest/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3698,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T14:11:09Z",
+    "first_commit_at": "2025-08-14T03:52:19Z",
+    "forks": 512,
+    "watchers": 17,
+    "open_issues": 249,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6826,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:28.154307Z",
+  "last_refreshed_at": "2026-06-08T18:38:28.154310Z",
+  "consecutive_refresh_failures": 0
+}

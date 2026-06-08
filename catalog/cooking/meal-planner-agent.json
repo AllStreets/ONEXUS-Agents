@@ -1,0 +1,49 @@
+{
+  "slug": "meal-planner-agent",
+  "name": "meal-planner-agent",
+  "tagline": "An intelligent agent that helps users plan meals, manage grocery lists, and discover recipes based on dietary preferences and available ingredients.",
+  "category": "cooking",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "richardblythman",
+    "url": "https://github.com/richardblythman"
+  },
+  "source": {
+    "primary": "github",
+    "github": "richardblythman/meal-planner-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-02T07:34:05Z",
+    "first_commit_at": "2025-12-14T11:32:04Z",
+    "forks": 8,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4026,
+  "rank_in_category": 39,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:12.895005Z",
+  "last_refreshed_at": "2026-06-08T18:38:12.895008Z",
+  "consecutive_refresh_failures": 0
+}

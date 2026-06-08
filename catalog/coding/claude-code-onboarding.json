@@ -1,0 +1,49 @@
+{
+  "slug": "claude-code-onboarding",
+  "name": "claude-code-onboarding",
+  "tagline": "🤖 Team onboarding kit for Claude Code AI coding assistant. Pre-configured with agents, skills, slash commands, and MCP integrations for Java 21/Spring Boot WebFlux, Angular, Flutter, PostgreSQL, and F",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "kumaran-is",
+    "url": "https://github.com/kumaran-is"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kumaran-is/claude-code-onboarding",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 31,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-30T20:46:29Z",
+    "first_commit_at": "2026-02-01T23:32:26Z",
+    "forks": 19,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3131,
+  "rank_in_category": 372,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:46.091392Z",
+  "last_refreshed_at": "2026-06-08T18:08:05.213312Z",
+  "consecutive_refresh_failures": 0
+}

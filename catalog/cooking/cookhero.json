@@ -1,7 +1,7 @@
 {
   "slug": "cookhero",
   "name": "CookHero",
-  "tagline": "CookHero\u662f\u4e00\u4e2a\u57fa\u4e8e LLM + RAG + Agent + \u591a\u6a21\u6001\u7684\u667a\u80fd\u996e\u98df\u4e0e\u70f9\u996a\u7ba1\u7406\u5e73\u53f0\uff0c\u652f\u6301\u667a\u80fd\u83dc\u8c31\u67e5\u8be2\u3001\u4e2a\u6027\u5316\u996e\u98df\u8ba1\u5212\u3001AI \u996e\u98df\u8bb0\u5f55\u3001\u8425\u517b\u5206\u6790\u3001Web \u641c\u7d22\u589e\u5f3a\uff0c\u4ee5\u53ca\u53ef\u6269\u5c55\u7684 ReAct Agent / Subagent \u5de5\u5177\u4f53\u7cfb\uff0c\u5e2e\u52a9\u53a8\u623f\u65b0\u624b\u8f7b\u677e\u6210\u4e3a\u201c\u70f9\u996a\u82f1\u96c4\u201d\u3002",
+  "tagline": "CookHero是一个基于 LLM + RAG + Agent + 多模态的智能饮食与烹饪管理平台，支持智能菜谱查询、个性化饮食计划、AI 饮食记录、营养分析、Web 搜索增强，以及可扩展的 ReAct Agent / Subagent 工具体系，帮助厨房新手轻松成为“烹饪英雄”。",
   "category": "cooking",
   "tags": [
     "agent",
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6784,
-  "rank_in_category": 1,
+  "composite_score": 0.674,
+  "rank_in_category": 5,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:50:55.171902Z",
   "last_refreshed_at": "2026-06-07T09:42:02.293240Z",
-  "consecutive_refresh_failures": 1
+  "consecutive_refresh_failures": 2
 }

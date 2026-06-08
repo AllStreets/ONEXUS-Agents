@@ -1,0 +1,62 @@
+{
+  "slug": "generative-ai",
+  "name": "generative-ai",
+  "tagline": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform",
+  "category": "coding",
+  "tags": [
+    "agents",
+    "gcp",
+    "gemini",
+    "gemini-api",
+    "gen-ai",
+    "generative-ai",
+    "google",
+    "google-cloud",
+    "google-gemini",
+    "langchain"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "GoogleCloudPlatform",
+    "url": "https://github.com/GoogleCloudPlatform"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GoogleCloudPlatform/generative-ai",
+    "huggingface": null,
+    "homepage": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 17001,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T17:07:16Z",
+    "first_commit_at": "2023-05-11T13:30:44Z",
+    "forks": 4256,
+    "watchers": 285,
+    "open_issues": 71,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4572,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:17.664263Z",
+  "last_refreshed_at": "2026-06-08T18:00:07.923725Z",
+  "consecutive_refresh_failures": 0
+}

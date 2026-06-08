@@ -1,0 +1,53 @@
+{
+  "slug": "pdf-to-podcast",
+  "name": "pdf-to-podcast",
+  "tagline": "Transform PDFs into AI podcasts for engaging on-the-go audio content.",
+  "category": "pdf-forms",
+  "tags": [
+    "nim",
+    "pdf-to-podcast",
+    "tts"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NVIDIA-AI-Blueprints",
+    "url": "https://github.com/NVIDIA-AI-Blueprints"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVIDIA-AI-Blueprints/pdf-to-podcast",
+    "huggingface": null,
+    "homepage": "https://build.nvidia.com/nvidia/pdf-to-podcast"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 843,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-04T09:10:38Z",
+    "first_commit_at": "2024-12-12T08:07:34Z",
+    "forks": 220,
+    "watchers": 6,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6192,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:40:52.265718Z",
+  "last_refreshed_at": "2026-06-08T18:40:52.265721Z",
+  "consecutive_refresh_failures": 0
+}

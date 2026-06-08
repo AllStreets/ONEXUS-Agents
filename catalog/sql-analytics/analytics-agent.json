@@ -1,0 +1,49 @@
+{
+  "slug": "analytics-agent",
+  "name": "analytics-agent",
+  "tagline": "DataHub Talk-to-Data analytics agent",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "datahub-project",
+    "url": "https://github.com/datahub-project"
+  },
+  "source": {
+    "primary": "github",
+    "github": "datahub-project/analytics-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T23:16:52Z",
+    "first_commit_at": "2026-04-22T20:43:55Z",
+    "forks": 13,
+    "watchers": 2,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3394,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:02.221975Z",
+  "last_refreshed_at": "2026-06-08T18:43:02.221978Z",
+  "consecutive_refresh_failures": 0
+}

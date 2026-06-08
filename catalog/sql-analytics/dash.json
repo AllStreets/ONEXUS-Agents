@@ -1,0 +1,49 @@
+{
+  "slug": "dash",
+  "name": "dash",
+  "tagline": "A self-learning data agent built with systems engineering principles. It grounds answers in 6 layers of context and improves with every query.",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "agno-agi",
+    "url": "https://github.com/agno-agi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agno-agi/dash",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2080,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-08T11:50:51Z",
+    "first_commit_at": "2026-01-30T13:54:17Z",
+    "forks": 235,
+    "watchers": 20,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3981,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:35.371082Z",
+  "last_refreshed_at": "2026-06-08T18:42:35.371085Z",
+  "consecutive_refresh_failures": 0
+}

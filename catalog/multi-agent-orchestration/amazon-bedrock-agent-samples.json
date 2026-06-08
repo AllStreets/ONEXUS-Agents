@@ -1,0 +1,56 @@
+{
+  "slug": "amazon-bedrock-agent-samples",
+  "name": "amazon-bedrock-agent-samples",
+  "tagline": "Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "amazon-bedrock",
+    "amazon-bedrock-agents",
+    "bedrock",
+    "bedrock-agents",
+    "generative-ai",
+    "multi-agents-collaboration"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "awslabs",
+    "url": "https://github.com/awslabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "awslabs/amazon-bedrock-agent-samples",
+    "huggingface": null,
+    "homepage": "https://aws.amazon.com/bedrock/agents/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 797,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-05T20:02:56Z",
+    "first_commit_at": "2024-11-27T19:43:32Z",
+    "forks": 271,
+    "watchers": 22,
+    "open_issues": 43,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.378,
+  "rank_in_category": 247,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:29.348467Z",
+  "last_refreshed_at": "2026-06-08T18:06:27.251115Z",
+  "consecutive_refresh_failures": 0
+}

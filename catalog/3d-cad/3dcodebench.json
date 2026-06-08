@@ -1,0 +1,56 @@
+{
+  "slug": "3dcodebench",
+  "name": "3dcodebench",
+  "tagline": "Benchmarking Agentic Procedural 3D Modeling Via Code",
+  "category": "3d-cad",
+  "tags": [
+    "3d",
+    "blender",
+    "blender-python",
+    "blender-scripts",
+    "code-generation",
+    "procedural-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "gaoypeng",
+    "url": "https://github.com/gaoypeng"
+  },
+  "source": {
+    "primary": "github",
+    "github": "gaoypeng/3dcodebench",
+    "huggingface": null,
+    "homepage": "https://www.3dcodebench.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 33,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-02T05:08:04Z",
+    "first_commit_at": "2026-05-24T06:49:59Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4901,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:40.048508Z",
+  "last_refreshed_at": "2026-06-08T18:43:40.048512Z",
+  "consecutive_refresh_failures": 0
+}

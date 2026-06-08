@@ -1,0 +1,62 @@
+{
+  "slug": "legal-agents",
+  "name": "legal-agents",
+  "tagline": "Drop-in OpenClaw/NemoClaw agent configuration for the ibl.ai Legal segment — Firm Assistant orchestrator plus 12 specialist subagents.",
+  "category": "legal-research",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "contract-review",
+    "conversational-ai",
+    "ibl-ai",
+    "law",
+    "law-firm",
+    "legal"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "iblai",
+    "url": "https://github.com/iblai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iblai/legal-agents",
+    "huggingface": null,
+    "homepage": "https://ibl.ai/solutions/legal"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T14:20:56Z",
+    "first_commit_at": "2026-06-08T14:18:09Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2465,
+  "rank_in_category": 97,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T17:19:06.716419Z",
+  "last_refreshed_at": "2026-06-08T17:19:06.716422Z",
+  "consecutive_refresh_failures": 0
+}

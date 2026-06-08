@@ -1,0 +1,49 @@
+{
+  "slug": "cosmos",
+  "name": "cosmos",
+  "tagline": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+  "category": "robotics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "NVIDIA",
+    "url": "https://github.com/NVIDIA"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVIDIA/cosmos",
+    "huggingface": null,
+    "homepage": "https://www.nvidia.com/en-us/ai/cosmos/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 9718,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T16:16:39Z",
+    "first_commit_at": "2024-12-30T17:21:14Z",
+    "forks": 618,
+    "watchers": 91,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.726,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:26.185188Z",
+  "last_refreshed_at": "2026-06-08T18:38:26.185192Z",
+  "consecutive_refresh_failures": 0
+}

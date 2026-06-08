@@ -1,0 +1,53 @@
+{
+  "slug": "ryoma",
+  "name": "ryoma",
+  "tagline": "Common AI agent framework solving your data problems",
+  "category": "sql-analytics",
+  "tags": [
+    "ai",
+    "data-science",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "project-ryoma",
+    "url": "https://github.com/project-ryoma"
+  },
+  "source": {
+    "primary": "github",
+    "github": "project-ryoma/ryoma",
+    "huggingface": null,
+    "homepage": "https://project-ryoma.github.io/ryoma/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 406,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-01T00:59:32Z",
+    "first_commit_at": "2023-07-07T06:45:07Z",
+    "forks": 57,
+    "watchers": 10,
+    "open_issues": 18,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3703,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:39.285431Z",
+  "last_refreshed_at": "2026-06-08T18:42:39.285435Z",
+  "consecutive_refresh_failures": 0
+}

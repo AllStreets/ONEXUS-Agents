@@ -1,0 +1,57 @@
+{
+  "slug": "obsidian-agent-client",
+  "name": "obsidian-agent-client",
+  "tagline": "Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.",
+  "category": "knowledge-management",
+  "tags": [
+    "agent-client-protocol",
+    "claude-code",
+    "codex",
+    "gemini-cli",
+    "obsidian-md",
+    "obsidian-plugin",
+    "opencode"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "RAIT-09",
+    "url": "https://github.com/RAIT-09"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RAIT-09/obsidian-agent-client",
+    "huggingface": null,
+    "homepage": "https://rait-09.github.io/obsidian-agent-client/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2150,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T16:55:54Z",
+    "first_commit_at": "2025-09-18T09:47:13Z",
+    "forks": 186,
+    "watchers": 9,
+    "open_issues": 53,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6151,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:39:41.913383Z",
+  "last_refreshed_at": "2026-06-08T18:39:41.913386Z",
+  "consecutive_refresh_failures": 0
+}

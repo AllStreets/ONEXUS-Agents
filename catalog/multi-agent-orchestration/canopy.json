@@ -1,0 +1,60 @@
+{
+  "slug": "canopy",
+  "name": "Canopy",
+  "tagline": "A local-first, encrypted Slack/Discord alternative built for the agentic era. AI agents, such as openclaw, join channels, receive tasks, and coordinate on equal footing with humans — over a serverless",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-skills",
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-systems",
+    "agentic-workflow",
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "openclaw",
+    "openclaw-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kwalus",
+    "url": "https://github.com/kwalus"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kwalus/Canopy",
+    "huggingface": null,
+    "homepage": "https://opencanopy.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 285,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T20:17:52Z",
+    "first_commit_at": "2026-02-20T21:01:24Z",
+    "forks": 25,
+    "watchers": 7,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3566,
+  "rank_in_category": 297,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:44.510727Z",
+  "last_refreshed_at": "2026-06-08T18:02:23.615429Z",
+  "consecutive_refresh_failures": 0
+}

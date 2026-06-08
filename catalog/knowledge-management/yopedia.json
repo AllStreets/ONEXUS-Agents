@@ -1,0 +1,56 @@
+{
+  "slug": "yopedia",
+  "name": "yopedia",
+  "tagline": "A wiki designed for both humans and agents to read and write.",
+  "category": "knowledge-management",
+  "tags": [
+    "ai-agent",
+    "karpathy",
+    "knowledge-base",
+    "llm",
+    "wiki",
+    "yopedia"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yologdev",
+    "url": "https://github.com/yologdev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yologdev/yopedia",
+    "huggingface": null,
+    "homepage": "https://yologdev.github.io/yopedia/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 58,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T18:02:29Z",
+    "first_commit_at": "2026-04-06T00:20:23Z",
+    "forks": 10,
+    "watchers": 1,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5123,
+  "rank_in_category": 112,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:40:13.998793Z",
+  "last_refreshed_at": "2026-06-08T18:40:13.998796Z",
+  "consecutive_refresh_failures": 0
+}

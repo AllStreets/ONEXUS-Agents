@@ -1,0 +1,59 @@
+{
+  "slug": "power-bi-agentic-development",
+  "name": "power-bi-agentic-development",
+  "tagline": "Skills, subagents, hooks, and other stuff for agents to work well with Power BI. WIP; weekly updates.",
+  "category": "data-engineering",
+  "tags": [
+    "agentic-development",
+    "business-intelligence",
+    "claude-code",
+    "microsoft-fabric",
+    "plugin",
+    "power-bi",
+    "reporting",
+    "semantic-model",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "data-goblin",
+    "url": "https://github.com/data-goblin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "data-goblin/power-bi-agentic-development",
+    "huggingface": null,
+    "homepage": "https://data-goblins.com/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 674,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T17:52:13Z",
+    "first_commit_at": "2026-01-13T12:56:59Z",
+    "forks": 104,
+    "watchers": 28,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6599,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:54.332318Z",
+  "last_refreshed_at": "2026-06-08T17:52:48.621790Z",
+  "consecutive_refresh_failures": 0
+}

@@ -32,12 +32,12 @@
     "downloads_30d": null,
     "last_commit_at": "2025-08-24T20:44:13Z",
     "first_commit_at": "2025-06-07T20:42:49Z",
-    "forks": null,
-    "watchers": null,
-    "open_issues": null,
-    "archived": null,
-    "is_fork": null,
-    "is_template": null,
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
@@ -46,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3253,
-  "rank_in_category": 106,
+  "composite_score": 0.3827,
+  "rank_in_category": 193,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:31:28.737885Z",
-  "last_refreshed_at": "2026-06-05T16:28:07.320559Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T18:39:01.180963Z",
+  "consecutive_refresh_failures": 0
 }

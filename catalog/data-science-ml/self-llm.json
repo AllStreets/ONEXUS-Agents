@@ -1,0 +1,60 @@
+{
+  "slug": "self-llm",
+  "name": "self-llm",
+  "tagline": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
+  "category": "data-science-ml",
+  "tags": [
+    "chatglm",
+    "chatglm3",
+    "gemma-2b-it",
+    "glm-4",
+    "internlm2",
+    "llama3",
+    "llm",
+    "lora",
+    "minicpm",
+    "q-wen"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "datawhalechina",
+    "url": "https://github.com/datawhalechina"
+  },
+  "source": {
+    "primary": "github",
+    "github": "datawhalechina/self-llm",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 30795,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T03:37:42Z",
+    "first_commit_at": "2023-11-16T02:31:29Z",
+    "forks": 3011,
+    "watchers": 163,
+    "open_issues": 155,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6531,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:10:42.178458Z",
+  "last_refreshed_at": "2026-06-08T17:44:42.875493Z",
+  "consecutive_refresh_failures": 0
+}

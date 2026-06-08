@@ -1,14 +1,19 @@
 {
   "slug": "trpc-agent-go",
   "name": "trpc-agent-go",
-  "tagline": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+  "tagline": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
   "category": "web-dev",
   "tags": [
     "a2a",
+    "a2a-protocol",
+    "ag-ui",
     "agent",
+    "agent-framework",
     "ai",
-    "llm",
-    "mcp"
+    "ai-agents",
+    "evaluation",
+    "go",
+    "golang"
   ],
   "author": {
     "type": "org",
@@ -23,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 1249,
+    "stars": 1266,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-05T12:25:22Z",
+    "last_commit_at": "2026-06-08T08:11:44Z",
     "first_commit_at": "2025-05-14T13:51:35Z",
-    "forks": 147,
+    "forks": 153,
     "watchers": 17,
-    "open_issues": 52,
+    "open_issues": 62,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -41,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.5605,
-  "rank_in_category": 69,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6368,
+  "rank_in_category": 27,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:52:02.820153Z",
-  "last_refreshed_at": "2026-06-06T14:40:33.478838Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T17:06:29.740241Z",
+  "consecutive_refresh_failures": 0
 }

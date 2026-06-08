@@ -1,0 +1,55 @@
+{
+  "slug": "agentprecept",
+  "name": "AgentPrecept",
+  "tagline": "AgentPrecept — 不是让 Agent 更强，是给它一道必须过的门。  agentprecept init 一键接入，三层拦截体系上膛：MCP design_gate 在代码动工前强制设计文档就位，pre-commit hook 四道拦截（分支 / 粒度 / 设计 / 确认），CI gate 15 维 4-scope 自动化审计兜底——软硬三层，改一行代码也得过门。  改代码前，ripp",
+  "category": "coding",
+  "tags": [
+    "agent-development",
+    "ai-assisted",
+    "code-agent",
+    "developer-tools",
+    "project-management"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rg8diaoa",
+    "url": "https://github.com/rg8diaoa"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rg8diaoa/AgentPrecept",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T14:04:39Z",
+    "first_commit_at": "2026-06-06T14:57:23Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2302,
+  "rank_in_category": 576,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T16:51:01.541003Z",
+  "last_refreshed_at": "2026-06-08T16:51:01.541005Z",
+  "consecutive_refresh_failures": 0
+}

@@ -4,8 +4,8 @@
   "tagline": "Stop re-explaining yourself to AI. MARM offers persistent memory, cross-agent context sharing, write queues, swarm-ready presets, and compaction for clean recall. Includes a live web dashboard for man",
   "category": "multi-agent-orchestration",
   "tags": [
+    "agent-swarms",
     "claude",
-    "claude-code",
     "developer-tools",
     "docker-image",
     "embeddings",
@@ -13,7 +13,7 @@
     "gemini-cli",
     "knowledge-based-systems",
     "mcp",
-    "mcp-protocol"
+    "mcp-server"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 299,
+    "stars": 302,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-07T09:59:36Z",
+    "last_commit_at": "2026-06-08T10:47:16Z",
     "first_commit_at": "2026-03-20T10:02:52Z",
-    "forks": 54,
+    "forks": 56,
     "watchers": 8,
-    "open_issues": 3,
+    "open_issues": 8,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4315,
-  "rank_in_category": 116,
+  "composite_score": 0.4319,
+  "rank_in_category": 142,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:48:15.117111Z",
-  "last_refreshed_at": "2026-06-07T14:57:24.964357Z",
+  "last_refreshed_at": "2026-06-08T16:57:27.515040Z",
   "consecutive_refresh_failures": 0
 }

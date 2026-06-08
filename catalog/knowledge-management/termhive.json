@@ -1,0 +1,56 @@
+{
+  "slug": "termhive",
+  "name": "TermHive",
+  "tagline": "Human-driven multi-agent dashboard for Claude Code, Codex, Gemini & OpenCode. Web UI, project wiki, shared content,   and MCP-based agent messaging — see every agent, coordinate manually, intervene in",
+  "category": "knowledge-management",
+  "tags": [
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "gemini-cli",
+    "multi-agent",
+    "opencode"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "0x0funky",
+    "url": "https://github.com/0x0funky"
+  },
+  "source": {
+    "primary": "github",
+    "github": "0x0funky/TermHive",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 57,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-26T13:14:33Z",
+    "first_commit_at": "2026-04-09T10:12:51Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4569,
+  "rank_in_category": 154,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:40:14.783162Z",
+  "last_refreshed_at": "2026-06-08T18:40:14.783167Z",
+  "consecutive_refresh_failures": 0
+}

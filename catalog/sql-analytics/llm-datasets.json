@@ -1,0 +1,53 @@
+{
+  "slug": "llm-datasets",
+  "name": "llm-datasets",
+  "tagline": "Curated list of datasets and tools for post-training.",
+  "category": "sql-analytics",
+  "tags": [
+    "data",
+    "dataset",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mlabonne",
+    "url": "https://github.com/mlabonne"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mlabonne/llm-datasets",
+    "huggingface": null,
+    "homepage": "https://mlabonne.github.io/blog"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 4637,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T18:17:40Z",
+    "first_commit_at": "2024-04-27T18:13:37Z",
+    "forks": 385,
+    "watchers": 54,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4698,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:46.168567Z",
+  "last_refreshed_at": "2026-06-08T18:42:46.168571Z",
+  "consecutive_refresh_failures": 0
+}

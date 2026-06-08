@@ -1,0 +1,63 @@
+{
+  "slug": "private-knowledge-agent",
+  "name": "private-knowledge-agent",
+  "tagline": "基于 LangGraph + MCP + FastAPI(SSE) + Streamlit 的本地知识库问答助手",
+  "category": "knowledge-management",
+  "tags": [
+    "ai-agent",
+    "asyncio",
+    "chromadb",
+    "docker",
+    "fastapi",
+    "langgraph",
+    "llm",
+    "local-research",
+    "mcp",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Annyfee",
+    "url": "https://github.com/Annyfee"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Annyfee/private-knowledge-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-08T05:10:04Z",
+    "first_commit_at": "2026-01-06T07:28:47Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.432,
+  "rank_in_category": 170,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:39:25.062555Z",
+  "last_refreshed_at": "2026-06-08T18:39:25.062558Z",
+  "consecutive_refresh_failures": 0
+}

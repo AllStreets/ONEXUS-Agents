@@ -1,0 +1,55 @@
+{
+  "slug": "predict-rlm",
+  "name": "predict-rlm",
+  "tagline": "Production focused Self-harnessed LM runtime (RLM) that allows the LM to call its sub-lm with DSPy signatures. Define your inputs, outputs, and tools — the model handles its own control flow. Get full",
+  "category": "spreadsheet-excel",
+  "tags": [
+    "dspy",
+    "llm",
+    "rlm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Trampoline-AI",
+    "url": "https://github.com/Trampoline-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Trampoline-AI/predict-rlm",
+    "huggingface": null,
+    "homepage": "https://trampoline.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 363,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T16:11:52Z",
+    "first_commit_at": "2026-03-26T19:05:43Z",
+    "forks": 39,
+    "watchers": 2,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "dspy"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3905,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:41:30.572490Z",
+  "last_refreshed_at": "2026-06-08T18:41:30.572493Z",
+  "consecutive_refresh_failures": 0
+}

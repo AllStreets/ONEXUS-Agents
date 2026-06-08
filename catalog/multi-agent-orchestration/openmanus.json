@@ -1,0 +1,49 @@
+{
+  "slug": "openmanus",
+  "name": "OpenManus",
+  "tagline": "No fortress, purely open ground.  OpenManus is Coming.",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "FoundationAgents",
+    "url": "https://github.com/FoundationAgents"
+  },
+  "source": {
+    "primary": "github",
+    "github": "FoundationAgents/OpenManus",
+    "huggingface": null,
+    "homepage": "https://openmanus.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 56494,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-11T13:48:00Z",
+    "first_commit_at": "2025-03-06T14:57:07Z",
+    "forks": 9836,
+    "watchers": 416,
+    "open_issues": 539,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4165,
+  "rank_in_category": 173,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:12:19.260290Z",
+  "last_refreshed_at": "2026-06-08T17:49:55.023871Z",
+  "consecutive_refresh_failures": 0
+}

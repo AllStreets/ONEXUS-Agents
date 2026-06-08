@@ -1,0 +1,62 @@
+{
+  "slug": "open-multi-agent-kit",
+  "name": "open-multi-agent-kit",
+  "tagline": "Provider-neutral multi-agent control plane for coding agents. Route runtimes, scope MCP tools, run DAG workers, verify evidence, and replay agent runs from the omk CLI.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-control-plane",
+    "agent-orchestration",
+    "agent-runtime",
+    "agentic-coding",
+    "ai-agent",
+    "ai-agents",
+    "ai-coding",
+    "ai-devtools",
+    "cli",
+    "coding-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dmae97",
+    "url": "https://github.com/dmae97"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dmae97/open-multi-agent-kit",
+    "huggingface": null,
+    "homepage": "https://oh-my-kimi.sbs/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 83,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T08:01:13Z",
+    "first_commit_at": "2026-04-30T01:41:02Z",
+    "forks": 8,
+    "watchers": 1,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4018,
+  "rank_in_category": 199,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:21:05.578226Z",
+  "last_refreshed_at": "2026-06-08T18:21:05.578229Z",
+  "consecutive_refresh_failures": 0
+}

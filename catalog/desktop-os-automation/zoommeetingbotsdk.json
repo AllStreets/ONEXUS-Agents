@@ -1,0 +1,55 @@
+{
+  "slug": "zoommeetingbotsdk",
+  "name": "ZoomMeetingBotSDK",
+  "tagline": "C# SDK for writing in-meeting Zoom bots. Includes \"UsherBot\", a bot that automatically hosts meetings including starting/stopping them, admitting participants from the waiting room and chatting with t",
+  "category": "desktop-os-automation",
+  "tags": [
+    "chatbot",
+    "chatbots",
+    "windows",
+    "zoom",
+    "zoom-sdk"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "apresence",
+    "url": "https://github.com/apresence"
+  },
+  "source": {
+    "primary": "github",
+    "github": "apresence/ZoomMeetingBotSDK",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2023-02-07T12:00:17Z",
+    "first_commit_at": "2020-07-24T07:27:04Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.217,
+  "rank_in_category": 262,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:05.549088Z",
+  "last_refreshed_at": "2026-06-08T18:04:34.651382Z",
+  "consecutive_refresh_failures": 0
+}

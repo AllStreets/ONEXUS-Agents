@@ -24,10 +24,10 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 4288,
+    "stars": 4291,
     "downloads_30d": null,
     "last_commit_at": "2026-04-15T06:21:35Z",
-    "first_commit_at": "2023-07-13T01:59:58Z",
+    "first_commit_at": "2023-08-03T09:06:03Z",
     "forks": 505,
     "watchers": 47,
     "open_issues": 28,
@@ -45,12 +45,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.42,
-  "rank_in_category": 138,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4193,
+  "rank_in_category": 168,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:10:54.469191Z",
-  "last_refreshed_at": "2026-06-07T18:49:57.732689Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T17:45:03.194197Z",
+  "consecutive_refresh_failures": 0
 }

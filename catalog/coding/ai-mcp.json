@@ -1,0 +1,62 @@
+{
+  "slug": "ai-mcp",
+  "name": "ai-mcp",
+  "tagline": "基于 Go 的 MCP 服务端，支持 SSE、受控命令执行、SQL/查询工具、时间工具，集成 GoFrame/MySQL，适配 IDE/Agent 即用。",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "backend",
+    "base64",
+    "cli",
+    "database",
+    "devtools",
+    "go",
+    "goframe",
+    "golang",
+    "json"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "xgd16",
+    "url": "https://github.com/xgd16"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xgd16/ai-mcp",
+    "huggingface": null,
+    "homepage": "https://github.com/xgd16/ai-mcp"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-11T05:05:16Z",
+    "first_commit_at": "2025-09-12T09:17:47Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2179,
+  "rank_in_category": 609,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T16:56:22.112428Z",
+  "last_refreshed_at": "2026-06-08T16:56:22.112431Z",
+  "consecutive_refresh_failures": 0
+}

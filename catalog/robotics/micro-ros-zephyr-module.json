@@ -1,0 +1,52 @@
+{
+  "slug": "micro-ros-zephyr-module",
+  "name": "micro_ros_zephyr_module",
+  "tagline": "micro-ROS Zephyr module and sample code",
+  "category": "robotics",
+  "tags": [
+    "micro-ros",
+    "zephyr"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "micro-ROS",
+    "url": "https://github.com/micro-ROS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "micro-ROS/micro_ros_zephyr_module",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 86,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-15T11:41:49Z",
+    "first_commit_at": "2020-09-21T06:05:39Z",
+    "forks": 49,
+    "watchers": 6,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4537,
+  "rank_in_category": 78,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:53.738817Z",
+  "last_refreshed_at": "2026-06-08T18:38:53.738820Z",
+  "consecutive_refresh_failures": 0
+}

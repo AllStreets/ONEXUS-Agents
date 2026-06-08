@@ -1,0 +1,55 @@
+{
+  "slug": "meeting-bot",
+  "name": "meeting-bot",
+  "tagline": "Golang bot that records your meeting sessions (Google Meet, Zoom, Teams)",
+  "category": "audio-speech",
+  "tags": [
+    "audio-recording",
+    "golang",
+    "gstreamer",
+    "meeting",
+    "video-recording"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dunkbing",
+    "url": "https://github.com/dunkbing"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dunkbing/meeting-bot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 22,
+    "downloads_30d": null,
+    "last_commit_at": "2023-01-21T03:49:39Z",
+    "first_commit_at": "2022-09-18T17:07:56Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2924,
+  "rank_in_category": 163,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:04:18.795949Z",
+  "last_refreshed_at": "2026-06-08T18:04:18.795953Z",
+  "consecutive_refresh_failures": 0
+}

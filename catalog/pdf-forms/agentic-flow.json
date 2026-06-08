@@ -1,0 +1,59 @@
+{
+  "slug": "agentic-flow",
+  "name": "agentic-flow",
+  "tagline": "Easily switch between alternative low-cost AI models in Claude Code/Agent SDK. For those comfortable using Claude agents and commands, it lets you take what you've created and deploy fully hosted agen",
+  "category": "pdf-forms",
+  "tags": [
+    "agents",
+    "claude",
+    "claude-agent-sdk",
+    "claude-code",
+    "gemini",
+    "openrouter",
+    "swarm-intelligence"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ruvnet",
+    "url": "https://github.com/ruvnet"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ruvnet/agentic-flow",
+    "huggingface": null,
+    "homepage": "https://ruv.io/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 742,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-23T09:35:14Z",
+    "first_commit_at": "2024-09-02T21:15:00Z",
+    "forks": 171,
+    "watchers": 12,
+    "open_issues": 81,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6786,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:40:52.647529Z",
+  "last_refreshed_at": "2026-06-08T18:40:52.647532Z",
+  "consecutive_refresh_failures": 0
+}

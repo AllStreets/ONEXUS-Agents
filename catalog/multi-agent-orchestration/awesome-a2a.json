@@ -1,0 +1,60 @@
+{
+  "slug": "awesome-a2a",
+  "name": "awesome-a2a",
+  "tagline": "Agent2Agent (A2A) – awesome A2A agents, tools, servers & clients, all in one place.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a",
+    "a2a-cli",
+    "a2a-mcp",
+    "a2a-protocol",
+    "a2a-server",
+    "agent",
+    "agent2agent",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ai-boost",
+    "url": "https://github.com/ai-boost"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ai-boost/awesome-a2a",
+    "huggingface": null,
+    "homepage": "http://agent2agent.ren/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 614,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T07:02:10Z",
+    "first_commit_at": "2025-04-10T07:33:13Z",
+    "forks": 130,
+    "watchers": 13,
+    "open_issues": 87,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4763,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:57.367476Z",
+  "last_refreshed_at": "2026-06-08T18:03:46.131820Z",
+  "consecutive_refresh_failures": 0
+}

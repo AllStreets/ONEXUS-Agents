@@ -1,7 +1,7 @@
 {
   "slug": "hananakamura-vtuber-oss",
   "name": "HanaNakamura-VTuber-OSS",
-  "tagline": "Open-source AI VTuber desktop agent for Windows — voice, memory, RAG, browser context, project memory, tools, Tauri/React UI, FastAPI backend and VTube Studio integration.",
+  "tagline": "Open-source AI VTuber desktop agent for Windows — voice, memory, project memory, tools, Tauri/React UI, FastAPI backend ",
   "category": "desktop-os-automation",
   "tags": [
     "ai",
@@ -26,14 +26,14 @@
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "AGPL-3.0",
   "metrics": {
-    "stars": 11,
+    "stars": 12,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-08T03:07:20Z",
-    "first_commit_at": "2026-03-24T11:55:53Z",
-    "forks": 3,
-    "watchers": 2,
+    "last_commit_at": "2026-06-08T06:40:09Z",
+    "first_commit_at": "2026-06-08T06:40:06Z",
+    "forks": 4,
+    "watchers": 3,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1994,
-  "rank_in_category": 255,
+  "composite_score": 0.2192,
+  "rank_in_category": 261,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:12:50.034403Z",
-  "last_refreshed_at": "2026-06-07T10:23:07.636249Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T17:52:25.323712Z",
+  "consecutive_refresh_failures": 0
 }

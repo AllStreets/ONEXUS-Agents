@@ -1,0 +1,60 @@
+{
+  "slug": "agentica",
+  "name": "agentica",
+  "tagline": "Agentica: Lightweight async-first Python framework for AI agents. 轻量级异步优先的AI Agent框架，支持工具调用、RAG、多智能体和MCP。",
+  "category": "cooking",
+  "tags": [
+    "actionflow",
+    "agent",
+    "agentica",
+    "agents",
+    "langchain",
+    "llm",
+    "multi-agent",
+    "workflows"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shibing624",
+    "url": "https://github.com/shibing624"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shibing624/agentica",
+    "huggingface": null,
+    "homepage": "https://shibing624.github.io/agentica/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 311,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T13:30:47Z",
+    "first_commit_at": "2024-06-03T12:07:51Z",
+    "forks": 45,
+    "watchers": 9,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6362,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:02.770002Z",
+  "last_refreshed_at": "2026-06-08T18:38:02.770005Z",
+  "consecutive_refresh_failures": 0
+}

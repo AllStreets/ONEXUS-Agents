@@ -1,0 +1,49 @@
+{
+  "slug": "agent-analytics-hermes-plugin",
+  "name": "agent-analytics-hermes-plugin",
+  "tagline": "Hermes dashboard plugin for Agent Analytics — account connection, project selection, and read-only analytics inside Hermes.",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "Agent-Analytics",
+    "url": "https://github.com/Agent-Analytics"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Agent-Analytics/agent-analytics-hermes-plugin",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 22,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-23T18:07:28Z",
+    "first_commit_at": "2026-04-20T21:40:58Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2987,
+  "rank_in_category": 99,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:03.395753Z",
+  "last_refreshed_at": "2026-06-08T18:43:03.395756Z",
+  "consecutive_refresh_failures": 0
+}

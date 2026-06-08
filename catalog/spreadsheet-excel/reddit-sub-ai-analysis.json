@@ -1,0 +1,55 @@
+{
+  "slug": "reddit-sub-ai-analysis",
+  "name": "reddit-sub-ai-analysis",
+  "tagline": "Mastra AI Agent - workflows to fetch and process subreddits. ",
+  "category": "spreadsheet-excel",
+  "tags": [
+    "agents",
+    "ai",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zessu",
+    "url": "https://github.com/zessu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zessu/reddit-sub-ai-analysis",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-01T08:53:29Z",
+    "first_commit_at": "2025-03-31T19:03:18Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2286,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:41:21.080256Z",
+  "last_refreshed_at": "2026-06-08T18:41:21.080259Z",
+  "consecutive_refresh_failures": 0
+}

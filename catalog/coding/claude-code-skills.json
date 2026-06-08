@@ -1,0 +1,63 @@
+{
+  "slug": "claude-code-skills",
+  "name": "claude-code-skills",
+  "tagline": "Plugin suite + bundled MCP servers for Claude Code. Full delivery lifecycle: Agile pipeline with multi-model AI review, project bootstrap, documentation generation, codebase audits, performance optimi",
+  "category": "coding",
+  "tags": [
+    "agile-workflows",
+    "ai-agents",
+    "anthropic",
+    "claude-ai",
+    "claude-code",
+    "claude-code-skills",
+    "code-analysis",
+    "code-review",
+    "codebase-audit",
+    "developer-productivity"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "levnikolaevich",
+    "url": "https://github.com/levnikolaevich"
+  },
+  "source": {
+    "primary": "github",
+    "github": "levnikolaevich/claude-code-skills",
+    "huggingface": null,
+    "homepage": "https://levnikolaevich.github.io/claude-code-skills/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 487,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-29T10:01:53Z",
+    "first_commit_at": "2025-11-20T16:27:19Z",
+    "forks": 70,
+    "watchers": 7,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3867,
+  "rank_in_category": 178,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:55.198996Z",
+  "last_refreshed_at": "2026-06-08T18:03:36.682802Z",
+  "consecutive_refresh_failures": 0
+}

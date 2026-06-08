@@ -1,0 +1,55 @@
+{
+  "slug": "robosuite",
+  "name": "robosuite",
+  "tagline": "robosuite: A Modular Simulation Framework and Benchmark for Robot Learning",
+  "category": "robotics",
+  "tags": [
+    "physics-simulation",
+    "reinforcement-learning",
+    "robot-learning",
+    "robot-manipulation",
+    "robotics"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ARISE-Initiative",
+    "url": "https://github.com/ARISE-Initiative"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ARISE-Initiative/robosuite",
+    "huggingface": null,
+    "homepage": "https://robosuite.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2454,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-28T02:53:27Z",
+    "first_commit_at": "2018-10-25T07:11:07Z",
+    "forks": 719,
+    "watchers": 27,
+    "open_issues": 105,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6975,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:29.318696Z",
+  "last_refreshed_at": "2026-06-08T18:38:29.318699Z",
+  "consecutive_refresh_failures": 0
+}

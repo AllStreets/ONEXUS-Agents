@@ -1,0 +1,53 @@
+{
+  "slug": "go-cookbook",
+  "name": "go-cookbook",
+  "tagline": "Cookbook that installs and configures the open-source ThoughtWorks Studios GoCD product",
+  "category": "real-estate",
+  "tags": [
+    "cookbooks",
+    "gocd-agent",
+    "gocd-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "gocd",
+    "url": "https://github.com/gocd"
+  },
+  "source": {
+    "primary": "github",
+    "github": "gocd/go-cookbook",
+    "huggingface": null,
+    "homepage": "http://www.gocd.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 44,
+    "downloads_30d": null,
+    "last_commit_at": "2019-12-18T21:56:01Z",
+    "first_commit_at": "2013-04-02T14:58:06Z",
+    "forks": 64,
+    "watchers": 5,
+    "open_issues": 14,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.141,
+  "rank_in_category": 74,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:37:32.270034Z",
+  "last_refreshed_at": "2026-06-08T18:37:32.270037Z",
+  "consecutive_refresh_failures": 0
+}

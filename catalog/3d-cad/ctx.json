@@ -1,0 +1,63 @@
+{
+  "slug": "ctx",
+  "name": "ctx",
+  "tagline": "Skill, agent, MCP, and harness recommendations for Claude Code/custom LLMs: 102,928-node LLM-wiki graph, 91,464 skills, 467 agents, 10,790 MCPs, 207 harnesses, and capped execution recommendations.",
+  "category": "3d-cad",
+  "tags": [
+    "agents",
+    "ai-agents",
+    "anthropic",
+    "automation",
+    "claude",
+    "claude-code",
+    "context-management",
+    "developer-tools",
+    "harness",
+    "knowledge-graph"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "stevesolun",
+    "url": "https://github.com/stevesolun"
+  },
+  "source": {
+    "primary": "github",
+    "github": "stevesolun/ctx",
+    "huggingface": null,
+    "homepage": "https://stevesolun.github.io/ctx/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 479,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T18:42:23Z",
+    "first_commit_at": "2026-04-08T22:39:54Z",
+    "forks": 58,
+    "watchers": 4,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.7264,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:45.697983Z",
+  "last_refreshed_at": "2026-06-08T18:43:45.697987Z",
+  "consecutive_refresh_failures": 0
+}

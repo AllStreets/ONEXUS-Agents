@@ -1,7 +1,7 @@
 {
   "slug": "three-ws",
   "name": "three.ws",
-  "tagline": "Open-source 3D AI agent framework \u2014 GLB/glTF avatars with LLM brains, memory, emotions, and autonomous payments. MCP server \u00b7 x402 \u00b7 Solana/EVM \u00b7 Three.js. Embed anywhere as a web component. Character",
+  "tagline": "Open-source 3D AI agent framework — GLB/glTF avatars with LLM brains, memory, emotions, and autonomous payments. MCP server · x402 · Solana/EVM · Three.js. Embed anywhere as a web component. Character",
   "category": "web-dev",
   "tags": [
     "3d",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 54,
+    "stars": 56,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-07T06:41:32Z",
+    "last_commit_at": "2026-06-08T17:47:49Z",
     "first_commit_at": "2026-04-14T18:43:11Z",
     "forks": 12,
-    "watchers": 3,
-    "open_issues": 2,
+    "watchers": 4,
+    "open_issues": 4,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.466,
-  "rank_in_category": 142,
+  "composite_score": 0.5173,
+  "rank_in_category": 106,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:13:20.633594Z",
-  "last_refreshed_at": "2026-06-07T10:25:25.595492Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T17:55:20.925960Z",
+  "consecutive_refresh_failures": 0
 }

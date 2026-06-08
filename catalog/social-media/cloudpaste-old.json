@@ -1,0 +1,57 @@
+{
+  "slug": "cloudpaste-old",
+  "name": "CloudPaste-old",
+  "tagline": "An online clipboard and file sharing service based on Cloudflare Workers, supporting Markdown, burn-after-reading, text/file sharing, password protection, and more.",
+  "category": "social-media",
+  "tags": [
+    "cloudflare",
+    "cloudflare-workers",
+    "cloudpaste",
+    "kv-storage",
+    "markdown",
+    "r2-storage",
+    "workers"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ling-drag0n",
+    "url": "https://github.com/ling-drag0n"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ling-drag0n/CloudPaste-old",
+    "huggingface": null,
+    "homepage": "https://copy.vw50.ggff.net/share/paste/example"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 533,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-22T16:08:57Z",
+    "first_commit_at": "2024-11-22T20:44:35Z",
+    "forks": 262,
+    "watchers": 3,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4772,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:35:26.156188Z",
+  "last_refreshed_at": "2026-06-08T18:35:26.156191Z",
+  "consecutive_refresh_failures": 0
+}

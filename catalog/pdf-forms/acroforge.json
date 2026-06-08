@@ -1,0 +1,60 @@
+{
+  "slug": "acroforge",
+  "name": "acroforge",
+  "tagline": "Turn flat PDFs into real, fillable AcroForms - permissive (Apache-2.0), deterministic, zero-copyleft.",
+  "category": "pdf-forms",
+  "tags": [
+    "acroform",
+    "document-automation",
+    "fillable-pdf",
+    "forms",
+    "pdf",
+    "pdf-forms",
+    "pdf-generation",
+    "pypdf",
+    "python",
+    "reportlab"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "san64777",
+    "url": "https://github.com/san64777"
+  },
+  "source": {
+    "primary": "github",
+    "github": "san64777/acroforge",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/acroforge/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T18:35:11Z",
+    "first_commit_at": "2026-06-07T20:44:39Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4354,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:40:38.787560Z",
+  "last_refreshed_at": "2026-06-08T18:40:38.787563Z",
+  "consecutive_refresh_failures": 0
+}

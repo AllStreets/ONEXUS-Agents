@@ -1,0 +1,49 @@
+{
+  "slug": "powershell-dsc-for-linux",
+  "name": "PowerShell-DSC-for-Linux",
+  "tagline": "PowerShell Desired State Configuration - for Linux",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/PowerShell-DSC-for-Linux",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 339,
+    "downloads_30d": null,
+    "last_commit_at": "2024-04-18T09:58:46Z",
+    "first_commit_at": "2014-05-19T02:18:59Z",
+    "forks": 131,
+    "watchers": 27,
+    "open_issues": 129,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1145,
+  "rank_in_category": 231,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:13.945098Z",
+  "last_refreshed_at": "2026-06-08T18:43:13.945100Z",
+  "consecutive_refresh_failures": 0
+}

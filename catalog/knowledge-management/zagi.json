@@ -1,0 +1,60 @@
+{
+  "slug": "zagi",
+  "name": "zagi",
+  "tagline": "better git cli for agents",
+  "category": "knowledge-management",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "bugbot",
+    "claude",
+    "claude-code",
+    "cli",
+    "cursor",
+    "git",
+    "github"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mattzcarey",
+    "url": "https://github.com/mattzcarey"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mattzcarey/zagi",
+    "huggingface": null,
+    "homepage": "https://zagi.sh/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 286,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-07T23:13:40Z",
+    "first_commit_at": "2025-11-27T21:53:22Z",
+    "forks": 13,
+    "watchers": 3,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4761,
+  "rank_in_category": 136,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:39:40.251422Z",
+  "last_refreshed_at": "2026-06-08T18:39:40.251425Z",
+  "consecutive_refresh_failures": 0
+}

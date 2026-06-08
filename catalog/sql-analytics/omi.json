@@ -1,0 +1,49 @@
+{
+  "slug": "omi",
+  "name": "omi",
+  "tagline": "Open Management Infrastructure",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/omi",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 385,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-28T04:10:09Z",
+    "first_commit_at": "2015-11-22T21:39:24Z",
+    "forks": 118,
+    "watchers": 51,
+    "open_issues": 31,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3566,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:12.716722Z",
+  "last_refreshed_at": "2026-06-08T18:43:12.716725Z",
+  "consecutive_refresh_failures": 0
+}

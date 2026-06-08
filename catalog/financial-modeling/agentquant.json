@@ -5,15 +5,15 @@
   "category": "financial-modeling",
   "tags": [
     "agentic-ai",
-    "ai-for-trading",
-    "ai-trading",
-    "ai-trading-agent",
-    "algorithmic-trading",
     "autonomous-agent",
     "finance-ai",
     "fintech",
     "langchain",
-    "langgraph"
+    "langgraph",
+    "portfolio-optimization",
+    "quant-agent",
+    "quantitative-finance",
+    "quantitative-research"
   ],
   "author": {
     "type": "user",
@@ -28,7 +28,7 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 113,
+    "stars": 114,
     "downloads_30d": null,
     "last_commit_at": "2026-05-30T14:23:49Z",
     "first_commit_at": "2025-08-12T14:52:44Z",
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4916,
-  "rank_in_category": 45,
+  "composite_score": 0.4901,
+  "rank_in_category": 47,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:24:31.472291Z",
-  "last_refreshed_at": "2026-06-07T15:08:21.324433Z",
+  "last_refreshed_at": "2026-06-08T17:13:43.106638Z",
   "consecutive_refresh_failures": 0
 }

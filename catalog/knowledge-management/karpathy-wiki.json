@@ -1,0 +1,49 @@
+{
+  "slug": "karpathy-wiki",
+  "name": "karpathy-wiki",
+  "tagline": "基于 [Andrej Karpathy]提出的 [LLM Wiki 模式]构建的 Agent Skill，通过四阶段流水线将碎片化信息转化为结构化、可检索、持续增长的个人知识库。",
+  "category": "knowledge-management",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "SherwinQ",
+    "url": "https://github.com/SherwinQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SherwinQ/karpathy-wiki",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 75,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T14:07:30Z",
+    "first_commit_at": "2026-04-05T13:50:01Z",
+    "forks": 13,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4423,
+  "rank_in_category": 160,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:40:12.564111Z",
+  "last_refreshed_at": "2026-06-08T18:40:12.564114Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "biodynamo",
+  "name": "biodynamo",
+  "tagline": "BioDynaMo is a high-performance and modular, agent-based simulation platform.",
+  "category": "3d-cad",
+  "tags": [
+    "agent-based",
+    "agent-based-framework",
+    "agent-based-modelling",
+    "biology",
+    "cancer",
+    "epidemiology",
+    "high-performance",
+    "large-scale",
+    "modular-design",
+    "neuroscience"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "BioDynaMo",
+    "url": "https://github.com/BioDynaMo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BioDynaMo/biodynamo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 133,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T19:36:31Z",
+    "first_commit_at": "2016-02-11T14:58:48Z",
+    "forks": 69,
+    "watchers": 10,
+    "open_issues": 48,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.67,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:38.777015Z",
+  "last_refreshed_at": "2026-06-08T18:43:38.777018Z",
+  "consecutive_refresh_failures": 0
+}

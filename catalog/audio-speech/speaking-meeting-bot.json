@@ -1,0 +1,53 @@
+{
+  "slug": "speaking-meeting-bot",
+  "name": "speaking-meeting-bot",
+  "tagline": "Fully autonomous speaking bots built using the MeetingBaas API and Pipecat.",
+  "category": "audio-speech",
+  "tags": [
+    "ai",
+    "bots",
+    "pipecat"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Meeting-BaaS",
+    "url": "https://github.com/Meeting-BaaS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Meeting-BaaS/speaking-meeting-bot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 49,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-04T09:45:19Z",
+    "first_commit_at": "2024-11-11T09:45:09Z",
+    "forks": 26,
+    "watchers": 3,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4866,
+  "rank_in_category": 79,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:02.016735Z",
+  "last_refreshed_at": "2026-06-08T18:04:12.937372Z",
+  "consecutive_refresh_failures": 0
+}

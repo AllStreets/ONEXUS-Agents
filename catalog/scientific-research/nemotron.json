@@ -1,0 +1,56 @@
+{
+  "slug": "nemotron",
+  "name": "Nemotron",
+  "tagline": "Developer Asset Hub for NVIDIA Nemotron — A one-stop resource for training recipes, usage cookbooks, datasets, and full end-to-end reference examples to build with Nemotron models",
+  "category": "scientific-research",
+  "tags": [
+    "ai",
+    "fine-tuning",
+    "model-training",
+    "nemotron",
+    "nvidia",
+    "reinforcement-learning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NVIDIA-NeMo",
+    "url": "https://github.com/NVIDIA-NeMo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVIDIA-NeMo/Nemotron",
+    "huggingface": null,
+    "homepage": "https://docs.nvidia.com/nemotron/latest/index.html"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1307,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T21:53:56Z",
+    "first_commit_at": "2025-10-03T15:58:06Z",
+    "forks": 277,
+    "watchers": 17,
+    "open_issues": 57,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.629,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:11:25.022361Z",
+  "last_refreshed_at": "2026-06-08T17:46:38.111877Z",
+  "consecutive_refresh_failures": 0
+}

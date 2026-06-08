@@ -1,0 +1,55 @@
+{
+  "slug": "deepteam",
+  "name": "deepteam",
+  "tagline": "DeepTeam is a framework to red team LLMs and AI agents.",
+  "category": "robotics",
+  "tags": [
+    "llm-guardrails",
+    "llm-red-teaming",
+    "llm-safety",
+    "llm-seecurity",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "confident-ai",
+    "url": "https://github.com/confident-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "confident-ai/deepteam",
+    "huggingface": null,
+    "homepage": "https://trydeepteam.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1866,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T10:19:13Z",
+    "first_commit_at": "2025-03-05T06:34:21Z",
+    "forks": 293,
+    "watchers": 11,
+    "open_issues": 40,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6741,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:32.594405Z",
+  "last_refreshed_at": "2026-06-08T18:38:32.594409Z",
+  "consecutive_refresh_failures": 0
+}

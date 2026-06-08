@@ -1,0 +1,49 @@
+{
+  "slug": "bird-critic-1",
+  "name": "BIRD-CRITIC-1",
+  "tagline": "[NeurIPS 2025 Main] SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "bird-bench",
+    "url": "https://github.com/bird-bench"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bird-bench/BIRD-CRITIC-1",
+    "huggingface": null,
+    "homepage": "https://bird-critic.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1095,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-23T23:05:33Z",
+    "first_commit_at": "2025-01-28T10:52:45Z",
+    "forks": 34,
+    "watchers": 14,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3879,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:51.796850Z",
+  "last_refreshed_at": "2026-06-08T18:42:51.796853Z",
+  "consecutive_refresh_failures": 0
+}

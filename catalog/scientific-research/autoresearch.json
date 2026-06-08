@@ -1,0 +1,49 @@
+{
+  "slug": "autoresearch",
+  "name": "autoresearch",
+  "tagline": "AI agents running research on single-GPU nanochat training automatically",
+  "category": "scientific-research",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "karpathy",
+    "url": "https://github.com/karpathy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "karpathy/autoresearch",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 85624,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-26T00:07:37Z",
+    "first_commit_at": "2026-03-06T21:58:52Z",
+    "forks": 12405,
+    "watchers": 665,
+    "open_issues": 184,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6634,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:46:51.203319Z",
+  "last_refreshed_at": "2026-06-08T16:53:20.783765Z",
+  "consecutive_refresh_failures": 0
+}

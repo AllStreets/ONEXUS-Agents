@@ -1,0 +1,59 @@
+{
+  "slug": "obsidian-plugin-skill",
+  "name": "obsidian-plugin-skill",
+  "tagline": "Agent SKILL for Obsidian.md plugin development",
+  "category": "knowledge-management",
+  "tags": [
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "codex-skills",
+    "obsidian",
+    "obsidian-md",
+    "obsidian-plugin",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "gapmiss",
+    "url": "https://github.com/gapmiss"
+  },
+  "source": {
+    "primary": "github",
+    "github": "gapmiss/obsidian-plugin-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 150,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T20:35:28Z",
+    "first_commit_at": "2025-10-22T22:55:17Z",
+    "forks": 12,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5163,
+  "rank_in_category": 107,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:39:49.087830Z",
+  "last_refreshed_at": "2026-06-08T18:39:49.087833Z",
+  "consecutive_refresh_failures": 0
+}

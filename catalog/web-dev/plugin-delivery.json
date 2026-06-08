@@ -1,0 +1,62 @@
+{
+  "slug": "plugin-delivery",
+  "name": "plugin.delivery",
+  "tagline": "AI plugin marketplace. SDK, gateway & developer tools for building function-calling plugins. OpenAPI compatible, multi-language support, Vercel edge deployment. Build chat plugins, AI tools & extensio",
+  "category": "web-dev",
+  "tags": [
+    "ai-assistant",
+    "ai-plugins",
+    "ai-tools",
+    "bun",
+    "chat-plugins",
+    "developer-tools",
+    "edge-functions",
+    "function-calling",
+    "llm-tools",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nirholas",
+    "url": "https://github.com/nirholas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nirholas/plugin.delivery",
+    "huggingface": null,
+    "homepage": "https://plugin.delivery/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T05:06:31Z",
+    "first_commit_at": "2026-01-02T15:00:56Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4261,
+  "rank_in_category": 185,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:23.495806Z",
+  "last_refreshed_at": "2026-06-08T17:12:19.142552Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "medical-healthcare-agents",
+  "name": "medical-healthcare-agents",
+  "tagline": "Drop-in OpenClaw/NemoClaw agent configuration for the ibl.ai Medical & Healthcare segment — Care Assistant orchestrator plus 12 specialist subagents.",
+  "category": "healthcare",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "clinical",
+    "conversational-ai",
+    "healthcare",
+    "healthtech",
+    "ibl-ai",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "iblai",
+    "url": "https://github.com/iblai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iblai/medical-healthcare-agents",
+    "huggingface": null,
+    "homepage": "https://ibl.ai/solutions/medical-healthcare"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T14:20:57Z",
+    "first_commit_at": "2026-06-08T14:18:25Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3707,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:26:13.336976Z",
+  "last_refreshed_at": "2026-06-08T18:26:13.336980Z",
+  "consecutive_refresh_failures": 0
+}

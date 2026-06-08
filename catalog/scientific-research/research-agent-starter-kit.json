@@ -1,19 +1,19 @@
 {
   "slug": "research-agent-starter-kit",
   "name": "research-agent-starter-kit",
-  "tagline": "A privacy-first starter kit for research agents: source-first workflows, material passports, authorial voice integrity, self-review loops, delivery guards, knowledge-base setup, and external review fa",
+  "tagline": "A privacy-first research-agent starter kit with source-first workflows, authorial voice gates, style fingerprint scans, skill receipts, self-review loops, KB setup, and GitHub-safe sharing.",
   "category": "scientific-research",
   "tags": [
     "academic-research",
     "academic-writing",
-    "ai-writing-integrity",
     "authorial-voice",
     "codex",
     "delivery-guard",
     "external-review",
     "knowledge-base",
     "literature-review",
-    "material-passport"
+    "material-passport",
+    "privacy-first"
   ],
   "author": {
     "type": "user",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 7,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-02T21:50:38Z",
+    "last_commit_at": "2026-06-07T15:01:46Z",
     "first_commit_at": "2026-05-28T18:39:39Z",
     "forks": 0,
     "watchers": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3009,
-  "rank_in_category": 275,
+  "composite_score": 0.3043,
+  "rank_in_category": 287,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-01T19:01:04.883588Z",
-  "last_refreshed_at": "2026-06-07T10:36:13.286053Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T18:13:51.190729Z",
+  "consecutive_refresh_failures": 0
 }

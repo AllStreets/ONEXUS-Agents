@@ -1,0 +1,58 @@
+{
+  "slug": "motoros2",
+  "name": "motoros2",
+  "tagline": "ROS 2 (rcl, rclc & micro-ROS) node for MotoPlus-compatible Yaskawa Motoman robot controllers",
+  "category": "robotics",
+  "tags": [
+    "dx200",
+    "motoman",
+    "motoplus",
+    "motoros2",
+    "ros2",
+    "yaskawa",
+    "yrc1000",
+    "yrc1000u"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Yaskawa-Global",
+    "url": "https://github.com/Yaskawa-Global"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Yaskawa-Global/motoros2",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 157,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-27T18:55:43Z",
+    "first_commit_at": "2023-05-25T09:18:11Z",
+    "forks": 33,
+    "watchers": 9,
+    "open_issues": 75,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5911,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:50.908822Z",
+  "last_refreshed_at": "2026-06-08T18:38:50.908825Z",
+  "consecutive_refresh_failures": 0
+}

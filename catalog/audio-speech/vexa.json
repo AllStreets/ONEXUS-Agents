@@ -1,0 +1,58 @@
+{
+  "slug": "vexa",
+  "name": "vexa",
+  "tagline": "Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.",
+  "category": "audio-speech",
+  "tags": [
+    "google-meet",
+    "meeting-assistant",
+    "meeting-minutes",
+    "meeting-notes",
+    "ms-teams",
+    "ms-teams-app",
+    "notetaker",
+    "zoom"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Vexa-ai",
+    "url": "https://github.com/Vexa-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Vexa-ai/vexa",
+    "huggingface": null,
+    "homepage": "https://vexa.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2153,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T22:22:24Z",
+    "first_commit_at": "2025-04-09T18:31:22Z",
+    "forks": 307,
+    "watchers": 15,
+    "open_issues": 163,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6459,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:07.099538Z",
+  "last_refreshed_at": "2026-06-08T18:04:40.143293Z",
+  "consecutive_refresh_failures": 0
+}

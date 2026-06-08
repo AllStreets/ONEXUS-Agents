@@ -1,0 +1,60 @@
+{
+  "slug": "konash",
+  "name": "konash",
+  "tagline": "KONASH: Train knowledge agents that search, retrieve, and reason. Based on KARL (Databricks, 2026).",
+  "category": "knowledge-management",
+  "tags": [
+    "faiss",
+    "fine-tuning",
+    "knowledge-agents",
+    "konash",
+    "llm",
+    "lora",
+    "oapl",
+    "reinforcement-learning",
+    "retrieval-augmented-generation",
+    "rl"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "konaequity",
+    "url": "https://github.com/konaequity"
+  },
+  "source": {
+    "primary": "github",
+    "github": "konaequity/konash",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/konash/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 17,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-23T03:37:45Z",
+    "first_commit_at": "2026-03-06T20:15:22Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3559,
+  "rank_in_category": 204,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:39:22.801580Z",
+  "last_refreshed_at": "2026-06-08T18:39:22.801583Z",
+  "consecutive_refresh_failures": 0
+}
