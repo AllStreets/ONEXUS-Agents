@@ -1,0 +1,53 @@
+{
+  "slug": "px4-offboard",
+  "name": "px4-offboard",
+  "tagline": "Example of PX4 offboard control over microdds using python ROS 2",
+  "category": "robotics",
+  "tags": [
+    "px4",
+    "ros",
+    "ros2"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Jaeyoung-Lim",
+    "url": "https://github.com/Jaeyoung-Lim"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Jaeyoung-Lim/px4-offboard",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 278,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-13T19:02:24Z",
+    "first_commit_at": "2022-10-03T18:21:19Z",
+    "forks": 88,
+    "watchers": 9,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5965,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:48.756418Z",
+  "last_refreshed_at": "2026-06-08T18:38:48.756421Z",
+  "consecutive_refresh_failures": 0
+}

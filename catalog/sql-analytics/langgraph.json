@@ -28,12 +28,12 @@
     "downloads_30d": null,
     "last_commit_at": "2026-05-08T00:58:21Z",
     "first_commit_at": "2024-10-21T21:00:26Z",
-    "forks": null,
-    "watchers": null,
-    "open_issues": null,
-    "archived": null,
-    "is_fork": null,
-    "is_template": null,
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
@@ -42,15 +42,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "langchain"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "adapters/langgraph/mcp.json",
-  "composite_score": 0.3287,
-  "rank_in_category": 22,
+  "composite_score": 0.3429,
+  "rank_in_category": 66,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:32:24.533015Z",
-  "last_refreshed_at": "2026-06-05T16:29:07.673745Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T18:41:54.247663Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,49 @@
+{
+  "slug": "excelagenttemplate",
+  "name": "ExcelAgentTemplate",
+  "tagline": "Sample Excel add-in and Python script code to run an agent using LLM from an Excel function",
+  "category": "spreadsheet-excel",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "inoueakimitsu",
+    "url": "https://github.com/inoueakimitsu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "inoueakimitsu/ExcelAgentTemplate",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2024-07-16T08:21:45Z",
+    "first_commit_at": "2024-04-25T21:44:17Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2107,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:41:21.889115Z",
+  "last_refreshed_at": "2026-06-08T18:41:21.889119Z",
+  "consecutive_refresh_failures": 0
+}

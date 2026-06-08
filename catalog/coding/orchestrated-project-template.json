@@ -1,0 +1,49 @@
+{
+  "slug": "orchestrated-project-template",
+  "name": "orchestrated-project-template",
+  "tagline": "A Claude Code project template with pre-configured specialist agents, living documentation, Conventional Commits conventions, and placeholder-based structure — copy, fill, ship.",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "josipjelic",
+    "url": "https://github.com/josipjelic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "josipjelic/orchestrated-project-template",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 93,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-24T18:22:23Z",
+    "first_commit_at": "2026-03-25T10:17:16Z",
+    "forks": 48,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2209,
+  "rank_in_category": 602,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:03:06.761219Z",
+  "last_refreshed_at": "2026-06-08T17:30:51.175272Z",
+  "consecutive_refresh_failures": 0
+}

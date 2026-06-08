@@ -1,0 +1,54 @@
+{
+  "slug": "gesturebot",
+  "name": "gesturebot",
+  "tagline": "The official code for our paper \"A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents\", published as a demonstration at AAMAS 2021.",
+  "category": "3d-cad",
+  "tags": [
+    "deep-learning",
+    "human-computer-interaction",
+    "unity",
+    "virtual-agents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nagyrajmund",
+    "url": "https://github.com/nagyrajmund"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nagyrajmund/gesturebot",
+    "huggingface": null,
+    "homepage": "http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1779.pdf"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 36,
+    "downloads_30d": null,
+    "last_commit_at": "2021-05-04T13:20:01Z",
+    "first_commit_at": "2021-01-19T16:11:55Z",
+    "forks": 14,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3816,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:39.684252Z",
+  "last_refreshed_at": "2026-06-08T18:43:39.684255Z",
+  "consecutive_refresh_failures": 0
+}

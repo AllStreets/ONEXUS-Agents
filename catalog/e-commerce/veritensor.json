@@ -1,0 +1,60 @@
+{
+  "slug": "veritensor",
+  "name": "Veritensor",
+  "tagline": "The Anti-Virus for AI Artifacts & RAG Firewall. A static analysis tool scanning Models and Notebooks for RCE, Datasets and RAG docs for Data Poisoning, PII, and Prompt Injections. Secure your AI Suppl",
+  "category": "e-commerce",
+  "tags": [
+    "ai-security",
+    "ci-cd",
+    "cosign",
+    "data-security",
+    "devsecops",
+    "generative-ai",
+    "huggingface",
+    "jupyter-notebook",
+    "llm-security",
+    "machine-learning-security"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "arsbr",
+    "url": "https://github.com/arsbr"
+  },
+  "source": {
+    "primary": "github",
+    "github": "arsbr/Veritensor",
+    "huggingface": null,
+    "homepage": "https://www.veritensor.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 80,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T17:58:42Z",
+    "first_commit_at": "2025-12-28T21:53:04Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4882,
+  "rank_in_category": 67,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:36:58.953285Z",
+  "last_refreshed_at": "2026-06-08T18:36:58.953288Z",
+  "consecutive_refresh_failures": 0
+}

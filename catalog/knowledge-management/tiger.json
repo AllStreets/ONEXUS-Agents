@@ -1,0 +1,60 @@
+{
+  "slug": "tiger",
+  "name": "Tiger",
+  "tagline": "Neuralink for your AI Agents - LangChain - Autogen - CrewAI",
+  "category": "knowledge-management",
+  "tags": [
+    "agent",
+    "ai",
+    "function-calling",
+    "llm",
+    "neuralink",
+    "tools"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Upsonic",
+    "url": "https://github.com/Upsonic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Upsonic/Tiger",
+    "huggingface": null,
+    "homepage": "https://docs.upsonic.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 471,
+    "downloads_30d": null,
+    "last_commit_at": "2025-02-19T09:40:49Z",
+    "first_commit_at": "2024-04-05T18:49:43Z",
+    "forks": 42,
+    "watchers": 8,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "autogen",
+      "crewai",
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4378,
+  "rank_in_category": 165,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:39:29.918511Z",
+  "last_refreshed_at": "2026-06-08T18:39:29.918515Z",
+  "consecutive_refresh_failures": 0
+}

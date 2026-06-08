@@ -1,0 +1,63 @@
+{
+  "slug": "fullstack-langgraph-nextjs-agent",
+  "name": "fullstack-langgraph-nextjs-agent",
+  "tagline": "  Production-ready Next.js template for building AI agents with LangGraph.js. Features MCP integration for dynamic tool loading, human-in-the-loop tool approval, persistent conversation memory   with ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "ai-agent",
+    "langchain",
+    "langfuse",
+    "langgraph",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "nextjs",
+    "open-telemetry"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agentailor",
+    "url": "https://github.com/agentailor"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agentailor/fullstack-langgraph-nextjs-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 115,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-12T20:28:45Z",
+    "first_commit_at": "2025-09-30T10:48:16Z",
+    "forks": 29,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3824,
+  "rank_in_category": 237,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:51:22.772958Z",
+  "last_refreshed_at": "2026-06-08T17:04:42.345090Z",
+  "consecutive_refresh_failures": 0
+}

@@ -13,7 +13,7 @@
     "llm",
     "local-ai-agent",
     "mcp",
-    "pyside6"
+    "portable-agent"
   ],
   "author": {
     "type": "user",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 2,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-20T17:54:50Z",
+    "last_commit_at": "2026-06-08T12:26:36Z",
     "first_commit_at": "2026-04-01T10:26:00Z",
     "forks": 0,
     "watchers": 0,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.2668,
-  "rank_in_category": 190,
+  "composite_score": 0.3334,
+  "rank_in_category": 122,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:27:27.214272Z",
-  "last_refreshed_at": "2026-06-07T18:42:38.450368Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T17:51:43.537000Z",
+  "consecutive_refresh_failures": 0
 }

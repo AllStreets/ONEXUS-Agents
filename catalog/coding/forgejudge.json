@@ -1,0 +1,60 @@
+{
+  "slug": "forgejudge",
+  "name": "forgejudge",
+  "tagline": "Open, always-on leaderboard + CI gate for autonomous coding agents — every patch sandboxed, every run traced, every regression fails the build. $0 stack.",
+  "category": "coding",
+  "tags": [
+    "ai-agents",
+    "autonomous-agents",
+    "ci",
+    "evaluation",
+    "langfuse",
+    "leaderboard",
+    "llm",
+    "llm-evaluation",
+    "observability",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ahmedEid1",
+    "url": "https://github.com/ahmedEid1"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ahmedEid1/forgejudge",
+    "huggingface": null,
+    "homepage": "https://forgejudge.ahmedhobeishy.tech/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T09:33:09Z",
+    "first_commit_at": "2026-05-29T14:15:04Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2203,
+  "rank_in_category": 603,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T16:50:15.974386Z",
+  "last_refreshed_at": "2026-06-08T16:50:15.974389Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "rerecast",
+  "name": "rerecast",
+  "tagline": "Rust port of Recast, the industry-standard navigation mesh generator used by Unreal, Unity, Godot, and other game engines.",
+  "category": "3d-cad",
+  "tags": [
+    "avian",
+    "avian3d",
+    "bevy",
+    "bevy-engine",
+    "game-development",
+    "navmesh",
+    "recast",
+    "recastnavigation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "janhohenheim",
+    "url": "https://github.com/janhohenheim"
+  },
+  "source": {
+    "primary": "github",
+    "github": "janhohenheim/rerecast",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 149,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-21T12:09:45Z",
+    "first_commit_at": "2025-06-17T11:21:38Z",
+    "forks": 21,
+    "watchers": 5,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5989,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:38.338506Z",
+  "last_refreshed_at": "2026-06-08T18:43:38.338509Z",
+  "consecutive_refresh_failures": 0
+}

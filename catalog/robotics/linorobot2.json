@@ -1,0 +1,60 @@
+{
+  "slug": "linorobot2",
+  "name": "linorobot2",
+  "tagline": "Autonomous mobile robots (2WD, 4WD, Mecanum Drive)",
+  "category": "robotics",
+  "tags": [
+    "2wd",
+    "4wd",
+    "amr",
+    "autonomous",
+    "diy",
+    "diy-robot",
+    "gazebo",
+    "linorobot",
+    "mecanum-wheel",
+    "robotics"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "linorobot",
+    "url": "https://github.com/linorobot"
+  },
+  "source": {
+    "primary": "github",
+    "github": "linorobot/linorobot2",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 908,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T08:07:02Z",
+    "first_commit_at": "2021-08-03T19:54:54Z",
+    "forks": 231,
+    "watchers": 22,
+    "open_issues": 53,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6117,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:46.758309Z",
+  "last_refreshed_at": "2026-06-08T18:38:46.758312Z",
+  "consecutive_refresh_failures": 0
+}

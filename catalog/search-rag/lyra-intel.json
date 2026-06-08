@@ -1,0 +1,53 @@
+{
+  "slug": "lyra-intel",
+  "name": "lyra-intel",
+  "tagline": "Lyra Intel is an intelligence platform designed to analyze repositories of any size - from small projects to enterprise monorepos with millions of lines of code. With 70+ components, it provides end-t",
+  "category": "search-rag",
+  "tags": [
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nirholas",
+    "url": "https://github.com/nirholas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nirholas/lyra-intel",
+    "huggingface": null,
+    "homepage": "https://lyra-intel.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T05:07:30Z",
+    "first_commit_at": "2025-12-03T17:46:15Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4315,
+  "rank_in_category": 128,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:20.001484Z",
+  "last_refreshed_at": "2026-06-08T17:12:08.504432Z",
+  "consecutive_refresh_failures": 0
+}

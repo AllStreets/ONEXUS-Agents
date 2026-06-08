@@ -1,0 +1,49 @@
+{
+  "slug": "sqlrecon",
+  "name": "SQLRecon",
+  "tagline": "A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. ",
+  "category": "sql-analytics",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "skahwah",
+    "url": "https://github.com/skahwah"
+  },
+  "source": {
+    "primary": "github",
+    "github": "skahwah/SQLRecon",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 810,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-02T17:56:41Z",
+    "first_commit_at": "2021-11-19T15:58:49Z",
+    "forks": 128,
+    "watchers": 6,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.409,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:36.187845Z",
+  "last_refreshed_at": "2026-06-08T18:42:36.187847Z",
+  "consecutive_refresh_failures": 0
+}

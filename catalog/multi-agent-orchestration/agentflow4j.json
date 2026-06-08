@@ -1,7 +1,7 @@
 {
   "slug": "agentflow4j",
   "name": "agentflow4j",
-  "tagline": "Most agent frameworks help you build agents. AgentFlow4J helps you run them in production.  Security, authorization, governance, resilience, and FinOps — built into every workflow, JVM-native, Spring-",
+  "tagline": "AgentFlow4J helps you create, coordinate and govern AI agents working together on business tasks.  Built for Java — with approvals, budgets, permissions, checkpoints and production-grade execution.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-orchestration",
@@ -30,11 +30,11 @@
   "metrics": {
     "stars": 36,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-07T14:04:01Z",
+    "last_commit_at": "2026-06-08T16:56:08Z",
     "first_commit_at": "2026-04-19T07:14:29Z",
-    "forks": 10,
+    "forks": 12,
     "watchers": 1,
-    "open_issues": 6,
+    "open_issues": 12,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3295,
-  "rank_in_category": 307,
+  "composite_score": 0.3307,
+  "rank_in_category": 349,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:01:04.686637Z",
-  "last_refreshed_at": "2026-06-07T15:17:27.649433Z",
+  "last_refreshed_at": "2026-06-08T17:26:27.383898Z",
   "consecutive_refresh_failures": 0
 }

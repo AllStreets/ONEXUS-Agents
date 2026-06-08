@@ -1,0 +1,57 @@
+{
+  "slug": "medicalgpt",
+  "name": "MedicalGPT",
+  "tagline": "MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。",
+  "category": "knowledge-management",
+  "tags": [
+    "chatgpt",
+    "dpo",
+    "gpt",
+    "llama",
+    "llm",
+    "medical",
+    "medicalgpt"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shibing624",
+    "url": "https://github.com/shibing624"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shibing624/MedicalGPT",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5494,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T03:39:57Z",
+    "first_commit_at": "2023-06-02T06:07:11Z",
+    "forks": 759,
+    "watchers": 39,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6859,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:40:07.934071Z",
+  "last_refreshed_at": "2026-06-08T18:40:07.934075Z",
+  "consecutive_refresh_failures": 0
+}

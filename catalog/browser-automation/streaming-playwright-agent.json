@@ -35,15 +35,18 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "langchain",
+      "llamaindex"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2083,
-  "rank_in_category": 262,
+  "composite_score": 0.2233,
+  "rank_in_category": 268,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:12:22.509729Z",
-  "last_refreshed_at": "2026-06-06T15:07:45.911933Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T17:50:16.391592Z",
+  "consecutive_refresh_failures": 0
 }

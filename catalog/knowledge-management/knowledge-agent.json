@@ -1,0 +1,49 @@
+{
+  "slug": "knowledge-agent",
+  "name": "knowledge-agent",
+  "tagline": "AI knowledge management agent with auto-learning and semantic search. Integrates with Slack or use A2A API for multi-agent systems. Built with           Anthropic Claude, Go, and pgvector. Automatical",
+  "category": "knowledge-management",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "freepik-company",
+    "url": "https://github.com/freepik-company"
+  },
+  "source": {
+    "primary": "github",
+    "github": "freepik-company/knowledge-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-30T06:55:52Z",
+    "first_commit_at": "2026-01-26T12:10:19Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3539,
+  "rank_in_category": 206,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:39:25.510074Z",
+  "last_refreshed_at": "2026-06-08T18:39:25.510078Z",
+  "consecutive_refresh_failures": 0
+}

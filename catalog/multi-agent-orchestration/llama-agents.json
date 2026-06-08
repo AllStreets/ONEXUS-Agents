@@ -1,0 +1,58 @@
+{
+  "slug": "llama-agents",
+  "name": "llama-agents",
+  "tagline": "Llama Agents + Workflows are an event-driven, async-first, step-based way to control the execution flow of AI applications like agents.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-rag",
+    "agentic-workflow",
+    "agents",
+    "ai",
+    "event-driven",
+    "orchestration"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "run-llama",
+    "url": "https://github.com/run-llama"
+  },
+  "source": {
+    "primary": "github",
+    "github": "run-llama/llama-agents",
+    "huggingface": null,
+    "homepage": "https://www.llamaindex.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 393,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T17:37:30Z",
+    "first_commit_at": "2024-08-01T01:00:57Z",
+    "forks": 68,
+    "watchers": 0,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4093,
+  "rank_in_category": 185,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:52.525128Z",
+  "last_refreshed_at": "2026-06-08T18:08:44.090691Z",
+  "consecutive_refresh_failures": 0
+}

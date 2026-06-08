@@ -1,0 +1,60 @@
+{
+  "slug": "apalis",
+  "name": "apalis",
+  "tagline": "Type-safe, extensible, and high-performance background processing library for Rust",
+  "category": "sql-analytics",
+  "tags": [
+    "background-jobs",
+    "background-tasks",
+    "broker",
+    "job-scheduler",
+    "message-queue",
+    "postgres",
+    "queue",
+    "redis",
+    "rust",
+    "sqlite"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "apalis-dev",
+    "url": "https://github.com/apalis-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "apalis-dev/apalis",
+    "huggingface": null,
+    "homepage": "https://apalis.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1235,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-20T21:18:38Z",
+    "first_commit_at": "2022-06-04T11:18:05Z",
+    "forks": 85,
+    "watchers": 5,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4466,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:35.808096Z",
+  "last_refreshed_at": "2026-06-08T18:42:35.808099Z",
+  "consecutive_refresh_failures": 0
+}

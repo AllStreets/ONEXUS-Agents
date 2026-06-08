@@ -1,0 +1,53 @@
+{
+  "slug": "ai-fundamentals",
+  "name": "AI-fundamentals",
+  "tagline": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识。",
+  "category": "pdf-forms",
+  "tags": [
+    "ai-agent",
+    "ai-infra",
+    "cuda"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ForceInjection",
+    "url": "https://github.com/ForceInjection"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ForceInjection/AI-fundamentals",
+    "huggingface": null,
+    "homepage": "https://forceinjection.github.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1414,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T06:14:44Z",
+    "first_commit_at": "2024-09-23T06:02:31Z",
+    "forks": 225,
+    "watchers": 25,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6717,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:40:51.425479Z",
+  "last_refreshed_at": "2026-06-08T18:40:51.425482Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "clawx",
+  "name": "ClawX",
+  "tagline": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://cl",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "clawdbot",
+    "moltbot",
+    "openclaw",
+    "skill"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ValueCell-ai",
+    "url": "https://github.com/ValueCell-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ValueCell-ai/ClawX",
+    "huggingface": null,
+    "homepage": "https://claw-x.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7390,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T13:20:28Z",
+    "first_commit_at": "2026-02-05T14:00:03Z",
+    "forks": 1106,
+    "watchers": 47,
+    "open_issues": 79,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3423,
+  "rank_in_category": 110,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:50.947634Z",
+  "last_refreshed_at": "2026-06-08T18:03:05.215592Z",
+  "consecutive_refresh_failures": 0
+}

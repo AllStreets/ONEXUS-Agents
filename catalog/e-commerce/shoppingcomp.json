@@ -1,0 +1,49 @@
+{
+  "slug": "shoppingcomp",
+  "name": "ShoppingComp",
+  "tagline": "We present ShoppingComp, a challenging real-world benchmark for rigorously evaluating LLM-powered shopping agents on three core capabilities: precise product retrieval, expert-level report generation,",
+  "category": "e-commerce",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "ByteDance-BandAI",
+    "url": "https://github.com/ByteDance-BandAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ByteDance-BandAI/ShoppingComp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-09T09:49:26Z",
+    "first_commit_at": "2025-11-27T07:52:20Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3297,
+  "rank_in_category": 122,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:36:20.868367Z",
+  "last_refreshed_at": "2026-06-08T18:36:20.868370Z",
+  "consecutive_refresh_failures": 0
+}

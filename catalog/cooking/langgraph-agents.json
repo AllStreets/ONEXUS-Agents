@@ -1,0 +1,60 @@
+{
+  "slug": "langgraph-agents",
+  "name": "langgraph-agents",
+  "tagline": "A production-ready, scalable multi-agent system built with LangGraph, featuring specialized agents for different tasks with best coding practices.",
+  "category": "cooking",
+  "tags": [
+    "langchain",
+    "langchain-python",
+    "langgraph",
+    "langgraph-agents",
+    "langgraph-python",
+    "langgraph-template",
+    "langgraph-tools",
+    "language-model"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shamspias",
+    "url": "https://github.com/shamspias"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shamspias/langgraph-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 37,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-22T11:45:03Z",
+    "first_commit_at": "2023-08-12T21:19:07Z",
+    "forks": 5,
+    "watchers": 2,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3994,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:06.646530Z",
+  "last_refreshed_at": "2026-06-08T18:38:06.646535Z",
+  "consecutive_refresh_failures": 0
+}

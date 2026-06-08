@@ -1,0 +1,60 @@
+{
+  "slug": "ai-gov-content-curator",
+  "name": "AI-Gov-Content-Curator",
+  "tagline": "💡An end-to-end solution for aggregating, summarizing, and displaying news articles using an AI-powered backend, an automated CRON crawler & newsletter emailer, and a responsive Next.js frontend. It in",
+  "category": "web-dev",
+  "tags": [
+    "artificial-intelligence",
+    "axios",
+    "cheerio",
+    "crawler",
+    "cron",
+    "cronjob",
+    "docker",
+    "express",
+    "expressjs",
+    "google-generative-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hoangsonww",
+    "url": "https://github.com/hoangsonww"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hoangsonww/AI-Gov-Content-Curator",
+    "huggingface": null,
+    "homepage": "https://synthoraai.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 29,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T05:09:11Z",
+    "first_commit_at": "2025-03-02T19:52:26Z",
+    "forks": 17,
+    "watchers": 9,
+    "open_issues": 15,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5076,
+  "rank_in_category": 112,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:47.777556Z",
+  "last_refreshed_at": "2026-06-08T18:02:49.380210Z",
+  "consecutive_refresh_failures": 0
+}

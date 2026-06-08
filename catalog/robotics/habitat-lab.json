@@ -1,0 +1,60 @@
+{
+  "slug": "habitat-lab",
+  "name": "habitat-lab",
+  "tagline": "A modular high-level library to train embodied AI agents across a variety of tasks and environments.",
+  "category": "robotics",
+  "tags": [
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "deep-reinforcement-learning",
+    "python",
+    "reinforcement-learning",
+    "research",
+    "robotics",
+    "sim2real",
+    "simulator"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "facebookresearch",
+    "url": "https://github.com/facebookresearch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "facebookresearch/habitat-lab",
+    "huggingface": null,
+    "homepage": "https://aihabitat.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3007,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T22:03:51Z",
+    "first_commit_at": "2019-02-04T23:12:51Z",
+    "forks": 674,
+    "watchers": 42,
+    "open_issues": 386,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6744,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:28.925585Z",
+  "last_refreshed_at": "2026-06-08T18:38:28.925588Z",
+  "consecutive_refresh_failures": 0
+}

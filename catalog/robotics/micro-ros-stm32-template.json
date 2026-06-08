@@ -1,0 +1,58 @@
+{
+  "slug": "micro-ros-stm32-template",
+  "name": "micro_ros_stm32_template",
+  "tagline": "Boilerplate to create a project with:  STM32 + Ethernet + micro-ROS + FreeRTOS + Arduino + PlatformIO",
+  "category": "robotics",
+  "tags": [
+    "arduino",
+    "embedded",
+    "ethernet",
+    "freertos",
+    "micro-ros",
+    "platformio",
+    "ros2",
+    "stm32f4"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "husarion",
+    "url": "https://github.com/husarion"
+  },
+  "source": {
+    "primary": "github",
+    "github": "husarion/micro_ros_stm32_template",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 35,
+    "downloads_30d": null,
+    "last_commit_at": "2022-08-29T11:50:45Z",
+    "first_commit_at": "2021-11-24T16:55:04Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2538,
+  "rank_in_category": 163,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:56.845267Z",
+  "last_refreshed_at": "2026-06-08T18:38:56.845270Z",
+  "consecutive_refresh_failures": 0
+}

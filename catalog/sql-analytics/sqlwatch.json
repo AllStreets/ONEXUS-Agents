@@ -1,0 +1,57 @@
+{
+  "slug": "sqlwatch",
+  "name": "sqlwatch",
+  "tagline": "SQL Server Performance Monitor",
+  "category": "sql-analytics",
+  "tags": [
+    "database",
+    "grafana-dashboard",
+    "performance-monitoring",
+    "powerbi",
+    "sql-server-monitoring",
+    "sqlserver",
+    "sqlwatch"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "marcingminski",
+    "url": "https://github.com/marcingminski"
+  },
+  "source": {
+    "primary": "github",
+    "github": "marcingminski/sqlwatch",
+    "huggingface": null,
+    "homepage": "https://marcingminski.github.io/sqlwatch/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 492,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-24T00:46:42Z",
+    "first_commit_at": "2018-08-11T22:34:46Z",
+    "forks": 191,
+    "watchers": 46,
+    "open_issues": 94,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4069,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:38.074530Z",
+  "last_refreshed_at": "2026-06-08T18:42:38.074533Z",
+  "consecutive_refresh_failures": 0
+}

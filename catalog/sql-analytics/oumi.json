@@ -1,0 +1,60 @@
+{
+  "slug": "oumi",
+  "name": "oumi",
+  "tagline": "Easily fine-tune, evaluate and deploy Gemma 4, Qwen3.5, Qwen3.6, gpt-oss, DeepSeek-R1, or any open source LLM / VLM!",
+  "category": "sql-analytics",
+  "tags": [
+    "dpo",
+    "evaluation",
+    "fine-tuning",
+    "gpt-oss",
+    "gpt-oss-120b",
+    "gpt-oss-20b",
+    "inference",
+    "llama",
+    "llms",
+    "sft"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "oumi-ai",
+    "url": "https://github.com/oumi-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "oumi-ai/oumi",
+    "huggingface": null,
+    "homepage": "https://oumi.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 9315,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T18:31:59Z",
+    "first_commit_at": "2024-05-07T17:45:15Z",
+    "forks": 777,
+    "watchers": 65,
+    "open_issues": 18,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5207,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:43.372629Z",
+  "last_refreshed_at": "2026-06-08T18:42:43.372632Z",
+  "consecutive_refresh_failures": 0
+}

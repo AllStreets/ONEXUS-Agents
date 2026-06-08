@@ -1,7 +1,7 @@
 {
   "slug": "jarvis-registry",
   "name": "jarvis-registry",
-  "tagline": "Connect any AI copilot or autonomous agent to your enterprise tools \u2014 through a single, secure MCP/Agent gateway with built-in identity, access control, and full observability.",
+  "tagline": "Connect any AI copilot or autonomous agent to your enterprise tools — through a single, secure MCP/Agent gateway with built-in identity, access control, and full observability.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent",
@@ -24,13 +24,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 1032,
+    "stars": 1058,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-06T13:56:12Z",
+    "last_commit_at": "2026-06-08T16:13:47Z",
     "first_commit_at": "2025-05-29T18:23:39Z",
-    "forks": 155,
+    "forks": 156,
     "watchers": 10,
-    "open_issues": 4,
+    "open_issues": 6,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -49,10 +49,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4294,
-  "rank_in_category": 123,
+  "composite_score": 0.4808,
+  "rank_in_category": 53,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:29:39.040752Z",
-  "last_refreshed_at": "2026-06-07T10:40:29.322585Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T18:20:51.515595Z",
+  "consecutive_refresh_failures": 0
 }

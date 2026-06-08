@@ -1,0 +1,56 @@
+{
+  "slug": "context7",
+  "name": "context7",
+  "tagline": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+  "category": "search-rag",
+  "tags": [
+    "llm",
+    "mcp",
+    "mcp-server",
+    "vibe-coding"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "upstash",
+    "url": "https://github.com/upstash"
+  },
+  "source": {
+    "primary": "github",
+    "github": "upstash/context7",
+    "huggingface": null,
+    "homepage": "https://context7.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 57004,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T13:42:43Z",
+    "first_commit_at": "2025-03-28T21:29:17Z",
+    "forks": 2694,
+    "watchers": 153,
+    "open_issues": 48,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.7402,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:32.494410Z",
+  "last_refreshed_at": "2026-06-08T16:55:21.198994Z",
+  "consecutive_refresh_failures": 0
+}

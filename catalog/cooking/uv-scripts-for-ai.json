@@ -1,0 +1,56 @@
+{
+  "slug": "uv-scripts-for-ai",
+  "name": "uv-scripts-for-ai",
+  "tagline": "Self-contained UV scripts for data & ML tasks — OCR, vision, audio & more — run one in a command, locally or on Hugging Face Jobs. Built for humans and agents.",
+  "category": "cooking",
+  "tags": [
+    "agents",
+    "hf-jobs",
+    "huggingface",
+    "ocr",
+    "pep723",
+    "uv"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "davanstrien",
+    "url": "https://github.com/davanstrien"
+  },
+  "source": {
+    "primary": "github",
+    "github": "davanstrien/uv-scripts-for-ai",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/uv-scripts"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 49,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T17:38:39Z",
+    "first_commit_at": "2026-06-03T08:07:41Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4964,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:05.886224Z",
+  "last_refreshed_at": "2026-06-08T18:38:05.886227Z",
+  "consecutive_refresh_failures": 0
+}

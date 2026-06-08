@@ -1,0 +1,59 @@
+{
+  "slug": "marketing-skills",
+  "name": "Marketing-skills",
+  "tagline": "Marketing agent skills powered by real data. Connect Claude Code to your actual Google Ads, GA4, Search Console, Meta Ads, LinkedIn Ads and 50+ platforms via Dataslayer MCP — no copy-pasting required.",
+  "category": "marketing",
+  "tags": [
+    "agent-skills",
+    "analytics",
+    "claude-code",
+    "marketing",
+    "mcp",
+    "paid-media",
+    "seo"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Dataslayer-AI",
+    "url": "https://github.com/Dataslayer-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Dataslayer-AI/Marketing-skills",
+    "huggingface": null,
+    "homepage": "https://dataslayer.ai/mcp"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-23T15:50:29Z",
+    "first_commit_at": "2026-03-19T07:47:32Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4478,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:32:45.015179Z",
+  "last_refreshed_at": "2026-06-08T18:32:45.015182Z",
+  "consecutive_refresh_failures": 0
+}

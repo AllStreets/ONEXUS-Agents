@@ -1,7 +1,7 @@
 {
   "slug": "idurar-erp-crm",
   "name": "idurar-erp-crm",
-  "tagline": "Free Open Source ERP CRM Software Accounting Invoicing | Node Js React",
+  "tagline": "Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React",
   "category": "e-commerce",
   "tags": [
     "accounting",
@@ -16,28 +16,28 @@
     "erp-software"
   ],
   "author": {
-    "type": "org",
-    "handle": "idurar",
-    "url": "https://github.com/idurar"
+    "type": "user",
+    "handle": "salahlalami",
+    "url": "https://github.com/salahlalami"
   },
   "source": {
     "primary": "github",
-    "github": "idurar/idurar-erp-crm",
+    "github": "salahlalami/idurar-erp-crm",
     "huggingface": null,
-    "homepage": "https://cloud.idurarapp.com/"
+    "homepage": "https://www.idurarapp.com/"
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 8440,
+    "stars": 8446,
     "downloads_30d": null,
     "last_commit_at": "2026-05-12T12:32:31Z",
     "first_commit_at": "2020-10-17T22:13:21Z",
-    "forks": null,
-    "watchers": null,
-    "open_issues": null,
-    "archived": null,
-    "is_fork": null,
-    "is_template": null,
+    "forks": 3035,
+    "watchers": 73,
+    "open_issues": 460,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.642,
+  "composite_score": 0.6919,
   "rank_in_category": 8,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-06T15:58:01.582704Z",
-  "last_refreshed_at": "2026-06-07T18:55:04.718936Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-06-08T18:35:54.339859Z",
+  "last_refreshed_at": "2026-06-08T18:35:54.339862Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "edgecrab",
   "name": "edgecrab",
-  "tagline": "EdgeCrab \ud83e\udd80 A Super Powerful Personal Assistant inspired by NousHermes and OpenClaw \u2014 Rust-native, blazing-fast terminal UI, ReAct tool loop, multi-provider LLM support, ACP protocol, gateway adapters,",
+  "tagline": "EdgeCrab 🦀 A Super Powerful Personal Assistant inspired by NousHermes and OpenClaw — Rust-native, blazing-fast terminal UI, ReAct tool loop, multi-provider LLM support, ACP protocol, gateway adapters,",
   "category": "web-dev",
   "tags": [
     "agentic-ai",
@@ -28,7 +28,7 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 63,
+    "stars": 64,
     "downloads_30d": null,
     "last_commit_at": "2026-05-29T21:52:08Z",
     "first_commit_at": "2026-04-05T10:23:01Z",
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4532,
-  "rank_in_category": 154,
+  "composite_score": 0.502,
+  "rank_in_category": 118,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:24:18.589063Z",
-  "last_refreshed_at": "2026-06-07T14:59:25.717225Z",
+  "last_refreshed_at": "2026-06-08T17:00:28.202701Z",
   "consecutive_refresh_failures": 0
 }

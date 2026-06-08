@@ -1,0 +1,49 @@
+{
+  "slug": "rossum-agents",
+  "name": "rossum-agents",
+  "tagline": "AI-powered Rossum orchestration: Document workflows conversationally, debug pipelines automatically, and configure automation through natural language.",
+  "category": "robotics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "rossumai",
+    "url": "https://github.com/rossumai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rossumai/rossum-agents",
+    "huggingface": null,
+    "homepage": "https://stancld.github.io/rossum-agents/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T20:45:50Z",
+    "first_commit_at": "2025-10-08T18:22:48Z",
+    "forks": 1,
+    "watchers": 2,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4761,
+  "rank_in_category": 69,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:43.442709Z",
+  "last_refreshed_at": "2026-06-08T18:38:43.442713Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "agentic-ai-pipeline",
+  "name": "Agentic-AI-Pipeline",
+  "tagline": "🦾 A production‑ready research outreach AI agent that plans, discovers, reasons, uses tools, auto‑builds cited briefings, and drafts tailored emails with tool‑chaining, memory, tests, and turnkey Docke",
+  "category": "social-media",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "anthropic",
+    "anthropic-ai",
+    "aws",
+    "chromadb",
+    "docker",
+    "duckduckgo",
+    "fastapi",
+    "langchain"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hoangsonww",
+    "url": "https://github.com/hoangsonww"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hoangsonww/Agentic-AI-Pipeline",
+    "huggingface": null,
+    "homepage": "https://hoangsonww.github.io/Agentic-AI-Pipeline"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 70,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T05:05:43Z",
+    "first_commit_at": "2025-07-27T17:04:29Z",
+    "forks": 20,
+    "watchers": 9,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.434,
+  "rank_in_category": 85,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:34:22.679246Z",
+  "last_refreshed_at": "2026-06-08T18:34:22.679249Z",
+  "consecutive_refresh_failures": 0
+}

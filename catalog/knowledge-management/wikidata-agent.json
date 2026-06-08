@@ -1,0 +1,51 @@
+{
+  "slug": "wikidata-agent",
+  "name": "wikidata-agent",
+  "tagline": "A single-user server to communicate with the Wikidata API in a simple, minimalist way",
+  "category": "knowledge-management",
+  "tags": [
+    "wikidata"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "maxlath",
+    "url": "https://github.com/maxlath"
+  },
+  "source": {
+    "primary": "github",
+    "github": "maxlath/wikidata-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2017-12-15T15:30:59Z",
+    "first_commit_at": "2015-08-18T08:40:55Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 3,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0853,
+  "rank_in_category": 238,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:40:04.130896Z",
+  "last_refreshed_at": "2026-06-08T18:40:04.130898Z",
+  "consecutive_refresh_failures": 0
+}

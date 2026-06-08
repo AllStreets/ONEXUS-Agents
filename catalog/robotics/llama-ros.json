@@ -1,0 +1,62 @@
+{
+  "slug": "llama-ros",
+  "name": "llama_ros",
+  "tagline": "llama.cpp (GGUF LLMs) and llava.cpp (GGUF VLMs) for ROS 2",
+  "category": "robotics",
+  "tags": [
+    "audio",
+    "cpp",
+    "embeddings",
+    "ggml",
+    "gguf",
+    "gpt",
+    "langchain",
+    "llama",
+    "llamacpp",
+    "llava"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mgonzs13",
+    "url": "https://github.com/mgonzs13"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mgonzs13/llama_ros",
+    "huggingface": null,
+    "homepage": "https://mgonzs13.github.io/llama_ros/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 256,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T09:30:31Z",
+    "first_commit_at": "2023-04-01T08:25:02Z",
+    "forks": 46,
+    "watchers": 4,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6117,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:49.587888Z",
+  "last_refreshed_at": "2026-06-08T18:38:49.587891Z",
+  "consecutive_refresh_failures": 0
+}

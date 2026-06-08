@@ -1,7 +1,7 @@
 {
   "slug": "agent-network",
   "name": "agent-network",
-  "tagline": "\u591a Agent\uff0c\u4e00\u884c\u547d\u4ee4\u3002Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ \u5bb6 LLM (Anthropic / OpenAI / xAI / MiniMax / DeepSeek / GLM / Kimi / \u4e66\u751f / \u5c0f\u7c73 MiMo) \u2014 \u4e00\u4e2a npm \u5305\uff0c\u81ea\u5e26 Web Dashboard\uff0c\u672c\u5730\u4f18\u5148\uff0cApach",
+  "tagline": "多 Agent，一行命令。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM (Anthropic / OpenAI / xAI / MiniMax / DeepSeek / GLM / Kimi / 书生 / 小米 MiMo) — 一个 npm 包，自带 Web Dashboard，本地优先，Apach",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-network",
@@ -30,8 +30,8 @@
   "metrics": {
     "stars": 32,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-06T23:18:42Z",
-    "first_commit_at": "2026-03-31T17:34:18Z",
+    "last_commit_at": "2026-06-08T09:52:00Z",
+    "first_commit_at": "2026-05-10T11:57:49Z",
     "forks": 6,
     "watchers": 0,
     "open_issues": 82,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3406,
-  "rank_in_category": 282,
+  "composite_score": 0.3882,
+  "rank_in_category": 224,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T15:20:35.338591Z",
-  "last_refreshed_at": "2026-06-07T10:41:40.887091Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T18:23:41.207691Z",
+  "consecutive_refresh_failures": 0
 }

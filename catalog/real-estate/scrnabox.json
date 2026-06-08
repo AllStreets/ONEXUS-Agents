@@ -1,0 +1,52 @@
+{
+  "slug": "scrnabox",
+  "name": "scrnabox",
+  "tagline": "A pipeline for scRNA analysis under HPC",
+  "category": "real-estate",
+  "tags": [
+    "pipeline",
+    "single-cell"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "neurobioinfo",
+    "url": "https://github.com/neurobioinfo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "neurobioinfo/scrnabox",
+    "huggingface": null,
+    "homepage": "https://neurobioinfo.github.io/scrnabox/site/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2024-07-15T15:29:43Z",
+    "first_commit_at": "2022-07-29T01:58:12Z",
+    "forks": 4,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3469,
+  "rank_in_category": 60,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:37:39.667690Z",
+  "last_refreshed_at": "2026-06-08T18:37:39.667693Z",
+  "consecutive_refresh_failures": 0
+}

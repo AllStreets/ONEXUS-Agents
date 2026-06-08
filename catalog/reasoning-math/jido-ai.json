@@ -4,9 +4,10 @@
   "tagline": "AI integration layer for Jido agents with LLM orchestration and reasoning strategies.",
   "category": "reasoning-math",
   "tags": [
-    "agent-framework",
+    "ai",
     "ai-agents",
     "elixir",
+    "elixir-package",
     "jido",
     "llm"
   ],
@@ -19,7 +20,7 @@
     "primary": "github",
     "github": "agentjido/jido_ai",
     "huggingface": null,
-    "homepage": "https://github.com/agentjido/jido_ai#readme"
+    "homepage": "https://jido.run/ecosystem/jido_ai"
   },
   "license": "Apache-2.0",
   "metrics": {
@@ -46,10 +47,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3581,
-  "rank_in_category": 40,
+  "composite_score": 0.3571,
+  "rank_in_category": 45,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T15:18:28.504674Z",
-  "last_refreshed_at": "2026-06-07T10:39:23.096412Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T18:19:02.225403Z",
+  "consecutive_refresh_failures": 0
 }

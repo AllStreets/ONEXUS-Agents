@@ -1,0 +1,60 @@
+{
+  "slug": "auto-analyst",
+  "name": "Auto-Analyst",
+  "tagline": "Open-source AI-powered data science platform. ",
+  "category": "sql-analytics",
+  "tags": [
+    "ai",
+    "claude",
+    "data-analysis",
+    "data-science",
+    "data-visualization",
+    "dspy-ai",
+    "large-language-models",
+    "openai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "FireBird-Technologies",
+    "url": "https://github.com/FireBird-Technologies"
+  },
+  "source": {
+    "primary": "github",
+    "github": "FireBird-Technologies/Auto-Analyst",
+    "huggingface": null,
+    "homepage": "https://www.autoanalyst.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 697,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T21:33:13Z",
+    "first_commit_at": "2025-01-23T13:28:22Z",
+    "forks": 118,
+    "watchers": 4,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "dspy"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4136,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:11.470759Z",
+  "last_refreshed_at": "2026-06-08T18:43:11.470762Z",
+  "consecutive_refresh_failures": 0
+}

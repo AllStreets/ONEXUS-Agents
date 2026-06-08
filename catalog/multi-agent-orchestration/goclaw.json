@@ -1,7 +1,7 @@
 {
   "slug": "goclaw",
   "name": "goclaw",
-  "tagline": "GoClaw - GoClaw is OpenClaw rebuilt in Go \u2014 with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+  "tagline": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-orchestration",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 3233,
+    "stars": 3237,
     "downloads_30d": null,
     "last_commit_at": "2026-06-07T10:34:10Z",
     "first_commit_at": "2026-02-22T07:58:07Z",
-    "forks": 897,
-    "watchers": 24,
-    "open_issues": 312,
+    "forks": 900,
+    "watchers": 23,
+    "open_issues": 313,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4361,
-  "rank_in_category": 108,
+  "composite_score": 0.4851,
+  "rank_in_category": 48,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:29:29.497769Z",
-  "last_refreshed_at": "2026-06-07T10:40:15.034577Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T18:20:29.234710Z",
+  "consecutive_refresh_failures": 0
 }

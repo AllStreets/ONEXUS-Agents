@@ -1,0 +1,53 @@
+{
+  "slug": "mag-sql",
+  "name": "MAG-SQL",
+  "tagline": "MAG-SQL: Multi-Agent Generative Approach with Soft Schema Linking and Iterative Sub-SQL Refinement for Text-to-SQL",
+  "category": "sql-analytics",
+  "tags": [
+    "agents",
+    "llm",
+    "text-to-sql"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Lancelot-Xie",
+    "url": "https://github.com/Lancelot-Xie"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Lancelot-Xie/MAG-SQL",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 19,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-10T07:13:05Z",
+    "first_commit_at": "2024-08-19T07:34:02Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2334,
+  "rank_in_category": 174,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:56.772403Z",
+  "last_refreshed_at": "2026-06-08T18:42:56.772406Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "githubdaily",
+  "name": "GitHubDaily",
+  "tagline": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+  "category": "knowledge-management",
+  "tags": [
+    "ai",
+    "algorithms-and-data-structures",
+    "backend",
+    "developer-tools",
+    "development",
+    "frontend",
+    "github",
+    "java",
+    "javascript",
+    "kubernetes"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "GitHubDaily",
+    "url": "https://github.com/GitHubDaily"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GitHubDaily/GitHubDaily",
+    "huggingface": null,
+    "homepage": "https://githubdaily.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 46725,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-31T18:59:20Z",
+    "first_commit_at": "2018-12-30T13:56:59Z",
+    "forks": 4641,
+    "watchers": 1429,
+    "open_issues": 635,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6095,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:56:09.404295Z",
+  "last_refreshed_at": "2026-06-08T17:15:39.438927Z",
+  "consecutive_refresh_failures": 0
+}

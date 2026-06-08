@@ -1,0 +1,60 @@
+{
+  "slug": "hamilton",
+  "name": "hamilton",
+  "tagline": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+  "category": "sql-analytics",
+  "tags": [
+    "dag",
+    "data-analysis",
+    "data-engineering",
+    "data-science",
+    "dataframe",
+    "etl",
+    "etl-framework",
+    "etl-pipeline",
+    "feature-engineering",
+    "hacktoberfest"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "apache",
+    "url": "https://github.com/apache"
+  },
+  "source": {
+    "primary": "github",
+    "github": "apache/hamilton",
+    "huggingface": null,
+    "homepage": "https://hamilton.apache.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2515,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T12:04:16Z",
+    "first_commit_at": "2023-02-23T17:16:48Z",
+    "forks": 192,
+    "watchers": 16,
+    "open_issues": 143,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.489,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:50.806523Z",
+  "last_refreshed_at": "2026-06-08T18:42:50.806526Z",
+  "consecutive_refresh_failures": 0
+}

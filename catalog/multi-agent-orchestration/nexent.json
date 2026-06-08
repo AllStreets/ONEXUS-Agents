@@ -1,7 +1,7 @@
 {
   "slug": "nexent",
   "name": "nexent",
-  "tagline": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles \u2014 unified tools, skills, memory, and orchestration with built-in constraints, feedbac",
+  "tagline": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedbac",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 4935,
+    "stars": 4961,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-05T15:43:51Z",
+    "last_commit_at": "2026-06-08T14:01:28Z",
     "first_commit_at": "2025-04-28T09:38:30Z",
-    "forks": 629,
-    "watchers": 214,
-    "open_issues": 249,
+    "forks": 628,
+    "watchers": 216,
+    "open_issues": 253,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4576,
-  "rank_in_category": 63,
+  "composite_score": 0.5095,
+  "rank_in_category": 23,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:51:17.653594Z",
-  "last_refreshed_at": "2026-06-07T10:40:12.317140Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T18:20:25.079620Z",
+  "consecutive_refresh_failures": 0
 }

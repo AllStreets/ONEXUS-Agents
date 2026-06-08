@@ -1,0 +1,51 @@
+{
+  "slug": "rho",
+  "name": "rho",
+  "tagline": "An AI agent that stays running, remembers across sessions, and checks in on its own. macOS, Linux, Android. Built on Pi.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "pi-coding-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mikeyobrien",
+    "url": "https://github.com/mikeyobrien"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mikeyobrien/rho",
+    "huggingface": null,
+    "homepage": "https://rhobot.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 360,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-26T20:53:54Z",
+    "first_commit_at": "2026-02-02T20:51:07Z",
+    "forks": 29,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3512,
+  "rank_in_category": 99,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:41.223157Z",
+  "last_refreshed_at": "2026-06-08T18:02:05.775186Z",
+  "consecutive_refresh_failures": 0
+}

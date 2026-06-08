@@ -1,0 +1,60 @@
+{
+  "slug": "blog",
+  "name": "blog",
+  "tagline": "Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog",
+  "category": "sql-analytics",
+  "tags": [
+    "database",
+    "enterprisedb",
+    "gpdb",
+    "greenplum",
+    "hawq",
+    "mongodb",
+    "mysql",
+    "oracle",
+    "pg",
+    "pgsql"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "digoal",
+    "url": "https://github.com/digoal"
+  },
+  "source": {
+    "primary": "github",
+    "github": "digoal/blog",
+    "huggingface": null,
+    "homepage": "https://github.com/digoal/blog/blob/master/README.md"
+  },
+  "license": "GPL-2.0",
+  "metrics": {
+    "stars": 8499,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T14:24:37Z",
+    "first_commit_at": "2015-08-02T14:32:09Z",
+    "forks": 1915,
+    "watchers": 637,
+    "open_issues": 114,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5269,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:44.113683Z",
+  "last_refreshed_at": "2026-06-08T18:42:44.113687Z",
+  "consecutive_refresh_failures": 0
+}

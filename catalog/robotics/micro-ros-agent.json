@@ -1,0 +1,49 @@
+{
+  "slug": "micro-ros-agent",
+  "name": "micro-ROS-Agent",
+  "tagline": "ROS 2 package using Micro XRCE-DDS Agent.",
+  "category": "robotics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "micro-ROS",
+    "url": "https://github.com/micro-ROS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "micro-ROS/micro-ROS-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 189,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-19T09:33:37Z",
+    "first_commit_at": "2018-11-05T10:00:28Z",
+    "forks": 106,
+    "watchers": 12,
+    "open_issues": 43,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5068,
+  "rank_in_category": 60,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:42.542646Z",
+  "last_refreshed_at": "2026-06-08T18:38:42.542650Z",
+  "consecutive_refresh_failures": 0
+}

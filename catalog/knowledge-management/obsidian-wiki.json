@@ -1,0 +1,56 @@
+{
+  "slug": "obsidian-wiki",
+  "name": "obsidian-wiki",
+  "tagline": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern",
+  "category": "knowledge-management",
+  "tags": [
+    "agent-skills",
+    "brain",
+    "knowledge-base",
+    "llm-tools",
+    "obsidian",
+    "wiki"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Ar9av",
+    "url": "https://github.com/Ar9av"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Ar9av/obsidian-wiki",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1765,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T15:41:12Z",
+    "first_commit_at": "2026-04-06T06:20:10Z",
+    "forks": 194,
+    "watchers": 14,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6144,
+  "rank_in_category": 57,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:40:08.642423Z",
+  "last_refreshed_at": "2026-06-08T18:40:08.642426Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "nojoin",
+  "name": "Nojoin",
+  "tagline": "A self-hosted meeting transcription app that doesn't need to join your meetings as a bot.",
+  "category": "audio-speech",
+  "tags": [
+    "ai-notes",
+    "audio-recorder",
+    "call-notes",
+    "call-recording",
+    "meeting-assistant",
+    "meeting-minutes",
+    "meeting-notes",
+    "meeting-recorder",
+    "meeting-recording",
+    "meeting-summarization"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Valtora",
+    "url": "https://github.com/Valtora"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Valtora/Nojoin",
+    "huggingface": null,
+    "homepage": "https://www.nojoin.co.uk/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 49,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T17:23:14Z",
+    "first_commit_at": "2025-11-23T15:50:15Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4582,
+  "rank_in_category": 91,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:10.220975Z",
+  "last_refreshed_at": "2026-06-08T18:05:04.747711Z",
+  "consecutive_refresh_failures": 0
+}

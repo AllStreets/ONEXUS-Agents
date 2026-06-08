@@ -1,0 +1,49 @@
+{
+  "slug": "knowledgeable-agent",
+  "name": "knowledgeable-agent",
+  "tagline": "This is an exemple of an agent you can deploy using phospho. It will answer questions based on the knowledge it has in the document you provided it.",
+  "category": "knowledge-management",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "phospho-app",
+    "url": "https://github.com/phospho-app"
+  },
+  "source": {
+    "primary": "github",
+    "github": "phospho-app/knowledgeable-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2023-06-16T15:59:41Z",
+    "first_commit_at": "2023-06-16T15:30:09Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2784,
+  "rank_in_category": 227,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:39:23.991585Z",
+  "last_refreshed_at": "2026-06-08T18:39:23.991589Z",
+  "consecutive_refresh_failures": 0
+}

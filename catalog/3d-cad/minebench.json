@@ -1,0 +1,58 @@
+{
+  "slug": "minebench",
+  "name": "minebench",
+  "tagline": "Minecraft-style voxel benchmark for comparing AI models (Arena + Sandbox)",
+  "category": "3d-cad",
+  "tags": [
+    "ai",
+    "benchmark",
+    "comparison-benchmarks",
+    "llm",
+    "lmarena",
+    "minecraft",
+    "nlp",
+    "voxel"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Ammaar-Alam",
+    "url": "https://github.com/Ammaar-Alam"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Ammaar-Alam/minebench",
+    "huggingface": null,
+    "homepage": "https://minebench.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 247,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T06:24:31Z",
+    "first_commit_at": "2026-01-08T19:01:45Z",
+    "forks": 17,
+    "watchers": 2,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6212,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:37.057473Z",
+  "last_refreshed_at": "2026-06-08T18:43:37.057475Z",
+  "consecutive_refresh_failures": 0
+}

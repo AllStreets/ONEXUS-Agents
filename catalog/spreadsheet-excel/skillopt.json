@@ -1,0 +1,49 @@
+{
+  "slug": "skillopt",
+  "name": "SkillOpt",
+  "tagline": "SkillOpt with local AI is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill",
+  "category": "spreadsheet-excel",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "mitkox",
+    "url": "https://github.com/mitkox"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mitkox/SkillOpt",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 73,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-25T18:22:38Z",
+    "first_commit_at": "2026-05-25T18:17:13Z",
+    "forks": 18,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3045,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:41:31.772308Z",
+  "last_refreshed_at": "2026-06-08T18:41:31.772311Z",
+  "consecutive_refresh_failures": 0
+}

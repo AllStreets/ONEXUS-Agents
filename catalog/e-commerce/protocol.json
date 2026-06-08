@@ -1,0 +1,60 @@
+{
+  "slug": "protocol",
+  "name": "protocol",
+  "tagline": "Agent Messaging Protocol (AMP) - the open standard for secure AI agent communication",
+  "category": "e-commerce",
+  "tags": [
+    "agent-communication",
+    "ai-agents",
+    "claude-code",
+    "cryptography",
+    "ed25519",
+    "federated",
+    "llm",
+    "messaging-protocol",
+    "multi-agent-systems",
+    "open-source"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agentmessaging",
+    "url": "https://github.com/agentmessaging"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agentmessaging/protocol",
+    "huggingface": null,
+    "homepage": "https://agentmessaging.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-23T07:20:59Z",
+    "first_commit_at": "2026-01-31T05:16:56Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3959,
+  "rank_in_category": 105,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:36:54.528856Z",
+  "last_refreshed_at": "2026-06-08T18:36:54.528860Z",
+  "consecutive_refresh_failures": 0
+}

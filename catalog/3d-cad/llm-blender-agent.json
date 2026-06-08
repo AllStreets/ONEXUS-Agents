@@ -1,0 +1,53 @@
+{
+  "slug": "llm-blender-agent",
+  "name": "LLM-Blender-Agent",
+  "tagline": "An AI-powered agent utilizing LLMs (e.g., Claude) with Function Calling to automate tasks in Blender. Enhances workflow efficiency by integrating intelligent command execution and automation. 🚀",
+  "category": "3d-cad",
+  "tags": [
+    "agents",
+    "blender",
+    "blender-addon"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "saofund",
+    "url": "https://github.com/saofund"
+  },
+  "source": {
+    "primary": "github",
+    "github": "saofund/LLM-Blender-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 28,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-27T14:23:49Z",
+    "first_commit_at": "2025-03-19T01:46:54Z",
+    "forks": 5,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.346,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:43:53.226116Z",
+  "last_refreshed_at": "2026-06-08T18:43:53.226119Z",
+  "consecutive_refresh_failures": 0
+}

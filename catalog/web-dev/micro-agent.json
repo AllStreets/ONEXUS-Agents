@@ -1,7 +1,7 @@
 {
   "slug": "micro-agent",
   "name": "Micro-Agent",
-  "tagline": "A lightweight AI agent framework for vertical domain applications | \u9762\u5411\u5782\u57df\u5e94\u7528\u7684\u8f7b\u91cf\u7ea7 AI Agent \u6846\u67b6",
+  "tagline": "A lightweight AI agent framework for vertical domain applications | 面向垂域应用的轻量级 AI Agent 框架",
   "category": "web-dev",
   "tags": [
     "ai-agent",
@@ -26,7 +26,7 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 111,
+    "stars": 110,
     "downloads_30d": null,
     "last_commit_at": "2026-06-06T18:13:02Z",
     "first_commit_at": "2025-03-25T08:23:35Z",
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5091,
-  "rank_in_category": 100,
+  "composite_score": 0.5572,
+  "rank_in_category": 79,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:24:17.124192Z",
-  "last_refreshed_at": "2026-06-07T14:59:25.272085Z",
+  "last_refreshed_at": "2026-06-08T17:00:27.299613Z",
   "consecutive_refresh_failures": 0
 }

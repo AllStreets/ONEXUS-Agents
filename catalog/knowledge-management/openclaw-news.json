@@ -1,0 +1,58 @@
+{
+  "slug": "openclaw-news",
+  "name": "openclaw-news",
+  "tagline": "OpenClaw Daily News (with Ollama + Telegram Quick Setup Guide) | 每日新聞兼快速安裝指南",
+  "category": "knowledge-management",
+  "tags": [
+    "clawdbot",
+    "install-guide",
+    "moltbot",
+    "molty",
+    "ollama",
+    "openclaw",
+    "windows",
+    "wsl2"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "anomixer",
+    "url": "https://github.com/anomixer"
+  },
+  "source": {
+    "primary": "github",
+    "github": "anomixer/openclaw-news",
+    "huggingface": null,
+    "homepage": "https://anomixer.github.io/openclaw-news/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 42,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T01:25:57Z",
+    "first_commit_at": "2026-01-29T03:52:58Z",
+    "forks": 9,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4861,
+  "rank_in_category": 128,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:39:50.959182Z",
+  "last_refreshed_at": "2026-06-08T18:39:50.959186Z",
+  "consecutive_refresh_failures": 0
+}

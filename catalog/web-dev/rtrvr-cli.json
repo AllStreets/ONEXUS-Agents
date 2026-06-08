@@ -1,7 +1,7 @@
 {
   "slug": "rtrvr-cli",
   "name": "rtrvr-cli",
-  "tagline": "CLI + SDK to automate, scrape, and extract from the web \u2014 for AI agents and humans. Cloud or local browser, one command.",
+  "tagline": "CLI + SDK to automate, scrape, and extract from the web — for AI agents and humans. Cloud or local browser, one command.",
   "category": "web-dev",
   "tags": [
     "ai-agent",
@@ -28,7 +28,7 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 21,
+    "stars": 23,
     "downloads_30d": null,
     "last_commit_at": "2026-02-19T10:18:33Z",
     "first_commit_at": "2026-02-10T20:32:32Z",
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3079,
-  "rank_in_category": 280,
+  "composite_score": 0.359,
+  "rank_in_category": 252,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T14:36:49.106277Z",
-  "last_refreshed_at": "2026-06-07T14:59:11.925272Z",
+  "last_refreshed_at": "2026-06-08T17:00:04.877447Z",
   "consecutive_refresh_failures": 0
 }

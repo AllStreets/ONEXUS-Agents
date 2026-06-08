@@ -1,7 +1,7 @@
 {
   "slug": "weave",
   "name": "Weave",
-  "tagline": "A highly efficient, secure, and stable application development platform with excellent performance, easy scalability, and deep integration of AI capabilities such as LLM, AI Chat, RAG, and Agents.\u9ad8\u6548\u3001\u5b89",
+  "tagline": "A highly efficient, secure, and stable application development platform with excellent performance, easy scalability, and deep integration of AI capabilities such as LLM, AI Chat, RAG, and Agents.高效、安",
   "category": "search-rag",
   "tags": [
     "agent",
@@ -28,10 +28,10 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 349,
+    "stars": 351,
     "downloads_30d": null,
     "last_commit_at": "2026-05-15T17:43:53Z",
-    "first_commit_at": "2025-09-29T15:29:48Z",
+    "first_commit_at": "2025-03-10T15:57:54Z",
     "forks": 27,
     "watchers": 4,
     "open_issues": 3,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4904,
-  "rank_in_category": 92,
+  "composite_score": 0.553,
+  "rank_in_category": 65,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:34:22.309599Z",
-  "last_refreshed_at": "2026-06-07T10:14:52.788251Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T17:44:25.942380Z",
+  "consecutive_refresh_failures": 0
 }

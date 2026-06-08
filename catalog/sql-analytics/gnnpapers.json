@@ -1,0 +1,52 @@
+{
+  "slug": "gnnpapers",
+  "name": "GNNPapers",
+  "tagline": "Must-read papers on graph neural networks (GNN)",
+  "category": "sql-analytics",
+  "tags": [
+    "gnn",
+    "paper-list"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "thunlp",
+    "url": "https://github.com/thunlp"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thunlp/GNNPapers",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 16787,
+    "downloads_30d": null,
+    "last_commit_at": "2023-12-20T03:33:14Z",
+    "first_commit_at": "2018-12-24T02:26:31Z",
+    "forks": 3010,
+    "watchers": 594,
+    "open_issues": 15,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4112,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:42.921007Z",
+  "last_refreshed_at": "2026-06-08T18:42:42.921010Z",
+  "consecutive_refresh_failures": 0
+}

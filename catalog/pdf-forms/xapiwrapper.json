@@ -1,0 +1,51 @@
+{
+  "slug": "xapiwrapper",
+  "name": "xAPIWrapper",
+  "tagline": "Wrapper to simplify communication to an LRS",
+  "category": "pdf-forms",
+  "tags": [
+    "xapi"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "adlnet",
+    "url": "https://github.com/adlnet"
+  },
+  "source": {
+    "primary": "github",
+    "github": "adlnet/xAPIWrapper",
+    "huggingface": null,
+    "homepage": "https://adlnet.gov/projects/xapi/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 223,
+    "downloads_30d": null,
+    "last_commit_at": "2022-12-04T01:00:35Z",
+    "first_commit_at": "2013-09-05T11:42:39Z",
+    "forks": 119,
+    "watchers": 47,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4543,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:41:06.020424Z",
+  "last_refreshed_at": "2026-06-08T18:41:06.020427Z",
+  "consecutive_refresh_failures": 0
+}

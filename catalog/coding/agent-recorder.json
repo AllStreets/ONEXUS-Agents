@@ -1,7 +1,7 @@
 {
   "slug": "agent-recorder",
   "name": "agent-recorder",
-  "tagline": "\ud83d\udcca Convert agent framework logs into a standard trajectory format for easy analysis and integration within data pipelines.",
+  "tagline": "📊 Convert agent framework logs into a standard trajectory format for easy analysis and integration within data pipelines.",
   "category": "coding",
   "tags": [
     "agent-recorder",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 1,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-07T13:06:10Z",
+    "last_commit_at": "2026-06-08T13:15:48Z",
     "first_commit_at": "2026-02-08T05:34:24Z",
     "forks": 0,
     "watchers": 1,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.2281,
-  "rank_in_category": 540,
+  "composite_score": 0.278,
+  "rank_in_category": 477,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-07T14:52:41.082430Z",
-  "last_refreshed_at": "2026-06-07T14:52:41.082433Z",
+  "last_refreshed_at": "2026-06-08T16:50:11.091826Z",
   "consecutive_refresh_failures": 0
 }

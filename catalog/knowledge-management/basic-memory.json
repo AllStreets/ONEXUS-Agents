@@ -28,16 +28,16 @@
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 3149,
+    "stars": 3167,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-05T04:41:44Z",
+    "last_commit_at": "2026-06-08T18:00:49Z",
     "first_commit_at": "2024-12-02T22:40:43Z",
-    "forks": null,
-    "watchers": null,
-    "open_issues": null,
-    "archived": null,
-    "is_fork": null,
-    "is_template": null,
+    "forks": 210,
+    "watchers": 16,
+    "open_issues": 72,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
@@ -46,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5646,
-  "rank_in_category": 40,
+  "composite_score": 0.7321,
+  "rank_in_category": 8,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T16:02:20.812579Z",
-  "last_refreshed_at": "2026-06-07T18:47:57.426386Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-08T18:39:11.774496Z",
+  "consecutive_refresh_failures": 0
 }

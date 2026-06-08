@@ -4,16 +4,16 @@
   "tagline": "Claude Code plugin for Elixir/Phoenix/LiveView — 20 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic verifica",
   "category": "coding",
   "tags": [
+    "ai-agents",
+    "ai-coding-assistant",
     "automation",
     "claude",
     "claude-code",
     "claude-code-plugin",
     "claude-code-skills",
     "claude-skills",
-    "elixir",
-    "elixir-lang",
-    "elixir-phoenix",
-    "phoenix"
+    "code-review",
+    "developer-tools"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 422,
+    "stars": 423,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-05T10:25:16Z",
+    "last_commit_at": "2026-06-08T13:14:55Z",
     "first_commit_at": "2026-02-13T16:56:44Z",
     "forks": 25,
     "watchers": 12,
-    "open_issues": 19,
+    "open_issues": 17,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3229,
-  "rank_in_category": 312,
+  "composite_score": 0.325,
+  "rank_in_category": 335,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:58:03.334522Z",
-  "last_refreshed_at": "2026-06-07T15:12:54.821594Z",
+  "last_refreshed_at": "2026-06-08T16:50:29.041423Z",
   "consecutive_refresh_failures": 0
 }

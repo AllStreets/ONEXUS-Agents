@@ -1,9 +1,11 @@
 {
   "slug": "cognee",
   "name": "cognee",
-  "tagline": "Memory platform for AI Agents in 6 lines of code",
+  "tagline": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
   "category": "knowledge-management",
   "tags": [
+    "agent-memory",
+    "agent-skills",
     "ai",
     "ai-agents",
     "ai-memory",
@@ -11,9 +13,7 @@
     "cognitive-memory",
     "context-engineering",
     "contributions-welcome",
-    "good-first-issue",
-    "good-first-pr",
-    "graph-database"
+    "good-first-issue"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 17712,
+    "stars": 17726,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-07T13:46:31Z",
+    "last_commit_at": "2026-06-08T16:49:00Z",
     "first_commit_at": "2023-08-16T16:16:33Z",
-    "forks": 1875,
+    "forks": 1877,
     "watchers": 73,
-    "open_issues": 63,
+    "open_issues": 65,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.7241,
-  "rank_in_category": 3,
+  "composite_score": 0.7242,
+  "rank_in_category": 9,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:00:22.133308Z",
-  "last_refreshed_at": "2026-06-07T15:16:04.752813Z",
+  "last_refreshed_at": "2026-06-08T17:24:34.845351Z",
   "consecutive_refresh_failures": 0
 }

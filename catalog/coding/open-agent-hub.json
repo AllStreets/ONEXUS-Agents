@@ -1,0 +1,60 @@
+{
+  "slug": "open-agent-hub",
+  "name": "open-agent-hub",
+  "tagline": "A lightweight, zero-dependency CLI tool to manage and activate capabilities for AI coding assistants (such as Claude Code, Cursor, Trae, etc.).",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "ai-agents",
+    "ai-skills",
+    "anthropic-skills",
+    "antigravity",
+    "antigravity-ai",
+    "antigravity-ide",
+    "claude-code",
+    "claude-code-plugin",
+    "context-engineering"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "guanyang",
+    "url": "https://github.com/guanyang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "guanyang/open-agent-hub",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 873,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T10:46:53Z",
+    "first_commit_at": "2026-01-13T06:05:00Z",
+    "forks": 161,
+    "watchers": 8,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3396,
+  "rank_in_category": 289,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T16:54:56.947860Z",
+  "last_refreshed_at": "2026-06-08T16:54:56.947863Z",
+  "consecutive_refresh_failures": 0
+}

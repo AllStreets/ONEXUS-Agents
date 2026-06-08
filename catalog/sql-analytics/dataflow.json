@@ -1,0 +1,60 @@
+{
+  "slug": "dataflow",
+  "name": "DataFlow",
+  "tagline": "Easy Data Preparation with latest LLMs-based Operators and Pipelines.",
+  "category": "sql-analytics",
+  "tags": [
+    "data",
+    "data-agent",
+    "data-cleaning",
+    "data-pipelines",
+    "data-processing",
+    "data-science",
+    "data-synthesis",
+    "gradio-interface",
+    "llms",
+    "operators"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OpenDCAI",
+    "url": "https://github.com/OpenDCAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OpenDCAI/DataFlow",
+    "huggingface": null,
+    "homepage": "https://opendcai.github.io/DataFlow-Doc/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4653,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-22T03:49:14Z",
+    "first_commit_at": "2024-10-13T14:45:45Z",
+    "forks": 515,
+    "watchers": 182,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4817,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:45.788807Z",
+  "last_refreshed_at": "2026-06-08T18:42:45.788810Z",
+  "consecutive_refresh_failures": 0
+}

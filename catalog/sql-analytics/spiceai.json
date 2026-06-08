@@ -1,0 +1,59 @@
+{
+  "slug": "spiceai",
+  "name": "spiceai",
+  "tagline": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+  "category": "sql-analytics",
+  "tags": [
+    "artificial-intelligence",
+    "data",
+    "data-federation",
+    "developers",
+    "full-text-search",
+    "infrastructure",
+    "llm-inference",
+    "machine-learning",
+    "sql"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "spiceai",
+    "url": "https://github.com/spiceai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "spiceai/spiceai",
+    "huggingface": null,
+    "homepage": "https://docs.spiceai.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2951,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T18:33:50Z",
+    "first_commit_at": "2021-08-08T23:26:13Z",
+    "forks": 199,
+    "watchers": 26,
+    "open_issues": 381,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4919,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:42:50.342735Z",
+  "last_refreshed_at": "2026-06-08T18:42:50.342737Z",
+  "consecutive_refresh_failures": 0
+}

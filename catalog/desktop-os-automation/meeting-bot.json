@@ -1,0 +1,53 @@
+{
+  "slug": "meeting-bot",
+  "name": "meeting-bot",
+  "tagline": "Universal meeting  bot to record Google Meet, Zoom, and Microsoft Teams — with a single API. Runs in production. Free to use, extend, and scale.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "meeting-api",
+    "meeting-recorder",
+    "universal-meeting-bot-api"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "screenappai",
+    "url": "https://github.com/screenappai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "screenappai/meeting-bot",
+    "huggingface": null,
+    "homepage": "https://screenapp.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 139,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-22T04:30:30Z",
+    "first_commit_at": "2025-06-30T11:11:17Z",
+    "forks": 53,
+    "watchers": 5,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3688,
+  "rank_in_category": 90,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:01.428203Z",
+  "last_refreshed_at": "2026-06-08T18:04:08.834003Z",
+  "consecutive_refresh_failures": 0
+}
