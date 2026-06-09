@@ -46,9 +46,8 @@ ONEXUS itself is a closed-loop runtime: **Cortex** routes intent, **Engram** rem
 
 ```mermaid
 flowchart LR
-  classDef step fill:#0c1218,stroke:#00d4ff,stroke-width:1px,color:#e6e9ee
-  classDef cron fill:#07090c,stroke:#6b7382,stroke-width:1px,color:#9aa3b1,font-size:11px
-  classDef out  fill:#001e26,stroke:#00d4ff,stroke-width:1px,color:#00d4ff
+  classDef step fill:#0c1218,stroke:#00d4ff,stroke-width:1.5px,color:#e6e9ee
+  classDef out  fill:#001e26,stroke:#00d4ff,stroke-width:1.5px,color:#00d4ff
 
   subgraph N["nightly · 13:00 UTC daily"]
     direction TB
@@ -71,6 +70,9 @@ flowchart LR
   W3 --> PR
   PR --> V([vercel rebuild]):::out
   V --> SITE[/onexus-agents.vercel.app/]:::out
+
+  style N fill:#374151,stroke:#4b5563,color:#d1d5db
+  style W fill:#374151,stroke:#4b5563,color:#d1d5db
 ```
 
 Every agent in the catalog is a single JSON file under `catalog/<category>/<agent-slug>.json`. **No database.** The git history *is* the audit log.
