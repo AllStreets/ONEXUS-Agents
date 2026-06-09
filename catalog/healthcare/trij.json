@@ -1,19 +1,19 @@
 {
   "slug": "trij",
   "name": "trij",
-  "tagline": "Free, offline-first AI medical triage for community health workers. On-device wound, rash, and document assessment powered by Google DeepMind Gemma 4. No internet needed — patient data never leaves th",
+  "tagline": "On-device AI medical triage for community health workers — offline-first PWA with Gemma 4, QR sharing, async telemedicine, AI explainability, 200+ tests",
   "category": "healthcare",
   "tags": [
-    "ai-for-good",
     "ai-healthcare",
+    "bias-audit",
     "community-health",
+    "dermatology-ai",
+    "dexie",
+    "fitzpatrick",
     "gemma",
     "gemma-4",
     "global-health",
-    "hackathon",
-    "health-tech",
-    "healthcare",
-    "medical-triage"
+    "health-equity"
   ],
   "author": {
     "type": "user",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 3,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-04T14:31:01Z",
+    "last_commit_at": "2026-06-09T16:32:43Z",
     "first_commit_at": "2025-01-01T00:00:00Z",
     "forks": 0,
     "watchers": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3861,
-  "rank_in_category": 66,
+  "composite_score": 0.3925,
+  "rank_in_category": 60,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-30T21:14:18.855347Z",
-  "last_refreshed_at": "2026-06-08T18:25:45.677752Z",
+  "last_refreshed_at": "2026-06-09T17:30:18.808612Z",
   "consecutive_refresh_failures": 0
 }

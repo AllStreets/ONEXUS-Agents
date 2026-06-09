@@ -3,7 +3,10 @@
   "name": "terraform-azurerm-avm-ptn-cicd-agents-and-runners",
   "tagline": "Terraform Azure Verified Pattern Module for CI CD Agents and Runners",
   "category": "devops-sre",
-  "tags": [],
+  "tags": [
+    "avm",
+    "azure-verified-modules"
+  ],
   "author": {
     "type": "org",
     "handle": "Azure",
@@ -19,11 +22,11 @@
   "metrics": {
     "stars": 40,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-18T09:00:13Z",
+    "last_commit_at": "2026-06-09T13:46:12Z",
     "first_commit_at": "2024-03-16T11:45:22Z",
     "forks": 23,
     "watchers": 6,
-    "open_issues": 34,
+    "open_issues": 60,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +43,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4594,
-  "rank_in_category": 81,
+  "composite_score": 0.4895,
+  "rank_in_category": 64,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:15:43.412028Z",
-  "last_refreshed_at": "2026-06-08T18:07:50.762202Z",
+  "last_refreshed_at": "2026-06-09T17:16:43.007375Z",
   "consecutive_refresh_failures": 0
 }

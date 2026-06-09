@@ -1,0 +1,60 @@
+{
+  "slug": "fallow",
+  "name": "fallow",
+  "tagline": "Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path rev",
+  "category": "coding",
+  "tags": [
+    "cli",
+    "code-duplication",
+    "code-quality",
+    "codebase-intelligence",
+    "copy-paste-detection",
+    "dead-code",
+    "developer-tools",
+    "duplicate-code",
+    "javascript",
+    "linter"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "fallow-rs",
+    "url": "https://github.com/fallow-rs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fallow-rs/fallow",
+    "huggingface": null,
+    "homepage": "https://docs.fallow.tools/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3402,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-09T15:53:35Z",
+    "first_commit_at": "2026-03-17T00:18:10Z",
+    "forks": 106,
+    "watchers": 4,
+    "open_issues": 10,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3486,
+  "rank_in_category": 265,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-09T17:18:52.275930Z",
+  "last_refreshed_at": "2026-06-09T17:18:52.275934Z",
+  "consecutive_refresh_failures": 0
+}

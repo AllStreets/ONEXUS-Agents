@@ -1,0 +1,63 @@
+{
+  "slug": "comfy-cozy",
+  "name": "Comfy-Cozy",
+  "tagline": "AI co-pilot for ComfyUI. Talk to your workflow — load, patch, run, learn. 113 MCP tools, four LLM providers (Claude, GPT-4o, Gemini, Ollama), full undo, native sidebar.",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "anthropic",
+    "claude",
+    "cognitive-architecture",
+    "comfyui",
+    "comfyui-extension",
+    "copilot",
+    "flux",
+    "gemini",
+    "generative-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JosephOIbrahim",
+    "url": "https://github.com/JosephOIbrahim"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JosephOIbrahim/Comfy-Cozy",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 18,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T23:41:38Z",
+    "first_commit_at": "2026-02-10T15:54:51Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3236,
+  "rank_in_category": 339,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:04:55.242451Z",
+  "last_refreshed_at": "2026-06-09T16:43:53.335664Z",
+  "consecutive_refresh_failures": 0
+}

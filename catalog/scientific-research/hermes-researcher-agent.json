@@ -1,7 +1,7 @@
 {
   "slug": "hermes-researcher-agent",
   "name": "hermes-researcher-agent",
-  "tagline": "Privacy-safe Hermes researcher agent for public-source research, evidence grading, and decision-ready briefs",
+  "tagline": "Privacy-safe Hermes researcher agent for public-source research, document ingestion, evidence grading, and decision-ready briefs",
   "category": "scientific-research",
   "tags": [
     "ai-agent",
@@ -27,9 +27,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 31,
+    "stars": 32,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-07T06:25:27Z",
+    "last_commit_at": "2026-06-08T18:55:17Z",
     "first_commit_at": "2026-06-01T08:00:40Z",
     "forks": 5,
     "watchers": 1,
@@ -50,10 +50,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4618,
-  "rank_in_category": 164,
+  "composite_score": 0.4634,
+  "rank_in_category": 170,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-03T18:23:41.633136Z",
-  "last_refreshed_at": "2026-06-08T18:13:35.269236Z",
+  "last_refreshed_at": "2026-06-09T17:21:26.855119Z",
   "consecutive_refresh_failures": 0
 }

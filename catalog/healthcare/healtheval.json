@@ -1,0 +1,57 @@
+{
+  "slug": "healtheval",
+  "name": "Healtheval",
+  "tagline": "Open-source evaluation framework for healthcare AI applications.",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "evaluation-framework",
+    "healthcare-ai",
+    "healthtech",
+    "llm-evaluation",
+    "patient-safety",
+    "streamlit"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "VersionOne-Health",
+    "url": "https://github.com/VersionOne-Health"
+  },
+  "source": {
+    "primary": "github",
+    "github": "VersionOne-Health/Healtheval",
+    "huggingface": null,
+    "homepage": "https://healtheval-versionone.streamlit.app/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T04:29:50Z",
+    "first_commit_at": "2026-06-08T02:50:11Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3245,
+  "rank_in_category": 107,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-09T17:29:15.475023Z",
+  "last_refreshed_at": "2026-06-09T17:29:15.475027Z",
+  "consecutive_refresh_failures": 0
+}

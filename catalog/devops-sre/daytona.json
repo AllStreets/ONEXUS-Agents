@@ -1,0 +1,58 @@
+{
+  "slug": "daytona",
+  "name": "daytona",
+  "tagline": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+  "category": "devops-sre",
+  "tags": [
+    "agentic-workflow",
+    "ai",
+    "ai-agents",
+    "ai-runtime",
+    "ai-sandboxes",
+    "code-execution",
+    "code-interpreter",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "daytonaio",
+    "url": "https://github.com/daytonaio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "daytonaio/daytona",
+    "huggingface": null,
+    "homepage": "https://daytona.io/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 72445,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-09T15:51:52Z",
+    "first_commit_at": "2024-03-06T13:19:27Z",
+    "forks": 5613,
+    "watchers": 122,
+    "open_issues": 436,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6989,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:46:52.381818Z",
+  "last_refreshed_at": "2026-06-09T15:58:20.904463Z",
+  "consecutive_refresh_failures": 0
+}
