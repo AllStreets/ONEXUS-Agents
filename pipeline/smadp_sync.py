@@ -4,37 +4,31 @@ SMADP-shaped safety-profile seeds.
 SMADP maintains `catalog/profiles/_unverified/*.json` — auto-generated
 seeds awaiting evidence-cited safety analysis. This script reads the
 ONEXUS-Agents catalog, filters to high-signal candidates, and emits
-SMADP profile JSON ready to drop into SMADP's _unverified/ dir.
+profile JSON matching SMADP's existing _unverified schema with the
+safety-evaluation fields left empty (so SMADP's analysis pipeline
+knows what to fill in).
 
-What's a high-signal candidate?
-  - runnable=true (MCP adapter exists, so SMADP can actually run it)
-  - OR composite_score >= threshold (the agent is at least credible)
-  - AND not archived
+Schema match: this script targets SMADP's actual seed shape (slug, name,
+tagline, category, capabilities, io_surfaces, concurrency_model,
+data_classes_touched, evidence_refs, pairings, permissions_requested,
+sandboxing, verification, schema_version). Safety-classification fields
+default to empty objects/arrays — that's how SMADP's loader recognises
+"needs analysis."
 
-Mapping:
-  ONEXUS-Agents field     → SMADP profile field
-  ---------------------------------------------
-  slug                    → profile_id
-  name                    → display_name
-  tagline                 → summary
-  source.github           → source_url
-  license                 → license
-  metrics.frameworks      → frameworks
-  metrics.last_commit_at  → last_active
-  runnable + adapter_ref  → runtime.mcp_adapter
-  category                → primary_category
+What we DO fill in (from catalog metadata, low judgment-call):
+  slug, name, tagline, category, homepage (source URL), source_type,
+  first_seen_at, last_refreshed_at, vendor, schema_version
 
-Fields SMADP needs that ONEXUS-Agents doesn't track (capabilities,
-network egress, OAuth scopes, sandboxing model) get null defaults —
-they're what the human / sandbox reviewer fills in during safety
-analysis. The seed exists so the catalog is queued, not pre-judged.
+What we leave for SMADP's analysis pipeline (high judgment-call):
+  capabilities, io_surfaces, concurrency_model, data_classes_touched,
+  evidence_refs, pairings, permissions_requested, sandboxing
 
 Run via:
 
-    uv run python -m pipeline.smadp_sync \\
+    onexus-agents-smadp-sync \\
         --catalog /path/to/ONEXUS-Agents \\
         --out /path/to/SMADP/catalog/profiles/_unverified \\
-        [--min-score 0.30] [--runnable-only]
+        [--min-score 0.30] [--runnable-only] [--skip-existing] [--dry-run]
 """
 
 from __future__ import annotations
@@ -46,58 +40,87 @@ from pathlib import Path
 
 from pipeline.client import OnexusAgentsClient
 
+SCHEMA_VERSION = "1.0"
+
+
+def _source_type(agent) -> str:
+    """SMADP distinguishes between open-source repos and SaaS products.
+    The catalog only tracks open-source by definition — every entry has
+    a github or huggingface source — so source_type is always 'open_source'."""
+    return "open_source"
+
+
+def _homepage(agent) -> str | None:
+    """Best public URL: homepage field if set, else github repo, else HF model page."""
+    if agent.source.homepage:
+        return str(agent.source.homepage)
+    if agent.source.github:
+        return f"https://github.com/{agent.source.github}"
+    if agent.source.huggingface:
+        return f"https://huggingface.co/{agent.source.huggingface}"
+    return None
+
 
 def to_smadp_profile(agent) -> dict:
-    """Convert one Agent to a SMADP _unverified seed profile."""
+    """Convert one Agent to a SMADP _unverified seed profile.
+
+    All structural fields SMADP expects are present so its loader
+    doesn't choke. Safety-classification fields are empty by design.
+    The `verification` block carries provenance back to the catalog so
+    the human reviewer can trace + audit the source.
+    """
+    now = datetime.now(UTC).isoformat()
     return {
-        "profile_id": agent.slug,
-        "display_name": agent.name,
-        "summary": agent.tagline,
-        "primary_category": agent.category,
-        "source_url": (
-            f"https://github.com/{agent.source.github}"
-            if agent.source.github
-            else (
-                f"https://huggingface.co/{agent.source.huggingface}"
-                if agent.source.huggingface
-                else None
-            )
+        "schema_version": SCHEMA_VERSION,
+        "slug": agent.slug,
+        "name": agent.name,
+        "tagline": agent.tagline,
+        "category": agent.category,
+        "vendor": agent.author.handle,
+        "homepage": _homepage(agent),
+        "source_type": _source_type(agent),
+        "first_seen_at": (
+            agent.first_seen_at.isoformat() if agent.first_seen_at else now
         ),
-        "license": agent.license,
-        "frameworks": agent.metrics.frameworks or [],
-        "last_active": (
-            agent.metrics.last_commit_at.isoformat()
-            if agent.metrics.last_commit_at
-            else None
+        "last_refreshed_at": (
+            agent.last_refreshed_at.isoformat() if agent.last_refreshed_at else now
         ),
-        "runtime": {
-            "runnable_via_mcp": bool(agent.runnable),
-            "mcp_adapter": agent.adapter_ref,
-        },
-        # Stuff SMADP fills in during safety analysis — null on import.
-        "capabilities": None,
-        "io_surfaces": None,
-        "network_egress": None,
-        "oauth_scopes": None,
-        "sandboxing": None,
-        # Provenance — every seed remembers where it came from.
-        "_sourced_from": {
-            "system": "ONEXUS-Agents",
+        # Safety-classification fields. SMADP's analysis pipeline fills these.
+        # Empty containers (not null) so SMADP's loader knows "structurally valid,
+        # just unevaluated."
+        "capabilities": {},
+        "io_surfaces": {},
+        "concurrency_model": {},
+        "data_classes_touched": [],
+        "evidence_refs": [],
+        "pairings": [],
+        "permissions_requested": {},
+        "sandboxing": {},
+        # Verification block — provenance + status.
+        "verification": {
+            "evidence_level": "pending",
+            "sourced_from": "ONEXUS-Agents",
+            "source_catalog_url": (
+                f"https://onexus-agents.vercel.app/catalog/{agent.category}/{agent.slug}"
+            ),
             "composite_score": agent.composite_score,
             "rank_in_category": agent.rank_in_category,
             "discovered_via": agent.discovered_via,
-            "synced_at": datetime.now(UTC).isoformat(),
+            "runnable_via_mcp": bool(agent.runnable),
+            "mcp_adapter": agent.adapter_ref,
+            "frameworks_detected": agent.metrics.frameworks or [],
+            "license": agent.license,
+            "synced_at": now,
         },
-        "evidence_level": "docs-only",  # default until SMADP upgrades it
     }
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Sync catalog to SMADP seeds.")
+    parser = argparse.ArgumentParser(description="Sync catalog to SMADP _unverified seeds.")
     parser.add_argument(
         "--catalog",
         required=True,
-        help="Path to ONEXUS-Agents clone (the local mode is faster + avoids rate limits).",
+        help="Path to ONEXUS-Agents clone (local mode is faster + avoids rate limits).",
     )
     parser.add_argument(
         "--out",
@@ -114,6 +137,11 @@ def main() -> None:
         "--runnable-only",
         action="store_true",
         help="Only emit seeds for runnable=true agents.",
+    )
+    parser.add_argument(
+        "--skip-existing",
+        action="store_true",
+        help="Don't overwrite seeds that already exist (default: overwrite to refresh provenance).",
     )
     parser.add_argument(
         "--dry-run",
@@ -135,13 +163,16 @@ def main() -> None:
             if a.runnable or a.composite_score >= args.min_score
         ]
 
-    written = skipped = 0
+    written = skipped_archived = skipped_existing = 0
     for a in agents:
-        if (a.metrics.archived or False):
-            skipped += 1
+        if a.metrics.archived or False:
+            skipped_archived += 1
+            continue
+        target = out_dir / f"{a.slug}.json"
+        if args.skip_existing and target.exists():
+            skipped_existing += 1
             continue
         profile = to_smadp_profile(a)
-        target = out_dir / f"{a.slug}.json"
         if args.dry_run:
             written += 1
             continue
@@ -149,7 +180,10 @@ def main() -> None:
         written += 1
 
     verb = "would write" if args.dry_run else "wrote"
-    print(f"{verb} {written} seeds · skipped {skipped} archived")
+    print(
+        f"{verb} {written} seeds · skipped {skipped_archived} archived"
+        + (f" · skipped {skipped_existing} existing" if args.skip_existing else "")
+    )
 
 
 if __name__ == "__main__":
