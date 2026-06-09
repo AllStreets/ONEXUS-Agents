@@ -18,8 +18,8 @@ Open Terminal on the new Mac and run:
 xcode-select --install || true
 
 # 2. Clone the repo
-git clone https://github.com/AllStreets/ONEXUS-Agents.git ~/Downloads/ONEXUS-Agents
-cd ~/Downloads/ONEXUS-Agents
+git clone https://github.com/AllStreets/ONEXUS-Agents.git ~/Downloads/Integration/ONEXUS-Agents
+cd ~/Downloads/Integration/ONEXUS-Agents
 
 # 3. Bootstrap (installs Homebrew, python@3.12, node, pnpm, gh,
 #    plus pipeline + site deps, then runs a validator smoke check).
@@ -111,7 +111,7 @@ this into the first message so Claude has context:
 After everything is set up:
 
 ```bash
-cd ~/Downloads/ONEXUS-Agents
+cd ~/Downloads/Integration/ONEXUS-Agents
 source .venv/bin/activate
 onexus-agents-validate              # full catalog passes schema
 cd site && pnpm dev                 # site comes up at http://localhost:4321

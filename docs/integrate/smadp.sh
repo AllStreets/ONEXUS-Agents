@@ -6,15 +6,15 @@
 # catalog/profiles/_unverified/.
 #
 # Reads:
-#   SMADP_REPO              (default: ~/Downloads/SMADP)
-#   ONEXUS_AGENTS_REPO      (default: ~/Downloads/ONEXUS-Agents)
+#   SMADP_REPO              (default: ~/Downloads/Integration/SMADP)
+#   ONEXUS_AGENTS_REPO      (default: ~/Downloads/Integration/ONEXUS-Agents)
 #
 # Idempotent. Pure additive operations only.
 
 set -euo pipefail
 
-SMADP_REPO="${SMADP_REPO:-$HOME/Downloads/SMADP}"
-ONEXUS_AGENTS_REPO="${ONEXUS_AGENTS_REPO:-$HOME/Downloads/ONEXUS-Agents}"
+SMADP_REPO="${SMADP_REPO:-$HOME/Downloads/Integration/SMADP}"
+ONEXUS_AGENTS_REPO="${ONEXUS_AGENTS_REPO:-$HOME/Downloads/Integration/ONEXUS-Agents}"
 
 GRAY="\033[90m"
 CYAN="\033[36m"

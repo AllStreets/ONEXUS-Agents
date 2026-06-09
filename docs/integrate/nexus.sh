@@ -7,11 +7,11 @@
 # it into the live file (which you may be actively editing).
 #
 # Reads:
-#   NEXUS_REPO              (default: ~/Downloads/NEXUS)
+#   NEXUS_REPO              (default: ~/Downloads/Integration/NEXUS)
 
 set -euo pipefail
 
-NEXUS_REPO="${NEXUS_REPO:-$HOME/Downloads/NEXUS}"
+NEXUS_REPO="${NEXUS_REPO:-$HOME/Downloads/Integration/NEXUS}"
 
 GRAY="\033[90m"
 CYAN="\033[36m"
