@@ -1,0 +1,24 @@
+# ONEXUS-Agents — open catalog of AI agents.
+# Crawl as aggressively as is polite; we're the source of record.
+# Agent metadata + scoring are Apache-2.0; see /data and /methodology.
+
+User-agent: *
+Allow: /
+
+# AI search crawlers welcome — the catalog is meant to be indexed.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://onexus-agents.vercel.app/sitemap-index.xml
