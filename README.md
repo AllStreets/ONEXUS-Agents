@@ -350,7 +350,7 @@ The system runs unattended end-to-end.
 
 ## License
 
-**Apache-2.0.** Copyright 2026 AllStreets.
+**Apache-2.0.** Copyright 2026 Connor Evans.
 
 Agent metadata and rankings are publicly redistributable. Each catalogued agent retains its own upstream license — see the `license` field on every catalog entry. The catalog as a whole is free for commercial and non-commercial use under the Apache 2.0 terms, including the patent grant.
 
