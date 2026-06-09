@@ -18,6 +18,8 @@ import httpx
 from rich.console import Console
 from rich.progress import Progress
 
+import pipeline.benchmarks  # noqa: F401 — registers scrapers via subclass hook
+from pipeline.benchmarks.registry import all_scrapers
 from pipeline.budget import from_env as budget_from_env
 from pipeline.budget import set_budget
 from pipeline.build import (
@@ -32,7 +34,7 @@ from pipeline.crawlers import huggingface as hf
 from pipeline.paths import CATALOG_DIR, DROPPED_DIR
 from pipeline.ranking import rank_category
 from pipeline.report import write_report
-from pipeline.schema import Agent, Category, CategoryIndex
+from pipeline.schema import Agent, Benchmark, Category, CategoryIndex
 from pipeline.store import (
     iter_catalog_files,
     load_agent_file,
@@ -404,6 +406,50 @@ def _write_and_truncate(
     return dropped
 
 
+def _enrich_benchmarks(
+    client: httpx.Client, by_cat: dict[str, list[Agent]]
+) -> None:
+    """Run every registered scraper once and apply scores in place.
+
+    A scraper that throws is logged + skipped — partial enrichment is OK.
+    Existing hand-curated benchmark entries are never demoted: the scraper
+    adds a new Benchmark entry alongside any present hand-curated ones.
+    """
+    scrapers = all_scrapers()
+    if not scrapers:
+        return
+    for scraper_cls in scrapers:
+        scraper = scraper_cls()
+        try:
+            data = scraper.fetch(client)
+        except Exception as e:  # noqa: BLE001
+            console.print(f"[yellow]benchmark scraper {scraper.name} failed: {e}")
+            continue
+        if not data:
+            continue
+        applied = 0
+        for agents in by_cat.values():
+            for agent in agents:
+                key = agent.source.github or agent.source.huggingface
+                if not key or key not in data:
+                    continue
+                entry = data[key]
+                # Replace any existing benchmark of the same name; keep others
+                agent.benchmarks = [
+                    b for b in agent.benchmarks if b.name.lower() != scraper.name.lower()
+                ] + [
+                    Benchmark(
+                        name=scraper.name,
+                        score=entry.score,
+                        as_of=entry.as_of,
+                        source_url=entry.source_url,
+                    )
+                ]
+                applied += 1
+        if applied:
+            console.print(f"[dim]benchmark · {scraper.name} applied to {applied} agents")
+
+
 def _record_drops(dropped: dict[str, list[str]]) -> Path | None:
     if not any(dropped.values()):
         return None
@@ -476,6 +522,12 @@ def main(
                 f"[yellow]stale cleanup · dropped {len(stale_dropped)} entries "
                 f"after {STALE_CLEANUP_THRESHOLD_DAYS} consecutive refresh failures"
             )
+
+        # Benchmark enrichment: every registered scraper fetches once, then
+        # we walk by_cat and apply scores wherever a scraper matched. Pure
+        # in-memory edit on Agent objects before ranking, so scores feed
+        # into composite_score on the same run.
+        _enrich_benchmarks(client, by_cat)
 
         t3 = progress.add_task("score + write", total=1)
         dropped = _write_and_truncate(by_cat, cats, dry_run=dry_run)
