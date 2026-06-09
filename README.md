@@ -44,36 +44,7 @@ ONEXUS itself is a closed-loop runtime: **Cortex** routes intent, **Engram** rem
 
 ## How it runs
 
-```mermaid
-flowchart LR
-  classDef step fill:#0c1218,stroke:#00d4ff,stroke-width:1.5px,color:#e6e9ee
-  classDef out  fill:#001e26,stroke:#00d4ff,stroke-width:1.5px,color:#00d4ff
-
-  subgraph N["nightly · 13:00 UTC daily"]
-    direction TB
-    N1[refresh seeds]:::step --> N2[discover<br/>GitHub + HF]:::step
-    N2 --> N3{keyword<br/>classify}:::step
-    N3 -->|confident| N5[score composite]:::step
-    N3 -->|ambiguous| N4[gpt-5.4-mini]:::step
-    N4 --> N5
-    N5 --> N6[per-category cap]:::step
-    N6 --> N7[daily report]:::step
-  end
-
-  subgraph W["weekly · 17:00 UTC sundays"]
-    direction TB
-    W1[rescan every entry<br/>for MCP signals]:::step --> W2[enrich 500 stalest<br/>with Tier 2 metrics]:::step
-    W2 --> W3[framework detection<br/>via README]:::step
-  end
-
-  N7 --> PR((auto-merge PR)):::out
-  W3 --> PR
-  PR --> V([vercel rebuild]):::out
-  V --> SITE[/onexus-agents.vercel.app/]:::out
-
-  style N fill:#374151,stroke:#4b5563,color:#d1d5db
-  style W fill:#374151,stroke:#4b5563,color:#d1d5db
-```
+<img src=".github/assets/how-it-runs-dark.svg" alt="ONEXUS pipeline — nightly discovery + weekly rescan feed an auto-merge PR, Vercel rebuilds, the catalog ships at onexus-agents.vercel.app" width="100%"/>
 
 Every agent in the catalog is a single JSON file under `catalog/<category>/<agent-slug>.json`. **No database.** The git history *is* the audit log.
 

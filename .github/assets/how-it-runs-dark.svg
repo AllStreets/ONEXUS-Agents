@@ -1,0 +1,266 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 540" width="1280" height="540" role="img" aria-label="How ONEXUS Agents runs — nightly discovery and weekly rescan feed an auto-merge PR, Vercel rebuilds, the catalog ships.">
+  <defs>
+    <pattern id="grid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="16" cy="16" r="0.9" fill="#0f1822"/>
+    </pattern>
+
+    <linearGradient id="cyan" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7df9ff"/>
+      <stop offset="55%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#0098b8"/>
+    </linearGradient>
+
+    <linearGradient id="stripe" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00d4ff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="panel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0c1218" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#070b0f" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <linearGradient id="card" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#121a23"/>
+      <stop offset="100%" stop-color="#0a1118"/>
+    </linearGradient>
+
+    <linearGradient id="cardEdge" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2a3947"/>
+      <stop offset="100%" stop-color="#15202b"/>
+    </linearGradient>
+
+    <linearGradient id="diamondFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#022430"/>
+      <stop offset="100%" stop-color="#001620"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" in="SourceAlpha"/>
+      <feOffset dx="0" dy="2"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.45"/></feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#3a4654"/>
+    </marker>
+
+    <marker id="arrowCyan" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#00d4ff"/>
+    </marker>
+
+    <marker id="arrowConverge" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#00d4ff" fill-opacity="0.85"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="540" fill="#07090c"/>
+  <rect width="1280" height="540" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1280" height="1.5" fill="url(#stripe)"/>
+  <rect x="0" y="538.5" width="1280" height="1.5" fill="url(#stripe)"/>
+
+  <!-- Eyebrow -->
+  <g transform="translate(60, 42)">
+    <rect x="0" y="-13" width="16" height="2" fill="#00d4ff"/>
+    <text x="26" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#00d4ff" letter-spacing="0.35em">ONEXUS · PIPELINE</text>
+  </g>
+  <text x="1220" y="42" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6b7382" letter-spacing="0.18em">DISCOVERED NIGHTLY · RANKED WEEKLY · MERGED ON CRON</text>
+
+  <!-- ============================== NIGHTLY PANEL ============================== -->
+  <g>
+    <rect x="60" y="82" width="760" height="240" rx="14" fill="url(#panel)" stroke="#1a2530" stroke-width="1"/>
+
+    <!-- Panel header -->
+    <rect x="80" y="104" width="16" height="2" fill="#00d4ff"/>
+    <text x="106" y="109" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#00d4ff" letter-spacing="0.22em">NIGHTLY · 13:00 UTC · DAILY</text>
+    <text x="800" y="109" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b7382" letter-spacing="0.18em">7 STEPS</text>
+
+    <!-- Connector arrows (drawn first so they sit beneath cards) -->
+    <g fill="none" stroke="#3a4654" stroke-width="1.5" marker-end="url(#arrow)">
+      <line x1="190" y1="195" x2="206" y2="195"/>
+      <line x1="310" y1="195" x2="321" y2="195"/>
+      <line x1="439" y1="195" x2="446" y2="195"/>
+      <line x1="550" y1="195" x2="566" y2="195"/>
+      <line x1="670" y1="195" x2="686" y2="195"/>
+    </g>
+
+    <!-- Decision branches (cyan to signal model fork) -->
+    <g fill="none" stroke="#00d4ff" stroke-width="1.5" stroke-opacity="0.85" marker-end="url(#arrowCyan)">
+      <!-- N3 -> N4 (ambiguous) -->
+      <line x1="380" y1="228" x2="380" y2="252"/>
+      <!-- N4 -> N5 (re-merge into main flow) -->
+      <path d="M 430 270 C 445 270, 445 195, 450 195"/>
+    </g>
+
+    <!-- Branch label (only on the special-case fork; the default path is implied) -->
+    <text x="392" y="245" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#00d4ff" letter-spacing="0.16em">AMBIGUOUS</text>
+
+    <!-- ========== Nightly nodes ========== -->
+    <!-- N1: refresh seeds -->
+    <g filter="url(#cardShadow)">
+      <rect x="90" y="173" width="100" height="44" rx="8" fill="url(#card)" stroke="url(#cardEdge)" stroke-width="1"/>
+      <text x="140" y="200" text-anchor="middle" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="12.5" font-weight="500" fill="#e6e9ee">refresh seeds</text>
+    </g>
+
+    <!-- N2: discover GitHub + HF (two lines) -->
+    <g filter="url(#cardShadow)">
+      <rect x="210" y="173" width="100" height="44" rx="8" fill="url(#card)" stroke="url(#cardEdge)" stroke-width="1"/>
+      <text x="260" y="192" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="500" fill="#e6e9ee">discover</text>
+      <text x="260" y="207" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" fill="#9aa3b1">GitHub + HF</text>
+    </g>
+
+    <!-- N3: keyword classify (diamond) -->
+    <g filter="url(#cardShadow)">
+      <polygon points="380,163 439,195 380,227 321,195" fill="url(#diamondFill)" stroke="#00d4ff" stroke-width="1.5"/>
+      <text x="380" y="192" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11.5" font-weight="600" fill="#00d4ff">keyword</text>
+      <text x="380" y="206" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11.5" font-weight="600" fill="#00d4ff">classify</text>
+    </g>
+
+    <!-- N4: gpt-5.4-mini (branch row) -->
+    <g filter="url(#cardShadow)">
+      <rect x="330" y="252" width="100" height="36" rx="8" fill="url(#card)" stroke="#00d4ff" stroke-width="1" stroke-opacity="0.55"/>
+      <text x="380" y="274" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="500" fill="#7df9ff">gpt-5.4-mini</text>
+    </g>
+
+    <!-- N5: score composite -->
+    <g filter="url(#cardShadow)">
+      <rect x="450" y="173" width="100" height="44" rx="8" fill="url(#card)" stroke="url(#cardEdge)" stroke-width="1"/>
+      <text x="500" y="192" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="500" fill="#e6e9ee">score</text>
+      <text x="500" y="207" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="500" fill="#e6e9ee">composite</text>
+    </g>
+
+    <!-- N6: per-category cap -->
+    <g filter="url(#cardShadow)">
+      <rect x="570" y="173" width="100" height="44" rx="8" fill="url(#card)" stroke="url(#cardEdge)" stroke-width="1"/>
+      <text x="620" y="192" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="500" fill="#e6e9ee">per-category</text>
+      <text x="620" y="207" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="500" fill="#e6e9ee">cap</text>
+    </g>
+
+    <!-- N7: daily report (terminal card — cyan accent) -->
+    <g filter="url(#cardShadow)">
+      <rect x="690" y="173" width="100" height="44" rx="8" fill="url(#card)" stroke="#00d4ff" stroke-width="1" stroke-opacity="0.55"/>
+      <text x="740" y="192" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="600" fill="#e6e9ee">daily</text>
+      <text x="740" y="207" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="600" fill="#7df9ff">report</text>
+    </g>
+
+    <!-- Subtle volume hint at bottom of panel -->
+    <text x="800" y="306" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#4a5564" letter-spacing="0.14em">~500 NEW CANDIDATES / NIGHT</text>
+  </g>
+
+  <!-- ============================== WEEKLY PANEL ============================== -->
+  <g>
+    <rect x="60" y="345" width="760" height="140" rx="14" fill="url(#panel)" stroke="#1a2530" stroke-width="1"/>
+
+    <!-- Panel header -->
+    <rect x="80" y="367" width="16" height="2" fill="#00d4ff"/>
+    <text x="106" y="372" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#00d4ff" letter-spacing="0.22em">WEEKLY · 17:00 UTC · SUNDAYS</text>
+    <text x="800" y="372" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#6b7382" letter-spacing="0.18em">3 STEPS</text>
+
+    <!-- Connectors -->
+    <g fill="none" stroke="#3a4654" stroke-width="1.5" marker-end="url(#arrow)">
+      <line x1="300" y1="420" x2="340" y2="420"/>
+      <line x1="540" y1="420" x2="580" y2="420"/>
+    </g>
+
+    <!-- W1: rescan every entry for MCP signals -->
+    <g filter="url(#cardShadow)">
+      <rect x="100" y="395" width="200" height="50" rx="8" fill="url(#card)" stroke="url(#cardEdge)" stroke-width="1"/>
+      <text x="200" y="415" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12.5" font-weight="500" fill="#e6e9ee">rescan every entry</text>
+      <text x="200" y="431" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#9aa3b1">for MCP signals</text>
+    </g>
+
+    <!-- W2: enrich 500 stalest with Tier 2 metrics -->
+    <g filter="url(#cardShadow)">
+      <rect x="340" y="395" width="200" height="50" rx="8" fill="url(#card)" stroke="url(#cardEdge)" stroke-width="1"/>
+      <text x="440" y="415" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12.5" font-weight="500" fill="#e6e9ee">enrich 500 stalest</text>
+      <text x="440" y="431" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#9aa3b1">with Tier 2 metrics</text>
+    </g>
+
+    <!-- W3: framework detection via README -->
+    <g filter="url(#cardShadow)">
+      <rect x="580" y="395" width="200" height="50" rx="8" fill="url(#card)" stroke="#00d4ff" stroke-width="1" stroke-opacity="0.55"/>
+      <text x="680" y="415" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12.5" font-weight="600" fill="#e6e9ee">framework detection</text>
+      <text x="680" y="431" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#7df9ff">via README</text>
+    </g>
+  </g>
+
+  <!-- ============================== CONVERGENCE + OUTPUTS ============================== -->
+
+  <!-- Converging arrows from Nightly N7 (790,195) and Weekly W3 (780,420) to PR (854,310) -->
+  <g fill="none" stroke="#00d4ff" stroke-width="1.6" stroke-opacity="0.7" marker-end="url(#arrowConverge)">
+    <path d="M 790 195 C 832 195, 832 310, 854 310"/>
+    <path d="M 780 420 C 832 420, 832 310, 854 310"/>
+  </g>
+
+  <!-- Auto-merge PR — glowing convergence node -->
+  <g transform="translate(900, 310)">
+    <!-- soft halo -->
+    <circle r="58" fill="#00d4ff" fill-opacity="0.10" filter="url(#softGlow)"/>
+    <!-- inner halo -->
+    <circle r="52" fill="#00d4ff" fill-opacity="0.18" filter="url(#glow)"/>
+    <!-- main disc -->
+    <circle r="46" fill="url(#cyan)" stroke="#7df9ff" stroke-width="1.5"/>
+    <!-- glossy top highlight -->
+    <path d="M -38 -6 A 42 42 0 0 1 38 -6" stroke="#ffffff" stroke-opacity="0.30" stroke-width="2" fill="none"/>
+    <!-- labels -->
+    <text x="0" y="-6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#062028" letter-spacing="0.22em" font-weight="700">AUTO MERGE</text>
+    <text x="0" y="18" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="24" font-weight="900" fill="#062028" letter-spacing="0.04em">PR</text>
+  </g>
+
+  <!-- PR → Vercel -->
+  <g fill="none" stroke="#3a4654" stroke-width="1.5" marker-end="url(#arrow)">
+    <path d="M 946 310 C 960 310, 960 290, 970 290"/>
+    <line x1="1075" y1="312" x2="1075" y2="336"/>
+  </g>
+
+  <!-- Vercel rebuild card -->
+  <g filter="url(#cardShadow)">
+    <rect x="970" y="268" width="210" height="44" rx="10" fill="url(#card)" stroke="url(#cardEdge)" stroke-width="1"/>
+    <rect x="984" y="282" width="14" height="2" fill="#00d4ff"/>
+    <text x="1006" y="287" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" fill="#00d4ff" letter-spacing="0.22em">VERCEL</text>
+    <text x="984" y="303" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="500" fill="#e6e9ee">rebuild from main</text>
+  </g>
+
+  <!-- Live site pill -->
+  <g>
+    <!-- soft halo -->
+    <rect x="956" y="326" width="248" height="68" rx="34" fill="#00d4ff" fill-opacity="0.10" filter="url(#softGlow)"/>
+    <rect x="968" y="338" width="224" height="44" rx="22" fill="url(#cyan)" stroke="#7df9ff" stroke-width="1.5"/>
+    <!-- live dot -->
+    <circle cx="988" cy="360" r="4" fill="#062028"/>
+    <circle cx="988" cy="360" r="4" fill="#7df9ff" fill-opacity="0.4">
+      <animate attributeName="r" values="4;8;4" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.5;0;0.5" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1002" y="365" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" fill="#062028" font-weight="700" letter-spacing="0.02em">onexus-agents.vercel.app</text>
+  </g>
+
+  <!-- Footer caption -->
+  <g transform="translate(60, 508)">
+    <rect x="0" y="-9" width="12" height="2" fill="#00d4ff" fill-opacity="0.5"/>
+    <text x="20" y="-3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6b7382" letter-spacing="0.06em">no database · every node is a JSON commit · git history is the audit log</text>
+  </g>
+  <text x="1220" y="505" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#4a5564" letter-spacing="0.14em">CATALOG / &lt;CATEGORY&gt; / &lt;AGENT-SLUG&gt;.JSON</text>
+</svg>
