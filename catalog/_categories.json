@@ -102,7 +102,11 @@
       "slug": "data-science-ml",
       "name": "Data Science & ML",
       "description": "Agents for exploratory analysis, feature engineering, model training, and ML experiment management.",
-      "benchmark_anchor": null,
+      "benchmark_anchor": {
+        "name": "MLE-bench",
+        "leaderboard_url": "https://github.com/openai/mle-bench",
+        "weight_share": 0.3
+      },
       "seed_keywords": [
         "data science agent",
         "ml agent",
@@ -255,7 +259,11 @@
       "slug": "image-generation",
       "name": "Image Generation",
       "description": "Agents for image creation, editing, style transfer, and multi-step visual workflows.",
-      "benchmark_anchor": null,
+      "benchmark_anchor": {
+        "name": "GenAI-Bench",
+        "leaderboard_url": "https://huggingface.co/spaces/jzhang38/GenAI-Bench",
+        "weight_share": 0.3
+      },
       "seed_keywords": [
         "image agent",
         "diffusion agent",
@@ -283,7 +291,11 @@
       "slug": "video-generation",
       "name": "Video Generation",
       "description": "Agents for video synthesis, editing, captioning, and multi-shot composition.",
-      "benchmark_anchor": null,
+      "benchmark_anchor": {
+        "name": "VBench",
+        "leaderboard_url": "https://huggingface.co/spaces/Vchitect/VBench_Leaderboard",
+        "weight_share": 0.3
+      },
       "seed_keywords": [
         "video agent",
         "video generation agent",
@@ -367,7 +379,11 @@
       "slug": "search-rag",
       "name": "Search & RAG",
       "description": "Agents for retrieval-augmented generation, semantic search, and document Q&A over private corpora.",
-      "benchmark_anchor": null,
+      "benchmark_anchor": {
+        "name": "BEIR",
+        "leaderboard_url": "https://huggingface.co/spaces/mteb/leaderboard",
+        "weight_share": 0.3
+      },
       "seed_keywords": [
         "rag agent",
         "retrieval agent",
@@ -554,7 +570,11 @@
       "slug": "security-pentesting",
       "name": "Security & Pentesting",
       "description": "Agents for vulnerability discovery, exploit chaining, security audit, and red-team automation.",
-      "benchmark_anchor": null,
+      "benchmark_anchor": {
+        "name": "CyberSecEval",
+        "leaderboard_url": "https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks",
+        "weight_share": 0.3
+      },
       "seed_keywords": [
         "security agent",
         "pentesting agent",
