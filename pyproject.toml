@@ -23,12 +23,24 @@ dev = [
   "pytest>=8.2",
   "ruff>=0.5",
 ]
+# Downstream consumers (ONEXUS, SMADP, anything else) install only what they need:
+#   pip install onexus-agents-pipeline[client]   → typed Python client
+#   pip install onexus-agents-pipeline[mcp]      → MCP server wrapper
+client = [
+  "httpx>=0.27",
+  "pydantic>=2.7",
+]
+mcp = [
+  "mcp>=1.0",
+]
 
 [project.scripts]
 onexus-agents-nightly = "pipeline.nightly:main"
 onexus-agents-weekly = "pipeline.weekly:main"
 onexus-agents-submit = "pipeline.from_submission:main"
 onexus-agents-validate = "pipeline.validator.validate_submission:main"
+onexus-agents-mcp = "pipeline.mcp_server:main"
+onexus-agents-smadp-sync = "pipeline.smadp_sync:main"
 
 [build-system]
 requires = ["setuptools>=68"]

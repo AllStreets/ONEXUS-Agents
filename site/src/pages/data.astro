@@ -71,16 +71,61 @@ const REPO = "https://github.com/AllStreets/ONEXUS-Agents";
       </ul>
     </section>
 
+    <section class="mb-10 panel-2 p-6 border-l-2 border-l-[var(--color-accent)]">
+      <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3 flex items-center gap-2">
+        <Icon name="sparkles" size="sm" class="text-[var(--color-accent)]" />
+        Built specifically for ONEXUS + SMADP — but anyone can use it
+      </h2>
+      <p class="text-[var(--color-fg-dim)] mb-4">
+        We ship a typed Python client and an MCP server alongside the catalog. Both reuse the same Pydantic schema the
+        producer side validates against, so downstream consumers get the full type guarantees automatically.
+      </p>
+      <pre class="bg-[var(--color-bg)] border border-[var(--color-border)] rounded-md p-3 text-xs overflow-x-auto mb-3"><code>{`pip install onexus-agents-pipeline[client]   # typed Python client
+pip install onexus-agents-pipeline[mcp]      # MCP server`}</code></pre>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-3 mt-4">
+        <div class="panel p-3 text-sm">
+          <div class="font-mono text-xs text-[var(--color-accent)] mb-1">ONEXUS — query as MCP tools</div>
+          <code class="font-mono text-xs text-[var(--color-fg)] block">onexus-agents-mcp --url ...</code>
+          <p class="text-xs text-[var(--color-fg-dim)] mt-2">Spawns a stdio MCP server exposing <code class="mono">nexus_agents_browse</code>, <code class="mono">nexus_agents_search</code>, <code class="mono">nexus_agents_info</code>.</p>
+        </div>
+        <div class="panel p-3 text-sm">
+          <div class="font-mono text-xs text-[var(--color-accent)] mb-1">SMADP — sync to _unverified/</div>
+          <code class="font-mono text-xs text-[var(--color-fg)] block break-all">onexus-agents-smadp-sync --catalog ./ONEXUS-Agents --out ./SMADP/catalog/profiles/_unverified</code>
+          <p class="text-xs text-[var(--color-fg-dim)] mt-2">Maps catalog → SMADP profile schema with provenance, queues for safety analysis.</p>
+        </div>
+        <div class="panel p-3 text-sm">
+          <div class="font-mono text-xs text-[var(--color-accent)] mb-1">Anyone — Python client</div>
+          <code class="font-mono text-xs text-[var(--color-fg)] block">from pipeline.client import OnexusAgentsClient</code>
+          <p class="text-xs text-[var(--color-fg-dim)] mt-2">Typed access from HTTP or a local clone. See code samples below.</p>
+        </div>
+      </div>
+    </section>
+
     <section class="mb-10">
       <h2 class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-3">Code samples</h2>
 
-      <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-2">Python — fetch every runnable agent</div>
-      <pre class="panel p-4 text-xs overflow-x-auto mb-6"><code>{`import httpx, json
+      <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-2">Python client — typed access (recommended)</div>
+      <pre class="panel p-4 text-xs overflow-x-auto mb-6"><code>{`from pipeline.client import OnexusAgentsClient
+
+# HTTP backend — fetches from the live site
+c = OnexusAgentsClient.from_url()
+coding_agents = c.list_agents(category="coding", runnable=True)
+aider = c.get_agent("coding", "aider")
+mcp_agents = c.by_framework("mcp")
+matches = c.search("langchain rag")
+
+# Local backend — git clone the repo, zero network
+c = OnexusAgentsClient.from_local("/path/to/ONEXUS-Agents")
+for a in c.runnable_only():
+    print(a.name, a.adapter_ref, a.composite_score)`}</code></pre>
+
+      <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mb-2">Plain HTTP — without the SDK</div>
+      <pre class="panel p-4 text-xs overflow-x-auto mb-6"><code>{`import httpx
 r = httpx.get("${SITE}/search-index.json", timeout=15)
 runnable = [a for a in r.json()["agents"] if a["runnable"]]
 print(f"{len(runnable)} runnable agents")
 
-# Pull the full JSON for one
+# Pull the full JSON for one (raw.githubusercontent skips Vercel cache)
 agent = httpx.get(f"${SITE}{runnable[0]['href']}.json").json()
 print(agent["source"]["github"], agent["adapter_ref"])`}</code></pre>
 
