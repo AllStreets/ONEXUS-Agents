@@ -26,7 +26,9 @@ const ageDays = agent.metrics.first_commit_at
 
 // JSON-LD structured data — surfaces this catalog in Google's
 // SoftwareApplication results and improves LLM-search ingestion.
-const canonical = `https://onexus-agents.vercel.app/catalog/${agent.category}/${agent.slug}`;
+// Site origin pulled from astro.config so JSON-LD, sitemap, and OG tags
+// all flip together when the custom domain swaps in.
+const canonical = `${Astro.site}catalog/${agent.category}/${agent.slug}`;
 const codeRepo = ghHref || hfHref || homeHref || canonical;
 const jsonLd: Record<string, unknown> = {
   "@context": "https://schema.org",
