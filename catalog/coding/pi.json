@@ -1,7 +1,7 @@
 {
   "slug": "pi",
   "name": "pi",
-  "tagline": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+  "tagline": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
   "category": "coding",
   "tags": [],
   "author": {
@@ -17,13 +17,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 60889,
+    "stars": 61196,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-08T15:16:02Z",
+    "last_commit_at": "2026-06-09T12:23:09Z",
     "first_commit_at": "2025-08-09T15:18:38Z",
-    "forks": 7322,
-    "watchers": 214,
-    "open_issues": 58,
+    "forks": 7376,
+    "watchers": 213,
+    "open_issues": 35,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.431,
-  "rank_in_category": 83,
+  "composite_score": 0.4311,
+  "rank_in_category": 81,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-07T15:31:55.596680Z",
-  "last_refreshed_at": "2026-06-08T16:52:05.388776Z",
+  "last_refreshed_at": "2026-06-09T15:57:25.358331Z",
   "consecutive_refresh_failures": 0
 }

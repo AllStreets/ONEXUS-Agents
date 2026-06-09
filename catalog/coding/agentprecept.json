@@ -1,7 +1,7 @@
 {
   "slug": "agentprecept",
   "name": "AgentPrecept",
-  "tagline": "AgentPrecept — 不是让 Agent 更强，是给它一道必须过的门。  agentprecept init 一键接入，三层拦截体系上膛：MCP design_gate 在代码动工前强制设计文档就位，pre-commit hook 四道拦截（分支 / 粒度 / 设计 / 确认），CI gate 15 维 4-scope 自动化审计兜底——软硬三层，改一行代码也得过门。  改代码前，ripp",
+  "tagline": "AgentPrecept — Agent 的方法论文档治理工具。project-graph 让 Agent 快速定位模块关系，L4_O01 记录每次决策，HANDOFF 确保换班不丢进度。三层门禁：Agent 自助检查 → 本地 hook → CI 兜底。设计门禁验证文档存在（不校验质量）。涟漪分析覆盖显式依赖，不支持动态反射和微服务调用。不是安全扫描器，不是万能银弹——只是一份诚实的施工图。",
   "category": "coding",
   "tags": [
     "agent-development",
@@ -25,7 +25,7 @@
   "metrics": {
     "stars": 9,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-08T14:04:39Z",
+    "last_commit_at": "2026-06-09T14:26:27Z",
     "first_commit_at": "2026-06-06T14:57:23Z",
     "forks": 0,
     "watchers": 0,
@@ -46,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2302,
-  "rank_in_category": 576,
+  "composite_score": 0.2303,
+  "rank_in_category": 588,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-08T16:51:01.541003Z",
-  "last_refreshed_at": "2026-06-08T16:51:01.541005Z",
+  "last_refreshed_at": "2026-06-09T15:56:34.943403Z",
   "consecutive_refresh_failures": 0
 }

@@ -4,16 +4,16 @@
   "tagline": "Event-driven orchestrator with AI-assisted task authoring.",
   "category": "data-engineering",
   "tags": [
+    "ai-agents",
     "automation",
+    "control-plane",
+    "data-engineering",
     "data-orchestration",
+    "data-orchestrator",
     "devops",
+    "etl",
     "hacktoberfest",
-    "high-availability",
-    "infrastructure-as-code",
-    "java",
-    "low-code",
-    "lowcode",
-    "orchestration"
+    "high-availability"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 26983,
+    "stars": 26993,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-08T16:44:41Z",
+    "last_commit_at": "2026-06-09T15:52:58Z",
     "first_commit_at": "2019-08-26T05:59:45Z",
-    "forks": 2612,
+    "forks": 2614,
     "watchers": 143,
-    "open_issues": 514,
+    "open_issues": 520,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -55,6 +55,6 @@
   "rank_in_category": 8,
   "discovered_via": "seed",
   "first_seen_at": "2026-04-30T03:21:53.188624Z",
-  "last_refreshed_at": "2026-06-08T16:48:06.415245Z",
+  "last_refreshed_at": "2026-06-09T15:54:07.887268Z",
   "consecutive_refresh_failures": 0
 }
