@@ -1,0 +1,54 @@
+{
+  "slug": "prismarine-gym",
+  "name": "prismarine-gym",
+  "tagline": "train minecraft agents using reinforcement learning (inspired by https://gym.openai.com/)",
+  "category": "game-playing",
+  "tags": [
+    "deep-learning",
+    "machine-learning",
+    "minecraft",
+    "reinforcement-learning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "louis030195",
+    "url": "https://github.com/louis030195"
+  },
+  "source": {
+    "primary": "github",
+    "github": "louis030195/prismarine-gym",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-31T12:23:08Z",
+    "first_commit_at": "2020-10-14T16:18:52Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.314,
+  "rank_in_category": 153,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:04:36.903763Z",
+  "last_refreshed_at": "2026-06-10T18:04:36.903767Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "byzantine-federated-rl",
+  "name": "Byzantine-Federated-RL",
+  "tagline": "[NeurIPS2021] Federated Reinforcement Learning with Theoretical Guarantees. The repo contains code and experiments for our Federated Policy Gradient with Byzantine Resilience framework for improving s",
+  "category": "game-playing",
+  "tags": [
+    "byzantine-reinforcement-learning",
+    "federated-learning",
+    "federated-reinforcement-learning",
+    "fedrl",
+    "policy-gradient",
+    "reinforcement-learning",
+    "sample-efficient-rl"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "flint-xf-fan",
+    "url": "https://github.com/flint-xf-fan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "flint-xf-fan/Byzantine-Federated-RL",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 105,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-16T05:27:01Z",
+    "first_commit_at": "2020-08-12T09:44:29Z",
+    "forks": 12,
+    "watchers": 5,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3741,
+  "rank_in_category": 114,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:04:16.405723Z",
+  "last_refreshed_at": "2026-06-10T18:04:16.405726Z",
+  "consecutive_refresh_failures": 0
+}

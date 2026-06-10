@@ -1,0 +1,49 @@
+{
+  "slug": "ai-agents-for-games",
+  "name": "AI-Agents-for-Games",
+  "tagline": "An implementation in python of some game agents such as AlphaBeta or MCTS, that can be applied to any n-player non deterministic game object that implements the game interface.",
+  "category": "game-playing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "tboulet",
+    "url": "https://github.com/tboulet"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tboulet/AI-Agents-for-Games",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2022-05-29T15:45:52Z",
+    "first_commit_at": "2022-05-19T15:11:18Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2915,
+  "rank_in_category": 172,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:03:29.275169Z",
+  "last_refreshed_at": "2026-06-10T18:03:29.275172Z",
+  "consecutive_refresh_failures": 0
+}

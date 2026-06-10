@@ -1,0 +1,62 @@
+{
+  "slug": "pew-pew-plaza-packs",
+  "name": "pew-pew-plaza-packs",
+  "tagline": "AI-powered project management framework based on an opinionated view on effective prompts and a highly modular approach to building effective agents, workflows, templates, prompts and context document",
+  "category": "music",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "developer-tool",
+    "developer-tools",
+    "developers",
+    "mcp",
+    "mcp-ser",
+    "mcp-servers"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "appboypov",
+    "url": "https://github.com/appboypov"
+  },
+  "source": {
+    "primary": "github",
+    "github": "appboypov/pew-pew-plaza-packs",
+    "huggingface": null,
+    "homepage": "https://pewpewprompts.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 83,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-12T17:43:04Z",
+    "first_commit_at": "2025-01-06T18:40:49Z",
+    "forks": 10,
+    "watchers": 6,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4044,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:02:19.168416Z",
+  "last_refreshed_at": "2026-06-10T18:02:19.168419Z",
+  "consecutive_refresh_failures": 0
+}

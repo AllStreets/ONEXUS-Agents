@@ -1,7 +1,7 @@
 {
   "slug": "z3r0",
   "name": "Z3r0",
-  "tagline": "A controlled multi-agent workbench for authorized security assessment, code auditing, internal review, and controlled research.",
+  "tagline": "AI-native red-team workbench for authorized penetration testing and vulnerability research, with specialist agents, sandboxed tooling, evidence records, and replayable timelines.",
   "category": "knowledge-management",
   "tags": [
     "penetration-testing",
@@ -19,15 +19,15 @@
     "primary": "github",
     "github": "yv1ing/Z3r0",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://z3r0.fans/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 358,
+    "stars": 390,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-08T10:20:38Z",
+    "last_commit_at": "2026-06-10T14:38:45Z",
     "first_commit_at": "2026-04-27T04:31:17Z",
-    "forks": 64,
+    "forks": 70,
     "watchers": 2,
     "open_issues": 9,
     "archived": false,
@@ -46,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5598,
-  "rank_in_category": 89,
+  "composite_score": 0.5641,
+  "rank_in_category": 92,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-08T18:39:30.624352Z",
-  "last_refreshed_at": "2026-06-08T18:39:30.624355Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-10T18:07:55.420466Z",
+  "consecutive_refresh_failures": 0
 }

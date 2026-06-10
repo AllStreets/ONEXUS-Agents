@@ -1,0 +1,60 @@
+{
+  "slug": "skillhub",
+  "name": "skillhub",
+  "tagline": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "ai-orchestration",
+    "audit-log",
+    "enterprise-ai",
+    "iflytek-astron",
+    "openclaw",
+    "openclaw-skills",
+    "rbac",
+    "skill",
+    "skill-hub"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "iflytek",
+    "url": "https://github.com/iflytek"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iflytek/skillhub",
+    "huggingface": null,
+    "homepage": "https://skill.xfyun.cn/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3424,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-10T12:10:32Z",
+    "first_commit_at": "2026-03-11T12:17:06Z",
+    "forks": 481,
+    "watchers": 17,
+    "open_issues": 25,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4169,
+  "rank_in_category": 178,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T17:46:15.157289Z",
+  "last_refreshed_at": "2026-06-10T17:46:15.157292Z",
+  "consecutive_refresh_failures": 0
+}

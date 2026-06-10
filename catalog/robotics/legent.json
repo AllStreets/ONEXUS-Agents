@@ -1,0 +1,55 @@
+{
+  "slug": "legent",
+  "name": "LEGENT",
+  "tagline": "Open Platform for Embodied Agents",
+  "category": "robotics",
+  "tags": [
+    "embodied-ai",
+    "language-grounding",
+    "large-multimodal-models",
+    "physics-engine",
+    "robot-simulator"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "thunlp",
+    "url": "https://github.com/thunlp"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thunlp/LEGENT",
+    "huggingface": null,
+    "homepage": "https://docs.legent.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 341,
+    "downloads_30d": null,
+    "last_commit_at": "2025-01-12T21:11:35Z",
+    "first_commit_at": "2024-03-22T19:04:41Z",
+    "forks": 23,
+    "watchers": 13,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4262,
+  "rank_in_category": 131,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:06:47.584539Z",
+  "last_refreshed_at": "2026-06-10T18:06:47.584542Z",
+  "consecutive_refresh_failures": 0
+}

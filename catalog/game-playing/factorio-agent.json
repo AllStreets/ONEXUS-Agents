@@ -1,0 +1,56 @@
+{
+  "slug": "factorio-agent",
+  "name": "factorio-agent",
+  "tagline": "An AI-based Factorio game agent capable of autonomously analyzing game states and executing operations.",
+  "category": "game-playing",
+  "tags": [
+    "agent",
+    "factorio",
+    "mqtt",
+    "node-red",
+    "openai",
+    "rcon"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lvshrd",
+    "url": "https://github.com/lvshrd"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lvshrd/factorio-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-15T08:44:08Z",
+    "first_commit_at": "2025-03-20T02:09:33Z",
+    "forks": 4,
+    "watchers": 3,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3403,
+  "rank_in_category": 141,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:03:27.313544Z",
+  "last_refreshed_at": "2026-06-10T18:03:27.313548Z",
+  "consecutive_refresh_failures": 0
+}

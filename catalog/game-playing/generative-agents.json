@@ -1,0 +1,53 @@
+{
+  "slug": "generative-agents",
+  "name": "generative-agents",
+  "tagline": "A Framework for working with Generative Agents powered by Large Language Models",
+  "category": "game-playing",
+  "tags": [
+    "generative-agents",
+    "llm",
+    "openai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "toughyear",
+    "url": "https://github.com/toughyear"
+  },
+  "source": {
+    "primary": "github",
+    "github": "toughyear/generative-agents",
+    "huggingface": null,
+    "homepage": "https://multimode.run/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 84,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-31T13:53:17Z",
+    "first_commit_at": "2023-04-12T08:36:36Z",
+    "forks": 10,
+    "watchers": 2,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5674,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:04:48.888360Z",
+  "last_refreshed_at": "2026-06-10T18:04:48.888363Z",
+  "consecutive_refresh_failures": 0
+}

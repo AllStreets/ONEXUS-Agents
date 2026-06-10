@@ -1,0 +1,63 @@
+{
+  "slug": "reactive-agents-ts",
+  "name": "reactive-agents-ts",
+  "tagline": "Composable TypeScript AI agent framework — Effect-TS type safety, 5 reasoning strategies, persistent gateway, real-time streaming, multi-agent A2A",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "agent-observability",
+    "agent-orchestration",
+    "agentic-ai",
+    "ai-agents",
+    "anthropic",
+    "automation",
+    "bun",
+    "composable",
+    "effect-ts"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tylerjrbuell",
+    "url": "https://github.com/tylerjrbuell"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tylerjrbuell/reactive-agents-ts",
+    "huggingface": null,
+    "homepage": "https://docs.reactiveagents.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-10T16:02:38Z",
+    "first_commit_at": "2026-02-19T14:01:28Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 37,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3817,
+  "rank_in_category": 250,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T16:46:59.563347Z",
+  "last_refreshed_at": "2026-06-10T16:46:59.563350Z",
+  "consecutive_refresh_failures": 0
+}

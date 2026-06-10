@@ -4,6 +4,7 @@
   "tagline": "daily notes",
   "category": "web-dev",
   "tags": [
+    "ai",
     "automation",
     "codemirror",
     "collaboration",
@@ -12,8 +13,7 @@
     "excel",
     "google-docs",
     "grist",
-    "notes",
-    "ocr"
+    "llm"
   ],
   "author": {
     "type": "user",
@@ -28,9 +28,9 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 131,
+    "stars": 132,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-07T22:52:35Z",
+    "last_commit_at": "2026-06-09T23:31:21Z",
     "first_commit_at": "2019-06-19T09:15:11Z",
     "forks": 25,
     "watchers": 1,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4886,
-  "rank_in_category": 129,
+  "composite_score": 0.4903,
+  "rank_in_category": 132,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:22:33.996938Z",
-  "last_refreshed_at": "2026-06-09T16:04:08.185983Z",
+  "last_refreshed_at": "2026-06-10T16:44:52.124544Z",
   "consecutive_refresh_failures": 0
 }

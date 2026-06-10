@@ -1,0 +1,62 @@
+{
+  "slug": "rag-multimodal-financial-doc-analysis-and-recall",
+  "name": "RAG-Multimodal-Financial-Doc-Analysis-and-Recall",
+  "tagline": "Enterprise-grade multimodal Retrieval-Augmented Generation (RAG) system for financial document analysis with async processing, fault tolerance, structured observability, and scalable architecture.",
+  "category": "financial-modeling",
+  "tags": [
+    "async-processing",
+    "document-intelligence",
+    "enterprise-ai",
+    "financial-ai",
+    "llama-index",
+    "llm",
+    "machine-learning",
+    "multimodal",
+    "observability",
+    "production-system"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Mattral",
+    "url": "https://github.com/Mattral"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Mattral/RAG-Multimodal-Financial-Doc-Analysis-and-Recall",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 63,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T13:24:45Z",
+    "first_commit_at": "2024-02-01T04:46:37Z",
+    "forks": 13,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "llamaindex"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5114,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T16:54:38.560547Z",
+  "last_refreshed_at": "2026-06-10T16:54:38.560551Z",
+  "consecutive_refresh_failures": 0
+}

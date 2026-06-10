@@ -1,0 +1,49 @@
+{
+  "slug": "amazon-gamelift-agent",
+  "name": "amazon-gamelift-agent",
+  "tagline": "GameLiftAgent is a Java application that is used to launch game server processes on Amazon GameLift fleets.",
+  "category": "game-playing",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "amazon-gamelift",
+    "url": "https://github.com/amazon-gamelift"
+  },
+  "source": {
+    "primary": "github",
+    "github": "amazon-gamelift/amazon-gamelift-agent",
+    "huggingface": null,
+    "homepage": "https://aws.amazon.com/gamelift/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 17,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-30T19:58:18Z",
+    "first_commit_at": "2024-02-28T17:28:51Z",
+    "forks": 8,
+    "watchers": 2,
+    "open_issues": 10,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3501,
+  "rank_in_category": 132,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:03:24.585496Z",
+  "last_refreshed_at": "2026-06-10T18:03:24.585500Z",
+  "consecutive_refresh_failures": 0
+}

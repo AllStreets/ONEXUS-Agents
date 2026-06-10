@@ -1,0 +1,49 @@
+{
+  "slug": "dailyarxiv",
+  "name": "DailyArXiv",
+  "tagline": "Daily ArXiv Papers.",
+  "category": "scientific-research",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "zezhishao",
+    "url": "https://github.com/zezhishao"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zezhishao/DailyArXiv",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 444,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-09T18:31:57Z",
+    "first_commit_at": "2024-03-15T15:06:55Z",
+    "forks": 98,
+    "watchers": 37,
+    "open_issues": 563,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.633,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T17:42:17.411103Z",
+  "last_refreshed_at": "2026-06-10T17:42:17.411106Z",
+  "consecutive_refresh_failures": 0
+}

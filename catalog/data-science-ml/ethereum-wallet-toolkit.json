@@ -46,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.2829,
-  "rank_in_category": 91,
+  "composite_score": 0.2972,
+  "rank_in_category": 76,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:22.971385Z",
-  "last_refreshed_at": "2026-06-07T18:42:06.967803Z",
-  "consecutive_refresh_failures": 3
+  "last_refreshed_at": "2026-06-10T16:53:31.657296Z",
+  "consecutive_refresh_failures": 0
 }

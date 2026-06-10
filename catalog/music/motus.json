@@ -1,0 +1,49 @@
+{
+  "slug": "motus",
+  "name": "motus",
+  "tagline": "The open-source agent-serving project",
+  "category": "music",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "lithos-ai",
+    "url": "https://github.com/lithos-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lithos-ai/motus",
+    "huggingface": null,
+    "homepage": "https://www.lithosai.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 477,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T16:09:47Z",
+    "first_commit_at": "2026-04-08T00:57:37Z",
+    "forks": 32,
+    "watchers": 4,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5059,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:02:14.706407Z",
+  "last_refreshed_at": "2026-06-10T18:02:14.706410Z",
+  "consecutive_refresh_failures": 0
+}

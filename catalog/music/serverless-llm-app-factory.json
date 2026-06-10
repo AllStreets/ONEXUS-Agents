@@ -1,0 +1,58 @@
+{
+  "slug": "serverless-llm-app-factory",
+  "name": "serverless-llm-app-factory",
+  "tagline": "Beginner-friendly serverless LLM deployment with Replicate & fly.io",
+  "category": "music",
+  "tags": [
+    "deployment",
+    "examples",
+    "flyio",
+    "llm",
+    "llmops",
+    "llms",
+    "replicate",
+    "serverless"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tleers",
+    "url": "https://github.com/tleers"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tleers/serverless-llm-app-factory",
+    "huggingface": null,
+    "homepage": "https://blog.timleers.com/minimal-proof-of-value-for-sound-sample-generation"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2023-09-03T13:48:00Z",
+    "first_commit_at": "2023-06-13T15:30:06Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2255,
+  "rank_in_category": 149,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:02:09.109659Z",
+  "last_refreshed_at": "2026-06-10T18:02:09.109662Z",
+  "consecutive_refresh_failures": 0
+}

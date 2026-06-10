@@ -1,0 +1,55 @@
+{
+  "slug": "ficm",
+  "name": "FICM",
+  "tagline": ":video_game: [IJCAI'20][ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!",
+  "category": "game-playing",
+  "tags": [
+    "curiosity-driven",
+    "intrinsic-curiosity-module",
+    "intrinsic-motivation",
+    "optical-flow",
+    "supermario"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hellochick",
+    "url": "https://github.com/hellochick"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hellochick/FICM",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 104,
+    "downloads_30d": null,
+    "last_commit_at": "2022-12-08T05:10:39Z",
+    "first_commit_at": "2019-05-01T08:27:49Z",
+    "forks": 9,
+    "watchers": 5,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3856,
+  "rank_in_category": 105,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:04:17.120404Z",
+  "last_refreshed_at": "2026-06-10T18:04:17.120407Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "alfred",
+  "name": "alfred",
+  "tagline": "Personal agentic infrastructure. Self-hosted. Always on.",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "ssdavidai",
+    "url": "https://github.com/ssdavidai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ssdavidai/alfred",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 223,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T18:33:27Z",
+    "first_commit_at": "2026-02-19T13:56:33Z",
+    "forks": 28,
+    "watchers": 5,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3556,
+  "rank_in_category": 309,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:15:08.046113Z",
+  "last_refreshed_at": "2026-06-10T17:34:28.269294Z",
+  "consecutive_refresh_failures": 0
+}

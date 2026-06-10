@@ -1,0 +1,59 @@
+{
+  "slug": "cyllama",
+  "name": "cyllama",
+  "tagline": "A thin cython wrapper around llama.cpp, whisper.cpp and stable-diffusion.cpp",
+  "category": "music",
+  "tags": [
+    "agents",
+    "cython",
+    "cython-wrapper",
+    "ggml",
+    "llama-cpp",
+    "python3",
+    "rag",
+    "stable-diffusion-cpp",
+    "whisper-cpp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shakfu",
+    "url": "https://github.com/shakfu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shakfu/cyllama",
+    "huggingface": null,
+    "homepage": "https://shakfu.github.io/cyllama/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 29,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T08:54:15Z",
+    "first_commit_at": "2024-10-25T15:44:37Z",
+    "forks": 21,
+    "watchers": 5,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4796,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:02:23.833261Z",
+  "last_refreshed_at": "2026-06-10T18:02:23.833264Z",
+  "consecutive_refresh_failures": 0
+}

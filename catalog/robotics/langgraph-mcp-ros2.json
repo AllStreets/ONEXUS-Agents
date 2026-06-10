@@ -1,0 +1,51 @@
+{
+  "slug": "langgraph-mcp-ros2",
+  "name": "Langgraph-mcp-ROS2",
+  "tagline": "MCP tool integration with LangGraph for a ROS 2 robot agent.",
+  "category": "robotics",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "sahars93",
+    "url": "https://github.com/sahars93"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sahars93/Langgraph-mcp-ROS2",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-24T07:41:41Z",
+    "first_commit_at": "2025-06-23T08:50:29Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2862,
+  "rank_in_category": 211,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:06:22.722054Z",
+  "last_refreshed_at": "2026-06-10T18:06:22.722057Z",
+  "consecutive_refresh_failures": 0
+}

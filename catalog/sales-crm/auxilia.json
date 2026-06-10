@@ -1,0 +1,59 @@
+{
+  "slug": "auxilia",
+  "name": "auxilia",
+  "tagline": "A lightweight web MCP client designed to host your MCP-powered AI assistants. auxilia is designed to only support remote MCP servers.",
+  "category": "sales-crm",
+  "tags": [
+    "agent",
+    "aisdk",
+    "langchain",
+    "langgraph",
+    "llm",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "keurcien",
+    "url": "https://github.com/keurcien"
+  },
+  "source": {
+    "primary": "github",
+    "github": "keurcien/auxilia",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-10T13:17:51Z",
+    "first_commit_at": "2026-01-19T13:57:15Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5705,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T17:54:00.287718Z",
+  "last_refreshed_at": "2026-06-10T17:54:00.287722Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,40 +1,33 @@
 {
   "slug": "mission-control",
   "name": "mission-control",
-  "tagline": "Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.",
+  "tagline": "The world's first Autonomous Product Engine (APE): AI agents research your market, generate features, and ship code as PRs. Convoy mode, crash recovery, cost tracking, 80+ API endpoints. Self-hosted v",
   "category": "web-dev",
   "tags": [
-    "agent-orchestration",
-    "ai-agents",
-    "ai-automation",
-    "ai-dashboard",
-    "claude",
-    "dashboard",
-    "developer-tools",
-    "llm",
-    "mcp",
-    "nextjs"
+    "aiagent",
+    "automation",
+    "openclaw"
   ],
   "author": {
-    "type": "org",
-    "handle": "builderz-labs",
-    "url": "https://github.com/builderz-labs"
+    "type": "user",
+    "handle": "crshdn",
+    "url": "https://github.com/crshdn"
   },
   "source": {
     "primary": "github",
-    "github": "builderz-labs/mission-control",
+    "github": "crshdn/mission-control",
     "huggingface": null,
-    "homepage": "https://mc.builderz.dev/"
+    "homepage": "https://autensa.com/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 5199,
+    "stars": 2072,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-02T22:18:41Z",
-    "first_commit_at": "2026-02-22T19:00:44Z",
-    "forks": 899,
-    "watchers": 24,
-    "open_issues": 16,
+    "last_commit_at": "2026-05-17T02:41:56Z",
+    "first_commit_at": "2026-01-31T13:27:48Z",
+    "forks": 437,
+    "watchers": 16,
+    "open_issues": 13,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +44,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5798,
-  "rank_in_category": 64,
+  "composite_score": 0.532,
+  "rank_in_category": 97,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:51:52.404989Z",
-  "last_refreshed_at": "2026-06-06T14:40:17.914406Z",
-  "consecutive_refresh_failures": 3
+  "first_seen_at": "2026-06-06T10:14:51.449895Z",
+  "last_refreshed_at": "2026-06-10T17:33:33.815170Z",
+  "consecutive_refresh_failures": 0
 }

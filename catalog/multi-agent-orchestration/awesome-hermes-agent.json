@@ -1,40 +1,36 @@
 {
   "slug": "awesome-hermes-agent",
   "name": "awesome-hermes-agent",
-  "tagline": "A curated list of skills, plugins, tools, integrations, and resources for Hermes Agent by Nous Research",
+  "tagline": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
   "category": "multi-agent-orchestration",
   "tags": [
-    "agent-tools",
-    "agentic-ai",
     "ai-agents",
-    "autonomous-agents",
     "awesome",
     "awesome-list",
-    "chatbot",
-    "deployment",
     "hermes-agent",
-    "integrations"
+    "nous-research",
+    "skills"
   ],
   "author": {
-    "type": "org",
-    "handle": "SamurAIGPT",
-    "url": "https://github.com/SamurAIGPT"
+    "type": "user",
+    "handle": "0xNyk",
+    "url": "https://github.com/0xNyk"
   },
   "source": {
     "primary": "github",
-    "github": "SamurAIGPT/awesome-hermes-agent",
+    "github": "0xNyk/awesome-hermes-agent",
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "NOASSERTION",
   "metrics": {
-    "stars": 1679,
+    "stars": 3861,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-07T01:54:27Z",
-    "first_commit_at": "2023-05-05T05:41:50Z",
-    "forks": 317,
-    "watchers": 27,
-    "open_issues": 4,
+    "last_commit_at": "2026-05-16T04:32:09Z",
+    "first_commit_at": "2026-03-23T05:34:37Z",
+    "forks": 271,
+    "watchers": 25,
+    "open_issues": 66,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,17 +42,15 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": [
-      "mcp"
-    ]
+    "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5124,
-  "rank_in_category": 17,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3909,
+  "rank_in_category": 227,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-08T17:53:30.475675Z",
-  "last_refreshed_at": "2026-06-08T17:53:30.475678Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-06-06T10:12:59.750855Z",
+  "last_refreshed_at": "2026-06-10T17:28:52.874284Z",
+  "consecutive_refresh_failures": 0
 }
