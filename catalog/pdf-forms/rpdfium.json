@@ -1,0 +1,56 @@
+{
+  "slug": "rpdfium",
+  "name": "rpdfium",
+  "tagline": "Ruby implementation of Pdfium",
+  "category": "pdf-forms",
+  "tags": [
+    "document-parsing",
+    "pdf",
+    "pdf-extraction",
+    "pdf-parser",
+    "pdfium",
+    "ruby"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "retsef",
+    "url": "https://github.com/retsef"
+  },
+  "source": {
+    "primary": "github",
+    "github": "retsef/rpdfium",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-10T00:25:32Z",
+    "first_commit_at": "2026-05-09T06:39:29Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.439,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:08:33.070381Z",
+  "last_refreshed_at": "2026-06-10T18:08:33.070384Z",
+  "consecutive_refresh_failures": 0
+}

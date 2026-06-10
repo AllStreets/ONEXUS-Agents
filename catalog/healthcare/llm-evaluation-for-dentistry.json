@@ -1,7 +1,7 @@
 {
   "slug": "llm-evaluation-for-dentistry",
   "name": "llm-evaluation-for-dentistry",
-  "tagline": "Multi-provider LLaMA 3.1 70B benchmark for dental knowledge — latency, consistency, and factual accuracy across 7 hosts, tracked in Weights & Biases.",
+  "tagline": "Which LLMs can a dentist trust? A reproducible benchmark of language models on clinical dental knowledge, with clinician-verified rubrics across 6 domains. Part of Periospot.",
   "category": "healthcare",
   "tags": [
     "benchmark",
@@ -9,10 +9,9 @@
     "dental-ai",
     "dentistry",
     "healthcare-ai",
-    "llama",
     "llm",
     "llm-evaluation",
-    "rag",
+    "periodontics",
     "weights-and-biases"
   ],
   "author": {
@@ -24,13 +23,13 @@
     "primary": "github",
     "github": "Tuminha/llm-evaluation-for-dentistry",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://periospot.com/"
   },
   "license": "MIT",
   "metrics": {
     "stars": 8,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-21T20:36:25Z",
+    "last_commit_at": "2026-06-10T11:58:23Z",
     "first_commit_at": "2024-10-03T04:50:37Z",
     "forks": 1,
     "watchers": 1,
@@ -51,10 +50,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3296,
-  "rank_in_category": 102,
+  "composite_score": 0.392,
+  "rank_in_category": 66,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:29:49.551723Z",
-  "last_refreshed_at": "2026-06-09T17:29:05.592927Z",
+  "last_refreshed_at": "2026-06-10T17:49:05.382925Z",
   "consecutive_refresh_failures": 0
 }

@@ -13,23 +13,23 @@
     "openai-api"
   ],
   "author": {
-    "type": "org",
-    "handle": "BrainBlend-AI",
-    "url": "https://github.com/BrainBlend-AI"
+    "type": "user",
+    "handle": "Eigenwise",
+    "url": "https://github.com/Eigenwise"
   },
   "source": {
     "primary": "github",
-    "github": "BrainBlend-AI/atomic-agents",
+    "github": "Eigenwise/atomic-agents",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://eigenwise.github.io/atomic-agents/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 5974,
+    "stars": 5971,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-03T07:22:58Z",
+    "last_commit_at": "2026-06-09T20:37:24Z",
     "first_commit_at": "2024-06-03T08:24:07Z",
-    "forks": 512,
+    "forks": 513,
     "watchers": 55,
     "open_issues": 9,
     "archived": false,
@@ -48,10 +48,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4615,
-  "rank_in_category": 84,
+  "composite_score": 0.4669,
+  "rank_in_category": 80,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:11:10.415815Z",
-  "last_refreshed_at": "2026-06-09T16:54:37.050193Z",
+  "first_seen_at": "2026-06-10T17:24:51.297687Z",
+  "last_refreshed_at": "2026-06-10T17:24:51.297691Z",
   "consecutive_refresh_failures": 0
 }

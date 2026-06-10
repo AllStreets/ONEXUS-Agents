@@ -1,0 +1,60 @@
+{
+  "slug": "atomspace",
+  "name": "atomspace",
+  "tagline": "The OpenCog (hyper-)graph database and graph rewriting system",
+  "category": "game-playing",
+  "tags": [
+    "atomspace",
+    "graph-database",
+    "graph-rewriting",
+    "knowledge-base",
+    "knowledge-graph",
+    "knowledge-representation",
+    "logic-programming",
+    "query-engine",
+    "query-language",
+    "relational-algebra"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "opencog",
+    "url": "https://github.com/opencog"
+  },
+  "source": {
+    "primary": "github",
+    "github": "opencog/atomspace",
+    "huggingface": null,
+    "homepage": "https://wiki.opencog.org/w/AtomSpace"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 974,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-10T22:58:01Z",
+    "first_commit_at": "2008-01-21T16:46:40Z",
+    "forks": 254,
+    "watchers": 84,
+    "open_issues": 68,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5631,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:04:43.405438Z",
+  "last_refreshed_at": "2026-06-10T18:04:43.405442Z",
+  "consecutive_refresh_failures": 0
+}

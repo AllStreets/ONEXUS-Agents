@@ -1,0 +1,60 @@
+{
+  "slug": "gym-anytrading",
+  "name": "gym-anytrading",
+  "tagline": "The most simple, flexible, and comprehensive OpenAI Gym trading environment (Approved by OpenAI Gym)",
+  "category": "game-playing",
+  "tags": [
+    "dqn",
+    "forex",
+    "gym-environments",
+    "openai-gym",
+    "q-learning",
+    "reinforcement-learning",
+    "stocks",
+    "trading",
+    "trading-algorithms",
+    "trading-environments"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AminHP",
+    "url": "https://github.com/AminHP"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AminHP/gym-anytrading",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2384,
+    "downloads_30d": null,
+    "last_commit_at": "2024-03-14T04:33:05Z",
+    "first_commit_at": "2019-09-16T17:28:27Z",
+    "forks": 483,
+    "watchers": 85,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5102,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:04:29.660510Z",
+  "last_refreshed_at": "2026-06-10T18:04:29.660513Z",
+  "consecutive_refresh_failures": 0
+}

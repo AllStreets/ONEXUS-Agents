@@ -1,0 +1,55 @@
+{
+  "slug": "explainable-minichess",
+  "name": "explainable-minichess",
+  "tagline": "Chess environment for smaller chess variants, AlphaZero-like MCTS-learning, and Concept Detection",
+  "category": "game-playing",
+  "tags": [
+    "alphazero",
+    "chess",
+    "chess-ai",
+    "concept-detection",
+    "mcts"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "patrik-ha",
+    "url": "https://github.com/patrik-ha"
+  },
+  "source": {
+    "primary": "github",
+    "github": "patrik-ha/explainable-minichess",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 22,
+    "downloads_30d": null,
+    "last_commit_at": "2023-07-15T09:41:13Z",
+    "first_commit_at": "2022-11-09T15:47:21Z",
+    "forks": 6,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3486,
+  "rank_in_category": 134,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:04:59.333537Z",
+  "last_refreshed_at": "2026-06-10T18:04:59.333540Z",
+  "consecutive_refresh_failures": 0
+}

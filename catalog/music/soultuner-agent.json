@@ -1,0 +1,62 @@
+{
+  "slug": "soultuner-agent",
+  "name": "SoulTuner-Agent",
+  "tagline": "🎵 专属你的私人数字调音师|AI 音乐搜索推荐 Agent | 基于大模型 + 知识图谱 + 双模型声学向量的本地智能音乐推荐系统 | LLM-powered Music Recommendation Agent with Hybrid RAG, Neo4j, and Long-term Memory",
+  "category": "music",
+  "tags": [
+    "ai-agent",
+    "audio-embedding",
+    "hybrid-retrieval",
+    "knowledge-graph",
+    "langgraph",
+    "llm-agent",
+    "long-term-memory",
+    "multimodal-ai",
+    "music-ai",
+    "music-recommendation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hgsanyang",
+    "url": "https://github.com/hgsanyang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hgsanyang/SoulTuner-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T17:46:39Z",
+    "first_commit_at": "2026-03-17T08:29:01Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.346,
+  "rank_in_category": 80,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:02:10.511492Z",
+  "last_refreshed_at": "2026-06-10T18:02:10.511495Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "fopbot",
+  "name": "fopbot",
+  "tagline": "A small environment with robot agents used for teaching programming basics",
+  "category": "robotics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "tudalgo",
+    "url": "https://github.com/tudalgo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tudalgo/fopbot",
+    "huggingface": null,
+    "homepage": "https://tudalgo.github.io/fopbot/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T09:35:44Z",
+    "first_commit_at": "2021-09-09T21:05:03Z",
+    "forks": 4,
+    "watchers": 2,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5119,
+  "rank_in_category": 80,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:06:19.205919Z",
+  "last_refreshed_at": "2026-06-10T18:06:19.205923Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "textworld",
+  "name": "TextWorld",
+  "tagline": "​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.",
+  "category": "game-playing",
+  "tags": [
+    "reinforcement-learning",
+    "text-based-adventure",
+    "text-based-game"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/TextWorld",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1415,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-30T19:15:32Z",
+    "first_commit_at": "2018-06-26T18:00:56Z",
+    "forks": 196,
+    "watchers": 35,
+    "open_issues": 20,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5612,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:04:00.060765Z",
+  "last_refreshed_at": "2026-06-10T18:04:00.060769Z",
+  "consecutive_refresh_failures": 0
+}

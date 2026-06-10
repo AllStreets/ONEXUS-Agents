@@ -1,7 +1,7 @@
 {
   "slug": "craftbot",
   "name": "CraftBot",
-  "tagline": "A Personal AI Assistant that creates and operates its own SaaS tools",
+  "tagline": "The agent that builds and operates its own Saas tools",
   "category": "desktop-os-automation",
   "tags": [
     "agent-architecture",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "CraftOS-dev/CraftBot",
     "huggingface": null,
-    "homepage": "https://craftos.net/craftbot.html"
+    "homepage": "https://craftbot.live/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 344,
+    "stars": 348,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-09T12:41:42Z",
-    "first_commit_at": "2025-12-02T04:11:27Z",
-    "forks": 32,
+    "last_commit_at": "2026-06-10T04:10:30Z",
+    "first_commit_at": "2025-12-02T04:11:26Z",
+    "forks": 33,
     "watchers": 6,
-    "open_issues": 19,
+    "open_issues": 21,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -52,9 +52,9 @@
   "runnable": false,
   "adapter_ref": null,
   "composite_score": 0.3828,
-  "rank_in_category": 83,
+  "rank_in_category": 84,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:27:11.633396Z",
-  "last_refreshed_at": "2026-06-09T17:01:56.077863Z",
+  "last_refreshed_at": "2026-06-10T17:28:02.059046Z",
   "consecutive_refresh_failures": 0
 }

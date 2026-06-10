@@ -1,19 +1,19 @@
 {
   "slug": "heym",
   "name": "heym",
-  "tagline": "Self-hosted AI workflow automation platform with visual canvas, agents, RAG, HITL, MCP, and observability in one runtime.",
+  "tagline": "Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, observability, evals, token cost tracking and more.",
   "category": "multi-agent-orchestration",
   "tags": [
-    "ai",
     "ai-agents",
     "ai-agents-framework",
     "ai-assistant",
     "automation",
     "automation-tool",
+    "autonomous-agents",
+    "coding-agent",
+    "evals",
     "human-in-the-loop",
-    "mcp",
-    "mcp-server",
-    "mcp-tool"
+    "mcp"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 586,
+    "stars": 578,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-09T15:46:15Z",
-    "first_commit_at": "2026-04-27T05:08:33Z",
+    "last_commit_at": "2026-06-10T08:45:23Z",
+    "first_commit_at": "2026-03-28T08:08:49Z",
     "forks": 63,
     "watchers": 20,
-    "open_issues": 1,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4456,
-  "rank_in_category": 115,
+  "composite_score": 0.4472,
+  "rank_in_category": 111,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:13:45.718752Z",
-  "last_refreshed_at": "2026-06-09T17:07:12.918041Z",
+  "last_refreshed_at": "2026-06-10T17:30:37.203417Z",
   "consecutive_refresh_failures": 0
 }

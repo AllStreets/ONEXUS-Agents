@@ -1,0 +1,63 @@
+{
+  "slug": "automaintainer",
+  "name": "AutoMaintainer",
+  "tagline": "An Always-On Autonomous AI Software Engineering Team built with LangGraph, FastAPI, and Next.js that operates natively within your GitHub repositories.",
+  "category": "coding",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "ai-agents",
+    "ai-coding-assistant",
+    "automation",
+    "autonomous-agents",
+    "developer-tools",
+    "fastapi",
+    "generative-ai",
+    "gitnexus"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "PxA-Labs",
+    "url": "https://github.com/PxA-Labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PxA-Labs/AutoMaintainer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-10T11:18:56Z",
+    "first_commit_at": "2026-05-28T18:58:07Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3041,
+  "rank_in_category": 408,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T16:36:30.334698Z",
+  "last_refreshed_at": "2026-06-10T16:36:30.334701Z",
+  "consecutive_refresh_failures": 0
+}

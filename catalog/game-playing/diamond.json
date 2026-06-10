@@ -1,0 +1,58 @@
+{
+  "slug": "diamond",
+  "name": "diamond",
+  "tagline": "DIAMOND (DIffusion As a Model Of eNvironment Dreams) is a reinforcement learning agent trained in a diffusion world model. NeurIPS 2024 Spotlight.",
+  "category": "game-playing",
+  "tags": [
+    "artificial-intelligence",
+    "atari",
+    "deep-learning",
+    "diffusion-models",
+    "machine-learning",
+    "reinforcement-learning",
+    "research",
+    "world-models"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "eloialonso",
+    "url": "https://github.com/eloialonso"
+  },
+  "source": {
+    "primary": "github",
+    "github": "eloialonso/diamond",
+    "huggingface": null,
+    "homepage": "https://diamond-wm.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2057,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-06T16:45:28Z",
+    "first_commit_at": "2024-05-20T03:30:35Z",
+    "forks": 157,
+    "watchers": 21,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4962,
+  "rank_in_category": 58,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:04:30.793193Z",
+  "last_refreshed_at": "2026-06-10T18:04:30.793197Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "multi-agent-customer-support",
+  "name": "Multi-Agent-Customer-Support",
+  "tagline": "Multi-agent AI customer support system for a digital music store. Built with LangGraph, Gradio, and the Chinook database. Features supervisor   routing, music catalog & invoice agents, human-in-the-lo",
+  "category": "music",
+  "tags": [
+    "gradio",
+    "huggingface",
+    "langgraph",
+    "memory-management",
+    "openai",
+    "orchestration",
+    "pydantic-v2",
+    "python",
+    "sqlalchemy"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ANI-IN",
+    "url": "https://github.com/ANI-IN"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ANI-IN/Multi-Agent-Customer-Support",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/spaces/animeshkcm/Multi-Agent-Customer-Support"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-23T10:55:23Z",
+    "first_commit_at": "2026-04-16T20:11:13Z",
+    "forks": 26,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "gradio",
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.415,
+  "rank_in_category": 57,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:02:03.524462Z",
+  "last_refreshed_at": "2026-06-10T18:02:03.524466Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "pysc2-rl-agents",
+  "name": "pysc2-rl-agents",
+  "tagline": "StarCraft II / PySC2 Deep Reinforcement Learning Agents (A2C)",
+  "category": "game-playing",
+  "tags": [
+    "a2c",
+    "a3c",
+    "deep-reinforcement-learning",
+    "pysc2",
+    "pysc2-agent",
+    "pysc2-mini-games",
+    "starcraft-ii",
+    "tensorflow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "simonmeister",
+    "url": "https://github.com/simonmeister"
+  },
+  "source": {
+    "primary": "github",
+    "github": "simonmeister/pysc2-rl-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 141,
+    "downloads_30d": null,
+    "last_commit_at": "2018-10-25T01:56:30Z",
+    "first_commit_at": "2017-12-05T10:18:36Z",
+    "forks": 38,
+    "watchers": 13,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4207,
+  "rank_in_category": 83,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:04:10.989600Z",
+  "last_refreshed_at": "2026-06-10T18:04:10.989602Z",
+  "consecutive_refresh_failures": 0
+}

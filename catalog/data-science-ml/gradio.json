@@ -1,0 +1,62 @@
+{
+  "slug": "gradio",
+  "name": "gradio",
+  "tagline": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+  "category": "data-science-ml",
+  "tags": [
+    "data-analysis",
+    "data-science",
+    "data-visualization",
+    "deep-learning",
+    "deploy",
+    "gradio",
+    "gradio-interface",
+    "interface",
+    "machine-learning",
+    "models"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "gradio-app",
+    "url": "https://github.com/gradio-app"
+  },
+  "source": {
+    "primary": "github",
+    "github": "gradio-app/gradio",
+    "huggingface": null,
+    "homepage": "http://www.gradio.app/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 42875,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-10T16:35:35Z",
+    "first_commit_at": "2018-09-19T14:30:40Z",
+    "forks": 3485,
+    "watchers": 196,
+    "open_issues": 272,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "gradio"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4775,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:34.115514Z",
+  "last_refreshed_at": "2026-06-10T16:40:23.716407Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "edgevox",
+  "name": "edgevox",
+  "tagline": "Offline voice agent framework for robots — agents, skills, workflows, sub-second voice pipeline, 2D/3D simulation (IR-SIM + MuJoCo), 16 languages, 56 voices, ROS2-native. Runs on CPU/CUDA/Metal, no cl",
+  "category": "robotics",
+  "tags": [
+    "agent-framework",
+    "edge-ai",
+    "faster-whisper",
+    "kokoro",
+    "llama-cpp",
+    "llm",
+    "local-ai",
+    "mujoco",
+    "offline-ai",
+    "piper"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nrl-ai",
+    "url": "https://github.com/nrl-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nrl-ai/edgevox",
+    "huggingface": null,
+    "homepage": "https://edgevox.nrl.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-02T06:51:53Z",
+    "first_commit_at": "2026-04-11T05:13:37Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3877,
+  "rank_in_category": 160,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T18:06:20.802451Z",
+  "last_refreshed_at": "2026-06-10T18:06:20.802454Z",
+  "consecutive_refresh_failures": 0
+}

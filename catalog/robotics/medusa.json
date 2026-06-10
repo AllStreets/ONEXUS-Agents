@@ -1,7 +1,7 @@
 {
   "slug": "medusa",
   "name": "medusa",
-  "tagline": "AI-first security scanner with 76 analyzers, 9,600+ detection rules, and repo poisoning detection for AI/ML, LLM agents, and MCP servers. Scan any GitHub repo with: medusa scan --git user/repo",
+  "tagline": "AI-first security scanner with 79 analyzers, 40,000+ detection rules, and repo poisoning detection for AI/ML, LLM agents, and MCP servers. Scan any GitHub repo with: medusa scan --git user/repo",
   "category": "robotics",
   "tags": [
     "agent-security",
@@ -28,13 +28,13 @@
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 594,
+    "stars": 595,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-28T07:42:38Z",
-    "first_commit_at": "2025-11-15T15:55:22Z",
+    "last_commit_at": "2026-06-10T15:46:52Z",
+    "first_commit_at": "2025-11-15T16:12:08Z",
     "forks": 108,
     "watchers": 6,
-    "open_issues": 4,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6694,
-  "rank_in_category": 11,
+  "composite_score": 0.6746,
+  "rank_in_category": 17,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-08T18:38:33.834903Z",
-  "last_refreshed_at": "2026-06-08T18:38:33.834906Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-10T18:07:13.207419Z",
+  "consecutive_refresh_failures": 0
 }

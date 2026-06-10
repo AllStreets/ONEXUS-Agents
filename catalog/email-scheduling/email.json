@@ -1,0 +1,57 @@
+{
+  "slug": "email",
+  "name": "email",
+  "tagline": "Hands-free voice email triage — one email at a time, by voice. Anthropic Claude + Web Speech API + Gmail OAuth.",
+  "category": "email-scheduling",
+  "tags": [
+    "anthropic",
+    "email-agent",
+    "gmail",
+    "nextjs",
+    "voice-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "thegirwhocodes",
+    "url": "https://github.com/thegirwhocodes"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thegirwhocodes/email",
+    "huggingface": null,
+    "homepage": "https://voice-email-app.vercel.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-10T04:41:05Z",
+    "first_commit_at": "2026-04-24T01:01:58Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4154,
+  "rank_in_category": 108,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-10T17:32:26.791010Z",
+  "last_refreshed_at": "2026-06-10T17:32:26.791013Z",
+  "consecutive_refresh_failures": 0
+}

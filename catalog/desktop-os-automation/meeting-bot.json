@@ -1,33 +1,40 @@
 {
   "slug": "meeting-bot",
-  "name": "meeting-bot",
-  "tagline": "Universal meeting  bot to record Google Meet, Zoom, and Microsoft Teams — with a single API. Runs in production. Free to use, extend, and scale.",
+  "name": "meeting_bot",
+  "tagline": "This is a simple bot which automatically log you in to your scheduled meeting. So there will be no more hassle for you to join any meeting ",
   "category": "desktop-os-automation",
   "tags": [
-    "meeting-api",
-    "meeting-recorder",
-    "universal-meeting-bot-api"
+    "automation",
+    "bot",
+    "engineering",
+    "google",
+    "google-meet",
+    "meetings",
+    "pandas",
+    "pandas-python",
+    "project-based-learning",
+    "python"
   ],
   "author": {
-    "type": "org",
-    "handle": "screenappai",
-    "url": "https://github.com/screenappai"
+    "type": "user",
+    "handle": "CoderAbhinav",
+    "url": "https://github.com/CoderAbhinav"
   },
   "source": {
     "primary": "github",
-    "github": "screenappai/meeting-bot",
+    "github": "CoderAbhinav/meeting_bot",
     "huggingface": null,
-    "homepage": "https://screenapp.io/"
+    "homepage": null
   },
-  "license": "MIT",
+  "license": "GPL-3.0",
   "metrics": {
-    "stars": 139,
+    "stars": 12,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-22T04:30:30Z",
-    "first_commit_at": "2025-06-30T11:11:17Z",
-    "forks": 54,
-    "watchers": 5,
-    "open_issues": 4,
+    "last_commit_at": "2021-04-23T04:26:24Z",
+    "first_commit_at": "2021-03-20T16:42:33Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -44,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3682,
-  "rank_in_category": 93,
+  "composite_score": 0.2072,
+  "rank_in_category": 276,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-09T17:13:34.866747Z",
-  "last_refreshed_at": "2026-06-09T17:13:34.866751Z",
+  "first_seen_at": "2026-06-10T17:34:14.147009Z",
+  "last_refreshed_at": "2026-06-10T17:34:14.147013Z",
   "consecutive_refresh_failures": 0
 }
