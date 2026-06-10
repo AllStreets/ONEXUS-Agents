@@ -1,0 +1,6 @@
+# Require owner review on the supply-chain-sensitive paths: anything that
+# runs in CI, the pipeline that holds secrets, and the package manifest.
+/.github/workflows/   @AllStreets
+/.github/             @AllStreets
+/pipeline/            @AllStreets
+/pyproject.toml       @AllStreets
