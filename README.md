@@ -66,6 +66,7 @@ Thirteen categories anchor on a **real, peer-recognised benchmark** that contrib
 | | Category | Anchor |
 |---|---|---|
 | ◆ | coding | SWE-bench Verified |
+| ◆ | data-science-ml | MLE-bench |
 | ◆ | legal-research | LegalBench |
 | ◆ | browser-automation | WebArena |
 | ◆ | desktop-os-automation | OSWorld |
@@ -73,13 +74,17 @@ Thirteen categories anchor on a **real, peer-recognised benchmark** that contrib
 | ◆ | multi-agent-orchestration | GAIA |
 | ◆ | spreadsheet-excel | SpreadsheetBench |
 | ◆ | sql-analytics | BIRD-bench |
+| ◆ | image-generation | GenAI-Bench |
+| ◆ | video-generation | VBench |
+| ◆ | search-rag | BEIR |
+| ◆ | security-pentesting | CyberSecEval |
 
 </td>
 <td valign="top" width="50%">
 
 #### Popularity-ranked
 
-`web-dev` · `data-engineering` · `data-science-ml` · `financial-modeling` · `customer-support` · `content-writing` · `image-generation` · `video-generation` · `audio-speech` · `translation` · `search-rag` · `document-processing` · `email-scheduling` · `devops-sre` · `security-pentesting` · `bioinformatics` · `scientific-research` · `education-tutoring` · `healthcare` · `travel-planning` · `sales-crm` · `marketing` · `social-media` · `e-commerce` · `real-estate` · `cooking` · `music` · `game-playing` · `robotics` · `knowledge-management` · `pdf-forms` · `3d-cad`
+`web-dev` · `data-engineering` · `financial-modeling` · `customer-support` · `content-writing` · `audio-speech` · `translation` · `document-processing` · `email-scheduling` · `devops-sre` · `bioinformatics` · `scientific-research` · `education-tutoring` · `healthcare` · `travel-planning` · `sales-crm` · `marketing` · `social-media` · `e-commerce` · `real-estate` · `cooking` · `music` · `game-playing` · `robotics` · `knowledge-management` · `pdf-forms` · `3d-cad`
 
 </td>
 </tr>
@@ -170,13 +175,22 @@ You do *not* need to compute `composite_score`, `rank_in_category`, or any Tier 
 
 ## ONEXUS integration
 
-ONEXUS reads this catalog directly. Point `NEXUS_AGENTS_CATALOG` at a local clone:
+The catalog ships its own typed Python client and an MCP server wrapper so ONEXUS — and any downstream consumer — reads it without scraping HTML or cloning the repo.
 
 ```bash
-git clone https://github.com/AllStreets/ONEXUS-Agents.git
-export NEXUS_AGENTS_CATALOG=/path/to/ONEXUS-Agents
-onexus run
+pip install "onexus-agents-pipeline[client]"   # typed Python client (httpx)
+pip install "onexus-agents-pipeline[mcp]"      # MCP server exposing the 3 tools below
 ```
+
+```python
+from pipeline.client import OnexusAgentsClient
+
+c = OnexusAgentsClient.from_url()                       # → onexus-agents.vercel.app
+# c = OnexusAgentsClient.from_local("/path/to/ONEXUS-Agents")  # offline / dev
+runnable = c.runnable_only()                            # list[Agent]
+```
+
+For wiring the catalog into NEXUS and SMADP specifically, [`docs/integrate/`](docs/integrate/) ships ready-to-run scripts: `smadp.sh` installs the client into SMADP's venv and dry-runs a sync into `catalog/profiles/_unverified/`; `nexus.sh` installs the client + MCP extra into NEXUS's venv and prints the exact `nexus/mcp/tools.py` patch.
 
 Three MCP tools expose the catalog inside ONEXUS:
 
@@ -267,7 +281,7 @@ Combines: `archived` flag, `is_fork` / `is_template` flags, semantic identity (H
 ├── adapters/                 MCP wrappers for runnable agents
 ├── reports/                  daily quality summaries (one MD per day)
 │
-├── pipeline/                 ingestion · scoring · reporting · classifier
+├── pipeline/                 ingestion · scoring · reporting · client · MCP
 │   ├── crawlers/             GitHub + Hugging Face fetchers
 │   ├── benchmarks/           benchmark scrapers
 │   ├── seeds/                hand-curated YAML seeds per category
@@ -277,12 +291,17 @@ Combines: `archived` flag, `is_fork` / `is_template` flags, semantic identity (H
 │   ├── frameworks.py         Tier 3 framework detection
 │   ├── ranking.py            composite score + quality sub-score
 │   ├── report.py             daily quality summary
+│   ├── client.py             typed Python client (HTTP + local)
+│   ├── mcp_server.py         MCP server exposing the 3 ONEXUS tools
+│   ├── smadp_sync.py         catalog → SMADP profile sync helper
 │   ├── nightly.py            13:00 UTC entry point
 │   └── weekly.py             17:00 UTC Sunday entry point
 │
 ├── site/                     Astro 4 + Tailwind v4 dashboard
 ├── .github/                  workflows · issue/PR templates · README assets
-└── docs/                     design specs + migration notes
+└── docs/
+    ├── integrate/            ready-to-run NEXUS + SMADP wiring scripts
+    └── …                     design specs + migration notes
 ```
 
 ---
