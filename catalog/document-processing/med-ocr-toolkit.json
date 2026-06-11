@@ -1,0 +1,58 @@
+{
+  "slug": "med-ocr-toolkit",
+  "name": "med-ocr-toolkit",
+  "tagline": "OCR document processor for healthcare — extracts patient URNs from scanned clinical PDFs",
+  "category": "document-processing",
+  "tags": [
+    "clinical-documents",
+    "document-extraction",
+    "healthcare",
+    "healthcare-application",
+    "ocr",
+    "pdf-processing",
+    "python",
+    "tesseract"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Monika-Sonnadmath",
+    "url": "https://github.com/Monika-Sonnadmath"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Monika-Sonnadmath/med-ocr-toolkit",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-21T10:02:43Z",
+    "first_commit_at": "2026-05-21T09:56:26Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4067,
+  "rank_in_category": 157,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-11T17:45:56.483398Z",
+  "last_refreshed_at": "2026-06-11T17:45:56.483402Z",
+  "consecutive_refresh_failures": 0
+}

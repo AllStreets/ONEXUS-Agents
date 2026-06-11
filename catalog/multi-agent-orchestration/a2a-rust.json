@@ -1,0 +1,62 @@
+{
+  "slug": "a2a-rust",
+  "name": "a2a-rust",
+  "tagline": "Type-safe, async Rust SDK for the Agent2Agent (A2A) protocol, built to the final v1.0.0 spec — JSON-RPC, REST, WebSocket & gRPC for building interoperable AI agents",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a",
+    "a2a-protocol",
+    "a2a-sdk",
+    "a2a-server",
+    "a2a-types",
+    "agent-orchestration",
+    "agentic-ai",
+    "agentic-ai-development",
+    "agents",
+    "agents-sdk"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tomtom215",
+    "url": "https://github.com/tomtom215"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tomtom215/a2a-rust",
+    "huggingface": null,
+    "homepage": "https://a2a-rust.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-10T23:07:33Z",
+    "first_commit_at": "2026-03-15T00:20:45Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "openai-agents-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3061,
+  "rank_in_category": 417,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-11T17:52:12.741280Z",
+  "last_refreshed_at": "2026-06-11T17:52:12.741283Z",
+  "consecutive_refresh_failures": 0
+}

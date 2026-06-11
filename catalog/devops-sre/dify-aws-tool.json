@@ -1,0 +1,49 @@
+{
+  "slug": "dify-aws-tool",
+  "name": "dify-aws-tool",
+  "tagline": "dify-aws-tool",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "aws-samples",
+    "url": "https://github.com/aws-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-samples/dify-aws-tool",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT-0",
+  "metrics": {
+    "stars": 178,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-06T02:31:12Z",
+    "first_commit_at": "2024-07-01T03:34:13Z",
+    "forks": 40,
+    "watchers": 3,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5136,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:09:24.086298Z",
+  "last_refreshed_at": "2026-06-11T17:37:53.503173Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "lean-ctx",
   "name": "lean-ctx",
-  "tagline": "LeanCTX (Lean Context) — context intelligence for AI agents. One local binary that decides what your agents read, remembers what they learn, guards what they touch, and proves what they save. 60–90% f",
+  "tagline": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they to",
   "category": "coding",
   "tags": [
     "agentic-coding",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 2589,
+    "stars": 2622,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-10T14:49:12Z",
+    "last_commit_at": "2026-06-11T13:13:24Z",
     "first_commit_at": "2026-03-23T13:30:19Z",
-    "forks": 265,
-    "watchers": 18,
-    "open_issues": 7,
+    "forks": 266,
+    "watchers": 19,
+    "open_issues": 9,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4233,
+  "composite_score": 0.4235,
   "rank_in_category": 98,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-04T15:13:13.680819Z",
-  "last_refreshed_at": "2026-06-10T16:37:48.078937Z",
+  "last_refreshed_at": "2026-06-11T16:57:20.675732Z",
   "consecutive_refresh_failures": 0
 }

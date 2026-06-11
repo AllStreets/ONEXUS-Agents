@@ -1,0 +1,56 @@
+{
+  "slug": "weavebench",
+  "name": "WeaveBench",
+  "tagline": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces (paper code release)",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent-as-judge",
+    "benchmark",
+    "computer-use-agent",
+    "gui-agent",
+    "hybrid-interface",
+    "llm-evaluation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "weavebench",
+    "url": "https://github.com/weavebench"
+  },
+  "source": {
+    "primary": "github",
+    "github": "weavebench/WeaveBench",
+    "huggingface": null,
+    "homepage": "https://weavebench.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 30,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-11T02:32:56Z",
+    "first_commit_at": "2026-06-05T16:21:28Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3139,
+  "rank_in_category": 152,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-11T17:43:48.412757Z",
+  "last_refreshed_at": "2026-06-11T17:43:48.412761Z",
+  "consecutive_refresh_failures": 0
+}

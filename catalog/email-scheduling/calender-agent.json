@@ -1,0 +1,55 @@
+{
+  "slug": "calender-agent",
+  "name": "calender_agent",
+  "tagline": "AI Calendar Agent is our capstone submission for https://www.kaggle.com/learn-guide/5-day-agents",
+  "category": "email-scheduling",
+  "tags": [
+    "agents",
+    "ai-agents",
+    "google-ai-adk",
+    "google-calendar-api",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TheCapstoneTeam",
+    "url": "https://github.com/TheCapstoneTeam"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TheCapstoneTeam/calender_agent",
+    "huggingface": null,
+    "homepage": "https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/ai-calendar-agent"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-03T05:26:24Z",
+    "first_commit_at": "2025-11-21T04:41:02Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3149,
+  "rank_in_category": 168,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-11T17:49:48.156819Z",
+  "last_refreshed_at": "2026-06-11T17:49:48.156822Z",
+  "consecutive_refresh_failures": 0
+}

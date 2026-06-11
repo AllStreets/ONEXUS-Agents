@@ -1,0 +1,49 @@
+{
+  "slug": "gemma-tuner-multimodal",
+  "name": "gemma-tuner-multimodal",
+  "tagline": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
+  "category": "data-science-ml",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "mattmireles",
+    "url": "https://github.com/mattmireles"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mattmireles/gemma-tuner-multimodal",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1461,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-12T17:52:40Z",
+    "first_commit_at": "2025-06-24T21:04:43Z",
+    "forks": 104,
+    "watchers": 10,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3452,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:01.075890Z",
+  "last_refreshed_at": "2026-06-11T17:08:05.289877Z",
+  "consecutive_refresh_failures": 0
+}

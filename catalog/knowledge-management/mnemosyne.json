@@ -1,0 +1,56 @@
+{
+  "slug": "mnemosyne",
+  "name": "mnemosyne",
+  "tagline": "The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents and Everyone Else!",
+  "category": "knowledge-management",
+  "tags": [
+    "agents",
+    "ai",
+    "hermes",
+    "hermes-agent",
+    "ml",
+    "nousresearch"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AxDSan",
+    "url": "https://github.com/AxDSan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AxDSan/mnemosyne",
+    "huggingface": null,
+    "homepage": "https://mnemosyne.site/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1077,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-11T16:31:32Z",
+    "first_commit_at": "2026-04-05T14:59:04Z",
+    "forks": 102,
+    "watchers": 10,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5988,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-11T17:44:18.956546Z",
+  "last_refreshed_at": "2026-06-11T17:44:18.956549Z",
+  "consecutive_refresh_failures": 0
+}

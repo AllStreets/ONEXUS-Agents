@@ -1,7 +1,7 @@
 {
   "slug": "email",
   "name": "email",
-  "tagline": "Hands-free voice email triage — one email at a time, by voice. Anthropic Claude + Web Speech API + Gmail OAuth.",
+  "tagline": "Sage Mail - voice-first Gmail agent that reads what matters, drafts in your voice, and requires approval before sending.",
   "category": "email-scheduling",
   "tags": [
     "anthropic",
@@ -25,7 +25,7 @@
   "metrics": {
     "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-10T04:41:05Z",
+    "last_commit_at": "2026-06-11T15:40:26Z",
     "first_commit_at": "2026-04-24T01:01:58Z",
     "forks": 0,
     "watchers": 0,
@@ -48,10 +48,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4154,
-  "rank_in_category": 108,
+  "composite_score": 0.4162,
+  "rank_in_category": 109,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-10T17:32:26.791010Z",
-  "last_refreshed_at": "2026-06-10T17:32:26.791013Z",
+  "last_refreshed_at": "2026-06-11T17:48:18.709197Z",
   "consecutive_refresh_failures": 0
 }
