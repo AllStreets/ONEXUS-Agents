@@ -8,12 +8,15 @@ profile JSON matching SMADP's existing _unverified schema with the
 safety-evaluation fields left empty (so SMADP's analysis pipeline
 knows what to fill in).
 
-Schema match: this script targets SMADP's actual seed shape (slug, name,
-tagline, category, capabilities, io_surfaces, concurrency_model,
-data_classes_touched, evidence_refs, pairings, permissions_requested,
-sandboxing, verification, schema_version). Safety-classification fields
-default to empty objects/arrays — that's how SMADP's loader recognises
-"needs analysis."
+Schema match: this script targets SMADP's Profile model v1.1
+(smadp/schemas/profile.py): vendor is an object, source_type is the
+hyphenated enum, verification is the strict 4-field block, and catalog
+provenance rides in the top-level `onexus` dict alongside
+`evidence_level: "unverified-profile"` and `composite_score` — the exact
+fields SMADP's EnrichmentPlanner uses to queue research once a seed is
+promoted into catalog/profiles/. Safety-classification fields default to
+empty objects/arrays — that's how SMADP's loader recognises "needs
+analysis."
 
 What we DO fill in (from catalog metadata, low judgment-call):
   slug, name, tagline, category, homepage (source URL), source_type,
@@ -40,14 +43,25 @@ from pathlib import Path
 
 from pipeline.client import OnexusAgentsClient
 
-SCHEMA_VERSION = "1.0"
+SCHEMA_VERSION = "1.1"
 
 
 def _source_type(agent) -> str:
     """SMADP distinguishes between open-source repos and SaaS products.
     The catalog only tracks open-source by definition — every entry has
-    a github or huggingface source — so source_type is always 'open_source'."""
-    return "open_source"
+    a github or huggingface source — so source_type is always 'open-source'
+    (SMADP's SourceType enum is hyphenated)."""
+    return "open-source"
+
+
+def _vendor(agent) -> dict:
+    """SMADP's Vendor model: type is company|org|individual. The catalog's
+    author.type is user|org — map user to individual."""
+    return {
+        "type": "org" if agent.author.type == "org" else "individual",
+        "handle": agent.author.handle,
+        "url": str(agent.author.url),
+    }
 
 
 def _homepage(agent) -> str | None:
@@ -73,11 +87,15 @@ def to_smadp_profile(agent) -> dict:
     return {
         "schema_version": SCHEMA_VERSION,
         "slug": agent.slug,
-        "name": agent.name,
-        "tagline": agent.tagline,
+        # SMADP enforces max lengths (name 100, tagline 200).
+        "name": agent.name[:100],
+        "tagline": (agent.tagline or None) and agent.tagline[:200],
         "category": agent.category,
-        "vendor": agent.author.handle,
+        "vendor": _vendor(agent),
         "homepage": _homepage(agent),
+        "repo_url": (
+            f"https://github.com/{agent.source.github}" if agent.source.github else None
+        ),
         "source_type": _source_type(agent),
         "first_seen_at": (
             agent.first_seen_at.isoformat() if agent.first_seen_at else now
@@ -87,7 +105,7 @@ def to_smadp_profile(agent) -> dict:
         ),
         # Safety-classification fields. SMADP's analysis pipeline fills these.
         # Empty containers (not null) so SMADP's loader knows "structurally valid,
-        # just unevaluated."
+        # just unevaluated" — every subfield has a conservative schema default.
         "capabilities": {},
         "io_surfaces": {},
         "concurrency_model": {},
@@ -96,20 +114,34 @@ def to_smadp_profile(agent) -> dict:
         "pairings": [],
         "permissions_requested": {},
         "sandboxing": {},
-        # Verification block — provenance + status.
+        # Verification block — strict shape (SMADP forbids extra keys here).
         "verification": {
-            "evidence_level": "pending",
-            "sourced_from": "ONEXUS-Agents",
+            "status": "unverified",
+            "verified_by": None,
+            "verified_at": now,
+            "method": "auto-only",
+        },
+        # Autopilot-pipeline metadata. evidence_level "unverified-profile" +
+        # onexus.source_github is exactly what SMADP's EnrichmentPlanner keys
+        # on, so a seed promoted out of _unverified/ into catalog/profiles/
+        # enters the research queue with no further transformation.
+        "evidence_level": "unverified-profile",
+        "composite_score": max(0.0, min(1.0, agent.composite_score)),
+        "license": agent.license,
+        "onexus": {
+            "source_github": agent.source.github,
+            "source_huggingface": agent.source.huggingface,
+            "author_handle": agent.author.handle,
+            "tags": agent.tags,
+            "runnable": bool(agent.runnable),
+            "mcp_adapter": agent.adapter_ref,
+            "rank_in_category": agent.rank_in_category,
+            "discovered_via": agent.discovered_via,
+            "frameworks_detected": agent.metrics.frameworks or [],
             "source_catalog_url": (
                 f"https://onexus-agents.vercel.app/catalog/{agent.category}/{agent.slug}"
             ),
-            "composite_score": agent.composite_score,
-            "rank_in_category": agent.rank_in_category,
-            "discovered_via": agent.discovered_via,
-            "runnable_via_mcp": bool(agent.runnable),
-            "mcp_adapter": agent.adapter_ref,
-            "frameworks_detected": agent.metrics.frameworks or [],
-            "license": agent.license,
+            "sourced_from": "ONEXUS-Agents",
             "synced_at": now,
         },
     }
@@ -144,6 +176,30 @@ def main() -> None:
         help="Don't overwrite seeds that already exist (default: overwrite to refresh provenance).",
     )
     parser.add_argument(
+        "--skip-existing-in",
+        action="append",
+        default=[],
+        metavar="DIR",
+        help=(
+            "Also skip slugs that already have a profile anywhere under DIR "
+            "(recursive; repeatable). Point this at SMADP's catalog/profiles "
+            "so seeds are only written for agents SMADP has never seen — "
+            "slugs already imported (e.g. by bootstrap-onexus) would "
+            "otherwise collide and fail smadp lint's duplicate check."
+        ),
+    )
+    parser.add_argument(
+        "--max-new",
+        type=int,
+        default=None,
+        metavar="N",
+        help=(
+            "Write at most N new seeds this run (volume cap for unattended "
+            "nightly syncs). Deferred candidates are counted and reported, "
+            "not silently dropped; they remain eligible next run."
+        ),
+    )
+    parser.add_argument(
         "--dry-run",
         action="store_true",
         help="Print counts; write nothing.",
@@ -154,6 +210,10 @@ def main() -> None:
     out_dir = Path(args.out)
     out_dir.mkdir(parents=True, exist_ok=True)
 
+    known_slugs: set[str] = set()
+    for d in args.skip_existing_in:
+        known_slugs.update(p.stem for p in Path(d).rglob("*.json"))
+
     if args.runnable_only:
         agents = client.runnable_only()
     else:
@@ -163,15 +223,23 @@ def main() -> None:
             if a.runnable or a.composite_score >= args.min_score
         ]
 
-    written = skipped_archived = skipped_existing = 0
+    written = skipped_archived = skipped_existing = skipped_known = deferred = 0
+    seen_this_run: set[str] = set()
     for a in agents:
         if a.metrics.archived or False:
             skipped_archived += 1
             continue
+        if a.slug in known_slugs:
+            skipped_known += 1
+            continue
         target = out_dir / f"{a.slug}.json"
-        if args.skip_existing and target.exists():
+        if a.slug in seen_this_run or (args.skip_existing and target.exists()):
             skipped_existing += 1
             continue
+        if args.max_new is not None and written >= args.max_new:
+            deferred += 1
+            continue
+        seen_this_run.add(a.slug)
         profile = to_smadp_profile(a)
         if args.dry_run:
             written += 1
@@ -180,10 +248,14 @@ def main() -> None:
         written += 1
 
     verb = "would write" if args.dry_run else "wrote"
-    print(
-        f"{verb} {written} seeds · skipped {skipped_archived} archived"
-        + (f" · skipped {skipped_existing} existing" if args.skip_existing else "")
-    )
+    parts = [f"{verb} {written} seeds", f"skipped {skipped_archived} archived"]
+    if args.skip_existing:
+        parts.append(f"skipped {skipped_existing} existing")
+    if args.skip_existing_in:
+        parts.append(f"skipped {skipped_known} already known to SMADP")
+    if deferred:
+        parts.append(f"deferred {deferred} past --max-new cap (eligible next run)")
+    print(" · ".join(parts))
 
 
 if __name__ == "__main__":
