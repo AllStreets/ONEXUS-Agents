@@ -84,9 +84,26 @@ def write_report(
 
     fw_hist = _framework_histogram(new_agents).most_common()
 
+    # One-shot correction notice: if reports/.correction-pending exists, emit
+    # its contents at the top of THIS report and delete the sentinel, so the
+    # note never double-sends and every later report uses the standard
+    # template again.
+    correction_note = ""
+    correction_sentinel = REPORTS_DIR / ".correction-pending"
+    if correction_sentinel.exists():
+        correction_note = correction_sentinel.read_text().strip()
+        try:
+            correction_sentinel.unlink()
+        except OSError:
+            pass
+
     lines: list[str] = [
         f"# Catalog Report — {today}",
         "",
+    ]
+    if correction_note:
+        lines += [correction_note, ""]
+    lines += [
         "## Totals",
         f"- Agents: **{new_total:,}**{_format_delta(new_total, prev_total)}",
         f"- Categories: **{len(new_cats)}** populated",
