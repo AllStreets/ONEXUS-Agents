@@ -12,6 +12,11 @@ on:
       - "catalog/**"
       - "pipeline/**"
 
+# Checks only — schema validation and lint. Never writes to the repo.
+# pull_request runs can come from external contributors, so least privilege.
+permissions:
+  contents: read
+
 env:
   # Opt into Node.js 24 ahead of the 2026-09-16 deprecation of Node 20.
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
@@ -46,3 +51,30 @@ jobs:
           pip install -e ".[dev]"
       - name: ruff
         run: ruff check pipeline
+
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: pip-audit (Python deps)
+        run: |
+          python -m pip install --upgrade pip pip-audit
+          pip install -e .
+          pip-audit --strict --desc
+      - uses: pnpm/action-setup@b906affcce14559ad1aafd4ab0e942779e9f58b1 # v4
+        with:
+          version: 9
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: pnpm
+          cache-dependency-path: site/pnpm-lock.yaml
+      - name: pnpm audit (site deps)
+        working-directory: site
+        run: |
+          pnpm install --frozen-lockfile
+          pnpm audit --prod
