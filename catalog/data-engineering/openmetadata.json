@@ -1,0 +1,62 @@
+{
+  "slug": "openmetadata",
+  "name": "OpenMetadata",
+  "tagline": "The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
+  "category": "data-engineering",
+  "tags": [
+    "context",
+    "context-layer",
+    "data-catalog",
+    "data-collaboration",
+    "data-contracts",
+    "data-discovery",
+    "data-governance",
+    "data-lineage",
+    "data-observability",
+    "data-profiling"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "open-metadata",
+    "url": "https://github.com/open-metadata"
+  },
+  "source": {
+    "primary": "github",
+    "github": "open-metadata/OpenMetadata",
+    "huggingface": null,
+    "homepage": "https://open-metadata.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 14166,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-11T17:09:27Z",
+    "first_commit_at": "2021-08-01T21:27:44Z",
+    "forks": 2155,
+    "watchers": 56,
+    "open_issues": 896,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.8137,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-11T17:09:45.054813Z",
+  "last_refreshed_at": "2026-06-11T17:09:45.054816Z",
+  "consecutive_refresh_failures": 0
+}

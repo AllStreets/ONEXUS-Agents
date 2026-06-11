@@ -1,19 +1,19 @@
 {
   "slug": "agentflow4j",
   "name": "agentflow4j",
-  "tagline": "AgentFlow4J helps you create, coordinate and govern AI agents working together on business tasks.  Built for Java — with approvals, budgets, permissions, checkpoints and production-grade execution.",
+  "tagline": "Build AI agents you can trust in production.  AgentFlow4J is a framework and runtime for governed, stateful multi-agent systems on the JVM.  Human approvals · Checkpoints · Budget controls · Tool poli",
   "category": "multi-agent-orchestration",
   "tags": [
-    "agent-orchestration",
-    "agent-runtime",
-    "agentic-ai",
-    "agentic-workflow",
+    "agent-runtimes",
     "ai-agents",
-    "durable-execution",
+    "durable-workflows",
+    "finops",
     "governance",
     "human-in-the-loop",
     "java",
-    "java-ai"
+    "multi-agents",
+    "spring-ai",
+    "spring-boot"
   ],
   "author": {
     "type": "org",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 36,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-08T16:56:08Z",
+    "last_commit_at": "2026-06-11T07:47:59Z",
     "first_commit_at": "2026-04-19T07:14:29Z",
     "forks": 12,
     "watchers": 1,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3288,
-  "rank_in_category": 368,
+  "composite_score": 0.3305,
+  "rank_in_category": 361,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:01:04.686637Z",
-  "last_refreshed_at": "2026-06-10T17:04:03.297664Z",
+  "last_refreshed_at": "2026-06-11T17:23:44.070457Z",
   "consecutive_refresh_failures": 0
 }

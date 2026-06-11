@@ -1,0 +1,49 @@
+{
+  "slug": "sample-aws-devops-agent-claude-plugin",
+  "name": "sample-aws-devops-agent-claude-plugin",
+  "tagline": "Connect Claude Code to the AWS DevOps Agent through the AWS MCP Server.",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "aws-samples",
+    "url": "https://github.com/aws-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-samples/sample-aws-devops-agent-claude-plugin",
+    "huggingface": null,
+    "homepage": "https://docs.aws.amazon.com/devopsagent/latest/userguide/working-with-devops-agent-interfacing-with-the-devops-agent.html"
+  },
+  "license": "MIT-0",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-22T18:24:46Z",
+    "first_commit_at": "2026-05-11T23:01:24Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3365,
+  "rank_in_category": 172,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-11T17:51:05.028302Z",
+  "last_refreshed_at": "2026-06-11T17:51:05.028305Z",
+  "consecutive_refresh_failures": 0
+}

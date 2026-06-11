@@ -3,7 +3,18 @@
   "name": "omnigraph",
   "tagline": "Lakehouse native graph engine with git-style workflows",
   "category": "knowledge-management",
-  "tags": [],
+  "tags": [
+    "agent-memory",
+    "ai-agents",
+    "apache-arrow",
+    "datafusion",
+    "graph-database",
+    "knowledge-graph",
+    "lakehouse",
+    "lance",
+    "mcp",
+    "rust"
+  ],
   "author": {
     "type": "org",
     "handle": "ModernRelay",
@@ -19,11 +30,11 @@
   "metrics": {
     "stars": 289,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-10T16:17:18Z",
-    "first_commit_at": "2026-04-10T17:50:30Z",
+    "last_commit_at": "2026-06-11T18:02:15Z",
+    "first_commit_at": "2026-04-10T17:49:41Z",
     "forks": 24,
     "watchers": 6,
-    "open_issues": 2,
+    "open_issues": 6,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -35,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.549,
-  "rank_in_category": 101,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6221,
+  "rank_in_category": 56,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-08T18:39:31.043905Z",
-  "last_refreshed_at": "2026-06-10T18:07:55.825358Z",
+  "last_refreshed_at": "2026-06-11T18:24:21.828535Z",
   "consecutive_refresh_failures": 0
 }

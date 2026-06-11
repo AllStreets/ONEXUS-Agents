@@ -1,0 +1,59 @@
+{
+  "slug": "llm-chain",
+  "name": "llm-chain",
+  "tagline": "`llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks",
+  "category": "knowledge-management",
+  "tags": [
+    "chatgpt",
+    "langchain",
+    "llama",
+    "llm",
+    "openai",
+    "rust",
+    "text-summary"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sobelio",
+    "url": "https://github.com/sobelio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sobelio/llm-chain",
+    "huggingface": null,
+    "homepage": "https://llm-chain.xyz/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1601,
+    "downloads_30d": null,
+    "last_commit_at": "2024-10-31T16:19:00Z",
+    "first_commit_at": "2023-03-24T23:50:25Z",
+    "forks": 142,
+    "watchers": 17,
+    "open_issues": 42,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4799,
+  "rank_in_category": 149,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-07T09:56:57.003433Z",
+  "last_refreshed_at": "2026-06-11T17:23:00.729446Z",
+  "consecutive_refresh_failures": 0
+}

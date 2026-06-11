@@ -1,0 +1,51 @@
+{
+  "slug": "langgraph-home-assistant",
+  "name": "langgraph-home-assistant",
+  "tagline": "langgraph-home-assistant",
+  "category": "desktop-os-automation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "benjichat",
+    "url": "https://github.com/benjichat"
+  },
+  "source": {
+    "primary": "github",
+    "github": "benjichat/langgraph-home-assistant",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 106,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-14T19:06:08Z",
+    "first_commit_at": "2025-03-04T18:20:22Z",
+    "forks": 15,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.264,
+  "rank_in_category": 224,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:14:58.659375Z",
+  "last_refreshed_at": "2026-06-11T17:49:57.050702Z",
+  "consecutive_refresh_failures": 0
+}

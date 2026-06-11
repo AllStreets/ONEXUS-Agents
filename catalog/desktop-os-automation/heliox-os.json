@@ -1,0 +1,60 @@
+{
+  "slug": "heliox-os",
+  "name": "Heliox-OS",
+  "tagline": "An open-source, privacy-first AI System Control Agent (JARVIS-like) using voice and hand gestures",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai-agent",
+    "automation",
+    "daemon",
+    "desktop-app",
+    "jarvis",
+    "localllm",
+    "ollama",
+    "python",
+    "svelte",
+    "tauri"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "VyomKulshrestha",
+    "url": "https://github.com/VyomKulshrestha"
+  },
+  "source": {
+    "primary": "github",
+    "github": "VyomKulshrestha/Heliox-OS",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 53,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-11T10:57:15Z",
+    "first_commit_at": "2026-03-06T22:11:16Z",
+    "forks": 105,
+    "watchers": 1,
+    "open_issues": 55,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3604,
+  "rank_in_category": 101,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-11T17:50:00.034742Z",
+  "last_refreshed_at": "2026-06-11T17:50:00.034746Z",
+  "consecutive_refresh_failures": 0
+}

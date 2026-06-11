@@ -1,8 +1,0 @@
-> **Data correction (one-time).** Through the 2026-06-10 report, the totals in
-> these reports were counted *before* the per-category caps and quality floor
-> were applied to the catalog, so they overstated it — e.g. 2026-06-10 reported
-> **9,045 agents / 809 runnable** while the actually-published catalog (and the
-> site) held ~**8,761 / 795**. Starting with this report the totals are counted
-> from the published catalog on disk — the same files the site renders — so the
-> report, the site, and the catalog now agree. Subsequent reports use the
-> standard template.

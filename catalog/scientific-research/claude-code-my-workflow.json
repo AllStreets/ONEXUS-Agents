@@ -3,7 +3,18 @@
   "name": "claude-code-my-workflow",
   "tagline": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.",
   "category": "scientific-research",
-  "tags": [],
+  "tags": [
+    "academic-writing",
+    "causal-inference",
+    "claude-code",
+    "claude-code-skills",
+    "econometrics",
+    "economics",
+    "latex",
+    "quarto",
+    "reproducible-research",
+    "research-workflow"
+  ],
   "author": {
     "type": "user",
     "handle": "pedrohcgs",
@@ -13,15 +24,15 @@
     "primary": "github",
     "github": "pedrohcgs/claude-code-my-workflow",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://psantanna.com/claude-code-my-workflow/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1227,
+    "stars": 1251,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-01T00:46:42Z",
+    "last_commit_at": "2026-06-10T18:20:30Z",
     "first_commit_at": "2026-02-06T20:43:52Z",
-    "forks": 2504,
+    "forks": 2534,
     "watchers": 7,
     "open_issues": 12,
     "archived": false,
@@ -40,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6224,
-  "rank_in_category": 49,
+  "composite_score": 0.6358,
+  "rank_in_category": 39,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:02:07.322320Z",
-  "last_refreshed_at": "2026-06-08T17:28:31.032147Z",
-  "consecutive_refresh_failures": 2
+  "last_refreshed_at": "2026-06-11T17:25:21.700491Z",
+  "consecutive_refresh_failures": 0
 }

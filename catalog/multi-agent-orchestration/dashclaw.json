@@ -1,0 +1,65 @@
+{
+  "slug": "dashclaw",
+  "name": "DashClaw",
+  "tagline": "🛡️The governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "agent-governance",
+    "agent-runtime",
+    "ai-agents",
+    "ai-governance",
+    "ai-infrastructure",
+    "ai-ops",
+    "autogen",
+    "claude-code",
+    "crew-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ucsandman",
+    "url": "https://github.com/ucsandman"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ucsandman/DashClaw",
+    "huggingface": null,
+    "homepage": "https://www.dashclaw.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 274,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-11T13:53:48Z",
+    "first_commit_at": "2026-02-08T02:34:15Z",
+    "forks": 48,
+    "watchers": 4,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "autogen",
+      "crewai",
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4329,
+  "rank_in_category": 141,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-11T17:49:05.089635Z",
+  "last_refreshed_at": "2026-06-11T17:49:05.089638Z",
+  "consecutive_refresh_failures": 0
+}

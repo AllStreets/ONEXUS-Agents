@@ -1,0 +1,62 @@
+{
+  "slug": "korean-law-mcp",
+  "name": "korean-law-mcp",
+  "tagline": "국가법령정보MCP v4.4 | 법제처 42개 API → 9개 MCP 도구. 법령·판례·조례·조약 + 다단계 리서치(legal_research) + 정밀분석(legal_analysis: 인용검증·판례생사·행위시법·영향그래프) | 42 Korean legal APIs → 9 MCP tools",
+  "category": "legal-research",
+  "tags": [
+    "citation-verification",
+    "citizen-guide",
+    "claude",
+    "hallucination-detection",
+    "impact-graph",
+    "korean-law",
+    "law",
+    "law-diff",
+    "legal",
+    "legal-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "chrisryugj",
+    "url": "https://github.com/chrisryugj"
+  },
+  "source": {
+    "primary": "github",
+    "github": "chrisryugj/korean-law-mcp",
+    "huggingface": null,
+    "homepage": "https://www.npmjs.com/package/korean-law-mcp"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1942,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-11T04:31:05Z",
+    "first_commit_at": "2025-12-19T10:54:19Z",
+    "forks": 363,
+    "watchers": 8,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4635,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-11T17:19:30.548093Z",
+  "last_refreshed_at": "2026-06-11T17:19:30.548096Z",
+  "consecutive_refresh_failures": 0
+}

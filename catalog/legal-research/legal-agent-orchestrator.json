@@ -6,12 +6,12 @@
   "tags": [],
   "author": {
     "type": "user",
-    "handle": "kipeum86",
-    "url": "https://github.com/kipeum86"
+    "handle": "lowtidebuild",
+    "url": "https://github.com/lowtidebuild"
   },
   "source": {
     "primary": "github",
-    "github": "kipeum86/legal-agent-orchestrator",
+    "github": "lowtidebuild/legal-agent-orchestrator",
     "huggingface": null,
     "homepage": null
   },
@@ -19,11 +19,11 @@
   "metrics": {
     "stars": 38,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-27T09:07:11Z",
+    "last_commit_at": "2026-06-11T16:05:54Z",
     "first_commit_at": "2026-04-10T02:31:05Z",
     "forks": 10,
     "watchers": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -38,12 +38,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.336,
-  "rank_in_category": 30,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2846,
+  "rank_in_category": 67,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-01T14:27:13.499321Z",
-  "last_refreshed_at": "2026-06-10T16:58:28.018043Z",
+  "first_seen_at": "2026-06-11T17:17:54.266111Z",
+  "last_refreshed_at": "2026-06-11T17:17:54.266114Z",
   "consecutive_refresh_failures": 0
 }

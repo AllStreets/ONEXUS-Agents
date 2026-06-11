@@ -4,12 +4,13 @@
   "tagline": "Natural-language interface to your computer's shell, Python, and files.",
   "category": "coding",
   "tags": [
-    "chatgpt",
-    "gpt-4",
+    "coding-agent",
+    "deepseek",
     "interpreter",
-    "javascript",
-    "nodejs",
-    "python"
+    "kimi",
+    "qwen",
+    "rust",
+    "tui"
   ],
   "author": {
     "type": "org",
@@ -22,15 +23,15 @@
     "huggingface": null,
     "homepage": "http://openinterpreter.com/"
   },
-  "license": "AGPL-3.0",
+  "license": "Apache-2.0",
   "metrics": {
-    "stars": 63850,
+    "stars": 63858,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-09T22:32:08Z",
-    "first_commit_at": "2023-07-14T07:10:44Z",
-    "forks": 5543,
-    "watchers": 462,
-    "open_issues": 335,
+    "last_commit_at": "2026-06-10T16:53:55Z",
+    "first_commit_at": "2025-04-16T16:56:08Z",
+    "forks": 5544,
+    "watchers": 461,
+    "open_issues": 336,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -47,10 +48,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "adapters/open-interpreter/mcp.json",
-  "composite_score": 0.5083,
-  "rank_in_category": 6,
+  "composite_score": 0.4869,
+  "rank_in_category": 14,
   "discovered_via": "seed",
   "first_seen_at": "2026-04-30T03:21:34.749284Z",
-  "last_refreshed_at": "2026-06-10T16:34:49.411365Z",
+  "last_refreshed_at": "2026-06-11T16:54:16.079474Z",
   "consecutive_refresh_failures": 0
 }
