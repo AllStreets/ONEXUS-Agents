@@ -51,7 +51,7 @@ jobs:
       - name: validate created entry
         run: onexus-agents-validate
 
-      - name: open auto-merge PR
+      - name: open review PR (maintainer approval required)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUM: ${{ github.event.issue.number }}
@@ -78,23 +78,17 @@ jobs:
               --base main \
               --head "$BRANCH" \
               --title "submission: $ISSUE_TITLE" \
-              --body "Auto-generated from issue #${ISSUE_NUM}.
+              --body "Auto-generated from issue #${ISSUE_NUM}. **Awaiting maintainer review** — a human must approve and merge this PR before the agent is published. Do not auto-merge: this is untrusted external input.
 
           $BODY"
           fi
 
-          for i in $(seq 1 24); do
-            STATE=$(gh pr view "$BRANCH" --json mergeStateStatus --jq '.mergeStateStatus')
-            if [ "$STATE" != "UNKNOWN" ]; then
-              echo "merge state ready: $STATE"
-              break
-            fi
-            sleep 5
-          done
-
-          gh pr merge "$BRANCH" --squash --auto
-
-          gh issue comment "$ISSUE_NUM" --body "Submission accepted — opened auto-merge PR. Branch: \`$BRANCH\`"
+          # NOTE: deliberately NO auto-merge. Issue-form submissions are
+          # untrusted external input, so a maintainer must review + merge the
+          # PR manually. This is the only published-catalog path that isn't
+          # already human-gated; auto-merging it would let anyone post an agent
+          # without review.
+          gh issue comment "$ISSUE_NUM" --body "Thanks! Your submission opened PR for **maintainer review** — branch \`$BRANCH\`. It publishes only after a maintainer approves and merges it."
 
       - name: report failure on issue
         if: failure()
