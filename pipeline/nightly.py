@@ -534,7 +534,16 @@ def main(
         progress.advance(t3)
 
     drops_file = _record_drops(dropped) if not dry_run else None
-    total_kept = sum(min(len(v), TOP_N) for v in by_cat.values())
+    # Count what was ACTUALLY written to disk so the report + _run_stats match
+    # the published catalog (and the site, which reads the same files). by_cat
+    # still holds the pre-truncation lists, so a min(len, TOP_N) estimate
+    # overstates the real total. On dry-run nothing is written, so estimate.
+    if dry_run:
+        published_agents: list[Agent] | None = None
+        total_kept = sum(min(len(v), TOP_N) for v in by_cat.values())
+    else:
+        published_agents = list(_index_existing().values())
+        total_kept = len(published_agents)
     console.print(f"[green]Done.[/] {total_kept} agents across {len(by_cat)} categories.")
     console.print(f"[dim]budget left · gh={budget.gh_remaining} hf={budget.hf_remaining}")
     if drops_file:
@@ -556,12 +565,11 @@ def main(
 
     # Daily quality summary. Written alongside the catalog so it lands in
     # the same auto-merge PR. Skip on dry-run since the catalog is unchanged.
-    if not dry_run:
-        # Flatten by_cat using each agent's category attribute, which may have
-        # been reassigned by the classifier during _discover. Counting against
-        # cat slugs in by_cat would miscount the reassignments.
-        new_agents = [a for ags in by_cat.values() for a in ags]
-        report_path = write_report(new_agents, prev_agents, final_stats, cap_per_cat=TOP_N)
+    if not dry_run and published_agents is not None:
+        # Report from the actual published catalog (re-read from disk) so its
+        # totals, runnable count, framework coverage, and per-category figures
+        # match the site exactly — the site reads these same files.
+        report_path = write_report(published_agents, prev_agents, final_stats, cap_per_cat=TOP_N)
         console.print(f"[dim]report written → {report_path.relative_to(CATALOG_DIR.parent)}")
 
 
