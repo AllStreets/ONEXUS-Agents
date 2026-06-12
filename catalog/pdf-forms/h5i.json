@@ -1,7 +1,7 @@
 {
   "slug": "h5i",
   "name": "h5i",
-  "tagline": "Next-Gen AI-Aware Git. Auditable sandbox, model/prompt-aware commits, 95% less token waste, 3.5x richer PR brief, 1.8x faster multi-agent loops.",
+  "tagline": "Next-Gen AI-Aware Git. Auditable sandbox, prompt-aware commits, 95% less token waste, 3.5x richer PR brief, 1.8x faster multi-agent loops.",
   "category": "pdf-forms",
   "tags": [
     "agent",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 321,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-11T16:50:17Z",
+    "last_commit_at": "2026-06-12T17:36:34Z",
     "first_commit_at": "2026-03-11T04:30:52Z",
     "forks": 16,
     "watchers": 2,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6538,
+  "composite_score": 0.6539,
   "rank_in_category": 9,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-08T18:41:03.966596Z",
-  "last_refreshed_at": "2026-06-11T18:26:33.778573Z",
+  "last_refreshed_at": "2026-06-12T17:45:58.971036Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,55 @@
+{
+  "slug": "windsurfapi",
+  "name": "WindsurfAPI",
+  "tagline": "Windsurf-to-OpenAI compatible API proxy",
+  "category": "devops-sre",
+  "tags": [
+    "api-proxy",
+    "llm-gateway",
+    "openai-compatible",
+    "reverse-engineering",
+    "windsurf"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dwgx",
+    "url": "https://github.com/dwgx"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dwgx/WindsurfAPI",
+    "huggingface": null,
+    "homepage": "https://dwgx.github.io/WindsurfAPI/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2805,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-10T14:13:59Z",
+    "first_commit_at": "2026-04-09T09:41:58Z",
+    "forks": 590,
+    "watchers": 13,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5658,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:02.791235Z",
+  "last_refreshed_at": "2026-06-12T16:22:44.508461Z",
+  "consecutive_refresh_failures": 0
+}

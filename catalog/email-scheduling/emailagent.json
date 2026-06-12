@@ -1,35 +1,37 @@
 {
   "slug": "emailagent",
   "name": "EmailAgent",
-  "tagline": "Automated Email Agent built with TypeScript and Node.js that securely connects to Gmail via OAuth2, fetches unread emails, stores them in MongoDB, and marks them as read — forming the base for future ",
+  "tagline": "Intelligent Email Agent built with Blazor Server, C#, and AI (Hugging Face / OpenAI) for automated email analysis, ERP integration, and smart reply generation.",
   "category": "email-scheduling",
   "tags": [
-    "automation",
+    "ai",
+    "blazor",
+    "blazor-server",
+    "blazor-server-app",
+    "csharp",
+    "csharp-code",
+    "dotnet",
     "email-agent",
-    "gmail-integration",
-    "googleapi",
-    "mongodb",
-    "nodejs",
-    "oauth2",
-    "python"
+    "email-agent-ai-blazor-csharp-dotnet",
+    "erp"
   ],
   "author": {
     "type": "user",
-    "handle": "sambhandavale",
-    "url": "https://github.com/sambhandavale"
+    "handle": "DanieleS86",
+    "url": "https://github.com/DanieleS86"
   },
   "source": {
     "primary": "github",
-    "github": "sambhandavale/EmailAgent",
+    "github": "DanieleS86/EmailAgent",
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 1,
+    "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2025-11-13T20:08:17Z",
-    "first_commit_at": "2025-11-10T10:38:00Z",
+    "last_commit_at": "2025-10-06T06:27:36Z",
+    "first_commit_at": "2025-10-01T06:24:50Z",
     "forks": 0,
     "watchers": 0,
     "open_issues": 0,
@@ -49,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2443,
-  "rank_in_category": 194,
+  "composite_score": 0.2367,
+  "rank_in_category": 199,
   "discovered_via": "auto",
-  "first_seen_at": "2026-04-30T03:27:59.050969Z",
-  "last_refreshed_at": "2026-06-11T17:48:15.937011Z",
+  "first_seen_at": "2026-06-12T17:09:44.492525Z",
+  "last_refreshed_at": "2026-06-12T17:09:44.492527Z",
   "consecutive_refresh_failures": 0
 }

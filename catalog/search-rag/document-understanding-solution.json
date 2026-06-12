@@ -1,0 +1,59 @@
+{
+  "slug": "document-understanding-solution",
+  "name": "document-understanding-solution",
+  "tagline": "Example of integrating & using Amazon Textract, Amazon Comprehend, Amazon Comprehend Medical, Amazon Kendra to automate the processing of documents for use cases such as enterprise search and discover",
+  "category": "search-rag",
+  "tags": [
+    "amazon-comprehend",
+    "amazon-elasticsearch",
+    "amazon-kendra",
+    "amazon-textract",
+    "aws",
+    "aws-cdk",
+    "aws-machine-learning",
+    "cdk",
+    "machine-learning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aws-solutions",
+    "url": "https://github.com/aws-solutions"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-solutions/document-understanding-solution",
+    "huggingface": null,
+    "homepage": "https://aws.amazon.com/solutions/implementations/document-understanding-solution/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 233,
+    "downloads_30d": null,
+    "last_commit_at": "2023-10-25T22:30:27Z",
+    "first_commit_at": "2019-11-26T22:31:37Z",
+    "forks": 90,
+    "watchers": 7,
+    "open_issues": 1,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0763,
+  "rank_in_category": 309,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:13:55.707781Z",
+  "last_refreshed_at": "2026-06-12T17:08:25.357369Z",
+  "consecutive_refresh_failures": 0
+}
