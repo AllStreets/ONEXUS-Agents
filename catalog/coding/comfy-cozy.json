@@ -1,7 +1,7 @@
 {
   "slug": "comfy-cozy",
   "name": "Comfy-Cozy",
-  "tagline": "AI co-pilot for ComfyUI. Talk to your workflow — load, patch, run, learn. 113 MCP tools, four LLM providers (Claude, GPT-4o, Gemini, Ollama), full undo, native sidebar.",
+  "tagline": "AI co-pilot for ComfyUI. Talk to your workflow — load, patch, validate, run, learn. 129 MCP tools, sub-second re-validate, EXR-aware vision, workflow.lock provenance, multi-endpoint floors, Origin-gat",
   "category": "coding",
   "tags": [
     "ai-agent",
@@ -10,10 +10,10 @@
     "cognitive-architecture",
     "comfyui",
     "comfyui-extension",
-    "copilot",
     "flux",
     "gemini",
-    "generative-ai"
+    "generative-ai",
+    "llm"
   ],
   "author": {
     "type": "user",
@@ -30,11 +30,11 @@
   "metrics": {
     "stars": 18,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-06T23:41:38Z",
+    "last_commit_at": "2026-06-11T18:07:26Z",
     "first_commit_at": "2026-02-10T15:54:51Z",
     "forks": 1,
     "watchers": 1,
-    "open_issues": 2,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3218,
-  "rank_in_category": 351,
+  "composite_score": 0.3255,
+  "rank_in_category": 340,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:04:55.242451Z",
-  "last_refreshed_at": "2026-06-09T16:43:53.335664Z",
-  "consecutive_refresh_failures": 2
+  "last_refreshed_at": "2026-06-12T16:52:29.805700Z",
+  "consecutive_refresh_failures": 0
 }

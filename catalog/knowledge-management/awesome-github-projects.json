@@ -19,7 +19,7 @@
   "metrics": {
     "stars": 810,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-11T01:30:57Z",
+    "last_commit_at": "2026-06-12T01:34:22Z",
     "first_commit_at": "2024-03-19T08:16:34Z",
     "forks": 90,
     "watchers": 7,
@@ -38,12 +38,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.6255,
-  "rank_in_category": 55,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6755,
+  "rank_in_category": 28,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-11T17:12:50.009575Z",
-  "last_refreshed_at": "2026-06-11T17:12:50.009578Z",
+  "first_seen_at": "2026-06-06T10:00:44.749612Z",
+  "last_refreshed_at": "2026-06-12T16:44:51.227454Z",
   "consecutive_refresh_failures": 0
 }

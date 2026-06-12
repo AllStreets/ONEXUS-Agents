@@ -1,0 +1,57 @@
+{
+  "slug": "jurisd",
+  "name": "jurisd",
+  "tagline": "MCP server for Australian and New Zealand legal research. Searches AustLII for case law and legislation, retrieves full-text judgements with paragraph numbers preserved, and supports OCR for scanned P",
+  "category": "legal-research",
+  "tags": [
+    "ai",
+    "anz",
+    "austlii",
+    "law",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "russellbrenner",
+    "url": "https://github.com/russellbrenner"
+  },
+  "source": {
+    "primary": "github",
+    "github": "russellbrenner/jurisd",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 22,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-12T11:32:01Z",
+    "first_commit_at": "2025-10-09T01:25:02Z",
+    "forks": 8,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3669,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-12T16:41:36.555689Z",
+  "last_refreshed_at": "2026-06-12T16:41:36.555692Z",
+  "consecutive_refresh_failures": 0
+}

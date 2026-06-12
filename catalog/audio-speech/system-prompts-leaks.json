@@ -1,7 +1,7 @@
 {
   "slug": "system-prompts-leaks",
   "name": "system_prompts_leaks",
-  "tagline": "Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex, Google - Gemini - 3.5 Flash, 3.1 Pro, Antigravity, xA",
+  "tagline": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
   "category": "audio-speech",
   "tags": [
     "ai",
@@ -28,12 +28,12 @@
   },
   "license": "CC0-1.0",
   "metrics": {
-    "stars": 41317,
+    "stars": 41823,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-06T00:25:49Z",
+    "last_commit_at": "2026-06-12T00:30:44Z",
     "first_commit_at": "2025-05-03T02:43:56Z",
-    "forks": 6850,
-    "watchers": 511,
+    "forks": 6924,
+    "watchers": 520,
     "open_issues": 26,
     "archived": false,
     "is_fork": false,
@@ -46,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "anthropic-sdk"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.7367,
-  "rank_in_category": 4,
+  "composite_score": 0.7677,
+  "rank_in_category": 2,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:08:20.066340Z",
-  "last_refreshed_at": "2026-06-06T15:03:11.410149Z",
-  "consecutive_refresh_failures": 5
+  "last_refreshed_at": "2026-06-12T16:58:32.700191Z",
+  "consecutive_refresh_failures": 0
 }

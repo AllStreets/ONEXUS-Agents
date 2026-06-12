@@ -1,35 +1,40 @@
 {
   "slug": "openagents",
-  "name": "openagents",
-  "tagline": "OpenAgents - AI Agent Networks for Open Collaboration",
+  "name": "OpenAgents",
+  "tagline": "[COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild",
   "category": "multi-agent-orchestration",
   "tags": [
-    "agents",
-    "ai",
-    "collaboration",
+    "agent",
+    "assistant-chat-bots",
+    "code-generation",
+    "executable-langauge-grounding",
+    "gpt",
+    "hacktoberfest",
+    "language-model",
+    "language-model-agent",
     "llm",
-    "network"
+    "semantic-parsing"
   ],
   "author": {
     "type": "org",
-    "handle": "openagents-org",
-    "url": "https://github.com/openagents-org"
+    "handle": "xlang-ai",
+    "url": "https://github.com/xlang-ai"
   },
   "source": {
     "primary": "github",
-    "github": "openagents-org/openagents",
+    "github": "xlang-ai/OpenAgents",
     "huggingface": null,
-    "homepage": "https://openagents.org/"
+    "homepage": "https://arxiv.org/abs/2310.10634"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 3762,
+    "stars": 4837,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-11T15:18:01Z",
-    "first_commit_at": "2025-03-10T22:27:52Z",
-    "forks": 370,
-    "watchers": 61,
-    "open_issues": 76,
+    "last_commit_at": "2024-11-18T09:39:29Z",
+    "first_commit_at": "2023-08-08T09:15:28Z",
+    "forks": 532,
+    "watchers": 41,
+    "open_issues": 13,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4416,
-  "rank_in_category": 121,
+  "composite_score": 0.3371,
+  "rank_in_category": 355,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:15:52.091659Z",
-  "last_refreshed_at": "2026-06-11T17:52:43.621932Z",
+  "first_seen_at": "2026-06-06T09:50:34.236810Z",
+  "last_refreshed_at": "2026-06-12T16:27:18.481318Z",
   "consecutive_refresh_failures": 0
 }

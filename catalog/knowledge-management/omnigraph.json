@@ -4,16 +4,16 @@
   "tagline": "Lakehouse native graph engine with git-style workflows",
   "category": "knowledge-management",
   "tags": [
-    "agent-memory",
-    "ai-agents",
     "apache-arrow",
+    "context-graph",
     "datafusion",
     "graph-database",
     "knowledge-graph",
     "lakehouse",
     "lance",
     "mcp",
-    "rust"
+    "rust",
+    "s3"
   ],
   "author": {
     "type": "org",
@@ -30,11 +30,11 @@
   "metrics": {
     "stars": 289,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-11T18:02:15Z",
+    "last_commit_at": "2026-06-12T14:50:47Z",
     "first_commit_at": "2026-04-10T17:49:41Z",
     "forks": 24,
     "watchers": 6,
-    "open_issues": 6,
+    "open_issues": 10,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6221,
-  "rank_in_category": 56,
+  "composite_score": 0.622,
+  "rank_in_category": 57,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-08T18:39:31.043905Z",
-  "last_refreshed_at": "2026-06-11T18:24:21.828535Z",
+  "last_refreshed_at": "2026-06-12T17:44:00.962992Z",
   "consecutive_refresh_failures": 0
 }
