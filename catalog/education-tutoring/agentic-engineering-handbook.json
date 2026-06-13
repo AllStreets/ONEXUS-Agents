@@ -1,0 +1,61 @@
+{
+  "slug": "agentic-engineering-handbook",
+  "name": "agentic-engineering-handbook",
+  "tagline": "The definitive OpenAI, Claude, MCP, Harness, Evals, and Production Agent Systems learning roadmap.",
+  "category": "education-tutoring",
+  "tags": [
+    "agentic-engineering",
+    "agents",
+    "ai-agents",
+    "anthropic",
+    "claude-code",
+    "llm",
+    "mcp",
+    "openai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "keyuchen21",
+    "url": "https://github.com/keyuchen21"
+  },
+  "source": {
+    "primary": "github",
+    "github": "keyuchen21/agentic-engineering-handbook",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 50,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-13T01:21:13Z",
+    "first_commit_at": "2026-06-09T15:24:55Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4735,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-12T16:45:33.365376Z",
+  "last_refreshed_at": "2026-06-13T15:25:08.015962Z",
+  "consecutive_refresh_failures": 0
+}

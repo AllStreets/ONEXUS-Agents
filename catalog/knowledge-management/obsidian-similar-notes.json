@@ -1,0 +1,55 @@
+{
+  "slug": "obsidian-similar-notes",
+  "name": "obsidian-similar-notes",
+  "tagline": "obsidian-similar-notes",
+  "category": "knowledge-management",
+  "tags": [
+    "obsidian",
+    "ollama",
+    "transformers"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "joybro",
+    "url": "https://github.com/joybro"
+  },
+  "source": {
+    "primary": "github",
+    "github": "joybro/obsidian-similar-notes",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 101,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-13T08:30:19Z",
+    "first_commit_at": "2025-05-06T12:17:41Z",
+    "forks": 9,
+    "watchers": 2,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5665,
+  "rank_in_category": 95,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-13T15:37:25.616314Z",
+  "last_refreshed_at": "2026-06-13T15:37:25.616318Z",
+  "consecutive_refresh_failures": 0
+}

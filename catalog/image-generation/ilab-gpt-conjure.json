@@ -1,0 +1,60 @@
+{
+  "slug": "ilab-gpt-conjure",
+  "name": "ilab-gpt-conjure",
+  "tagline": "面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-",
+  "category": "image-generation",
+  "tags": [
+    "ai-art",
+    "ai-image-generation",
+    "cli",
+    "codex",
+    "fastapi",
+    "generative-ai",
+    "gpt-image-2",
+    "image-editing",
+    "image-generation",
+    "img2img"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kadevin",
+    "url": "https://github.com/kadevin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kadevin/ilab-gpt-conjure",
+    "huggingface": null,
+    "homepage": "https://github.com/kadevin/ilab-gpt-conjure/blob/main/RELEASES.md"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 257,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-13T08:57:14Z",
+    "first_commit_at": "2026-06-08T08:23:10Z",
+    "forks": 23,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2957,
+  "rank_in_category": 90,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-13T15:29:43.787719Z",
+  "last_refreshed_at": "2026-06-13T15:29:43.787723Z",
+  "consecutive_refresh_failures": 0
+}
