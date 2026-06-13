@@ -1,0 +1,60 @@
+{
+  "slug": "kira",
+  "name": "kira",
+  "tagline": "🤖 Open-source, self-hosted AI customer-support & sales agent. RAG over your own data (PDFs, URLs, YouTube) with Google Gemini + pgvector. One command to run.",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "chatbot",
+    "customer-support",
+    "gemini",
+    "nodejs",
+    "open-source",
+    "pgvector",
+    "rag",
+    "react",
+    "self-hosted"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Rahul83100",
+    "url": "https://github.com/Rahul83100"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Rahul83100/kira",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-13T14:30:09Z",
+    "first_commit_at": "2026-06-13T14:28:26Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4129,
+  "rank_in_category": 143,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-13T15:22:27.294171Z",
+  "last_refreshed_at": "2026-06-13T15:22:27.294174Z",
+  "consecutive_refresh_failures": 0
+}

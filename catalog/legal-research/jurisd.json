@@ -11,25 +11,25 @@
     "mcp"
   ],
   "author": {
-    "type": "user",
-    "handle": "russellbrenner",
-    "url": "https://github.com/russellbrenner"
+    "type": "org",
+    "handle": "WorkingMem",
+    "url": "https://github.com/WorkingMem"
   },
   "source": {
     "primary": "github",
-    "github": "russellbrenner/jurisd",
+    "github": "WorkingMem/jurisd",
     "huggingface": null,
     "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 22,
+    "stars": 23,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-12T11:32:01Z",
+    "last_commit_at": "2026-06-13T13:26:49Z",
     "first_commit_at": "2025-10-09T01:25:02Z",
     "forks": 8,
     "watchers": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -48,10 +48,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3669,
-  "rank_in_category": 13,
+  "composite_score": 0.3677,
+  "rank_in_category": 12,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-12T16:41:36.555689Z",
-  "last_refreshed_at": "2026-06-12T16:41:36.555692Z",
+  "first_seen_at": "2026-06-13T15:21:40.967475Z",
+  "last_refreshed_at": "2026-06-13T15:21:40.967480Z",
   "consecutive_refresh_failures": 0
 }

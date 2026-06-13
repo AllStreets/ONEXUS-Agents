@@ -1,29 +1,35 @@
 {
   "slug": "agents",
   "name": "agents",
-  "tagline": "Open-source framework for developing real-time multimodal conversational AI agents.",
+  "tagline": "Build and deploy AI Agents on Cloudflare ",
   "category": "multi-agent-orchestration",
-  "tags": [],
+  "tags": [
+    "agents",
+    "ai",
+    "cloudflare",
+    "durable-objects",
+    "workflows"
+  ],
   "author": {
     "type": "org",
-    "handle": "videosdk-live",
-    "url": "https://github.com/videosdk-live"
+    "handle": "cloudflare",
+    "url": "https://github.com/cloudflare"
   },
   "source": {
     "primary": "github",
-    "github": "videosdk-live/agents",
+    "github": "cloudflare/agents",
     "huggingface": null,
-    "homepage": "https://docs.videosdk.live/ai_agents/introduction"
+    "homepage": "https://developers.cloudflare.com/agents/"
   },
-  "license": "Apache-2.0",
+  "license": "MIT",
   "metrics": {
-    "stars": 628,
+    "stars": 5096,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-12T11:47:30Z",
-    "first_commit_at": "2025-05-02T06:49:27Z",
-    "forks": 92,
-    "watchers": 8,
-    "open_issues": 5,
+    "last_commit_at": "2026-06-12T16:46:00Z",
+    "first_commit_at": "2025-01-29T18:11:37Z",
+    "forks": 594,
+    "watchers": 35,
+    "open_issues": 122,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4009,
-  "rank_in_category": 208,
+  "composite_score": 0.4501,
+  "rank_in_category": 100,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:06:16.710049Z",
-  "last_refreshed_at": "2026-06-12T16:54:36.221953Z",
+  "first_seen_at": "2026-06-13T15:36:08.406457Z",
+  "last_refreshed_at": "2026-06-13T15:36:08.406461Z",
   "consecutive_refresh_failures": 0
 }

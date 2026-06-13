@@ -1,0 +1,58 @@
+{
+  "slug": "claude-code-kit",
+  "name": "claude-code-kit",
+  "tagline": "A curated collection of agents, skills, and settings that supercharge Claude Code. Drop them into their local Claude Code environment and immediately boost productivity.",
+  "category": "coding",
+  "tags": [
+    "claude",
+    "claude-code",
+    "claude-mcp",
+    "claude-skill",
+    "mcp",
+    "skill"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tassiovale",
+    "url": "https://github.com/tassiovale"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tassiovale/claude-code-kit",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-12T12:05:13Z",
+    "first_commit_at": "2026-06-10T11:18:29Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.301,
+  "rank_in_category": 427,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-13T15:48:39.275235Z",
+  "last_refreshed_at": "2026-06-13T15:48:39.275238Z",
+  "consecutive_refresh_failures": 0
+}

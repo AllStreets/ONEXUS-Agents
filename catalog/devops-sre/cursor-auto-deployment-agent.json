@@ -1,0 +1,59 @@
+{
+  "slug": "cursor-auto-deployment-agent",
+  "name": "cursor-auto-deployment-agent",
+  "tagline": "cursorAdvanced autonomous deployment agent for Cursor AI IDE. Adds intelligent multi-step terminal workflows, pre-commit CI/CD verification, and automated staging deployment managed directly by Cursor",
+  "category": "devops-sre",
+  "tags": [
+    "ai-agent",
+    "auto-deploy",
+    "ci-cd-automation",
+    "cursor",
+    "cursor-ai",
+    "cursor-ide",
+    "devops-agent",
+    "git-hooks",
+    "productivity-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ZettaAirOrbit",
+    "url": "https://github.com/ZettaAirOrbit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ZettaAirOrbit/cursor-auto-deployment-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-13T13:21:30Z",
+    "first_commit_at": "2026-06-13T13:21:16Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3279,
+  "rank_in_category": 185,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-13T15:47:37.839124Z",
+  "last_refreshed_at": "2026-06-13T15:47:37.839129Z",
+  "consecutive_refresh_failures": 0
+}

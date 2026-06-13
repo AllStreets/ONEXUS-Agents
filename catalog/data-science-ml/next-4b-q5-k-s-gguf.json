@@ -29,7 +29,7 @@
   "license": "mit",
   "metrics": {
     "stars": 2,
-    "downloads_30d": 20,
+    "downloads_30d": 24,
     "last_commit_at": "2025-10-28T11:17:30Z",
     "first_commit_at": "2025-10-28T11:17:17Z",
     "forks": null,
@@ -38,23 +38,25 @@
     "archived": null,
     "is_fork": null,
     "is_template": null,
-    "library_name": null,
-    "pipeline_tag": null,
+    "library_name": "transformers",
+    "pipeline_tag": "image-text-to-text",
     "contributors_count": null,
     "releases_total": null,
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "transformers"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1591,
-  "rank_in_category": 226,
+  "composite_score": 0.2005,
+  "rank_in_category": 206,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T16:55:59.408297Z",
-  "last_refreshed_at": "2026-06-07T18:52:58.943386Z",
-  "consecutive_refresh_failures": 6
+  "last_refreshed_at": "2026-06-13T15:16:14.838494Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,62 @@
+{
+  "slug": "agent-security",
+  "name": "agent-security",
+  "tagline": "Hands-on AI agent security resource: OWASP GenAI attack/fix/verify demos on a LangChain IT-helpdesk agent, deployed to the cloud.",
+  "category": "customer-support",
+  "tags": [
+    "agent-security",
+    "agentic-ai",
+    "ai-agents",
+    "ai-red-teaming",
+    "ai-security",
+    "langchain",
+    "llm-guardrails",
+    "llm-security",
+    "owasp-genai",
+    "owasp-llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "emarco177",
+    "url": "https://github.com/emarco177"
+  },
+  "source": {
+    "primary": "github",
+    "github": "emarco177/agent-security",
+    "huggingface": null,
+    "homepage": "https://github.com/emarco177/agent-security"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T15:17:16Z",
+    "first_commit_at": "2026-06-05T15:17:06Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4347,
+  "rank_in_category": 127,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-13T15:24:02.833034Z",
+  "last_refreshed_at": "2026-06-13T15:24:02.833038Z",
+  "consecutive_refresh_failures": 0
+}
