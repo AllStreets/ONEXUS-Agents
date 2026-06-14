@@ -38,12 +38,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.4606,
   "rank_in_category": 179,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-10T18:07:48.173142Z",
-  "last_refreshed_at": "2026-06-12T17:43:45.722360Z",
+  "last_refreshed_at": "2026-06-14T18:39:37.645158Z",
   "consecutive_refresh_failures": 2
 }
