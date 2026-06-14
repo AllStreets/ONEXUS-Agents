@@ -1,0 +1,58 @@
+{
+  "slug": "doc-haus",
+  "name": "doc-haus",
+  "tagline": "The open-source legal AI agent. Documents stay on your machine; redlines land in Word. Fork of OpenCode.",
+  "category": "legal-research",
+  "tags": [
+    "ai-agents",
+    "docx",
+    "legal-documents",
+    "legal-tech",
+    "llm",
+    "opencode",
+    "redlining",
+    "self-hosted"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sure-scale",
+    "url": "https://github.com/sure-scale"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sure-scale/doc-haus",
+    "huggingface": null,
+    "homepage": "https://doc.haus/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 41,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-13T00:29:41Z",
+    "first_commit_at": "2025-03-21T17:20:28Z",
+    "forks": 12,
+    "watchers": 0,
+    "open_issues": 30,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3274,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-14T15:27:40.487899Z",
+  "last_refreshed_at": "2026-06-14T15:27:40.487902Z",
+  "consecutive_refresh_failures": 0
+}

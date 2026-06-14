@@ -1,7 +1,7 @@
 {
   "slug": "unbrowse",
   "name": "unbrowse",
-  "tagline": "Unbrowse — api native browser MCP/SDK for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.",
+  "tagline": "Unbrowse — api native browser Skill/CLI/MCP/SDK for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.",
   "category": "browser-automation",
   "tags": [
     "agents",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 705,
+    "stars": 706,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-13T00:56:10Z",
+    "last_commit_at": "2026-06-14T12:19:11Z",
     "first_commit_at": "2026-01-27T15:30:07Z",
     "forks": 59,
     "watchers": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4365,
-  "rank_in_category": 70,
+  "composite_score": 0.437,
+  "rank_in_category": 69,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:26:56.448849Z",
-  "last_refreshed_at": "2026-06-13T15:39:36.579859Z",
+  "last_refreshed_at": "2026-06-14T15:45:55.301065Z",
   "consecutive_refresh_failures": 0
 }

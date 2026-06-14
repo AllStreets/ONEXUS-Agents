@@ -1,0 +1,62 @@
+{
+  "slug": "binance-mcp",
+  "name": "Binance-MCP",
+  "tagline": "A Model Context Protocol (MCP) server for Binance.com API. Offers standardized access to spot trading, wallets, staking, simple earn, convert, mining, algo trading, VIP loans, NFTs, pay, copy trading,",
+  "category": "devops-sre",
+  "tags": [
+    "algo",
+    "api",
+    "binance",
+    "crypto",
+    "cryptocurrency",
+    "mining",
+    "nft",
+    "npm",
+    "pay",
+    "sse"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nirholas",
+    "url": "https://github.com/nirholas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nirholas/Binance-MCP",
+    "huggingface": null,
+    "homepage": "https://github.com/nirholas/Binance-MCP"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 29,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T05:08:04Z",
+    "first_commit_at": "2026-01-20T12:42:19Z",
+    "forks": 11,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4577,
+  "rank_in_category": 92,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:16.518813Z",
+  "last_refreshed_at": "2026-06-14T15:22:34.221087Z",
+  "consecutive_refresh_failures": 0
+}

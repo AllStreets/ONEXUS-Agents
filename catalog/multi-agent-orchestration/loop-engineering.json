@@ -1,0 +1,63 @@
+{
+  "slug": "loop-engineering",
+  "name": "loop-engineering",
+  "tagline": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "ai-coding",
+    "anthropic",
+    "automation",
+    "claude",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "devops-automation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "cobusgreyling",
+    "url": "https://github.com/cobusgreyling"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cobusgreyling/loop-engineering",
+    "huggingface": null,
+    "homepage": "https://cobusgreyling.github.io/loop-engineering/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 162,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-13T08:41:09Z",
+    "first_commit_at": "2026-06-09T06:28:20Z",
+    "forks": 25,
+    "watchers": 2,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4135,
+  "rank_in_category": 191,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-14T15:58:13.547036Z",
+  "last_refreshed_at": "2026-06-14T15:58:13.547040Z",
+  "consecutive_refresh_failures": 0
+}

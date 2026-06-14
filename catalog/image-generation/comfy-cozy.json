@@ -1,7 +1,7 @@
 {
   "slug": "comfy-cozy",
   "name": "Comfy-Cozy",
-  "tagline": "AI co-pilot for ComfyUI. Talk to your workflow — load, patch, validate, run, learn. 126 MCP tools, NVIDIA NIM lifecycle, four LLM providers (Claude, GPT-4o, Gemini, Ollama), confirm-gated installs, fu",
+  "tagline": "AI co-pilot for ComfyUI. Talk to your workflow — load, patch, validate, run, learn. 129 MCP tools, sub-second re-validate, EXR-aware vision, workflow.lock provenance, multi-endpoint floors, Origin-gat",
   "category": "image-generation",
   "tags": [
     "ai-agent",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 18,
+    "stars": 19,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-10T02:45:31Z",
+    "last_commit_at": "2026-06-11T18:07:26Z",
     "first_commit_at": "2026-02-10T15:54:51Z",
     "forks": 1,
     "watchers": 1,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.326,
+  "composite_score": 0.3274,
   "rank_in_category": 54,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:04:55.242451Z",
-  "last_refreshed_at": "2026-06-10T17:10:40.166364Z",
-  "consecutive_refresh_failures": 3
+  "last_refreshed_at": "2026-06-14T15:37:25.984650Z",
+  "consecutive_refresh_failures": 0
 }
