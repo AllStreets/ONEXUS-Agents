@@ -1,0 +1,60 @@
+{
+  "slug": "bytedesk",
+  "name": "bytedesk",
+  "tagline": "Open Souce IM with AI powered live-chat, email, ticket support, omni-channel customer service，alternative to slack + zendesk/intercom/hubspot",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "chat-widget",
+    "chatbot",
+    "customer-support",
+    "helpdesk",
+    "hubspot",
+    "intercom",
+    "livechat",
+    "omnichannel",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Bytedesk",
+    "url": "https://github.com/Bytedesk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Bytedesk/bytedesk",
+    "huggingface": null,
+    "homepage": "https://www.bytedesk.com/en/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 434,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-13T06:45:55Z",
+    "first_commit_at": "2023-10-12T00:31:36Z",
+    "forks": 120,
+    "watchers": 8,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6207,
+  "rank_in_category": 55,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-14T15:29:36.455158Z",
+  "last_refreshed_at": "2026-06-14T15:29:36.455162Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,19 +1,19 @@
 {
   "slug": "ai-healthcare-system",
   "name": "AI-Healthcare-System",
-  "tagline": "AI-powered healthcare platform combining Machine Learning for multi-disease prediction (Diabetes, Heart, Liver, Kidney, Lungs) with Generative AI for intelligent medical assistance and lab report anal",
+  "tagline": "AI healthcare platform featuring multi-disease prediction & local medical AI assistant. Powered by FastAPI, React Vite, PySpark MLOps & vector database.",
   "category": "healthcare",
   "tags": [
     "ai-healthcare",
-    "artificial-intelligence",
     "chatbot",
-    "cloud",
     "disease-prediction",
-    "docker",
     "fastapi",
     "gemini",
     "generative-ai",
-    "healthcare"
+    "healthcare",
+    "healthcare-ai",
+    "langgraph",
+    "machine-learning"
   ],
   "author": {
     "type": "user",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "pavanbadempet/AI-Healthcare-System",
     "huggingface": null,
-    "homepage": "https://ai-healthcare-system.streamlit.app/"
+    "homepage": "https://pavanbadempet-ai-healthcare-system.hf.space/"
   },
   "license": "MIT",
   "metrics": {
     "stars": 30,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-12T17:22:11Z",
-    "first_commit_at": "2023-03-02T12:24:09Z",
+    "last_commit_at": "2026-06-13T15:06:08Z",
+    "first_commit_at": "2023-04-30T17:05:05Z",
     "forks": 9,
     "watchers": 3,
-    "open_issues": 3,
+    "open_issues": 4,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "langchain"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4645,
-  "rank_in_category": 28,
+  "composite_score": 0.4873,
+  "rank_in_category": 26,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-15T15:39:32.336458Z",
-  "last_refreshed_at": "2026-06-12T17:25:39.352343Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-14T15:58:58.905743Z",
+  "consecutive_refresh_failures": 0
 }

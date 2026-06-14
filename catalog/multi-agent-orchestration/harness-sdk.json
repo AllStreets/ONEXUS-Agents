@@ -1,0 +1,63 @@
+{
+  "slug": "harness-sdk",
+  "name": "harness-sdk",
+  "tagline": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "agentic",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "autonomous-agents",
+    "bedrock",
+    "generative-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "strands-agents",
+    "url": "https://github.com/strands-agents"
+  },
+  "source": {
+    "primary": "github",
+    "github": "strands-agents/harness-sdk",
+    "huggingface": null,
+    "homepage": "http://strandsagents.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6131,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-13T00:14:58Z",
+    "first_commit_at": "2025-05-14T19:59:51Z",
+    "forks": 881,
+    "watchers": 48,
+    "open_issues": 655,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5119,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-14T15:57:43.366834Z",
+  "last_refreshed_at": "2026-06-14T15:57:43.366838Z",
+  "consecutive_refresh_failures": 0
+}

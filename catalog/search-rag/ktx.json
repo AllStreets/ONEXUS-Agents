@@ -1,7 +1,7 @@
 {
   "slug": "ktx",
   "name": "ktx",
-  "tagline": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or any other AI agent to query data accurately and with full context of your company",
+  "tagline": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or other AI agents to query data accurately and with full context of your company",
   "category": "search-rag",
   "tags": [
     "agent",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 963,
+    "stars": 1195,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-09T15:25:23Z",
+    "last_commit_at": "2026-06-14T07:43:08Z",
     "first_commit_at": "2026-05-10T21:12:26Z",
-    "forks": 49,
-    "watchers": 2,
-    "open_issues": 18,
+    "forks": 63,
+    "watchers": 3,
+    "open_issues": 21,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3998,
-  "rank_in_category": 55,
+  "composite_score": 0.4081,
+  "rank_in_category": 47,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:02:18.133869Z",
-  "last_refreshed_at": "2026-06-09T16:35:38.316848Z",
-  "consecutive_refresh_failures": 4
+  "last_refreshed_at": "2026-06-14T15:33:41.935252Z",
+  "consecutive_refresh_failures": 0
 }

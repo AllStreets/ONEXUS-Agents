@@ -1,0 +1,62 @@
+{
+  "slug": "bodhi-ai",
+  "name": "Bodhi-AI",
+  "tagline": "Bodhi — a local-first desktop AI agent that actually does the work: it breaks down tasks, calls tools, streams every step live, and turns repeat work into automation. A Tauri shell over the Bamboo (Ru",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai-agent",
+    "automation",
+    "desktop-agent",
+    "llm-agent",
+    "local-first",
+    "mcp",
+    "react",
+    "rust",
+    "tauri",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "bigduu",
+    "url": "https://github.com/bigduu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bigduu/Bodhi-AI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-14T08:05:14Z",
+    "first_commit_at": "2025-04-20T15:17:38Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3817,
+  "rank_in_category": 91,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-14T15:47:44.905762Z",
+  "last_refreshed_at": "2026-06-14T15:47:44.905766Z",
+  "consecutive_refresh_failures": 0
+}

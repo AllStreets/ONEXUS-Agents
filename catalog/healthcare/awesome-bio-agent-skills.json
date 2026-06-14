@@ -4,16 +4,16 @@
   "tagline": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
   "category": "healthcare",
   "tags": [
+    "agent-skills",
     "ai-agent",
+    "ai-agents",
     "awesome",
     "awesome-list",
     "bioinformatics",
     "biomedical",
-    "genomics",
-    "llm",
-    "protein-design",
-    "single-cell",
-    "skills"
+    "claude",
+    "claude-code",
+    "claude-skills"
   ],
   "author": {
     "type": "user",
@@ -28,11 +28,11 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 50,
+    "stars": 56,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-10T20:19:10Z",
+    "last_commit_at": "2026-06-14T15:36:47Z",
     "first_commit_at": "2026-05-25T15:23:19Z",
-    "forks": 13,
+    "forks": 15,
     "watchers": 0,
     "open_issues": 0,
     "archived": false,
@@ -46,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.402,
-  "rank_in_category": 59,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4826,
+  "rank_in_category": 27,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T15:21:46.669054Z",
-  "last_refreshed_at": "2026-06-12T17:26:46.973775Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-14T15:59:22.741721Z",
+  "consecutive_refresh_failures": 0
 }

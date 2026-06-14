@@ -27,13 +27,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 76788,
+    "stars": 77015,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-13T12:28:37Z",
+    "last_commit_at": "2026-06-14T04:08:39Z",
     "first_commit_at": "2024-03-13T03:36:30Z",
-    "forks": 9759,
+    "forks": 9782,
     "watchers": 456,
-    "open_issues": 333,
+    "open_issues": 329,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,16 +51,16 @@
     {
       "name": "SWE-bench Verified",
       "score": 0.5,
-      "as_of": "2026-06-13",
+      "as_of": "2026-06-14",
       "source_url": "https://www.swebench.com/"
     }
   ],
   "runnable": true,
   "adapter_ref": "adapters/openhands/mcp.json",
-  "composite_score": 0.5162,
+  "composite_score": 0.5158,
   "rank_in_category": 3,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-06-13T14:58:59.006434Z",
+  "last_refreshed_at": "2026-06-14T15:07:15.565850Z",
   "consecutive_refresh_failures": 0
 }

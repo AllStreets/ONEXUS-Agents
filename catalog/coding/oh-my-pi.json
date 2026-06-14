@@ -1,0 +1,63 @@
+{
+  "slug": "oh-my-pi",
+  "name": "oh-my-pi",
+  "tagline": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "ai-coding-agent",
+    "anthropic",
+    "bun",
+    "claude",
+    "cli",
+    "coding-assistant",
+    "llm",
+    "mcp",
+    "multi-provider"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "can1357",
+    "url": "https://github.com/can1357"
+  },
+  "source": {
+    "primary": "github",
+    "github": "can1357/oh-my-pi",
+    "huggingface": null,
+    "homepage": "https://omp.sh/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12365,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-14T14:14:41Z",
+    "first_commit_at": "2025-08-09T15:18:38Z",
+    "forks": 1048,
+    "watchers": 46,
+    "open_issues": 280,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4658,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-14T15:10:11.662595Z",
+  "last_refreshed_at": "2026-06-14T15:10:11.662599Z",
+  "consecutive_refresh_failures": 0
+}

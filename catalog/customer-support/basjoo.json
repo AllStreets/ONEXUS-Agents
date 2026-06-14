@@ -1,7 +1,7 @@
 {
   "slug": "basjoo",
   "name": "basjoo",
-  "tagline": "Open-source AI customer support platform — RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAPI + Next.js + R2R + pgvector.",
+  "tagline": "Open-source AI customer support platform — RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAPI + Next.js + pgvector.",
   "category": "customer-support",
   "tags": [
     "ai",
@@ -13,7 +13,7 @@
     "nextjs",
     "open-source",
     "pgvector",
-    "r2r"
+    "rag"
   ],
   "author": {
     "type": "user",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 134,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-06T06:55:11Z",
+    "last_commit_at": "2026-06-14T07:19:05Z",
     "first_commit_at": "2026-03-28T14:38:59Z",
     "forks": 83,
     "watchers": 3,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5186,
-  "rank_in_category": 86,
+  "composite_score": 0.5292,
+  "rank_in_category": 82,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-30T20:59:40.051467Z",
-  "last_refreshed_at": "2026-06-13T15:22:48.261291Z",
+  "last_refreshed_at": "2026-06-14T15:29:40.597413Z",
   "consecutive_refresh_failures": 0
 }
