@@ -211,6 +211,10 @@ adapters/<agent>/README.md   # one-line install, one-line invocation
 
 **MCP-first**, with an escape hatch for agents that don't speak MCP yet (a small Python adapter shim).
 
+### Downstream consumers, elevated
+
+Both consumers of this catalog shipped v2 elevations: **SMADP — [The Proving Ground](https://github.com/AllStreets/SMADP)** gained adversarial sandbox grading with property-bounded severities, deterministic N-agent chain composition, capability-drift tracking, and an **MCP recording proxy** that turns a catalog agent's observed runtime behavior into a `behavior-observed` safety profile — the first path past `docs-only` for closed-source agents. **NEXUS — [The Missing Minds](https://github.com/AllStreets/ONEXUS)** gained a threat radar, a temporal knowledge graph, agent-to-agent negotiation, and workspace-scoped federation. This catalog remains the single source both read from.
+
 ---
 
 ## Methodology
