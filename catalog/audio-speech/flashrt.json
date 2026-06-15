@@ -16,21 +16,21 @@
     "pi05"
   ],
   "author": {
-    "type": "user",
-    "handle": "LiangSu8899",
-    "url": "https://github.com/LiangSu8899"
+    "type": "org",
+    "handle": "flashrt-project",
+    "url": "https://github.com/flashrt-project"
   },
   "source": {
     "primary": "github",
-    "github": "LiangSu8899/FlashRT",
+    "github": "flashrt-project/FlashRT",
     "huggingface": null,
     "homepage": null
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 328,
+    "stars": 335,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-13T07:20:10Z",
+    "last_commit_at": "2026-06-15T10:32:59Z",
     "first_commit_at": "2026-04-28T18:42:22Z",
     "forks": 39,
     "watchers": 6,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5433,
+  "composite_score": 0.5453,
   "rank_in_category": 51,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:07:21.080739Z",
-  "last_refreshed_at": "2026-06-13T15:34:16.954987Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-06-15T18:41:35.906968Z",
+  "last_refreshed_at": "2026-06-15T18:41:35.906971Z",
+  "consecutive_refresh_failures": 0
 }

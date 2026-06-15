@@ -5,15 +5,15 @@
   "category": "multi-agent-orchestration",
   "tags": [
     "a2a-protocol",
-    "chatgpt",
+    "agent-framework",
     "claude-code",
-    "cursor",
     "distributed-cloud",
     "function-calling",
     "geodistributedsystems",
-    "low-latency",
+    "managed-skills",
     "mcp",
-    "openai"
+    "openai",
+    "quic"
   ],
   "author": {
     "type": "org",
@@ -28,33 +28,35 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 1904,
+    "stars": 1907,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-17T09:20:54Z",
+    "last_commit_at": "2026-06-15T02:26:49Z",
     "first_commit_at": "2026-01-14T11:31:09Z",
-    "forks": null,
-    "watchers": null,
-    "open_issues": null,
-    "archived": null,
-    "is_fork": null,
-    "is_template": null,
+    "forks": 143,
+    "watchers": 42,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 3,
+    "contributors_count": null,
     "releases_total": null,
     "latest_release_at": null,
-    "commits_90d": 82,
+    "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.3281,
-  "rank_in_category": 386,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4562,
+  "rank_in_category": 100,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:52:45.694842Z",
-  "last_refreshed_at": "2026-06-07T18:53:26.996410Z",
-  "consecutive_refresh_failures": 8
+  "last_refreshed_at": "2026-06-15T19:11:49.395722Z",
+  "consecutive_refresh_failures": 0
 }

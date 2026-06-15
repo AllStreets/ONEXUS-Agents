@@ -1,19 +1,19 @@
 {
   "slug": "trend2video-pro",
   "name": "Trend2Video-Pro",
-  "tagline": "The open-source Trend-to-Video Agent Framework for content creators",
+  "tagline": "Trend-to-Video Agent Framework for publish-ready content packages",
   "category": "video-generation",
   "tags": [
+    "agent-framework",
     "ai-agents",
     "ai-video",
+    "chrome-extension",
     "content-automation",
+    "content-execution",
     "creator-tools",
     "edge-tts",
     "fastapi",
-    "moviepy",
-    "short-video",
-    "streamlit",
-    "trend-analysis"
+    "moviepy"
   ],
   "author": {
     "type": "user",
@@ -28,11 +28,11 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 101,
+    "stars": 122,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-10T09:47:46Z",
+    "last_commit_at": "2026-06-14T18:28:40Z",
     "first_commit_at": "2026-06-08T08:50:13Z",
-    "forks": 0,
+    "forks": 1,
     "watchers": 0,
     "open_issues": 0,
     "archived": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3021,
-  "rank_in_category": 106,
+  "composite_score": 0.3078,
+  "rank_in_category": 102,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-11T17:32:14.815322Z",
-  "last_refreshed_at": "2026-06-12T16:54:02.085174Z",
-  "consecutive_refresh_failures": 2
+  "last_refreshed_at": "2026-06-15T18:38:48.949786Z",
+  "consecutive_refresh_failures": 0
 }

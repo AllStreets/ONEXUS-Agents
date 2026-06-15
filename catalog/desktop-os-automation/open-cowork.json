@@ -1,0 +1,62 @@
+{
+  "slug": "open-cowork",
+  "name": "open-cowork",
+  "tagline": "Open-source alternative to Claude Co-Work built by Claude Mythos 5. with BYOK",
+  "category": "desktop-os-automation",
+  "tags": [
+    "anthropic",
+    "anthropic-api",
+    "anthropic-claude",
+    "automation",
+    "browser-automation",
+    "byok",
+    "byok-ai-tools-code-assistant",
+    "claude-cowork",
+    "claude-cowork-alternative",
+    "claude-cowork-free"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "coasty-ai",
+    "url": "https://github.com/coasty-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "coasty-ai/open-cowork",
+    "huggingface": null,
+    "homepage": "https://coasty.ai/?view=developers"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 61,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-14T19:20:35Z",
+    "first_commit_at": "2026-06-11T19:55:21Z",
+    "forks": 15,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3415,
+  "rank_in_category": 122,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-15T18:51:11.911509Z",
+  "last_refreshed_at": "2026-06-15T18:51:11.911512Z",
+  "consecutive_refresh_failures": 0
+}

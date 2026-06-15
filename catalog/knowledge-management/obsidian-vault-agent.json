@@ -1,28 +1,36 @@
 {
   "slug": "obsidian-vault-agent",
   "name": "obsidian-vault-agent",
-  "tagline": "A fork of obsidian-terminal with AI-focused enhancements for seamless integration with Claude Code, Codex, and other AI coding tools.",
+  "tagline": " Claude Code plugin: AI agent for your Obsidian vault — process books, courses, papers, YouTube into connected notes",
   "category": "knowledge-management",
-  "tags": [],
+  "tags": [
+    "agents",
+    "claude-code",
+    "claude-code-skills",
+    "llms",
+    "obsidian",
+    "second-brain",
+    "zettelkasten"
+  ],
   "author": {
     "type": "user",
-    "handle": "liuyixin-louis",
-    "url": "https://github.com/liuyixin-louis"
+    "handle": "tuan3w",
+    "url": "https://github.com/tuan3w"
   },
   "source": {
     "primary": "github",
-    "github": "liuyixin-louis/obsidian-vault-agent",
+    "github": "tuan3w/obsidian-vault-agent",
     "huggingface": null,
     "homepage": null
   },
-  "license": "AGPL-3.0",
+  "license": "MIT",
   "metrics": {
     "stars": 27,
     "downloads_30d": null,
-    "last_commit_at": "2026-03-10T20:52:11Z",
-    "first_commit_at": "2022-12-15T15:28:36Z",
-    "forks": 0,
-    "watchers": 1,
+    "last_commit_at": "2026-03-30T12:27:05Z",
+    "first_commit_at": "2026-03-21T01:28:46Z",
+    "forks": 3,
+    "watchers": 0,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -40,10 +48,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3931,
-  "rank_in_category": 225,
+  "composite_score": 0.3751,
+  "rank_in_category": 244,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-08T18:39:51.705118Z",
-  "last_refreshed_at": "2026-06-12T17:44:31.466007Z",
-  "consecutive_refresh_failures": 2
+  "first_seen_at": "2026-06-15T19:35:18.903313Z",
+  "last_refreshed_at": "2026-06-15T19:35:18.903316Z",
+  "consecutive_refresh_failures": 0
 }

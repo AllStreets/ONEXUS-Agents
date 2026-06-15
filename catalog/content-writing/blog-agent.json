@@ -5,25 +5,25 @@
   "category": "content-writing",
   "tags": [],
   "author": {
-    "type": "org",
-    "handle": "WithModulabs",
-    "url": "https://github.com/WithModulabs"
+    "type": "user",
+    "handle": "danvega",
+    "url": "https://github.com/danvega"
   },
   "source": {
     "primary": "github",
-    "github": "WithModulabs/blog-agent",
+    "github": "danvega/blog-agent",
     "huggingface": null,
-    "homepage": "https://blog-agent-ochre.vercel.app/"
+    "homepage": null
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 8,
+    "stars": 9,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-14T03:47:09Z",
-    "first_commit_at": "2025-08-19T23:56:04Z",
-    "forks": 13,
-    "watchers": 1,
-    "open_issues": 11,
+    "last_commit_at": "2026-04-10T13:00:34Z",
+    "first_commit_at": "2026-04-02T18:15:18Z",
+    "forks": 7,
+    "watchers": 0,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4922,
-  "rank_in_category": 84,
+  "composite_score": 0.3937,
+  "rank_in_category": 147,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:02:35.538903Z",
-  "last_refreshed_at": "2026-06-14T15:34:14.220004Z",
+  "first_seen_at": "2026-06-15T18:33:22.747536Z",
+  "last_refreshed_at": "2026-06-15T18:33:22.747539Z",
   "consecutive_refresh_failures": 0
 }

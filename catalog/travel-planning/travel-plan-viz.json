@@ -1,0 +1,60 @@
+{
+  "slug": "travel-plan-viz",
+  "name": "travel-plan-viz",
+  "tagline": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
+  "category": "travel-planning",
+  "tags": [
+    "agent-skill",
+    "claude-code",
+    "claude-skill",
+    "codex",
+    "html",
+    "itinerary",
+    "migo",
+    "mobile-first",
+    "offline-first",
+    "travel"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zexuanw958-svg",
+    "url": "https://github.com/zexuanw958-svg"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zexuanw958-svg/travel-plan-viz",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 30,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-14T11:31:58Z",
+    "first_commit_at": "2026-06-13T07:56:50Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4732,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-15T19:17:34.607056Z",
+  "last_refreshed_at": "2026-06-15T19:17:34.607059Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "ffmpeg-webcli",
+  "name": "ffmpeg-webCLI",
+  "tagline": "A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.",
+  "category": "video-generation",
+  "tags": [
+    "audio-editor",
+    "browser-based",
+    "client-side",
+    "ffmpeg-wasm",
+    "javascript",
+    "local-first",
+    "media-processing",
+    "offline-first",
+    "open-source",
+    "privacy-first"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tejaswigowda",
+    "url": "https://github.com/tejaswigowda"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tejaswigowda/ffmpeg-webCLI",
+    "huggingface": null,
+    "homepage": "https://tejaswigowda.com/ffmpeg-webCLI/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 682,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-14T04:19:21Z",
+    "first_commit_at": "2026-05-30T22:31:34Z",
+    "forks": 51,
+    "watchers": 4,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3567,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-15T18:50:15.324638Z",
+  "last_refreshed_at": "2026-06-15T18:50:15.324642Z",
+  "consecutive_refresh_failures": 0
+}

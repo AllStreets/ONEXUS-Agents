@@ -13,7 +13,7 @@
     "ai-agents",
     "ai-workspace",
     "copilot-sdk",
-    "customer-facing-ai"
+    "isolated-execution"
   ],
   "author": {
     "type": "org",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 10,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-14T02:15:32Z",
+    "last_commit_at": "2026-06-15T17:48:28Z",
     "first_commit_at": "2025-08-20T15:36:14Z",
     "forks": 2,
     "watchers": 0,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.482,
-  "rank_in_category": 142,
+  "composite_score": 0.4829,
+  "rank_in_category": 145,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:24:26.129084Z",
-  "last_refreshed_at": "2026-06-14T15:15:24.345833Z",
+  "last_refreshed_at": "2026-06-15T18:08:43.843112Z",
   "consecutive_refresh_failures": 0
 }

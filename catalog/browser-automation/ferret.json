@@ -1,0 +1,60 @@
+{
+  "slug": "ferret",
+  "name": "ferret",
+  "tagline": "Declarative data automation language and Go runtime for structured extraction workflows.",
+  "category": "browser-automation",
+  "tags": [
+    "browser-automation",
+    "chrome-devtools-protocol",
+    "data-automation",
+    "data-extraction",
+    "dsl",
+    "go",
+    "golang",
+    "golang-library",
+    "html",
+    "library"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "MontFerret",
+    "url": "https://github.com/MontFerret"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MontFerret/ferret",
+    "huggingface": null,
+    "homepage": "https://www.ferretlang.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6011,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-15T15:08:08Z",
+    "first_commit_at": "2018-08-23T02:42:46Z",
+    "forks": 323,
+    "watchers": 92,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4726,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-15T18:48:48.893375Z",
+  "last_refreshed_at": "2026-06-15T18:48:48.893378Z",
+  "consecutive_refresh_failures": 0
+}
