@@ -1,0 +1,60 @@
+{
+  "slug": "qwen3-6-27b-mtp-pi-reasoning-gguf",
+  "name": "Qwen3.6-27B-MTP-pi-reasoning-GGUF",
+  "tagline": "bytkim/Qwen3.6-27B-MTP-pi-reasoning-GGUF — image-text-to-text",
+  "category": "devops-sre",
+  "tags": [
+    "gguf",
+    "llama.cpp",
+    "qwen",
+    "qwen3_6",
+    "mtp",
+    "multi-token-prediction",
+    "speculative-decoding",
+    "conversational",
+    "image-text-to-text",
+    "image-to-text"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "bytkim",
+    "url": "https://huggingface.co/bytkim"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "bytkim/Qwen3.6-27B-MTP-pi-reasoning-GGUF",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": 28,
+    "last_commit_at": "2026-06-15T07:15:44Z",
+    "first_commit_at": "2026-06-14T10:39:00Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "gguf",
+    "pipeline_tag": "image-text-to-text",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.39,
+  "rank_in_category": 144,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-15T19:02:50.126284Z",
+  "last_refreshed_at": "2026-06-15T19:02:50.126286Z",
+  "consecutive_refresh_failures": 0
+}

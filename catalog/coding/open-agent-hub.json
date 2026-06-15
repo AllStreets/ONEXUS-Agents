@@ -4,16 +4,16 @@
   "tagline": "A lightweight, zero-dependency CLI tool to manage and activate capabilities for AI coding assistants (such as Claude Code, Cursor, Trae, etc.).",
   "category": "coding",
   "tags": [
-    "agent",
+    "agents",
     "ai-agents",
     "ai-skills",
     "anthropic-skills",
-    "antigravity",
-    "antigravity-ai",
-    "antigravity-ide",
     "claude-code",
-    "claude-code-plugin",
-    "context-engineering"
+    "cli-tool",
+    "context-engineering",
+    "full-stack",
+    "planning",
+    "skills"
   ],
   "author": {
     "type": "user",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 903,
+    "stars": 907,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-14T04:26:49Z",
+    "last_commit_at": "2026-06-15T04:50:24Z",
     "first_commit_at": "2026-01-13T06:05:00Z",
     "forks": 165,
     "watchers": 8,
@@ -52,9 +52,9 @@
   "runnable": false,
   "adapter_ref": null,
   "composite_score": 0.3404,
-  "rank_in_category": 293,
+  "rank_in_category": 294,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-08T16:54:56.947860Z",
-  "last_refreshed_at": "2026-06-14T15:11:45.356148Z",
+  "last_refreshed_at": "2026-06-15T18:04:14.857365Z",
   "consecutive_refresh_failures": 0
 }

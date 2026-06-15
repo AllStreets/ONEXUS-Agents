@@ -1,33 +1,40 @@
 {
   "slug": "awesome-agent-harness",
   "name": "awesome-agent-harness",
-  "tagline": "An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.",
+  "tagline": "awesome-agent-harness",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-harness",
-    "context-engineering",
-    "harness-engineering"
+    "agent-orchestration",
+    "agentic-coding",
+    "ai-agents",
+    "awesome",
+    "awesome-list",
+    "coding-agents",
+    "developer-tools",
+    "harness-engineering",
+    "multi-agent"
   ],
   "author": {
     "type": "user",
-    "handle": "Picrew",
-    "url": "https://github.com/Picrew"
+    "handle": "AutoJunjie",
+    "url": "https://github.com/AutoJunjie"
   },
   "source": {
     "primary": "github",
-    "github": "Picrew/awesome-agent-harness",
+    "github": "AutoJunjie/awesome-agent-harness",
     "huggingface": null,
-    "homepage": "https://picrew.github.io/LLM-Harness/"
+    "homepage": null
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 1199,
+    "stars": 454,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-14T06:37:26Z",
-    "first_commit_at": "2026-03-30T04:24:35Z",
-    "forks": 99,
-    "watchers": 2,
-    "open_issues": 15,
+    "last_commit_at": "2026-04-19T11:09:46Z",
+    "first_commit_at": "2026-03-05T14:26:44Z",
+    "forks": 34,
+    "watchers": 5,
+    "open_issues": 8,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -44,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3862,
-  "rank_in_category": 249,
+  "composite_score": 0.3239,
+  "rank_in_category": 404,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-11T17:11:59.735306Z",
-  "last_refreshed_at": "2026-06-14T15:22:16.529465Z",
+  "first_seen_at": "2026-06-15T19:12:01.847972Z",
+  "last_refreshed_at": "2026-06-15T19:12:01.847976Z",
   "consecutive_refresh_failures": 0
 }

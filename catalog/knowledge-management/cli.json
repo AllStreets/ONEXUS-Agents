@@ -1,35 +1,29 @@
 {
   "slug": "cli",
   "name": "cli",
-  "tagline": "A command-line tool to give your agents access to any app, create workflows and manage your One account.",
+  "tagline": "CLI and Agent Skill for Firecrawl - Add scrape, search, and browsing capabilities to your AI agents",
   "category": "knowledge-management",
-  "tags": [
-    "agents",
-    "apps",
-    "cli",
-    "one",
-    "workflows"
-  ],
+  "tags": [],
   "author": {
     "type": "org",
-    "handle": "withoneai",
-    "url": "https://github.com/withoneai"
+    "handle": "firecrawl",
+    "url": "https://github.com/firecrawl"
   },
   "source": {
     "primary": "github",
-    "github": "withoneai/cli",
+    "github": "firecrawl/cli",
     "huggingface": null,
-    "homepage": "https://www.npmjs.com/package/@withone/cli"
+    "homepage": "http://docs.firecrawl.dev/cli"
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 227,
+    "stars": 464,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-12T07:02:10Z",
-    "first_commit_at": "2026-02-13T18:31:10Z",
-    "forks": 26,
-    "watchers": 1,
-    "open_issues": 47,
+    "last_commit_at": "2026-06-15T18:16:29Z",
+    "first_commit_at": "2026-01-07T22:19:37Z",
+    "forks": 66,
+    "watchers": 4,
+    "open_issues": 25,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -44,12 +38,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5461,
-  "rank_in_category": 110,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5744,
+  "rank_in_category": 95,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-08T18:39:32.499069Z",
-  "last_refreshed_at": "2026-06-14T18:39:23.661311Z",
-  "consecutive_refresh_failures": 2
+  "first_seen_at": "2026-06-15T19:35:09.281718Z",
+  "last_refreshed_at": "2026-06-15T19:35:09.281722Z",
+  "consecutive_refresh_failures": 0
 }

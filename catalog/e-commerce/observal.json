@@ -1,0 +1,62 @@
+{
+  "slug": "observal",
+  "name": "Observal",
+  "tagline": "Observal is registry and insight platform for portable AI coding agents. Define context once, install it across tools, and learn what works.",
+  "category": "e-commerce",
+  "tags": [
+    "agents",
+    "analytics",
+    "antigravity",
+    "claude-code",
+    "cli-tool",
+    "codex",
+    "cursor",
+    "cursor-ai",
+    "insights",
+    "kiro"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "BlazeUp-AI",
+    "url": "https://github.com/BlazeUp-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BlazeUp-AI/Observal",
+    "huggingface": null,
+    "homepage": "https://observal.io/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 2082,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-14T17:30:37Z",
+    "first_commit_at": "2026-03-30T16:27:45Z",
+    "forks": 444,
+    "watchers": 7,
+    "open_issues": 300,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6921,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-15T19:25:18.188054Z",
+  "last_refreshed_at": "2026-06-15T19:25:18.188057Z",
+  "consecutive_refresh_failures": 0
+}

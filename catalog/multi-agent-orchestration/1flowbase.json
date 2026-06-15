@@ -1,0 +1,60 @@
+{
+  "slug": "1flowbase",
+  "name": "1flowbase",
+  "tagline": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token, latency, and cost visibility.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents-platform",
+    "ai-gateway",
+    "claude-api",
+    "cost-optimization",
+    "fusion",
+    "llm-gateway",
+    "llm-orchestration",
+    "llmops",
+    "model-router",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "taichuy",
+    "url": "https://github.com/taichuy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "taichuy/1flowbase",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 121,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-15T14:57:14Z",
+    "first_commit_at": "2026-03-09T07:08:29Z",
+    "forks": 10,
+    "watchers": 0,
+    "open_issues": 50,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3468,
+  "rank_in_category": 349,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-15T18:45:46.362387Z",
+  "last_refreshed_at": "2026-06-15T18:45:46.362390Z",
+  "consecutive_refresh_failures": 0
+}

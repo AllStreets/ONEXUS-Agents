@@ -1,0 +1,57 @@
+{
+  "slug": "opencode-a2a",
+  "name": "opencode-a2a",
+  "tagline": "Expose OpenCode through A2A with an inbound server surface and embedded outbound client.",
+  "category": "sales-crm",
+  "tags": [
+    "a2a",
+    "a2a-agent",
+    "a2a-client",
+    "a2a-protocol",
+    "a2a-server",
+    "ai-agent",
+    "opencode"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Intelligent-Internet",
+    "url": "https://github.com/Intelligent-Internet"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Intelligent-Internet/opencode-a2a",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-15T03:07:45Z",
+    "first_commit_at": "2026-01-26T07:34:09Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4485,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-15T19:20:48.323902Z",
+  "last_refreshed_at": "2026-06-15T19:20:48.323905Z",
+  "consecutive_refresh_failures": 0
+}

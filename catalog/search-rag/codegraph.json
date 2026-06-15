@@ -1,7 +1,7 @@
 {
   "slug": "codegraph",
   "name": "codegraph",
-  "tagline": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+  "tagline": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
   "category": "search-rag",
   "tags": [],
   "author": {
@@ -17,13 +17,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 48108,
+    "stars": 49589,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-12T16:43:21Z",
+    "last_commit_at": "2026-06-15T18:21:36Z",
     "first_commit_at": "2026-01-18T22:23:53Z",
-    "forks": 2935,
+    "forks": 3031,
     "watchers": 115,
-    "open_issues": 223,
+    "open_issues": 251,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4818,
-  "rank_in_category": 8,
+  "composite_score": 0.4844,
+  "rank_in_category": 7,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:00:16.698319Z",
-  "last_refreshed_at": "2026-06-12T16:43:56.712436Z",
-  "consecutive_refresh_failures": 2
+  "last_refreshed_at": "2026-06-15T18:28:49.467071Z",
+  "consecutive_refresh_failures": 0
 }

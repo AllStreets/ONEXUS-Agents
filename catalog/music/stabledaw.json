@@ -1,0 +1,60 @@
+{
+  "slug": "stabledaw",
+  "name": "StableDAW",
+  "tagline": "Browser-based AI audio DAW for Stable Audio 3 with text-to-audio, inpainting, LoRA training, FFmpeg effects, waveform editing, sequencer, piano roll, and persistent library.",
+  "category": "music",
+  "tags": [
+    "ai-audio",
+    "audio-gene",
+    "audio-inpainting",
+    "cuda",
+    "daw",
+    "fastapi",
+    "ffmpeg",
+    "generative-ai",
+    "lora",
+    "music-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "gantasmo",
+    "url": "https://github.com/gantasmo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "gantasmo/StableDAW",
+    "huggingface": null,
+    "homepage": "https://github.com/gantasmo/StableDAW"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 35,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-13T13:31:00Z",
+    "first_commit_at": "2026-04-29T18:19:15Z",
+    "forks": 7,
+    "watchers": 0,
+    "open_issues": 4,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1476,
+  "rank_in_category": 161,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-15T19:28:29.810377Z",
+  "last_refreshed_at": "2026-06-15T19:28:29.810380Z",
+  "consecutive_refresh_failures": 0
+}

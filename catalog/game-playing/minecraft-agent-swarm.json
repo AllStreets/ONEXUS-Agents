@@ -1,0 +1,53 @@
+{
+  "slug": "minecraft-agent-swarm",
+  "name": "minecraft-agent-swarm",
+  "tagline": "A self-improving swarm of local-LLM agents that mine, smelt, build, farm, and fight their way through Minecraft as a coordinated team. Built on mineflayer + Ollama.",
+  "category": "game-playing",
+  "tags": [
+    "minecraft",
+    "nodejs",
+    "openai-api"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JesseRWeigel",
+    "url": "https://github.com/JesseRWeigel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JesseRWeigel/minecraft-agent-swarm",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-15T18:38:07Z",
+    "first_commit_at": "2023-03-25T20:32:29Z",
+    "forks": 12,
+    "watchers": 2,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5502,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-15T19:31:55.073030Z",
+  "last_refreshed_at": "2026-06-15T19:31:55.073033Z",
+  "consecutive_refresh_failures": 0
+}
