@@ -1,0 +1,60 @@
+{
+  "slug": "twenty-crm-support-agent",
+  "name": "twenty-crm-support-agent",
+  "tagline": "RAG-based support specialist for Twenty CRM, answers configuration questions from documentation and escalates unresolvable queries with structured handoff",
+  "category": "customer-support",
+  "tags": [
+    "anthropic",
+    "chatbot",
+    "llm",
+    "python",
+    "rag",
+    "sentence-transformers",
+    "support-agent",
+    "twenty-crm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "by-carrot",
+    "url": "https://github.com/by-carrot"
+  },
+  "source": {
+    "primary": "github",
+    "github": "by-carrot/twenty-crm-support-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-16T18:10:11Z",
+    "first_commit_at": "2026-06-11T05:26:16Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4133,
+  "rank_in_category": 145,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-16T18:31:09.321609Z",
+  "last_refreshed_at": "2026-06-16T18:31:09.321612Z",
+  "consecutive_refresh_failures": 0
+}

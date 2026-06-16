@@ -12,7 +12,8 @@
     "multimodal",
     "pytorch",
     "transformer",
-    "video-generation"
+    "video-generation",
+    "world-model"
   ],
   "author": {
     "type": "org",
@@ -27,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 5149,
+    "stars": 5165,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-15T16:08:47Z",
+    "last_commit_at": "2026-06-16T15:15:58Z",
     "first_commit_at": "2025-09-11T00:34:44Z",
-    "forks": 1113,
-    "watchers": 51,
-    "open_issues": 988,
+    "forks": 1120,
+    "watchers": 50,
+    "open_issues": 1002,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -50,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4007,
+  "composite_score": 0.4008,
   "rank_in_category": 22,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:30:27.541577Z",
-  "last_refreshed_at": "2026-06-15T18:35:20.842623Z",
+  "last_refreshed_at": "2026-06-16T18:40:06.772712Z",
   "consecutive_refresh_failures": 0
 }

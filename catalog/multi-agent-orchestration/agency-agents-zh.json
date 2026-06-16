@@ -1,7 +1,7 @@
 {
   "slug": "agency-agents-zh",
   "name": "agency-agents-zh",
-  "tagline": "🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）",
+  "tagline": "🎭 216 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 17 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 50 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
   "category": "multi-agent-orchestration",
   "tags": [
     "agency-orchestrator",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "jnMetaCode/agency-agents-zh",
     "huggingface": null,
-    "homepage": "https://github.com/jnMetaCode/agency-orchestrator"
+    "homepage": "https://ao.aiolaola.com/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 14967,
+    "stars": 15054,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-12T23:20:03Z",
+    "last_commit_at": "2026-06-16T17:58:53Z",
     "first_commit_at": "2026-03-06T11:32:06Z",
-    "forks": 2613,
-    "watchers": 90,
-    "open_issues": 6,
+    "forks": 2623,
+    "watchers": 89,
+    "open_issues": 4,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4427,
-  "rank_in_category": 126,
+  "composite_score": 0.4456,
+  "rank_in_category": 120,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:29:10.042903Z",
-  "last_refreshed_at": "2026-06-15T19:11:33.095290Z",
+  "last_refreshed_at": "2026-06-16T19:18:56.035543Z",
   "consecutive_refresh_failures": 0
 }
