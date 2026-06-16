@@ -8,10 +8,7 @@
     "ai",
     "cli",
     "developer-tools",
-    "jetbrains-plugin",
-    "llm",
-    "open-source",
-    "vs-code-extenstion"
+    "open-source"
   ],
   "author": {
     "type": "org",
@@ -22,17 +19,17 @@
     "primary": "github",
     "github": "continuedev/continue",
     "huggingface": null,
-    "homepage": "https://docs.continue.dev/"
+    "homepage": "https://continue.dev/"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 33698,
+    "stars": 33721,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-15T16:59:46Z",
+    "last_commit_at": "2026-06-16T16:10:55Z",
     "first_commit_at": "2023-05-24T03:45:12Z",
-    "forks": 4660,
-    "watchers": 157,
-    "open_issues": 759,
+    "forks": 4671,
+    "watchers": 159,
+    "open_issues": 794,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -50,9 +47,9 @@
   "runnable": true,
   "adapter_ref": "adapters/continue/mcp.json",
   "composite_score": 0.5005,
-  "rank_in_category": 8,
+  "rank_in_category": 9,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-06-15T17:58:36.847508Z",
+  "last_refreshed_at": "2026-06-16T18:03:53.243238Z",
   "consecutive_refresh_failures": 0
 }

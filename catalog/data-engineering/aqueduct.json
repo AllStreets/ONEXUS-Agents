@@ -1,0 +1,58 @@
+{
+  "slug": "aqueduct",
+  "name": "aqueduct",
+  "tagline": "LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating data pipeline workflows for ETL and analytics tasks. Open-source, MIT licensed.",
+  "category": "data-engineering",
+  "tags": [
+    "automation",
+    "data-agent",
+    "data-engineering",
+    "etl",
+    "llm-agent",
+    "python",
+    "sql-generation",
+    "workflow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JohnnyQ-commits",
+    "url": "https://github.com/JohnnyQ-commits"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JohnnyQ-commits/aqueduct",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-16T11:01:38Z",
+    "first_commit_at": "2026-06-14T11:25:55Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4328,
+  "rank_in_category": 92,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-16T18:19:10.041558Z",
+  "last_refreshed_at": "2026-06-16T18:19:10.041561Z",
+  "consecutive_refresh_failures": 0
+}

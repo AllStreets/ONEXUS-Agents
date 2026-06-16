@@ -1,0 +1,62 @@
+{
+  "slug": "swanlab",
+  "name": "SwanLab",
+  "tagline": "⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift / Ultr",
+  "category": "data-science-ml",
+  "tags": [
+    "ai-infra",
+    "data-science",
+    "deep-learning",
+    "llm",
+    "logging",
+    "machine-learning",
+    "mlops",
+    "model-versioning",
+    "python",
+    "pytorch"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SwanHubX",
+    "url": "https://github.com/SwanHubX"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SwanHubX/SwanLab",
+    "huggingface": null,
+    "homepage": "https://swanlab.cn/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4004,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-16T07:24:47Z",
+    "first_commit_at": "2023-11-24T08:54:45Z",
+    "forks": 208,
+    "watchers": 11,
+    "open_issues": 52,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4294,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-16T18:52:56.350070Z",
+  "last_refreshed_at": "2026-06-16T18:52:56.350073Z",
+  "consecutive_refresh_failures": 0
+}

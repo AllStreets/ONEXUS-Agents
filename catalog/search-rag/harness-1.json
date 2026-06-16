@@ -1,7 +1,7 @@
 {
   "slug": "harness-1",
   "name": "harness-1",
-  "tagline": "🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search capability with a 20B model",
+  "tagline": "🚀 Ultra Recipe for Training Long-Horizon Search Agents - matching frontier AI's search capability with a 20B model + stateful harness",
   "category": "search-rag",
   "tags": [],
   "author": {
@@ -17,12 +17,12 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 650,
+    "stars": 665,
     "downloads_30d": null,
     "last_commit_at": "2026-06-15T16:34:26Z",
     "first_commit_at": "2026-05-17T02:51:19Z",
-    "forks": 91,
-    "watchers": 19,
+    "forks": 94,
+    "watchers": 20,
     "open_issues": 1,
     "archived": false,
     "is_fork": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3452,
-  "rank_in_category": 98,
+  "composite_score": 0.3448,
+  "rank_in_category": 102,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:11:07.693416Z",
-  "last_refreshed_at": "2026-06-15T18:47:04.510368Z",
+  "last_refreshed_at": "2026-06-16T18:52:39.689492Z",
   "consecutive_refresh_failures": 0
 }

@@ -17,7 +17,7 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 137,
+    "stars": 138,
     "downloads_30d": null,
     "last_commit_at": "2025-08-10T06:37:38Z",
     "first_commit_at": "2025-04-15T09:39:16Z",
@@ -35,15 +35,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "smolagents"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.214,
-  "rank_in_category": 235,
+  "composite_score": 0.2291,
+  "rank_in_category": 227,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:11:05.274524Z",
-  "last_refreshed_at": "2026-06-06T15:05:28.532200Z",
-  "consecutive_refresh_failures": 9
+  "last_refreshed_at": "2026-06-16T18:52:43.532274Z",
+  "consecutive_refresh_failures": 0
 }

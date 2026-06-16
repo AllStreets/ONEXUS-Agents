@@ -1,7 +1,7 @@
 {
   "slug": "rpdfium",
   "name": "rpdfium",
-  "tagline": "Ruby implementation of Pdfium",
+  "tagline": "Ruby binding for Pdfium",
   "category": "pdf-forms",
   "tags": [
     "document-parsing",
@@ -26,7 +26,7 @@
   "metrics": {
     "stars": 16,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-15T15:42:36Z",
+    "last_commit_at": "2026-06-16T10:37:54Z",
     "first_commit_at": "2026-05-09T06:39:29Z",
     "forks": 0,
     "watchers": 0,
@@ -47,10 +47,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4525,
-  "rank_in_category": 63,
+  "composite_score": 0.4523,
+  "rank_in_category": 64,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-10T18:08:33.070381Z",
-  "last_refreshed_at": "2026-06-15T19:35:43.065821Z",
+  "last_refreshed_at": "2026-06-16T19:41:04.246544Z",
   "consecutive_refresh_failures": 0
 }

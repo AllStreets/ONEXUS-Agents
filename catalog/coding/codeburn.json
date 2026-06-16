@@ -1,7 +1,7 @@
 {
   "slug": "codeburn",
   "name": "codeburn",
-  "tagline": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
+  "tagline": "See where your AI tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. npx codeburn",
   "category": "coding",
   "tags": [
     "ai-coding",
@@ -28,11 +28,11 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 8010,
+    "stars": 8041,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-14T08:35:19Z",
+    "last_commit_at": "2026-06-15T22:56:04Z",
     "first_commit_at": "2026-04-13T22:10:27Z",
-    "forks": 621,
+    "forks": 628,
     "watchers": 26,
     "open_issues": 54,
     "archived": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3742,
-  "rank_in_category": 210,
+  "composite_score": 0.375,
+  "rank_in_category": 207,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:20:38.902255Z",
-  "last_refreshed_at": "2026-06-15T18:01:43.799955Z",
+  "last_refreshed_at": "2026-06-16T18:06:51.801411Z",
   "consecutive_refresh_failures": 0
 }

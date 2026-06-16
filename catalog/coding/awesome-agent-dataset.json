@@ -1,0 +1,60 @@
+{
+  "slug": "awesome-agent-dataset",
+  "name": "awesome-agent-dataset",
+  "tagline": "📚 Curated catalog of agent-training datasets + a toolkit that normalizes, deduplicates, and quality-tiers them into one schema. Produces 🤗 voidful/agent-sft.",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "agent-traces",
+    "awesome-list",
+    "dataset",
+    "fine-tuning",
+    "function-calling",
+    "huggingface",
+    "llm",
+    "swe-agent",
+    "tool-use"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "voidful",
+    "url": "https://github.com/voidful"
+  },
+  "source": {
+    "primary": "github",
+    "github": "voidful/awesome-agent-dataset",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/datasets/voidful/agent-sft"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-16T00:26:24Z",
+    "first_commit_at": "2026-06-15T18:20:24Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2043,
+  "rank_in_category": 698,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-16T18:05:38.734707Z",
+  "last_refreshed_at": "2026-06-16T18:05:38.734711Z",
+  "consecutive_refresh_failures": 0
+}

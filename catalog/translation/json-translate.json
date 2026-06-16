@@ -1,0 +1,60 @@
+{
+  "slug": "json-translate",
+  "name": "json-translate",
+  "tagline": "⚡ Schema-preserving JSON translation for i18n with JSONPath, key mapping & 17+ LLM providers · 保持 schema 的  JSON 翻译工具，支持 JSONPath、键映射与 17+ LLM，专为 i18n 设计",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "batch-translation",
+    "chatgpt",
+    "gpt",
+    "i18n",
+    "internationalization",
+    "json",
+    "json-translation",
+    "jsonpath",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rockbenben",
+    "url": "https://github.com/rockbenben"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rockbenben/json-translate",
+    "huggingface": null,
+    "homepage": "https://tools.newzone.top/en/json-translate"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-16T06:20:17Z",
+    "first_commit_at": "2025-10-13T20:14:31Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3645,
+  "rank_in_category": 99,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-16T18:50:04.918515Z",
+  "last_refreshed_at": "2026-06-16T18:50:04.918518Z",
+  "consecutive_refresh_failures": 0
+}

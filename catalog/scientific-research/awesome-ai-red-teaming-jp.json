@@ -1,0 +1,62 @@
+{
+  "slug": "awesome-ai-red-teaming-jp",
+  "name": "awesome-ai-red-teaming-jp",
+  "tagline": "AI Red Teaming / AI Safety に関する日本語リソースのキュレーションリスト",
+  "category": "scientific-research",
+  "tags": [
+    "ai-red-teaming",
+    "ai-safety",
+    "awesome",
+    "awesome-list",
+    "japanese",
+    "llm-security",
+    "llms-txt",
+    "mcp-server",
+    "owasp",
+    "prompt-injection"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "HayatoFujihara",
+    "url": "https://github.com/HayatoFujihara"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HayatoFujihara/awesome-ai-red-teaming-jp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "CC0-1.0",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-04T15:44:29Z",
+    "first_commit_at": "2026-04-04T11:23:08Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4514,
+  "rank_in_category": 197,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:16:23.721142Z",
+  "last_refreshed_at": "2026-06-16T19:12:13.891636Z",
+  "consecutive_refresh_failures": 0
+}

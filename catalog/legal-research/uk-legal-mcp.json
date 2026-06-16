@@ -1,7 +1,7 @@
 {
   "slug": "uk-legal-mcp",
   "name": "uk-legal-mcp",
-  "tagline": "UK legal research MCP server — case law, legislation, Hansard, HMRC, OSCOLA citations. 14 tools.",
+  "tagline": "UK legal research MCP server — case law, legislation, Hansard, bills, committees, HMRC, OSCOLA citations.",
   "category": "legal-research",
   "tags": [
     "ai-skills",
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3303,
-  "rank_in_category": 34,
+  "composite_score": 0.3294,
+  "rank_in_category": 35,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:58:38.194328Z",
-  "last_refreshed_at": "2026-06-15T18:26:25.701159Z",
+  "last_refreshed_at": "2026-06-16T18:30:20.134277Z",
   "consecutive_refresh_failures": 0
 }

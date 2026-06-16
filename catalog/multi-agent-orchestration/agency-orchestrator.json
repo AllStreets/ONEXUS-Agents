@@ -1,12 +1,12 @@
 {
   "slug": "agency-orchestrator",
   "name": "agency-orchestrator",
-  "tagline": "🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. 211+ expert roles, zero-code YAML, 9 LLM providers (6 free). 一句话调度多个AI专家自动协作，几分钟交付完整方案。",
+  "tagline": "🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. Built on the agency-agents role library (216+ experts), zero-code YAML, web Studio + desktop app, 10 LLM providers (7 free). 基于",
   "category": "multi-agent-orchestration",
   "tags": [
+    "agency-agents",
     "agent-orchestration",
     "ai-agents",
-    "aider",
     "autogen-alternative",
     "claude",
     "codex",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "jnMetaCode/agency-orchestrator",
     "huggingface": null,
-    "homepage": "https://www.npmjs.com/package/agency-orchestrator"
+    "homepage": "https://ao.aiolaola.com/"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 1348,
+    "stars": 1362,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-15T18:33:18Z",
+    "last_commit_at": "2026-06-16T17:38:08Z",
     "first_commit_at": "2026-03-21T14:47:35Z",
-    "forks": 195,
+    "forks": 197,
     "watchers": 8,
-    "open_issues": 4,
+    "open_issues": 5,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4577,
-  "rank_in_category": 96,
+  "composite_score": 0.4579,
+  "rank_in_category": 101,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:29:36.831570Z",
-  "last_refreshed_at": "2026-06-15T19:11:53.879097Z",
+  "last_refreshed_at": "2026-06-16T19:19:15.667152Z",
   "consecutive_refresh_failures": 0
 }

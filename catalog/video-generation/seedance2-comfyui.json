@@ -1,7 +1,7 @@
 {
   "slug": "seedance2-comfyui",
   "name": "seedance2-comfyui",
-  "tagline": "ComfyUI custom nodes for Seedance 2.0 video generation — text-to-video, image-to-video, and video extend via muapi.ai",
+  "tagline": "ComfyUI custom nodes for Seedance 2.0 and Seedance 2 Mini — text-to-video, image-to-video, consistent character, and video extend via muapi.ai.",
   "category": "video-generation",
   "tags": [
     "ai",
@@ -11,9 +11,9 @@
     "comfyui",
     "comfyui-custom-nodes",
     "comfyui-nodes",
-    "deep-learning",
     "generative-ai",
-    "image-to-video"
+    "image-to-video",
+    "muapi"
   ],
   "author": {
     "type": "user",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 195,
+    "stars": 196,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-02T18:58:17Z",
+    "last_commit_at": "2026-06-15T20:09:19Z",
     "first_commit_at": "2023-06-21T14:22:03Z",
     "forks": 35,
     "watchers": 3,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.391,
-  "rank_in_category": 37,
+  "composite_score": 0.4025,
+  "rank_in_category": 27,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:31:50.464684Z",
-  "last_refreshed_at": "2026-06-15T18:38:27.035727Z",
+  "last_refreshed_at": "2026-06-16T18:43:42.137409Z",
   "consecutive_refresh_failures": 0
 }

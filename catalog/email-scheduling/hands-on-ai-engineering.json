@@ -6,7 +6,11 @@
   "tags": [
     "agents",
     "ai",
+    "ai-agents",
+    "ai-engineering",
+    "generative-ai",
     "llms",
+    "mcp",
     "ocr",
     "python",
     "rag"
@@ -24,13 +28,13 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 1418,
+    "stars": 2330,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-05T11:32:19Z",
+    "last_commit_at": "2026-06-14T14:30:34Z",
     "first_commit_at": "2025-02-24T19:15:35Z",
-    "forks": 436,
-    "watchers": 12,
-    "open_issues": 8,
+    "forks": 639,
+    "watchers": 19,
+    "open_issues": 17,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -42,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.6276,
-  "rank_in_category": 22,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.725,
+  "rank_in_category": 4,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:14:51.961864Z",
-  "last_refreshed_at": "2026-06-07T10:31:03.188372Z",
-  "consecutive_refresh_failures": 9
+  "last_refreshed_at": "2026-06-16T19:04:44.137933Z",
+  "consecutive_refresh_failures": 0
 }

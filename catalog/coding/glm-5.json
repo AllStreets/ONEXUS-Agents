@@ -6,8 +6,8 @@
   "tags": [
     "agentic-ai",
     "coding",
-    "glm",
-    "llm"
+    "llm",
+    "long-horizon"
   ],
   "author": {
     "type": "org",
@@ -18,17 +18,17 @@
     "primary": "github",
     "github": "zai-org/GLM-5",
     "huggingface": null,
-    "homepage": "https://z.ai/blog/glm-5"
+    "homepage": "https://z.ai/blog/glm-5.2"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 3450,
+    "stars": 3468,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-15T05:06:07Z",
+    "last_commit_at": "2026-06-16T17:31:58Z",
     "first_commit_at": "2026-02-10T10:08:58Z",
-    "forks": 381,
-    "watchers": 26,
-    "open_issues": 32,
+    "forks": 382,
+    "watchers": 27,
+    "open_issues": 34,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,10 +45,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3391,
-  "rank_in_category": 297,
+  "composite_score": 0.3673,
+  "rank_in_category": 227,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:20:22.466615Z",
-  "last_refreshed_at": "2026-06-15T18:01:28.272915Z",
+  "last_refreshed_at": "2026-06-16T18:06:37.432130Z",
   "consecutive_refresh_failures": 0
 }
