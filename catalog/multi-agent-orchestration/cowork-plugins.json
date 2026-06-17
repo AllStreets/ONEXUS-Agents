@@ -1,7 +1,7 @@
 {
   "slug": "cowork-plugins",
   "name": "cowork-plugins",
-  "tagline": "Claude Cowork 한국어 도메인 전문가 AI 마켓플레이스 — 21 plugins · 108 skills · Korean B2B (business · finance · legal · HR · marketing · content · commerce · BI · PM · sales) + AI media (image/video/voice) + office ",
+  "tagline": "모두의 AI (MoAI) — Claude Cowork & Claude Code 한국 실무 도메인 AI 하네스·플러그인 마켓플레이스. 사업계획서·세무·법률·HR·마케팅·커머스·BI·콘텐츠 도메인 스킬·에이전트·워크플로우. Korean B2B + office docs (HWPX/DOCX/XLSX/PPTX/PDF) + AI media (image/video/vo",
   "category": "multi-agent-orchestration",
   "tags": [
     "agents",
@@ -9,11 +9,11 @@
     "ai-marketplace",
     "ai-plugins",
     "anthropic",
-    "automation-tools",
+    "anthropic-claude",
     "b2b-ai",
     "claude-code",
-    "claude-cowork",
-    "claude-plugins"
+    "claude-code-plugins",
+    "claude-cowork"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 219,
+    "stars": 221,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-16T15:10:17Z",
+    "last_commit_at": "2026-06-17T11:33:55Z",
     "first_commit_at": "2026-04-04T15:31:19Z",
-    "forks": 54,
+    "forks": 55,
     "watchers": 1,
-    "open_issues": 2,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4275,
-  "rank_in_category": 168,
+  "composite_score": 0.4277,
+  "rank_in_category": 164,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:00:55.714201Z",
-  "last_refreshed_at": "2026-06-16T18:34:00.824645Z",
+  "last_refreshed_at": "2026-06-17T17:11:04.776750Z",
   "consecutive_refresh_failures": 0
 }

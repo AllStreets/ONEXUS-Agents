@@ -1,0 +1,60 @@
+{
+  "slug": "glycemicgpt",
+  "name": "GlycemicGPT",
+  "tagline": "Because no one should manage diabetes alone 💙",
+  "category": "healthcare",
+  "tags": [
+    "artificial-intelligence",
+    "cgm-remote-monitor",
+    "diabetes",
+    "hba1c",
+    "healthcare-ai",
+    "insulin-pump",
+    "medtronic",
+    "nightscout",
+    "omnipod",
+    "tandem"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "GlycemicGPT",
+    "url": "https://github.com/GlycemicGPT"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GlycemicGPT/GlycemicGPT",
+    "huggingface": null,
+    "homepage": "https://glycemicgpt.org/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 119,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-17T16:43:01Z",
+    "first_commit_at": "2026-02-06T04:54:16Z",
+    "forks": 5,
+    "watchers": 1,
+    "open_issues": 30,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4427,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-17T17:55:33.189550Z",
+  "last_refreshed_at": "2026-06-17T17:55:33.189553Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,16 +1,19 @@
 {
   "slug": "omega-legalcitator",
   "name": "Omega-LegalCitator",
-  "tagline": "Legal citation parser and authority-graph audit prototype for attorney review workflows.",
+  "tagline": "Citation parser and authority-graph audit engine for attorney-supervised legal citation governance",
   "category": "legal-research",
   "tags": [
     "attorney-tools",
     "authority-graph",
+    "bluebook",
+    "california-law",
+    "citation-parser",
     "citations",
     "legal-research",
+    "legal-tech",
     "legaltech",
-    "pytest",
-    "python"
+    "nlp"
   ],
   "author": {
     "type": "user",
@@ -27,7 +30,7 @@
   "metrics": {
     "stars": 1,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-16T08:32:51Z",
+    "last_commit_at": "2026-06-17T04:49:02Z",
     "first_commit_at": "2026-03-31T08:24:11Z",
     "forks": 0,
     "watchers": 0,
@@ -49,9 +52,9 @@
   "runnable": false,
   "adapter_ref": null,
   "composite_score": 0.2098,
-  "rank_in_category": 137,
+  "rank_in_category": 136,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-13T15:19:52.580578Z",
-  "last_refreshed_at": "2026-06-16T18:28:24.736558Z",
+  "last_refreshed_at": "2026-06-17T17:05:03.172356Z",
   "consecutive_refresh_failures": 0
 }

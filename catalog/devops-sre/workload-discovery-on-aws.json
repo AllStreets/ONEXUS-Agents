@@ -1,0 +1,53 @@
+{
+  "slug": "workload-discovery-on-aws",
+  "name": "workload-discovery-on-aws",
+  "tagline": "Workload Discovery on AWS is a solution to visualize AWS Cloud workloads. With it you can build, customize, and share architecture diagrams of your workloads based on live data from AWS. The solution ",
+  "category": "devops-sre",
+  "tags": [
+    "architecture-diagram",
+    "architecture-visualization",
+    "aws"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aws-solutions",
+    "url": "https://github.com/aws-solutions"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-solutions/workload-discovery-on-aws",
+    "huggingface": null,
+    "homepage": "https://aws.amazon.com/solutions/implementations/workload-discovery-on-aws/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 825,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-16T19:55:20Z",
+    "first_commit_at": "2020-09-23T23:25:43Z",
+    "forks": 128,
+    "watchers": 36,
+    "open_issues": 39,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5744,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-17T17:40:47.238187Z",
+  "last_refreshed_at": "2026-06-17T17:40:47.238190Z",
+  "consecutive_refresh_failures": 0
+}

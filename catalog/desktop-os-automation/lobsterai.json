@@ -1,9 +1,20 @@
 {
   "slug": "lobsterai",
   "name": "LobsterAI",
-  "tagline": "Your 24/7 all-scenario AI agent that gets work done for you.",
+  "tagline": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone ",
   "category": "desktop-os-automation",
-  "tags": [],
+  "tags": [
+    "agent",
+    "ai-agent",
+    "ai-assistant",
+    "automation",
+    "autonomous-agents",
+    "chatbot",
+    "copilot",
+    "cross-platform",
+    "desktop-app",
+    "electron"
+  ],
   "author": {
     "type": "user",
     "handle": "netease-youdao",
@@ -17,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 5299,
+    "stars": 5302,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-16T11:49:41Z",
+    "last_commit_at": "2026-06-17T12:25:59Z",
     "first_commit_at": "2026-02-12T09:56:20Z",
     "forks": 817,
     "watchers": 30,
-    "open_issues": 881,
+    "open_issues": 880,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -35,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.4438,
-  "rank_in_category": 35,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.509,
+  "rank_in_category": 10,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:12:52.162446Z",
-  "last_refreshed_at": "2026-06-16T18:57:18.293452Z",
+  "last_refreshed_at": "2026-06-17T17:32:18.680220Z",
   "consecutive_refresh_failures": 0
 }

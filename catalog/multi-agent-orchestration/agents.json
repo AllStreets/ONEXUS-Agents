@@ -1,35 +1,40 @@
 {
   "slug": "agents",
   "name": "agents",
-  "tagline": "Build and deploy AI Agents on Cloudflare ",
+  "tagline": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
   "category": "multi-agent-orchestration",
   "tags": [
+    "agent-skills",
+    "agentic-ai",
     "agents",
-    "ai",
-    "cloudflare",
-    "durable-objects",
-    "workflows"
+    "ai-agents",
+    "anthropic",
+    "automation",
+    "claude-code",
+    "claude-code-plugins",
+    "codex-cli",
+    "copilot"
   ],
   "author": {
-    "type": "org",
-    "handle": "cloudflare",
-    "url": "https://github.com/cloudflare"
+    "type": "user",
+    "handle": "wshobson",
+    "url": "https://github.com/wshobson"
   },
   "source": {
     "primary": "github",
-    "github": "cloudflare/agents",
+    "github": "wshobson/agents",
     "huggingface": null,
-    "homepage": "https://developers.cloudflare.com/agents/"
+    "homepage": "https://sethhobson.com/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 5119,
+    "stars": 36883,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-16T16:29:25Z",
-    "first_commit_at": "2025-01-29T23:14:04Z",
-    "forks": 596,
-    "watchers": 35,
-    "open_issues": 125,
+    "last_commit_at": "2026-06-17T01:31:09Z",
+    "first_commit_at": "2025-07-24T23:29:24Z",
+    "forks": 3988,
+    "watchers": 314,
+    "open_issues": 19,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -41,15 +46,18 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.4512,
-  "rank_in_category": 108,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5385,
+  "rank_in_category": 7,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-16T18:49:36.761375Z",
-  "last_refreshed_at": "2026-06-16T18:49:36.761378Z",
+  "first_seen_at": "2026-06-17T17:52:03.546717Z",
+  "last_refreshed_at": "2026-06-17T17:52:03.546720Z",
   "consecutive_refresh_failures": 0
 }

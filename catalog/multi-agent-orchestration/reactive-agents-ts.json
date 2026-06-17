@@ -1,7 +1,7 @@
 {
   "slug": "reactive-agents-ts",
   "name": "reactive-agents-ts",
-  "tagline": "Composable TypeScript AI agent framework — Effect-TS type safety, 5 reasoning strategies, persistent gateway, real-time streaming, multi-agent A2A",
+  "tagline": "The composable TypeScript agent harness built for control, not magic — run one codebase from local 4B Ollama to frontier APIs. Type-safe (Effect-TS), observable, durable. MCP-native tools, multi-agent",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-framework",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 16,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-15T14:26:12Z",
+    "last_commit_at": "2026-06-17T02:54:53Z",
     "first_commit_at": "2026-02-19T14:01:28Z",
     "forks": 3,
     "watchers": 0,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.381,
-  "rank_in_category": 268,
+  "composite_score": 0.3816,
+  "rank_in_category": 267,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-16T18:16:26.045377Z",
-  "last_refreshed_at": "2026-06-16T18:16:26.045381Z",
+  "first_seen_at": "2026-06-17T16:51:37.153675Z",
+  "last_refreshed_at": "2026-06-17T16:51:37.153678Z",
   "consecutive_refresh_failures": 0
 }

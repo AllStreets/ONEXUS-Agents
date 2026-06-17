@@ -1,7 +1,7 @@
 {
   "slug": "awesome-chatgpt-repositories",
   "name": "awesome-ChatGPT-repositories",
-  "tagline": "A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex. Searchable via Claude Code skills.",
+  "tagline": "A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.",
   "category": "knowledge-management",
   "tags": [
     "agent",
@@ -28,11 +28,11 @@
   },
   "license": "CC0-1.0",
   "metrics": {
-    "stars": 3086,
+    "stars": 3089,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-08T17:08:40Z",
+    "last_commit_at": "2026-06-16T23:15:19Z",
     "first_commit_at": "2023-04-02T14:00:07Z",
-    "forks": 401,
+    "forks": 405,
     "watchers": 53,
     "open_issues": 9,
     "archived": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.7148,
-  "rank_in_category": 13,
+  "composite_score": 0.7258,
+  "rank_in_category": 11,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:48:39.684375Z",
-  "last_refreshed_at": "2026-06-14T15:13:58.921408Z",
-  "consecutive_refresh_failures": 2
+  "last_refreshed_at": "2026-06-17T16:47:26.476626Z",
+  "consecutive_refresh_failures": 0
 }

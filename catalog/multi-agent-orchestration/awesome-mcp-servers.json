@@ -1,32 +1,39 @@
 {
   "slug": "awesome-mcp-servers",
   "name": "awesome-mcp-servers",
-  "tagline": "A collection of MCP servers.",
+  "tagline": "A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more. - https://mcpserver.ever.works",
   "category": "multi-agent-orchestration",
   "tags": [
     "ai",
-    "mcp"
+    "awesome",
+    "awesome-list",
+    "awesome-lists",
+    "lists",
+    "mcp",
+    "mcp-server",
+    "mcp-servers-directory",
+    "resources"
   ],
   "author": {
-    "type": "user",
-    "handle": "punkpeye",
-    "url": "https://github.com/punkpeye"
+    "type": "org",
+    "handle": "ever-works",
+    "url": "https://github.com/ever-works"
   },
   "source": {
     "primary": "github",
-    "github": "punkpeye/awesome-mcp-servers",
+    "github": "ever-works/awesome-mcp-servers",
     "huggingface": null,
-    "homepage": "https://glama.ai/mcp/servers"
+    "homepage": "https://mcpserver.ever.works/"
   },
-  "license": "MIT",
+  "license": "CC-BY-SA-4.0",
   "metrics": {
-    "stars": 89278,
+    "stars": 75,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-16T04:34:49Z",
-    "first_commit_at": "2024-11-30T05:03:33Z",
-    "forks": 11691,
-    "watchers": 30,
-    "open_issues": 1447,
+    "last_commit_at": "2026-05-07T22:38:48Z",
+    "first_commit_at": "2025-05-14T01:00:20Z",
+    "forks": 82,
+    "watchers": 2,
+    "open_issues": 95,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,10 +52,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5717,
-  "rank_in_category": 3,
+  "composite_score": 0.4051,
+  "rank_in_category": 214,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:46:50.764150Z",
-  "last_refreshed_at": "2026-06-16T18:07:56.532160Z",
+  "first_seen_at": "2026-06-06T10:15:09.548739Z",
+  "last_refreshed_at": "2026-06-17T17:39:38.245067Z",
   "consecutive_refresh_failures": 0
 }

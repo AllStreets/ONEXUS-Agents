@@ -1,0 +1,54 @@
+{
+  "slug": "awesome-mcp-clients",
+  "name": "awesome-mcp-clients",
+  "tagline": "A collection of MCP clients.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "clients",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "punkpeye",
+    "url": "https://github.com/punkpeye"
+  },
+  "source": {
+    "primary": "github",
+    "github": "punkpeye/awesome-mcp-clients",
+    "huggingface": null,
+    "homepage": "https://glama.ai/mcp/clients"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6477,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T18:57:48Z",
+    "first_commit_at": "2025-01-11T10:10:36Z",
+    "forks": 586,
+    "watchers": 36,
+    "open_issues": 28,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5107,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:41.853007Z",
+  "last_refreshed_at": "2026-06-17T16:44:46.373196Z",
+  "consecutive_refresh_failures": 0
+}

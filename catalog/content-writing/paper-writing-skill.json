@@ -1,0 +1,55 @@
+{
+  "slug": "paper-writing-skill",
+  "name": "paper-writing-skill",
+  "tagline": "A Claude Code skill that encodes battle-tested editorial principles, section-specific rhetorical moves, and a structured writing pipeline for research papers. Brainstorm → Draft 0 → Evaluate → Write →",
+  "category": "content-writing",
+  "tags": [
+    "academic-writing",
+    "claude-code",
+    "paper-writing",
+    "phd",
+    "research"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SNL-UCSB",
+    "url": "https://github.com/SNL-UCSB"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SNL-UCSB/paper-writing-skill",
+    "huggingface": null,
+    "homepage": "https://sites.cs.ucsb.edu/~arpitgupta/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 67,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-28T23:55:41Z",
+    "first_commit_at": "2026-03-25T01:10:08Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3982,
+  "rank_in_category": 165,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-17T17:18:56.031747Z",
+  "last_refreshed_at": "2026-06-17T17:18:56.031751Z",
+  "consecutive_refresh_failures": 0
+}

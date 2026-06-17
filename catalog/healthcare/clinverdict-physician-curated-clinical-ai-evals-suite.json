@@ -1,0 +1,60 @@
+{
+  "slug": "clinverdict-physician-curated-clinical-ai-evals-suite",
+  "name": "ClinVerdict-Physician-Curated-Clinical-AI-Evals-Suite",
+  "tagline": "Adversarial clinical AI evals suite :  physician-curated golden test cases exposing safety-critical failure modes in healthcare AI pipelines. SOAP notes, LLM judge, ambient scribe.",
+  "category": "healthcare",
+  "tags": [
+    "ai-agent",
+    "ai-safety",
+    "clinical-ai",
+    "clinical-documentation",
+    "clinical-scribe",
+    "evals",
+    "healthcare-ai",
+    "llm-evaluation",
+    "llm-judge",
+    "medical-nlp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sharifalzaber",
+    "url": "https://github.com/sharifalzaber"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sharifalzaber/ClinVerdict-Physician-Curated-Clinical-AI-Evals-Suite",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-16T06:39:29Z",
+    "first_commit_at": "2026-06-01T15:04:29Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3256,
+  "rank_in_category": 113,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-17T17:55:01.968930Z",
+  "last_refreshed_at": "2026-06-17T17:55:01.968933Z",
+  "consecutive_refresh_failures": 0
+}
