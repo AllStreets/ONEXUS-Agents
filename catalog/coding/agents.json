@@ -1,0 +1,55 @@
+{
+  "slug": "agents",
+  "name": "agents",
+  "tagline": "Build and deploy AI Agents on Cloudflare ",
+  "category": "coding",
+  "tags": [
+    "agents",
+    "ai",
+    "cloudflare",
+    "durable-objects",
+    "workflows"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "cloudflare",
+    "url": "https://github.com/cloudflare"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cloudflare/agents",
+    "huggingface": null,
+    "homepage": "https://developers.cloudflare.com/agents/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5124,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-17T11:55:36Z",
+    "first_commit_at": "2025-01-29T23:14:04Z",
+    "forks": 596,
+    "watchers": 35,
+    "open_issues": 104,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4002,
+  "rank_in_category": 165,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-17T17:25:15.836138Z",
+  "last_refreshed_at": "2026-06-17T17:25:15.836142Z",
+  "consecutive_refresh_failures": 0
+}

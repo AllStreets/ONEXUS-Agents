@@ -1,0 +1,60 @@
+{
+  "slug": "coda-bench",
+  "name": "CoDA-Bench",
+  "tagline": "CoDA-Bench is a benchmark for code agents on data-intensive tasks. 🎈代码智能体能搞定数据密集型任务吗? ",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "ai",
+    "benchmark",
+    "code-agent",
+    "code-generation",
+    "coding-agent",
+    "data-analysis",
+    "data-engineering"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ruc-datalab",
+    "url": "https://github.com/ruc-datalab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ruc-datalab/CoDA-Bench",
+    "huggingface": null,
+    "homepage": "https://coda-bench.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-17T01:34:24Z",
+    "first_commit_at": "2026-06-08T08:12:23Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2314,
+  "rank_in_category": 627,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-17T16:40:57.953370Z",
+  "last_refreshed_at": "2026-06-17T16:40:57.953373Z",
+  "consecutive_refresh_failures": 0
+}

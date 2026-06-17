@@ -8,12 +8,12 @@
     "ai-agents",
     "anthropic",
     "claude",
+    "crewai-alternative",
     "deepseek",
     "gemini",
     "grok",
-    "llm",
-    "local-llm",
-    "mcp"
+    "langgraph-alternative",
+    "llm"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 6384,
+    "stars": 6389,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-15T03:09:01Z",
+    "last_commit_at": "2026-06-17T07:17:55Z",
     "first_commit_at": "2026-03-31T20:33:15Z",
-    "forks": 2390,
+    "forks": 2391,
     "watchers": 61,
-    "open_issues": 9,
+    "open_issues": 5,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4967,
-  "rank_in_category": 35,
+  "composite_score": 0.498,
+  "rank_in_category": 36,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-10T14:39:50.247521Z",
-  "last_refreshed_at": "2026-06-16T19:18:59.449972Z",
+  "last_refreshed_at": "2026-06-17T17:52:08.677294Z",
   "consecutive_refresh_failures": 0
 }

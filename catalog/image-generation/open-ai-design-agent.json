@@ -4,6 +4,7 @@
   "tagline": "Open-source AI design agent — alternative to Lovart AI, Runway Agent, Luma Labs Agent, Krea Agent, Pika Agent, Galileo AI, Magic Patterns. Autonomous multi-step creative for posters, social, brand kit",
   "category": "image-generation",
   "tags": [
+    "ai-agent",
     "ai-creative-agent",
     "ai-design-agent",
     "ai-logo",
@@ -12,8 +13,7 @@
     "brand-kit",
     "design-agent",
     "galileo-ai",
-    "krea-agent",
-    "lovart"
+    "krea-agent"
   ],
   "author": {
     "type": "user",
@@ -24,15 +24,15 @@
     "primary": "github",
     "github": "Anil-matcha/Open-AI-Design-Agent",
     "huggingface": null,
-    "homepage": "https://muapi.ai/assistant"
+    "homepage": "https://muapi.ai/assistant?utm_source=github&utm_medium=about&utm_campaign=open-ai-design-agent"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 803,
+    "stars": 804,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-10T04:35:13Z",
+    "last_commit_at": "2026-06-16T19:00:25Z",
     "first_commit_at": "2023-05-06T17:27:55Z",
-    "forks": 173,
+    "forks": 175,
     "watchers": 16,
     "open_issues": 1,
     "archived": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3895,
+  "composite_score": 0.3951,
   "rank_in_category": 26,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:06:15.287484Z",
-  "last_refreshed_at": "2026-06-16T18:44:41.594537Z",
+  "last_refreshed_at": "2026-06-17T17:20:24.642742Z",
   "consecutive_refresh_failures": 0
 }

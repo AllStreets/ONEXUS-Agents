@@ -1,7 +1,7 @@
 {
   "slug": "arcrift",
   "name": "ArcRift",
-  "tagline": "Persistent local memory layer for AI. ArcRift uses a Chrome extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local I",
+  "tagline": "Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local IDE agen",
   "category": "knowledge-management",
   "tags": [
     "ai",
@@ -28,11 +28,11 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 231,
+    "stars": 232,
     "downloads_30d": null,
     "last_commit_at": "2026-06-07T12:24:58Z",
     "first_commit_at": "2026-04-20T14:55:47Z",
-    "forks": 32,
+    "forks": 31,
     "watchers": 4,
     "open_issues": 0,
     "archived": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.584,
-  "rank_in_category": 88,
+  "composite_score": 0.5825,
+  "rank_in_category": 89,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:47:50.323155Z",
-  "last_refreshed_at": "2026-06-16T18:10:33.954852Z",
+  "last_refreshed_at": "2026-06-17T16:45:08.516600Z",
   "consecutive_refresh_failures": 0
 }
