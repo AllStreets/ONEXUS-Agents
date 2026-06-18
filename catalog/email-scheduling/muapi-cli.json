@@ -5,14 +5,15 @@
   "category": "email-scheduling",
   "tags": [
     "ai",
+    "ai-api",
+    "ai-tools",
+    "api-client",
+    "audio-generation",
     "cli",
+    "command-line",
+    "developer-tools",
     "generative-ai",
-    "image-generation",
-    "mcp",
-    "muapi",
-    "npm",
-    "python",
-    "video-generation"
+    "image-editing"
   ],
   "author": {
     "type": "org",
@@ -23,17 +24,17 @@
     "primary": "github",
     "github": "SamurAIGPT/muapi-cli",
     "huggingface": null,
-    "homepage": "https://muapi.ai/"
+    "homepage": "https://muapi.ai/?utm_source=github&utm_medium=about&utm_campaign=muapi-cli"
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 999,
+    "stars": 1004,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-02T18:55:47Z",
+    "last_commit_at": "2026-06-16T19:00:44Z",
     "first_commit_at": "2023-05-19T12:18:28Z",
-    "forks": 84,
-    "watchers": 31,
-    "open_issues": 4,
+    "forks": 85,
+    "watchers": 30,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -52,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6893,
-  "rank_in_category": 12,
+  "composite_score": 0.7083,
+  "rank_in_category": 8,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:14:39.694536Z",
-  "last_refreshed_at": "2026-06-07T18:45:25.839701Z",
-  "consecutive_refresh_failures": 11
+  "last_refreshed_at": "2026-06-18T17:24:34.846578Z",
+  "consecutive_refresh_failures": 0
 }

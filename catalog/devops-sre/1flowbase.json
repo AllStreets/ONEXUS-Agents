@@ -1,0 +1,60 @@
+{
+  "slug": "1flowbase",
+  "name": "1flowbase",
+  "tagline": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible virtual models with traces, tokens, latency, and cost visibility.",
+  "category": "devops-sre",
+  "tags": [
+    "agent-observability",
+    "agent-tracing",
+    "ai-gateway",
+    "claude-api",
+    "cost-optimization",
+    "cost-tracking",
+    "fusion",
+    "llm-gateway",
+    "llm-observability",
+    "llm-orchestration"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "taichuy",
+    "url": "https://github.com/taichuy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "taichuy/1flowbase",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 139,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-18T15:41:53Z",
+    "first_commit_at": "2026-03-09T07:08:29Z",
+    "forks": 13,
+    "watchers": 0,
+    "open_issues": 53,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.464,
+  "rank_in_category": 84,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T17:14:16.751739Z",
+  "last_refreshed_at": "2026-06-18T17:14:16.751743Z",
+  "consecutive_refresh_failures": 0
+}

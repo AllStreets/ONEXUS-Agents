@@ -1,0 +1,51 @@
+{
+  "slug": "alexeyprompts",
+  "name": "alexeyprompts",
+  "tagline": "A viewer for Claude Code history with ClickHouse backend",
+  "category": "coding",
+  "tags": [
+    "ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ClickHouse",
+    "url": "https://github.com/ClickHouse"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ClickHouse/alexeyprompts",
+    "huggingface": null,
+    "homepage": "https://clickhouse.com/blog/agentic-coding"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 24,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-31T04:03:00Z",
+    "first_commit_at": "2026-02-16T17:36:17Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2394,
+  "rank_in_category": 615,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T17:02:34.095409Z",
+  "last_refreshed_at": "2026-06-18T17:02:34.095413Z",
+  "consecutive_refresh_failures": 0
+}

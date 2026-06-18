@@ -1,0 +1,62 @@
+{
+  "slug": "ospec",
+  "name": "ospec",
+  "tagline": "Spec-driven, agentic workflow framework for AI coding agents. Turn a request into a verifiable goal loop — plan, act, verify — with durable specs and evidence in your repo. Works with Claude Code, Cod",
+  "category": "coding",
+  "tags": [
+    "agentic-ai",
+    "agentic-coding",
+    "ai",
+    "ai-agents",
+    "ai-coding-assistant",
+    "ai-workflow",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "clawplays",
+    "url": "https://github.com/clawplays"
+  },
+  "source": {
+    "primary": "github",
+    "github": "clawplays/ospec",
+    "huggingface": null,
+    "homepage": "https://ospec.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 550,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-18T06:36:55Z",
+    "first_commit_at": "2026-03-31T02:49:55Z",
+    "forks": 33,
+    "watchers": 15,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.392,
+  "rank_in_category": 183,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T16:31:25.729230Z",
+  "last_refreshed_at": "2026-06-18T16:31:25.729233Z",
+  "consecutive_refresh_failures": 0
+}

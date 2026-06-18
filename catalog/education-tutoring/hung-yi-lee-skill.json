@@ -1,9 +1,15 @@
 {
   "slug": "hung-yi-lee-skill",
   "name": "hung-yi-lee-skill",
-  "tagline": "一個 Karpathy 風格的 LLM wiki + skill，用於以李宏毅老師的教學風格回答 AI 相關問題。",
+  "tagline": "蒸餾李宏毅老師的skill，結合Karpathy的LLM，Fable 5加持 以及 本人親自訪談",
   "category": "education-tutoring",
-  "tags": [],
+  "tags": [
+    "claude",
+    "explainability",
+    "fable5",
+    "hung-yi-lee",
+    "skills"
+  ],
   "author": {
     "type": "user",
     "handle": "voidful",
@@ -17,12 +23,12 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 546,
+    "stars": 627,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-11T00:00:55Z",
+    "last_commit_at": "2026-06-17T09:20:49Z",
     "first_commit_at": "2026-04-08T10:01:50Z",
-    "forks": 43,
-    "watchers": 2,
+    "forks": 63,
+    "watchers": 4,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -40,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4779,
-  "rank_in_category": 46,
+  "composite_score": 0.4931,
+  "rank_in_category": 42,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:04:48.301269Z",
-  "last_refreshed_at": "2026-06-16T18:42:09.143152Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-18T17:05:43.798552Z",
+  "consecutive_refresh_failures": 0
 }

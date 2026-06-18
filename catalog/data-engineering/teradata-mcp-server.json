@@ -1,0 +1,49 @@
+{
+  "slug": "teradata-mcp-server",
+  "name": "teradata-mcp-server",
+  "tagline": "The community development of a MCP server for a Teradata database",
+  "category": "data-engineering",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "Teradata",
+    "url": "https://github.com/Teradata"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Teradata/teradata-mcp-server",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 52,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-18T16:35:28Z",
+    "first_commit_at": "2025-04-17T22:21:31Z",
+    "forks": 57,
+    "watchers": 15,
+    "open_issues": 18,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5726,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T16:44:45.670310Z",
+  "last_refreshed_at": "2026-06-18T16:44:45.670314Z",
+  "consecutive_refresh_failures": 0
+}

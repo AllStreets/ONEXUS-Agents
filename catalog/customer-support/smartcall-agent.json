@@ -1,7 +1,7 @@
 {
   "slug": "smartcall-agent",
   "name": "SmartCall-Agent",
-  "tagline": "🐙 AI Agent System with RAG and outbound calling through LiveKit, OpenAI Realtime for voice chats; integrates Pinecone, JWT auth, and analytics for smart agents.",
+  "tagline": "A modular voice AI platform for handling real phone and VoIP calls with intelligent, domain-specific conversations. Combines Retrieval-Augmented Generation (RAG), automatic speech recognition (ASR), t",
   "category": "customer-support",
   "tags": [
     "ai-agent",
@@ -17,23 +17,23 @@
   ],
   "author": {
     "type": "user",
-    "handle": "silaskiragu",
-    "url": "https://github.com/silaskiragu"
+    "handle": "prakhar7824",
+    "url": "https://github.com/prakhar7824"
   },
   "source": {
     "primary": "github",
-    "github": "silaskiragu/SmartCall-Agent",
+    "github": "prakhar7824/SmartCall-Agent",
     "huggingface": null,
     "homepage": null
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 17,
+    "stars": 2,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-16T12:25:51Z",
+    "last_commit_at": "2025-08-04T13:05:41Z",
     "first_commit_at": "2025-08-04T13:02:12Z",
-    "forks": 3,
-    "watchers": 2,
+    "forks": 1,
+    "watchers": 0,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4731,
-  "rank_in_category": 111,
+  "composite_score": 0.2419,
+  "rank_in_category": 247,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-01T14:28:15.529152Z",
-  "last_refreshed_at": "2026-06-17T17:08:56.814245Z",
+  "first_seen_at": "2026-06-18T16:57:05.179118Z",
+  "last_refreshed_at": "2026-06-18T16:57:05.179121Z",
   "consecutive_refresh_failures": 0
 }

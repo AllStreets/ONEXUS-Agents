@@ -1,0 +1,60 @@
+{
+  "slug": "cli",
+  "name": "cli",
+  "tagline": "Nylas CLI is a unified command-line tool for Nylas API authentication, email management (GPG signing/encryption), calendar, contacts, webhooks, timezone   utilities, and OTP extraction",
+  "category": "email-scheduling",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "api",
+    "calendar",
+    "cli",
+    "contacts",
+    "decryption",
+    "email",
+    "encryption",
+    "golang"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nylas",
+    "url": "https://github.com/nylas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nylas/cli",
+    "huggingface": null,
+    "homepage": "https://cli.nylas.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 43,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-18T00:18:45Z",
+    "first_commit_at": "2025-08-20T01:24:16Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5089,
+  "rank_in_category": 67,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T17:26:00.537195Z",
+  "last_refreshed_at": "2026-06-18T17:26:00.537198Z",
+  "consecutive_refresh_failures": 0
+}

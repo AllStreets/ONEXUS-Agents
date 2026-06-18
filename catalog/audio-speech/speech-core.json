@@ -1,0 +1,60 @@
+{
+  "slug": "speech-core",
+  "name": "speech-core",
+  "tagline": "On-device VAD / streaming STT / TTS / diarization in C++17 (ONNX + LiteRT) with a voice-agent pipeline. Linux, Windows, Android.",
+  "category": "audio-speech",
+  "tags": [
+    "android",
+    "cpp17",
+    "edge-ai",
+    "kokoro",
+    "litert",
+    "nemotron",
+    "on-device",
+    "onnxruntime",
+    "parakeet",
+    "pyannote"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "soniqo",
+    "url": "https://github.com/soniqo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "soniqo/speech-core",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 45,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-15T18:10:12Z",
+    "first_commit_at": "2026-03-08T11:04:51Z",
+    "forks": 3,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4725,
+  "rank_in_category": 90,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T17:10:01.844484Z",
+  "last_refreshed_at": "2026-06-18T17:10:01.844488Z",
+  "consecutive_refresh_failures": 0
+}

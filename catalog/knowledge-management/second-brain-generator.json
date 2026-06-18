@@ -1,0 +1,53 @@
+{
+  "slug": "second-brain-generator",
+  "name": "second-brain-generator",
+  "tagline": "Meet Kenjaku: the installer and configurator of YOUR own second brain — set up in a single copy/paste. A private, personal, and robust assistant inside Claude that forgets nothing, helps you connect t",
+  "category": "knowledge-management",
+  "tags": [
+    "installer",
+    "personal-assistant",
+    "second-brain"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tpierrain",
+    "url": "https://github.com/tpierrain"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tpierrain/second-brain-generator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 51,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-17T22:04:57Z",
+    "first_commit_at": "2026-06-02T20:33:39Z",
+    "forks": 2,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3633,
+  "rank_in_category": 261,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T17:26:33.178243Z",
+  "last_refreshed_at": "2026-06-18T17:26:33.178247Z",
+  "consecutive_refresh_failures": 0
+}

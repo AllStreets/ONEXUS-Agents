@@ -1,0 +1,60 @@
+{
+  "slug": "rollinggo-hotel-skill",
+  "name": "rollinggo-hotel-skill",
+  "tagline": "全球酒店实时推荐及闭环预订Skill，200 万+酒店，全球第三大酒旅B2B公司数据源，免费无调用上限。可按地点、日期、星级、人数、标签等条件搜索酒店列表，返回候选酒店及展示价。可查询指定酒店的实时房型列表、价格计划和取消政策。可锁定价格，创建订单+支付宝二维码，并查询历史订单。",
+  "category": "travel-planning",
+  "tags": [
+    "agent-toolkit",
+    "ai-agents",
+    "claude-code",
+    "cursor-rules",
+    "github-copilot",
+    "hotel-booking",
+    "hotel-cli",
+    "hotel-mcp",
+    "hotel-reservation",
+    "hotel-skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "RollingGo-AI",
+    "url": "https://github.com/RollingGo-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RollingGo-AI/rollinggo-hotel-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-17T09:46:46Z",
+    "first_commit_at": "2026-06-10T14:25:52Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3885,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T17:41:53.082779Z",
+  "last_refreshed_at": "2026-06-18T17:41:53.082783Z",
+  "consecutive_refresh_failures": 0
+}

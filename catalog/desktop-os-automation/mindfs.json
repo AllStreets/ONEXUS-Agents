@@ -1,0 +1,49 @@
+{
+  "slug": "mindfs",
+  "name": "mindfs",
+  "tagline": "Access your personal AI agents and workstation data anywhere, anytime through MindFS.",
+  "category": "desktop-os-automation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "a9gent",
+    "url": "https://github.com/a9gent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "a9gent/mindfs",
+    "huggingface": null,
+    "homepage": "https://relay.a9gent.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 1212,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-16T09:52:07Z",
+    "first_commit_at": "2026-02-06T07:39:37Z",
+    "forks": 85,
+    "watchers": 1,
+    "open_issues": 15,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3999,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-17T16:54:04.702176Z",
+  "last_refreshed_at": "2026-06-18T16:44:04.210998Z",
+  "consecutive_refresh_failures": 0
+}

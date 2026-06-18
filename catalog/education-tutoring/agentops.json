@@ -1,0 +1,60 @@
+{
+  "slug": "agentops",
+  "name": "agentops",
+  "tagline": "The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.",
+  "category": "education-tutoring",
+  "tags": [
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugins",
+    "claude-marketplace",
+    "claude-skills",
+    "codex",
+    "codex-plugin",
+    "cursor",
+    "devops"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "boshu2",
+    "url": "https://github.com/boshu2"
+  },
+  "source": {
+    "primary": "github",
+    "github": "boshu2/agentops",
+    "huggingface": null,
+    "homepage": "https://www.12factoragentops.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 392,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-18T17:22:40Z",
+    "first_commit_at": "2026-02-22T00:41:50Z",
+    "forks": 40,
+    "watchers": 4,
+    "open_issues": 15,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5067,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T17:34:26.314774Z",
+  "last_refreshed_at": "2026-06-18T17:34:26.314777Z",
+  "consecutive_refresh_failures": 0
+}

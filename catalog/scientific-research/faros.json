@@ -1,0 +1,60 @@
+{
+  "slug": "faros",
+  "name": "FAROS",
+  "tagline": "A blueprint-driven AutoResearch runtime for orchestrating AI research workflows from idea generation and experiments to paper writing and peer review.",
+  "category": "scientific-research",
+  "tags": [
+    "agentic-workflow",
+    "ai-scientist",
+    "automated-research",
+    "autoresearch",
+    "llm-agents",
+    "multi-agent",
+    "paper-generation",
+    "research-agent",
+    "research-automation",
+    "scientific-discovery"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OpenNSWM-Lab",
+    "url": "https://github.com/OpenNSWM-Lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OpenNSWM-Lab/FAROS",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1036,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-17T14:44:32Z",
+    "first_commit_at": "2026-05-13T10:11:34Z",
+    "forks": 172,
+    "watchers": 127,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6073,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T17:31:49.370168Z",
+  "last_refreshed_at": "2026-06-18T17:31:49.370171Z",
+  "consecutive_refresh_failures": 0
+}
