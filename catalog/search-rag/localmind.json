@@ -1,28 +1,33 @@
 {
   "slug": "localmind",
   "name": "LocalMind",
-  "tagline": "Private AI research agent — web search, document ingestion, RAG memory. Runs entirely in your browser.",
+  "tagline": "Locally Talk with your private documents, and even do a private research without any tokens concerns",
   "category": "search-rag",
-  "tags": [],
+  "tags": [
+    "llms",
+    "open-source",
+    "rag-agent",
+    "web-agent"
+  ],
   "author": {
     "type": "user",
-    "handle": "NakliTechie",
-    "url": "https://github.com/NakliTechie"
+    "handle": "parkky21",
+    "url": "https://github.com/parkky21"
   },
   "source": {
     "primary": "github",
-    "github": "NakliTechie/LocalMind",
+    "github": "parkky21/LocalMind",
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 54,
+    "stars": 4,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-12T08:58:43Z",
-    "first_commit_at": "2026-04-03T09:56:47Z",
-    "forks": 5,
-    "watchers": 2,
+    "last_commit_at": "2025-07-17T05:58:09Z",
+    "first_commit_at": "2025-07-16T19:42:42Z",
+    "forks": 0,
+    "watchers": 0,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -40,10 +45,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2678,
-  "rank_in_category": 176,
+  "composite_score": 0.1257,
+  "rank_in_category": 311,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:07:28.838719Z",
-  "last_refreshed_at": "2026-06-17T17:22:45.765833Z",
+  "first_seen_at": "2026-06-18T17:14:40.720793Z",
+  "last_refreshed_at": "2026-06-18T17:14:40.720796Z",
   "consecutive_refresh_failures": 0
 }

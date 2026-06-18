@@ -1,0 +1,60 @@
+{
+  "slug": "qwen3-6-27b-mtp",
+  "name": "Qwen3.6-27B-MTP",
+  "tagline": "phucngodev/Qwen3.6-27B-MTP — text-generation",
+  "category": "devops-sre",
+  "tags": [
+    "gguf",
+    "llama.cpp",
+    "qwen",
+    "qwen3_6",
+    "mtp",
+    "multi-token-prediction",
+    "speculative-decoding",
+    "conversational",
+    "image-text-to-text",
+    "multimodal"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "phucngodev",
+    "url": "https://huggingface.co/phucngodev"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "phucngodev/Qwen3.6-27B-MTP",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-06-18T10:36:52Z",
+    "first_commit_at": "2026-06-18T10:36:52Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "gguf",
+    "pipeline_tag": "text-generation",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.349,
+  "rank_in_category": 176,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T17:28:57.045972Z",
+  "last_refreshed_at": "2026-06-18T17:28:57.045974Z",
+  "consecutive_refresh_failures": 0
+}

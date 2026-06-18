@@ -11,9 +11,9 @@
     "code-agent-harness",
     "code-agents",
     "codex",
-    "cursor",
     "harness",
-    "harness-ai"
+    "harness-ai",
+    "harness-engineering"
   ],
   "author": {
     "type": "user",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 106,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-17T15:14:18Z",
+    "last_commit_at": "2026-06-18T08:19:51Z",
     "first_commit_at": "2026-05-24T08:48:59Z",
     "forks": 11,
     "watchers": 10,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3477,
-  "rank_in_category": 280,
+  "composite_score": 0.3475,
+  "rank_in_category": 282,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-15T18:00:58.129425Z",
-  "last_refreshed_at": "2026-06-17T16:40:48.965189Z",
+  "last_refreshed_at": "2026-06-18T16:31:41.706670Z",
   "consecutive_refresh_failures": 0
 }

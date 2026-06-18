@@ -1,0 +1,60 @@
+{
+  "slug": "trustgraph",
+  "name": "TrustGraph",
+  "tagline": "Write context once. Run agents anywhere. Discover the power of holons and dramatically reduce your token usage.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agent-memory",
+    "agent-runtime",
+    "ai-infra",
+    "ai-tools",
+    "context",
+    "explainable-ai",
+    "graph",
+    "graph-database",
+    "holon"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "trustgraph-ai",
+    "url": "https://github.com/trustgraph-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "trustgraph-ai/TrustGraph",
+    "huggingface": null,
+    "homepage": "https://trustgraph.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2188,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-18T00:52:30Z",
+    "first_commit_at": "2024-07-10T19:14:04Z",
+    "forks": 253,
+    "watchers": 26,
+    "open_issues": 30,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4494,
+  "rank_in_category": 108,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T17:15:20.627126Z",
+  "last_refreshed_at": "2026-06-18T17:15:20.627129Z",
+  "consecutive_refresh_failures": 0
+}

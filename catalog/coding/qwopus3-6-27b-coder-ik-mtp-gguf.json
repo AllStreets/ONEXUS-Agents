@@ -1,0 +1,60 @@
+{
+  "slug": "qwopus3-6-27b-coder-ik-mtp-gguf",
+  "name": "Qwopus3.6-27B-Coder-ik-MTP-GGUF",
+  "tagline": "AnthonyL1996/Qwopus3.6-27B-Coder-ik-MTP-GGUF — text-generation",
+  "category": "coding",
+  "tags": [
+    "gguf",
+    "ik_llama.cpp",
+    "ik_llama",
+    "llama.cpp",
+    "mtp",
+    "multi-token-prediction",
+    "speculative-decoding",
+    "imatrix",
+    "quantized",
+    "quantization"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AnthonyL1996",
+    "url": "https://huggingface.co/AnthonyL1996"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "AnthonyL1996/Qwopus3.6-27B-Coder-ik-MTP-GGUF",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-06-18T03:47:44Z",
+    "first_commit_at": "2026-06-18T02:40:48Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "gguf",
+    "pipeline_tag": "text-generation",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.227,
+  "rank_in_category": 647,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T16:38:41.727591Z",
+  "last_refreshed_at": "2026-06-18T16:38:41.727595Z",
+  "consecutive_refresh_failures": 0
+}

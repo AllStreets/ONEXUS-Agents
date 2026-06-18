@@ -1,0 +1,63 @@
+{
+  "slug": "openacme",
+  "name": "openacme",
+  "tagline": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in charge.",
+  "category": "marketing",
+  "tags": [
+    "agent-framework",
+    "agentic-ai",
+    "ai-agents",
+    "ai-workforce",
+    "anthropic",
+    "autonomous",
+    "autonomous-agents",
+    "autonomous-systems",
+    "claude",
+    "cli"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sandydasari",
+    "url": "https://github.com/sandydasari"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sandydasari/openacme",
+    "huggingface": null,
+    "homepage": "https://openacme.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 73,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-18T15:30:22Z",
+    "first_commit_at": "2026-05-03T05:34:40Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.561,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T17:45:19.193476Z",
+  "last_refreshed_at": "2026-06-18T17:45:19.193479Z",
+  "consecutive_refresh_failures": 0
+}

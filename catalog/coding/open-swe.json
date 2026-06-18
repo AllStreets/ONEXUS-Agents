@@ -1,0 +1,64 @@
+{
+  "slug": "open-swe",
+  "name": "open-swe",
+  "tagline": "Build an open-source internal coding agent framework for teams to automate software development with LangGraph and deep agent workflows",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "agents",
+    "anthropic",
+    "claude-code",
+    "claudecode",
+    "context-engineering",
+    "go",
+    "jobs",
+    "mcp",
+    "open-banking"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kembang7020",
+    "url": "https://github.com/kembang7020"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kembang7020/open-swe",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-16T14:11:19Z",
+    "first_commit_at": "2025-05-21T21:47:56Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2948,
+  "rank_in_category": 457,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T16:31:14.415455Z",
+  "last_refreshed_at": "2026-06-18T16:31:14.415458Z",
+  "consecutive_refresh_failures": 0
+}

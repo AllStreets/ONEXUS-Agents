@@ -1,0 +1,49 @@
+{
+  "slug": "agent-toolkit-for-aws",
+  "name": "agent-toolkit-for-aws",
+  "tagline": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "aws",
+    "url": "https://github.com/aws"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws/agent-toolkit-for-aws",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 909,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-18T14:37:40Z",
+    "first_commit_at": "2026-04-23T12:44:08Z",
+    "forks": 90,
+    "watchers": 8,
+    "open_issues": 10,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5161,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T17:27:03.723748Z",
+  "last_refreshed_at": "2026-06-18T17:27:03.723751Z",
+  "consecutive_refresh_failures": 0
+}

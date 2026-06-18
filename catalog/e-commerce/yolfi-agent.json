@@ -1,0 +1,59 @@
+{
+  "slug": "yolfi-agent",
+  "name": "yolfi-agent",
+  "tagline": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+  "category": "e-commerce",
+  "tags": [
+    "ai-agents",
+    "checkout",
+    "crypto-payments",
+    "mcp",
+    "payments",
+    "stablecoin-payments",
+    "webhooks"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "yolfinance",
+    "url": "https://github.com/yolfinance"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yolfinance/yolfi-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 129,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-18T01:29:14Z",
+    "first_commit_at": "2026-06-16T15:43:41Z",
+    "forks": 0,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5393,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-18T17:47:52.144752Z",
+  "last_refreshed_at": "2026-06-18T17:47:52.144755Z",
+  "consecutive_refresh_failures": 0
+}
