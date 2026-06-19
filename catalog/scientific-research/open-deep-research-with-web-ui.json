@@ -5,15 +5,15 @@
   "category": "scientific-research",
   "tags": [
     "ai-agent",
+    "bocha",
+    "deep-research",
+    "deepseek",
     "docker",
     "flask",
     "gunicorn",
-    "litellm",
     "llm",
     "microservice",
-    "open-props",
-    "openai",
-    "preact"
+    "open-deep-research"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 27,
+    "stars": 28,
     "downloads_30d": null,
     "last_commit_at": "2026-06-15T14:16:37Z",
     "first_commit_at": "2025-10-23T05:41:56Z",
     "forks": 1,
     "watchers": 0,
-    "open_issues": 8,
+    "open_issues": 6,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5011,
-  "rank_in_category": 166,
+  "composite_score": 0.5005,
+  "rank_in_category": 167,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:28:34.048681Z",
-  "last_refreshed_at": "2026-06-18T17:31:54.564830Z",
+  "last_refreshed_at": "2026-06-19T16:59:19.943878Z",
   "consecutive_refresh_failures": 0
 }

@@ -3,7 +3,18 @@
   "name": "arc-kit",
   "tagline": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants",
   "category": "coding",
-  "tags": [],
+  "tags": [
+    "ai-agents",
+    "ai-governance",
+    "architecture-decision-records",
+    "architecture-governance",
+    "arckit",
+    "claude-code",
+    "codex-cli",
+    "compliance",
+    "enterprise-architecture",
+    "gemini-cli"
+  ],
   "author": {
     "type": "user",
     "handle": "tractorjuice",
@@ -17,9 +28,9 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 2006,
+    "stars": 2008,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-18T16:32:15Z",
+    "last_commit_at": "2026-06-19T12:57:15Z",
     "first_commit_at": "2025-10-14T10:10:03Z",
     "forks": 249,
     "watchers": 12,
@@ -35,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4166,
-  "rank_in_category": 116,
+  "composite_score": 0.4315,
+  "rank_in_category": 83,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:47:19.059757Z",
-  "last_refreshed_at": "2026-06-18T16:34:53.561960Z",
+  "last_refreshed_at": "2026-06-19T16:03:52.364897Z",
   "consecutive_refresh_failures": 0
 }

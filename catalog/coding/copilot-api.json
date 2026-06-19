@@ -1,0 +1,53 @@
+{
+  "slug": "copilot-api",
+  "name": "copilot-api",
+  "tagline": "OpenAI and Anthropic-compatible gateway for GitHub Copilot or Codex or third-party providers. Please read README.md completely before use!",
+  "category": "coding",
+  "tags": [
+    "codex",
+    "github-copilot",
+    "multi-provider"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "caozhiyuan",
+    "url": "https://github.com/caozhiyuan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "caozhiyuan/copilot-api",
+    "huggingface": null,
+    "homepage": "https://caozhiyuan.github.io/copilot-api/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 868,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T15:29:16Z",
+    "first_commit_at": "2025-08-20T06:18:02Z",
+    "forks": 182,
+    "watchers": 6,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3513,
+  "rank_in_category": 273,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-19T16:41:46.606958Z",
+  "last_refreshed_at": "2026-06-19T16:41:46.606962Z",
+  "consecutive_refresh_failures": 0
+}

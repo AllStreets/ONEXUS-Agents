@@ -1,19 +1,19 @@
 {
   "slug": "trustgraph",
   "name": "TrustGraph",
-  "tagline": "Write context once. Run agents anywhere. Discover the power of holons and dramatically reduce your token usage.",
+  "tagline": "Write context once. Run agents anywhere. Discover the power of holonic context graphs and dramatically reduce your token usage.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent",
+    "agent-harness",
     "agent-memory",
     "agent-runtime",
     "ai-infra",
-    "ai-tools",
     "context",
+    "context-graph",
     "explainable-ai",
     "graph",
-    "graph-database",
-    "holon"
+    "graph-database"
   ],
   "author": {
     "type": "org",
@@ -28,11 +28,11 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 2188,
+    "stars": 2194,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-18T00:52:30Z",
+    "last_commit_at": "2026-06-19T02:56:45Z",
     "first_commit_at": "2024-07-10T19:14:04Z",
-    "forks": 253,
+    "forks": 254,
     "watchers": 26,
     "open_issues": 30,
     "archived": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4494,
-  "rank_in_category": 108,
+  "composite_score": 0.4496,
+  "rank_in_category": 112,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-18T17:15:20.627126Z",
-  "last_refreshed_at": "2026-06-18T17:15:20.627129Z",
+  "first_seen_at": "2026-06-19T16:43:43.278975Z",
+  "last_refreshed_at": "2026-06-19T16:43:43.278979Z",
   "consecutive_refresh_failures": 0
 }

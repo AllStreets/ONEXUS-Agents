@@ -1,0 +1,60 @@
+{
+  "slug": "snapotter",
+  "name": "SnapOtter",
+  "tagline": "Self-hosted file toolkit. 150+ tools for images, video, audio, and documents. AI-powered, open source, fully offline. Your files stay yours.",
+  "category": "document-processing",
+  "tags": [
+    "ai",
+    "audio-processing",
+    "docker",
+    "file-conversion",
+    "homelab",
+    "image-editor",
+    "image-processing",
+    "media-processing",
+    "open-source",
+    "pdf"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "snapotter-hq",
+    "url": "https://github.com/snapotter-hq"
+  },
+  "source": {
+    "primary": "github",
+    "github": "snapotter-hq/SnapOtter",
+    "huggingface": null,
+    "homepage": "https://snapotter.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1610,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T12:56:54Z",
+    "first_commit_at": "2026-03-29T15:33:21Z",
+    "forks": 60,
+    "watchers": 5,
+    "open_issues": 29,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5931,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-19T16:52:29.985416Z",
+  "last_refreshed_at": "2026-06-19T16:52:29.985419Z",
+  "consecutive_refresh_failures": 0
+}

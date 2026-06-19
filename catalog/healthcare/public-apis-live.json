@@ -1,0 +1,62 @@
+{
+  "slug": "public-apis-live",
+  "name": "public-apis-live",
+  "tagline": "Every public API in one place — aggregated, deduped, and auto-checked for reachability. Refreshed daily. npm + Claude plugin + live search.",
+  "category": "healthcare",
+  "tags": [
+    "api",
+    "api-list",
+    "apis",
+    "claude",
+    "developer-tools",
+    "free-apis",
+    "mcp",
+    "nextjs",
+    "npm-package",
+    "public-apis"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Manavarya09",
+    "url": "https://github.com/Manavarya09"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Manavarya09/public-apis-live",
+    "huggingface": null,
+    "homepage": "https://manavarya09.github.io/public-apis-live/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 77,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T16:34:53Z",
+    "first_commit_at": "2026-06-17T06:47:03Z",
+    "forks": 7,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4796,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-19T17:09:07.429404Z",
+  "last_refreshed_at": "2026-06-19T17:09:07.429408Z",
+  "consecutive_refresh_failures": 0
+}
