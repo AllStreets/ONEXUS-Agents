@@ -6,14 +6,14 @@
   "tags": [
     "agents",
     "ast",
+    "claude-code",
     "cocoindex",
     "code-search",
+    "codex",
     "coding-agent",
     "context-engineering",
-    "indexing",
-    "mcp",
-    "python",
-    "tree-sitter"
+    "context-window",
+    "context-window-optimization"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 2129,
+    "stars": 2165,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-16T06:04:19Z",
+    "last_commit_at": "2026-06-19T05:15:49Z",
     "first_commit_at": "2026-01-31T21:35:34Z",
-    "forks": 168,
+    "forks": 173,
     "watchers": 16,
-    "open_issues": 28,
+    "open_issues": 30,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4199,
-  "rank_in_category": 111,
+  "composite_score": 0.4223,
+  "rank_in_category": 104,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T16:11:16.090202Z",
-  "last_refreshed_at": "2026-06-18T16:30:48.312271Z",
+  "last_refreshed_at": "2026-06-19T16:00:00.769636Z",
   "consecutive_refresh_failures": 0
 }

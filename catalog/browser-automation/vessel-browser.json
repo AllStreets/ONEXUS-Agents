@@ -6,14 +6,14 @@
   "tags": [
     "ai-agents",
     "ai-browser-automation",
+    "ai-browser-extension",
     "ai-mcp-browser",
     "ai-web-browser",
     "autonomous-agents",
     "byok",
     "claude-mcp",
     "codex-mcp",
-    "hermes-agent",
-    "linux-browser"
+    "hermes-agent"
   ],
   "author": {
     "type": "user",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 95,
+    "stars": 96,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-18T16:58:22Z",
+    "last_commit_at": "2026-06-19T16:45:27Z",
     "first_commit_at": "2026-03-07T07:43:01Z",
     "forks": 11,
     "watchers": 2,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.414,
-  "rank_in_category": 91,
+  "composite_score": 0.4142,
+  "rank_in_category": 92,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-04T15:25:43.466738Z",
-  "last_refreshed_at": "2026-06-18T17:17:13.771195Z",
+  "last_refreshed_at": "2026-06-19T16:45:32.663465Z",
   "consecutive_refresh_failures": 0
 }

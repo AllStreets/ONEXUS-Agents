@@ -4,16 +4,16 @@
   "tagline": "Reference codebase for ML-driven trading agents.",
   "category": "financial-modeling",
   "tags": [
+    "algorithmic-trading",
     "artificial-intelligence",
+    "backtesting",
     "data-science",
     "deep-learning",
     "finance",
     "investment",
     "investment-strategies",
-    "machine-learning",
-    "ml4t-workflow",
-    "synthetic-data",
-    "trading"
+    "large-language-models",
+    "machine-learning"
   ],
   "author": {
     "type": "user",
@@ -26,15 +26,15 @@
     "huggingface": null,
     "homepage": "https://ml4trading.io/"
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 19187,
+    "stars": 19195,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-12T16:18:47Z",
+    "last_commit_at": "2026-06-19T12:16:18Z",
     "first_commit_at": "2019-02-08T15:49:11Z",
-    "forks": 5315,
-    "watchers": 450,
-    "open_issues": 18,
+    "forks": 5317,
+    "watchers": 449,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6692,
+  "composite_score": 0.655,
   "rank_in_category": 9,
   "discovered_via": "seed",
   "first_seen_at": "2026-04-30T03:22:02.629029Z",
-  "last_refreshed_at": "2026-06-18T16:29:50.304603Z",
+  "last_refreshed_at": "2026-06-19T15:58:53.326396Z",
   "consecutive_refresh_failures": 0
 }

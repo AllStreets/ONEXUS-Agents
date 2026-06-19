@@ -1,0 +1,56 @@
+{
+  "slug": "langflow",
+  "name": "langflow",
+  "tagline": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "chatgpt",
+    "generative-ai",
+    "large-language-models",
+    "multiagent",
+    "react-flow"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "langflow-ai",
+    "url": "https://github.com/langflow-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "langflow-ai/langflow",
+    "huggingface": null,
+    "homepage": "http://www.langflow.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 149848,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T16:58:24Z",
+    "first_commit_at": "2023-02-08T22:28:04Z",
+    "forks": 9296,
+    "watchers": 471,
+    "open_issues": 969,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5233,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-19T17:05:23.834186Z",
+  "last_refreshed_at": "2026-06-19T17:05:23.834190Z",
+  "consecutive_refresh_failures": 0
+}

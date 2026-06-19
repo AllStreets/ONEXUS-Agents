@@ -1,0 +1,57 @@
+{
+  "slug": "kranti-sip-pcap-analyzer",
+  "name": "-kranti-sip-pcap-analyzer",
+  "tagline": "AI-powered SIP PCAP analyzer with call flow, hold/resume detection, and GPT-4o chat",
+  "category": "document-processing",
+  "tags": [
+    "llm",
+    "microsoftagentframework",
+    "pcap",
+    "pcap-analyzer",
+    "sip",
+    "voip",
+    "wireshark"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "krantikumara",
+    "url": "https://github.com/krantikumara"
+  },
+  "source": {
+    "primary": "github",
+    "github": "krantikumara/-kranti-sip-pcap-analyzer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 104,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-18T05:06:03Z",
+    "first_commit_at": "2026-04-18T03:45:33Z",
+    "forks": 42,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4389,
+  "rank_in_category": 137,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-19T16:52:25.217947Z",
+  "last_refreshed_at": "2026-06-19T16:52:25.217951Z",
+  "consecutive_refresh_failures": 0
+}

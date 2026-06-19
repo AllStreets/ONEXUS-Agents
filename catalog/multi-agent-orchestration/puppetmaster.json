@@ -1,0 +1,60 @@
+{
+  "slug": "puppetmaster",
+  "name": "Puppetmaster",
+  "tagline": "Provider-neutral control plane for agent swarms: subprocess workers, leases, artifacts, memory, and deterministic stitching.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-swarms",
+    "agents",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "cursor",
+    "distributed-systems",
+    "llm",
+    "orchestration",
+    "sqlite"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "professorpalmer",
+    "url": "https://github.com/professorpalmer"
+  },
+  "source": {
+    "primary": "github",
+    "github": "professorpalmer/Puppetmaster",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 42,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T08:12:09Z",
+    "first_commit_at": "2026-05-06T18:34:56Z",
+    "forks": 8,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3142,
+  "rank_in_category": 435,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-19T17:06:16.993758Z",
+  "last_refreshed_at": "2026-06-19T17:06:16.993762Z",
+  "consecutive_refresh_failures": 0
+}

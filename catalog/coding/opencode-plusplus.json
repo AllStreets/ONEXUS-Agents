@@ -1,0 +1,62 @@
+{
+  "slug": "opencode-plusplus",
+  "name": "opencode-plusplus",
+  "tagline": "OpenCode++：面向 OpenCode 的 AI 编程可靠性增强框架，为其增加上下文管理、编辑边界、命令证据、验证门禁、影响分析与修复闭环能力。OpenCode++: a Coding Agent Reliability Harness for OpenCode, adding context, edit boundaries, command evidence, verification ",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "code-agent",
+    "code-agent-cli",
+    "code-agent-harness",
+    "code-agents",
+    "hallucination-guard",
+    "harness",
+    "harness-ai",
+    "harness-engineering",
+    "loop-engineering"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "whut09",
+    "url": "https://github.com/whut09"
+  },
+  "source": {
+    "primary": "github",
+    "github": "whut09/opencode-plusplus",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 106,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T14:57:21Z",
+    "first_commit_at": "2026-05-24T08:48:59Z",
+    "forks": 11,
+    "watchers": 10,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3479,
+  "rank_in_category": 282,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-19T16:00:57.554370Z",
+  "last_refreshed_at": "2026-06-19T16:00:57.554374Z",
+  "consecutive_refresh_failures": 0
+}

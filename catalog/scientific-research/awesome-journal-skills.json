@@ -1,0 +1,63 @@
+{
+  "slug": "awesome-journal-skills",
+  "name": "Awesome-Journal-Skills",
+  "tagline": "Journal-specific Claude Code/Codex skill packs covering mainstream journals — AER, QJE, Nature, Cell, 管理世界, 经济研究 & 200+ more — your fast track to getting published. ｜ 覆盖主流期刊的 Claude Code/Codex 期刊技能包，从",
+  "category": "scientific-research",
+  "tags": [
+    "academic-research",
+    "academic-writing",
+    "agent",
+    "agent-skills",
+    "ai-agents",
+    "anthropic",
+    "awesome-list",
+    "claude",
+    "claude-code",
+    "claudecode"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "brycewang-stanford",
+    "url": "https://github.com/brycewang-stanford"
+  },
+  "source": {
+    "primary": "github",
+    "github": "brycewang-stanford/Awesome-Journal-Skills",
+    "huggingface": null,
+    "homepage": "https://www.copaper.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 293,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-18T23:10:24Z",
+    "first_commit_at": "2026-05-25T06:19:36Z",
+    "forks": 43,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6282,
+  "rank_in_category": 46,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-19T17:00:31.020113Z",
+  "last_refreshed_at": "2026-06-19T17:00:31.020116Z",
+  "consecutive_refresh_failures": 0
+}

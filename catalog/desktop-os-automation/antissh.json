@@ -1,0 +1,49 @@
+{
+  "slug": "antissh",
+  "name": "antissh",
+  "tagline": "反重力Agent代理一键脚本，支持WSL、SSH远程",
+  "category": "desktop-os-automation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "ccpopy",
+    "url": "https://github.com/ccpopy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ccpopy/antissh",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 580,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-16T05:44:26Z",
+    "first_commit_at": "2025-12-05T01:31:42Z",
+    "forks": 36,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3876,
+  "rank_in_category": 87,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-16T18:11:14.244959Z",
+  "last_refreshed_at": "2026-06-19T16:06:00.448487Z",
+  "consecutive_refresh_failures": 0
+}

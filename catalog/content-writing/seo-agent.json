@@ -1,29 +1,29 @@
 {
   "slug": "seo-agent",
   "name": "seo-agent",
-  "tagline": "seo-agent",
+  "tagline": "Implementation of an SEO Agent using SerpApi Search, Autocomplete, News API + OpenAI models.",
   "category": "content-writing",
   "tags": [],
   "author": {
-    "type": "user",
-    "handle": "mikefutia",
-    "url": "https://github.com/mikefutia"
+    "type": "org",
+    "handle": "serpapi",
+    "url": "https://github.com/serpapi"
   },
   "source": {
     "primary": "github",
-    "github": "mikefutia/seo-agent",
+    "github": "serpapi/seo-agent",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://serpapi.com/"
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 61,
+    "stars": 10,
     "downloads_30d": null,
-    "last_commit_at": "2026-03-06T16:54:57Z",
-    "first_commit_at": "2026-03-06T16:54:54Z",
-    "forks": 34,
-    "watchers": 3,
-    "open_issues": 1,
+    "last_commit_at": "2025-09-10T12:16:25Z",
+    "first_commit_at": "2025-09-08T16:58:57Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4305,
-  "rank_in_category": 143,
+  "composite_score": 0.2931,
+  "rank_in_category": 222,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-14T15:34:49.365030Z",
-  "last_refreshed_at": "2026-06-18T17:02:55.714489Z",
+  "first_seen_at": "2026-06-19T16:32:25.779230Z",
+  "last_refreshed_at": "2026-06-19T16:32:25.779234Z",
   "consecutive_refresh_failures": 0
 }

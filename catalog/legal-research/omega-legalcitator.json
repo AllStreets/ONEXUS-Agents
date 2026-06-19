@@ -10,10 +10,10 @@
     "california-law",
     "citation-parser",
     "citations",
+    "document-intelligence",
+    "evidence-organization",
     "legal-research",
-    "legal-tech",
-    "legaltech",
-    "nlp"
+    "legal-tech"
   ],
   "author": {
     "type": "user",
@@ -24,7 +24,7 @@
     "primary": "github",
     "github": "fredm23579/Omega-LegalCitator",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://fredm23579.github.io/ai-automation-services/"
   },
   "license": "Unknown",
   "metrics": {
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2089,
-  "rank_in_category": 137,
+  "composite_score": 0.208,
+  "rank_in_category": 138,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-13T15:19:52.580578Z",
-  "last_refreshed_at": "2026-06-18T16:53:41.081022Z",
+  "last_refreshed_at": "2026-06-19T16:23:15.048918Z",
   "consecutive_refresh_failures": 0
 }

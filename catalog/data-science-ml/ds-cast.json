@@ -1,0 +1,57 @@
+{
+  "slug": "ds-cast",
+  "name": "ds-cast",
+  "tagline": "A Claude-Code-native re-implementation of DS-STAR: a plan → code → execute → verify → route data-science agent built on subagents, skills, and deterministic hooks.",
+  "category": "data-science-ml",
+  "tags": [
+    "agentic-ai",
+    "ai-agent",
+    "claude-code",
+    "data-analysis",
+    "data-science-agent",
+    "ds-star",
+    "llm-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "willim9313",
+    "url": "https://github.com/willim9313"
+  },
+  "source": {
+    "primary": "github",
+    "github": "willim9313/ds-cast",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T13:20:44Z",
+    "first_commit_at": "2026-06-19T03:05:59Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2049,
+  "rank_in_category": 198,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-19T16:15:37.528229Z",
+  "last_refreshed_at": "2026-06-19T16:15:37.528232Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "veloq",
+  "name": "VeloQ",
+  "tagline": "Agent-friendly GPU profile-query CLI",
+  "category": "cooking",
+  "tags": [
+    "cli",
+    "cuda",
+    "gpu",
+    "ncu",
+    "nsys",
+    "profiling"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lucifer1004",
+    "url": "https://github.com/lucifer1004"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lucifer1004/VeloQ",
+    "huggingface": null,
+    "homepage": "https://lucifer1004.github.io/VeloQ/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 85,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T15:51:58Z",
+    "first_commit_at": "2026-06-05T11:34:12Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5062,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-19T17:18:48.697804Z",
+  "last_refreshed_at": "2026-06-19T17:18:48.697807Z",
+  "consecutive_refresh_failures": 0
+}
