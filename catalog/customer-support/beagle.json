@@ -1,0 +1,62 @@
+{
+  "slug": "beagle",
+  "name": "beagle",
+  "tagline": "Agent Skills marketplace: framework-aware skills for code review, documentation, test-plan generation, AI-writing detection, architectural analysis, and git workflows — for Python, Go, Rust, Elixir, R",
+  "category": "customer-support",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "ai-coding-assistant",
+    "anthropic",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-code-skills",
+    "code-review",
+    "coding-agent",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "existential-birds",
+    "url": "https://github.com/existential-birds"
+  },
+  "source": {
+    "primary": "github",
+    "github": "existential-birds/beagle",
+    "huggingface": null,
+    "homepage": "https://existentialbirds.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 65,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-20T14:33:47Z",
+    "first_commit_at": "2025-12-21T15:44:04Z",
+    "forks": 8,
+    "watchers": 3,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5461,
+  "rank_in_category": 74,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-20T15:27:22.775062Z",
+  "last_refreshed_at": "2026-06-20T15:27:22.775065Z",
+  "consecutive_refresh_failures": 0
+}

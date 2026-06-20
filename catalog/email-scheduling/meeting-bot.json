@@ -1,33 +1,29 @@
 {
   "slug": "meeting-bot",
   "name": "meeting-bot",
-  "tagline": "Universal meeting  bot to record Google Meet, Zoom, and Microsoft Teams — with a single API. Runs in production. Free to use, extend, and scale.",
+  "tagline": "Build a cross-platform meeting bot that joins Zoom, Google Meet, Microsoft Teams, WebEx and more, streams real-time transcripts and media, retrieves recordings, processes data into insights, and can o",
   "category": "email-scheduling",
-  "tags": [
-    "meeting-api",
-    "meeting-recorder",
-    "universal-meeting-bot-api"
-  ],
+  "tags": [],
   "author": {
     "type": "org",
-    "handle": "screenappai",
-    "url": "https://github.com/screenappai"
+    "handle": "recallai",
+    "url": "https://github.com/recallai"
   },
   "source": {
     "primary": "github",
-    "github": "screenappai/meeting-bot",
+    "github": "recallai/meeting-bot",
     "huggingface": null,
-    "homepage": "https://screenapp.io/"
+    "homepage": null
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 142,
+    "stars": 9,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-18T06:08:34Z",
-    "first_commit_at": "2025-06-30T05:32:48Z",
-    "forks": 54,
-    "watchers": 5,
-    "open_issues": 2,
+    "last_commit_at": "2025-11-11T00:21:56Z",
+    "first_commit_at": "2025-10-14T16:22:47Z",
+    "forks": 8,
+    "watchers": 0,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -44,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5603,
-  "rank_in_category": 50,
+  "composite_score": 0.3019,
+  "rank_in_category": 175,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-19T16:55:04.682738Z",
-  "last_refreshed_at": "2026-06-19T16:55:04.682742Z",
+  "first_seen_at": "2026-06-20T15:51:05.746877Z",
+  "last_refreshed_at": "2026-06-20T15:51:05.746880Z",
   "consecutive_refresh_failures": 0
 }

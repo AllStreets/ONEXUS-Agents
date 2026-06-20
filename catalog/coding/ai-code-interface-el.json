@@ -1,7 +1,7 @@
 {
   "slug": "ai-code-interface-el",
   "name": "ai-code-interface.el",
-  "tagline": "Unified Emacs interface supporting OpenAI Codex, GitHub Copilot CLI, Claude Code, Gemini CLI, Opencode, and more",
+  "tagline": "Unified Emacs interface supporting OpenAI Codex, Antigravity CLI, Claude Code, GitHub Copilot CLI,  Opencode, and more",
   "category": "coding",
   "tags": [
     "agile-development",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 239,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-19T15:28:35Z",
+    "last_commit_at": "2026-06-19T21:30:26Z",
     "first_commit_at": "2025-07-19T02:48:03Z",
     "forks": 27,
     "watchers": 6,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3916,
-  "rank_in_category": 181,
+  "composite_score": 0.391,
+  "rank_in_category": 180,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:23:39.129860Z",
-  "last_refreshed_at": "2026-06-19T16:00:49.999003Z",
+  "last_refreshed_at": "2026-06-20T15:04:42.725578Z",
   "consecutive_refresh_failures": 0
 }

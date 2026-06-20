@@ -1,0 +1,62 @@
+{
+  "slug": "macro",
+  "name": "macro",
+  "tagline": "Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.",
+  "category": "knowledge-management",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agents",
+    "all-in-one",
+    "crm",
+    "crm-system",
+    "email",
+    "linear",
+    "mcp",
+    "messaging"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "macro-inc",
+    "url": "https://github.com/macro-inc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "macro-inc/macro",
+    "huggingface": null,
+    "homepage": "https://macro.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 272,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T22:41:34Z",
+    "first_commit_at": "2025-11-08T15:18:27Z",
+    "forks": 23,
+    "watchers": 2,
+    "open_issues": 36,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6306,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-11T17:48:57.985340Z",
+  "last_refreshed_at": "2026-06-20T15:49:59.374631Z",
+  "consecutive_refresh_failures": 0
+}

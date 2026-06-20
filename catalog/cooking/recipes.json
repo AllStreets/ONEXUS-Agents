@@ -1,40 +1,33 @@
 {
   "slug": "recipes",
   "name": "recipes",
-  "tagline": "Application for managing recipes, planning meals, building shopping lists and much much more!",
+  "tagline": "Recipes showing how to use Deepgram maintained by the DX team",
   "category": "cooking",
   "tags": [
-    "cookbook",
-    "cooking",
-    "django",
-    "docker",
-    "food",
-    "hacktoberfest",
-    "markdown",
-    "meal-planner",
-    "recipe",
+    "code-examples",
+    "code-samples",
     "recipes"
   ],
   "author": {
     "type": "org",
-    "handle": "TandoorRecipes",
-    "url": "https://github.com/TandoorRecipes"
+    "handle": "deepgram",
+    "url": "https://github.com/deepgram"
   },
   "source": {
     "primary": "github",
-    "github": "TandoorRecipes/recipes",
+    "github": "deepgram/recipes",
     "huggingface": null,
-    "homepage": "https://docs.tandoor.dev/"
+    "homepage": "https://developers.deepgram.com/"
   },
-  "license": "NOASSERTION",
+  "license": "Unknown",
   "metrics": {
-    "stars": 8403,
+    "stars": 26,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-17T07:40:21Z",
-    "first_commit_at": "2018-01-31T22:36:10Z",
-    "forks": 826,
-    "watchers": 41,
-    "open_issues": 383,
+    "last_commit_at": "2026-06-20T13:09:45Z",
+    "first_commit_at": "2024-03-01T20:55:11Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 23,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +44,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.7155,
-  "rank_in_category": 3,
+  "composite_score": 0.5443,
+  "rank_in_category": 16,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-06T15:58:54.380965Z",
-  "last_refreshed_at": "2026-06-19T17:18:16.862012Z",
+  "first_seen_at": "2026-06-20T15:58:09.057576Z",
+  "last_refreshed_at": "2026-06-20T15:58:09.057579Z",
   "consecutive_refresh_failures": 0
 }

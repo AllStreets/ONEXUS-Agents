@@ -1,0 +1,62 @@
+{
+  "slug": "auto-claude-code-research-in-sleep",
+  "name": "Auto-claude-code-research-in-sleep",
+  "tagline": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi",
+  "category": "scientific-research",
+  "tags": [
+    "ai-research",
+    "ai-tools",
+    "aris",
+    "autonomous-agent",
+    "claude",
+    "claude-code",
+    "claude-code-skills",
+    "codex",
+    "deep-learning",
+    "gpt"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wanshuiyin",
+    "url": "https://github.com/wanshuiyin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12386,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-20T13:27:14Z",
+    "first_commit_at": "2026-03-10T07:31:41Z",
+    "forks": 1130,
+    "watchers": 19,
+    "open_issues": 53,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.7569,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-20T15:16:44.981610Z",
+  "last_refreshed_at": "2026-06-20T15:16:44.981613Z",
+  "consecutive_refresh_failures": 0
+}

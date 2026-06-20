@@ -1,0 +1,49 @@
+{
+  "slug": "dppo",
+  "name": "dppo",
+  "tagline": "Official implementation of Diffusion Policy Policy Optimization, arxiv 2024",
+  "category": "robotics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "irom-princeton",
+    "url": "https://github.com/irom-princeton"
+  },
+  "source": {
+    "primary": "github",
+    "github": "irom-princeton/dppo",
+    "huggingface": null,
+    "homepage": "https://diffusion-ppo.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 828,
+    "downloads_30d": null,
+    "last_commit_at": "2025-02-04T17:04:46Z",
+    "first_commit_at": "2024-09-04T01:03:27Z",
+    "forks": 111,
+    "watchers": 8,
+    "open_issues": 24,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4435,
+  "rank_in_category": 119,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:04:47.366652Z",
+  "last_refreshed_at": "2026-06-20T15:34:36.986732Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "pico-cookbook",
+  "name": "pico-cookbook",
+  "tagline": "On-device AI recipes for building private, real-time applications with production-grade voice, language, and vision SDKs. Ready-to-use, open-source code examples.",
+  "category": "coding",
+  "tags": [
+    "android",
+    "edge-ai",
+    "edge-ai-agents",
+    "ios",
+    "language-model",
+    "language-models",
+    "linux",
+    "macos",
+    "mcu",
+    "multimodal-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Picovoice",
+    "url": "https://github.com/Picovoice"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Picovoice/pico-cookbook",
+    "huggingface": null,
+    "homepage": "https://picovoice.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 112,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-20T14:45:51Z",
+    "first_commit_at": "2024-05-12T00:02:14Z",
+    "forks": 12,
+    "watchers": 8,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3398,
+  "rank_in_category": 305,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-20T15:51:16.213426Z",
+  "last_refreshed_at": "2026-06-20T15:51:16.213429Z",
+  "consecutive_refresh_failures": 0
+}

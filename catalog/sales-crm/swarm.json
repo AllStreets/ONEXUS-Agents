@@ -1,0 +1,49 @@
+{
+  "slug": "swarm",
+  "name": "swarm",
+  "tagline": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
+  "category": "sales-crm",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "openai",
+    "url": "https://github.com/openai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openai/swarm",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 21652,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T17:10:28Z",
+    "first_commit_at": "2024-02-22T20:53:54Z",
+    "forks": 2309,
+    "watchers": 301,
+    "open_issues": 36,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7148,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-20T15:57:33.503481Z",
+  "last_refreshed_at": "2026-06-20T15:57:33.503484Z",
+  "consecutive_refresh_failures": 0
+}

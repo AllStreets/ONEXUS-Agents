@@ -1,0 +1,54 @@
+{
+  "slug": "browser-control",
+  "name": "browser-control",
+  "tagline": "A tiny, fast Rust CLI that drives a real browser over the Chrome DevTools Protocol — built for coding agents.",
+  "category": "browser-automation",
+  "tags": [
+    "agent",
+    "browser-automation",
+    "llm",
+    "rust"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "keon",
+    "url": "https://github.com/keon"
+  },
+  "source": {
+    "primary": "github",
+    "github": "keon/browser-control",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3112,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-20T04:03:20Z",
+    "first_commit_at": "2026-06-20T04:03:16Z",
+    "forks": 208,
+    "watchers": 78,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4113,
+  "rank_in_category": 94,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-20T15:12:24.832449Z",
+  "last_refreshed_at": "2026-06-20T15:12:24.832451Z",
+  "consecutive_refresh_failures": 0
+}

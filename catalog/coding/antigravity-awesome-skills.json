@@ -1,7 +1,7 @@
 {
   "slug": "antigravity-awesome-skills",
   "name": "antigravity-awesome-skills",
-  "tagline": "Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official",
+  "tagline": "Installable GitHub library of 1,600+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official",
   "category": "coding",
   "tags": [
     "agent-skills",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 41121,
+    "stars": 41202,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-19T07:54:20Z",
+    "last_commit_at": "2026-06-20T08:24:45Z",
     "first_commit_at": "2026-01-14T17:48:08Z",
-    "forks": 6628,
-    "watchers": 306,
-    "open_issues": 2,
+    "forks": 6631,
+    "watchers": 305,
+    "open_issues": 3,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4804,
-  "rank_in_category": 18,
+  "composite_score": 0.4806,
+  "rank_in_category": 17,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:20:33.233774Z",
-  "last_refreshed_at": "2026-06-19T16:01:36.624906Z",
+  "last_refreshed_at": "2026-06-20T15:05:26.119595Z",
   "consecutive_refresh_failures": 0
 }

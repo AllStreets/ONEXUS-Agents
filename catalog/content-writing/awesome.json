@@ -1,33 +1,35 @@
 {
   "slug": "awesome",
   "name": "awesome",
-  "tagline": "🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00",
+  "tagline": "😎 Awesome lists about all kinds of interesting topics",
   "category": "content-writing",
   "tags": [
     "awesome",
     "awesome-list",
-    "awesome-stars"
+    "lists",
+    "resources",
+    "unicorns"
   ],
   "author": {
     "type": "user",
-    "handle": "erbanku",
-    "url": "https://github.com/erbanku"
+    "handle": "sindresorhus",
+    "url": "https://github.com/sindresorhus"
   },
   "source": {
     "primary": "github",
-    "github": "erbanku/awesome",
+    "github": "sindresorhus/awesome",
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "CC0-1.0",
   "metrics": {
-    "stars": 84,
+    "stars": 477322,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-16T03:36:29Z",
-    "first_commit_at": "2021-10-11T08:46:14Z",
-    "forks": 6,
-    "watchers": 1,
-    "open_issues": 1,
+    "last_commit_at": "2026-06-02T12:50:13Z",
+    "first_commit_at": "2014-07-11T13:42:24Z",
+    "forks": 35486,
+    "watchers": 8235,
+    "open_issues": 85,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -44,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5648,
-  "rank_in_category": 64,
+  "composite_score": 0.7684,
+  "rank_in_category": 1,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:15:39.634128Z",
-  "last_refreshed_at": "2026-06-16T19:08:36.997169Z",
-  "consecutive_refresh_failures": 3
+  "first_seen_at": "2026-06-06T09:47:27.962549Z",
+  "last_refreshed_at": "2026-06-20T15:07:41.378465Z",
+  "consecutive_refresh_failures": 0
 }
