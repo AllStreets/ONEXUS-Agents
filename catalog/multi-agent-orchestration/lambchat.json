@@ -1,7 +1,7 @@
 {
   "slug": "lambchat",
   "name": "LambChat",
-  "tagline": "LambChat — A multi-tenant AI Agent Harness Platform. Skills + MCP dual-engine powered, built for scale and isolation. SSE real-time streaming, multi-modal document intelligence, JWT/RBAC enterprise se",
+  "tagline": "LambChat — Enterprise Agent Infrastructure for governed AI agents. Skills + MCP powered, Loop Agent ready, multi-tenant by design.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent",
@@ -24,11 +24,11 @@
   "metrics": {
     "stars": 191,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-18T16:41:04Z",
+    "last_commit_at": "2026-06-20T13:14:01Z",
     "first_commit_at": "2026-02-27T05:33:40Z",
     "forks": 34,
     "watchers": 0,
-    "open_issues": 2,
+    "open_issues": 3,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -47,10 +47,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4249,
-  "rank_in_category": 176,
+  "composite_score": 0.4259,
+  "rank_in_category": 169,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-19T16:57:10.639473Z",
-  "last_refreshed_at": "2026-06-19T16:57:10.639476Z",
+  "first_seen_at": "2026-06-20T15:52:55.730462Z",
+  "last_refreshed_at": "2026-06-20T15:52:55.730466Z",
   "consecutive_refresh_failures": 0
 }

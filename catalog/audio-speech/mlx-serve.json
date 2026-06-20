@@ -1,0 +1,62 @@
+{
+  "slug": "mlx-serve",
+  "name": "mlx-serve",
+  "tagline": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
+  "category": "audio-speech",
+  "tags": [
+    "agent",
+    "anthropic-api",
+    "apple-silicon",
+    "claude-code",
+    "deepseek-v4",
+    "diffusion",
+    "image-generation",
+    "inference",
+    "llm",
+    "local-llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ddalcu",
+    "url": "https://github.com/ddalcu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ddalcu/mlx-serve",
+    "huggingface": null,
+    "homepage": "http://mlxserve.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 163,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T20:43:48Z",
+    "first_commit_at": "2026-02-17T01:55:41Z",
+    "forks": 8,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5397,
+  "rank_in_category": 55,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-20T15:37:59.772178Z",
+  "last_refreshed_at": "2026-06-20T15:37:59.772181Z",
+  "consecutive_refresh_failures": 0
+}

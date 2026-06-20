@@ -1,0 +1,55 @@
+{
+  "slug": "nanoclaw",
+  "name": "nanoclaw",
+  "tagline": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai-agents",
+    "ai-assistant",
+    "claude-code",
+    "claude-skills",
+    "openclaw"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nanocoai",
+    "url": "https://github.com/nanocoai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nanocoai/nanoclaw",
+    "huggingface": null,
+    "homepage": "https://nanoclaw.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 29930,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-18T19:08:37Z",
+    "first_commit_at": "2026-01-31T15:47:22Z",
+    "forks": 12889,
+    "watchers": 127,
+    "open_issues": 760,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4851,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:16:10.782536Z",
+  "last_refreshed_at": "2026-06-20T15:53:29.637114Z",
+  "consecutive_refresh_failures": 0
+}

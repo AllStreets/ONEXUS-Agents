@@ -6,14 +6,14 @@
   "tags": [
     "ai",
     "ai-api",
+    "ai-tools",
+    "api-client",
     "audio-generation",
     "cli",
+    "command-line",
+    "developer-tools",
     "generative-ai",
-    "image-editing",
-    "image-generation",
-    "mcp",
-    "muapi",
-    "npm"
+    "image-editing"
   ],
   "author": {
     "type": "org",
@@ -28,12 +28,12 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 1004,
+    "stars": 1006,
     "downloads_30d": null,
     "last_commit_at": "2026-06-16T19:00:44Z",
     "first_commit_at": "2023-05-19T12:18:28Z",
     "forks": 85,
-    "watchers": 31,
+    "watchers": 30,
     "open_issues": 2,
     "archived": false,
     "is_fork": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4561,
+  "composite_score": 0.4552,
   "rank_in_category": 7,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:14:39.694536Z",
-  "last_refreshed_at": "2026-06-16T19:03:34.550025Z",
-  "consecutive_refresh_failures": 3
+  "last_refreshed_at": "2026-06-20T15:49:51.329211Z",
+  "consecutive_refresh_failures": 0
 }

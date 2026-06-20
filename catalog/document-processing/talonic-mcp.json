@@ -1,0 +1,62 @@
+{
+  "slug": "talonic-mcp",
+  "name": "talonic-mcp",
+  "tagline": "Official Talonic MCP server. Lets AI agents extract structured data from any document via the Model Context Protocol.",
+  "category": "document-processing",
+  "tags": [
+    "ai-agent",
+    "claude",
+    "document-ai",
+    "document-extraction",
+    "enterprise",
+    "mcp",
+    "mcp-server",
+    "ocr",
+    "pdf",
+    "schema"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "talonicdev",
+    "url": "https://github.com/talonicdev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "talonicdev/talonic-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-20T15:05:53Z",
+    "first_commit_at": "2026-04-28T17:15:35Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.515,
+  "rank_in_category": 95,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-20T15:47:22.096179Z",
+  "last_refreshed_at": "2026-06-20T15:47:22.096182Z",
+  "consecutive_refresh_failures": 0
+}

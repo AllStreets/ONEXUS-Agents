@@ -1,0 +1,58 @@
+{
+  "slug": "crawlie",
+  "name": "crawlie",
+  "tagline": "Fast, free, open-source technical SEO + GEO crawler: built for humans and agents.",
+  "category": "marketing",
+  "tags": [
+    "aeo",
+    "crawler",
+    "geo",
+    "marketing-tools",
+    "mcp",
+    "seo"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "spronta",
+    "url": "https://github.com/spronta"
+  },
+  "source": {
+    "primary": "github",
+    "github": "spronta/crawlie",
+    "huggingface": null,
+    "homepage": "https://crawlie.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 32,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T12:13:04Z",
+    "first_commit_at": "2026-06-18T21:05:09Z",
+    "forks": 3,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5441,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-20T15:32:28.950618Z",
+  "last_refreshed_at": "2026-06-20T15:32:28.950621Z",
+  "consecutive_refresh_failures": 0
+}
