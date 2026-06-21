@@ -1,29 +1,39 @@
 {
   "slug": "awesome-mcp-servers",
   "name": "awesome-mcp-servers",
-  "tagline": "A curated list of Model Context Protocol (MCP) servers",
+  "tagline": "A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more. - https://mcpserver.ever.works",
   "category": "knowledge-management",
-  "tags": [],
+  "tags": [
+    "ai",
+    "awesome",
+    "awesome-list",
+    "awesome-lists",
+    "lists",
+    "mcp",
+    "mcp-server",
+    "mcp-servers-directory",
+    "resources"
+  ],
   "author": {
-    "type": "user",
-    "handle": "wong2",
-    "url": "https://github.com/wong2"
+    "type": "org",
+    "handle": "ever-works",
+    "url": "https://github.com/ever-works"
   },
   "source": {
     "primary": "github",
-    "github": "wong2/awesome-mcp-servers",
+    "github": "ever-works/awesome-mcp-servers",
     "huggingface": null,
-    "homepage": "https://mcpservers.org/"
+    "homepage": "https://mcpserver.ever.works/"
   },
-  "license": "MIT",
+  "license": "CC-BY-SA-4.0",
   "metrics": {
-    "stars": 4168,
+    "stars": 78,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-13T03:35:37Z",
-    "first_commit_at": "2024-11-28T12:27:46Z",
-    "forks": 1493,
-    "watchers": 47,
-    "open_issues": 37,
+    "last_commit_at": "2026-05-07T22:38:48Z",
+    "first_commit_at": "2025-05-14T01:00:14Z",
+    "forks": 85,
+    "watchers": 2,
+    "open_issues": 99,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -42,10 +52,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.7465,
-  "rank_in_category": 8,
+  "composite_score": 0.5775,
+  "rank_in_category": 100,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:51:53.868345Z",
-  "last_refreshed_at": "2026-06-17T16:53:27.150913Z",
-  "consecutive_refresh_failures": 3
+  "first_seen_at": "2026-06-06T10:15:09.548739Z",
+  "last_refreshed_at": "2026-06-21T16:04:34.919963Z",
+  "consecutive_refresh_failures": 0
 }

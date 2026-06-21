@@ -1,35 +1,37 @@
 {
   "slug": "healthcare-agent",
-  "name": "Healthcare-Agent",
-  "tagline": "A comprehensive healthcare management system that provides a REST API for accessing ICU patient data and medical appointments. The system leverages AWS Bedrock for AI-powered clinical assistance and r",
+  "name": "HealthCare-Agent",
+  "tagline": "HealthCare Agent using Agno and HayStack",
   "category": "healthcare",
   "tags": [
+    "agno",
     "ai-agents",
-    "apache-kafka",
-    "avro-schema",
-    "aws-bedrock",
-    "fastapi",
-    "healthcare"
+    "cohere",
+    "haystack",
+    "healthcare-agent",
+    "qdrant",
+    "rag",
+    "rag-pipeline"
   ],
   "author": {
     "type": "user",
-    "handle": "theaifutureguy",
-    "url": "https://github.com/theaifutureguy"
+    "handle": "abdullah1904",
+    "url": "https://github.com/abdullah1904"
   },
   "source": {
     "primary": "github",
-    "github": "theaifutureguy/Healthcare-Agent",
+    "github": "abdullah1904/HealthCare-Agent",
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 20,
+    "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2025-06-20T19:00:10Z",
-    "first_commit_at": "2025-06-20T18:48:12Z",
-    "forks": 3,
-    "watchers": 1,
+    "last_commit_at": "2026-01-31T13:36:44Z",
+    "first_commit_at": "2026-01-31T13:29:41Z",
+    "forks": 0,
+    "watchers": 0,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -47,10 +49,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2129,
-  "rank_in_category": 213,
+  "composite_score": 0.1921,
+  "rank_in_category": 223,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-20T15:56:12.302739Z",
-  "last_refreshed_at": "2026-06-20T15:56:12.302742Z",
+  "first_seen_at": "2026-06-21T16:10:13.212435Z",
+  "last_refreshed_at": "2026-06-21T16:10:13.212439Z",
   "consecutive_refresh_failures": 0
 }

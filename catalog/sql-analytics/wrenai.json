@@ -1,7 +1,7 @@
 {
   "slug": "wrenai",
   "name": "WrenAI",
-  "tagline": "Give AI agents the context to query business data correctly through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build ag",
+  "tagline": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data s",
   "category": "sql-analytics",
   "tags": [
     "agent",
@@ -28,11 +28,11 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 15578,
+    "stars": 15587,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-19T11:26:49Z",
-    "first_commit_at": "2024-03-13T06:18:20Z",
-    "forks": 1772,
+    "last_commit_at": "2026-06-21T04:34:13Z",
+    "first_commit_at": "2022-05-09T08:35:34Z",
+    "forks": 1773,
     "watchers": 95,
     "open_issues": 329,
     "archived": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4992,
-  "rank_in_category": 1,
+  "composite_score": 0.4999,
+  "rank_in_category": 2,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:31:57.447441Z",
-  "last_refreshed_at": "2026-06-19T17:29:33.853731Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-21T16:30:57.388275Z",
+  "consecutive_refresh_failures": 0
 }

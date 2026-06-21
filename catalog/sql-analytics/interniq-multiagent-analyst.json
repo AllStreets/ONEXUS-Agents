@@ -1,0 +1,62 @@
+{
+  "slug": "interniq-multiagent-analyst",
+  "name": "interniq-multiagent-analyst",
+  "tagline": "An autonomous analytics pipeline that answers natural language business questions  > about India's internship market using a 4-agent LangGraph architecture.  ",
+  "category": "sql-analytics",
+  "tags": [
+    "groq-api",
+    "langchain",
+    "langgraph",
+    "llama3",
+    "neon",
+    "ploty-express",
+    "postgresql",
+    "python",
+    "sql-agent",
+    "streamlit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "RenoX23",
+    "url": "https://github.com/RenoX23"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RenoX23/interniq-multiagent-analyst",
+    "huggingface": null,
+    "homepage": "https://interniq-multiagent-analyst-renox23.streamlit.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T13:31:27Z",
+    "first_commit_at": "2026-06-07T12:10:13Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2076,
+  "rank_in_category": 153,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-21T16:31:32.187925Z",
+  "last_refreshed_at": "2026-06-21T16:31:32.187929Z",
+  "consecutive_refresh_failures": 0
+}

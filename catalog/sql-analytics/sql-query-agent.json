@@ -1,0 +1,57 @@
+{
+  "slug": "sql-query-agent",
+  "name": "SQL-Query-Agent",
+  "tagline": "Nexus SQL is an autonomous AI Data Analyst that lets you query databases in plain English. Built with LangChain and DeepSeek-V3, it automates complex SQL generation, provides instant data visualizatio",
+  "category": "sql-analytics",
+  "tags": [
+    "agentic-ai",
+    "deepseek",
+    "langchain",
+    "sql-agent",
+    "streamlit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Ismail-2001",
+    "url": "https://github.com/Ismail-2001"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Ismail-2001/SQL-Query-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-20T13:20:48Z",
+    "first_commit_at": "2026-01-27T06:44:32Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1751,
+  "rank_in_category": 191,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-21T16:31:22.212698Z",
+  "last_refreshed_at": "2026-06-21T16:31:22.212701Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "zeroshot",
   "name": "zeroshot",
-  "tagline": "Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.",
+  "tagline": "Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Robust because of non-negotiable feedback from independent reviewers. Supports Cl",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-orchestration",
@@ -28,11 +28,11 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1513,
+    "stars": 1528,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-17T20:56:50Z",
-    "first_commit_at": "2025-12-25T17:08:13Z",
-    "forks": 129,
+    "last_commit_at": "2026-06-19T21:01:02Z",
+    "first_commit_at": "2025-12-25T17:12:45Z",
+    "forks": 132,
     "watchers": 5,
     "open_issues": 84,
     "archived": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.395,
-  "rank_in_category": 238,
+  "composite_score": 0.3963,
+  "rank_in_category": 241,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-15T19:11:53.314380Z",
-  "last_refreshed_at": "2026-06-19T17:04:23.827455Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-21T16:09:12.575865Z",
+  "consecutive_refresh_failures": 0
 }

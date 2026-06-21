@@ -10,10 +10,10 @@
     "bot",
     "chatgpt",
     "claude",
-    "clawdbot-skill",
     "cli",
     "docker",
-    "gemini"
+    "gemini",
+    "linux"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 540,
+    "stars": 562,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-19T14:32:08Z",
+    "last_commit_at": "2026-06-21T10:46:55Z",
     "first_commit_at": "2023-05-20T09:46:22Z",
-    "forks": 59,
+    "forks": 62,
     "watchers": 5,
-    "open_issues": 5,
+    "open_issues": 4,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.7133,
+  "composite_score": 0.7157,
   "rank_in_category": 4,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:11:00.676617Z",
-  "last_refreshed_at": "2026-06-20T15:42:33.202541Z",
+  "last_refreshed_at": "2026-06-21T15:53:44.429067Z",
   "consecutive_refresh_failures": 0
 }

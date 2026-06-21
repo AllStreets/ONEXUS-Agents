@@ -1,0 +1,55 @@
+{
+  "slug": "paperseek",
+  "name": "paperseek",
+  "tagline": "LLM based Literature Search Agent. 一个面向研究者的文献发现工具，支持用自然语言发起检索、自动迭代查询、扩展候选论文、排序结果并导出可复核的文献列表。",
+  "category": "search-rag",
+  "tags": [
+    "literature",
+    "literature-review",
+    "literature-search",
+    "paper",
+    "research"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MingfengHong",
+    "url": "https://github.com/MingfengHong"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MingfengHong/paperseek",
+    "huggingface": null,
+    "homepage": "https://www.paperseek.xyz/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 66,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-20T18:36:24Z",
+    "first_commit_at": "2026-06-02T08:17:25Z",
+    "forks": 7,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2733,
+  "rank_in_category": 177,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-21T15:53:55.069518Z",
+  "last_refreshed_at": "2026-06-21T15:53:55.069522Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "odyssey",
+  "name": "Odyssey",
+  "tagline": "Odyssey: Empowering Minecraft Agents with Open-World Skills",
+  "category": "game-playing",
+  "tags": [
+    "agent",
+    "embodied-agent",
+    "fine-tuning",
+    "large-language-model",
+    "large-language-models",
+    "llm",
+    "llm-agent",
+    "minecraft"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "zju-vipa",
+    "url": "https://github.com/zju-vipa"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zju-vipa/Odyssey",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 395,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-22T07:37:45Z",
+    "first_commit_at": "2024-06-13T05:25:45Z",
+    "forks": 25,
+    "watchers": 6,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4564,
+  "rank_in_category": 79,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-21T16:24:16.749012Z",
+  "last_refreshed_at": "2026-06-21T16:24:16.749016Z",
+  "consecutive_refresh_failures": 0
+}

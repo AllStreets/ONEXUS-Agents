@@ -1,0 +1,57 @@
+{
+  "slug": "options-analytics-agent",
+  "name": "Options-Analytics-Agent",
+  "tagline": "A sophisticated LangGraph-based agent that automates financial options analysis with real-time data from Polygon.io, smart caching, persistent memory, and professional-grade analysis. Built for trader",
+  "category": "sql-analytics",
+  "tags": [
+    "chroma-db",
+    "fastapi",
+    "langgraph",
+    "options",
+    "rag-chatbot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nuglifeleoji",
+    "url": "https://github.com/nuglifeleoji"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nuglifeleoji/Options-Analytics-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 631,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-15T14:38:00Z",
+    "first_commit_at": "2025-11-19T20:27:56Z",
+    "forks": 84,
+    "watchers": 53,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2767,
+  "rank_in_category": 82,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-21T16:32:55.731653Z",
+  "last_refreshed_at": "2026-06-21T16:32:55.731656Z",
+  "consecutive_refresh_failures": 0
+}

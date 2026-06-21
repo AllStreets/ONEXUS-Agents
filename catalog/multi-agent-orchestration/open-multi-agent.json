@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "open-multi-agent/open-multi-agent",
     "huggingface": null,
-    "homepage": "https://open-multi-agent.com/"
+    "homepage": "https://open-multi-agent.com/?utm_source=github"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 6406,
+    "stars": 6412,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-19T15:59:26Z",
-    "first_commit_at": "2026-03-31T20:33:15Z",
-    "forks": 2396,
+    "last_commit_at": "2026-06-21T15:53:47Z",
+    "first_commit_at": "2026-03-31T19:07:34Z",
+    "forks": 2398,
     "watchers": 61,
-    "open_issues": 5,
+    "open_issues": 6,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4977,
-  "rank_in_category": 36,
+  "composite_score": 0.4987,
+  "rank_in_category": 39,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-10T14:39:50.247521Z",
-  "last_refreshed_at": "2026-06-19T17:04:07.849291Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-21T16:09:04.799594Z",
+  "consecutive_refresh_failures": 0
 }

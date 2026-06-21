@@ -1,39 +1,39 @@
 {
   "slug": "awesome-claude-fable-5",
   "name": "awesome-claude-fable-5",
-  "tagline": "Curated Claude Fable 5 use cases, tutorials, integrations, demos, and benchmark evidence with source links. Access Claude Fable 5 exclusively via MuAPI.",
+  "tagline": "Curated Claude Fable 5 use cases, tutorials, integrations, demos, and benchmark evidence with source links and multilingual README files.",
   "category": "coding",
   "tags": [
     "agentic-coding",
     "ai-agents",
+    "ai-tools",
     "anthropic",
-    "anthropic-api",
-    "anthropic-claude",
-    "awesome-list",
     "benchmarks",
     "claude",
-    "claude-api",
-    "claude-fable-5"
+    "claude-code",
+    "claude-fable-5",
+    "evolink",
+    "prompt-engineering"
   ],
   "author": {
     "type": "user",
-    "handle": "Anil-matcha",
-    "url": "https://github.com/Anil-matcha"
+    "handle": "EvoLinkAI",
+    "url": "https://github.com/EvoLinkAI"
   },
   "source": {
     "primary": "github",
-    "github": "Anil-matcha/awesome-claude-fable-5",
+    "github": "EvoLinkAI/awesome-claude-fable-5",
     "huggingface": null,
-    "homepage": "https://muapi.ai/playground/claude-fable-5?utm_source=github&utm_medium=about&utm_campaign=awesome-claude-fable-5"
+    "homepage": "https://evolink.ai/claude-fable-5"
   },
-  "license": "MIT",
+  "license": "NOASSERTION",
   "metrics": {
-    "stars": 233,
+    "stars": 53,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-16T18:48:55Z",
-    "first_commit_at": "2023-05-17T18:38:28Z",
-    "forks": 54,
-    "watchers": 3,
+    "last_commit_at": "2026-06-15T14:43:51Z",
+    "first_commit_at": "2026-06-10T07:54:41Z",
+    "forks": 5,
+    "watchers": 0,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.354,
-  "rank_in_category": 267,
+  "composite_score": 0.2706,
+  "rank_in_category": 549,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-19T16:23:36.876899Z",
-  "last_refreshed_at": "2026-06-20T15:24:15.852057Z",
+  "first_seen_at": "2026-06-21T15:33:52.423426Z",
+  "last_refreshed_at": "2026-06-21T15:33:52.423430Z",
   "consecutive_refresh_failures": 0
 }

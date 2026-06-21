@@ -3,7 +3,15 @@
   "name": "World-Forge",
   "tagline": "A repository for agentic world building to roleplay in. A world seed template is used for the pipeline and the output is a Silly Tavern ready character cards, world info and system settings.",
   "category": "knowledge-management",
-  "tags": [],
+  "tags": [
+    "ai-agents",
+    "creative-writing",
+    "creative-writing-ai",
+    "lorebooks",
+    "roleplay",
+    "sillytavern",
+    "worldbuilding"
+  ],
   "author": {
     "type": "user",
     "handle": "AndreiNicu",
@@ -17,13 +25,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 36,
+    "stars": 40,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-18T21:19:04Z",
+    "last_commit_at": "2026-06-21T00:23:07Z",
     "first_commit_at": "2026-05-06T14:34:38Z",
-    "forks": 3,
+    "forks": 4,
     "watchers": 0,
-    "open_issues": 2,
+    "open_issues": 6,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +48,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4873,
-  "rank_in_category": 172,
+  "composite_score": 0.4939,
+  "rank_in_category": 173,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-16T19:40:54.794246Z",
-  "last_refreshed_at": "2026-06-19T17:28:10.592993Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-21T16:29:09.725555Z",
+  "consecutive_refresh_failures": 0
 }
