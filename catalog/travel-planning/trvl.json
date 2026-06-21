@@ -1,19 +1,19 @@
 {
   "slug": "trvl",
   "name": "trvl",
-  "tagline": "AI Travel Agent — Google Flights + Hotels from your terminal. 43 MCP tools, trip optimization, airport lounges, travel hacks. Free, no API keys, single Go binary.",
+  "tagline": "Travel MCP server + CLI for AI assistants — flights, hotels, trains, cars, ferries, price alerts. No API keys, single Go binary. 1 smart MCP tool + 66 aliases (98.9% smaller tools/list). Works with Cl",
   "category": "travel-planning",
   "tags": [
-    "accommodation",
-    "airfare",
+    "ai-agent",
+    "claude",
     "cli",
+    "cursor",
     "flight-search",
-    "free",
+    "flights",
     "golang",
     "google-flights",
     "google-hotels",
-    "hotel-search",
-    "mcp"
+    "hotel-search"
   ],
   "author": {
     "type": "user",
@@ -24,14 +24,14 @@
     "primary": "github",
     "github": "MikkoParkkola/trvl",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://mikkoparkkola.github.io/trvl/"
   },
   "license": "NOASSERTION",
   "metrics": {
     "stars": 41,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-20T15:53:57Z",
-    "first_commit_at": "2026-04-02T16:13:18Z",
+    "last_commit_at": "2026-06-21T14:17:15Z",
+    "first_commit_at": "2026-04-02T10:18:49Z",
     "forks": 5,
     "watchers": 0,
     "open_issues": 1,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6033,
+  "composite_score": 0.6032,
   "rank_in_category": 13,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:55:38.865084Z",
-  "last_refreshed_at": "2026-06-20T15:56:57.216868Z",
+  "last_refreshed_at": "2026-06-21T16:11:56.820637Z",
   "consecutive_refresh_failures": 0
 }

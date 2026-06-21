@@ -1,0 +1,52 @@
+{
+  "slug": "git-wt",
+  "name": "git-wt",
+  "tagline": "A git custom command that enhances Git's native worktree functionality with interactive features, automation, and repository migration capabilities.",
+  "category": "pdf-forms",
+  "tags": [
+    "git",
+    "worktrees"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ahmedelgabri",
+    "url": "https://github.com/ahmedelgabri"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ahmedelgabri/git-wt",
+    "huggingface": null,
+    "homepage": "https://ahmedelgabri.github.io/git-wt"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 74,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T21:53:08Z",
+    "first_commit_at": "2026-02-02T11:44:27Z",
+    "forks": 6,
+    "watchers": 1,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5361,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-21T16:30:21.656288Z",
+  "last_refreshed_at": "2026-06-21T16:30:21.656291Z",
+  "consecutive_refresh_failures": 0
+}

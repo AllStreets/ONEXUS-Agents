@@ -1,0 +1,60 @@
+{
+  "slug": "duckdb-query-in-place",
+  "name": "duckdb-query-in-place",
+  "tagline": "Run SQL directly against Parquet, CSV, and JSON files in Backblaze B2 with DuckDB's httpfs extension — query-in-place with no ETL or warehouse, and materialize results back to B2 as Parquet. Next.js +",
+  "category": "sql-analytics",
+  "tags": [
+    "b2-labs",
+    "backblaze-b2",
+    "cloudstorage",
+    "data-lake",
+    "duckdb",
+    "fastapi",
+    "httpfs",
+    "nextjs",
+    "object-storage",
+    "parquet"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "backblaze-b2-samples",
+    "url": "https://github.com/backblaze-b2-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "backblaze-b2-samples/duckdb-query-in-place",
+    "huggingface": null,
+    "homepage": "https://blze.ai/storage"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-16T19:18:52Z",
+    "first_commit_at": "2026-06-16T13:27:49Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2156,
+  "rank_in_category": 149,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-21T16:31:52.158903Z",
+  "last_refreshed_at": "2026-06-21T16:31:52.158907Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "comfyui-agent-kit",
+  "name": "comfyui-agent-kit",
+  "tagline": "One ComfyUI skill for every AI coding agent: Claude Code, Codex, Gemini CLI, Qwen Code. Shared core + per-agent adapters, MCP driver, 65 model prompt recipes, 534 templates, hardware-aware model selec",
+  "category": "image-generation",
+  "tags": [
+    "ai-art",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-skill",
+    "codex",
+    "comfyui",
+    "gemini-cli",
+    "glm",
+    "image-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SlavaSexton",
+    "url": "https://github.com/SlavaSexton"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SlavaSexton/comfyui-agent-kit",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-21T08:01:54Z",
+    "first_commit_at": "2026-06-20T04:03:30Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2941,
+  "rank_in_category": 98,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-21T15:45:03.644264Z",
+  "last_refreshed_at": "2026-06-21T15:45:03.644268Z",
+  "consecutive_refresh_failures": 0
+}
