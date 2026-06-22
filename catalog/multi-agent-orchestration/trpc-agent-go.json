@@ -1,14 +1,19 @@
 {
   "slug": "trpc-agent-go",
   "name": "trpc-agent-go",
-  "tagline": "trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.",
+  "tagline": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
   "category": "multi-agent-orchestration",
   "tags": [
     "a2a",
+    "a2a-protocol",
+    "ag-ui",
     "agent",
+    "agent-framework",
     "ai",
-    "llm",
-    "mcp"
+    "ai-agents",
+    "evaluation",
+    "go",
+    "golang"
   ],
   "author": {
     "type": "org",
@@ -21,24 +26,24 @@
     "huggingface": null,
     "homepage": "https://trpc-group.github.io/trpc-agent-go/"
   },
-  "license": "NOASSERTION",
+  "license": "Apache-2.0",
   "metrics": {
-    "stars": 1254,
+    "stars": 1390,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-05T12:25:22Z",
+    "last_commit_at": "2026-06-22T09:47:49Z",
     "first_commit_at": "2025-05-14T13:51:35Z",
-    "forks": 149,
+    "forks": 177,
     "watchers": 17,
-    "open_issues": 52,
+    "open_issues": 55,
     "archived": false,
     "is_fork": false,
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 43,
+    "contributors_count": null,
     "releases_total": null,
     "latest_release_at": null,
-    "commits_90d": 416,
+    "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
     "frameworks": [
@@ -48,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4692,
-  "rank_in_category": 72,
+  "composite_score": 0.4864,
+  "rank_in_category": 51,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:52:02.820153Z",
-  "last_refreshed_at": "2026-06-21T19:07:00.439144Z",
-  "consecutive_refresh_failures": 14
+  "first_seen_at": "2026-06-22T18:30:58.192855Z",
+  "last_refreshed_at": "2026-06-22T18:30:58.192858Z",
+  "consecutive_refresh_failures": 0
 }

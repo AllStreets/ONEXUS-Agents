@@ -1,7 +1,7 @@
 {
   "slug": "context-mode",
   "name": "context-mode",
-  "tagline": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 17 platforms",
+  "tagline": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
   "category": "coding",
   "tags": [
     "antigravity",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 17878,
+    "stars": 17940,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-21T15:12:48Z",
+    "last_commit_at": "2026-06-22T14:06:08Z",
     "first_commit_at": "2026-02-23T06:03:12Z",
-    "forks": 1262,
-    "watchers": 87,
-    "open_issues": 12,
+    "forks": 1266,
+    "watchers": 86,
+    "open_issues": 3,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,9 +54,9 @@
   "runnable": true,
   "adapter_ref": "mcp/stdio",
   "composite_score": 0.4581,
-  "rank_in_category": 41,
+  "rank_in_category": 39,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:21:08.525858Z",
-  "last_refreshed_at": "2026-06-21T15:13:34.437206Z",
+  "last_refreshed_at": "2026-06-22T17:43:16.366456Z",
   "consecutive_refresh_failures": 0
 }

@@ -3,7 +3,11 @@
   "name": "Arbor",
   "tagline": "A generalist autonomous research agent — runs experiments, researches, and iteratively optimizes, autonomously.",
   "category": "scientific-research",
-  "tags": [],
+  "tags": [
+    "agents",
+    "autonomous-agents",
+    "autoresearch"
+  ],
   "author": {
     "type": "org",
     "handle": "RUC-NLPIR",
@@ -17,12 +21,12 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 588,
+    "stars": 619,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-21T14:01:41Z",
-    "first_commit_at": "2026-05-31T16:42:47Z",
-    "forks": 79,
-    "watchers": 7,
+    "last_commit_at": "2026-06-22T16:19:46Z",
+    "first_commit_at": "2026-06-09T15:53:35Z",
+    "forks": 86,
+    "watchers": 8,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -40,10 +44,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5535,
-  "rank_in_category": 112,
+  "composite_score": 0.5549,
+  "rank_in_category": 114,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-15T19:07:19.330558Z",
-  "last_refreshed_at": "2026-06-21T16:08:53.499387Z",
+  "last_refreshed_at": "2026-06-22T18:54:34.924671Z",
   "consecutive_refresh_failures": 0
 }

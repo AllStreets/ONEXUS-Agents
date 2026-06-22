@@ -1,0 +1,60 @@
+{
+  "slug": "dozzle",
+  "name": "dozzle",
+  "tagline": "Realtime log viewer for containers.  Supports Docker, Swarm and K8s. ",
+  "category": "devops-sre",
+  "tags": [
+    "docker",
+    "docker-container",
+    "golang",
+    "k8s",
+    "log",
+    "logging",
+    "logging-server",
+    "real-time",
+    "sever-events",
+    "swarm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "amir20",
+    "url": "https://github.com/amir20"
+  },
+  "source": {
+    "primary": "github",
+    "github": "amir20/dozzle",
+    "huggingface": null,
+    "homepage": "https://dozzle.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13343,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-22T17:20:07Z",
+    "first_commit_at": "2018-10-30T00:05:24Z",
+    "forks": 570,
+    "watchers": 46,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6434,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-22T18:12:06.721504Z",
+  "last_refreshed_at": "2026-06-22T18:12:06.721506Z",
+  "consecutive_refresh_failures": 0
+}

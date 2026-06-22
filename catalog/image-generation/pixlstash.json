@@ -1,7 +1,7 @@
 {
   "slug": "pixlstash",
   "name": "pixlstash",
-  "tagline": "PixlStash is a Python-based image management, tagging and editing web app leveraging AI tools for tagging, similarity checks, grouping and quality assessment. It has a REST-API and a VUE-based web fro",
+  "tagline": "PixlStash helps you find things in an image library that's gotten out of hand. It imports and tags your images automatically, then lets you search by content or face, sort the keepers from the rubbish",
   "category": "image-generation",
   "tags": [
     "captioning-images",
@@ -28,13 +28,13 @@
   },
   "license": "GPL-3.0",
   "metrics": {
-    "stars": 72,
+    "stars": 74,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-21T13:39:36Z",
+    "last_commit_at": "2026-06-21T21:29:32Z",
     "first_commit_at": "2025-10-12T14:13:18Z",
     "forks": 4,
     "watchers": 1,
-    "open_issues": 23,
+    "open_issues": 25,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3,
+  "composite_score": 0.2996,
   "rank_in_category": 86,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-17T17:15:49.379827Z",
-  "last_refreshed_at": "2026-06-21T15:43:04.743645Z",
+  "last_refreshed_at": "2026-06-22T18:18:06.872861Z",
   "consecutive_refresh_failures": 0
 }

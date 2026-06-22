@@ -4,6 +4,7 @@
   "tagline": "OpenAI and Anthropic-compatible gateway for GitHub Copilot or Codex or third-party providers. Please read README.md completely before use!",
   "category": "coding",
   "tags": [
+    "ai-gateway",
     "codex",
     "github-copilot",
     "multi-provider"
@@ -21,12 +22,12 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 869,
+    "stars": 871,
     "downloads_30d": null,
     "last_commit_at": "2026-06-21T10:19:21Z",
     "first_commit_at": "2025-08-20T06:18:02Z",
-    "forks": 182,
-    "watchers": 6,
+    "forks": 183,
+    "watchers": 5,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -42,12 +43,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3363,
-  "rank_in_category": 313,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3353,
+  "rank_in_category": 319,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-21T15:51:30.930882Z",
-  "last_refreshed_at": "2026-06-21T18:27:56.454644Z",
+  "first_seen_at": "2026-06-22T18:28:45.932951Z",
+  "last_refreshed_at": "2026-06-22T18:28:45.932955Z",
   "consecutive_refresh_failures": 0
 }

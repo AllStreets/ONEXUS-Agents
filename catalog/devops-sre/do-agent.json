@@ -1,0 +1,55 @@
+{
+  "slug": "do-agent",
+  "name": "DO-Agent",
+  "tagline": "A lightweight, self-hosted Azure DevOps agent based on Linux. Feedback is welcome.",
+  "category": "devops-sre",
+  "tags": [
+    "azure-devops",
+    "devops-agent",
+    "docker",
+    "linux",
+    "self-hosted"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Blasteed",
+    "url": "https://github.com/Blasteed"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Blasteed/DO-Agent",
+    "huggingface": null,
+    "homepage": "https://hub.docker.com/r/karfee111/do-agent"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-22T15:20:45Z",
+    "first_commit_at": "2026-06-22T09:50:19Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3148,
+  "rank_in_category": 218,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-22T18:46:24.511667Z",
+  "last_refreshed_at": "2026-06-22T18:46:24.511670Z",
+  "consecutive_refresh_failures": 0
+}

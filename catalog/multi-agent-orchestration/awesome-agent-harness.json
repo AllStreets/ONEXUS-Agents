@@ -1,40 +1,34 @@
 {
   "slug": "awesome-agent-harness",
   "name": "awesome-agent-harness",
-  "tagline": "awesome-agent-harness",
+  "tagline": "The official GitHub page for the paper \"Agent Systems with Harness Engineering\"",
   "category": "multi-agent-orchestration",
   "tags": [
+    "agent",
     "agent-harness",
-    "agent-orchestration",
-    "agentic-coding",
-    "ai-agents",
-    "awesome",
     "awesome-list",
-    "coding-agents",
-    "developer-tools",
-    "harness-engineering",
-    "multi-agent"
+    "harness-engineering"
   ],
   "author": {
-    "type": "user",
-    "handle": "AutoJunjie",
-    "url": "https://github.com/AutoJunjie"
+    "type": "org",
+    "handle": "RUCAIBox",
+    "url": "https://github.com/RUCAIBox"
   },
   "source": {
     "primary": "github",
-    "github": "AutoJunjie/awesome-agent-harness",
+    "github": "RUCAIBox/awesome-agent-harness",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://openreview.net/forum?id=nM5tDHrQsx"
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 457,
+    "stars": 111,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-19T11:09:46Z",
-    "first_commit_at": "2026-03-05T13:19:10Z",
-    "forks": 38,
-    "watchers": 5,
-    "open_issues": 11,
+    "last_commit_at": "2026-05-25T13:42:25Z",
+    "first_commit_at": "2026-03-15T13:06:54Z",
+    "forks": 11,
+    "watchers": 1,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +45,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3214,
-  "rank_in_category": 424,
+  "composite_score": 0.3213,
+  "rank_in_category": 425,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-21T16:09:15.718995Z",
-  "last_refreshed_at": "2026-06-21T16:09:15.718999Z",
+  "first_seen_at": "2026-06-06T09:58:05.659316Z",
+  "last_refreshed_at": "2026-06-22T18:08:14.122531Z",
   "consecutive_refresh_failures": 0
 }

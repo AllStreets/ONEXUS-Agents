@@ -1,0 +1,59 @@
+{
+  "slug": "openmedrl-openenv",
+  "name": "OpenMedRL-openenv",
+  "tagline": "OpenMedRL is an open-source reinforcement learning environment for benchmarking LLM-powered medical agents in emergency care. It simulates triage, dynamic patient progression, resource constraints, an",
+  "category": "healthcare",
+  "tags": [
+    "grpo-training",
+    "huggingface-spaces",
+    "huggingface-transformers",
+    "medical-ai",
+    "medical-triage",
+    "openenv",
+    "unsloth"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Surya-Hariharan",
+    "url": "https://github.com/Surya-Hariharan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Surya-Hariharan/OpenMedRL-openenv",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-21T18:15:58Z",
+    "first_commit_at": "2026-04-28T10:32:24Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3705,
+  "rank_in_category": 84,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-22T19:03:49.665447Z",
+  "last_refreshed_at": "2026-06-22T19:03:49.665450Z",
+  "consecutive_refresh_failures": 0
+}

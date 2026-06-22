@@ -1,0 +1,58 @@
+{
+  "slug": "org2",
+  "name": "ORG2",
+  "tagline": "Open-source Cursor-style agent IDE — but built for reviewability and control. Built-in rust harness; supports 10+ CLIs.",
+  "category": "coding",
+  "tags": [
+    "ai-coding-assistant",
+    "coding-agents",
+    "ide",
+    "local-first",
+    "reliability-engineering",
+    "rust",
+    "self-hosted",
+    "tuari"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "yorgai",
+    "url": "https://github.com/yorgai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yorgai/ORG2",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 925,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-22T17:00:04Z",
+    "first_commit_at": "2026-06-01T12:58:28Z",
+    "forks": 64,
+    "watchers": 74,
+    "open_issues": 35,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3336,
+  "rank_in_category": 328,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-22T17:41:48.942015Z",
+  "last_refreshed_at": "2026-06-22T17:41:48.942018Z",
+  "consecutive_refresh_failures": 0
+}

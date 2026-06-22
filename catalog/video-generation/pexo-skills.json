@@ -1,0 +1,49 @@
+{
+  "slug": "pexo-skills",
+  "name": "pexo-skills",
+  "tagline": "A collection of open-source Agent Skills for content creation — images, audio, and video.",
+  "category": "video-generation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "pexoai",
+    "url": "https://github.com/pexoai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pexoai/pexo-skills",
+    "huggingface": null,
+    "homepage": "https://invite.pexo.ai/4uGqhWb"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 737,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-17T06:27:07Z",
+    "first_commit_at": "2026-03-06T10:07:43Z",
+    "forks": 34,
+    "watchers": 14,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.38,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-22T18:22:49.089019Z",
+  "last_refreshed_at": "2026-06-22T18:22:49.089023Z",
+  "consecutive_refresh_failures": 0
+}

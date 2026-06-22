@@ -1,19 +1,19 @@
 {
   "slug": "1flowbase",
   "name": "1flowbase",
-  "tagline": "Open-source virtual model gateway: publish multi-model workflows as OpenAI/Claude-compatible endpoints with trace, token, latency, and cost visibility.",
+  "tagline": "Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible virtual models with traces, tokens, latency, and cost visibility.",
   "category": "multi-agent-orchestration",
   "tags": [
-    "ai-agents-platform",
+    "agent-observability",
+    "agent-tracing",
     "ai-gateway",
     "claude-api",
     "cost-optimization",
+    "cost-tracking",
     "fusion",
     "llm-gateway",
-    "llm-orchestration",
-    "llmops",
-    "model-router",
-    "multi-agent"
+    "llm-observability",
+    "llm-orchestration"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 136,
+    "stars": 153,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-17T17:02:57Z",
+    "last_commit_at": "2026-06-22T15:13:53Z",
     "first_commit_at": "2026-03-09T07:08:29Z",
     "forks": 13,
     "watchers": 0,
-    "open_issues": 40,
+    "open_issues": 27,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3465,
-  "rank_in_category": 363,
+  "composite_score": 0.3517,
+  "rank_in_category": 353,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-17T17:26:37.616557Z",
-  "last_refreshed_at": "2026-06-17T17:26:37.616561Z",
-  "consecutive_refresh_failures": 4
+  "first_seen_at": "2026-06-20T15:41:33.904858Z",
+  "last_refreshed_at": "2026-06-22T18:29:49.035927Z",
+  "consecutive_refresh_failures": 0
 }
