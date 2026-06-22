@@ -1,7 +1,7 @@
 {
   "slug": "best-of-agent-harnesses",
   "name": "best-of-Agent-Harnesses",
-  "tagline": "🏆 Ranked list of 100+ agent harnesses. Scored and updated weekly.",
+  "tagline": "🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them too. Rescored weekly.",
   "category": "marketing",
   "tags": [
     "agent-framework",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "RyanAlberts/best-of-Agent-Harnesses",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://ryanalberts.github.io/best-of-Agent-Harnesses/"
   },
   "license": "CC-BY-SA-4.0",
   "metrics": {
-    "stars": 149,
+    "stars": 156,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-21T14:04:00Z",
+    "last_commit_at": "2026-06-22T18:44:23Z",
     "first_commit_at": "2026-03-07T22:55:26Z",
-    "forks": 9,
+    "forks": 10,
     "watchers": 1,
-    "open_issues": 2,
+    "open_issues": 3,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6193,
+  "composite_score": 0.6216,
   "rank_in_category": 21,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-08T18:33:05.376038Z",
-  "last_refreshed_at": "2026-06-21T16:15:54.999340Z",
+  "last_refreshed_at": "2026-06-22T19:09:24.013120Z",
   "consecutive_refresh_failures": 0
 }

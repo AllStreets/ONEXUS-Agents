@@ -1,7 +1,7 @@
 {
   "slug": "multilevel-decomposition-medical-agent",
   "name": "Multilevel_Decomposition_Medical_Agent",
-  "tagline": "基于LLM和知识图谱的多层级拆解医疗智能体",
+  "tagline": "基于LLM和知识图谱的多层级拆解医疗智能体Agent",
   "category": "healthcare",
   "tags": [],
   "author": {
@@ -17,7 +17,7 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 91,
+    "stars": 112,
     "downloads_30d": null,
     "last_commit_at": "2026-06-12T00:43:52Z",
     "first_commit_at": "2025-10-09T08:46:27Z",
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4073,
-  "rank_in_category": 57,
+  "composite_score": 0.4093,
+  "rank_in_category": 54,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-11T18:05:11.941501Z",
-  "last_refreshed_at": "2026-06-21T16:11:01.699340Z",
+  "last_refreshed_at": "2026-06-22T19:03:25.265404Z",
   "consecutive_refresh_failures": 0
 }

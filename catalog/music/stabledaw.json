@@ -1,7 +1,7 @@
 {
   "slug": "stabledaw",
   "name": "StableDAW",
-  "tagline": "Browser-based AI audio DAW for Stable Audio 3 with text-to-audio, inpainting, LoRA training, FFmpeg effects, waveform editing, sequencer, piano roll, and persistent library.",
+  "tagline": "ARCHIVED USE theDAW at https://github.com/gantasmo/theDAW - Browser-based AI audio DAW for Stable Audio 3 with text-to-audio, inpainting, LoRA training, FFmpeg effects, waveform editing, sequencer, pi",
   "category": "music",
   "tags": [
     "ai-audio",
@@ -24,11 +24,11 @@
     "primary": "github",
     "github": "gantasmo/StableDAW",
     "huggingface": null,
-    "homepage": "https://github.com/gantasmo/StableDAW"
+    "homepage": "https://github.com/gantasmo/theDAW"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 41,
+    "stars": 43,
     "downloads_30d": null,
     "last_commit_at": "2026-06-13T13:31:00Z",
     "first_commit_at": "2026-04-29T18:19:15Z",
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1442,
-  "rank_in_category": 166,
+  "composite_score": 0.1439,
+  "rank_in_category": 168,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-15T19:28:29.810377Z",
-  "last_refreshed_at": "2026-06-21T16:21:22.347402Z",
+  "last_refreshed_at": "2026-06-22T19:16:20.894310Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,31 +1,29 @@
 {
   "slug": "skills",
   "name": "skills",
-  "tagline": "Bankr Skills equip builders with plug-and-play tools to build more powerful agents.",
+  "tagline": "The open agent skills tool - npx skills",
   "category": "multi-agent-orchestration",
-  "tags": [
-    "skills"
-  ],
+  "tags": [],
   "author": {
     "type": "org",
-    "handle": "BankrBot",
-    "url": "https://github.com/BankrBot"
+    "handle": "vercel-labs",
+    "url": "https://github.com/vercel-labs"
   },
   "source": {
     "primary": "github",
-    "github": "BankrBot/skills",
+    "github": "vercel-labs/skills",
     "huggingface": null,
-    "homepage": "https://skills.bankr.bot/"
+    "homepage": "https://skills.sh/"
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 1145,
+    "stars": 23206,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-12T16:35:02Z",
-    "first_commit_at": "2026-01-26T18:45:39Z",
-    "forks": 514,
-    "watchers": 17,
-    "open_issues": 252,
+    "last_commit_at": "2026-06-20T05:23:08Z",
+    "first_commit_at": "2026-01-14T21:31:41Z",
+    "forks": 1876,
+    "watchers": 70,
+    "open_issues": 768,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -42,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3997,
-  "rank_in_category": 235,
+  "composite_score": 0.4499,
+  "rank_in_category": 113,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:16:13.878026Z",
-  "last_refreshed_at": "2026-06-12T17:15:08.044170Z",
-  "consecutive_refresh_failures": 9
+  "first_seen_at": "2026-06-06T10:00:19.358929Z",
+  "last_refreshed_at": "2026-06-22T18:11:51.110143Z",
+  "consecutive_refresh_failures": 0
 }

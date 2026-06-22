@@ -1,0 +1,60 @@
+{
+  "slug": "miii-cli",
+  "name": "miii-cli",
+  "tagline": "Cursor/Claude-Code, but local. An offline AI pair-programmer in your terminal powered by Ollama. Private by default, free forever.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-coding-assistant",
+    "cli-tool",
+    "code-generation",
+    "coding-agent",
+    "developer-tools-ai-agent",
+    "llama-cpp",
+    "llms",
+    "lm-studio"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "maruakshay",
+    "url": "https://github.com/maruakshay"
+  },
+  "source": {
+    "primary": "github",
+    "github": "maruakshay/miii-cli",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-22T12:32:53Z",
+    "first_commit_at": "2026-06-05T10:50:05Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2452,
+  "rank_in_category": 619,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-22T17:49:18.477547Z",
+  "last_refreshed_at": "2026-06-22T17:49:18.477550Z",
+  "consecutive_refresh_failures": 0
+}

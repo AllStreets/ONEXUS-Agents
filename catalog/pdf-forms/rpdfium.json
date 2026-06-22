@@ -1,7 +1,7 @@
 {
   "slug": "rpdfium",
   "name": "rpdfium",
-  "tagline": "Ruby binding for Pdfium",
+  "tagline": "Ruby gem for extracting text, images and tables from PDF. Thanks to pdfium",
   "category": "pdf-forms",
   "tags": [
     "document-parsing",
@@ -27,7 +27,7 @@
     "stars": 16,
     "downloads_30d": null,
     "last_commit_at": "2026-06-18T08:40:05Z",
-    "first_commit_at": "2026-05-08T22:20:42Z",
+    "first_commit_at": "2026-05-09T06:39:29Z",
     "forks": 0,
     "watchers": 0,
     "open_issues": 4,
@@ -47,10 +47,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.471,
+  "composite_score": 0.4694,
   "rank_in_category": 59,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-10T18:08:33.070381Z",
-  "last_refreshed_at": "2026-06-21T16:29:24.602747Z",
+  "last_refreshed_at": "2026-06-22T19:21:24.737479Z",
   "consecutive_refresh_failures": 0
 }

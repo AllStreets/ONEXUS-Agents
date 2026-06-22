@@ -1,29 +1,29 @@
 {
   "slug": "karpathy-wiki",
   "name": "karpathy-wiki",
-  "tagline": "karpathy-wiki",
+  "tagline": "基于 [Andrej Karpathy]提出的 [LLM Wiki 模式]构建的 Agent Skill，通过四阶段流水线将碎片化信息转化为结构化、可检索、持续增长的个人知识库。",
   "category": "knowledge-management",
   "tags": [],
   "author": {
     "type": "user",
-    "handle": "danvega",
-    "url": "https://github.com/danvega"
+    "handle": "SherwinQ",
+    "url": "https://github.com/SherwinQ"
   },
   "source": {
     "primary": "github",
-    "github": "danvega/karpathy-wiki",
+    "github": "SherwinQ/karpathy-wiki",
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 48,
+    "stars": 79,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-14T18:24:30Z",
-    "first_commit_at": "2026-04-07T18:15:43Z",
-    "forks": 16,
+    "last_commit_at": "2026-04-28T14:07:30Z",
+    "first_commit_at": "2026-04-05T13:50:01Z",
+    "forks": 13,
     "watchers": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.433,
-  "rank_in_category": 232,
+  "composite_score": 0.4289,
+  "rank_in_category": 235,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:02:44.512795Z",
-  "last_refreshed_at": "2026-06-21T15:41:48.189609Z",
+  "first_seen_at": "2026-06-22T19:21:14.922912Z",
+  "last_refreshed_at": "2026-06-22T19:21:14.922914Z",
   "consecutive_refresh_failures": 0
 }

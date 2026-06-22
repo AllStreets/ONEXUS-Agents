@@ -1,0 +1,56 @@
+{
+  "slug": "harness-eval-lab",
+  "name": "harness-eval-lab",
+  "tagline": "Evaluate AI code agent setup. Scores the full configuration (CLAUDE.md, skills, commands, hooks, agents). Available as a CLI and a Claude Code plugin",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "claude-code",
+    "code-agent",
+    "cursor",
+    "evaluation",
+    "harness"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "redhat-community-ai-tools",
+    "url": "https://github.com/redhat-community-ai-tools"
+  },
+  "source": {
+    "primary": "github",
+    "github": "redhat-community-ai-tools/harness-eval-lab",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-22T06:29:05Z",
+    "first_commit_at": "2026-06-01T06:27:21Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2448,
+  "rank_in_category": 626,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-22T17:42:22.431020Z",
+  "last_refreshed_at": "2026-06-22T17:42:22.431023Z",
+  "consecutive_refresh_failures": 0
+}

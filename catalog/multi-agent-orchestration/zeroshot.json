@@ -1,7 +1,7 @@
 {
   "slug": "zeroshot",
   "name": "zeroshot",
-  "tagline": "Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Robust because of non-negotiable feedback from independent reviewers. Supports Cl",
+  "tagline": "Your autonomous engineering team in a CLI. The agent loop produces senior-level code that you can actually trust in prod because of non-negotiable feedback from independent reviewers. Supports Claude ",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-orchestration",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1528,
+    "stars": 1541,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-19T21:01:02Z",
-    "first_commit_at": "2025-12-25T17:12:45Z",
+    "last_commit_at": "2026-06-22T10:45:40Z",
+    "first_commit_at": "2025-12-25T17:08:13Z",
     "forks": 132,
-    "watchers": 5,
-    "open_issues": 84,
+    "watchers": 6,
+    "open_issues": 49,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3963,
-  "rank_in_category": 241,
+  "composite_score": 0.3979,
+  "rank_in_category": 243,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-15T19:11:53.314380Z",
-  "last_refreshed_at": "2026-06-21T16:09:12.575865Z",
+  "last_refreshed_at": "2026-06-22T18:59:16.853750Z",
   "consecutive_refresh_failures": 0
 }
