@@ -1,0 +1,60 @@
+{
+  "slug": "llm-based-impression-prediction-from-radiology-reports",
+  "name": "LLM-Based-Impression-Prediction-from-Radiology-Reports",
+  "tagline": "Employed Large Language Models to generate accurate wording for the \"impression\" section in the medical reports",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "fine-tuning",
+    "healthcare-ai",
+    "huggingface",
+    "llama",
+    "llm",
+    "lora",
+    "medical-nlp",
+    "medical-report-generation",
+    "mistral-7b"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "EllieZhangy",
+    "url": "https://github.com/EllieZhangy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "EllieZhangy/LLM-Based-Impression-Prediction-from-Radiology-Reports",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2023-12-02T17:10:51Z",
+    "first_commit_at": "2023-05-23T23:07:08Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2116,
+  "rank_in_category": 217,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-23T17:15:43.731635Z",
+  "last_refreshed_at": "2026-06-23T17:15:43.731638Z",
+  "consecutive_refresh_failures": 0
+}

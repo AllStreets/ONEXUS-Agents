@@ -5,8 +5,7 @@
   "category": "robotics",
   "tags": [
     "embodied-agent",
-    "robotic",
-    "vln"
+    "robotic"
   ],
   "author": {
     "type": "org",
@@ -17,17 +16,17 @@
     "primary": "github",
     "github": "HorizonRobotics/HoloAgent",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://horizonrobotics.github.io/robot_lab/holoagent/"
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 178,
+    "stars": 183,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-14T06:55:27Z",
+    "last_commit_at": "2026-06-23T07:22:41Z",
     "first_commit_at": "2025-11-07T03:31:24Z",
     "forks": 17,
-    "watchers": 7,
-    "open_issues": 2,
+    "watchers": 8,
+    "open_issues": 3,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -44,10 +43,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4775,
-  "rank_in_category": 106,
+  "composite_score": 0.5604,
+  "rank_in_category": 60,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:31:19.448878Z",
-  "last_refreshed_at": "2026-06-22T19:19:07.714321Z",
+  "last_refreshed_at": "2026-06-23T17:29:27.486570Z",
   "consecutive_refresh_failures": 0
 }

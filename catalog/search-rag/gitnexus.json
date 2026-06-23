@@ -17,13 +17,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 42426,
+    "stars": 42809,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-18T16:39:44Z",
+    "last_commit_at": "2026-06-23T15:54:46Z",
     "first_commit_at": "2026-01-03T17:30:55Z",
-    "forks": 4796,
+    "forks": 4818,
     "watchers": 148,
-    "open_issues": 261,
+    "open_issues": 264,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -38,12 +38,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4831,
-  "rank_in_category": 9,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4373,
+  "rank_in_category": 29,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:51:10.077531Z",
-  "last_refreshed_at": "2026-06-21T18:55:47.856932Z",
-  "consecutive_refresh_failures": 4
+  "last_refreshed_at": "2026-06-23T16:00:24.662884Z",
+  "consecutive_refresh_failures": 0
 }

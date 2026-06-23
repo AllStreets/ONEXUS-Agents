@@ -1,0 +1,62 @@
+{
+  "slug": "archetype-writer",
+  "name": "archetype-writer",
+  "tagline": "Brand-voiced writing skill for Claude Code and ChatGPT: 12 Jungian archetype personas, channel-aware copy, and editorial craft.",
+  "category": "content-writing",
+  "tags": [
+    "ai-writing",
+    "anthropic",
+    "archetypes",
+    "brand-voice",
+    "chatgpt",
+    "claude-code",
+    "claude-skill",
+    "content-writing",
+    "copywriting",
+    "editorial"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "freerk",
+    "url": "https://github.com/freerk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "freerk/archetype-writer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-23T10:30:31Z",
+    "first_commit_at": "2026-06-03T23:07:01Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4139,
+  "rank_in_category": 150,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-23T16:24:05.849703Z",
+  "last_refreshed_at": "2026-06-23T16:24:05.849706Z",
+  "consecutive_refresh_failures": 0
+}

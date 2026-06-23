@@ -1,29 +1,40 @@
 {
   "slug": "ai-travel-agent",
-  "name": "ai-travel-agent",
-  "tagline": "AI Travel Agent",
+  "name": "AI-TRAVEL-AGENT",
+  "tagline": "AI-powered travel itinerary planner built with LangChain, Groq Llama 3.3, Streamlit, Docker, Kubernetes, and ELK Stack for end-to-end deployment and observability.",
   "category": "travel-planning",
-  "tags": [],
+  "tags": [
+    "ai",
+    "devops",
+    "docker",
+    "elasticsearch",
+    "elk-stack",
+    "filebeat",
+    "gcp",
+    "groq",
+    "kibana",
+    "kubernetes"
+  ],
   "author": {
     "type": "user",
-    "handle": "nirbar1985",
-    "url": "https://github.com/nirbar1985"
+    "handle": "Anand-Velpuri",
+    "url": "https://github.com/Anand-Velpuri"
   },
   "source": {
     "primary": "github",
-    "github": "nirbar1985/ai-travel-agent",
+    "github": "Anand-Velpuri/AI-TRAVEL-AGENT",
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 772,
+    "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2025-08-21T11:33:21Z",
-    "first_commit_at": "2024-09-04T14:13:42Z",
-    "forks": 156,
-    "watchers": 9,
-    "open_issues": 2,
+    "last_commit_at": "2026-06-23T06:43:14Z",
+    "first_commit_at": "2026-06-20T08:03:28Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -35,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "langchain"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.505,
-  "rank_in_category": 25,
+  "composite_score": 0.4125,
+  "rank_in_category": 50,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-06T15:55:30.241559Z",
-  "last_refreshed_at": "2026-06-22T19:05:31.691891Z",
+  "first_seen_at": "2026-06-23T17:18:32.622060Z",
+  "last_refreshed_at": "2026-06-23T17:18:32.622063Z",
   "consecutive_refresh_failures": 0
 }
