@@ -1,0 +1,55 @@
+{
+  "slug": "webbrain",
+  "name": "webbrain",
+  "tagline": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "ai-tools",
+    "browser-extension",
+    "chrome-extension",
+    "firefox-addon"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "webbrain-one",
+    "url": "https://github.com/webbrain-one"
+  },
+  "source": {
+    "primary": "github",
+    "github": "webbrain-one/webbrain",
+    "huggingface": null,
+    "homepage": "https://webbrain.one/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 33,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-23T10:14:52Z",
+    "first_commit_at": "2026-04-06T15:17:01Z",
+    "forks": 11,
+    "watchers": 1,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3339,
+  "rank_in_category": 172,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-23T16:43:45.173045Z",
+  "last_refreshed_at": "2026-06-23T16:43:45.173047Z",
+  "consecutive_refresh_failures": 0
+}

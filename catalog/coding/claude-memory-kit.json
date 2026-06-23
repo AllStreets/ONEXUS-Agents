@@ -1,0 +1,63 @@
+{
+  "slug": "claude-memory-kit",
+  "name": "claude-memory-kit",
+  "tagline": "Your Claude Code agent that remembers across sessions — date-tagged memory, multi-project isolation, sandbox experiments, and audit-driven promotion via /close-day (auto-backfills missed days). Zero d",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "ai-tools",
+    "anthropic",
+    "audit-ritual",
+    "claude-code",
+    "claude-code-hooks",
+    "claude-code-memory",
+    "claude-code-template",
+    "claude-skills",
+    "context-engineering"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "awrshift",
+    "url": "https://github.com/awrshift"
+  },
+  "source": {
+    "primary": "github",
+    "github": "awrshift/claude-memory-kit",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-03T14:34:42Z",
+    "first_commit_at": "2026-03-26T10:32:50Z",
+    "forks": 6,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3048,
+  "rank_in_category": 438,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-23T16:17:01.743326Z",
+  "last_refreshed_at": "2026-06-23T16:17:01.743328Z",
+  "consecutive_refresh_failures": 0
+}

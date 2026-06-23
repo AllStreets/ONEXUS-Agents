@@ -1,7 +1,7 @@
 {
   "slug": "ctx",
   "name": "ctx",
-  "tagline": "Skill, agent, MCP, and harness recommendations for Claude Code/custom LLMs: 102,928-node LLM-wiki graph, 91,464 skills, 467 agents, 10,790 MCPs, 207 harnesses, and capped execution recommendations.",
+  "tagline": "Not a catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses per dev window, cutting token and compu",
   "category": "3d-cad",
   "tags": [
     "agents",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 522,
+    "stars": 525,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-21T16:31:23Z",
+    "last_commit_at": "2026-06-23T16:53:57Z",
     "first_commit_at": "2026-04-08T22:39:54Z",
-    "forks": 63,
+    "forks": 65,
     "watchers": 4,
-    "open_issues": 2,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.7289,
+  "composite_score": 0.7313,
   "rank_in_category": 2,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-08T18:43:45.697983Z",
-  "last_refreshed_at": "2026-06-21T16:33:58.574384Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-06-23T17:32:57.765707Z",
+  "consecutive_refresh_failures": 0
 }

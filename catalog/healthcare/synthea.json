@@ -1,0 +1,60 @@
+{
+  "slug": "synthea",
+  "name": "Synthea",
+  "tagline": "Citation-grounded clinical Q&A over synthetic FHIR records: RAG with per-sentence source citations, abstention on insufficient evidence, Presidio PHI redaction, and a CI-gated evaluation harness.",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "fastapi",
+    "fhir",
+    "grounding",
+    "healthcare",
+    "llm",
+    "llm-evaluation",
+    "nlp",
+    "pgvector",
+    "phi-deidentification"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AbhijeetP21",
+    "url": "https://github.com/AbhijeetP21"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AbhijeetP21/Synthea",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-12T19:10:58Z",
+    "first_commit_at": "2026-06-07T04:13:41Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3117,
+  "rank_in_category": 122,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-23T17:15:55.533531Z",
+  "last_refreshed_at": "2026-06-23T17:15:55.533534Z",
+  "consecutive_refresh_failures": 0
+}

@@ -3,7 +3,9 @@
   "name": "NAVA",
   "tagline": "Official Code of NAVA: Native Audio-Visual Alignment for Generation.",
   "category": "video-generation",
-  "tags": [],
+  "tags": [
+    "video-generation"
+  ],
   "author": {
     "type": "org",
     "handle": "ernie-research",
@@ -17,11 +19,11 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 199,
+    "stars": 201,
     "downloads_30d": null,
     "last_commit_at": "2026-06-15T10:16:37Z",
     "first_commit_at": "2026-05-25T19:27:06Z",
-    "forks": 22,
+    "forks": 23,
     "watchers": 3,
     "open_issues": 8,
     "archived": false,
@@ -40,10 +42,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3453,
-  "rank_in_category": 75,
+  "composite_score": 0.3449,
+  "rank_in_category": 76,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-08T17:38:34.465039Z",
-  "last_refreshed_at": "2026-06-22T18:24:05.030266Z",
+  "last_refreshed_at": "2026-06-23T16:35:12.160620Z",
   "consecutive_refresh_failures": 0
 }

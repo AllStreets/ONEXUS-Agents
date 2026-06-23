@@ -1,7 +1,7 @@
 {
   "slug": "open-multi-agent",
   "name": "open-multi-agent",
-  "tagline": "TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, GPT, Gemini, DeepSeek, or local models. Model-agnostic and MC",
+  "tagline": "TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, ChatGPT, Gemini, DeepSeek, or local models. ",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-framework",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 6420,
+    "stars": 6422,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-21T16:14:36Z",
+    "last_commit_at": "2026-06-23T02:49:50Z",
     "first_commit_at": "2026-03-31T20:33:15Z",
     "forks": 2399,
     "watchers": 61,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4977,
-  "rank_in_category": 36,
+  "composite_score": 0.4983,
+  "rank_in_category": 37,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-10T14:39:50.247521Z",
-  "last_refreshed_at": "2026-06-22T18:58:59.094367Z",
+  "last_refreshed_at": "2026-06-23T17:12:27.929070Z",
   "consecutive_refresh_failures": 0
 }

@@ -40,21 +40,24 @@
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 2,
+    "contributors_count": null,
     "releases_total": null,
     "latest_release_at": null,
-    "commits_90d": 2,
+    "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.2784,
-  "rank_in_category": 107,
+  "composite_score": 0.2928,
+  "rank_in_category": 90,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:19.051041Z",
-  "last_refreshed_at": "2026-06-14T18:52:06.496667Z",
-  "consecutive_refresh_failures": 16
+  "last_refreshed_at": "2026-06-23T16:08:08.718220Z",
+  "consecutive_refresh_failures": 0
 }

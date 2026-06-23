@@ -1,0 +1,62 @@
+{
+  "slug": "hands-on-ai-engineering",
+  "name": "Hands-On-AI-Engineering",
+  "tagline": "A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.",
+  "category": "document-processing",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "generative-ai",
+    "llms",
+    "mcp",
+    "ocr",
+    "python",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Sumanth077",
+    "url": "https://github.com/Sumanth077"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Sumanth077/Hands-On-AI-Engineering",
+    "huggingface": null,
+    "homepage": "https://aiengineering.beehiiv.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2469,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-22T10:22:35Z",
+    "first_commit_at": "2025-02-24T19:15:35Z",
+    "forks": 665,
+    "watchers": 21,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.7344,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-23T16:54:08.536569Z",
+  "last_refreshed_at": "2026-06-23T16:54:08.536572Z",
+  "consecutive_refresh_failures": 0
+}

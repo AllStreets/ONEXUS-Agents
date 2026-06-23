@@ -1,0 +1,59 @@
+{
+  "slug": "stock-analyst",
+  "name": "stock-analyst",
+  "tagline": "VYNN AI Agent Backend is a standalone agent execution system for financial analysis. It orchestrates LLM-based agents to scrape historical financial data, build valuation models, analyze real-time fin",
+  "category": "financial-modeling",
+  "tags": [
+    "agentic-ai",
+    "dcf-valuation",
+    "financial-modeling",
+    "langgraph",
+    "price-prediction",
+    "sentiment-analysis",
+    "tool-use"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Agentic-Analyst",
+    "url": "https://github.com/Agentic-Analyst"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Agentic-Analyst/stock-analyst",
+    "huggingface": null,
+    "homepage": "https://vynnai.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-20T03:29:58Z",
+    "first_commit_at": "2025-07-28T15:58:14Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3247,
+  "rank_in_category": 164,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-23T16:10:42.910627Z",
+  "last_refreshed_at": "2026-06-23T16:10:42.910629Z",
+  "consecutive_refresh_failures": 0
+}
