@@ -1,0 +1,49 @@
+{
+  "slug": "openingest",
+  "name": "OpenIngest",
+  "tagline": "Production grade Document AI workflows run on Tensorlake",
+  "category": "document-processing",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "tensorlakeai",
+    "url": "https://github.com/tensorlakeai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tensorlakeai/OpenIngest",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-21T01:37:36Z",
+    "first_commit_at": "2026-05-14T04:38:11Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4424,
+  "rank_in_category": 137,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-24T16:28:23.607597Z",
+  "last_refreshed_at": "2026-06-24T16:28:23.607600Z",
+  "consecutive_refresh_failures": 0
+}

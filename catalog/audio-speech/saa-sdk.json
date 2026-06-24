@@ -1,0 +1,60 @@
+{
+  "slug": "saa-sdk",
+  "name": "saa-sdk",
+  "tagline": "The addressee layer for voice agents: only speech meant for your agent reaches your STT, LLM, or TTS, on any stack.",
+  "category": "audio-speech",
+  "tags": [
+    "addressee-detection",
+    "elevenlabs",
+    "livekit",
+    "llm",
+    "pipecat",
+    "realtime",
+    "speech-recognition",
+    "turn-detection",
+    "twilio",
+    "voice-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "attenlabs",
+    "url": "https://github.com/attenlabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "attenlabs/saa-sdk",
+    "huggingface": null,
+    "homepage": "https://attentionlabs.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 103,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-24T13:52:42Z",
+    "first_commit_at": "2026-05-18T14:12:35Z",
+    "forks": 85,
+    "watchers": 2,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5265,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-24T16:16:42.316279Z",
+  "last_refreshed_at": "2026-06-24T16:16:42.316282Z",
+  "consecutive_refresh_failures": 0
+}

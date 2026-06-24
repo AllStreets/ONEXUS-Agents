@@ -1,7 +1,7 @@
 {
   "slug": "environmental-ai-healthcare-system",
   "name": "Environmental_AI_Healthcare_System",
-  "tagline": "AI-powered environmental health risk detection system using CNN image analysis and RAG-based health guidance.",
+  "tagline": "AI-powered environmental health risk assessment platform that combines EfficientNet-based image classification with Retrieval-Augmented Generation (RAG) to identify environmental hazards, predict asso",
   "category": "healthcare",
   "tags": [
     "ai-healthcare",
@@ -27,7 +27,7 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1,
+    "stars": 2,
     "downloads_30d": null,
     "last_commit_at": "2026-04-14T11:06:07Z",
     "first_commit_at": "2026-03-04T06:44:49Z",
@@ -50,10 +50,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.239,
-  "rank_in_category": 193,
+  "composite_score": 0.25,
+  "rank_in_category": 180,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:54:16.869679Z",
-  "last_refreshed_at": "2026-06-12T17:26:04.721617Z",
-  "consecutive_refresh_failures": 11
+  "last_refreshed_at": "2026-06-24T16:46:35.363329Z",
+  "consecutive_refresh_failures": 0
 }

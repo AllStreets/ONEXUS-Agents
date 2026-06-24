@@ -1,0 +1,49 @@
+{
+  "slug": "my-harness",
+  "name": "my_harness",
+  "tagline": "복잡한 작업을 한 개의 거대한 프롬프트로 처리하면 컨텍스트가 오염되고, 같은 맹점을 반복하고, 재사용이 안 됩니다. myharness는 그 작업을 역할이 분리된 전문 에이전트 팀 + 절차가 담긴 스킬 + 이들을 엮는 오케스트레이터로 분해해 생성합니다. ",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "cookyman74",
+    "url": "https://github.com/cookyman74"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cookyman74/my_harness",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 52,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-24T08:24:19Z",
+    "first_commit_at": "2026-06-10T06:17:28Z",
+    "forks": 12,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3172,
+  "rank_in_category": 437,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-24T15:38:58.476225Z",
+  "last_refreshed_at": "2026-06-24T15:38:58.476229Z",
+  "consecutive_refresh_failures": 0
+}
