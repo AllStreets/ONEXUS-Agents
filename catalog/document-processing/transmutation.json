@@ -1,0 +1,57 @@
+{
+  "slug": "transmutation",
+  "name": "transmutation",
+  "tagline": "Transmutation is a Rust-based document conversion module designed to transform various file formats into optimized text and image outputs suitable for LLM processing and vector embeddings. Built as a ",
+  "category": "document-processing",
+  "tags": [
+    "audio",
+    "docx",
+    "image",
+    "markdown",
+    "pdf",
+    "pptx",
+    "rust"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "hivellm",
+    "url": "https://github.com/hivellm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hivellm/transmutation",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 31,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-18T20:57:28Z",
+    "first_commit_at": "2025-10-12T05:24:21Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4617,
+  "rank_in_category": 124,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-24T16:27:31.215889Z",
+  "last_refreshed_at": "2026-06-24T16:27:31.215892Z",
+  "consecutive_refresh_failures": 0
+}

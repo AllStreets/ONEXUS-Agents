@@ -1,0 +1,55 @@
+{
+  "slug": "sceneconductor",
+  "name": "SceneConductor",
+  "tagline": "SceneConductor: 3D Scene Generation from Single Image with Multi-Agent Orchestration",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "layout-generation",
+    "mesh",
+    "multi-agent",
+    "multi-agent-orchestration",
+    "scene-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jhkim0759",
+    "url": "https://github.com/jhkim0759"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jhkim0759/SceneConductor",
+    "huggingface": null,
+    "homepage": "https://jhkim0759.github.io/projects/SceneConductor/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-23T16:57:07Z",
+    "first_commit_at": "2026-06-07T03:07:57Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2907,
+  "rank_in_category": 500,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-24T16:42:58.832742Z",
+  "last_refreshed_at": "2026-06-24T16:42:58.832746Z",
+  "consecutive_refresh_failures": 0
+}

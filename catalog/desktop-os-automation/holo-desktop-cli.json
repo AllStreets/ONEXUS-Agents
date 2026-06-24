@@ -1,29 +1,29 @@
 {
-  "slug": "devnet-content-search-mcp",
-  "name": "devnet-content-search-mcp",
-  "tagline": "MCP server enabling IDE agents to semantically search Cisco product API documentation hosted on DevNet. ",
-  "category": "coding",
+  "slug": "holo-desktop-cli",
+  "name": "holo-desktop-cli",
+  "tagline": "Desktop agent built on H Company's Holo3 vision-language models",
+  "category": "desktop-os-automation",
   "tags": [],
   "author": {
     "type": "org",
-    "handle": "CiscoDevNet",
-    "url": "https://github.com/CiscoDevNet"
+    "handle": "hcompai",
+    "url": "https://github.com/hcompai"
   },
   "source": {
     "primary": "github",
-    "github": "CiscoDevNet/devnet-content-search-mcp",
+    "github": "hcompai/holo-desktop-cli",
     "huggingface": null,
     "homepage": null
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 7,
+    "stars": 13,
     "downloads_30d": null,
-    "last_commit_at": "2026-03-20T21:10:00Z",
-    "first_commit_at": "2025-11-14T20:19:00Z",
-    "forks": 5,
+    "last_commit_at": "2026-06-22T15:46:26Z",
+    "first_commit_at": "2026-06-19T07:23:20Z",
+    "forks": 1,
     "watchers": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2003,
-  "rank_in_category": 743,
+  "composite_score": 0.2866,
+  "rank_in_category": 214,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-23T15:53:51.562969Z",
-  "last_refreshed_at": "2026-06-23T15:53:51.562972Z",
+  "first_seen_at": "2026-06-24T16:24:13.887213Z",
+  "last_refreshed_at": "2026-06-24T16:24:13.887216Z",
   "consecutive_refresh_failures": 0
 }

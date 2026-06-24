@@ -1,0 +1,60 @@
+{
+  "slug": "metaclaw",
+  "name": "MetaClaw",
+  "tagline": "🦞 Just talk to your agent — it learns and EVOLVES 🧬.",
+  "category": "scientific-research",
+  "tags": [
+    "agent",
+    "ai-agent",
+    "continual-learning",
+    "fine-tuning",
+    "llm",
+    "lora",
+    "meta-learning",
+    "metaclaw",
+    "online-learning",
+    "openclaw"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aiming-lab",
+    "url": "https://github.com/aiming-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aiming-lab/MetaClaw",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2603.17187"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3441,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-07T04:57:05Z",
+    "first_commit_at": "2026-03-09T13:49:20Z",
+    "forks": 442,
+    "watchers": 26,
+    "open_issues": 17,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.623,
+  "rank_in_category": 52,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T10:16:12.929922Z",
+  "last_refreshed_at": "2026-06-24T16:34:50.809200Z",
+  "consecutive_refresh_failures": 0
+}
