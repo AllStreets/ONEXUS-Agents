@@ -1,6 +1,6 @@
 {
   "slug": "aqueduct",
-  "name": "aqueduct",
+  "name": "Aqueduct",
   "tagline": "LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating data pipeline workflows for ETL and analytics tasks. Open-source, MIT licensed.",
   "category": "data-engineering",
   "tags": [
@@ -20,17 +20,17 @@
   },
   "source": {
     "primary": "github",
-    "github": "JohnnyQ-commits/aqueduct",
+    "github": "JohnnyQ-commits/Aqueduct",
     "huggingface": null,
     "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 11,
+    "stars": 12,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T14:27:41Z",
+    "last_commit_at": "2026-06-25T06:26:22Z",
     "first_commit_at": "2026-06-14T11:25:55Z",
-    "forks": 1,
+    "forks": 2,
     "watchers": 1,
     "open_issues": 0,
     "archived": false,
@@ -47,12 +47,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4876,
-  "rank_in_category": 89,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.446,
+  "rank_in_category": 94,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-16T18:19:10.041558Z",
-  "last_refreshed_at": "2026-06-24T15:47:49.255071Z",
+  "first_seen_at": "2026-06-25T15:57:27.334766Z",
+  "last_refreshed_at": "2026-06-25T15:57:27.334769Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,60 @@
+{
+  "slug": "opencode-nvim",
+  "name": "opencode.nvim",
+  "tagline": "Integrate Neovim and OpenCode to stay in your familiar flow.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-assistant",
+    "lua",
+    "neovim",
+    "neovim-plugin",
+    "nvim",
+    "opencode",
+    "plugin",
+    "terminal"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nickjvandyke",
+    "url": "https://github.com/nickjvandyke"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nickjvandyke/opencode.nvim",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3599,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-25T01:29:48Z",
+    "first_commit_at": "2025-07-12T14:19:47Z",
+    "forks": 140,
+    "watchers": 7,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3684,
+  "rank_in_category": 234,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-25T15:51:13.690176Z",
+  "last_refreshed_at": "2026-06-25T15:51:13.690179Z",
+  "consecutive_refresh_failures": 0
+}

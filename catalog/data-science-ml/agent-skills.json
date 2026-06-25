@@ -1,0 +1,49 @@
+{
+  "slug": "agent-skills",
+  "name": "agent-skills",
+  "tagline": "Public repository for Datadog Agent Skills",
+  "category": "data-science-ml",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "datadog-labs",
+    "url": "https://github.com/datadog-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "datadog-labs/agent-skills",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 136,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T07:17:54Z",
+    "first_commit_at": "2026-02-03T17:44:29Z",
+    "forks": 13,
+    "watchers": 3,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.301,
+  "rank_in_category": 89,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-25T16:02:16.781723Z",
+  "last_refreshed_at": "2026-06-25T16:02:16.781727Z",
+  "consecutive_refresh_failures": 0
+}
