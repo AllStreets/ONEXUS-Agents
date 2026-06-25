@@ -1,0 +1,56 @@
+{
+  "slug": "merchant-agent",
+  "name": "merchant-agent",
+  "tagline": "AI 驱动的电商全流程自动化系统。选品、上架、客服、运营分析、货源筛选，基于 DeepSeek V4 + Ollama   混合模型路由，自驱型 ReAct Agent 框架",
+  "category": "web-dev",
+  "tags": [
+    "deepseek-v4",
+    "ecommerce-agent",
+    "llm",
+    "ollama",
+    "rag",
+    "react-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yyf2002-oos",
+    "url": "https://github.com/yyf2002-oos"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yyf2002-oos/merchant-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T13:59:10Z",
+    "first_commit_at": "2026-05-28T14:37:40Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3217,
+  "rank_in_category": 326,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-25T15:52:16.189119Z",
+  "last_refreshed_at": "2026-06-25T15:52:16.189123Z",
+  "consecutive_refresh_failures": 0
+}

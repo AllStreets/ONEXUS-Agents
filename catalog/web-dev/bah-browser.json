@@ -1,0 +1,60 @@
+{
+  "slug": "bah-browser",
+  "name": "bah-browser",
+  "tagline": "Bah — navegador com IA (estilo Perplexity Comet), por VilelaLab. Comandos em linguagem natural operam o navegador. Electron + React + DeepSeek/Ollama.",
+  "category": "web-dev",
+  "tags": [
+    "ai-agent",
+    "browser-automation",
+    "comet",
+    "deepseek",
+    "electron",
+    "llm",
+    "ollama",
+    "react",
+    "typescript",
+    "web-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "alexvilelabah",
+    "url": "https://github.com/alexvilelabah"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alexvilelabah/bah-browser",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 28,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-25T07:24:35Z",
+    "first_commit_at": "2026-06-19T00:35:26Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3932,
+  "rank_in_category": 247,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-25T15:51:42.554368Z",
+  "last_refreshed_at": "2026-06-25T15:51:42.554371Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,32 +1,29 @@
 {
   "slug": "awesome-mcp-servers",
   "name": "awesome-mcp-servers",
-  "tagline": "A collection of MCP servers.",
+  "tagline": "A curated list of Model Context Protocol (MCP) servers",
   "category": "multi-agent-orchestration",
-  "tags": [
-    "ai",
-    "mcp"
-  ],
+  "tags": [],
   "author": {
     "type": "user",
-    "handle": "punkpeye",
-    "url": "https://github.com/punkpeye"
+    "handle": "wong2",
+    "url": "https://github.com/wong2"
   },
   "source": {
     "primary": "github",
-    "github": "punkpeye/awesome-mcp-servers",
+    "github": "wong2/awesome-mcp-servers",
     "huggingface": null,
-    "homepage": "https://glama.ai/mcp/servers"
+    "homepage": "https://mcpservers.org/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 89414,
+    "stars": 4182,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-18T16:09:14Z",
-    "first_commit_at": "2024-11-30T05:03:33Z",
-    "forks": 11776,
-    "watchers": 31,
-    "open_issues": 1460,
+    "last_commit_at": "2026-06-13T03:35:37Z",
+    "first_commit_at": "2024-11-28T12:27:46Z",
+    "forks": 1533,
+    "watchers": 47,
+    "open_issues": 37,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,10 +42,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.567,
-  "rank_in_category": 4,
+  "composite_score": 0.5127,
+  "rank_in_category": 21,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:46:50.764150Z",
-  "last_refreshed_at": "2026-06-18T16:33:36.022018Z",
-  "consecutive_refresh_failures": 6
+  "first_seen_at": "2026-06-06T09:51:53.868345Z",
+  "last_refreshed_at": "2026-06-25T15:56:38.709040Z",
+  "consecutive_refresh_failures": 0
 }
