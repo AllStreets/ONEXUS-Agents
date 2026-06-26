@@ -1,0 +1,53 @@
+{
+  "slug": "roll",
+  "name": "ROLL",
+  "tagline": "An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models",
+  "category": "reasoning-math",
+  "tags": [
+    "agentic",
+    "rlhf",
+    "rlvr"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "alibaba",
+    "url": "https://github.com/alibaba"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alibaba/ROLL",
+    "huggingface": null,
+    "homepage": "https://alibaba.github.io/ROLL/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3270,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-26T07:52:18Z",
+    "first_commit_at": "2025-05-30T08:17:46Z",
+    "forks": 292,
+    "watchers": 15,
+    "open_issues": 114,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4069,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:58.547274Z",
+  "last_refreshed_at": "2026-06-26T15:41:26.528174Z",
+  "consecutive_refresh_failures": 0
+}

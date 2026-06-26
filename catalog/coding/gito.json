@@ -10,10 +10,10 @@
     "ai-code-reviewer",
     "ai-coding",
     "ai-coding-assistant",
+    "ai-coding-tools",
     "code-analysis",
     "code-audit",
-    "code-quality",
-    "code-review"
+    "code-quality"
   ],
   "author": {
     "type": "user",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 374,
+    "stars": 375,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T19:25:41Z",
+    "last_commit_at": "2026-06-26T09:49:06Z",
     "first_commit_at": "2025-04-30T10:49:13Z",
     "forks": 30,
     "watchers": 8,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3375,
-  "rank_in_category": 320,
+  "composite_score": 0.3382,
+  "rank_in_category": 316,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:23:37.724576Z",
-  "last_refreshed_at": "2026-06-25T15:44:21.347890Z",
+  "last_refreshed_at": "2026-06-26T15:25:12.072621Z",
   "consecutive_refresh_failures": 0
 }

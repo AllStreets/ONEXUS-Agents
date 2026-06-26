@@ -1,0 +1,57 @@
+{
+  "slug": "openreview-cli",
+  "name": "openreview-cli",
+  "tagline": "Privacy-first contract review CLI. Compare contracts against per-client playbooks. Local LLMs by default, your API keys as fallback.",
+  "category": "legal-research",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agents",
+    "cli",
+    "contract-analysis",
+    "contract-review",
+    "legal-tech"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mohamed-benoughidene",
+    "url": "https://github.com/mohamed-benoughidene"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mohamed-benoughidene/openreview-cli",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-26T15:36:52Z",
+    "first_commit_at": "2026-06-23T15:29:17Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2216,
+  "rank_in_category": 130,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-26T15:50:24.642315Z",
+  "last_refreshed_at": "2026-06-26T15:50:24.642318Z",
+  "consecutive_refresh_failures": 0
+}

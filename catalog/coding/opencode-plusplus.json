@@ -1,7 +1,7 @@
 {
   "slug": "opencode-plusplus",
   "name": "opencode-plusplus",
-  "tagline": "OpenCode++：面向 OpenCode 的 AI 编程可靠性增强框架，为其增加上下文管理、编辑边界、命令证据、验证门禁、影响分析与修复闭环能力。OpenCode++: a Coding Agent Reliability Harness for OpenCode, adding context, edit boundaries, command evidence, verification ",
+  "tagline": "OpenCode++: a Coding Agent Reliability Harness for OpenCode, adding context, edit boundaries, command evidence, verification gates, impact analysis, and repair loops.OpenCode++：面向 OpenCode 的 AI 编程可靠性增",
   "category": "coding",
   "tags": [
     "agent",
@@ -28,7 +28,7 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 107,
+    "stars": 106,
     "downloads_30d": null,
     "last_commit_at": "2026-06-25T14:54:13Z",
     "first_commit_at": "2026-05-24T08:48:59Z",
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3484,
-  "rank_in_category": 295,
+  "composite_score": 0.3474,
+  "rank_in_category": 296,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-19T16:00:57.554370Z",
-  "last_refreshed_at": "2026-06-25T15:44:35.049988Z",
+  "last_refreshed_at": "2026-06-26T15:25:27.548848Z",
   "consecutive_refresh_failures": 0
 }

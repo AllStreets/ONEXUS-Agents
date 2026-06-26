@@ -1,0 +1,52 @@
+{
+  "slug": "agentteams",
+  "name": "AgentTeams",
+  "tagline": "An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-teams",
+    "openclaw"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agentscope-ai",
+    "url": "https://github.com/agentscope-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agentscope-ai/AgentTeams",
+    "huggingface": null,
+    "homepage": "https://hiclaw.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4935,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-26T05:57:46Z",
+    "first_commit_at": "2026-02-13T04:54:18Z",
+    "forks": 583,
+    "watchers": 30,
+    "open_issues": 281,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.425,
+  "rank_in_category": 167,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-26T15:31:54.808179Z",
+  "last_refreshed_at": "2026-06-26T15:31:54.808182Z",
+  "consecutive_refresh_failures": 0
+}
