@@ -1,0 +1,59 @@
+{
+  "slug": "tg-customer-support-plugin",
+  "name": "tg-customer-support-plugin",
+  "tagline": "Local-first Telegram support agent for Codex and Claude. Index Telegram, docs, and repo evidence locally; draft replies; post only after operator confirmation.",
+  "category": "customer-support",
+  "tags": [
+    "ai-agent",
+    "claude-plugin",
+    "claude-skills",
+    "codex-plugin",
+    "codex-skill",
+    "customer-support-ai",
+    "support-agent",
+    "telegram",
+    "telegram-bot-with-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "igorrendulic",
+    "url": "https://github.com/igorrendulic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "igorrendulic/tg-customer-support-plugin",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-26T15:40:00Z",
+    "first_commit_at": "2026-06-25T18:17:11Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.39,
+  "rank_in_category": 160,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-26T15:54:08.056434Z",
+  "last_refreshed_at": "2026-06-26T15:54:08.056462Z",
+  "consecutive_refresh_failures": 0
+}
