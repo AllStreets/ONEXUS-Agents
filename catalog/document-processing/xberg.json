@@ -1,0 +1,60 @@
+{
+  "slug": "xberg",
+  "name": "xberg",
+  "tagline": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python",
+  "category": "document-processing",
+  "tags": [
+    "bun",
+    "csharp",
+    "document-intelligence",
+    "elixir",
+    "ffi",
+    "golang",
+    "java",
+    "metadata-extraction",
+    "node",
+    "pdf-extraction"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "xberg-io",
+    "url": "https://github.com/xberg-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xberg-io/xberg",
+    "huggingface": null,
+    "homepage": "https://docs.xberg.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8563,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-27T14:10:20Z",
+    "first_commit_at": "2025-01-31T21:47:37Z",
+    "forks": 506,
+    "watchers": 29,
+    "open_issues": 20,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6854,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-27T14:34:24.590775Z",
+  "last_refreshed_at": "2026-06-27T14:34:24.590778Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,40 +1,29 @@
 {
   "slug": "awesome-autoresearch",
   "name": "awesome-autoresearch",
-  "tagline": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
+  "tagline": "awesome autoresearch list",
   "category": "scientific-research",
-  "tags": [
-    "agentic-systems",
-    "ai-agents",
-    "ai-research",
-    "ai-tools",
-    "autonomous-agents",
-    "autoresearch",
-    "awesome-list",
-    "claude-code",
-    "experiment-loops",
-    "karpathy"
-  ],
+  "tags": [],
   "author": {
-    "type": "org",
-    "handle": "webfuse-com",
-    "url": "https://github.com/webfuse-com"
+    "type": "user",
+    "handle": "yibie",
+    "url": "https://github.com/yibie"
   },
   "source": {
     "primary": "github",
-    "github": "webfuse-com/awesome-autoresearch",
+    "github": "yibie/awesome-autoresearch",
     "huggingface": null,
-    "homepage": "https://www.webfuse.com/autoresearch"
+    "homepage": null
   },
-  "license": "NOASSERTION",
+  "license": "Unknown",
   "metrics": {
-    "stars": 2271,
+    "stars": 576,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-22T08:18:54Z",
-    "first_commit_at": "2026-06-18T12:24:51Z",
-    "forks": 172,
-    "watchers": 9,
-    "open_issues": 6,
+    "last_commit_at": "2026-06-27T09:59:42Z",
+    "first_commit_at": "2026-03-31T15:28:05Z",
+    "forks": 40,
+    "watchers": 4,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.605,
-  "rank_in_category": 72,
+  "composite_score": 0.5504,
+  "rank_in_category": 118,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-26T15:43:42.873992Z",
-  "last_refreshed_at": "2026-06-26T15:43:42.873995Z",
+  "first_seen_at": "2026-06-06T09:47:42.760024Z",
+  "last_refreshed_at": "2026-06-27T14:33:50.980796Z",
   "consecutive_refresh_failures": 0
 }
