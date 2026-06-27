@@ -1,0 +1,59 @@
+{
+  "slug": "local-studio",
+  "name": "local-studio",
+  "tagline": "Control panel for VLLM, Sglang, llama.cpp, exllamav3",
+  "category": "devops-sre",
+  "tags": [
+    "ai",
+    "exllama",
+    "hosting",
+    "llamacpp",
+    "local",
+    "local-ai",
+    "self",
+    "sglang",
+    "vllm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sybil-solutions",
+    "url": "https://github.com/sybil-solutions"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sybil-solutions/local-studio",
+    "huggingface": null,
+    "homepage": "https://sybilsolutions.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1249,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-26T22:05:26Z",
+    "first_commit_at": "2025-12-18T18:03:44Z",
+    "forks": 99,
+    "watchers": 5,
+    "open_issues": 43,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5314,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-27T14:38:39.222067Z",
+  "last_refreshed_at": "2026-06-27T14:38:39.222070Z",
+  "consecutive_refresh_failures": 0
+}

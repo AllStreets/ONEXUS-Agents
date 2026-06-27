@@ -1,19 +1,19 @@
 {
   "slug": "jurisd",
   "name": "jurisd",
-  "tagline": "jurisd (formerly auslaw-mcp) is a local‑first agentic legal research workbench for Australian and New Zealand legislation and case law, with GraphRAG, semantic search over locally embedded corpora, de",
+  "tagline": " jurisd (formerly auslaw-mcp) is a local-first MCP server and CLI giving any AI agent grounded Australian and New Zealand legal research: AustLII and jade.io retrieval with resilient fallback, determi",
   "category": "legal-research",
   "tags": [
     "agentic-ai",
     "agentic-coding",
     "aglc4",
-    "auslaw-mcp",
     "austlii",
     "australia",
     "case-law",
     "citation-management",
+    "claude",
     "claude-code",
-    "command-line-tool"
+    "codex"
   ],
   "author": {
     "type": "user",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 24,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-22T13:08:27Z",
+    "last_commit_at": "2026-06-27T13:13:14Z",
     "first_commit_at": "2025-10-09T01:25:02Z",
     "forks": 8,
     "watchers": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2853,
-  "rank_in_category": 72,
+  "composite_score": 0.2893,
+  "rank_in_category": 70,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-22T18:09:11.673368Z",
-  "last_refreshed_at": "2026-06-26T15:53:02.799966Z",
+  "last_refreshed_at": "2026-06-27T14:52:03.434887Z",
   "consecutive_refresh_failures": 0
 }

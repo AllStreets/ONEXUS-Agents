@@ -1,7 +1,7 @@
 {
   "slug": "corecoder",
   "name": "CoreCoder",
-  "tagline": "Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.",
+  "tagline": "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.",
   "category": "coding",
   "tags": [
     "ai-agent",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1306,
+    "stars": 1360,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-23T10:40:56Z",
+    "last_commit_at": "2026-06-27T09:42:27Z",
     "first_commit_at": "2026-04-01T19:54:43Z",
-    "forks": 298,
+    "forks": 306,
     "watchers": 16,
-    "open_issues": 2,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3486,
-  "rank_in_category": 292,
+  "composite_score": 0.3372,
+  "rank_in_category": 321,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:18:42.212888Z",
-  "last_refreshed_at": "2026-06-26T15:24:28.717429Z",
+  "last_refreshed_at": "2026-06-27T14:29:39.643764Z",
   "consecutive_refresh_failures": 0
 }

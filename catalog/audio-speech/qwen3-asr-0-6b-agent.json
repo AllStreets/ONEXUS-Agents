@@ -1,0 +1,60 @@
+{
+  "slug": "qwen3-asr-0-6b-agent",
+  "name": "Qwen3-ASR-0.6B-Agent",
+  "tagline": "Luigi/Qwen3-ASR-0.6B-Agent — audio-text-to-text",
+  "category": "audio-speech",
+  "tags": [
+    "peft",
+    "safetensors",
+    "audio",
+    "agent",
+    "tool-calling",
+    "function-calling",
+    "speech",
+    "lora",
+    "audio-text-to-text",
+    "zh"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Luigi",
+    "url": "https://huggingface.co/Luigi"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "Luigi/Qwen3-ASR-0.6B-Agent",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-06-27T13:40:32Z",
+    "first_commit_at": "2026-06-27T05:45:46Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "peft",
+    "pipeline_tag": "audio-text-to-text",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4244,
+  "rank_in_category": 125,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-27T14:54:22.465101Z",
+  "last_refreshed_at": "2026-06-27T14:54:22.465104Z",
+  "consecutive_refresh_failures": 0
+}
