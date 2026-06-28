@@ -1,7 +1,7 @@
 {
   "slug": "codeburn",
   "name": "codeburn",
-  "tagline": "See where your AI spend goes. Interactive TUI dashboard for token usage and cost across Claude Code, Codex, Cursor, and 25+ more AI tools. npx codeburn",
+  "tagline": "Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn",
   "category": "coding",
   "tags": [
     "ai-coding",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 8288,
+    "stars": 8307,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-25T23:16:57Z",
+    "last_commit_at": "2026-06-27T14:58:31Z",
     "first_commit_at": "2026-04-13T22:10:27Z",
     "forks": 649,
     "watchers": 25,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3755,
-  "rank_in_category": 215,
+  "composite_score": 0.3762,
+  "rank_in_category": 211,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:20:38.902255Z",
-  "last_refreshed_at": "2026-06-27T14:31:12.059149Z",
+  "last_refreshed_at": "2026-06-28T14:49:57.966543Z",
   "consecutive_refresh_failures": 0
 }

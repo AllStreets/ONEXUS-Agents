@@ -1,0 +1,49 @@
+{
+  "slug": "agent-sandbox-skill",
+  "name": "agent-sandbox-skill",
+  "tagline": "An agent skill for managing isolated execution environments",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "disler",
+    "url": "https://github.com/disler"
+  },
+  "source": {
+    "primary": "github",
+    "github": "disler/agent-sandbox-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 377,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-29T18:57:46Z",
+    "first_commit_at": "2025-11-22T20:30:05Z",
+    "forks": 97,
+    "watchers": 3,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2276,
+  "rank_in_category": 686,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:30.359630Z",
+  "last_refreshed_at": "2026-06-28T15:03:57.598951Z",
+  "consecutive_refresh_failures": 0
+}
