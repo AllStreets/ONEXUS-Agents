@@ -1,7 +1,7 @@
 {
   "slug": "pydantic-deepagents",
   "name": "pydantic-deepagents",
-  "tagline": "Build Claude Code–style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, and unlimited context — all on Pydantic AI.",
+  "tagline": "Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on Pyd",
   "category": "coding",
   "tags": [
     "agent-framework",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 900,
+    "stars": 902,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-27T13:03:21Z",
+    "last_commit_at": "2026-06-27T15:27:43Z",
     "first_commit_at": "2025-11-29T15:55:09Z",
     "forks": 102,
     "watchers": 10,
-    "open_issues": 5,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4141,
-  "rank_in_category": 124,
+  "composite_score": 0.4133,
+  "rank_in_category": 126,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:18:38.148172Z",
-  "last_refreshed_at": "2026-06-27T14:29:44.066227Z",
+  "last_refreshed_at": "2026-06-28T14:48:37.109251Z",
   "consecutive_refresh_failures": 0
 }

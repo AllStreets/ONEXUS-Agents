@@ -1,42 +1,49 @@
 {
   "slug": "awesome-ai-agents",
-  "name": "awesome-ai-agents",
-  "tagline": "This curated list focuses on tools and frameworks for building AI agents",
+  "name": "awesome_ai_agents",
+  "tagline": "🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.",
   "category": "web-dev",
   "tags": [
+    "agent-based-modeling",
+    "agentic",
+    "agentic-ai",
+    "agentic-workflow",
     "agents",
-    "ai-agents",
-    "llm-agents"
+    "ai",
+    "ai-agent",
+    "ai-agent-framework",
+    "ai-agent-tools",
+    "ai-agents-cli"
   ],
   "author": {
     "type": "user",
-    "handle": "korchasa",
-    "url": "https://github.com/korchasa"
+    "handle": "jim-schwoebel",
+    "url": "https://github.com/jim-schwoebel"
   },
   "source": {
     "primary": "github",
-    "github": "korchasa/awesome-ai-agents",
+    "github": "jim-schwoebel/awesome_ai_agents",
     "huggingface": null,
-    "homepage": "http://awesome-ai-agents.korchasa.dev/"
+    "homepage": "https://agents.blog/"
   },
-  "license": "CC0-1.0",
+  "license": "Apache-2.0",
   "metrics": {
-    "stars": 35,
+    "stars": 1865,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-01T04:50:46Z",
-    "first_commit_at": "2025-02-19T15:25:49Z",
-    "forks": 17,
-    "watchers": 4,
-    "open_issues": 10,
+    "last_commit_at": "2026-03-28T08:28:51Z",
+    "first_commit_at": "2025-01-03T22:37:37Z",
+    "forks": 583,
+    "watchers": 28,
+    "open_issues": 160,
     "archived": false,
     "is_fork": false,
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 2,
+    "contributors_count": null,
     "releases_total": null,
     "latest_release_at": null,
-    "commits_90d": 13,
+    "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
     "frameworks": []
@@ -44,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4319,
-  "rank_in_category": 201,
+  "composite_score": 0.4938,
+  "rank_in_category": 136,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:51:30.899719Z",
-  "last_refreshed_at": "2026-06-14T18:50:46.961654Z",
-  "consecutive_refresh_failures": 21
+  "first_seen_at": "2026-06-28T14:57:14.420939Z",
+  "last_refreshed_at": "2026-06-28T14:57:14.420942Z",
+  "consecutive_refresh_failures": 0
 }
