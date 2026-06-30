@@ -1,0 +1,60 @@
+{
+  "slug": "trade-agent",
+  "name": "trade-agent",
+  "tagline": "🤖 Modular AI trading agent — LLM analyzes market+news+indicators → decision → execution. 100+ exchanges, 7 plugins, paper-mode default, 39 tests at 100%.",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-trading",
+    "algorithmic-trading",
+    "binance",
+    "bybit",
+    "ccxt",
+    "crypto",
+    "llm",
+    "paper-trading",
+    "plugin-architecture",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mocasus",
+    "url": "https://github.com/mocasus"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mocasus/trade-agent",
+    "huggingface": null,
+    "homepage": "https://github.com/mocasus/trade-agent#quick-start"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-30T01:07:59Z",
+    "first_commit_at": "2026-06-29T08:22:33Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3516,
+  "rank_in_category": 135,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-30T15:52:58.428785Z",
+  "last_refreshed_at": "2026-06-30T15:52:58.428788Z",
+  "consecutive_refresh_failures": 0
+}
