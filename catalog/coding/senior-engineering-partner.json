@@ -1,0 +1,62 @@
+{
+  "slug": "senior-engineering-partner",
+  "name": "senior-engineering-partner",
+  "tagline": "A stack-agnostic Claude Code skill: strict code reviewer, pair programmer, debugger, and mentor (Python/Bash/Apps Script/JS). Security-first, phase-aware engineering discipline with a spec→plan→TDD→ve",
+  "category": "coding",
+  "tags": [
+    "ai-agents",
+    "anthropic",
+    "bash",
+    "claude-code",
+    "claude-code-skill",
+    "claude-skill",
+    "code-review",
+    "developer-tools",
+    "pair-programming",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "bjgreenberg",
+    "url": "https://github.com/bjgreenberg"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bjgreenberg/senior-engineering-partner",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 33,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-01T15:40:36Z",
+    "first_commit_at": "2026-06-26T03:57:08Z",
+    "forks": 3,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2674,
+  "rank_in_category": 577,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-01T15:49:10.625451Z",
+  "last_refreshed_at": "2026-07-01T15:49:10.625454Z",
+  "consecutive_refresh_failures": 0
+}
