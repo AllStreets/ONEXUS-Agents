@@ -1,0 +1,62 @@
+{
+  "slug": "open-webui",
+  "name": "open-webui",
+  "tagline": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "llm",
+    "llm-ui",
+    "llm-webui",
+    "llms",
+    "mcp",
+    "ollama",
+    "ollama-webui",
+    "open-webui",
+    "openai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "open-webui",
+    "url": "https://github.com/open-webui"
+  },
+  "source": {
+    "primary": "github",
+    "github": "open-webui/open-webui",
+    "huggingface": null,
+    "homepage": "https://openwebui.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 143692,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-01T08:41:05Z",
+    "first_commit_at": "2023-10-06T22:08:27Z",
+    "forks": 20732,
+    "watchers": 627,
+    "open_issues": 248,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5413,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-01T15:43:56.096062Z",
+  "last_refreshed_at": "2026-07-01T15:43:56.096065Z",
+  "consecutive_refresh_failures": 0
+}

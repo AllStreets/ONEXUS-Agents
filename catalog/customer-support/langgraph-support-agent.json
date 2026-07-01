@@ -1,0 +1,58 @@
+{
+  "slug": "langgraph-support-agent",
+  "name": "langgraph-support-agent",
+  "tagline": "Forward-deployable LangGraph support and onboarding agent for AI infrastructure repos.",
+  "category": "customer-support",
+  "tags": [
+    "ai-infrastructure",
+    "developer-tools",
+    "evals",
+    "langgraph",
+    "rag",
+    "support-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Gloria72",
+    "url": "https://github.com/Gloria72"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Gloria72/langgraph-support-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-01T07:03:36Z",
+    "first_commit_at": "2026-06-27T05:26:27Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4127,
+  "rank_in_category": 148,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-01T16:15:42.897702Z",
+  "last_refreshed_at": "2026-07-01T16:15:42.897705Z",
+  "consecutive_refresh_failures": 0
+}
