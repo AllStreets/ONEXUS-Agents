@@ -1,0 +1,63 @@
+{
+  "slug": "open-agreements",
+  "name": "open-agreements",
+  "tagline": "Open, primary-source-backed U.S. legal content — practice guides, 50-state surveys, reviewer checklists, and standard agreement templates. Built for legal teams and the agents helping them.",
+  "category": "legal-research",
+  "tags": [
+    "anthropic",
+    "claude",
+    "contract-automation",
+    "docx",
+    "gemini-cli-extension",
+    "legal-content",
+    "legal-research",
+    "legal-tech",
+    "legal-templates",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "open-agreements",
+    "url": "https://github.com/open-agreements"
+  },
+  "source": {
+    "primary": "github",
+    "github": "open-agreements/open-agreements",
+    "huggingface": null,
+    "homepage": "https://openagreements.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 40,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-02T09:33:20Z",
+    "first_commit_at": "2026-02-07T16:32:59Z",
+    "forks": 8,
+    "watchers": 3,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3688,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-02T15:40:52.403501Z",
+  "last_refreshed_at": "2026-07-02T15:40:52.403502Z",
+  "consecutive_refresh_failures": 0
+}

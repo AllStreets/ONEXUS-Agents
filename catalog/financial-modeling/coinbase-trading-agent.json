@@ -1,34 +1,34 @@
 {
   "slug": "coinbase-trading-agent",
   "name": "coinbase-trading-agent",
-  "tagline": "coinbase trading agent with mean-reversion grid of coinbase trading agent which places a ladder buy/sell levels coinbase trading agent to halt on breakout",
+  "tagline": "spot trading on coinbase with rule-based EMA, optional AI(openrouter), or side-by-side compare mode",
   "category": "financial-modeling",
   "tags": [
-    "algorithm-trading",
+    "ai-trading",
     "coinbase",
-    "coinbase-trading-agent",
-    "grid-agent",
-    "grid-trading",
+    "future-trading",
+    "openrouter",
+    "spot-trading",
     "trading-agent"
   ],
   "author": {
     "type": "org",
-    "handle": "blackarbs",
-    "url": "https://github.com/blackarbs"
+    "handle": "signalbetorg",
+    "url": "https://github.com/signalbetorg"
   },
   "source": {
     "primary": "github",
-    "github": "blackarbs/coinbase-trading-agent",
+    "github": "signalbetorg/coinbase-trading-agent",
     "huggingface": null,
-    "homepage": "https://www.coinbase.com/"
+    "homepage": null
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 94,
+    "stars": 98,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-17T09:09:16Z",
-    "first_commit_at": "2026-06-11T08:55:12Z",
-    "forks": 723,
+    "last_commit_at": "2026-06-17T08:34:26Z",
+    "first_commit_at": "2020-11-08T14:22:00Z",
+    "forks": 853,
     "watchers": 0,
     "open_issues": 0,
     "archived": false,
@@ -47,10 +47,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4506,
-  "rank_in_category": 63,
+  "composite_score": 0.5003,
+  "rank_in_category": 46,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-23T16:09:35.224737Z",
-  "last_refreshed_at": "2026-07-01T16:07:45.165474Z",
+  "first_seen_at": "2026-07-02T15:35:45.085306Z",
+  "last_refreshed_at": "2026-07-02T15:35:45.085309Z",
   "consecutive_refresh_failures": 0
 }
