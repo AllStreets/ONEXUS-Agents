@@ -1,0 +1,62 @@
+{
+  "slug": "innospark3-0-9b-260630-i1-gguf",
+  "name": "InnoSpark3.0-9B-260630-i1-GGUF",
+  "tagline": "mradermacher/InnoSpark3.0-9B-260630-i1-GGUF — reinforcement-learning",
+  "category": "education-tutoring",
+  "tags": [
+    "transformers",
+    "gguf",
+    "education",
+    "qwen",
+    "sft",
+    "reinforcement-learning",
+    "reasoning",
+    "instruction-following",
+    "agent",
+    "zh"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mradermacher",
+    "url": "https://huggingface.co/mradermacher"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "mradermacher/InnoSpark3.0-9B-260630-i1-GGUF",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-07-02T09:45:51Z",
+    "first_commit_at": "2026-07-02T09:19:23Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "transformers",
+    "pipeline_tag": "reinforcement-learning",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3721,
+  "rank_in_category": 102,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-02T15:45:56.050045Z",
+  "last_refreshed_at": "2026-07-02T15:45:56.050048Z",
+  "consecutive_refresh_failures": 0
+}
