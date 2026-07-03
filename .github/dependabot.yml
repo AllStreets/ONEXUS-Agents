@@ -7,6 +7,14 @@ updates:
     open-pull-requests-limit: 5
     commit-message:
       prefix: "chore(deps)"
+    groups:
+      # CodeQL requires every github/codeql-action/* step (init, analyze,
+      # upload-sarif) to run the SAME version. Split per-step PRs mismatch and
+      # fail: "Loaded a configuration file for version 'x', but running 'y'".
+      # Group them so all steps bump together in one PR.
+      codeql-action:
+        patterns:
+          - "github/codeql-action*"
 
   - package-ecosystem: "pip"
     directory: "/"
@@ -23,3 +31,12 @@ updates:
     open-pull-requests-limit: 5
     commit-message:
       prefix: "chore(deps)"
+    ignore:
+      # The catalog site is pinned to Astro 4. Astro majors (5/6/7) need a manual
+      # migration; their auto-PRs fail the `site` build and the Vercel preview
+      # every week and can never be merged as-is. Defer all Astro-family majors
+      # until the site is deliberately migrated (tracked follow-up).
+      - dependency-name: "astro"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "@astrojs/*"
+        update-types: ["version-update:semver-major"]
