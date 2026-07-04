@@ -1,7 +1,7 @@
 {
   "slug": "mangrove-agent",
   "name": "mangrove-agent",
-  "tagline": "FastAPI + MCP service template for GCP Cloud Run. Dual protocol, three-tier access (free, auth, x402), Terraform IaC.",
+  "tagline": "Claude agent for use with the Mangrove Developer API & MCP Server.",
   "category": "financial-modeling",
   "tags": [
     "agent-marketplace",
@@ -24,7 +24,7 @@
     "primary": "github",
     "github": "MangroveTechnologies/mangrove-agent",
     "huggingface": null,
-    "homepage": "https://mangrovemarkets.com/"
+    "homepage": "https://mangrovedeveloper.ai/"
   },
   "license": "MIT",
   "metrics": {
@@ -47,16 +47,17 @@
     "has_ci": null,
     "readme_length": null,
     "frameworks": [
+      "anthropic-sdk",
       "mcp"
     ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.323,
-  "rank_in_category": 171,
+  "composite_score": 0.3207,
+  "rank_in_category": 173,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-30T20:57:19.009810Z",
-  "last_refreshed_at": "2026-07-02T15:35:58.931188Z",
+  "last_refreshed_at": "2026-07-04T14:52:14.203735Z",
   "consecutive_refresh_failures": 0
 }

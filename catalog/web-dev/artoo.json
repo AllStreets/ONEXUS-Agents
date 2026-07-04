@@ -1,0 +1,62 @@
+{
+  "slug": "artoo",
+  "name": "artoo",
+  "tagline": "🤖 An open-source Agentic RAG framework powered by ReAct Agent — LLM autonomously orchestrates hybrid retrieval, deep reading, and web search for traceable, evidence-first Q&A over your documents.",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "agentic-rag",
+    "ai",
+    "chatbot",
+    "hybrid-search",
+    "knowledge-base",
+    "llm",
+    "mcp",
+    "milvus",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "9ilfoyl3",
+    "url": "https://github.com/9ilfoyl3"
+  },
+  "source": {
+    "primary": "github",
+    "github": "9ilfoyl3/artoo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-01T01:35:03Z",
+    "first_commit_at": "2026-05-14T09:16:48Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4221,
+  "rank_in_category": 208,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-04T14:40:06.875875Z",
+  "last_refreshed_at": "2026-07-04T14:40:06.875879Z",
+  "consecutive_refresh_failures": 0
+}
