@@ -1,0 +1,53 @@
+{
+  "slug": "dinobase",
+  "name": "dinobase",
+  "tagline": "The agent-first database",
+  "category": "search-rag",
+  "tags": [
+    "agents",
+    "ai",
+    "database"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "DinobaseHQ",
+    "url": "https://github.com/DinobaseHQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DinobaseHQ/dinobase",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 262,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-19T13:21:18Z",
+    "first_commit_at": "2026-03-24T10:11:55Z",
+    "forks": 13,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3027,
+  "rank_in_category": 142,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:52:32.110214Z",
+  "last_refreshed_at": "2026-07-04T14:46:28.467581Z",
+  "consecutive_refresh_failures": 0
+}

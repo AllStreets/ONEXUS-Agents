@@ -1,28 +1,28 @@
 {
-  "slug": "nanocoder-pro",
-  "name": "NanoCoder-Pro",
-  "tagline": "NanoCoder Pro — Autonomous Coding Agent with Master-SubAgent Architecture",
-  "category": "coding",
+  "slug": "prod-scout",
+  "name": "prod-scout",
+  "tagline": "An AI-powered pipeline/agent for automated product intelligence. Crawls X/YouTube/Weixin, transcribes videos, and uses LLMs to structure insights. ",
+  "category": "multi-agent-orchestration",
   "tags": [],
   "author": {
     "type": "user",
-    "handle": "j61398257-lab",
-    "url": "https://github.com/j61398257-lab"
+    "handle": "scwf",
+    "url": "https://github.com/scwf"
   },
   "source": {
     "primary": "github",
-    "github": "j61398257-lab/NanoCoder-Pro",
+    "github": "scwf/prod-scout",
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 55,
+    "stars": 7,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-19T00:18:50Z",
-    "first_commit_at": "2026-04-04T12:29:29Z",
+    "last_commit_at": "2026-03-04T04:10:15Z",
+    "first_commit_at": "2026-01-17T15:01:28Z",
     "forks": 0,
-    "watchers": 1,
+    "watchers": 0,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2002,
-  "rank_in_category": 763,
+  "composite_score": 0.2098,
+  "rank_in_category": 662,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-07T14:57:41.211455Z",
-  "last_refreshed_at": "2026-07-02T15:21:38.917497Z",
+  "first_seen_at": "2026-06-06T09:52:49.299131Z",
+  "last_refreshed_at": "2026-07-04T14:47:12.812905Z",
   "consecutive_refresh_failures": 0
 }

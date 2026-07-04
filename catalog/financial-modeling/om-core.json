@@ -1,0 +1,60 @@
+{
+  "slug": "om-core",
+  "name": "om-core",
+  "tagline": "OM Core - open-source multidimensional modeling engine.",
+  "category": "financial-modeling",
+  "tags": [
+    "agpl",
+    "automation",
+    "financial-analysis",
+    "financial-modeling",
+    "fp-and-a",
+    "modeling",
+    "multidimensional",
+    "numerical-modeling",
+    "olap",
+    "planning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "cloudcell",
+    "url": "https://github.com/cloudcell"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cloudcell/om-core",
+    "huggingface": null,
+    "homepage": "https://cloudcell.github.io/om-docs/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-04T03:19:15Z",
+    "first_commit_at": "2026-06-29T00:34:38Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3983,
+  "rank_in_category": 93,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-04T14:53:21.144464Z",
+  "last_refreshed_at": "2026-07-04T14:53:21.144467Z",
+  "consecutive_refresh_failures": 0
+}

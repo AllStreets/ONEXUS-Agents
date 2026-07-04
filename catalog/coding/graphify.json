@@ -16,25 +16,25 @@
     "skills"
   ],
   "author": {
-    "type": "user",
-    "handle": "safishamsi",
-    "url": "https://github.com/safishamsi"
+    "type": "org",
+    "handle": "Graphify-Labs",
+    "url": "https://github.com/Graphify-Labs"
   },
   "source": {
     "primary": "github",
-    "github": "safishamsi/graphify",
+    "github": "Graphify-Labs/graphify",
     "huggingface": null,
     "homepage": "https://graphifylabs.ai/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 75792,
+    "stars": 77453,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-02T12:22:33Z",
+    "last_commit_at": "2026-07-04T12:01:19Z",
     "first_commit_at": "2026-04-04T17:52:44Z",
-    "forks": 7528,
-    "watchers": 256,
-    "open_issues": 405,
+    "forks": 7670,
+    "watchers": 261,
+    "open_issues": 418,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -49,12 +49,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4688,
-  "rank_in_category": 26,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4193,
+  "rank_in_category": 108,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:46:55.709409Z",
-  "last_refreshed_at": "2026-07-02T15:18:10.142109Z",
+  "first_seen_at": "2026-07-04T14:33:51.245186Z",
+  "last_refreshed_at": "2026-07-04T14:33:51.245189Z",
   "consecutive_refresh_failures": 0
 }

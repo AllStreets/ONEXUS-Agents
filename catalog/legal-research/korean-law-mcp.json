@@ -1,7 +1,7 @@
 {
   "slug": "korean-law-mcp",
   "name": "korean-law-mcp",
-  "tagline": "국가법령정보MCP v4.4 | 법제처 42개 API → 9개 MCP 도구. 법령·판례·조례·조약 + 다단계 리서치(legal_research) + 정밀분석(legal_analysis: 인용검증·판례생사·행위시법·영향그래프) | 42 Korean legal APIs → 9 MCP tools",
+  "tagline": "한국 법령·판례를 AI에서 조회하고 LLM 인용 환각을 검증하는 MCP 서버 · Korean law & precedent MCP for Claude",
   "category": "legal-research",
   "tags": [
     "citation-verification",
@@ -28,11 +28,11 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 2102,
+    "stars": 2113,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-02T14:51:37Z",
+    "last_commit_at": "2026-07-04T14:41:42Z",
     "first_commit_at": "2025-12-19T10:54:19Z",
-    "forks": 399,
+    "forks": 401,
     "watchers": 8,
     "open_issues": 0,
     "archived": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4525,
+  "composite_score": 0.4527,
   "rank_in_category": 2,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-11T17:19:30.548093Z",
-  "last_refreshed_at": "2026-07-02T15:43:15.563423Z",
+  "last_refreshed_at": "2026-07-04T14:59:55.525033Z",
   "consecutive_refresh_failures": 0
 }
