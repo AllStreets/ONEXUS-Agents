@@ -1,0 +1,62 @@
+{
+  "slug": "crypto-signals-mcp",
+  "name": "crypto-signals-mcp",
+  "tagline": "Live crypto trading signals and market data served to AI agents.",
+  "category": "financial-modeling",
+  "tags": [
+    "agent",
+    "agentic-commerce",
+    "agentic-finance",
+    "agents",
+    "ai",
+    "ai-agent",
+    "crypto",
+    "crypto-signals",
+    "market-data",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nirholas",
+    "url": "https://github.com/nirholas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nirholas/crypto-signals-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-30T23:32:18Z",
+    "first_commit_at": "2026-06-30T23:32:17Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4024,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-05T15:00:21.535164Z",
+  "last_refreshed_at": "2026-07-05T15:00:21.535169Z",
+  "consecutive_refresh_failures": 0
+}

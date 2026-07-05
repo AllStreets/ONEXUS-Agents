@@ -1,19 +1,19 @@
 {
   "slug": "korean-law-mcp",
   "name": "korean-law-mcp",
-  "tagline": "한국 법령·판례를 AI에서 조회하고 LLM 인용 환각을 검증하는 MCP 서버 · Korean law & precedent MCP for Claude",
+  "tagline": "법제처 국가법령정보 MCP — 법령·판례·조례 조회부터 인용 환각 검증까지 · Korean law MCP for LLMs",
   "category": "legal-research",
   "tags": [
     "citation-verification",
-    "citizen-guide",
     "claude",
     "hallucination-detection",
-    "impact-graph",
     "korean-law",
     "law",
-    "law-diff",
-    "legal",
-    "legal-ai"
+    "legal-ai",
+    "legal-rag",
+    "legal-tech",
+    "mcp",
+    "mcp-server"
   ],
   "author": {
     "type": "user",
@@ -28,11 +28,11 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 2113,
+    "stars": 2124,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-04T14:41:42Z",
+    "last_commit_at": "2026-07-05T02:28:03Z",
     "first_commit_at": "2025-12-19T10:54:19Z",
-    "forks": 401,
+    "forks": 402,
     "watchers": 8,
     "open_issues": 0,
     "archived": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4527,
+  "composite_score": 0.4524,
   "rank_in_category": 2,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-11T17:19:30.548093Z",
-  "last_refreshed_at": "2026-07-04T14:59:55.525033Z",
+  "last_refreshed_at": "2026-07-05T15:06:00.148237Z",
   "consecutive_refresh_failures": 0
 }
