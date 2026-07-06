@@ -1,0 +1,58 @@
+{
+  "slug": "react-agent-hooks",
+  "name": "react-agent-hooks",
+  "tagline": "Turn React hooks into LLM tools",
+  "category": "coding",
+  "tags": [
+    "genui",
+    "library",
+    "llmstxt",
+    "mcp",
+    "react",
+    "react-hooks"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "chuanqisun",
+    "url": "https://github.com/chuanqisun"
+  },
+  "source": {
+    "primary": "github",
+    "github": "chuanqisun/react-agent-hooks",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 85,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-24T22:40:07Z",
+    "first_commit_at": "2025-04-08T00:44:06Z",
+    "forks": 3,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2362,
+  "rank_in_category": 597,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T14:38:58.580952Z",
+  "last_refreshed_at": "2026-07-06T16:35:15.124027Z",
+  "consecutive_refresh_failures": 0
+}
