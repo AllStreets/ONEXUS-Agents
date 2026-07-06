@@ -3,7 +3,16 @@
   "name": "ide-agent-kit",
   "tagline": "Let IDE AIs participate in team workflows. Webhook relay, tmux runner, append-only receipts.",
   "category": "multi-agent-orchestration",
-  "tags": [],
+  "tags": [
+    "agent-orchestration",
+    "ai-agents",
+    "claude-code",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "openclaw"
+  ],
   "author": {
     "type": "user",
     "handle": "ThinkOffApp",
@@ -17,13 +26,13 @@
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 43,
+    "stars": 42,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-04T16:25:58Z",
+    "last_commit_at": "2026-07-06T15:54:46Z",
     "first_commit_at": "2026-02-21T17:53:26Z",
     "forks": 2,
     "watchers": 2,
-    "open_issues": 4,
+    "open_issues": 3,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -35,15 +44,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3764,
-  "rank_in_category": 271,
+  "composite_score": 0.3921,
+  "rank_in_category": 231,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:47:52.566318Z",
-  "last_refreshed_at": "2026-07-05T14:48:32.223538Z",
+  "last_refreshed_at": "2026-07-06T16:28:25.692150Z",
   "consecutive_refresh_failures": 0
 }

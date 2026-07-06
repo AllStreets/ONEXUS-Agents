@@ -1,0 +1,60 @@
+{
+  "slug": "tripstar-java",
+  "name": "TripStar-Java",
+  "tagline": "TripStar Java 实现版：基于 Spring Boot 4 + Spring AI Alibaba ReactAgent 的 AI 旅行规划后端，支持高德 Tool、小红书内容接入和 Structured Output。",
+  "category": "web-dev",
+  "tags": [
+    "ai-agent",
+    "amap",
+    "java",
+    "react-agent",
+    "spring-ai",
+    "spring-ai-alibaba",
+    "spring-boot",
+    "structured-output",
+    "tool-calling",
+    "travel-planner"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "LeeFly-cn",
+    "url": "https://github.com/LeeFly-cn"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LeeFly-cn/TripStar-Java",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-2.0",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-06T09:03:01Z",
+    "first_commit_at": "2026-07-06T03:28:24Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3572,
+  "rank_in_category": 227,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-06T16:32:28.856793Z",
+  "last_refreshed_at": "2026-07-06T16:32:28.856796Z",
+  "consecutive_refresh_failures": 0
+}
