@@ -4,16 +4,16 @@
   "tagline": "NVIDIA Design System and UI Agent Harness for AI/ML Factories, Robotics, and Autonomous Vehicles",
   "category": "web-dev",
   "tags": [
+    "ai",
     "angular",
+    "autonomous-vehicles",
     "cli",
     "design-system",
+    "design-tokens",
+    "generative-ai",
     "mcp",
     "mcp-server",
-    "react",
-    "typescript",
-    "ui",
-    "vue",
-    "web-component"
+    "react"
   ],
   "author": {
     "type": "org",
@@ -30,11 +30,11 @@
   "metrics": {
     "stars": 24,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-06T13:13:41Z",
+    "last_commit_at": "2026-07-06T23:35:59Z",
     "first_commit_at": "2023-12-26T19:07:33Z",
     "forks": 5,
-    "watchers": 3,
-    "open_issues": 4,
+    "watchers": 4,
+    "open_issues": 5,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5355,
-  "rank_in_category": 78,
+  "composite_score": 0.5347,
+  "rank_in_category": 79,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:51:46.524530Z",
-  "last_refreshed_at": "2026-07-06T16:37:09.238002Z",
+  "last_refreshed_at": "2026-07-07T15:59:29.397113Z",
   "consecutive_refresh_failures": 0
 }

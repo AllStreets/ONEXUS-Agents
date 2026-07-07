@@ -1,37 +1,40 @@
 {
   "slug": "awesome-ai-agents",
   "name": "awesome-ai-agents",
-  "tagline": "A curated list of frameworks, tools, and resources for building and deploying AI agents. From multi-agent systems to autonomous coding assistants, this repository covers the latest advancements in AI ",
+  "tagline": "A list of AI autonomous agents",
   "category": "multi-agent-orchestration",
   "tags": [
+    "agent",
     "ai",
-    "ai-agents",
+    "artificial-intelligence",
+    "autogpt",
+    "autonomous-agents",
     "awesome",
-    "awesome-agents",
-    "awesome-ai",
-    "awesome-list",
-    "awesome-lists"
+    "babyagi",
+    "copilot",
+    "gpt",
+    "gpt-4"
   ],
   "author": {
-    "type": "user",
-    "handle": "NipunaRanasinghe",
-    "url": "https://github.com/NipunaRanasinghe"
+    "type": "org",
+    "handle": "e2b-dev",
+    "url": "https://github.com/e2b-dev"
   },
   "source": {
     "primary": "github",
-    "github": "NipunaRanasinghe/awesome-ai-agents",
+    "github": "e2b-dev/awesome-ai-agents",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://e2b.dev/docs"
   },
-  "license": "MIT",
+  "license": "NOASSERTION",
   "metrics": {
-    "stars": 33,
+    "stars": 28649,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-05T13:38:07Z",
-    "first_commit_at": "2025-01-25T13:05:25Z",
-    "forks": 32,
-    "watchers": 2,
-    "open_issues": 42,
+    "last_commit_at": "2025-02-26T10:04:45Z",
+    "first_commit_at": "2023-06-19T00:20:06Z",
+    "forks": 3117,
+    "watchers": 321,
+    "open_issues": 816,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -48,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3673,
-  "rank_in_category": 296,
+  "composite_score": 0.3701,
+  "rank_in_category": 289,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-06T16:29:53.198386Z",
-  "last_refreshed_at": "2026-07-06T16:29:53.198389Z",
+  "first_seen_at": "2026-06-19T16:03:10.492695Z",
+  "last_refreshed_at": "2026-07-07T15:48:12.502219Z",
   "consecutive_refresh_failures": 0
 }

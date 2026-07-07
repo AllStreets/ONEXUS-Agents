@@ -1,0 +1,59 @@
+{
+  "slug": "lanhu-mcp",
+  "name": "lanhu-mcp",
+  "tagline": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-coding",
+    "ai-tools",
+    "mcp",
+    "mcp-service",
+    "mcp-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dsphper",
+    "url": "https://github.com/dsphper"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dsphper/lanhu-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1876,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-07T14:27:55Z",
+    "first_commit_at": "2025-12-17T03:27:16Z",
+    "forks": 214,
+    "watchers": 7,
+    "open_issues": 42,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4192,
+  "rank_in_category": 99,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-07T15:46:40.284986Z",
+  "last_refreshed_at": "2026-07-07T15:46:40.284990Z",
+  "consecutive_refresh_failures": 0
+}
