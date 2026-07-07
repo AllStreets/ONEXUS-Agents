@@ -1,19 +1,19 @@
 {
   "slug": "ai-free",
   "name": "ai-free",
-  "tagline": "Free local AI client for DeepSeek, Qwen and ChatGPT with OpenAI-compatible API, CLI, code agent, memory and skills.",
+  "tagline": "Free local AI client for DeepSeek, Qwen and ChatGPT with OpenAI/Anthropic-compatible API, CLI, code agent, memory, skills and VS Code plugin.",
   "category": "coding",
   "tags": [
     "ai",
     "ai-agent",
+    "ai-coding-assistant",
     "anthropic-api",
     "automation",
     "chatgpt",
     "cli",
     "code-agent",
     "deepseek",
-    "developer-tools",
-    "ide"
+    "developer-tools"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 115,
+    "stars": 116,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-06T10:35:28Z",
+    "last_commit_at": "2026-07-07T10:28:38Z",
     "first_commit_at": "2026-05-18T07:31:00Z",
     "forks": 8,
     "watchers": 2,
-    "open_issues": 1,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2907,
-  "rank_in_category": 446,
+  "composite_score": 0.2759,
+  "rank_in_category": 493,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-29T16:40:14.408134Z",
-  "last_refreshed_at": "2026-07-06T16:23:21.164779Z",
+  "last_refreshed_at": "2026-07-07T15:45:32.545725Z",
   "consecutive_refresh_failures": 0
 }

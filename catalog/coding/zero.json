@@ -1,0 +1,63 @@
+{
+  "slug": "zero",
+  "name": "zero",
+  "tagline": "The coding agent that answers to you, your model, your machine, your rules.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "anthropic",
+    "cli",
+    "code-assistant",
+    "coding-agent",
+    "developer-tools",
+    "gemini",
+    "llm",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Gitlawb",
+    "url": "https://github.com/Gitlawb"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Gitlawb/zero",
+    "huggingface": null,
+    "homepage": "https://zero.gitlawb.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 982,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-07T14:43:45Z",
+    "first_commit_at": "2026-05-30T00:37:16Z",
+    "forks": 92,
+    "watchers": 2,
+    "open_issues": 70,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3952,
+  "rank_in_category": 155,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-07T15:44:31.549463Z",
+  "last_refreshed_at": "2026-07-07T15:44:31.549467Z",
+  "consecutive_refresh_failures": 0
+}

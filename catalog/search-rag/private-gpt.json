@@ -1,7 +1,7 @@
 {
   "slug": "private-gpt",
   "name": "private-gpt",
-  "tagline": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+  "tagline": "Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.",
   "category": "search-rag",
   "tags": [
     "ai",
@@ -21,13 +21,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 57312,
+    "stars": 57313,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-06T15:56:38Z",
+    "last_commit_at": "2026-07-07T15:37:17Z",
     "first_commit_at": "2023-05-02T09:15:31Z",
-    "forks": 7595,
+    "forks": 7597,
     "watchers": 459,
-    "open_issues": 4,
+    "open_issues": 5,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -47,7 +47,7 @@
   "composite_score": 0.4824,
   "rank_in_category": 6,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-06T16:27:39.326927Z",
-  "last_refreshed_at": "2026-07-06T16:27:39.326931Z",
+  "first_seen_at": "2026-07-07T15:49:45.757929Z",
+  "last_refreshed_at": "2026-07-07T15:49:45.757932Z",
   "consecutive_refresh_failures": 0
 }
