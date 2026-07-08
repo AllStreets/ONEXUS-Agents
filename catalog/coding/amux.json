@@ -1,0 +1,63 @@
+{
+  "slug": "amux",
+  "name": "amux",
+  "tagline": "Open-source control plane for AI coding agents — run, monitor & orchestrate dozens of parallel Claude Code, Codex & Gemini sessions from one web dashboard or your phone. Self-healing, single-file, tmu",
+  "category": "coding",
+  "tags": [
+    "agent-orchestration",
+    "agentic-ai",
+    "ai-agents",
+    "ai-coding-assistant",
+    "anthropic",
+    "automation",
+    "claude",
+    "claude-code",
+    "cli",
+    "codex"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mixpeek",
+    "url": "https://github.com/mixpeek"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mixpeek/amux",
+    "huggingface": null,
+    "homepage": "https://amux.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 285,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-08T15:07:32Z",
+    "first_commit_at": "2026-02-18T01:35:42Z",
+    "forks": 33,
+    "watchers": 3,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3815,
+  "rank_in_category": 188,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-08T15:22:31.647721Z",
+  "last_refreshed_at": "2026-07-08T15:22:31.647726Z",
+  "consecutive_refresh_failures": 0
+}

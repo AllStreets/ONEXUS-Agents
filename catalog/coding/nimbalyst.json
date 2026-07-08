@@ -1,0 +1,62 @@
+{
+  "slug": "nimbalyst",
+  "name": "nimbalyst",
+  "tagline": "Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually in markdown, mockups, and diagrams, and track tasks.",
+  "category": "coding",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "developer-tools",
+    "ide",
+    "markdown-editor",
+    "mcp",
+    "multi-agent-systems"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nimbalyst",
+    "url": "https://github.com/nimbalyst"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nimbalyst/nimbalyst",
+    "huggingface": null,
+    "homepage": "https://nimbalyst.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1102,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-08T14:40:32Z",
+    "first_commit_at": "2025-07-23T23:33:50Z",
+    "forks": 151,
+    "watchers": 7,
+    "open_issues": 321,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.421,
+  "rank_in_category": 94,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-08T15:21:51.436083Z",
+  "last_refreshed_at": "2026-07-08T15:21:51.436087Z",
+  "consecutive_refresh_failures": 0
+}
