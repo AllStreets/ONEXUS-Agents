@@ -5,15 +5,15 @@
   "category": "web-dev",
   "tags": [
     "ai-chat",
+    "chat",
+    "chat-engine",
     "chat-sdk",
     "chat-widget",
     "chatbot",
     "developer-tools",
     "ejabberd",
-    "ethereum",
     "ethora",
-    "low-code",
-    "mcp"
+    "low-code"
   ],
   "author": {
     "type": "org",
@@ -28,9 +28,9 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 539,
+    "stars": 542,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-26T19:56:30Z",
+    "last_commit_at": "2026-07-07T14:46:45Z",
     "first_commit_at": "2021-06-21T12:59:38Z",
     "forks": 110,
     "watchers": 12,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6194,
-  "rank_in_category": 35,
+  "composite_score": 0.6339,
+  "rank_in_category": 29,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:48:09.985170Z",
-  "last_refreshed_at": "2026-06-28T14:53:37.492546Z",
-  "consecutive_refresh_failures": 8
+  "last_refreshed_at": "2026-07-08T15:27:52.035497Z",
+  "consecutive_refresh_failures": 0
 }

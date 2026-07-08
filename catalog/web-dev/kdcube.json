@@ -1,0 +1,62 @@
+{
+  "slug": "kdcube",
+  "name": "kdcube",
+  "tagline": "Open-source multi-tenant agent runtime for production. Tenant isolation, per-user cost controls, dual-sandbox security, deployment from Git.",
+  "category": "web-dev",
+  "tags": [
+    "agent-framework",
+    "agent-runtime",
+    "agentic-ai",
+    "agentic-apps",
+    "agentic-streaming",
+    "agentic-tools",
+    "ai-agents",
+    "ai-workspace",
+    "copilot-sdk",
+    "isolated-execution"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kdcube",
+    "url": "https://github.com/kdcube"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kdcube/kdcube",
+    "huggingface": null,
+    "homepage": "https://kdcube.tech/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-08T14:16:31Z",
+    "first_commit_at": "2025-08-20T15:36:14Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4842,
+  "rank_in_category": 111,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-08T15:30:48.993070Z",
+  "last_refreshed_at": "2026-07-08T15:30:48.993074Z",
+  "consecutive_refresh_failures": 0
+}

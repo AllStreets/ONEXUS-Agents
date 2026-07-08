@@ -1,7 +1,7 @@
 {
   "slug": "rag-multimodal-financial-doc-analysis-and-recall",
   "name": "RAG-Multimodal-Financial-Doc-Analysis-and-Recall",
-  "tagline": "World-class multimodal RAG system for financial document analysis. Built to production standards: async, observable, secure, multi-tenant, CI-gated.",
+  "tagline": "Production-grade multimodal RAG for financial document intelligence. Chart understanding · hybrid retrieval · numeric guardrails · multi-tenancy · full observability.",
   "category": "financial-modeling",
   "tags": [
     "async-processing",
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4979,
-  "rank_in_category": 42,
+  "composite_score": 0.4964,
+  "rank_in_category": 40,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-10T16:54:38.560547Z",
-  "last_refreshed_at": "2026-07-07T16:07:41.032691Z",
+  "last_refreshed_at": "2026-07-08T15:42:14.625234Z",
   "consecutive_refresh_failures": 0
 }
