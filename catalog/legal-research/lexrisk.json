@@ -1,0 +1,57 @@
+{
+  "slug": "lexrisk",
+  "name": "LexRisk",
+  "tagline": "The AI Safety Gauge for Legal Contracts. ⚖️ Scans PDFs, detects predatory clauses, and scores risk using Llama-3 ",
+  "category": "legal-research",
+  "tags": [
+    "ai",
+    "build-in-public",
+    "contract-analysis",
+    "groq",
+    "legaltech",
+    "llama3",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Psukhe777",
+    "url": "https://github.com/Psukhe777"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Psukhe777/LexRisk",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T09:44:11Z",
+    "first_commit_at": "2026-02-19T22:08:01Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1597,
+  "rank_in_category": 165,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-09T16:23:47.025222Z",
+  "last_refreshed_at": "2026-07-09T16:23:47.025225Z",
+  "consecutive_refresh_failures": 0
+}

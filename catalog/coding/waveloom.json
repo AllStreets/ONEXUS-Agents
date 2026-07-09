@@ -4,16 +4,9 @@
   "tagline": "为 DeepSeek 前缀缓存定制的终端 Code Agent（纯 Go），缓存命中率 95-99%，输入成本降至 1/50。A terminal coding agent optimized for DeepSeek prefix caching — 95-99% cache hit, 1/50th the cost.",
   "category": "coding",
   "tags": [
-    "ai",
-    "bubbletea",
-    "cli",
     "code-agent",
-    "coding-agent",
     "deepseek",
-    "developer-tools",
-    "go",
-    "llm",
-    "prefix-cache"
+    "tui"
   ],
   "author": {
     "type": "user",
@@ -28,9 +21,9 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 16,
+    "stars": 34,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-02T13:28:56Z",
+    "last_commit_at": "2026-07-09T15:21:29Z",
     "first_commit_at": "2026-06-24T07:36:33Z",
     "forks": 1,
     "watchers": 0,
@@ -51,10 +44,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2318,
-  "rank_in_category": 602,
+  "composite_score": 0.2464,
+  "rank_in_category": 559,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-27T14:30:38.565542Z",
-  "last_refreshed_at": "2026-07-02T15:16:12.747652Z",
-  "consecutive_refresh_failures": 5
+  "last_refreshed_at": "2026-07-09T15:57:31.387536Z",
+  "consecutive_refresh_failures": 0
 }

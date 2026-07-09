@@ -1,0 +1,60 @@
+{
+  "slug": "grug-9b-q5-k-l-imat-gguf",
+  "name": "grug-9b-Q5_K_L-imat-GGUF",
+  "tagline": "DarkKitsune/grug-9b-Q5_K_L-imat-GGUF — image-text-to-text",
+  "category": "coding",
+  "tags": [
+    "llama.cpp",
+    "safetensors",
+    "gguf",
+    "qwen3_5",
+    "text-generation",
+    "qwen3.5",
+    "reasoning",
+    "thinking",
+    "coding",
+    "code"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "DarkKitsune",
+    "url": "https://huggingface.co/DarkKitsune"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "DarkKitsune/grug-9b-Q5_K_L-imat-GGUF",
+    "homepage": null
+  },
+  "license": "mit",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 38,
+    "last_commit_at": "2026-07-09T02:00:49Z",
+    "first_commit_at": "2026-07-09T00:11:20Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "llama.cpp",
+    "pipeline_tag": "image-text-to-text",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2574,
+  "rank_in_category": 539,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-09T16:05:29.620394Z",
+  "last_refreshed_at": "2026-07-09T16:05:29.620398Z",
+  "consecutive_refresh_failures": 0
+}
