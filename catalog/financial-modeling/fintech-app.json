@@ -1,27 +1,32 @@
 {
-  "slug": "ctf-mcp",
-  "name": "CTF-MCP",
-  "tagline": "CTF-MCP",
-  "category": "security-pentesting",
-  "tags": [],
+  "slug": "fintech-app",
+  "name": "fintech-app",
+  "tagline": "fintech app ",
+  "category": "financial-modeling",
+  "tags": [
+    "app",
+    "fintech",
+    "fintech-agent",
+    "fintech-app"
+  ],
   "author": {
     "type": "user",
-    "handle": "kk12-30",
-    "url": "https://github.com/kk12-30"
+    "handle": "Elias569",
+    "url": "https://github.com/Elias569"
   },
   "source": {
     "primary": "github",
-    "github": "kk12-30/CTF-MCP",
+    "github": "Elias569/fintech-app",
     "huggingface": null,
     "homepage": null
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 17,
+    "stars": 51,
     "downloads_30d": null,
-    "last_commit_at": "2026-03-20T00:45:46Z",
-    "first_commit_at": "2026-01-27T09:51:11Z",
-    "forks": 2,
+    "last_commit_at": "2026-07-09T05:49:08Z",
+    "first_commit_at": "2026-03-25T10:14:19Z",
+    "forks": 0,
     "watchers": 0,
     "open_issues": 0,
     "archived": false,
@@ -40,10 +45,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1864,
-  "rank_in_category": 204,
+  "composite_score": 0.3973,
+  "rank_in_category": 87,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:16:35.361619Z",
-  "last_refreshed_at": "2026-06-28T18:34:10.045735Z",
-  "consecutive_refresh_failures": 27
+  "first_seen_at": "2026-07-09T16:19:26.731152Z",
+  "last_refreshed_at": "2026-07-09T16:19:26.731157Z",
+  "consecutive_refresh_failures": 0
 }

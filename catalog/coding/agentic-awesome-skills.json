@@ -1,0 +1,62 @@
+{
+  "slug": "agentic-awesome-skills",
+  "name": "agentic-awesome-skills",
+  "tagline": "Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow",
+  "category": "coding",
+  "tags": [
+    "agent-skills",
+    "agentic-skills",
+    "ai-agent-skills",
+    "ai-agents",
+    "ai-coding",
+    "ai-workflows",
+    "antigravity",
+    "antigravity-skills",
+    "claude-code",
+    "claude-code-skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sickn33",
+    "url": "https://github.com/sickn33"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sickn33/agentic-awesome-skills",
+    "huggingface": null,
+    "homepage": "https://sickn33.github.io/agentic-awesome-skills/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 42704,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-09T12:02:19Z",
+    "first_commit_at": "2026-01-14T17:48:08Z",
+    "forks": 6786,
+    "watchers": 306,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4824,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-09T15:58:06.160290Z",
+  "last_refreshed_at": "2026-07-09T15:58:06.160293Z",
+  "consecutive_refresh_failures": 0
+}

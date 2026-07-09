@@ -1,29 +1,39 @@
 {
   "slug": "legal-agent",
   "name": "legal-agent",
-  "tagline": "Answer Questions on GDPR, using a requirement management system",
+  "tagline": "A testbed for faithful, auditable retrieval: Taiwan legal assistant with five anti-hallucination gates and a time-sliced statute store that cites the law in force at the event's date.",
   "category": "legal-research",
-  "tags": [],
+  "tags": [
+    "anti-hallucination",
+    "legal-agent",
+    "legal-tech",
+    "llm",
+    "ollama",
+    "python",
+    "rag",
+    "retrieval-augmented-generation",
+    "sqlite"
+  ],
   "author": {
     "type": "user",
-    "handle": "rifaterdemsahin",
-    "url": "https://github.com/rifaterdemsahin"
+    "handle": "0Smallcat0",
+    "url": "https://github.com/0Smallcat0"
   },
   "source": {
     "primary": "github",
-    "github": "rifaterdemsahin/legal-agent",
+    "github": "0Smallcat0/legal-agent",
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 7,
+    "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2025-12-27T11:24:19Z",
-    "first_commit_at": "2025-12-20T11:11:32Z",
-    "forks": 3,
+    "last_commit_at": "2026-07-09T05:54:17Z",
+    "first_commit_at": "2026-07-09T03:39:12Z",
+    "forks": 0,
     "watchers": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +50,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1722,
-  "rank_in_category": 149,
+  "composite_score": 0.2046,
+  "rank_in_category": 116,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:57:44.270723Z",
-  "last_refreshed_at": "2026-07-08T15:46:37.867582Z",
+  "first_seen_at": "2026-07-09T16:23:21.034246Z",
+  "last_refreshed_at": "2026-07-09T16:23:21.034249Z",
   "consecutive_refresh_failures": 0
 }
