@@ -1,0 +1,57 @@
+{
+  "slug": "cc-wf-studio",
+  "name": "cc-wf-studio",
+  "tagline": "CC Workflow Studio",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-skills",
+    "claude-code",
+    "mcp-tools",
+    "slash-commands",
+    "sub-agents",
+    "vscode-extension",
+    "workflow-automation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "breaking-brake",
+    "url": "https://github.com/breaking-brake"
+  },
+  "source": {
+    "primary": "github",
+    "github": "breaking-brake/cc-wf-studio",
+    "huggingface": null,
+    "homepage": "https://open-vsx.org/extension/breaking-brake/cc-wf-studio"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 5315,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-09T00:25:56Z",
+    "first_commit_at": "2025-11-01T02:39:34Z",
+    "forks": 568,
+    "watchers": 21,
+    "open_issues": 15,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4326,
+  "rank_in_category": 132,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-10T15:49:29.963326Z",
+  "last_refreshed_at": "2026-07-10T15:49:29.963329Z",
+  "consecutive_refresh_failures": 0
+}

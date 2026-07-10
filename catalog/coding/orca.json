@@ -1,0 +1,60 @@
+{
+  "slug": "orca",
+  "name": "orca",
+  "tagline": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+  "category": "coding",
+  "tags": [
+    "ade",
+    "agent-ide",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "cursor-agent",
+    "devtools",
+    "ghostty",
+    "ide"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "stablyai",
+    "url": "https://github.com/stablyai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "stablyai/orca",
+    "huggingface": null,
+    "homepage": "https://onorca.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 15788,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-10T15:26:09Z",
+    "first_commit_at": "2026-03-17T03:29:24Z",
+    "forks": 1230,
+    "watchers": 100,
+    "open_issues": 1335,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3912,
+  "rank_in_category": 162,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-10T15:36:03.673586Z",
+  "last_refreshed_at": "2026-07-10T15:36:03.673590Z",
+  "consecutive_refresh_failures": 0
+}
