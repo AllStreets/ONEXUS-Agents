@@ -1,29 +1,36 @@
 {
   "slug": "agentkit",
-  "name": "agentkit",
-  "tagline": "Every AI Agent deserves a wallet.",
+  "name": "AgentKit",
+  "tagline": "Ready to Deploy Fullstack OpenSource Agentic Apps ",
   "category": "web-dev",
-  "tags": [],
+  "tags": [
+    "agents",
+    "ai",
+    "good-first-issue",
+    "hacktoberfest",
+    "nocode",
+    "nocode4prod"
+  ],
   "author": {
     "type": "org",
-    "handle": "coinbase",
-    "url": "https://github.com/coinbase"
+    "handle": "Lamatic",
+    "url": "https://github.com/Lamatic"
   },
   "source": {
     "primary": "github",
-    "github": "coinbase/agentkit",
+    "github": "Lamatic/AgentKit",
     "huggingface": null,
-    "homepage": "https://docs.cdp.coinbase.com/agentkit/docs/welcome"
+    "homepage": "https://git.new/agentkit"
   },
-  "license": "NOASSERTION",
+  "license": "MIT",
   "metrics": {
-    "stars": 1263,
+    "stars": 174,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-30T17:29:10Z",
-    "first_commit_at": "2024-11-04T00:09:15Z",
-    "forks": 748,
-    "watchers": 20,
-    "open_issues": 274,
+    "last_commit_at": "2026-07-03T15:42:09Z",
+    "first_commit_at": "2025-10-01T07:17:53Z",
+    "forks": 232,
+    "watchers": 0,
+    "open_issues": 37,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +47,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5758,
-  "rank_in_category": 50,
+  "composite_score": 0.4961,
+  "rank_in_category": 97,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:51:27.895197Z",
-  "last_refreshed_at": "2026-07-09T16:09:51.102816Z",
+  "first_seen_at": "2026-07-10T15:46:37.347054Z",
+  "last_refreshed_at": "2026-07-10T15:46:37.347057Z",
   "consecutive_refresh_failures": 0
 }

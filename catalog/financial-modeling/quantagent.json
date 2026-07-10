@@ -1,29 +1,32 @@
 {
   "slug": "quantagent",
   "name": "QuantAgent",
-  "tagline": "quant agent ",
+  "tagline": "Official Repository for QuantAgent",
   "category": "financial-modeling",
-  "tags": [],
+  "tags": [
+    "agentic-ai",
+    "large-language-models"
+  ],
   "author": {
-    "type": "user",
-    "handle": "liuchenbaidu",
-    "url": "https://github.com/liuchenbaidu"
+    "type": "org",
+    "handle": "Y-Research-SBU",
+    "url": "https://github.com/Y-Research-SBU"
   },
   "source": {
     "primary": "github",
-    "github": "liuchenbaidu/QuantAgent",
+    "github": "Y-Research-SBU/QuantAgent",
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 7,
+    "stars": 2782,
     "downloads_30d": null,
-    "last_commit_at": "2025-01-12T14:41:06Z",
-    "first_commit_at": "2025-01-11T11:40:05Z",
-    "forks": 2,
-    "watchers": 1,
-    "open_issues": 0,
+    "last_commit_at": "2026-05-08T05:31:06Z",
+    "first_commit_at": "2025-07-10T01:48:16Z",
+    "forks": 603,
+    "watchers": 25,
+    "open_issues": 5,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +43,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1999,
-  "rank_in_category": 244,
+  "composite_score": 0.5153,
+  "rank_in_category": 32,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-09T16:22:22.533987Z",
-  "last_refreshed_at": "2026-07-09T16:22:22.533991Z",
+  "first_seen_at": "2026-07-10T16:00:46.405717Z",
+  "last_refreshed_at": "2026-07-10T16:00:46.405721Z",
   "consecutive_refresh_failures": 0
 }

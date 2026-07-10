@@ -1,7 +1,7 @@
 {
   "slug": "candor-ai",
   "name": "candor-ai",
-  "tagline": "Lawful Good Rust Agentic Operating System — production-grade agent harness with WASM sandboxing, heterogeneous inference, SurrealDB memory, sentinel guardrails, and 7-phase autonomous execution (Algor",
+  "tagline": "Lawful Good Rust Agentic Operating System — production-grade agent harness with WASM sandboxing, heterogeneous inference, SurrealDB memory, sentinel guardrails.",
   "category": "coding",
   "tags": [
     "agentic-ai",
@@ -24,7 +24,7 @@
     "primary": "github",
     "github": "iknowkungfubar/candor-ai",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://turintechsolutions.com/"
   },
   "license": "MIT",
   "metrics": {
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2235,
-  "rank_in_category": 622,
+  "composite_score": 0.2226,
+  "rank_in_category": 626,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-07T14:52:38.414370Z",
-  "last_refreshed_at": "2026-07-09T15:56:45.276007Z",
+  "last_refreshed_at": "2026-07-10T15:33:39.851580Z",
   "consecutive_refresh_failures": 0
 }

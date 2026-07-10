@@ -1,7 +1,7 @@
 {
   "slug": "tripstar-java",
   "name": "TripStar-Java",
-  "tagline": "TripStar Java 实现版：基于 Spring Boot 4 + Spring AI Alibaba ReactAgent 的 AI 旅行规划后端，支持高德 Tool、小红书内容接入和 Structured Output。",
+  "tagline": "TripStar Java 实现版：基于 Spring Boot 4 + Spring AI Alibaba StateGraph/ReactAgent 的 AI 旅行规划后端，支持高德 Tool、小红书内容接入、Structured Output 和 Agent Trace。",
   "category": "web-dev",
   "tags": [
     "ai-agent",
@@ -30,8 +30,8 @@
   "metrics": {
     "stars": 36,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-08T07:09:34Z",
-    "first_commit_at": "2026-07-06T03:28:24Z",
+    "last_commit_at": "2026-07-10T07:21:43Z",
+    "first_commit_at": "2026-07-01T14:51:32Z",
     "forks": 4,
     "watchers": 0,
     "open_issues": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3932,
-  "rank_in_category": 194,
+  "composite_score": 0.3951,
+  "rank_in_category": 191,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-06T16:32:28.856793Z",
-  "last_refreshed_at": "2026-07-09T16:06:02.226030Z",
+  "last_refreshed_at": "2026-07-10T15:43:58.414727Z",
   "consecutive_refresh_failures": 0
 }

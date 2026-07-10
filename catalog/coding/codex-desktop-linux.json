@@ -1,0 +1,60 @@
+{
+  "slug": "codex-desktop-linux",
+  "name": "codex-desktop-linux",
+  "tagline": "Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.",
+  "category": "coding",
+  "tags": [
+    "ai-coding",
+    "appimage",
+    "archlinux",
+    "chatgpt",
+    "chatgpt-desktop",
+    "codex",
+    "codex-desktop",
+    "debian",
+    "desktop-app",
+    "electron"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ilysenko",
+    "url": "https://github.com/ilysenko"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ilysenko/codex-desktop-linux",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2303,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-10T15:33:12Z",
+    "first_commit_at": "2026-02-05T08:29:36Z",
+    "forks": 293,
+    "watchers": 14,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3628,
+  "rank_in_category": 230,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-10T15:35:40.102810Z",
+  "last_refreshed_at": "2026-07-10T15:35:40.102813Z",
+  "consecutive_refresh_failures": 0
+}
