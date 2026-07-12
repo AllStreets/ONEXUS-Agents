@@ -1,0 +1,56 @@
+{
+  "slug": "librecode",
+  "name": "LibreCode",
+  "tagline": "LibreCode - A Ollama cursor like coding / Reversing Interface",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "coding",
+    "csharp",
+    "decompiler",
+    "reversing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "re4",
+    "url": "https://github.com/re4"
+  },
+  "source": {
+    "primary": "github",
+    "github": "re4/LibreCode",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1016273,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-16T13:30:12Z",
+    "first_commit_at": "2026-04-10T04:55:01Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 295062,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3528,
+  "rank_in_category": 241,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-12T14:27:48.371707Z",
+  "last_refreshed_at": "2026-07-12T14:27:48.371711Z",
+  "consecutive_refresh_failures": 0
+}

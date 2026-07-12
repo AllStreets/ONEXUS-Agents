@@ -1,0 +1,56 @@
+{
+  "slug": "tradingspy-tradingagentservice",
+  "name": "TradingSpy-TradingAgentService",
+  "tagline": "Fully local trading agent with loop engineering doing research, trading strategy generation and backtesting",
+  "category": "financial-modeling",
+  "tags": [
+    "agent",
+    "backtesting",
+    "generative-ai",
+    "loop",
+    "trading",
+    "trading-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mrhustlex",
+    "url": "https://github.com/mrhustlex"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mrhustlex/TradingSpy-TradingAgentService",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-11T22:53:26Z",
+    "first_commit_at": "2026-06-23T10:19:53Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4057,
+  "rank_in_category": 82,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-12T14:44:23.465914Z",
+  "last_refreshed_at": "2026-07-12T14:44:23.465917Z",
+  "consecutive_refresh_failures": 0
+}

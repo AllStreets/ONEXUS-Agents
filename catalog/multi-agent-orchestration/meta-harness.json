@@ -1,0 +1,52 @@
+{
+  "slug": "meta-harness",
+  "name": "meta-harness",
+  "tagline": "Reference code for the Meta-Harness paper.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "harness-engineering",
+    "llm-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "stanford-iris-lab",
+    "url": "https://github.com/stanford-iris-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "stanford-iris-lab/meta-harness",
+    "huggingface": null,
+    "homepage": "https://yoonholee.com/meta-harness/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1259,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-11T22:25:06Z",
+    "first_commit_at": "2026-04-15T05:34:48Z",
+    "forks": 122,
+    "watchers": 8,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3885,
+  "rank_in_category": 228,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-12T14:48:46.370619Z",
+  "last_refreshed_at": "2026-07-12T14:48:46.370622Z",
+  "consecutive_refresh_failures": 0
+}
