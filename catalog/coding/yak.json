@@ -1,0 +1,49 @@
+{
+  "slug": "yak",
+  "name": "yak",
+  "tagline": "Yak is an autonomous coding agent for papercuts. It picks up small tasks from Slack, Linear, Sentry, and GitHub and delivers reviewable pull requests while you work on what matters.",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "Geocodio",
+    "url": "https://github.com/Geocodio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Geocodio/yak",
+    "huggingface": null,
+    "homepage": "https://geocodio.github.io/yak/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T07:00:24Z",
+    "first_commit_at": "2026-04-10T19:15:12Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2355,
+  "rank_in_category": 585,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-12T14:32:43.197228Z",
+  "last_refreshed_at": "2026-07-12T14:32:43.197231Z",
+  "consecutive_refresh_failures": 0
+}
