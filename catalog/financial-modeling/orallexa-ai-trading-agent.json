@@ -1,7 +1,7 @@
 {
   "slug": "orallexa-ai-trading-agent",
   "name": "orallexa-ai-trading-agent",
-  "tagline": "Self-tuning multi-agent AI trading system. 8-source signal fusion (Polymarket + Kalshi + 10 ML models incl. Kronos foundation model), Bull/Bear/Judge debate on Claude Opus 4.7, Portfolio Manager gate.",
+  "tagline": "Self-tuning multi-agent AI trading system. 8-source signal fusion, Bull/Bear/Judge debate on Claude Opus 4.7, Kelly + ATR position sizing. Python · Kalshi + Polymarket adapters.",
   "category": "financial-modeling",
   "tags": [
     "agentic",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 56,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-08T14:24:27Z",
+    "last_commit_at": "2026-07-12T15:08:32Z",
     "first_commit_at": "2026-04-01T15:13:34Z",
     "forks": 17,
     "watchers": 1,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4453,
-  "rank_in_category": 63,
+  "composite_score": 0.4498,
+  "rank_in_category": 64,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:24:34.638269Z",
-  "last_refreshed_at": "2026-07-12T14:44:21.028434Z",
+  "last_refreshed_at": "2026-07-13T16:04:00.036276Z",
   "consecutive_refresh_failures": 0
 }
