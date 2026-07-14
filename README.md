@@ -4,8 +4,8 @@
 
 &nbsp;
 
-<a href="https://onexus-agents.vercel.app"><img alt="agents" src="https://img.shields.io/badge/agents-7%2C500%2B-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
-<a href="https://onexus-agents.vercel.app/runnable"><img alt="runnable" src="https://img.shields.io/badge/runnable_via_mcp-770%2B-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
+<a href="https://onexus-agents.vercel.app"><img alt="agents" src="https://img.shields.io/badge/agents-7%2C000%2B-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
+<a href="https://onexus-agents.vercel.app/runnable"><img alt="runnable" src="https://img.shields.io/badge/runnable_via_mcp-500%2B-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
 <a href="https://onexus-agents.vercel.app/catalog"><img alt="categories" src="https://img.shields.io/badge/categories-40-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
 <a href="https://github.com/AllStreets/ONEXUS-Agents/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/badge/license-Apache--2.0-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
 <br/>
