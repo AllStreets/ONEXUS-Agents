@@ -1,0 +1,64 @@
+{
+  "slug": "headroom",
+  "name": "headroom",
+  "tagline": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "ai",
+    "anthropic",
+    "claude-code",
+    "compression",
+    "context-engineering",
+    "context-window",
+    "cursor",
+    "fastapi",
+    "langchain"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "headroomlabs-ai",
+    "url": "https://github.com/headroomlabs-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "headroomlabs-ai/headroom",
+    "huggingface": null,
+    "homepage": "https://headroom-docs.vercel.app/docs"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 59097,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-14T14:51:01Z",
+    "first_commit_at": "2026-01-07T07:16:58Z",
+    "forks": 4386,
+    "watchers": 177,
+    "open_issues": 513,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4843,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-14T14:53:03.019728Z",
+  "last_refreshed_at": "2026-07-14T14:53:03.019732Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "browser-agent",
+  "name": "browser-agent",
+  "tagline": "An open-source AI agent for the browser. Bring any model. It plans in the side panel, acts on real pages through tools, and verifies every claimed result against the live DOM — with guardrails and reu",
+  "category": "web-dev",
+  "tags": [
+    "agent-harness",
+    "ai-agent",
+    "autonomous-agent",
+    "browser-automation",
+    "chrome-extension",
+    "llm",
+    "manifest-v3",
+    "tool-use",
+    "typescript",
+    "web-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "uiuing",
+    "url": "https://github.com/uiuing"
+  },
+  "source": {
+    "primary": "github",
+    "github": "uiuing/browser-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-09T05:45:17Z",
+    "first_commit_at": "2026-07-09T05:07:21Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.337,
+  "rank_in_category": 238,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-14T15:02:15.074787Z",
+  "last_refreshed_at": "2026-07-14T15:02:15.074790Z",
+  "consecutive_refresh_failures": 0
+}

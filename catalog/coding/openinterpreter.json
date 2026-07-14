@@ -1,7 +1,7 @@
 {
   "slug": "openinterpreter",
   "name": "openinterpreter",
-  "tagline": "A lightweight coding agent for open models like Deepseek, Kimi, and Qwen",
+  "tagline": "A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi",
   "category": "coding",
   "tags": [
     "coding-agent",
@@ -25,13 +25,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 64363,
+    "stars": 64928,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-07T00:59:25Z",
+    "last_commit_at": "2026-07-14T10:06:32Z",
     "first_commit_at": "2025-04-16T16:56:08Z",
-    "forks": 5609,
+    "forks": 5625,
     "watchers": 463,
-    "open_issues": 275,
+    "open_issues": 277,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -48,10 +48,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4336,
-  "rank_in_category": 74,
+  "composite_score": 0.44,
+  "rank_in_category": 62,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-11T16:55:31.114539Z",
-  "last_refreshed_at": "2026-07-13T15:42:04.280624Z",
+  "last_refreshed_at": "2026-07-14T14:50:11.465494Z",
   "consecutive_refresh_failures": 0
 }

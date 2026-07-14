@@ -11,9 +11,9 @@
     "cost-tracking",
     "cursor-ide",
     "developer-tools",
+    "menubar",
     "observability",
-    "terminal-ui",
-    "token-usage"
+    "terminal-ui"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 8641,
+    "stars": 8654,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-10T18:13:06Z",
+    "last_commit_at": "2026-07-14T06:43:54Z",
     "first_commit_at": "2026-04-13T22:10:27Z",
-    "forks": 675,
+    "forks": 679,
     "watchers": 28,
-    "open_issues": 39,
+    "open_issues": 40,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3759,
-  "rank_in_category": 199,
+  "composite_score": 0.3786,
+  "rank_in_category": 191,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:20:38.902255Z",
-  "last_refreshed_at": "2026-07-13T15:44:11.649877Z",
+  "last_refreshed_at": "2026-07-14T14:52:40.905406Z",
   "consecutive_refresh_failures": 0
 }

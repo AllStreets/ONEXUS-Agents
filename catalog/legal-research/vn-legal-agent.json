@@ -1,0 +1,56 @@
+{
+  "slug": "vn-legal-agent",
+  "name": "VN-legal-agent",
+  "tagline": "Vietnamese legal decision-support service focused initially on land law.",
+  "category": "legal-research",
+  "tags": [
+    "decision-support",
+    "land-law",
+    "legal-agent",
+    "legal-ai",
+    "rag",
+    "vietnamese-law"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "thienhocdata",
+    "url": "https://github.com/thienhocdata"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thienhocdata/VN-legal-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-14T15:16:17Z",
+    "first_commit_at": "2026-07-14T03:02:12Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.205,
+  "rank_in_category": 114,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-14T15:22:31.688252Z",
+  "last_refreshed_at": "2026-07-14T15:22:31.688255Z",
+  "consecutive_refresh_failures": 0
+}

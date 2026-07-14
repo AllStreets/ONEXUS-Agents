@@ -1,0 +1,63 @@
+{
+  "slug": "bike4mind",
+  "name": "bike4mind",
+  "tagline": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1,  auto-converting to Apache-2.0 on a two-year",
+  "category": "data-science-ml",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-workbench",
+    "anthropic",
+    "llm",
+    "mcp",
+    "mongodb",
+    "multi-model",
+    "nextjs"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Bike4Mind",
+    "url": "https://github.com/Bike4Mind"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Bike4Mind/bike4mind",
+    "huggingface": null,
+    "homepage": "https://bike4mind.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 60,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-14T15:11:52Z",
+    "first_commit_at": "2026-07-05T03:21:44Z",
+    "forks": 17,
+    "watchers": 3,
+    "open_issues": 94,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3547,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-14T15:16:27.023559Z",
+  "last_refreshed_at": "2026-07-14T15:16:27.023563Z",
+  "consecutive_refresh_failures": 0
+}
