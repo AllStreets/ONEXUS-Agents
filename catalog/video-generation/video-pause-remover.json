@@ -1,0 +1,49 @@
+{
+  "slug": "video-pause-remover",
+  "name": "video-pause-remover",
+  "tagline": "Remove still/pause sections from videos at source quality. GPU-accelerated motion analysis (MLX/Metal or CuPy/CUDA), smart-cut export that stream-copies the source bit-identical, web UI + agent CLI.",
+  "category": "video-generation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "shihanqu",
+    "url": "https://github.com/shihanqu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shihanqu/video-pause-remover",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-14T17:32:30Z",
+    "first_commit_at": "2026-07-10T18:41:10Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2734,
+  "rank_in_category": 109,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-15T15:06:01.336777Z",
+  "last_refreshed_at": "2026-07-15T15:06:01.336780Z",
+  "consecutive_refresh_failures": 0
+}
