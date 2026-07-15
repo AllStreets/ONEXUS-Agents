@@ -1,0 +1,54 @@
+{
+  "slug": "hello-agents",
+  "name": "hello-agents",
+  "tagline": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "llm",
+    "rag",
+    "tutorial"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "datawhalechina",
+    "url": "https://github.com/datawhalechina"
+  },
+  "source": {
+    "primary": "github",
+    "github": "datawhalechina/hello-agents",
+    "huggingface": null,
+    "homepage": "https://hello-agents.datawhale.cc/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 66406,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-10T12:57:36Z",
+    "first_commit_at": "2025-09-07T09:50:26Z",
+    "forks": 8236,
+    "watchers": 196,
+    "open_issues": 147,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6577,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-15T15:01:40.735110Z",
+  "last_refreshed_at": "2026-07-15T15:01:40.735113Z",
+  "consecutive_refresh_failures": 0
+}

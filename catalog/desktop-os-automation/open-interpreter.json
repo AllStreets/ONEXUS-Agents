@@ -4,13 +4,12 @@
   "tagline": "Cross-listed — runs natural-language commands on the host OS.",
   "category": "desktop-os-automation",
   "tags": [
+    "acp",
     "coding-agent",
     "deepseek",
-    "interpreter",
     "kimi",
     "qwen",
-    "rust",
-    "tui"
+    "rust"
   ],
   "author": {
     "type": "org",
@@ -25,13 +24,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 64928,
+    "stars": 65229,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-14T10:06:32Z",
+    "last_commit_at": "2026-07-15T02:17:28Z",
     "first_commit_at": "2025-04-16T16:56:08Z",
-    "forks": 5625,
+    "forks": 5646,
     "watchers": 463,
-    "open_issues": 277,
+    "open_issues": 274,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -55,10 +54,10 @@
   ],
   "runnable": true,
   "adapter_ref": "adapters/open-interpreter/mcp.json",
-  "composite_score": 0.6065,
+  "composite_score": 0.6063,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-07-14T14:49:35.806380Z",
+  "last_refreshed_at": "2026-07-15T14:49:28.148317Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,49 @@
+{
+  "slug": "lrage",
+  "name": "LRAGE",
+  "tagline": "A framework for evaluating RAG pipelines, specifically adapted for the legal domain.",
+  "category": "legal-research",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "hoorangyee",
+    "url": "https://github.com/hoorangyee"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hoorangyee/LRAGE",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 77,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-03T07:19:55Z",
+    "first_commit_at": "2024-10-27T15:33:08Z",
+    "forks": 5,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3306,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-15T15:21:40.407886Z",
+  "last_refreshed_at": "2026-07-15T15:21:40.407889Z",
+  "consecutive_refresh_failures": 0
+}

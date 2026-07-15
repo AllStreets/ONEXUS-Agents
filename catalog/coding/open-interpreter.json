@@ -4,13 +4,12 @@
   "tagline": "Natural-language interface to your computer's shell, Python, and files.",
   "category": "coding",
   "tags": [
+    "acp",
     "coding-agent",
     "deepseek",
-    "interpreter",
     "kimi",
     "qwen",
-    "rust",
-    "tui"
+    "rust"
   ],
   "author": {
     "type": "org",
@@ -25,13 +24,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 64928,
+    "stars": 65225,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-14T10:06:32Z",
+    "last_commit_at": "2026-07-15T02:17:28Z",
     "first_commit_at": "2025-04-16T16:56:08Z",
-    "forks": 5625,
+    "forks": 5646,
     "watchers": 463,
-    "open_issues": 277,
+    "open_issues": 274,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -48,10 +47,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "adapters/open-interpreter/mcp.json",
-  "composite_score": 0.49,
-  "rank_in_category": 13,
+  "composite_score": 0.4898,
+  "rank_in_category": 12,
   "discovered_via": "seed",
   "first_seen_at": "2026-04-30T03:21:34.749284Z",
-  "last_refreshed_at": "2026-07-14T14:48:28.085826Z",
+  "last_refreshed_at": "2026-07-15T14:48:24.349933Z",
   "consecutive_refresh_failures": 0
 }
