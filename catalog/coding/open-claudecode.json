@@ -1,0 +1,60 @@
+{
+  "slug": "open-claudecode",
+  "name": "Open-ClaudeCode",
+  "tagline": "Research archive of Claude Code source and runtime artifacts reconstructed from published npm source maps.",
+  "category": "coding",
+  "tags": [
+    "ai-coding-assistant",
+    "anthropic",
+    "claude-code",
+    "developer-tools",
+    "research",
+    "reverse-engineering",
+    "source-maps",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "LING71671",
+    "url": "https://github.com/LING71671"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LING71671/Open-ClaudeCode",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 918,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-02T14:55:18Z",
+    "first_commit_at": "2026-03-31T16:18:02Z",
+    "forks": 1219,
+    "watchers": 1,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2934,
+  "rank_in_category": 443,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-16T15:01:53.014745Z",
+  "last_refreshed_at": "2026-07-16T15:01:53.014750Z",
+  "consecutive_refresh_failures": 0
+}

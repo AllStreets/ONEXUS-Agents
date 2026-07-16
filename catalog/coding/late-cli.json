@@ -1,7 +1,7 @@
 {
   "slug": "late-cli",
   "name": "late-cli",
-  "tagline": "Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs. Single static binary, any model. Zero config, zero context bloat.",
+  "tagline": "A zero-config AI coding agent. Solve real problems with small local models or big cloud APIs. Ephemeral subagents, single static binary, zero bloat.",
   "category": "coding",
   "tags": [
     "agent",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 379,
+    "stars": 380,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-14T21:44:56Z",
+    "last_commit_at": "2026-07-15T19:02:08Z",
     "first_commit_at": "2026-02-21T16:22:08Z",
     "forks": 37,
     "watchers": 5,
-    "open_issues": 3,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,9 +54,9 @@
   "runnable": true,
   "adapter_ref": "mcp/stdio",
   "composite_score": 0.385,
-  "rank_in_category": 174,
+  "rank_in_category": 172,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-03T14:12:04.822074Z",
-  "last_refreshed_at": "2026-07-15T14:51:10.479839Z",
+  "last_refreshed_at": "2026-07-16T15:02:02.207763Z",
   "consecutive_refresh_failures": 0
 }

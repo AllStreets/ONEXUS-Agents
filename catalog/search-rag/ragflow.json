@@ -4,16 +4,16 @@
   "tagline": "RAG engine with agentic multi-step retrieval flows.",
   "category": "search-rag",
   "tags": [
+    "agent-harness",
     "agentic-ai",
     "agentic-retrieval",
     "agentic-search",
     "ai",
     "ai-agents",
     "context-engine",
+    "context-engineering",
     "context-management",
-    "llm-apps",
-    "rag",
-    "retrieval-augmented-generation"
+    "harness-engineering"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 85105,
+    "stars": 85205,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-15T13:44:28Z",
+    "last_commit_at": "2026-07-16T13:35:12Z",
     "first_commit_at": "2023-12-12T06:13:13Z",
-    "forks": 9934,
+    "forks": 9951,
     "watchers": 348,
-    "open_issues": 2154,
+    "open_issues": 2148,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4886,
+  "composite_score": 0.5385,
   "rank_in_category": 7,
   "discovered_via": "seed",
   "first_seen_at": "2026-04-30T03:22:26.892356Z",
-  "last_refreshed_at": "2026-07-15T14:49:20.882386Z",
+  "last_refreshed_at": "2026-07-16T15:00:33.115743Z",
   "consecutive_refresh_failures": 0
 }

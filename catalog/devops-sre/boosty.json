@@ -1,7 +1,7 @@
 {
   "slug": "boosty",
   "name": "boosty",
-  "tagline": "All-in-One Solana + EVM Volume Booster with a built-in Volume Bot and Deployer.  [WIP]",
+  "tagline": "boosty",
   "category": "devops-sre",
   "tags": [
     "automation",
@@ -26,13 +26,13 @@
     "huggingface": null,
     "homepage": "https://github.com/nirholas/boosty"
   },
-  "license": "Apache-2.0",
+  "license": "NOASSERTION",
   "metrics": {
-    "stars": 26,
+    "stars": 27,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-07T05:08:14Z",
+    "last_commit_at": "2026-07-14T03:33:45Z",
     "first_commit_at": "2026-01-26T06:08:43Z",
-    "forks": 3,
+    "forks": 4,
     "watchers": 0,
     "open_issues": 1,
     "archived": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3891,
-  "rank_in_category": 120,
+  "composite_score": 0.4719,
+  "rank_in_category": 70,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:18.583462Z",
-  "last_refreshed_at": "2026-06-23T16:08:07.359379Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-16T15:22:02.067301Z",
+  "consecutive_refresh_failures": 0
 }
