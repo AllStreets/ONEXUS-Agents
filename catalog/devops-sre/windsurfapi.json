@@ -1,19 +1,19 @@
 {
   "slug": "windsurfapi",
   "name": "WindsurfAPI",
-  "tagline": "Windsurf OpenAI-compatible and Anthropic-compatible LLM API proxy",
+  "tagline": "Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude C",
   "category": "devops-sre",
   "tags": [
     "anthropic-compatible",
-    "api-proxy",
+    "api-gateway",
+    "claude",
     "claude-code",
     "cline",
+    "codeium",
     "cursor",
-    "docker",
-    "llm-gateway",
-    "llm-proxy",
-    "openai-compatible",
-    "reverse-engineering"
+    "deepseek",
+    "devin",
+    "devin-api"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 2875,
+    "stars": 2893,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-07T00:13:33Z",
+    "last_commit_at": "2026-07-16T08:27:57Z",
     "first_commit_at": "2026-04-09T09:41:58Z",
-    "forks": 603,
+    "forks": 601,
     "watchers": 13,
-    "open_issues": 6,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5585,
-  "rank_in_category": 33,
+  "composite_score": 0.571,
+  "rank_in_category": 31,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:48:02.791235Z",
-  "last_refreshed_at": "2026-07-07T15:51:11.357360Z",
-  "consecutive_refresh_failures": 8
+  "last_refreshed_at": "2026-07-16T15:07:43.488087Z",
+  "consecutive_refresh_failures": 0
 }
