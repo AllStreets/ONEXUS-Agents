@@ -1,7 +1,7 @@
 {
   "slug": "open-multi-agent",
   "name": "open-multi-agent",
-  "tagline": "TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, ChatGPT, Gemini, DeepSeek, or local models. ",
+  "tagline": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepS",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-framework",
@@ -9,11 +9,11 @@
     "agentic-ai",
     "ai-agents",
     "anthropic",
-    "autogen-alternative",
     "claude",
+    "claude-code",
     "crewai-alternative",
     "deepseek",
-    "gemini"
+    "dynamic-workflows"
   ],
   "author": {
     "type": "org",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "open-multi-agent/open-multi-agent",
     "huggingface": null,
-    "homepage": "https://open-multi-agent.com/?utm_source=github"
+    "homepage": "https://open-multi-agent.com/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 6428,
+    "stars": 6612,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T09:15:23Z",
+    "last_commit_at": "2026-07-17T12:57:21Z",
     "first_commit_at": "2026-03-31T20:33:15Z",
-    "forks": 2398,
-    "watchers": 61,
-    "open_issues": 5,
+    "forks": 2415,
+    "watchers": 58,
+    "open_issues": 8,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.48,
-  "rank_in_category": 43,
+  "composite_score": 0.5008,
+  "rank_in_category": 29,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-10T14:39:50.247521Z",
-  "last_refreshed_at": "2026-06-24T16:42:24.854954Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T16:01:06.203493Z",
+  "consecutive_refresh_failures": 0
 }

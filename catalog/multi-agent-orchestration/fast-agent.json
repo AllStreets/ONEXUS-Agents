@@ -1,9 +1,10 @@
 {
   "slug": "fast-agent",
   "name": "fast-agent",
-  "tagline": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support",
+  "tagline": "Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support",
   "category": "multi-agent-orchestration",
   "tags": [
+    "a2a",
     "acp",
     "agent",
     "agent-framework",
@@ -12,8 +13,7 @@
     "mcp",
     "mcp-client",
     "mcp-server",
-    "python",
-    "skills"
+    "python"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 3838,
+    "stars": 3859,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T08:51:10Z",
+    "last_commit_at": "2026-07-17T10:33:54Z",
     "first_commit_at": "2024-12-18T01:55:10Z",
-    "forks": 407,
-    "watchers": 24,
-    "open_issues": 26,
+    "forks": 418,
+    "watchers": 23,
+    "open_issues": 22,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.495,
-  "rank_in_category": 25,
+  "composite_score": 0.5156,
+  "rank_in_category": 19,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:29:24.492956Z",
-  "last_refreshed_at": "2026-06-24T16:42:35.292209Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T16:01:20.464318Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,62 @@
+{
+  "slug": "ezpz-evals",
+  "name": "ezpz-evals",
+  "tagline": "Local-first eval harness for unstructured-document extraction — compare LLMs, OCR/IDP tools, and strategies (cascade/ensemble/verify) on the same cohort.",
+  "category": "document-processing",
+  "tags": [
+    "anthropic",
+    "benchmark",
+    "document-extraction",
+    "evals",
+    "gemini",
+    "idp",
+    "information-extraction",
+    "llm",
+    "llm-evaluation",
+    "ocr"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jonmoubayed",
+    "url": "https://github.com/jonmoubayed"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jonmoubayed/ezpz-evals",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-06T14:57:04Z",
+    "first_commit_at": "2026-06-15T01:01:57Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4301,
+  "rank_in_category": 117,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:29:49.964249Z",
+  "last_refreshed_at": "2026-07-17T15:29:49.964252Z",
+  "consecutive_refresh_failures": 0
+}

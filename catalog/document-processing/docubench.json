@@ -1,0 +1,60 @@
+{
+  "slug": "docubench",
+  "name": "DocuBench",
+  "tagline": "Public benchmark for document data extraction - hand-verified labels, schemas, a standalone scorer, and per-document results across 50 hard public documents.",
+  "category": "document-processing",
+  "tags": [
+    "benchmark",
+    "dataset",
+    "document-ai",
+    "document-extraction",
+    "document-understanding",
+    "information-extraction",
+    "key-information-extraction",
+    "llm-evaluation",
+    "ocr",
+    "structured-data"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "DocuPipe",
+    "url": "https://github.com/DocuPipe"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DocuPipe/DocuBench",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T18:33:25Z",
+    "first_commit_at": "2026-06-25T20:24:57Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4248,
+  "rank_in_category": 121,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:29:45.022147Z",
+  "last_refreshed_at": "2026-07-17T15:29:45.022150Z",
+  "consecutive_refresh_failures": 0
+}

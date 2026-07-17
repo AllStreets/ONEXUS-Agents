@@ -1,0 +1,49 @@
+{
+  "slug": "kg-builder",
+  "name": "kg_builder",
+  "tagline": "LLM-powered Knowledge Graph Builder that extracts entities and relationships from documents (PDF, DOCX, TXT) and builds a Neo4j knowledge graph with full provenance tracking. Includes a **Graph Reason",
+  "category": "document-processing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "fab679",
+    "url": "https://github.com/fab679"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fab679/kg_builder",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-04T11:28:10Z",
+    "first_commit_at": "2026-02-04T07:36:24Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3171,
+  "rank_in_category": 181,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:12.768843Z",
+  "last_refreshed_at": "2026-07-17T15:58:14.087992Z",
+  "consecutive_refresh_failures": 0
+}

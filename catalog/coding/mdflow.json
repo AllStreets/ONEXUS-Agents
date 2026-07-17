@@ -1,0 +1,49 @@
+{
+  "slug": "mdflow",
+  "name": "mdflow",
+  "tagline": "Multi-backend CLI for executable markdown prompts. Run .md files against Claude, Codex, Gemini, or Copilot.",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "johnlindquist",
+    "url": "https://github.com/johnlindquist"
+  },
+  "source": {
+    "primary": "github",
+    "github": "johnlindquist/mdflow",
+    "huggingface": null,
+    "homepage": "https://mdflowdev.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 597,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T21:48:00Z",
+    "first_commit_at": "2025-12-04T21:35:02Z",
+    "forks": 42,
+    "watchers": 3,
+    "open_issues": 20,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3315,
+  "rank_in_category": 321,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:31:27.871129Z",
+  "last_refreshed_at": "2026-07-17T15:31:27.871132Z",
+  "consecutive_refresh_failures": 0
+}

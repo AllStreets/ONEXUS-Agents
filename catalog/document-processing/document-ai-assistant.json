@@ -1,0 +1,59 @@
+{
+  "slug": "document-ai-assistant",
+  "name": "document-ai-assistant",
+  "tagline": "AI 公文智能优化助手 — 基于 GB/T 9704 的公文格式智能检测与优化",
+  "category": "document-processing",
+  "tags": [
+    "ai",
+    "chinese-document",
+    "doc",
+    "document-processing",
+    "docx",
+    "gb9704",
+    "office-automation",
+    "wps",
+    "wps-office"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "linhut",
+    "url": "https://github.com/linhut"
+  },
+  "source": {
+    "primary": "github",
+    "github": "linhut/document-ai-assistant",
+    "huggingface": null,
+    "homepage": "https://doc.linhut.cn/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 39,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-13T01:27:22Z",
+    "first_commit_at": "2026-06-24T18:46:17Z",
+    "forks": 10,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4794,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:34:18.455009Z",
+  "last_refreshed_at": "2026-07-17T15:34:18.455012Z",
+  "consecutive_refresh_failures": 0
+}

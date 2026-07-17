@@ -1,0 +1,63 @@
+{
+  "slug": "claude-code-everything-you-need-to-know",
+  "name": "Claude-Code-Everything-You-Need-to-Know",
+  "tagline": "A practical Claude Code guide with clear mental models and copy-paste examples — setup, prompt engineering, slash commands, skills, hooks, subagents, agent teams, and MCP servers. Beginner path to pow",
+  "category": "coding",
+  "tags": [
+    "agent-skills",
+    "agentic-coding",
+    "ai-agents",
+    "anthropic",
+    "anthropic-claude",
+    "best-practices",
+    "claude",
+    "claude-ai",
+    "claude-code",
+    "claude-code-guide"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wesammustafa",
+    "url": "https://github.com/wesammustafa"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wesammustafa/Claude-Code-Everything-You-Need-to-Know",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2326,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-05T12:39:29Z",
+    "first_commit_at": "2025-08-17T14:45:39Z",
+    "forks": 265,
+    "watchers": 36,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4279,
+  "rank_in_category": 91,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:38:19.448578Z",
+  "last_refreshed_at": "2026-07-17T15:38:19.448581Z",
+  "consecutive_refresh_failures": 0
+}

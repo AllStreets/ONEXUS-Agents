@@ -1,0 +1,62 @@
+{
+  "slug": "fillform",
+  "name": "fillform",
+  "tagline": "Evidence-based document extraction API for form filling. Local-first (Ollama), also supports OpenAI-compatible endpoints and Claude.",
+  "category": "document-processing",
+  "tags": [
+    "anthropic",
+    "document-extraction",
+    "fastapi",
+    "form-filling",
+    "llm",
+    "ollama",
+    "openai",
+    "python",
+    "rag",
+    "self-hosted"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "bitify-it",
+    "url": "https://github.com/bitify-it"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bitify-it/fillform",
+    "huggingface": null,
+    "homepage": "https://github.com/bitify-it/fillform"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-02T09:58:24Z",
+    "first_commit_at": "2026-07-02T09:33:56Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4187,
+  "rank_in_category": 125,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:29:50.993951Z",
+  "last_refreshed_at": "2026-07-17T15:29:50.993954Z",
+  "consecutive_refresh_failures": 0
+}

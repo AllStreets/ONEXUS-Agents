@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-for-beginners",
   "name": "ai-agents-for-beginners",
-  "tagline": "12 Lessons to Get Started Building AI Agents",
+  "tagline": "18 Lessons to Get Started Building AI Agents",
   "category": "multi-agent-orchestration",
   "tags": [
     "agentic-ai",
@@ -10,8 +10,10 @@
     "ai-agents",
     "ai-agents-framework",
     "autogen",
+    "foundry",
+    "foundry-local",
     "generative-ai",
-    "semantic-kernel"
+    "microsoft-foundry"
   ],
   "author": {
     "type": "org",
@@ -26,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 67883,
+    "stars": 69629,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-23T13:22:38Z",
-    "first_commit_at": "2024-11-28T10:42:52Z",
-    "forks": 22510,
-    "watchers": 547,
-    "open_issues": 9,
+    "last_commit_at": "2026-07-16T15:45:57Z",
+    "first_commit_at": "2024-11-28T10:42:53Z",
+    "forks": 23090,
+    "watchers": 546,
+    "open_issues": 3,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5041,
-  "rank_in_category": 19,
+  "composite_score": 0.5248,
+  "rank_in_category": 13,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:13:09.759545Z",
-  "last_refreshed_at": "2026-06-24T16:25:15.058990Z",
-  "consecutive_refresh_failures": 21
+  "first_seen_at": "2026-07-17T15:27:57.728015Z",
+  "last_refreshed_at": "2026-07-17T15:27:57.728018Z",
+  "consecutive_refresh_failures": 0
 }

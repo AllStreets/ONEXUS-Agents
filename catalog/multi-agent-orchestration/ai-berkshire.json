@@ -1,0 +1,63 @@
+{
+  "slug": "ai-berkshire",
+  "name": "ai-berkshire",
+  "tagline": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "anthropic",
+    "berkshire-hathaway",
+    "charlie-munger",
+    "china-stock",
+    "claude",
+    "claude-code",
+    "financial-analysis",
+    "fintech"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "xbtlin",
+    "url": "https://github.com/xbtlin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xbtlin/ai-berkshire",
+    "huggingface": null,
+    "homepage": "https://github.com/xbtlin/ai-berkshire#readme"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13283,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-17T16:00:15Z",
+    "first_commit_at": "2026-04-07T11:19:38Z",
+    "forks": 1849,
+    "watchers": 66,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5069,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T16:02:19.032619Z",
+  "last_refreshed_at": "2026-07-17T16:02:19.032622Z",
+  "consecutive_refresh_failures": 0
+}

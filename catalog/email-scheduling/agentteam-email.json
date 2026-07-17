@@ -1,0 +1,60 @@
+{
+  "slug": "agentteam-email",
+  "name": "agentteam-email",
+  "tagline": "Open-source email infrastructure for AI agents.",
+  "category": "email-scheduling",
+  "tags": [
+    "agent-skills",
+    "ai",
+    "ai-agents",
+    "aws-ses",
+    "cli",
+    "cloudflare",
+    "cloudflare-r2",
+    "cloudflare-workers",
+    "docker",
+    "docker-compose"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agentteamhq",
+    "url": "https://github.com/agentteamhq"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agentteamhq/agentteam-email",
+    "huggingface": null,
+    "homepage": "https://www.agentteam.email/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 70,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-10T17:26:19Z",
+    "first_commit_at": "2026-06-20T13:12:54Z",
+    "forks": 1,
+    "watchers": 3,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4784,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:37:41.255956Z",
+  "last_refreshed_at": "2026-07-17T15:37:41.255959Z",
+  "consecutive_refresh_failures": 0
+}

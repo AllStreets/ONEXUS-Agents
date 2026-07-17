@@ -1,0 +1,58 @@
+{
+  "slug": "compete",
+  "name": "compete",
+  "tagline": "Scheduled agents track competitors across sites, blogs, pricing, news, and job posts. An LLM extracts structured signals, DuckDB stores it, changes get flagged, and a dashboard plus auto weekly report",
+  "category": "data-engineering",
+  "tags": [
+    "competitive-intelligence",
+    "data-engineering",
+    "duckdb",
+    "etl-pipeline",
+    "fastapi",
+    "llm",
+    "scala",
+    "web-scraping-playwright"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yassnemo",
+    "url": "https://github.com/yassnemo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yassnemo/compete",
+    "huggingface": null,
+    "homepage": "https://compete.yerradouani.me/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-03T17:25:14Z",
+    "first_commit_at": "2026-06-17T19:22:26Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4169,
+  "rank_in_category": 73,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:38:04.999156Z",
+  "last_refreshed_at": "2026-07-17T15:38:04.999159Z",
+  "consecutive_refresh_failures": 0
+}

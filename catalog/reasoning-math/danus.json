@@ -1,0 +1,58 @@
+{
+  "slug": "danus",
+  "name": "Danus",
+  "tagline": "Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory",
+  "category": "reasoning-math",
+  "tags": [
+    "agents",
+    "ai4math",
+    "automated-reasoning",
+    "claude-code",
+    "codex",
+    "llm",
+    "mathematics",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "frenzymath",
+    "url": "https://github.com/frenzymath"
+  },
+  "source": {
+    "primary": "github",
+    "github": "frenzymath/Danus",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 71,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-14T19:08:05Z",
+    "first_commit_at": "2026-07-07T18:48:56Z",
+    "forks": 18,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2826,
+  "rank_in_category": 85,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:57:52.830512Z",
+  "last_refreshed_at": "2026-07-17T15:57:52.830521Z",
+  "consecutive_refresh_failures": 0
+}

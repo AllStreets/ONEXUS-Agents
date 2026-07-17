@@ -1,7 +1,7 @@
 {
   "slug": "puppetmaster",
   "name": "Puppetmaster",
-  "tagline": "Provider-neutral control plane for agent swarms: subprocess workers, leases, artifacts, memory, and deterministic stitching.",
+  "tagline": "Provider-neutral control plane for durable-state agent swarms: subprocess workers, leases, artifacts, memory, and deterministic stitching.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-swarms",
@@ -28,12 +28,12 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 62,
+    "stars": 217,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T15:58:25Z",
+    "last_commit_at": "2026-07-17T07:00:37Z",
     "first_commit_at": "2026-05-06T18:34:56Z",
-    "forks": 11,
-    "watchers": 0,
+    "forks": 22,
+    "watchers": 1,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3527,
-  "rank_in_category": 294,
+  "composite_score": 0.3915,
+  "rank_in_category": 244,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-19T17:06:16.993758Z",
-  "last_refreshed_at": "2026-06-24T16:44:31.621252Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T16:04:25.884004Z",
+  "consecutive_refresh_failures": 0
 }

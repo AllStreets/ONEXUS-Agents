@@ -1,11 +1,12 @@
 {
   "slug": "lambchat",
   "name": "LambChat",
-  "tagline": "LambChat — Enterprise Agent Infrastructure for governed AI agents. Skills + MCP powered, Loop Agent ready, multi-tenant by design.",
+  "tagline": "LambChat — Enterprise Agent Infra for governed AI agents. Skills + MCP powered, Loop Agent ready, multi-tenant by design.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent",
     "deepagents",
+    "infra",
     "mcp",
     "skills"
   ],
@@ -22,13 +23,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 192,
+    "stars": 203,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T13:17:03Z",
+    "last_commit_at": "2026-07-14T18:02:28Z",
     "first_commit_at": "2026-02-27T05:33:40Z",
-    "forks": 35,
+    "forks": 40,
     "watchers": 0,
-    "open_issues": 4,
+    "open_issues": 5,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -47,10 +48,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4076,
-  "rank_in_category": 176,
+  "composite_score": 0.4266,
+  "rank_in_category": 158,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-24T16:33:26.608256Z",
-  "last_refreshed_at": "2026-06-24T16:33:26.608260Z",
-  "consecutive_refresh_failures": 21
+  "first_seen_at": "2026-07-17T15:45:13.413260Z",
+  "last_refreshed_at": "2026-07-17T15:45:13.413263Z",
+  "consecutive_refresh_failures": 0
 }

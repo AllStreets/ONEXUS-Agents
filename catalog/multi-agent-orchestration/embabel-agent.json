@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "embabel/embabel-agent",
     "huggingface": null,
-    "homepage": "https://docs.embabel.com/embabel-agent/guide/1.0.0-RC1-SNAPSHOT"
+    "homepage": "https://docs.embabel.com/embabel-agent/guide/1.0.0-SNAPSHOT"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 3711,
+    "stars": 3753,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T04:12:56Z",
+    "last_commit_at": "2026-07-17T15:12:43Z",
     "first_commit_at": "2025-03-28T08:06:03Z",
-    "forks": 362,
-    "watchers": 52,
-    "open_issues": 51,
+    "forks": 363,
+    "watchers": 54,
+    "open_issues": 47,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4719,
-  "rank_in_category": 50,
+  "composite_score": 0.4927,
+  "rank_in_category": 35,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:52:40.896069Z",
-  "last_refreshed_at": "2026-06-24T16:43:29.529749Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T16:02:31.880562Z",
+  "consecutive_refresh_failures": 0
 }

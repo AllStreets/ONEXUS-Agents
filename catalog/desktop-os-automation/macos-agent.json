@@ -1,30 +1,28 @@
 {
   "slug": "macos-agent",
   "name": "MacOS-Agent",
-  "tagline": "A powerful automation agent for macOS that enables natural language control of various system applications and services. This agent allows you to interact with your Mac using simple text commands, aut",
+  "tagline": "MacOS Agent: A Simplified Assistant for Your Mac",
   "category": "desktop-os-automation",
-  "tags": [
-    "computer-use-agent"
-  ],
+  "tags": [],
   "author": {
-    "type": "org",
-    "handle": "Computer-use-agents",
-    "url": "https://github.com/Computer-use-agents"
+    "type": "user",
+    "handle": "rainchen",
+    "url": "https://github.com/rainchen"
   },
   "source": {
     "primary": "github",
-    "github": "Computer-use-agents/MacOS-Agent",
+    "github": "rainchen/MacOS-Agent",
     "huggingface": null,
-    "homepage": "https://computer-use-agents.github.io/macos/"
+    "homepage": null
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 60,
+    "stars": 122,
     "downloads_30d": null,
-    "last_commit_at": "2025-06-05T10:21:50Z",
-    "first_commit_at": "2025-04-14T10:05:52Z",
-    "forks": 5,
-    "watchers": 4,
+    "last_commit_at": "2024-08-01T10:42:45Z",
+    "first_commit_at": "2024-07-16T02:55:08Z",
+    "forks": 12,
+    "watchers": 2,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -42,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2204,
-  "rank_in_category": 223,
+  "composite_score": 0.2416,
+  "rank_in_category": 212,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-01T14:36:33.929721Z",
-  "last_refreshed_at": "2026-06-24T16:23:50.269518Z",
-  "consecutive_refresh_failures": 21
+  "first_seen_at": "2026-07-17T15:25:26.571216Z",
+  "last_refreshed_at": "2026-07-17T15:25:26.571219Z",
+  "consecutive_refresh_failures": 0
 }

@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "ModelEngine-Group/nexent",
     "huggingface": null,
-    "homepage": "https://nexent.tech/"
+    "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 5279,
+    "stars": 5692,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T10:06:09Z",
+    "last_commit_at": "2026-07-17T15:43:46Z",
     "first_commit_at": "2025-04-28T09:38:30Z",
-    "forks": 659,
-    "watchers": 231,
-    "open_issues": 274,
+    "forks": 704,
+    "watchers": 251,
+    "open_issues": 205,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4928,
-  "rank_in_category": 30,
+  "composite_score": 0.5146,
+  "rank_in_category": 20,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:51:17.653594Z",
-  "last_refreshed_at": "2026-06-24T16:42:25.496649Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T16:01:07.142961Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "dingtalk-skills",
   "name": "dingtalk-skills",
-  "tagline": "【Openclaw & Hermes & 企业机器人🤖】钉钉Skill库，含：钉钉文档、AI(多维)表格、群(单)聊、会议室、日程、待办、通讯录、AI搜索等，自动管理配置，轻量级—仅依赖curl， skill经过严格测试。Lightweight DingTalk Skill Library (curl only). Includes AI search, docs, sheets, chat, m",
+  "tagline": "【Openclaw & Hermes & 企业机器人🤖】钉钉Skill库，含：钉钉文档、知识库、AI(多维)表格、群(单)聊、会议室、日程、待办、通讯录、AI搜索等，自动管理配置，轻量级—仅依赖curl， skill经过严格测试。Lightweight DingTalk Skill Library (curl only). Includes AI search, docs, sheets, cha",
   "category": "desktop-os-automation",
   "tags": [
     "agent-skills",
@@ -28,9 +28,9 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 83,
+    "stars": 92,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-17T08:10:52Z",
+    "last_commit_at": "2026-06-26T11:35:40Z",
     "first_commit_at": "2026-03-05T08:31:19Z",
     "forks": 9,
     "watchers": 1,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.32,
-  "rank_in_category": 108,
+  "composite_score": 0.3205,
+  "rank_in_category": 107,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:14:58.850865Z",
-  "last_refreshed_at": "2026-06-23T16:57:23.802473Z",
-  "consecutive_refresh_failures": 22
+  "first_seen_at": "2026-07-17T15:39:21.698602Z",
+  "last_refreshed_at": "2026-07-17T15:39:21.698605Z",
+  "consecutive_refresh_failures": 0
 }

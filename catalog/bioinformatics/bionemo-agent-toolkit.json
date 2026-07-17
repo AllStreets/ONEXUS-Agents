@@ -1,0 +1,49 @@
+{
+  "slug": "bionemo-agent-toolkit",
+  "name": "bionemo-agent-toolkit",
+  "tagline": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+  "category": "bioinformatics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "NVIDIA-BioNeMo",
+    "url": "https://github.com/NVIDIA-BioNeMo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVIDIA-BioNeMo/bionemo-agent-toolkit",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 380,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T20:18:23Z",
+    "first_commit_at": "2026-06-23T01:53:02Z",
+    "forks": 53,
+    "watchers": 4,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4964,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:53:24.769870Z",
+  "last_refreshed_at": "2026-07-17T15:53:24.769873Z",
+  "consecutive_refresh_failures": 0
+}

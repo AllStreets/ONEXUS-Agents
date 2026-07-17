@@ -1,0 +1,58 @@
+{
+  "slug": "aharness",
+  "name": "aharness",
+  "tagline": "The workflow harness for Codex: typed gates, validated evidence, controlled transitions, repair paths, and inspectable logs for any workflow.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-workflow",
+    "codex",
+    "finite-state-machine",
+    "fsm",
+    "harness",
+    "harness-execution-layer",
+    "showcase",
+    "xstate"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Alfredvc",
+    "url": "https://github.com/Alfredvc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Alfredvc/aharness",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-09T08:09:10Z",
+    "first_commit_at": "2026-05-28T06:59:26Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2718,
+  "rank_in_category": 514,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:54:16.981188Z",
+  "last_refreshed_at": "2026-07-17T15:54:16.981191Z",
+  "consecutive_refresh_failures": 0
+}

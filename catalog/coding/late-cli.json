@@ -1,19 +1,19 @@
 {
   "slug": "late-cli",
   "name": "late-cli",
-  "tagline": "A zero-config AI coding agent. Solve real problems with small local models or big cloud APIs. Ephemeral subagents, single static binary, zero bloat.",
+  "tagline": "Stop degrading your model's reasoning. A minimal, zero-config AI coding agent. Enforced ephemeral subagents keep context pure. From tiny local models up to Sol, Claude and Kimi K3.",
   "category": "coding",
   "tags": [
     "agent",
     "ai-agent",
-    "ai-agents",
-    "ai-coding-agent",
     "ai-coding-assistant",
     "ai-skills",
     "autonomous-agents",
     "claude",
     "coding-agent",
-    "coding-agents"
+    "gemini",
+    "glm",
+    "gpt"
   ],
   "author": {
     "type": "user",
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.385,
-  "rank_in_category": 172,
+  "composite_score": 0.384,
+  "rank_in_category": 187,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-03T14:12:04.822074Z",
-  "last_refreshed_at": "2026-07-16T15:02:02.207763Z",
+  "last_refreshed_at": "2026-07-17T14:45:12.213426Z",
   "consecutive_refresh_failures": 0
 }

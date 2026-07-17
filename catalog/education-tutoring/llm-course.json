@@ -1,0 +1,55 @@
+{
+  "slug": "llm-course",
+  "name": "llm-course",
+  "tagline": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+  "category": "education-tutoring",
+  "tags": [
+    "course",
+    "large-language-models",
+    "llm",
+    "machine-learning",
+    "roadmap"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mlabonne",
+    "url": "https://github.com/mlabonne"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mlabonne/llm-course",
+    "huggingface": null,
+    "homepage": "https://mlabonne.github.io/blog/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 81031,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-05T13:09:26Z",
+    "first_commit_at": "2023-06-17T22:16:26Z",
+    "forks": 9445,
+    "watchers": 751,
+    "open_issues": 85,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5537,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:19:45.560324Z",
+  "last_refreshed_at": "2026-07-17T16:02:44.462988Z",
+  "consecutive_refresh_failures": 0
+}

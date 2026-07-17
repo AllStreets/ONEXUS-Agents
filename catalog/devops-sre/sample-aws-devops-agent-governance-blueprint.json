@@ -1,0 +1,59 @@
+{
+  "slug": "sample-aws-devops-agent-governance-blueprint",
+  "name": "sample-aws-devops-agent-governance-blueprint",
+  "tagline": "Governance blueprint for adopting AWS DevOps Agent — start your first agent the governed way, keep a home ready for every agent after it, and onboard existing agents/MCP servers without redeploying th",
+  "category": "devops-sre",
+  "tags": [
+    "ai-agents",
+    "aws",
+    "bedrock-agentcore",
+    "cdk",
+    "devops-agent",
+    "finops",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lillyjohns",
+    "url": "https://github.com/lillyjohns"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lillyjohns/sample-aws-devops-agent-governance-blueprint",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT-0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-12T12:05:18Z",
+    "first_commit_at": "2026-07-02T08:53:52Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4042,
+  "rank_in_category": 138,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:41:00.147681Z",
+  "last_refreshed_at": "2026-07-17T15:41:00.147684Z",
+  "consecutive_refresh_failures": 0
+}

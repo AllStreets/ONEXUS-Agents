@@ -1,0 +1,53 @@
+{
+  "slug": "coq-nvim",
+  "name": "coq_nvim",
+  "tagline": "Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.",
+  "category": "coding",
+  "tags": [
+    "completion",
+    "neovim",
+    "neovim-plugin"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ms-jpq",
+    "url": "https://github.com/ms-jpq"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ms-jpq/coq_nvim",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 3818,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T09:52:08Z",
+    "first_commit_at": "2020-07-15T15:20:19Z",
+    "forks": 103,
+    "watchers": 14,
+    "open_issues": 188,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4001,
+  "rank_in_category": 150,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:55.139211Z",
+  "last_refreshed_at": "2026-07-17T16:00:23.643040Z",
+  "consecutive_refresh_failures": 0
+}

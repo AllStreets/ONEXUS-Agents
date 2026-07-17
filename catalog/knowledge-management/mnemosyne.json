@@ -12,25 +12,25 @@
     "nousresearch"
   ],
   "author": {
-    "type": "user",
-    "handle": "AxDSan",
-    "url": "https://github.com/AxDSan"
+    "type": "org",
+    "handle": "mnemosyne-oss",
+    "url": "https://github.com/mnemosyne-oss"
   },
   "source": {
     "primary": "github",
-    "github": "AxDSan/mnemosyne",
+    "github": "mnemosyne-oss/mnemosyne",
     "huggingface": null,
     "homepage": "https://mnemosyne.site/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1269,
+    "stars": 1554,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-22T21:12:35Z",
-    "first_commit_at": "2026-04-05T14:59:04Z",
-    "forks": 117,
-    "watchers": 11,
-    "open_issues": 25,
+    "last_commit_at": "2026-07-17T02:55:49Z",
+    "first_commit_at": "2026-04-05T14:58:54Z",
+    "forks": 140,
+    "watchers": 14,
+    "open_issues": 14,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -47,10 +47,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5723,
-  "rank_in_category": 88,
+  "composite_score": 0.61,
+  "rank_in_category": 69,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-24T16:24:24.119409Z",
-  "last_refreshed_at": "2026-06-24T16:24:24.119412Z",
-  "consecutive_refresh_failures": 21
+  "first_seen_at": "2026-07-17T15:26:15.790483Z",
+  "last_refreshed_at": "2026-07-17T15:26:15.790486Z",
+  "consecutive_refresh_failures": 0
 }

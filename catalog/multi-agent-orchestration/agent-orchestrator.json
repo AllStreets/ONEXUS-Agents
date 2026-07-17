@@ -1,7 +1,7 @@
 {
   "slug": "agent-orchestrator",
   "name": "agent-orchestrator",
-  "tagline": " Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
+  "tagline": "AO is an agent IDE, that helps developers manage fleets of coding agents to do your day to day tasks for parallel coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, ",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-fleet",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "AgentWrapper/agent-orchestrator",
     "huggingface": null,
-    "homepage": "https://ao-agents.com/"
+    "homepage": "https://aoagents.dev/"
   },
-  "license": "Unknown",
+  "license": "Apache-2.0",
   "metrics": {
-    "stars": 7645,
+    "stars": 8328,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T14:53:02Z",
+    "last_commit_at": "2026-07-17T15:30:50Z",
     "first_commit_at": "2026-02-13T09:55:31Z",
-    "forks": 1050,
-    "watchers": 29,
-    "open_issues": 568,
+    "forks": 1199,
+    "watchers": 30,
+    "open_issues": 511,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4152,
-  "rank_in_category": 155,
+  "composite_score": 0.4374,
+  "rank_in_category": 131,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-07T10:40:10.749738Z",
-  "last_refreshed_at": "2026-06-24T16:42:23.716638Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T16:01:03.719661Z",
+  "consecutive_refresh_failures": 0
 }

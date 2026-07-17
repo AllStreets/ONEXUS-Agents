@@ -1,18 +1,18 @@
 {
   "slug": "skales",
   "name": "skales",
-  "tagline": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, des",
+  "tagline": "Personal AI desktop agent for Windows, macOS, Linux, Android & iOS. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, des",
   "category": "desktop-os-automation",
   "tags": [
     "agentic-ai",
     "ai-agent",
     "ai-assistant",
-    "ai-companions",
     "android",
     "automation",
     "autonomous-agent",
     "desktop-app",
     "electron",
+    "ios",
     "linux"
   ],
   "author": {
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 1082,
+    "stars": 1185,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T09:27:51Z",
-    "first_commit_at": "2026-03-08T09:17:47Z",
-    "forks": 173,
-    "watchers": 12,
-    "open_issues": 1,
+    "last_commit_at": "2026-07-16T17:29:22Z",
+    "first_commit_at": "2026-03-08T09:37:22Z",
+    "forks": 185,
+    "watchers": 11,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.455,
+  "composite_score": 0.4466,
   "rank_in_category": 19,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:37:04.754596Z",
-  "last_refreshed_at": "2026-06-24T16:24:01.853504Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T15:25:08.596081Z",
+  "consecutive_refresh_failures": 0
 }

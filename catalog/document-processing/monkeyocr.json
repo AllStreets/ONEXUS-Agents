@@ -1,0 +1,49 @@
+{
+  "slug": "monkeyocr",
+  "name": "MonkeyOCR",
+  "tagline": "A lightweight LMM-based Document Parsing Model",
+  "category": "document-processing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "Yuliang-Liu",
+    "url": "https://github.com/Yuliang-Liu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Yuliang-Liu/MonkeyOCR",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6601,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-14T01:26:44Z",
+    "first_commit_at": "2025-06-03T06:25:31Z",
+    "forks": 459,
+    "watchers": 48,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.658,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:34:43.278439Z",
+  "last_refreshed_at": "2026-07-17T15:34:43.278442Z",
+  "consecutive_refresh_failures": 0
+}

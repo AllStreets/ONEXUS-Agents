@@ -1,0 +1,63 @@
+{
+  "slug": "agentforge",
+  "name": "AgentForge",
+  "tagline": "Open-source terminal AI coding-agent harness for studying agent loops, tools, MCP, skills, safety, and persistence.",
+  "category": "coding",
+  "tags": [
+    "agent-framework",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "anthropic",
+    "cli",
+    "coding-agent",
+    "developer-tools",
+    "llm",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MohitGoyal09",
+    "url": "https://github.com/MohitGoyal09"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MohitGoyal09/AgentForge",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/agentforge-harness/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 54,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-27T16:36:53Z",
+    "first_commit_at": "2026-04-29T13:55:54Z",
+    "forks": 5,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3278,
+  "rank_in_category": 335,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:17:39.413522Z",
+  "last_refreshed_at": "2026-07-17T15:56:29.979746Z",
+  "consecutive_refresh_failures": 0
+}

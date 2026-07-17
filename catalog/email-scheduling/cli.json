@@ -1,40 +1,29 @@
 {
   "slug": "cli",
   "name": "cli",
-  "tagline": "Nylas CLI is a unified command-line tool for Nylas API authentication, email management (GPG signing/encryption), calendar, contacts, webhooks, timezone   utilities, and OTP extraction",
+  "tagline": "Higgsfield CLI",
   "category": "email-scheduling",
-  "tags": [
-    "ai",
-    "ai-agents",
-    "api",
-    "calendar",
-    "cli",
-    "contacts",
-    "decryption",
-    "email",
-    "encryption",
-    "golang"
-  ],
+  "tags": [],
   "author": {
     "type": "org",
-    "handle": "nylas",
-    "url": "https://github.com/nylas"
+    "handle": "higgsfield-ai",
+    "url": "https://github.com/higgsfield-ai"
   },
   "source": {
     "primary": "github",
-    "github": "nylas/cli",
+    "github": "higgsfield-ai/cli",
     "huggingface": null,
-    "homepage": "https://cli.nylas.com/"
+    "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 43,
+    "stars": 403,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-22T15:48:19Z",
-    "first_commit_at": "2025-08-20T01:24:16Z",
-    "forks": 3,
-    "watchers": 0,
-    "open_issues": 2,
+    "last_commit_at": "2026-07-16T22:51:38Z",
+    "first_commit_at": "2026-05-04T20:26:39Z",
+    "forks": 57,
+    "watchers": 8,
+    "open_issues": 31,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4781,
-  "rank_in_category": 37,
+  "composite_score": 0.5608,
+  "rank_in_category": 25,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-18T17:26:00.537195Z",
-  "last_refreshed_at": "2026-06-24T16:30:30.950163Z",
-  "consecutive_refresh_failures": 21
+  "first_seen_at": "2026-07-17T15:36:56.407681Z",
+  "last_refreshed_at": "2026-07-17T15:36:56.407685Z",
+  "consecutive_refresh_failures": 0
 }

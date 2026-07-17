@@ -13,25 +13,25 @@
     "scientific-ai"
   ],
   "author": {
-    "type": "user",
-    "handle": "ai-boost",
-    "url": "https://github.com/ai-boost"
+    "type": "org",
+    "handle": "ai4s-research",
+    "url": "https://github.com/ai4s-research"
   },
   "source": {
     "primary": "github",
-    "github": "ai-boost/awesome-ai-for-science",
+    "github": "ai4s-research/awesome-ai-for-science",
     "huggingface": null,
     "homepage": "https://github.com/ai-boost/awesome-ai-for-science"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1670,
+    "stars": 1779,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T14:00:03Z",
+    "last_commit_at": "2026-07-17T02:46:56Z",
     "first_commit_at": "2025-10-10T06:06:18Z",
-    "forks": 190,
-    "watchers": 15,
-    "open_issues": 54,
+    "forks": 207,
+    "watchers": 16,
+    "open_issues": 58,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -48,10 +48,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5379,
+  "composite_score": 0.5704,
   "rank_in_category": 19,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-01T14:40:19.920535Z",
-  "last_refreshed_at": "2026-06-24T16:36:29.502900Z",
-  "consecutive_refresh_failures": 21
+  "first_seen_at": "2026-07-17T15:50:17.767552Z",
+  "last_refreshed_at": "2026-07-17T15:50:17.767555Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,57 @@
+{
+  "slug": "osagent",
+  "name": "OsAgent",
+  "tagline": "A local AI-powered OS assistant for Windows that organizes files, monitors system pressure, suggests cleanup actions, and stays privacy-friendly by running with local tooling such as Ollama.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "filesystem",
+    "local-ai-agent",
+    "ollama",
+    "os",
+    "windows"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "viditraj",
+    "url": "https://github.com/viditraj"
+  },
+  "source": {
+    "primary": "github",
+    "github": "viditraj/OsAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-20T05:34:49Z",
+    "first_commit_at": "2026-03-20T05:34:21Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1985,
+  "rank_in_category": 249,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:26:50.314433Z",
+  "last_refreshed_at": "2026-07-17T15:26:50.314436Z",
+  "consecutive_refresh_failures": 0
+}

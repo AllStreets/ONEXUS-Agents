@@ -1,0 +1,60 @@
+{
+  "slug": "btrace",
+  "name": "btrace",
+  "tagline": "Production-safe dynamic tracing and diagnostics for Java applications—attach to live JVMs with no restart or recompilation.",
+  "category": "devops-sre",
+  "tags": [
+    "btrace",
+    "bytecode-instrumentation",
+    "diagnostics",
+    "dtrace",
+    "java",
+    "java-agent",
+    "jvm",
+    "observability",
+    "profiling",
+    "runtime-instrumentation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "btraceio",
+    "url": "https://github.com/btraceio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "btraceio/btrace",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5989,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T21:21:20Z",
+    "first_commit_at": "2009-06-10T12:11:04Z",
+    "forks": 958,
+    "watchers": 312,
+    "open_issues": 15,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.632,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:43:56.480158Z",
+  "last_refreshed_at": "2026-07-17T15:43:56.480161Z",
+  "consecutive_refresh_failures": 0
+}

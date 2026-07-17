@@ -1,0 +1,55 @@
+{
+  "slug": "iam-bob-adk-python",
+  "name": "iam-bob-adk-python",
+  "tagline": "Intent Agent Model (IAM) — Bob reference runtime on Google ADK. Historical V1. IAM = Intent Agent Model, not Identity and Access Management.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "bob",
+    "iam-bob",
+    "intent-agent-model",
+    "intent-solutions"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jeremylongshore",
+    "url": "https://github.com/jeremylongshore"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jeremylongshore/iam-bob-adk-python",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 22,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-15T22:45:31Z",
+    "first_commit_at": "2025-08-09T03:59:08Z",
+    "forks": 7,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3399,
+  "rank_in_category": 348,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:44:28.335515Z",
+  "last_refreshed_at": "2026-07-17T15:44:28.335519Z",
+  "consecutive_refresh_failures": 0
+}

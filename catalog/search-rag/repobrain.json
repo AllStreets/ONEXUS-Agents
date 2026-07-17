@@ -1,0 +1,63 @@
+{
+  "slug": "repobrain",
+  "name": "repobrain",
+  "tagline": "🧠 RepoBrain (formerly Antigravity) — Give your repo a brain. ChatGPT for your codebase: works in Claude Code, Cursor, Codex, Windsurf & more.",
+  "category": "search-rag",
+  "tags": [
+    "agents-sdk",
+    "ai-agent",
+    "claude-code",
+    "code-intelligence",
+    "code-search",
+    "codebase-qa",
+    "codex-cli",
+    "copilot",
+    "cursor",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "study8677",
+    "url": "https://github.com/study8677"
+  },
+  "source": {
+    "primary": "github",
+    "github": "study8677/repobrain",
+    "huggingface": null,
+    "homepage": "https://deepwiki.com/study8677/antigravity-workspace-template"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1295,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-12T12:31:12Z",
+    "first_commit_at": "2025-11-19T09:09:18Z",
+    "forks": 259,
+    "watchers": 21,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp",
+      "openai-agents-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4202,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:31:10.009295Z",
+  "last_refreshed_at": "2026-07-17T15:31:10.009298Z",
+  "consecutive_refresh_failures": 0
+}
