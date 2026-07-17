@@ -1,7 +1,7 @@
 {
   "slug": "commonly",
   "name": "commonly",
-  "tagline": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
+  "tagline": "Open-source workspace where your agents and team share one memory. Any runtime, your infra — self-host in one command, no per-agent fees.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-framework",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "Team-Commonly/commonly",
     "huggingface": null,
-    "homepage": "https://app-dev.commonly.me/"
+    "homepage": "https://commonly.me/"
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 927,
+    "stars": 1259,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T10:55:42Z",
-    "first_commit_at": "2025-02-03T02:13:30Z",
-    "forks": 133,
-    "watchers": 91,
-    "open_issues": 18,
+    "last_commit_at": "2026-07-13T10:11:32Z",
+    "first_commit_at": "2025-02-03T06:44:44Z",
+    "forks": 179,
+    "watchers": 113,
+    "open_issues": 44,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4034,
-  "rank_in_category": 192,
+  "composite_score": 0.4251,
+  "rank_in_category": 163,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:14:53.320999Z",
-  "last_refreshed_at": "2026-06-24T16:30:04.583287Z",
-  "consecutive_refresh_failures": 21
+  "first_seen_at": "2026-07-17T15:38:27.511361Z",
+  "last_refreshed_at": "2026-07-17T15:38:27.511364Z",
+  "consecutive_refresh_failures": 0
 }

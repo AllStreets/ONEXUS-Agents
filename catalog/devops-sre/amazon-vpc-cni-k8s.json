@@ -1,0 +1,53 @@
+{
+  "slug": "amazon-vpc-cni-k8s",
+  "name": "amazon-vpc-cni-k8s",
+  "tagline": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+  "category": "devops-sre",
+  "tags": [
+    "cni-plugin",
+    "kubernetes",
+    "pod-networking"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aws",
+    "url": "https://github.com/aws"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws/amazon-vpc-cni-k8s",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2449,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T21:43:15Z",
+    "first_commit_at": "2017-10-19T20:48:50Z",
+    "forks": 827,
+    "watchers": 107,
+    "open_issues": 33,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6138,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:20:43.289884Z",
+  "last_refreshed_at": "2026-07-17T16:05:38.115761Z",
+  "consecutive_refresh_failures": 0
+}

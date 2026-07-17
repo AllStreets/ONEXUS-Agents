@@ -1,7 +1,7 @@
 {
   "slug": "agor",
   "name": "agor",
-  "tagline": "Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.",
+  "tagline": "Agor - team command center for all things agentic",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-orchestration",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 1273,
+    "stars": 1328,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T16:37:26Z",
+    "last_commit_at": "2026-07-17T15:32:28Z",
     "first_commit_at": "2025-10-04T07:29:09Z",
-    "forks": 108,
+    "forks": 110,
     "watchers": 12,
-    "open_issues": 100,
+    "open_issues": 196,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4543,
-  "rank_in_category": 79,
+  "composite_score": 0.4752,
+  "rank_in_category": 60,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-05T16:18:27.076538Z",
-  "last_refreshed_at": "2026-06-24T16:42:44.978898Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T16:01:32.201948Z",
+  "consecutive_refresh_failures": 0
 }

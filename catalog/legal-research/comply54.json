@@ -1,0 +1,64 @@
+{
+  "slug": "comply54",
+  "name": "comply54",
+  "tagline": "African AI governance — runtime compliance enforcement for AI agents operating under NDPA, CBN, NIMC Act 2026, KDPA, POPIA and 15+ African regulations. LangGraph, CrewAI, and AutoGen adapters included",
+  "category": "legal-research",
+  "tags": [
+    "africa",
+    "ai-agents",
+    "ai-governance",
+    "autogen",
+    "compliance",
+    "crewai",
+    "fintech",
+    "langchain",
+    "langgraph",
+    "ndpa"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "comply54",
+    "url": "https://github.com/comply54"
+  },
+  "source": {
+    "primary": "github",
+    "github": "comply54/comply54",
+    "huggingface": null,
+    "homepage": "https://comply54.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T19:24:24Z",
+    "first_commit_at": "2026-06-17T19:56:37Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "autogen",
+      "crewai",
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2796,
+  "rank_in_category": 60,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:14:13.980872Z",
+  "last_refreshed_at": "2026-07-17T15:14:13.980875Z",
+  "consecutive_refresh_failures": 0
+}

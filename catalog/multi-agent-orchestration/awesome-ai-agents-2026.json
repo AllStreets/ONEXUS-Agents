@@ -1,40 +1,37 @@
 {
   "slug": "awesome-ai-agents-2026",
   "name": "awesome-ai-agents-2026",
-  "tagline": "Awesome AI Agents for 2026 - 300+ AI Agents, Frameworks & Coding • Creative • Voice • Research • Enterprise. Comparison guides, benchmarks & deep dives",
+  "tagline": "🤖 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 — the year agents went mainstream",
   "category": "multi-agent-orchestration",
   "tags": [
     "2026",
-    "agent-frameworks",
+    "agent-framework",
+    "ai",
     "ai-agents",
-    "ai-tools",
     "autonomous-agents",
-    "awesome",
     "awesome-list",
-    "crewai",
-    "langchain",
     "llm"
   ],
   "author": {
     "type": "user",
-    "handle": "ARUNAGIRINATHAN-K",
-    "url": "https://github.com/ARUNAGIRINATHAN-K"
+    "handle": "Zijian-Ni",
+    "url": "https://github.com/Zijian-Ni"
   },
   "source": {
     "primary": "github",
-    "github": "ARUNAGIRINATHAN-K/awesome-ai-agents-2026",
+    "github": "Zijian-Ni/awesome-ai-agents-2026",
     "huggingface": null,
     "homepage": null
   },
-  "license": "NOASSERTION",
+  "license": "MIT",
   "metrics": {
-    "stars": 177,
+    "stars": 186,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-21T20:23:39Z",
-    "first_commit_at": "2025-06-01T05:40:33Z",
-    "forks": 80,
-    "watchers": 6,
-    "open_issues": 6,
+    "last_commit_at": "2026-07-17T12:15:03Z",
+    "first_commit_at": "2026-03-24T03:34:58Z",
+    "forks": 58,
+    "watchers": 4,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,18 +43,15 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": [
-      "crewai",
-      "langchain"
-    ]
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3781,
-  "rank_in_category": 233,
+  "composite_score": 0.3489,
+  "rank_in_category": 330,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:10:01.499458Z",
-  "last_refreshed_at": "2026-06-24T16:18:31.894365Z",
-  "consecutive_refresh_failures": 21
+  "first_seen_at": "2026-07-17T15:28:53.056484Z",
+  "last_refreshed_at": "2026-07-17T15:28:53.056487Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,62 @@
+{
+  "slug": "korean-law-mcp",
+  "name": "korean-law-mcp",
+  "tagline": "법제처 국가법령정보를 LLM에서 바로 조회하는 MCP 서버. 법령·판례·조례 검색과 인용 검증 | MCP server for Korean law — search statutes, precedents, and ordinances, and verify citations",
+  "category": "search-rag",
+  "tags": [
+    "citation-verification",
+    "claude",
+    "hallucination-detection",
+    "korean-law",
+    "law",
+    "legal-ai",
+    "legal-rag",
+    "legal-tech",
+    "mcp",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "chrisryugj",
+    "url": "https://github.com/chrisryugj"
+  },
+  "source": {
+    "primary": "github",
+    "github": "chrisryugj/korean-law-mcp",
+    "huggingface": null,
+    "homepage": "https://www.npmjs.com/package/korean-law-mcp"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2233,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-17T13:32:09Z",
+    "first_commit_at": "2025-12-19T10:54:19Z",
+    "forks": 433,
+    "watchers": 9,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4263,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-11T17:19:30.548093Z",
+  "last_refreshed_at": "2026-07-17T15:18:41.280808Z",
+  "consecutive_refresh_failures": 0
+}

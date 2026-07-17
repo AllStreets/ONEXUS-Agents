@@ -1,0 +1,49 @@
+{
+  "slug": "mimalloc",
+  "name": "mimalloc",
+  "tagline": "mimalloc is a compact general purpose allocator with excellent performance.",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/mimalloc",
+    "huggingface": null,
+    "homepage": "https://microsoft.github.io/mimalloc"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13194,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-15T01:54:23Z",
+    "first_commit_at": "2019-06-19T21:14:45Z",
+    "forks": 1138,
+    "watchers": 162,
+    "open_issues": 363,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4282,
+  "rank_in_category": 90,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:49.624598Z",
+  "last_refreshed_at": "2026-07-17T16:00:02.112081Z",
+  "consecutive_refresh_failures": 0
+}

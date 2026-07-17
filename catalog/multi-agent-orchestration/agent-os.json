@@ -1,0 +1,49 @@
+{
+  "slug": "agent-os",
+  "name": "agent-os",
+  "tagline": "The Open Agent Operation System",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "use-agent-os",
+    "url": "https://github.com/use-agent-os"
+  },
+  "source": {
+    "primary": "github",
+    "github": "use-agent-os/agent-os",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-17T07:31:42Z",
+    "first_commit_at": "2026-07-14T00:39:35Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.301,
+  "rank_in_category": 448,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:26:37.927334Z",
+  "last_refreshed_at": "2026-07-17T15:26:37.927337Z",
+  "consecutive_refresh_failures": 0
+}

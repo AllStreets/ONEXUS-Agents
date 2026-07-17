@@ -3,7 +3,18 @@
   "name": "nasiko",
   "tagline": "Developer Control Plane for your AI Agents",
   "category": "multi-agent-orchestration",
-  "tags": [],
+  "tags": [
+    "agent-security",
+    "ai",
+    "ai-agents",
+    "cli",
+    "hacktoberfest",
+    "llms",
+    "mcp-gateway",
+    "multi-agent",
+    "rust",
+    "tokenomics"
+  ],
   "author": {
     "type": "org",
     "handle": "Nasiko-Labs",
@@ -13,17 +24,17 @@
     "primary": "github",
     "github": "Nasiko-Labs/nasiko",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://www.nasiko.com/"
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 3026,
+    "stars": 3735,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-20T00:04:23Z",
-    "first_commit_at": "2026-02-12T10:45:29Z",
-    "forks": 330,
-    "watchers": 12,
-    "open_issues": 86,
+    "last_commit_at": "2026-07-10T20:39:35Z",
+    "first_commit_at": "2026-02-12T10:56:24Z",
+    "forks": 563,
+    "watchers": 11,
+    "open_issues": 87,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3935,
-  "rank_in_category": 204,
+  "composite_score": 0.4168,
+  "rank_in_category": 181,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:09:31.807310Z",
-  "last_refreshed_at": "2026-06-24T16:17:46.979326Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T16:05:33.937222Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,53 @@
+{
+  "slug": "multiagent-coaching",
+  "name": "multiagent-coaching",
+  "tagline": "Finetune any multiagent system on any task w/ MAPPA",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "continual-learning",
+    "multiagent-reinforcement-learning",
+    "multiagent-systems"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ltjed",
+    "url": "https://github.com/ltjed"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ltjed/multiagent-coaching",
+    "huggingface": null,
+    "homepage": "https://ltjed.github.io/MAPPA/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 412,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-20T00:50:59Z",
+    "first_commit_at": "2026-01-29T06:26:51Z",
+    "forks": 18,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2905,
+  "rank_in_category": 466,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:18:26.760721Z",
+  "last_refreshed_at": "2026-07-17T15:58:52.142418Z",
+  "consecutive_refresh_failures": 0
+}

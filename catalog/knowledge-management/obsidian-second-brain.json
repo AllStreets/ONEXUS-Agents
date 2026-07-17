@@ -1,7 +1,7 @@
 {
   "slug": "obsidian-second-brain",
   "name": "obsidian-second-brain",
-  "tagline": "Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, and OpenCode. 43 commands - now with /obsidian-architect to document your codebase,",
+  "tagline": "Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, OpenCode, Hermes, and Pi. 44 commands - self-rewriting notes, local+hybrid semantic",
   "category": "knowledge-management",
   "tags": [
     "ai-agent",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 2677,
+    "stars": 3335,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-22T13:45:46Z",
-    "first_commit_at": "2026-03-24T11:58:12Z",
-    "forks": 312,
-    "watchers": 23,
-    "open_issues": 1,
+    "last_commit_at": "2026-07-16T19:50:00Z",
+    "first_commit_at": "2026-03-24T12:11:52Z",
+    "forks": 401,
+    "watchers": 27,
+    "open_issues": 3,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6189,
-  "rank_in_category": 53,
+  "composite_score": 0.6576,
+  "rank_in_category": 36,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T10:14:51.287869Z",
-  "last_refreshed_at": "2026-06-24T16:29:58.193759Z",
-  "consecutive_refresh_failures": 21
+  "first_seen_at": "2026-07-17T15:37:57.567393Z",
+  "last_refreshed_at": "2026-07-17T15:37:57.567396Z",
+  "consecutive_refresh_failures": 0
 }

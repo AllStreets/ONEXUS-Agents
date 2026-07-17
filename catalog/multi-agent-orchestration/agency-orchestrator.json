@@ -1,7 +1,7 @@
 {
   "slug": "agency-orchestrator",
   "name": "agency-orchestrator",
-  "tagline": "🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. Built on the agency-agents role library (216+ experts), zero-code YAML, web Studio + desktop app, 10 LLM providers (7 free). 基于",
+  "tagline": "🚀 One sentence → your one-person company of AI experts → complete deliverable in minutes. 216 CN + 184 EN roles · zero-code YAML · auto-verified acceptance · Web Studio / Desktop / Docker · 11 LLM pro",
   "category": "multi-agent-orchestration",
   "tags": [
     "agency-agents",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 1472,
+    "stars": 1812,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T04:02:02Z",
+    "last_commit_at": "2026-07-17T14:14:54Z",
     "first_commit_at": "2026-03-21T14:47:35Z",
-    "forks": 205,
+    "forks": 239,
     "watchers": 8,
-    "open_issues": 4,
+    "open_issues": 11,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4405,
-  "rank_in_category": 107,
+  "composite_score": 0.4646,
+  "rank_in_category": 75,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:29:36.831570Z",
-  "last_refreshed_at": "2026-06-24T16:42:43.700136Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T16:01:29.466029Z",
+  "consecutive_refresh_failures": 0
 }

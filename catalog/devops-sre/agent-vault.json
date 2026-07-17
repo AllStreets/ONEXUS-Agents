@@ -1,0 +1,53 @@
+{
+  "slug": "agent-vault",
+  "name": "agent-vault",
+  "tagline": "A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.",
+  "category": "devops-sre",
+  "tags": [
+    "agents",
+    "ai-agents",
+    "secrets-management"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Infisical",
+    "url": "https://github.com/Infisical"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Infisical/agent-vault",
+    "huggingface": null,
+    "homepage": "https://docs.agent-vault.dev/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1905,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-12T01:52:28Z",
+    "first_commit_at": "2026-03-29T17:44:52Z",
+    "forks": 108,
+    "watchers": 2,
+    "open_issues": 48,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5267,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:20:44.298040Z",
+  "last_refreshed_at": "2026-07-17T16:05:39.744578Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "parsehawk",
+  "name": "parsehawk",
+  "tagline": "Turn documents into structured JSON with local-first document AI. Run 100% locally by default, with API, CLI, and Web UI.",
+  "category": "document-processing",
+  "tags": [
+    "artificial-intelligence",
+    "classification",
+    "document-ai",
+    "document-processing",
+    "extraction",
+    "json",
+    "json-schema",
+    "llm",
+    "markdown",
+    "pdf"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "parsehawk",
+    "url": "https://github.com/parsehawk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "parsehawk/parsehawk",
+    "huggingface": null,
+    "homepage": "https://docs.parsehawk.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 56,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T17:13:46Z",
+    "first_commit_at": "2026-06-25T09:43:44Z",
+    "forks": 7,
+    "watchers": 2,
+    "open_issues": 58,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5112,
+  "rank_in_category": 69,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:34:13.452003Z",
+  "last_refreshed_at": "2026-07-17T15:34:13.452006Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "bgpt-mcp",
   "name": "bgpt-mcp",
-  "tagline": "Scientific paper search API for AI agents: REST, Python, OpenAPI, and MCP with structured full-text evidence.",
+  "tagline": "Scientific paper evidence search for ChatGPT, MCP, REST, Python, and AI agents.",
   "category": "scientific-research",
   "tags": [
     "ai",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 33,
+    "stars": 41,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-16T15:51:13Z",
+    "last_commit_at": "2026-07-06T20:36:19Z",
     "first_commit_at": "2026-02-17T03:39:28Z",
-    "forks": 8,
+    "forks": 9,
     "watchers": 1,
-    "open_issues": 2,
+    "open_issues": 4,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5155,
-  "rank_in_category": 129,
+  "composite_score": 0.547,
+  "rank_in_category": 113,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-15T19:07:49.316183Z",
-  "last_refreshed_at": "2026-06-24T16:38:32.504526Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T15:53:36.054574Z",
+  "consecutive_refresh_failures": 0
 }

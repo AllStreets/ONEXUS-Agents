@@ -1,0 +1,57 @@
+{
+  "slug": "valqore",
+  "name": "valqore",
+  "tagline": "Safety-first guardrails for AI-driven cloud and Kubernetes operations",
+  "category": "devops-sre",
+  "tags": [
+    "ai-safety",
+    "cloud-governance",
+    "devops",
+    "finops",
+    "greenops",
+    "kubernetes",
+    "mlops"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "valqore",
+    "url": "https://github.com/valqore"
+  },
+  "source": {
+    "primary": "github",
+    "github": "valqore/valqore",
+    "huggingface": null,
+    "homepage": "https://www.valqore.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1415,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-13T21:21:45Z",
+    "first_commit_at": "2026-04-13T01:10:06Z",
+    "forks": 137,
+    "watchers": 5,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5254,
+  "rank_in_category": 67,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:45:08.411025Z",
+  "last_refreshed_at": "2026-07-17T15:45:08.411028Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,19 +1,19 @@
 {
   "slug": "pdf-reader-mcp",
   "name": "pdf-reader-mcp",
-  "tagline": "📄 Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%+ test coverage",
+  "tagline": "📄 The PDF intelligence layer for AI agents — Agent Document Twin, evidence-first extraction, visual crops, OCR provenance, trust reports, and benchmark-gated releases. MCP server for Claude, Cursor, V",
   "category": "document-processing",
   "tags": [
+    "agent-document-twin",
     "ai-agent",
     "ai-tools",
+    "citations",
+    "document-intelligence",
     "document-processing",
+    "evidence-first",
     "llm-tool",
     "mcp",
-    "model-content-protocol",
-    "model-context-protocol",
-    "nodejs",
-    "parallel-processing",
-    "pdf"
+    "model-context-protocol"
   ],
   "author": {
     "type": "org",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "SylphxAI/pdf-reader-mcp",
     "huggingface": null,
-    "homepage": "https://sylphx.com/"
+    "homepage": "https://sylphxai.github.io/pdf-reader-mcp/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 797,
+    "stars": 829,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-22T11:41:05Z",
-    "first_commit_at": "2025-04-04T16:17:42Z",
-    "forks": 69,
+    "last_commit_at": "2026-07-17T00:25:24Z",
+    "first_commit_at": "2025-04-04T01:46:09Z",
+    "forks": 71,
     "watchers": 4,
-    "open_issues": 2,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6577,
-  "rank_in_category": 15,
+  "composite_score": 0.6916,
+  "rank_in_category": 11,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:37:56.796226Z",
-  "last_refreshed_at": "2026-06-24T16:26:12.999659Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T15:30:03.094747Z",
+  "consecutive_refresh_failures": 0
 }

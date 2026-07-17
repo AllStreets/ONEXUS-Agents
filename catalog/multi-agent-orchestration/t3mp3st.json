@@ -1,0 +1,55 @@
+{
+  "slug": "t3mp3st",
+  "name": "T3MP3ST",
+  "tagline": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "ai",
+    "multi-agent",
+    "offensive-security",
+    "redteam"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "elder-plinius",
+    "url": "https://github.com/elder-plinius"
+  },
+  "source": {
+    "primary": "github",
+    "github": "elder-plinius/T3MP3ST",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 4878,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-17T05:42:08Z",
+    "first_commit_at": "2026-07-02T17:56:02Z",
+    "forks": 1021,
+    "watchers": 48,
+    "open_issues": 10,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4202,
+  "rank_in_category": 171,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T16:01:08.824071Z",
+  "last_refreshed_at": "2026-07-17T16:01:08.824075Z",
+  "consecutive_refresh_failures": 0
+}

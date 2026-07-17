@@ -1,0 +1,49 @@
+{
+  "slug": "copilotstudio-meetingschedulingagent-japanese",
+  "name": "CopilotStudio-MeetingSchedulingAgent-Japanese",
+  "tagline": "Outlookの予定表をベースに会議の候補日調整を行ってくれるCopilot Studioのエージェントです",
+  "category": "email-scheduling",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "yuichi-masuda",
+    "url": "https://github.com/yuichi-masuda"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yuichi-masuda/CopilotStudio-MeetingSchedulingAgent-Japanese",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-02T01:37:14Z",
+    "first_commit_at": "2026-05-28T07:13:59Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3681,
+  "rank_in_category": 74,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:38:08.727411Z",
+  "last_refreshed_at": "2026-07-17T15:38:08.727414Z",
+  "consecutive_refresh_failures": 0
+}

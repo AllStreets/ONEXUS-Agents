@@ -1,7 +1,7 @@
 {
   "slug": "llm-for-zotero",
   "name": "llm-for-zotero",
-  "tagline": "A research agent system deeply rooted in your Zotero library.",
+  "tagline": "An open-sourced research agent system deeply rooted in your Zotero library.",
   "category": "scientific-research",
   "tags": [
     "academic-paper",
@@ -27,13 +27,13 @@
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 2047,
+    "stars": 2320,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-23T06:31:40Z",
+    "last_commit_at": "2026-07-16T16:09:03Z",
     "first_commit_at": "2022-08-19T18:42:12Z",
-    "forks": 104,
-    "watchers": 5,
-    "open_issues": 87,
+    "forks": 117,
+    "watchers": 6,
+    "open_issues": 98,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -52,10 +52,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6844,
-  "rank_in_category": 14,
+  "composite_score": 0.7199,
+  "rank_in_category": 8,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-06T15:49:56.731227Z",
-  "last_refreshed_at": "2026-06-24T16:37:49.916673Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T15:52:18.809589Z",
+  "consecutive_refresh_failures": 0
 }

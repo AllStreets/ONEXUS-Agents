@@ -1,0 +1,49 @@
+{
+  "slug": "irys-stateful-swarms",
+  "name": "irys-stateful-swarms",
+  "tagline": "Public ant-irys code and Harvey LAB benchmark results",
+  "category": "scientific-research",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "dl1683",
+    "url": "https://github.com/dl1683"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dl1683/irys-stateful-swarms",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 126,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-06T15:58:02Z",
+    "first_commit_at": "2026-06-03T20:55:23Z",
+    "forks": 28,
+    "watchers": 1,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5538,
+  "rank_in_category": 108,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-11T17:18:26.518878Z",
+  "last_refreshed_at": "2026-07-17T15:16:17.065705Z",
+  "consecutive_refresh_failures": 0
+}

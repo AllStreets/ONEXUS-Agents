@@ -1,13 +1,19 @@
 {
   "slug": "agent-swarm",
   "name": "agent-swarm",
-  "tagline": "Intelligence that compounds. Every single day.",
+  "tagline": "Your Company Agentic Operating System",
   "category": "multi-agent-orchestration",
   "tags": [
+    "agent-harness",
+    "agent-memory",
+    "agent-teams",
+    "agentic",
+    "agentic-framework",
+    "agentic-os",
     "ai-agents",
-    "claude",
-    "claude-code",
-    "swarm"
+    "ai-memory",
+    "ai-memory-system",
+    "docker"
   ],
   "author": {
     "type": "org",
@@ -22,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 547,
+    "stars": 606,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-24T14:27:05Z",
+    "last_commit_at": "2026-07-17T11:31:01Z",
     "first_commit_at": "2025-12-19T19:01:12Z",
-    "forks": 60,
-    "watchers": 6,
-    "open_issues": 5,
+    "forks": 72,
+    "watchers": 8,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.363,
-  "rank_in_category": 269,
+  "composite_score": 0.3855,
+  "rank_in_category": 260,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T15:20:15.150770Z",
-  "last_refreshed_at": "2026-06-24T16:44:22.957751Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T16:04:18.778255Z",
+  "consecutive_refresh_failures": 0
 }

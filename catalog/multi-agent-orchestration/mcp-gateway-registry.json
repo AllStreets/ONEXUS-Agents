@@ -1,0 +1,62 @@
+{
+  "slug": "mcp-gateway-registry",
+  "name": "mcp-gateway-registry",
+  "tagline": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding a",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a",
+    "agentic-ai",
+    "agents",
+    "ans",
+    "documentdb",
+    "ecs",
+    "ecs-fargate",
+    "entra-id",
+    "fgac",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agentic-community",
+    "url": "https://github.com/agentic-community"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agentic-community/mcp-gateway-registry",
+    "huggingface": null,
+    "homepage": "https://agentic-community.github.io/mcp-gateway-registry/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 806,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-17T13:28:54Z",
+    "first_commit_at": "2025-05-29T18:23:39Z",
+    "forks": 205,
+    "watchers": 7,
+    "open_issues": 99,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4744,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:25.578713Z",
+  "last_refreshed_at": "2026-07-17T14:49:36.411018Z",
+  "consecutive_refresh_failures": 0
+}

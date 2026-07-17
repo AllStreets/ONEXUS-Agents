@@ -1,0 +1,55 @@
+{
+  "slug": "semantic-kernel",
+  "name": "semantic-kernel",
+  "tagline": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "artificial-intelligence",
+    "llm",
+    "openai",
+    "sdk"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/semantic-kernel",
+    "huggingface": null,
+    "homepage": "https://aka.ms/semantic-kernel"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 28321,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T20:33:31Z",
+    "first_commit_at": "2023-02-25T00:38:23Z",
+    "forks": 4679,
+    "watchers": 295,
+    "open_issues": 253,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4476,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:19:51.359020Z",
+  "last_refreshed_at": "2026-07-17T16:03:04.596291Z",
+  "consecutive_refresh_failures": 0
+}

@@ -12,8 +12,8 @@
     "cli",
     "command-line",
     "developer-tools",
-    "generative-ai",
-    "image-editing"
+    "fal-ai-alternative",
+    "generative-ai"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 1008,
+    "stars": 1021,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-16T19:00:44Z",
+    "last_commit_at": "2026-06-30T13:42:56Z",
     "first_commit_at": "2023-05-19T12:18:28Z",
-    "forks": 85,
+    "forks": 91,
     "watchers": 30,
-    "open_issues": 2,
+    "open_issues": 3,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6701,
+  "composite_score": 0.6874,
   "rank_in_category": 7,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T10:14:39.694536Z",
-  "last_refreshed_at": "2026-06-24T16:29:13.551545Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T15:36:40.200174Z",
+  "consecutive_refresh_failures": 0
 }

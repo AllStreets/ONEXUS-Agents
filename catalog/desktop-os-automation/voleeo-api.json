@@ -1,0 +1,60 @@
+{
+  "slug": "voleeo-api",
+  "name": "voleeo-api",
+  "tagline": "Local-first desktop API client built for developers and AI agents",
+  "category": "desktop-os-automation",
+  "tags": [
+    "api-client",
+    "api-testing",
+    "grpc",
+    "http",
+    "http-client",
+    "http-mcp",
+    "insomnia-alternative",
+    "postman-alternative",
+    "tauri-app",
+    "websocket"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "voleeo",
+    "url": "https://github.com/voleeo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "voleeo/voleeo-api",
+    "huggingface": null,
+    "homepage": "https://voleeo.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 85,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T16:23:50Z",
+    "first_commit_at": "2026-06-10T10:22:53Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3289,
+  "rank_in_category": 100,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:29:07.035666Z",
+  "last_refreshed_at": "2026-07-17T15:29:07.035669Z",
+  "consecutive_refresh_failures": 0
+}

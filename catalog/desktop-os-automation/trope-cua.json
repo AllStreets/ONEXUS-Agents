@@ -16,22 +16,22 @@
     "windows"
   ],
   "author": {
-    "type": "user",
-    "handle": "voctory",
-    "url": "https://github.com/voctory"
+    "type": "org",
+    "handle": "tropeai",
+    "url": "https://github.com/tropeai"
   },
   "source": {
     "primary": "github",
-    "github": "voctory/trope-cua",
+    "github": "tropeai/trope-cua",
     "huggingface": null,
     "homepage": "https://trope.ai/cua"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 25,
+    "stars": 27,
     "downloads_30d": null,
     "last_commit_at": "2026-05-10T22:57:06Z",
-    "first_commit_at": "2026-04-25T06:01:10Z",
+    "first_commit_at": "2026-04-24T22:46:47Z",
     "forks": 4,
     "watchers": 1,
     "open_issues": 0,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3182,
-  "rank_in_category": 111,
+  "composite_score": 0.3136,
+  "rank_in_category": 115,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-03T18:20:05.289407Z",
-  "last_refreshed_at": "2026-06-24T16:24:05.405912Z",
-  "consecutive_refresh_failures": 21
+  "first_seen_at": "2026-07-17T15:25:21.840879Z",
+  "last_refreshed_at": "2026-07-17T15:25:21.840882Z",
+  "consecutive_refresh_failures": 0
 }

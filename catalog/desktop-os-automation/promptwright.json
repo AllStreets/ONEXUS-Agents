@@ -1,0 +1,59 @@
+{
+  "slug": "promptwright",
+  "name": "promptwright",
+  "tagline": "Login-less, bring-your-own-key desktop agent that turns plain English into browser automation — and generates runnable Playwright, Cypress, and Selenium scripts.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "browser-automation",
+    "byok",
+    "cypress",
+    "electron",
+    "playwright",
+    "selenium",
+    "test-automation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sahajamit",
+    "url": "https://github.com/sahajamit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sahajamit/promptwright",
+    "huggingface": null,
+    "homepage": "https://www.youtube.com/watch?v=2c7P4du6hDQ"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 113,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-10T09:05:08Z",
+    "first_commit_at": "2026-07-05T10:30:26Z",
+    "forks": 24,
+    "watchers": 7,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3182,
+  "rank_in_category": 110,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:25:12.862167Z",
+  "last_refreshed_at": "2026-07-17T15:25:12.862170Z",
+  "consecutive_refresh_failures": 0
+}

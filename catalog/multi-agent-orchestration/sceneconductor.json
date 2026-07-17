@@ -1,7 +1,7 @@
 {
   "slug": "sceneconductor",
   "name": "SceneConductor",
-  "tagline": "SceneConductor: 3D Scene Generation from Single Image with Multi-Agent Orchestration",
+  "tagline": "SceneConductor: 3D Scene Generation from a Single Image with Multi-Agent Orchestration",
   "category": "multi-agent-orchestration",
   "tags": [
     "layout-generation",
@@ -23,7 +23,7 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 21,
+    "stars": 25,
     "downloads_30d": null,
     "last_commit_at": "2026-06-23T16:57:07Z",
     "first_commit_at": "2026-06-07T03:07:57Z",
@@ -46,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2722,
-  "rank_in_category": 460,
+  "composite_score": 0.2734,
+  "rank_in_category": 504,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-24T16:42:58.832742Z",
-  "last_refreshed_at": "2026-06-24T16:42:58.832746Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-07-17T16:01:51.337301Z",
+  "consecutive_refresh_failures": 0
 }

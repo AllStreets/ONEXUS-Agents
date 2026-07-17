@@ -1,33 +1,35 @@
 {
   "slug": "meeting-bot",
   "name": "meeting-bot",
-  "tagline": "Universal meeting  bot to record Google Meet, Zoom, and Microsoft Teams — with a single API. Runs in production. Free to use, extend, and scale.",
+  "tagline": "Golang bot that records your meeting sessions (Google Meet, Zoom, Teams)",
   "category": "audio-speech",
   "tags": [
-    "meeting-api",
-    "meeting-recorder",
-    "universal-meeting-bot-api"
+    "audio-recording",
+    "golang",
+    "gstreamer",
+    "meeting",
+    "video-recording"
   ],
   "author": {
-    "type": "org",
-    "handle": "screenappai",
-    "url": "https://github.com/screenappai"
+    "type": "user",
+    "handle": "dunkbing",
+    "url": "https://github.com/dunkbing"
   },
   "source": {
     "primary": "github",
-    "github": "screenappai/meeting-bot",
+    "github": "dunkbing/meeting-bot",
     "huggingface": null,
-    "homepage": "https://screenapp.io/"
+    "homepage": null
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 145,
+    "stars": 22,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-18T06:08:34Z",
-    "first_commit_at": "2025-06-30T05:32:48Z",
-    "forks": 55,
-    "watchers": 5,
-    "open_issues": 3,
+    "last_commit_at": "2023-01-21T03:49:39Z",
+    "first_commit_at": "2022-09-18T17:07:56Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -44,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4619,
-  "rank_in_category": 48,
+  "composite_score": 0.2468,
+  "rank_in_category": 129,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-24T16:30:35.172457Z",
-  "last_refreshed_at": "2026-06-24T16:30:35.172461Z",
-  "consecutive_refresh_failures": 21
+  "first_seen_at": "2026-07-17T15:39:49.673177Z",
+  "last_refreshed_at": "2026-07-17T15:39:49.673180Z",
+  "consecutive_refresh_failures": 0
 }

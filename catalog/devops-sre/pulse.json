@@ -1,0 +1,60 @@
+{
+  "slug": "pulse",
+  "name": "Pulse",
+  "tagline": "Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes",
+  "category": "devops-sre",
+  "tags": [
+    "ai",
+    "alerts",
+    "dashboard",
+    "docker",
+    "docker-monitoring",
+    "go",
+    "homelab",
+    "infrastructure-monitoring",
+    "kubernetes",
+    "monitoring"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rcourtman",
+    "url": "https://github.com/rcourtman"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rcourtman/Pulse",
+    "huggingface": null,
+    "homepage": "https://pulserelay.pro/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6331,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-17T15:44:13Z",
+    "first_commit_at": "2025-10-11T23:29:47Z",
+    "forks": 253,
+    "watchers": 28,
+    "open_issues": 146,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5895,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:46:54.410750Z",
+  "last_refreshed_at": "2026-07-17T15:46:54.410753Z",
+  "consecutive_refresh_failures": 0
+}

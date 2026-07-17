@@ -1,0 +1,49 @@
+{
+  "slug": "kube-agentic-networking",
+  "name": "kube-agentic-networking",
+  "tagline": "Agentic networking policies and governance for agents and tools in Kubernetes",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "kubernetes-sigs",
+    "url": "https://github.com/kubernetes-sigs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kubernetes-sigs/kube-agentic-networking",
+    "huggingface": null,
+    "homepage": "https://kube-agentic-networking.sigs.k8s.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 116,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T17:23:25Z",
+    "first_commit_at": "2025-10-24T04:28:58Z",
+    "forks": 37,
+    "watchers": 9,
+    "open_issues": 39,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.481,
+  "rank_in_category": 86,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T15:20:33.376331Z",
+  "last_refreshed_at": "2026-07-17T16:05:02.844602Z",
+  "consecutive_refresh_failures": 0
+}

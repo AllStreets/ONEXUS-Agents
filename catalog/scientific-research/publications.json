@@ -1,0 +1,53 @@
+{
+  "slug": "publications",
+  "name": "publications",
+  "tagline": "Publications from Trail of Bits",
+  "category": "scientific-research",
+  "tags": [
+    "academic-papers",
+    "conference-presentations",
+    "security-reviews"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "trailofbits",
+    "url": "https://github.com/trailofbits"
+  },
+  "source": {
+    "primary": "github",
+    "github": "trailofbits/publications",
+    "huggingface": null,
+    "homepage": "https://www.trailofbits.com/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "metrics": {
+    "stars": 1863,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-15T17:01:10Z",
+    "first_commit_at": "2015-04-29T19:30:25Z",
+    "forks": 235,
+    "watchers": 140,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6591,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:35:04.143630Z",
+  "last_refreshed_at": "2026-07-17T15:35:04.143633Z",
+  "consecutive_refresh_failures": 0
+}

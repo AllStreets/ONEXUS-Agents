@@ -1,0 +1,56 @@
+{
+  "slug": "google-workspace-mcp",
+  "name": "google-workspace-mcp",
+  "tagline": "A Model Context Protocol (MCP) server that provides authenticated access to Google Workspace APIs, offering integrated Authentication, Gmail, Calendar, and Drive functionality",
+  "category": "email-scheduling",
+  "tags": [
+    "ai",
+    "google-workspace",
+    "mcp",
+    "model-context-protocol"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aaronsb",
+    "url": "https://github.com/aaronsb"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aaronsb/google-workspace-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 161,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-12T22:17:36Z",
+    "first_commit_at": "2025-01-25T18:34:27Z",
+    "forks": 49,
+    "watchers": 6,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6421,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-17T15:39:17.148153Z",
+  "last_refreshed_at": "2026-07-17T15:39:17.148156Z",
+  "consecutive_refresh_failures": 0
+}
