@@ -1,7 +1,7 @@
 {
   "slug": "reactive-agents-ts",
   "name": "reactive-agents-ts",
-  "tagline": "The composable TypeScript agent harness built for control, not magic — run one codebase from local 4B Ollama to frontier APIs. Type-safe (Effect-TS), observable, durable. MCP-native tools, multi-agent",
+  "tagline": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs the agent loop on every model tier — local 4B to frontier — with tool-call healing",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-framework",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 16,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-17T02:54:53Z",
+    "last_commit_at": "2026-07-13T13:01:23Z",
     "first_commit_at": "2026-02-19T14:01:28Z",
     "forks": 3,
     "watchers": 0,
@@ -40,10 +40,10 @@
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 2,
+    "contributors_count": null,
     "releases_total": null,
     "latest_release_at": null,
-    "commits_90d": 2161,
+    "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
     "frameworks": [
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3571,
-  "rank_in_category": 311,
+  "composite_score": 0.3794,
+  "rank_in_category": 268,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-22T17:53:19.404809Z",
-  "last_refreshed_at": "2026-07-12T18:37:33.486300Z",
-  "consecutive_refresh_failures": 24
+  "first_seen_at": "2026-07-18T14:33:17.851427Z",
+  "last_refreshed_at": "2026-07-18T14:33:17.851431Z",
+  "consecutive_refresh_failures": 0
 }

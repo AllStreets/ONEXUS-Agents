@@ -1,0 +1,60 @@
+{
+  "slug": "nanocoder-v1",
+  "name": "nanocoder-v1",
+  "tagline": "usernamebetter/nanocoder-v1 — text-generation",
+  "category": "coding",
+  "tags": [
+    "peft",
+    "safetensors",
+    "code",
+    "coding",
+    "full-stack",
+    "frontend",
+    "backend",
+    "agent",
+    "qwen3",
+    "lora"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "usernamebetter",
+    "url": "https://huggingface.co/usernamebetter"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "usernamebetter/nanocoder-v1",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 159,
+    "last_commit_at": "2026-07-18T04:43:31Z",
+    "first_commit_at": "2026-07-16T11:11:56Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "peft",
+    "pipeline_tag": "text-generation",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2723,
+  "rank_in_category": 527,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-18T14:29:44.936825Z",
+  "last_refreshed_at": "2026-07-18T14:29:44.936828Z",
+  "consecutive_refresh_failures": 0
+}
