@@ -1,29 +1,29 @@
 {
   "slug": "quant-agent",
-  "name": "Quant_Agent",
-  "tagline": "🚀 AI-powered multi-agent trading analysis system with Streamlit UI. Features technical indicators, pattern recognition, trend analysis, and LLM-driven decision synthesis using Groq API. Built with Pyt",
+  "name": "quant-agent",
+  "tagline": "智能体因子挖掘",
   "category": "data-science-ml",
   "tags": [],
   "author": {
     "type": "user",
-    "handle": "rlancaster243",
-    "url": "https://github.com/rlancaster243"
+    "handle": "GenjiYin",
+    "url": "https://github.com/GenjiYin"
   },
   "source": {
     "primary": "github",
-    "github": "rlancaster243/Quant_Agent",
+    "github": "GenjiYin/quant-agent",
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "GPL-3.0",
   "metrics": {
-    "stars": 12,
+    "stars": 6,
     "downloads_30d": null,
-    "last_commit_at": "2025-09-23T17:13:44Z",
-    "first_commit_at": "2025-09-15T20:22:01Z",
-    "forks": 1,
-    "watchers": 0,
-    "open_issues": 1,
+    "last_commit_at": "2024-07-25T02:51:52Z",
+    "first_commit_at": "2024-07-24T11:00:32Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1548,
-  "rank_in_category": 211,
+  "composite_score": 0.1472,
+  "rank_in_category": 210,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:56:38.431825Z",
-  "last_refreshed_at": "2026-07-17T15:13:06.275190Z",
+  "first_seen_at": "2026-07-18T14:45:32.695195Z",
+  "last_refreshed_at": "2026-07-18T14:45:32.695199Z",
   "consecutive_refresh_failures": 0
 }

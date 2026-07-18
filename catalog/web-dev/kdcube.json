@@ -1,7 +1,7 @@
 {
   "slug": "kdcube",
   "name": "kdcube",
-  "tagline": "Open-source multi-tenant agent runtime for production. Tenant isolation, per-user cost controls, dual-sandbox security, deployment from Git.",
+  "tagline": "Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps with governed tools, scoped credentials, isolated generated code, and cost contro",
   "category": "web-dev",
   "tags": [
     "agent-framework",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 12,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-17T02:35:01Z",
+    "last_commit_at": "2026-07-18T13:39:58Z",
     "first_commit_at": "2025-08-20T15:36:14Z",
     "forks": 2,
     "watchers": 0,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4856,
-  "rank_in_category": 104,
+  "composite_score": 0.4865,
+  "rank_in_category": 101,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-08T15:30:48.993070Z",
-  "last_refreshed_at": "2026-07-17T14:55:18.722517Z",
+  "last_refreshed_at": "2026-07-18T14:30:35.069878Z",
   "consecutive_refresh_failures": 0
 }
