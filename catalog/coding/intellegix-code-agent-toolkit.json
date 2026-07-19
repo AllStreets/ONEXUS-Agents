@@ -1,0 +1,63 @@
+{
+  "slug": "intellegix-code-agent-toolkit",
+  "name": "intellegix-code-agent-toolkit",
+  "tagline": "Automated loop driver, slash commands, council automation, MCP browser bridge, and portfolio governance for Claude Code CLI",
+  "category": "coding",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "anthropic",
+    "automation",
+    "claude",
+    "claude-code",
+    "claude-code-cli",
+    "code-agent",
+    "developer-tools",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "intellegix",
+    "url": "https://github.com/intellegix"
+  },
+  "source": {
+    "primary": "github",
+    "github": "intellegix/intellegix-code-agent-toolkit",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 56,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-18T19:12:19Z",
+    "first_commit_at": "2026-02-15T18:37:26Z",
+    "forks": 14,
+    "watchers": 1,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3575,
+  "rank_in_category": 259,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-19T14:26:08.895734Z",
+  "last_refreshed_at": "2026-07-19T14:26:08.895737Z",
+  "consecutive_refresh_failures": 0
+}

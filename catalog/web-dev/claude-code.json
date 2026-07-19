@@ -1,29 +1,29 @@
 {
-  "slug": "acople",
-  "name": "acople",
-  "tagline": "The easiest way to connect your app to an IDE Agent and use it as an engine.",
-  "category": "coding",
+  "slug": "claude-code",
+  "name": "claude-code",
+  "tagline": "claude code plugins marketplace",
+  "category": "web-dev",
   "tags": [],
   "author": {
-    "type": "user",
-    "handle": "mutant-77",
-    "url": "https://github.com/mutant-77"
+    "type": "org",
+    "handle": "MadAppGang",
+    "url": "https://github.com/MadAppGang"
   },
   "source": {
     "primary": "github",
-    "github": "mutant-77/acople",
+    "github": "MadAppGang/claude-code",
     "huggingface": null,
     "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 6,
+    "stars": 279,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-13T18:23:00Z",
-    "first_commit_at": "2026-05-02T14:28:50Z",
-    "forks": 1,
-    "watchers": 0,
-    "open_issues": 0,
+    "last_commit_at": "2026-03-15T08:03:52Z",
+    "first_commit_at": "2025-11-04T06:27:45Z",
+    "forks": 30,
+    "watchers": 2,
+    "open_issues": 9,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2002,
-  "rank_in_category": 709,
+  "composite_score": 0.369,
+  "rank_in_category": 205,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-07T14:56:54.089348Z",
-  "last_refreshed_at": "2026-07-18T14:27:01.607843Z",
+  "first_seen_at": "2026-07-19T14:37:30.951653Z",
+  "last_refreshed_at": "2026-07-19T14:37:30.951657Z",
   "consecutive_refresh_failures": 0
 }
