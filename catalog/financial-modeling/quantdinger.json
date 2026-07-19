@@ -16,25 +16,25 @@
     "fintech"
   ],
   "author": {
-    "type": "user",
-    "handle": "brokermr810",
-    "url": "https://github.com/brokermr810"
+    "type": "org",
+    "handle": "OpenByteInc",
+    "url": "https://github.com/OpenByteInc"
   },
   "source": {
     "primary": "github",
-    "github": "brokermr810/QuantDinger",
+    "github": "OpenByteInc/QuantDinger",
     "huggingface": null,
     "homepage": "https://www.quantdinger.com/"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 9738,
+    "stars": 9767,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-18T10:44:25Z",
+    "last_commit_at": "2026-07-19T13:39:04Z",
     "first_commit_at": "2025-12-28T19:06:49Z",
-    "forks": 2049,
+    "forks": 2057,
     "watchers": 63,
-    "open_issues": 40,
+    "open_issues": 36,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6904,
+  "composite_score": 0.6907,
   "rank_in_category": 5,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-02T14:14:57.618552Z",
-  "last_refreshed_at": "2026-07-18T14:43:33.596898Z",
+  "first_seen_at": "2026-07-19T14:48:42.219595Z",
+  "last_refreshed_at": "2026-07-19T14:48:42.219599Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "late-cli",
   "name": "late-cli",
-  "tagline": "Stop degrading your model's reasoning. A minimal, zero-config AI coding agent. Enforced ephemeral subagents keep context pure. From tiny local models up to Sol, Claude and Kimi K3.",
+  "tagline": "Stop degrading your model's reasoning. A minimal, zero-config AI coding agent. Enforced ephemeral subagents keep context pure. From tiny local models up to Sol, Fable and Kimi K3.",
   "category": "coding",
   "tags": [
     "agent",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 380,
+    "stars": 381,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-18T13:17:58Z",
+    "last_commit_at": "2026-07-19T13:22:01Z",
     "first_commit_at": "2026-02-21T16:22:08Z",
     "forks": 37,
     "watchers": 5,
-    "open_issues": 2,
+    "open_issues": 3,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3859,
-  "rank_in_category": 182,
+  "composite_score": 0.386,
+  "rank_in_category": 183,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-03T14:12:04.822074Z",
-  "last_refreshed_at": "2026-07-18T14:21:44.559004Z",
+  "last_refreshed_at": "2026-07-19T14:25:48.479684Z",
   "consecutive_refresh_failures": 0
 }
