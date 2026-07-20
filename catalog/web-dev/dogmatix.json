@@ -1,0 +1,60 @@
+{
+  "slug": "dogmatix",
+  "name": "dogmatix",
+  "tagline": "prasadvittaldev/dogmatix — None",
+  "category": "web-dev",
+  "tags": [
+    "safetensors",
+    "gemma4",
+    "code",
+    "python",
+    "web",
+    "agent",
+    "qlora",
+    "base_model:google/gemma-4-E2B-it",
+    "base_model:finetune:google/gemma-4-E2B-it",
+    "license:gemma"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "prasadvittaldev",
+    "url": "https://huggingface.co/prasadvittaldev"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "prasadvittaldev/dogmatix",
+    "homepage": null
+  },
+  "license": "gemma",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-07-20T07:20:12Z",
+    "first_commit_at": "2026-07-17T07:05:28Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3147,
+  "rank_in_category": 249,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-20T15:26:26.266046Z",
+  "last_refreshed_at": "2026-07-20T15:26:26.266050Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "fara",
   "name": "fara",
-  "tagline": "Fara-7B: An Efficient Agentic Model for Computer Use",
+  "tagline": "Fara1.5 – A family of frontier computer use agent models",
   "category": "browser-automation",
   "tags": [
     "agent",
@@ -19,17 +19,17 @@
     "primary": "github",
     "github": "microsoft/fara",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 6010,
+    "stars": 6014,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-16T23:27:57Z",
+    "last_commit_at": "2026-07-17T20:04:52Z",
     "first_commit_at": "2025-11-24T15:32:01Z",
-    "forks": 582,
+    "forks": 585,
     "watchers": 41,
-    "open_issues": 30,
+    "open_issues": 32,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4139,
-  "rank_in_category": 59,
+  "composite_score": 0.4401,
+  "rank_in_category": 38,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-15T15:01:58.024190Z",
-  "last_refreshed_at": "2026-07-15T15:01:58.024193Z",
-  "consecutive_refresh_failures": 4
+  "first_seen_at": "2026-07-20T15:22:36.565176Z",
+  "last_refreshed_at": "2026-07-20T15:22:36.565180Z",
+  "consecutive_refresh_failures": 0
 }

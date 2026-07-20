@@ -1,0 +1,62 @@
+{
+  "slug": "canlii-mcp",
+  "name": "canlii-mcp",
+  "tagline": "MCP server for the CanLII Canadian legal database. Hosted at canlii-mcp.vaquill.ai. Works with Claude, Cursor, VS Code, Windsurf.",
+  "category": "legal-research",
+  "tags": [
+    "ai-tools",
+    "canadian-law",
+    "canlii",
+    "case-law",
+    "claude",
+    "legal-ai",
+    "legal-research",
+    "legaltech",
+    "mcp",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Vaquill-AI",
+    "url": "https://github.com/Vaquill-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Vaquill-AI/canlii-mcp",
+    "huggingface": null,
+    "homepage": "https://vaquill.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-09T04:40:52Z",
+    "first_commit_at": "2026-03-16T14:25:33Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2883,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-20T15:37:45.566257Z",
+  "last_refreshed_at": "2026-07-20T15:37:45.566261Z",
+  "consecutive_refresh_failures": 0
+}

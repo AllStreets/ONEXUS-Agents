@@ -1,0 +1,62 @@
+{
+  "slug": "ipollowork",
+  "name": "iPolloWork",
+  "tagline": "A source-available, local-first alternative to Codex and Claude Code: an AI workspace for code, files, docs, websites, presentations, design, and video—with editable results and user-controlled tools.",
+  "category": "coding",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "ai-workspace",
+    "coding-agent",
+    "desktop-app",
+    "local-first",
+    "mcp",
+    "opencode",
+    "self-hosted",
+    "source-available"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Devin-AXIS",
+    "url": "https://github.com/Devin-AXIS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Devin-AXIS/iPolloWork",
+    "huggingface": null,
+    "homepage": "https://www.ipollo.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1485,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-20T14:30:26Z",
+    "first_commit_at": "2025-08-25T03:57:46Z",
+    "forks": 196,
+    "watchers": 134,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3277,
+  "rank_in_category": 328,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-20T15:12:05.165616Z",
+  "last_refreshed_at": "2026-07-20T15:12:05.165621Z",
+  "consecutive_refresh_failures": 0
+}
