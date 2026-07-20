@@ -1,10 +1,9 @@
 {
   "slug": "next-270m-q4-k-m-gguf",
   "name": "next-270m-Q4_K_M-GGUF",
-  "tagline": "Lamapi/next-270m-Q4_K_M-GGUF — text-generation",
+  "tagline": "mattritchey/next-270m-Q4_K_M-GGUF — text-generation",
   "category": "data-science-ml",
   "tags": [
-    "transformers",
     "gguf",
     "turkish",
     "türkiye",
@@ -13,32 +12,33 @@
     "lamapi",
     "gemma3",
     "next",
-    "next-x1"
+    "next-x1",
+    "efficient"
   ],
   "author": {
     "type": "org",
-    "handle": "Lamapi",
-    "url": "https://huggingface.co/Lamapi"
+    "handle": "mattritchey",
+    "url": "https://huggingface.co/mattritchey"
   },
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "Lamapi/next-270m-Q4_K_M-GGUF",
+    "huggingface": "mattritchey/next-270m-Q4_K_M-GGUF",
     "homepage": null
   },
   "license": "mit",
   "metrics": {
-    "stars": 3,
-    "downloads_30d": 20,
-    "last_commit_at": "2025-10-28T10:44:09Z",
-    "first_commit_at": "2025-10-28T10:44:05Z",
+    "stars": 0,
+    "downloads_30d": 19,
+    "last_commit_at": "2025-10-21T17:31:33Z",
+    "first_commit_at": "2025-10-21T17:31:27Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
     "archived": null,
     "is_fork": null,
     "is_template": null,
-    "library_name": "transformers",
+    "library_name": null,
     "pipeline_tag": "text-generation",
     "contributors_count": null,
     "releases_total": null,
@@ -46,17 +46,15 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": [
-      "transformers"
-    ]
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1987,
-  "rank_in_category": 173,
+  "composite_score": 0.1691,
+  "rank_in_category": 203,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-13T16:03:49.320007Z",
-  "last_refreshed_at": "2026-07-19T14:47:03.467608Z",
+  "first_seen_at": "2026-07-20T15:32:33.384168Z",
+  "last_refreshed_at": "2026-07-20T15:32:33.384172Z",
   "consecutive_refresh_failures": 0
 }

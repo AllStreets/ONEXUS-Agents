@@ -1,7 +1,7 @@
 {
   "slug": "agentic-awesome-skills",
   "name": "agentic-awesome-skills",
-  "tagline": "AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, ",
+  "tagline": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalo",
   "category": "coding",
   "tags": [
     "agent-skills",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 43576,
+    "stars": 43630,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-19T13:42:54Z",
+    "last_commit_at": "2026-07-20T09:07:42Z",
     "first_commit_at": "2026-01-14T17:48:08Z",
-    "forks": 6465,
-    "watchers": 312,
-    "open_issues": 2,
+    "forks": 6462,
+    "watchers": 310,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4831,
-  "rank_in_category": 18,
+  "composite_score": 0.4829,
+  "rank_in_category": 19,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-09T15:58:06.160290Z",
-  "last_refreshed_at": "2026-07-19T14:26:55.152709Z",
+  "last_refreshed_at": "2026-07-20T15:13:47.877769Z",
   "consecutive_refresh_failures": 0
 }
