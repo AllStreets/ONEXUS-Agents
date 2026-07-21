@@ -1,0 +1,62 @@
+{
+  "slug": "graphify",
+  "name": "graphify",
+  "tagline": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
+  "category": "search-rag",
+  "tags": [
+    "ai-agents",
+    "antigravity",
+    "ast",
+    "claude-code",
+    "code-analysis",
+    "code-search",
+    "codex",
+    "cursor",
+    "developer-tools",
+    "gemini"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Graphify-Labs",
+    "url": "https://github.com/Graphify-Labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Graphify-Labs/graphify",
+    "huggingface": null,
+    "homepage": "https://www.graphify.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 92875,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-20T16:08:17Z",
+    "first_commit_at": "2026-04-04T17:52:44Z",
+    "forks": 9018,
+    "watchers": 318,
+    "open_issues": 599,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5099,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-04T14:33:51.245186Z",
+  "last_refreshed_at": "2026-07-21T15:07:40.614554Z",
+  "consecutive_refresh_failures": 0
+}
