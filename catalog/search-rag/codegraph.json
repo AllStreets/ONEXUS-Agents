@@ -1,0 +1,49 @@
+{
+  "slug": "codegraph",
+  "name": "codegraph",
+  "tagline": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "colbymchenry",
+    "url": "https://github.com/colbymchenry"
+  },
+  "source": {
+    "primary": "github",
+    "github": "colbymchenry/codegraph",
+    "huggingface": null,
+    "homepage": "https://colbymchenry.github.io/codegraph/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 61648,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-21T19:15:36Z",
+    "first_commit_at": "2026-01-18T22:23:53Z",
+    "forks": 3860,
+    "watchers": 134,
+    "open_issues": 336,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.439,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-22T15:37:46.204507Z",
+  "last_refreshed_at": "2026-07-22T15:37:46.204511Z",
+  "consecutive_refresh_failures": 0
+}

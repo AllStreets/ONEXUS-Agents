@@ -1,7 +1,7 @@
 {
   "slug": "traderharness",
   "name": "TraderHarness",
-  "tagline": "Contamination-resistant A-share backtesting, evaluation, replay, and trajectory export for autonomous LLM trading agents.",
+  "tagline": "面向 LLM 交易 Agent 的抗污染回测与评测环境：真实A股数据、时点掩码、指纹回放，每次运行同步合成轨迹训练数据｜Contamination-resistant A-share backtesting, replay & trajectory export for LLM trading agents",
   "category": "financial-modeling",
   "tags": [
     "a-share",
@@ -28,9 +28,9 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 5,
+    "stars": 7,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-20T03:12:15Z",
+    "last_commit_at": "2026-07-22T07:52:21Z",
     "first_commit_at": "2026-05-13T15:22:51Z",
     "forks": 0,
     "watchers": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3483,
-  "rank_in_category": 137,
+  "composite_score": 0.3567,
+  "rank_in_category": 133,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-20T15:33:12.309383Z",
-  "last_refreshed_at": "2026-07-21T15:27:34.640560Z",
+  "last_refreshed_at": "2026-07-22T15:28:31.282161Z",
   "consecutive_refresh_failures": 0
 }

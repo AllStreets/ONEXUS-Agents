@@ -1,46 +1,46 @@
 {
   "slug": "ai-customer-support",
-  "name": "AI-customer-support",
-  "tagline": "Building AI Chatbot that Empowers Customer Success with Instant, AI-Powered Assistance at Your Fingertips",
+  "name": "ai-customer-support",
+  "tagline": "AI-powered customer support competitive analysis and tooling guide, featuring Twig’s differentiators and comparison vs. industry leaders.",
   "category": "customer-support",
   "tags": [
-    "ai-chatbot",
-    "ai-customer-support",
-    "aws-ec2",
-    "cicd",
-    "customer-support-assistant",
-    "docker",
-    "nextjs14"
+    "ai",
+    "b2b-saas",
+    "chatbot",
+    "competitive-analysis",
+    "customer-support",
+    "customer-support-ai",
+    "sentiment-analysis"
   ],
   "author": {
     "type": "user",
-    "handle": "kumariAnjali10",
-    "url": "https://github.com/kumariAnjali10"
+    "handle": "Madhavkabra",
+    "url": "https://github.com/Madhavkabra"
   },
   "source": {
     "primary": "github",
-    "github": "kumariAnjali10/AI-customer-support",
+    "github": "Madhavkabra/ai-customer-support",
     "huggingface": null,
-    "homepage": "https://aicustomersupport-alpha.vercel.app/"
+    "homepage": "https://madhavkabra.github.io/ai-customer-support/"
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 7,
+    "stars": 1,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-08T12:19:14Z",
-    "first_commit_at": "2024-08-09T05:53:52Z",
-    "forks": 1,
-    "watchers": 1,
+    "last_commit_at": "2025-06-23T09:31:25Z",
+    "first_commit_at": "2025-06-23T08:50:48Z",
+    "forks": 0,
+    "watchers": 0,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 3,
+    "contributors_count": null,
     "releases_total": null,
     "latest_release_at": null,
-    "commits_90d": 1,
+    "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
     "frameworks": []
@@ -48,10 +48,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3876,
-  "rank_in_category": 96,
+  "composite_score": 0.2266,
+  "rank_in_category": 183,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-01T14:28:17.177904Z",
-  "last_refreshed_at": "2026-07-19T18:22:41.963616Z",
-  "consecutive_refresh_failures": 26
+  "first_seen_at": "2026-07-22T15:37:02.905746Z",
+  "last_refreshed_at": "2026-07-22T15:37:02.905750Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,57 @@
+{
+  "slug": "claude-code-subagents",
+  "name": "claude-code-subagents",
+  "tagline": "Comprehensive collection of 133+ specialized AI subagents for Claude Code covering the entire software development lifecycle",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "automation",
+    "claude-code",
+    "development-tools",
+    "llm",
+    "software-engineering",
+    "subagents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rshah515",
+    "url": "https://github.com/rshah515"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rshah515/claude-code-subagents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 97,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-08T21:15:11Z",
+    "first_commit_at": "2025-08-03T16:51:38Z",
+    "forks": 15,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2433,
+  "rank_in_category": 548,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-22T15:30:26.488069Z",
+  "last_refreshed_at": "2026-07-22T15:30:26.488073Z",
+  "consecutive_refresh_failures": 0
+}

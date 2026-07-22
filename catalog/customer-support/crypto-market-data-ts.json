@@ -15,11 +15,11 @@
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "NOASSERTION",
   "metrics": {
-    "stars": 22,
+    "stars": 23,
     "downloads_30d": null,
-    "last_commit_at": "2026-02-13T20:29:56Z",
+    "last_commit_at": "2026-07-14T03:33:20Z",
     "first_commit_at": "2026-01-22T06:32:18Z",
     "forks": 2,
     "watchers": 0,
@@ -29,10 +29,10 @@
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 2,
+    "contributors_count": null,
     "releases_total": null,
     "latest_release_at": null,
-    "commits_90d": 2,
+    "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
     "frameworks": []
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3756,
-  "rank_in_category": 102,
+  "composite_score": 0.5045,
+  "rank_in_category": 57,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-09T16:28:43.260590Z",
-  "last_refreshed_at": "2026-07-19T18:23:16.033289Z",
-  "consecutive_refresh_failures": 26
+  "last_refreshed_at": "2026-07-22T15:38:13.437928Z",
+  "consecutive_refresh_failures": 0
 }

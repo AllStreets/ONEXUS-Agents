@@ -1,0 +1,49 @@
+{
+  "slug": "distil-cli-skill",
+  "name": "distil-cli-skill",
+  "tagline": "Claude skill for distil cli",
+  "category": "customer-support",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "distil-labs",
+    "url": "https://github.com/distil-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "distil-labs/distil-cli-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 177,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-22T02:01:01Z",
+    "first_commit_at": "2026-01-14T10:22:22Z",
+    "forks": 9,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5194,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-22T15:39:32.613396Z",
+  "last_refreshed_at": "2026-07-22T15:39:32.613401Z",
+  "consecutive_refresh_failures": 0
+}
