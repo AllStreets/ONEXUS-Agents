@@ -1,7 +1,7 @@
 {
   "slug": "planning-with-files",
   "name": "planning-with-files",
-  "tagline": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen",
+  "tagline": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi",
   "category": "coding",
   "tags": [
     "agent-skills",
@@ -10,10 +10,10 @@
     "autonomous-agents",
     "claude",
     "claude-code",
+    "claude-code-skills",
     "claude-skills",
     "codex",
-    "coding-agent",
-    "context-engineering"
+    "coding-agent"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 25595,
+    "stars": 25624,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-18T10:14:06Z",
+    "last_commit_at": "2026-07-21T21:29:14Z",
     "first_commit_at": "2026-01-03T07:34:43Z",
-    "forks": 2157,
+    "forks": 2158,
     "watchers": 105,
-    "open_issues": 6,
+    "open_issues": 5,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4028,
-  "rank_in_category": 141,
+  "composite_score": 0.4053,
+  "rank_in_category": 131,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-13T15:00:02.851986Z",
-  "last_refreshed_at": "2026-07-21T15:03:50.938720Z",
+  "last_refreshed_at": "2026-07-22T15:04:00.337626Z",
   "consecutive_refresh_failures": 0
 }

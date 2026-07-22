@@ -1,0 +1,59 @@
+{
+  "slug": "tencentdb-agent-memory",
+  "name": "TencentDB-Agent-Memory",
+  "tagline": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+  "category": "knowledge-management",
+  "tags": [
+    "agent",
+    "ai-agent",
+    "embedding",
+    "llm",
+    "local-first",
+    "long-term-memory",
+    "memory",
+    "openclaw-plugin",
+    "vector-search"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TencentCloud",
+    "url": "https://github.com/TencentCloud"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TencentCloud/TencentDB-Agent-Memory",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 9214,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-22T10:11:43Z",
+    "first_commit_at": "2026-04-09T10:23:46Z",
+    "forks": 861,
+    "watchers": 40,
+    "open_issues": 325,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6604,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-22T15:07:59.377465Z",
+  "last_refreshed_at": "2026-07-22T15:07:59.377469Z",
+  "consecutive_refresh_failures": 0
+}

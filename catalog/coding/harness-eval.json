@@ -1,0 +1,60 @@
+{
+  "slug": "harness-eval",
+  "name": "harness-eval",
+  "tagline": "Evaluate (lint, review, and security-audit) your AI coding agent harness.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "claude-code",
+    "code-agent",
+    "copilot",
+    "cursor",
+    "evaluation",
+    "gemini-cli",
+    "github-actions",
+    "harness",
+    "health-check"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "redhat-community-ai-tools",
+    "url": "https://github.com/redhat-community-ai-tools"
+  },
+  "source": {
+    "primary": "github",
+    "github": "redhat-community-ai-tools/harness-eval",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-22T13:41:35Z",
+    "first_commit_at": "2026-06-01T06:27:21Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2498,
+  "rank_in_category": 545,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-22T15:05:29.290982Z",
+  "last_refreshed_at": "2026-07-22T15:05:29.290987Z",
+  "consecutive_refresh_failures": 0
+}

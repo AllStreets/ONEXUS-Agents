@@ -1,0 +1,57 @@
+{
+  "slug": "humanizer",
+  "name": "humanizer",
+  "tagline": "Agent skill that removes signs of AI-generated writing from text",
+  "category": "content-writing",
+  "tags": [
+    "agent-skills",
+    "ai-writing",
+    "claude-code",
+    "codex",
+    "cursor",
+    "prompt-engineering",
+    "writing-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "blader",
+    "url": "https://github.com/blader"
+  },
+  "source": {
+    "primary": "github",
+    "github": "blader/humanizer",
+    "huggingface": null,
+    "homepage": "https://skills.sh/blader/humanizer"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 30358,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-22T06:26:25Z",
+    "first_commit_at": "2026-01-18T05:30:11Z",
+    "forks": 2795,
+    "watchers": 187,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6857,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-22T15:37:48.924342Z",
+  "last_refreshed_at": "2026-07-22T15:37:48.924347Z",
+  "consecutive_refresh_failures": 0
+}

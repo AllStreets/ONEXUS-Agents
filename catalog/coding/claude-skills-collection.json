@@ -1,0 +1,61 @@
+{
+  "slug": "claude-skills-collection",
+  "name": "claude-skills-collection",
+  "tagline": "349 skills open-source pour Claude Code — 34 domaines : dev, agents IA, AI/ML, cloud, database, DevOps, testing, sécurité, networking, Linux, automation, marketing, IoT, communication, data, freelance",
+  "category": "coding",
+  "tags": [
+    "ai-skills",
+    "anthropic",
+    "claude",
+    "education",
+    "finance",
+    "french",
+    "health",
+    "open-source",
+    "productivity"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "khalilbenaz",
+    "url": "https://github.com/khalilbenaz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "khalilbenaz/claude-skills-collection",
+    "huggingface": null,
+    "homepage": "https://khalilbenaz.github.io/claude-skills-collection/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-24T21:34:02Z",
+    "first_commit_at": "2026-03-20T10:39:39Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2571,
+  "rank_in_category": 533,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-22T15:38:21.906093Z",
+  "last_refreshed_at": "2026-07-22T15:38:21.906097Z",
+  "consecutive_refresh_failures": 0
+}

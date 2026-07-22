@@ -1,0 +1,56 @@
+{
+  "slug": "agent",
+  "name": "agent",
+  "tagline": "Create state-machine-powered LLM agents using XState",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "ai",
+    "llm",
+    "state-machine",
+    "statechart",
+    "workflow"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "statelyai",
+    "url": "https://github.com/statelyai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "statelyai/agent",
+    "huggingface": null,
+    "homepage": "https://stately.ai/docs/agents"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 416,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-20T17:01:47Z",
+    "first_commit_at": "2023-12-31T17:02:18Z",
+    "forks": 20,
+    "watchers": 12,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4146,
+  "rank_in_category": 175,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-22T15:39:23.085875Z",
+  "last_refreshed_at": "2026-07-22T15:39:23.085879Z",
+  "consecutive_refresh_failures": 0
+}

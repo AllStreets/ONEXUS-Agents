@@ -1,0 +1,60 @@
+{
+  "slug": "t-tech-t-search-gguf",
+  "name": "t-tech_T-Search-GGUF",
+  "tagline": "bartowski/t-tech_T-Search-GGUF — image-text-to-text",
+  "category": "search-rag",
+  "tags": [
+    "gguf",
+    "35b-a3b",
+    "mixture-of-experts",
+    "moe",
+    "agent",
+    "search-agent",
+    "agentic-search",
+    "search",
+    "information-retrieval",
+    "retrieval"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "bartowski",
+    "url": "https://huggingface.co/bartowski"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "bartowski/t-tech_T-Search-GGUF",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-07-22T02:36:23Z",
+    "first_commit_at": "2026-07-21T23:58:17Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": null,
+    "pipeline_tag": "image-text-to-text",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.227,
+  "rank_in_category": 159,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-22T15:40:50.568435Z",
+  "last_refreshed_at": "2026-07-22T15:40:50.568439Z",
+  "consecutive_refresh_failures": 0
+}
