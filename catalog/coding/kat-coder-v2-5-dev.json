@@ -1,0 +1,62 @@
+{
+  "slug": "kat-coder-v2-5-dev",
+  "name": "KAT-Coder-V2.5-Dev",
+  "tagline": "Kwaipilot/KAT-Coder-V2.5-Dev — text-generation",
+  "category": "coding",
+  "tags": [
+    "transformers",
+    "safetensors",
+    "qwen3_5_moe",
+    "image-text-to-text",
+    "code",
+    "agent",
+    "agentic-coding",
+    "moe",
+    "coding",
+    "text-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Kwaipilot",
+    "url": "https://huggingface.co/Kwaipilot"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "Kwaipilot/KAT-Coder-V2.5-Dev",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 24,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-07-23T11:45:49Z",
+    "first_commit_at": "2026-07-23T09:54:08Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "transformers",
+    "pipeline_tag": "text-generation",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2787,
+  "rank_in_category": 427,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-23T15:18:41.281809Z",
+  "last_refreshed_at": "2026-07-23T15:18:41.281812Z",
+  "consecutive_refresh_failures": 0
+}

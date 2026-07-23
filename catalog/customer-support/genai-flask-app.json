@@ -1,6 +1,6 @@
 {
   "slug": "genai-flask-app",
-  "name": "genai-flask-app",
+  "name": "Genai-Flask-app",
   "tagline": "Multi-model GenAI Flask app — routes customer queries to Llama 3.2, Granite 3.3 & Mistral Small via IBM Watsonx, returns structured JSON (summary + sentiment + response) using LangChain LCEL",
   "category": "customer-support",
   "tags": [
@@ -22,7 +22,7 @@
   },
   "source": {
     "primary": "github",
-    "github": "LeelaissakAttota/genai-flask-app",
+    "github": "LeelaissakAttota/Genai-Flask-app",
     "huggingface": null,
     "homepage": null
   },
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3412,
-  "rank_in_category": 127,
+  "composite_score": 0.3404,
+  "rank_in_category": 118,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-11T16:08:31.418269Z",
-  "last_refreshed_at": "2026-07-22T15:36:22.650109Z",
+  "first_seen_at": "2026-07-23T15:39:45.018376Z",
+  "last_refreshed_at": "2026-07-23T15:39:45.018379Z",
   "consecutive_refresh_failures": 0
 }

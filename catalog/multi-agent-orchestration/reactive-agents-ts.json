@@ -1,7 +1,7 @@
 {
   "slug": "reactive-agents-ts",
   "name": "reactive-agents-ts",
-  "tagline": "A composable TypeScript framework for building reliable LLM agents on a harness you fully control. The same code runs the agent loop on every model tier — local 4B to frontier — with tool-call healing",
+  "tagline": "A composable framework for building reliable LLM agents on a harness you fully control. The same code runs the agentic loop on every model tier, local 4B to frontier with tool-call healing, verificati",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-framework",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 16,
+    "stars": 18,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-21T13:50:32Z",
+    "last_commit_at": "2026-07-22T22:06:34Z",
     "first_commit_at": "2026-02-19T14:01:28Z",
     "forks": 4,
     "watchers": 0,
-    "open_issues": 33,
+    "open_issues": 32,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3854,
-  "rank_in_category": 242,
+  "composite_score": 0.3838,
+  "rank_in_category": 196,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-21T15:17:27.703223Z",
-  "last_refreshed_at": "2026-07-21T15:17:27.703227Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-07-23T15:22:04.609820Z",
+  "last_refreshed_at": "2026-07-23T15:22:04.609823Z",
+  "consecutive_refresh_failures": 0
 }
