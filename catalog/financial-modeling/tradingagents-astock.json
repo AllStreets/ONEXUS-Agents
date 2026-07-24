@@ -3,7 +3,18 @@
   "name": "TradingAgents-astock",
   "tagline": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
   "category": "financial-modeling",
-  "tags": [],
+  "tags": [
+    "a-share",
+    "ai-agent",
+    "china-stocks",
+    "claude",
+    "fintech",
+    "investment-research",
+    "langgraph",
+    "llm",
+    "multi-agent",
+    "python"
+  ],
   "author": {
     "type": "user",
     "handle": "simonlin1212",
@@ -17,11 +28,11 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 2581,
+    "stars": 2591,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-23T04:25:47Z",
+    "last_commit_at": "2026-07-24T07:54:26Z",
     "first_commit_at": "2026-05-13T00:23:58Z",
-    "forks": 686,
+    "forks": 691,
     "watchers": 10,
     "open_issues": 13,
     "archived": false,
@@ -35,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "langchain"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5712,
-  "rank_in_category": 20,
+  "composite_score": 0.5946,
+  "rank_in_category": 17,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-14T15:25:08.605124Z",
-  "last_refreshed_at": "2026-07-23T15:32:32.247773Z",
+  "last_refreshed_at": "2026-07-24T15:22:37.685613Z",
   "consecutive_refresh_failures": 0
 }

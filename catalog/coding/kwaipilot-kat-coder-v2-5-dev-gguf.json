@@ -1,0 +1,60 @@
+{
+  "slug": "kwaipilot-kat-coder-v2-5-dev-gguf",
+  "name": "Kwaipilot_KAT-Coder-V2.5-Dev-GGUF",
+  "tagline": "bartowski/Kwaipilot_KAT-Coder-V2.5-Dev-GGUF — text-generation",
+  "category": "coding",
+  "tags": [
+    "gguf",
+    "code",
+    "agent",
+    "agentic-coding",
+    "moe",
+    "coding",
+    "text-generation",
+    "en",
+    "zh",
+    "base_model:Kwaipilot/KAT-Coder-V2.5-Dev"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "bartowski",
+    "url": "https://huggingface.co/bartowski"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "bartowski/Kwaipilot_KAT-Coder-V2.5-Dev-GGUF",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": 1573,
+    "last_commit_at": "2026-07-24T02:46:59Z",
+    "first_commit_at": "2026-07-23T17:06:03Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": null,
+    "pipeline_tag": "text-generation",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3189,
+  "rank_in_category": 311,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-24T15:05:52.023721Z",
+  "last_refreshed_at": "2026-07-24T15:05:52.023725Z",
+  "consecutive_refresh_failures": 0
+}

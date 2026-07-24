@@ -1,7 +1,7 @@
 {
   "slug": "kat-coder-v2-5-dev-q5-k-m-gguf",
   "name": "KAT-Coder-V2.5-Dev-Q5_K_M-GGUF",
-  "tagline": "yangzex/KAT-Coder-V2.5-Dev-Q5_K_M-GGUF — text-generation",
+  "tagline": "owao/KAT-Coder-V2.5-Dev-Q5_K_M-GGUF — text-generation",
   "category": "coding",
   "tags": [
     "transformers",
@@ -17,21 +17,21 @@
   ],
   "author": {
     "type": "org",
-    "handle": "yangzex",
-    "url": "https://huggingface.co/yangzex"
+    "handle": "owao",
+    "url": "https://huggingface.co/owao"
   },
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "yangzex/KAT-Coder-V2.5-Dev-Q5_K_M-GGUF",
+    "huggingface": "owao/KAT-Coder-V2.5-Dev-Q5_K_M-GGUF",
     "homepage": null
   },
   "license": "apache-2.0",
   "metrics": {
-    "stars": 0,
-    "downloads_30d": 0,
-    "last_commit_at": "2026-07-23T08:15:25Z",
-    "first_commit_at": "2026-07-23T08:13:37Z",
+    "stars": 1,
+    "downloads_30d": 308,
+    "last_commit_at": "2026-07-23T11:16:38Z",
+    "first_commit_at": "2026-07-23T11:09:41Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2422,
-  "rank_in_category": 507,
+  "composite_score": 0.2915,
+  "rank_in_category": 399,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-23T15:18:41.236049Z",
-  "last_refreshed_at": "2026-07-23T15:18:41.236052Z",
+  "first_seen_at": "2026-07-24T15:05:52.878814Z",
+  "last_refreshed_at": "2026-07-24T15:05:52.878817Z",
   "consecutive_refresh_failures": 0
 }
