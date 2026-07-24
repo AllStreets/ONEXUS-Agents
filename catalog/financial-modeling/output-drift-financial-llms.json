@@ -1,0 +1,60 @@
+{
+  "slug": "output-drift-financial-llms",
+  "name": "output-drift-financial-llms",
+  "tagline": "Reproducible benchmarks for LLM output drift and agent replay in financial operations: DFAH-Bench, the installable dfah package, and a hands-on workshop.",
+  "category": "financial-modeling",
+  "tags": [
+    "agent-evaluation",
+    "ai-agents",
+    "benchmark",
+    "evaluation",
+    "financial-ai",
+    "llm",
+    "output-drift",
+    "reproducibility",
+    "responsible-ai",
+    "tool-calling"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ibm-client-engineering",
+    "url": "https://github.com/ibm-client-engineering"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ibm-client-engineering/output-drift-financial-llms",
+    "huggingface": null,
+    "homepage": "https://ibm-client-engineering.github.io/output-drift-financial-llms/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 17,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-24T15:02:02Z",
+    "first_commit_at": "2025-11-02T02:22:12Z",
+    "forks": 2,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4176,
+  "rank_in_category": 83,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-24T15:21:30.536961Z",
+  "last_refreshed_at": "2026-07-24T15:21:30.536964Z",
+  "consecutive_refresh_failures": 0
+}

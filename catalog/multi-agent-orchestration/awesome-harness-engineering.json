@@ -1,39 +1,39 @@
 {
   "slug": "awesome-harness-engineering",
   "name": "awesome-harness-engineering",
-  "tagline": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
+  "tagline": "🛠️ Awesome tools & guides for harness engineering.",
   "category": "multi-agent-orchestration",
   "tags": [
-    "agent-harness",
-    "agent-memory",
-    "agent-orchestration",
-    "ai-agent-harness",
+    "agemt",
+    "agentic",
+    "agentic-ai",
+    "ai",
     "ai-agents",
-    "awesome-list",
-    "context-engineering",
+    "harness",
     "harness-engineering",
-    "mcp"
+    "harness-framework",
+    "llm"
   ],
   "author": {
-    "type": "user",
-    "handle": "ai-boost",
-    "url": "https://github.com/ai-boost"
+    "type": "org",
+    "handle": "walkinglabs",
+    "url": "https://github.com/walkinglabs"
   },
   "source": {
     "primary": "github",
-    "github": "ai-boost/awesome-harness-engineering",
+    "github": "walkinglabs/awesome-harness-engineering",
     "huggingface": null,
-    "homepage": "https://github.com/ai-boost/awesome-harness-engineering"
+    "homepage": null
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 3213,
+    "stars": 3685,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-22T23:25:02Z",
-    "first_commit_at": "2026-03-29T15:18:02Z",
-    "forks": 345,
-    "watchers": 28,
-    "open_issues": 112,
+    "last_commit_at": "2026-05-22T16:17:33Z",
+    "first_commit_at": "2026-03-29T11:44:01Z",
+    "forks": 300,
+    "watchers": 24,
+    "open_issues": 31,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,17 +45,15 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": [
-      "mcp"
-    ]
+    "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.489,
-  "rank_in_category": 46,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3757,
+  "rank_in_category": 203,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-23T15:18:29.377215Z",
-  "last_refreshed_at": "2026-07-23T15:18:29.377219Z",
+  "first_seen_at": "2026-07-23T15:17:29.519433Z",
+  "last_refreshed_at": "2026-07-24T15:04:19.842138Z",
   "consecutive_refresh_failures": 0
 }
