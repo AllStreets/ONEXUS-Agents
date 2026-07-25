@@ -1,7 +1,7 @@
 {
   "slug": "global-stock-data",
   "name": "global-stock-data",
-  "tagline": "US & HK stock full-stack data toolkit for AI coding assistants — 13 layers · 30+ endpoints · 11 sources · zero-auth. CBOE options with full Greeks + 0DTE flow, FINRA market-wide short volume, SEC EDGA",
+  "tagline": "US & HK stock market data for AI coding assistants — zero-auth, official sources. CBOE options with full Greeks + 0DTE flow, FINRA market-wide short volume, SEC EDGAR filing stream, and a free market-",
   "category": "financial-modeling",
   "tags": [
     "0dte",
@@ -28,11 +28,11 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 1224,
+    "stars": 1230,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-24T11:48:38Z",
+    "last_commit_at": "2026-07-25T12:19:16Z",
     "first_commit_at": "2026-05-20T10:12:23Z",
-    "forks": 186,
+    "forks": 187,
     "watchers": 6,
     "open_issues": 1,
     "archived": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.532,
+  "composite_score": 0.5323,
   "rank_in_category": 30,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-28T14:51:55.949956Z",
-  "last_refreshed_at": "2026-07-24T15:00:28.062788Z",
+  "last_refreshed_at": "2026-07-25T14:41:09.011351Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,62 @@
+{
+  "slug": "robin-ai",
+  "name": "robin-ai",
+  "tagline": "Robin AI - London-based legal AI contract review and analysis platform",
+  "category": "legal-research",
+  "tags": [
+    "anthropic",
+    "artificial-intelligence",
+    "claude",
+    "clm",
+    "contract-analysis",
+    "contract-lifecycle-management",
+    "contract-review",
+    "document-extraction",
+    "legal",
+    "legal-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "api-evangelist",
+    "url": "https://github.com/api-evangelist"
+  },
+  "source": {
+    "primary": "github",
+    "github": "api-evangelist/robin-ai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-24T16:57:19Z",
+    "first_commit_at": "2026-05-25T00:30:53Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2336,
+  "rank_in_category": 104,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-25T14:57:42.274628Z",
+  "last_refreshed_at": "2026-07-25T14:57:42.274632Z",
+  "consecutive_refresh_failures": 0
+}
