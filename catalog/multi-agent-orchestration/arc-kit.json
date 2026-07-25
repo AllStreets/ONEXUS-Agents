@@ -1,7 +1,7 @@
 {
   "slug": "arc-kit",
   "name": "arc-kit",
-  "tagline": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants",
+  "tagline": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants",
   "category": "multi-agent-orchestration",
   "tags": [
     "ai-agents",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 2080,
+    "stars": 2099,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-07T18:36:36Z",
+    "last_commit_at": "2026-07-25T13:42:15Z",
     "first_commit_at": "2025-10-14T10:10:03Z",
     "forks": 255,
     "watchers": 12,
-    "open_issues": 16,
+    "open_issues": 17,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4774,
-  "rank_in_category": 53,
+  "composite_score": 0.4934,
+  "rank_in_category": 39,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:47:19.059757Z",
-  "last_refreshed_at": "2026-07-10T15:38:18.672861Z",
-  "consecutive_refresh_failures": 14
+  "last_refreshed_at": "2026-07-25T14:41:02.924911Z",
+  "consecutive_refresh_failures": 0
 }

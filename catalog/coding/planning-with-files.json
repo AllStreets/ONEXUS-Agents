@@ -5,15 +5,15 @@
   "category": "coding",
   "tags": [
     "agent-skills",
-    "agentic-ai",
-    "ai-agents",
     "autonomous-agents",
     "claude",
     "claude-code",
     "claude-code-skills",
     "claude-skills",
     "codex",
-    "coding-agent"
+    "coding-agent",
+    "context-engineering",
+    "context-rot"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 25703,
+    "stars": 25728,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-21T21:29:14Z",
+    "last_commit_at": "2026-07-24T18:18:21Z",
     "first_commit_at": "2026-01-03T07:34:43Z",
-    "forks": 2163,
+    "forks": 2164,
     "watchers": 105,
-    "open_issues": 6,
+    "open_issues": 5,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4035,
-  "rank_in_category": 129,
+  "composite_score": 0.4055,
+  "rank_in_category": 123,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-13T15:00:02.851986Z",
-  "last_refreshed_at": "2026-07-24T14:54:53.245873Z",
+  "last_refreshed_at": "2026-07-25T14:37:35.454770Z",
   "consecutive_refresh_failures": 0
 }
