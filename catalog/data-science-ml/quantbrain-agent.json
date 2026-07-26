@@ -40,12 +40,12 @@
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": null,
-    "releases_total": null,
+    "contributors_count": 1,
+    "releases_total": 0,
     "latest_release_at": null,
-    "commits_90d": null,
-    "has_ci": null,
-    "readme_length": null,
+    "commits_90d": 0,
+    "has_ci": false,
+    "readme_length": 5582,
     "frameworks": [
       "langchain"
     ]
@@ -57,6 +57,6 @@
   "rank_in_category": 194,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:56:40.938641Z",
-  "last_refreshed_at": "2026-07-15T15:17:32.764156Z",
+  "last_refreshed_at": "2026-07-26T18:23:05.483546Z",
   "consecutive_refresh_failures": 11
 }
