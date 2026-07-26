@@ -1,7 +1,7 @@
 {
   "slug": "comfyui-agent-kit",
   "name": "ComfyUI-Agent-Kit",
-  "tagline": "One ComfyUI skill for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwen Code): drives a local ComfyUI end to end. 72 model prompt recipes, 562 templates, hardware-aware selection, auto-start",
+  "tagline": "One ComfyUI skill for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwen Code): drives a local ComfyUI end to end. 74 model prompt recipes, 578 templates, hardware-aware selection, auto-start",
   "category": "image-generation",
   "tags": [
     "ai-art",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 57,
+    "stars": 58,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-19T05:58:45Z",
+    "last_commit_at": "2026-07-26T05:54:54Z",
     "first_commit_at": "2026-06-20T04:03:30Z",
     "forks": 4,
     "watchers": 4,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3261,
+  "composite_score": 0.3322,
   "rank_in_category": 7,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-25T14:48:21.103567Z",
-  "last_refreshed_at": "2026-07-25T14:48:21.103571Z",
+  "first_seen_at": "2026-07-26T14:42:31.965894Z",
+  "last_refreshed_at": "2026-07-26T14:42:31.965898Z",
   "consecutive_refresh_failures": 0
 }

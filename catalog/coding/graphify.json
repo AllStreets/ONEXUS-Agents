@@ -1,19 +1,19 @@
 {
   "slug": "graphify",
   "name": "graphify",
-  "tagline": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable",
+  "tagline": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
   "category": "coding",
   "tags": [
+    "ai-agents",
     "antigravity",
+    "ast",
     "claude-code",
+    "code-analysis",
+    "code-search",
     "codex",
-    "gemini",
-    "graphrag",
-    "knowledge-graph",
-    "leiden",
-    "openclaw",
-    "rag",
-    "skills"
+    "cursor",
+    "developer-tools",
+    "gemini"
   ],
   "author": {
     "type": "org",
@@ -26,15 +26,15 @@
     "huggingface": null,
     "homepage": "https://www.graphify.com/"
   },
-  "license": "MIT",
+  "license": "Apache-2.0",
   "metrics": {
-    "stars": 92043,
+    "stars": 96191,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-20T13:04:45Z",
+    "last_commit_at": "2026-07-26T12:01:51Z",
     "first_commit_at": "2026-04-04T17:52:44Z",
-    "forks": 8957,
-    "watchers": 314,
-    "open_issues": 579,
+    "forks": 9316,
+    "watchers": 329,
+    "open_issues": 649,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4687,
-  "rank_in_category": 25,
+  "composite_score": 0.4893,
+  "rank_in_category": 13,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-04T14:33:51.245186Z",
-  "last_refreshed_at": "2026-07-20T15:15:12.343000Z",
-  "consecutive_refresh_failures": 5
+  "last_refreshed_at": "2026-07-26T14:32:42.052107Z",
+  "consecutive_refresh_failures": 0
 }
