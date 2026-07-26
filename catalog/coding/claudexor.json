@@ -1,0 +1,62 @@
+{
+  "slug": "claudexor",
+  "name": "claudexor",
+  "tagline": "Multi-harness control plane for Claude Code, Codex, Cursor, and OpenCode: quota-aware rotation across multiple Claude/Codex subscriptions, shared thread context, and cross-model review.",
+  "category": "coding",
+  "tags": [
+    "agent-orchestration",
+    "ai-agents",
+    "ai-coding",
+    "ai-coding-assistant",
+    "claude-code",
+    "cli",
+    "code-review",
+    "codex",
+    "codex-cli",
+    "coding-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "razzant",
+    "url": "https://github.com/razzant"
+  },
+  "source": {
+    "primary": "github",
+    "github": "razzant/claudexor",
+    "huggingface": null,
+    "homepage": "https://claudexor.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 307,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-26T08:41:27Z",
+    "first_commit_at": "2026-06-05T09:18:06Z",
+    "forks": 24,
+    "watchers": 2,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3739,
+  "rank_in_category": 190,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-26T14:30:14.698857Z",
+  "last_refreshed_at": "2026-07-26T14:30:14.698860Z",
+  "consecutive_refresh_failures": 0
+}
