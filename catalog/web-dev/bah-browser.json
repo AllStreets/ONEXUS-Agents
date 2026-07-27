@@ -1,7 +1,7 @@
 {
   "slug": "bah-browser",
   "name": "bah-browser",
-  "tagline": "Open-source AI browser agent — type plain-language commands and Bah operates the web for you. Works with free AI, cloud providers, or local Ollama models.",
+  "tagline": "Open-source AI browser agent — type plain-language commands and Bah operates the web for you. Works with cloud AI (DeepSeek, Mistral, NVIDIA) or local Ollama models.",
   "category": "web-dev",
   "tags": [
     "ai-agent",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 93,
+    "stars": 94,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-22T00:37:03Z",
+    "last_commit_at": "2026-07-26T20:42:13Z",
     "first_commit_at": "2026-06-19T00:35:26Z",
     "forks": 11,
     "watchers": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4411,
-  "rank_in_category": 118,
+  "composite_score": 0.4471,
+  "rank_in_category": 116,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-25T15:51:42.554368Z",
-  "last_refreshed_at": "2026-07-26T14:38:05.006919Z",
+  "last_refreshed_at": "2026-07-27T15:53:04.564464Z",
   "consecutive_refresh_failures": 0
 }

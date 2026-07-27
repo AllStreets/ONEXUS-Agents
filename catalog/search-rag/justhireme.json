@@ -28,7 +28,7 @@
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 2179,
+    "stars": 2181,
     "downloads_30d": null,
     "last_commit_at": "2026-07-22T10:07:11Z",
     "first_commit_at": "2026-04-25T22:30:09Z",
@@ -49,12 +49,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3621,
-  "rank_in_category": 39,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3612,
+  "rank_in_category": 40,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-25T14:42:33.038919Z",
-  "last_refreshed_at": "2026-07-26T18:17:06.699044Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-07-27T15:50:06.458711Z",
+  "last_refreshed_at": "2026-07-27T15:50:06.458714Z",
+  "consecutive_refresh_failures": 0
 }

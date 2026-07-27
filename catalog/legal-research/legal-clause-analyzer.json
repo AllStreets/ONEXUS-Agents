@@ -1,0 +1,60 @@
+{
+  "slug": "legal-clause-analyzer",
+  "name": "Legal-Clause-Analyzer",
+  "tagline": "Privacy-first LegalTech API for contract analysis using FastAPI, RAG, GDPR, EU AI Act and local LLMs.",
+  "category": "legal-research",
+  "tags": [
+    "ai",
+    "chromadb",
+    "compliance",
+    "contract-analysis",
+    "contracts",
+    "document-comparison",
+    "eu-ai-act",
+    "fastapi",
+    "gdpr",
+    "legal-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "soheilon21-a11y",
+    "url": "https://github.com/soheilon21-a11y"
+  },
+  "source": {
+    "primary": "github",
+    "github": "soheilon21-a11y/Legal-Clause-Analyzer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-27T14:46:44Z",
+    "first_commit_at": "2026-07-08T14:05:43Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2166,
+  "rank_in_category": 120,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-27T16:11:33.997387Z",
+  "last_refreshed_at": "2026-07-27T16:11:33.997390Z",
+  "consecutive_refresh_failures": 0
+}
