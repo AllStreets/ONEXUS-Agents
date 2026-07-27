@@ -1,0 +1,63 @@
+{
+  "slug": "omniroute",
+  "name": "OmniRoute",
+  "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
+  "category": "coding",
+  "tags": [
+    "a2a",
+    "ai-agents",
+    "ai-gateway",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "cline",
+    "codex",
+    "copilot",
+    "cursor"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "diegosouzapw",
+    "url": "https://github.com/diegosouzapw"
+  },
+  "source": {
+    "primary": "github",
+    "github": "diegosouzapw/OmniRoute",
+    "huggingface": null,
+    "homepage": "https://omniroute.online/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 31837,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-27T15:43:02Z",
+    "first_commit_at": "2026-02-18T03:02:15Z",
+    "forks": 4124,
+    "watchers": 175,
+    "open_issues": 332,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4748,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-27T15:48:58.638088Z",
+  "last_refreshed_at": "2026-07-27T15:48:58.638091Z",
+  "consecutive_refresh_failures": 0
+}
