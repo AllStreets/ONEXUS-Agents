@@ -18,11 +18,11 @@
     "huggingface": null,
     "homepage": "https://nirholas.github.io/crypto-market-data/"
   },
-  "license": "MIT",
+  "license": "NOASSERTION",
   "metrics": {
     "stars": 27,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-06T04:25:38Z",
+    "last_commit_at": "2026-07-14T03:33:48Z",
     "first_commit_at": "2026-01-09T12:47:09Z",
     "forks": 4,
     "watchers": 0,
@@ -32,12 +32,12 @@
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 2,
-    "releases_total": 0,
+    "contributors_count": null,
+    "releases_total": null,
     "latest_release_at": null,
-    "commits_90d": 3,
-    "has_ci": true,
-    "readme_length": 170742,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
     "frameworks": [
       "mcp"
     ]
@@ -45,10 +45,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5249,
-  "rank_in_category": 60,
+  "composite_score": 0.5344,
+  "rank_in_category": 57,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:19.505547Z",
-  "last_refreshed_at": "2026-07-26T18:22:24.232093Z",
-  "consecutive_refresh_failures": 14
+  "last_refreshed_at": "2026-07-28T15:43:28.444201Z",
+  "consecutive_refresh_failures": 0
 }
