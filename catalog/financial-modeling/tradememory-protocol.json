@@ -1,19 +1,19 @@
 {
   "slug": "tradememory-protocol",
   "name": "tradememory-protocol",
-  "tagline": "Decision audit trail + persistent memory for AI trading agents. Outcome-weighted recall, SHA-256 tamper detection, 17 MCP tools.",
+  "tagline": "Decision audit trail + persistent memory for AI trading agents. Outcome-weighted recall, tamper-evident SHA-256 chain with RFC 3161 anchoring, 20 MCP tools.",
   "category": "financial-modeling",
   "tags": [
+    "agentic-trading",
     "ai-agents",
+    "audit-trail",
     "claude",
+    "compliance",
     "crypto",
     "evolution-engine",
     "forex",
     "mcp",
-    "mcp-server",
-    "memory",
-    "mt5",
-    "outcome-weighted-memory"
+    "mcp-server"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1402,
+    "stars": 1401,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-14T10:40:47Z",
+    "last_commit_at": "2026-07-29T14:58:31Z",
     "first_commit_at": "2026-02-23T10:31:59Z",
     "forks": 164,
     "watchers": 74,
-    "open_issues": 4,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6034,
-  "rank_in_category": 16,
+  "composite_score": 0.6242,
+  "rank_in_category": 15,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:25:56.899196Z",
-  "last_refreshed_at": "2026-07-28T15:47:05.936467Z",
+  "last_refreshed_at": "2026-07-29T15:40:44.965086Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "traderharness",
   "name": "TraderHarness",
-  "tagline": "面向 LLM 交易 Agent 的抗污染回测与评测环境：真实A股数据、时点掩码、指纹回放，每次运行同步合成轨迹训练数据｜Contamination-resistant A-share backtesting, replay & trajectory export for LLM trading agents",
+  "tagline": "面向 LLM 交易 Agent 的抗污染回测、确定性回放与训练轨迹生成，支持 A 股研究｜Leakage-resistant backtesting, deterministic replay & training trajectory generation for LLM trading agents, with A-share data",
   "category": "financial-modeling",
   "tags": [
     "a-share",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 14,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-22T07:52:21Z",
+    "last_commit_at": "2026-07-29T07:50:50Z",
     "first_commit_at": "2026-05-13T15:22:51Z",
     "forks": 0,
     "watchers": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3613,
-  "rank_in_category": 127,
+  "composite_score": 0.3704,
+  "rank_in_category": 120,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-20T15:33:12.309383Z",
-  "last_refreshed_at": "2026-07-28T15:45:52.963489Z",
+  "last_refreshed_at": "2026-07-29T15:39:46.336691Z",
   "consecutive_refresh_failures": 0
 }
