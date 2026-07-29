@@ -1,0 +1,62 @@
+{
+  "slug": "the-architect",
+  "name": "the-architect",
+  "tagline": "A Claude Code plugin that interviews you, designs the whole architecture, and writes a self-contained blueprint another Claude Code instance builds from with zero context — EARS acceptance criteria an",
+  "category": "coding",
+  "tags": [
+    "agentic-coding",
+    "ai-agent",
+    "ai-coding-assistant",
+    "anthropic",
+    "automation",
+    "blueprint",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-plugin"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Hainrixz",
+    "url": "https://github.com/Hainrixz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Hainrixz/the-architect",
+    "huggingface": null,
+    "homepage": "https://tododeia.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 385,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-28T17:18:09Z",
+    "first_commit_at": "2026-03-31T04:22:06Z",
+    "forks": 73,
+    "watchers": 4,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3376,
+  "rank_in_category": 277,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-29T15:09:58.674500Z",
+  "last_refreshed_at": "2026-07-29T15:09:58.674503Z",
+  "consecutive_refresh_failures": 0
+}

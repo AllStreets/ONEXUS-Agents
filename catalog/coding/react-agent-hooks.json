@@ -36,12 +36,12 @@
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 1,
-    "releases_total": 0,
+    "contributors_count": null,
+    "releases_total": null,
     "latest_release_at": null,
-    "commits_90d": 0,
-    "has_ci": false,
-    "readme_length": 8872,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
     "frameworks": [
       "mcp"
     ]
@@ -50,9 +50,9 @@
   "runnable": true,
   "adapter_ref": "mcp/stdio",
   "composite_score": 0.2365,
-  "rank_in_category": 526,
+  "rank_in_category": 524,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T14:38:58.580952Z",
-  "last_refreshed_at": "2026-07-26T18:22:18.475792Z",
-  "consecutive_refresh_failures": 15
+  "last_refreshed_at": "2026-07-29T15:26:27.946268Z",
+  "consecutive_refresh_failures": 0
 }

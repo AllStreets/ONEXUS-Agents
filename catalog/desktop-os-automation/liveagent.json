@@ -1,0 +1,62 @@
+{
+  "slug": "liveagent",
+  "name": "LiveAgent",
+  "tagline": "A fully functional AI Agent desktop client that supports Webui access and can be creatively customized and expanded!",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai-agents",
+    "ai-tools",
+    "claude-code",
+    "claude-desktop",
+    "codex",
+    "codex-app",
+    "desktop-app",
+    "fable",
+    "hermes",
+    "hermes-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Stack-Cairn",
+    "url": "https://github.com/Stack-Cairn"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Stack-Cairn/LiveAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1537,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-29T11:31:09Z",
+    "first_commit_at": "2026-05-24T04:43:36Z",
+    "forks": 158,
+    "watchers": 3,
+    "open_issues": 44,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4459,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-29T15:30:33.182705Z",
+  "last_refreshed_at": "2026-07-29T15:30:33.182708Z",
+  "consecutive_refresh_failures": 0
+}

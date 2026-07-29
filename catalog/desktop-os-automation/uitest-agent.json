@@ -1,0 +1,56 @@
+{
+  "slug": "uitest-agent",
+  "name": "uitest-agent",
+  "tagline": "A natural language-based agent for automating UI testing on mobile devices and web applications using Google's Gemini AI models.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent",
+    "ai",
+    "mobile",
+    "testing",
+    "ui-testing",
+    "web"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pocmo",
+    "url": "https://github.com/pocmo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pocmo/uitest-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-30T13:53:00Z",
+    "first_commit_at": "2025-04-18T12:34:46Z",
+    "forks": 2,
+    "watchers": 2,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1812,
+  "rank_in_category": 149,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-29T15:29:36.150972Z",
+  "last_refreshed_at": "2026-07-29T15:29:36.150976Z",
+  "consecutive_refresh_failures": 0
+}

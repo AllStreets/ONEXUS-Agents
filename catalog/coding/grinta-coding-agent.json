@@ -1,0 +1,62 @@
+{
+  "slug": "grinta-coding-agent",
+  "name": "Grinta-Coding-Agent",
+  "tagline": "Local-first autonomous coding agent that plans, executes, validates, and finishes software tasks end-to-end.",
+  "category": "coding",
+  "tags": [
+    "ai-coding",
+    "autonomous-agent",
+    "coding-agent",
+    "developer-tools",
+    "fastapi",
+    "llm",
+    "local-first",
+    "model-context-protocol",
+    "orchestration",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "josephsenior",
+    "url": "https://github.com/josephsenior"
+  },
+  "source": {
+    "primary": "github",
+    "github": "josephsenior/Grinta-Coding-Agent",
+    "huggingface": null,
+    "homepage": "https://josephsenior.github.io/Grinta-Coding-Agent/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-29T14:57:37Z",
+    "first_commit_at": "2026-02-15T12:37:16Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3409,
+  "rank_in_category": 269,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-29T15:20:26.481275Z",
+  "last_refreshed_at": "2026-07-29T15:20:26.481278Z",
+  "consecutive_refresh_failures": 0
+}
