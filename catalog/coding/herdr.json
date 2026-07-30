@@ -1,0 +1,60 @@
+{
+  "slug": "herdr",
+  "name": "herdr",
+  "tagline": "the runtime your coding agents live on",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "devtools"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "herdrdev",
+    "url": "https://github.com/herdrdev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "herdrdev/herdr",
+    "huggingface": null,
+    "homepage": "https://herdr.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 22644,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-30T12:38:56Z",
+    "first_commit_at": "2026-03-27T18:37:05Z",
+    "forks": 1536,
+    "watchers": 82,
+    "open_issues": 127,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3972,
+  "rank_in_category": 145,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-30T15:13:05.074368Z",
+  "last_refreshed_at": "2026-07-30T15:13:05.074372Z",
+  "consecutive_refresh_failures": 0
+}
