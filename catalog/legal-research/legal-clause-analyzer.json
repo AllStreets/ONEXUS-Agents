@@ -1,13 +1,13 @@
 {
   "slug": "legal-clause-analyzer",
   "name": "Legal-Clause-Analyzer",
-  "tagline": "Privacy-first LegalTech platform for contract analysis using FastAPI, Local LLMs, Retrieval-Augmented Generation (RAG), GDPR, and EU AI Act compliance assessment.",
+  "tagline": "Privacy-first LegalTech platform for AI-assisted contract analysis, redlining, and GDPR & EU AI Act compliance using FastAPI, Local LLMs, and Retrieval-Augmented Generation (RAG).",
   "category": "legal-research",
   "tags": [
-    "ai",
     "chromadb",
     "compliance",
     "contract-analysis",
+    "contract-redlining",
     "contracts",
     "document-comparison",
     "eu-ai-act",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 2,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-27T14:46:44Z",
+    "last_commit_at": "2026-07-30T11:21:09Z",
     "first_commit_at": "2026-07-08T14:05:43Z",
     "forks": 0,
     "watchers": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2147,
-  "rank_in_category": 121,
+  "composite_score": 0.2167,
+  "rank_in_category": 119,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-27T16:11:33.997387Z",
-  "last_refreshed_at": "2026-07-29T15:45:41.819168Z",
+  "last_refreshed_at": "2026-07-30T15:35:21.879451Z",
   "consecutive_refresh_failures": 0
 }

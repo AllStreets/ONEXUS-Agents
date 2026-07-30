@@ -1,0 +1,60 @@
+{
+  "slug": "pro-se-ai-toolkit",
+  "name": "pro-se-ai-toolkit",
+  "tagline": "Open framework for pro se litigants using AI to draft motions and verify citations before filing. Scrivener's Exception model. Companion to CourtDocs.io.",
+  "category": "legal-research",
+  "tags": [
+    "access-to-justice",
+    "ai-citations",
+    "citation-verification",
+    "claude-code",
+    "courtlistener",
+    "legal-ai",
+    "legal-research",
+    "legal-tech",
+    "legaltech",
+    "pro-se"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Traviseric",
+    "url": "https://github.com/Traviseric"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Traviseric/pro-se-ai-toolkit",
+    "huggingface": null,
+    "homepage": "https://courtdocs.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-09T16:59:11Z",
+    "first_commit_at": "2026-05-09T16:59:02Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1601,
+  "rank_in_category": 180,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-30T15:35:49.948661Z",
+  "last_refreshed_at": "2026-07-30T15:35:49.948665Z",
+  "consecutive_refresh_failures": 0
+}

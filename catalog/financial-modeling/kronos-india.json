@@ -1,9 +1,10 @@
 {
   "slug": "kronos-india",
   "name": "kronos-india",
-  "tagline": "Generate NSE intraday trade signals using the Kronos foundation model for Python-based analysis.",
+  "tagline": "AI-powered NSE intraday trading signal pipeline built on the Kronos financial foundation model. Scans top gainers and losers, generates LONG/SHORT signals using technical and AI-based confluence, and ",
   "category": "financial-modeling",
   "tags": [
+    "algorithmic-trading",
     "deep-learning",
     "financial-ai",
     "indian-stock-market",
@@ -12,26 +13,25 @@
     "nse",
     "pytorch",
     "quantitative-finance",
-    "stock-market",
-    "streamlit"
+    "stock-market"
   ],
   "author": {
     "type": "user",
-    "handle": "georgiag7652",
-    "url": "https://github.com/georgiag7652"
+    "handle": "jvaidya10",
+    "url": "https://github.com/jvaidya10"
   },
   "source": {
     "primary": "github",
-    "github": "georgiag7652/kronos-india",
+    "github": "jvaidya10/kronos-india",
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
     "stars": 2,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-27T11:10:27Z",
-    "first_commit_at": "2026-06-09T10:53:34Z",
+    "last_commit_at": "2026-06-11T17:55:26Z",
+    "first_commit_at": "2026-06-02T14:27:50Z",
     "forks": 0,
     "watchers": 0,
     "open_issues": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3284,
-  "rank_in_category": 155,
+  "composite_score": 0.2695,
+  "rank_in_category": 205,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-27T16:06:54.710555Z",
-  "last_refreshed_at": "2026-07-29T15:39:56.342328Z",
+  "first_seen_at": "2026-07-30T15:31:30.532804Z",
+  "last_refreshed_at": "2026-07-30T15:31:30.532807Z",
   "consecutive_refresh_failures": 0
 }

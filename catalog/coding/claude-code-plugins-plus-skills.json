@@ -1,7 +1,7 @@
 {
   "slug": "claude-code-plugins-plus-skills",
   "name": "claude-code-plugins-plus-skills",
-  "tagline": "425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.",
+  "tagline": "471 plugins, 3,069 skills, 347 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.",
   "category": "coding",
   "tags": [
     "agent-skills",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 2568,
+    "stars": 2577,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-29T10:27:10Z",
+    "last_commit_at": "2026-07-30T10:26:11Z",
     "first_commit_at": "2025-10-10T04:36:03Z",
-    "forks": 368,
+    "forks": 369,
     "watchers": 24,
-    "open_issues": 14,
+    "open_issues": 18,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4396,
-  "rank_in_category": 65,
+  "composite_score": 0.4397,
+  "rank_in_category": 62,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:49:08.855860Z",
-  "last_refreshed_at": "2026-07-29T15:22:39.126822Z",
+  "last_refreshed_at": "2026-07-30T15:19:02.661872Z",
   "consecutive_refresh_failures": 0
 }

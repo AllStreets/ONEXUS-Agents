@@ -16,21 +16,21 @@
     "rag"
   ],
   "author": {
-    "type": "user",
-    "handle": "aadityat23",
-    "url": "https://github.com/aadityat23"
+    "type": "org",
+    "handle": "FinVerify",
+    "url": "https://github.com/FinVerify"
   },
   "source": {
     "primary": "github",
-    "github": "aadityat23/Finverify",
+    "github": "FinVerify/Finverify",
     "huggingface": null,
     "homepage": "https://finverify-llm.vercel.app/"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 4,
+    "stars": 3,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-28T20:34:17Z",
+    "last_commit_at": "2026-07-30T09:26:05Z",
     "first_commit_at": "2026-05-05T12:08:52Z",
     "forks": 4,
     "watchers": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3833,
-  "rank_in_category": 105,
+  "composite_score": 0.3787,
+  "rank_in_category": 110,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-28T15:45:56.811899Z",
-  "last_refreshed_at": "2026-07-29T15:39:49.726613Z",
+  "first_seen_at": "2026-07-30T15:31:23.297999Z",
+  "last_refreshed_at": "2026-07-30T15:31:23.298003Z",
   "consecutive_refresh_failures": 0
 }
