@@ -1,7 +1,7 @@
 {
-  "slug": "next-ocr-q5-0-gguf",
-  "name": "next-ocr-Q5_0-GGUF",
-  "tagline": "Lamapi/next-ocr-Q5_0-GGUF — image-text-to-text",
+  "slug": "next-ocr-q6-k-gguf",
+  "name": "next-ocr-Q6_K-GGUF",
+  "tagline": "Lamapi/next-ocr-Q6_K-GGUF — image-text-to-text",
   "category": "music",
   "tags": [
     "transformers",
@@ -23,15 +23,15 @@
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "Lamapi/next-ocr-Q5_0-GGUF",
+    "huggingface": "Lamapi/next-ocr-Q6_K-GGUF",
     "homepage": null
   },
   "license": "apache-2.0",
   "metrics": {
     "stars": 1,
-    "downloads_30d": 34,
-    "last_commit_at": "2025-11-13T13:51:53Z",
-    "first_commit_at": "2025-11-13T13:51:24Z",
+    "downloads_30d": 33,
+    "last_commit_at": "2025-11-13T13:27:41Z",
+    "first_commit_at": "2025-11-13T13:27:12Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4401,
+  "composite_score": 0.4091,
   "rank_in_category": 2,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-17T18:08:53.958969Z",
-  "last_refreshed_at": "2026-07-26T18:20:33.021777Z",
-  "consecutive_refresh_failures": 27
+  "first_seen_at": "2026-07-31T15:55:44.138504Z",
+  "last_refreshed_at": "2026-07-31T15:55:44.138508Z",
+  "consecutive_refresh_failures": 0
 }

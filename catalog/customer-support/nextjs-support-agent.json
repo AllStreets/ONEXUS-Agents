@@ -1,0 +1,58 @@
+{
+  "slug": "nextjs-support-agent",
+  "name": "nextjs-support-agent",
+  "tagline": "Next.js and Vercel support agent template powered by Antfly MCP retrieval",
+  "category": "customer-support",
+  "tags": [
+    "antfly",
+    "mcp",
+    "nextjs",
+    "rag",
+    "support-agent",
+    "vercel"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "antflydb",
+    "url": "https://github.com/antflydb"
+  },
+  "source": {
+    "primary": "github",
+    "github": "antflydb/nextjs-support-agent",
+    "huggingface": null,
+    "homepage": "https://support.cortada.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-31T01:26:32Z",
+    "first_commit_at": "2026-07-31T01:25:52Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3421,
+  "rank_in_category": 115,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-31T15:50:06.028131Z",
+  "last_refreshed_at": "2026-07-31T15:50:06.028134Z",
+  "consecutive_refresh_failures": 0
+}

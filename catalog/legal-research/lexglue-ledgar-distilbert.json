@@ -1,0 +1,60 @@
+{
+  "slug": "lexglue-ledgar-distilbert",
+  "name": "lexglue-ledgar-distilbert",
+  "tagline": "SalmanAbbasi/lexglue-ledgar-distilbert — text-classification",
+  "category": "legal-research",
+  "tags": [
+    "safetensors",
+    "distilbert",
+    "legal",
+    "agent",
+    "code",
+    "text-classification",
+    "en",
+    "dataset:coastalcph/lex_glue",
+    "dataset:coastalchp/ledgar",
+    "license:mit"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SalmanAbbasi",
+    "url": "https://huggingface.co/SalmanAbbasi"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "SalmanAbbasi/lexglue-ledgar-distilbert",
+    "homepage": null
+  },
+  "license": "mit",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 37,
+    "last_commit_at": "2025-10-27T16:21:55Z",
+    "first_commit_at": "2025-10-25T15:28:52Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": null,
+    "pipeline_tag": "text-classification",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.194,
+  "rank_in_category": 144,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-31T15:50:01.063399Z",
+  "last_refreshed_at": "2026-07-31T15:50:01.063403Z",
+  "consecutive_refresh_failures": 0
+}
