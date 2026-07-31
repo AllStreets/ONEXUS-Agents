@@ -1,0 +1,49 @@
+{
+  "slug": "pxpipe",
+  "name": "pxpipe",
+  "tagline": "cut Claude Code token usage by rendering text context as images",
+  "category": "desktop-os-automation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "teamchong",
+    "url": "https://github.com/teamchong"
+  },
+  "source": {
+    "primary": "github",
+    "github": "teamchong/pxpipe",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6874,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-29T03:37:00Z",
+    "first_commit_at": "2026-05-18T15:52:02Z",
+    "forks": 591,
+    "watchers": 25,
+    "open_issues": 29,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4151,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-11T14:25:24.673798Z",
+  "last_refreshed_at": "2026-07-31T15:23:28.586710Z",
+  "consecutive_refresh_failures": 0
+}

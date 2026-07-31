@@ -1,7 +1,7 @@
 {
   "slug": "xberg",
   "name": "xberg",
-  "tagline": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python",
+  "tagline": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 306 code languages. 1",
   "category": "document-processing",
   "tags": [
     "bun",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 8721,
+    "stars": 8724,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-30T14:11:48Z",
+    "last_commit_at": "2026-07-31T15:04:14Z",
     "first_commit_at": "2025-01-31T21:47:37Z",
-    "forks": 528,
+    "forks": 527,
     "watchers": 30,
-    "open_issues": 10,
+    "open_issues": 6,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.7048,
-  "rank_in_category": 6,
+  "composite_score": 0.7049,
+  "rank_in_category": 7,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-30T15:16:30.643453Z",
-  "last_refreshed_at": "2026-07-30T15:16:30.643457Z",
+  "first_seen_at": "2026-07-31T15:25:41.082676Z",
+  "last_refreshed_at": "2026-07-31T15:25:41.082679Z",
   "consecutive_refresh_failures": 0
 }

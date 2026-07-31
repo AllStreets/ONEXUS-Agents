@@ -1,0 +1,52 @@
+{
+  "slug": "i-mcts",
+  "name": "I-MCTS",
+  "tagline": "Code for EACL 26 Findings paper \"I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search\"",
+  "category": "data-science-ml",
+  "tags": [
+    "agentic-ai",
+    "eacl"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jokieleung",
+    "url": "https://github.com/jokieleung"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jokieleung/I-MCTS",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-28T07:15:37Z",
+    "first_commit_at": "2025-02-20T14:16:16Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1832,
+  "rank_in_category": 184,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-31T15:40:14.998462Z",
+  "last_refreshed_at": "2026-07-31T15:40:14.998466Z",
+  "consecutive_refresh_failures": 0
+}

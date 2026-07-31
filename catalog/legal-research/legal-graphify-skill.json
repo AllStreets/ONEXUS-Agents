@@ -1,0 +1,60 @@
+{
+  "slug": "legal-graphify-skill",
+  "name": "legal-graphify-skill",
+  "tagline": "Knowledge graph builder for legal docs. Extracts clauses, detects conflicts, traces compliance. Agent skill.",
+  "category": "legal-research",
+  "tags": [
+    "agent-skill",
+    "ai-agent",
+    "claude-skill",
+    "compliance",
+    "contract-analysis",
+    "document-parsing",
+    "knowledge-graph",
+    "knowledge-management",
+    "legal-tech",
+    "policy-management"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "gauravmanandhar",
+    "url": "https://github.com/gauravmanandhar"
+  },
+  "source": {
+    "primary": "github",
+    "github": "gauravmanandhar/legal-graphify-skill",
+    "huggingface": null,
+    "homepage": "https://github.com/gauravmanandhar/legal-graphify-skill?tab=security-ov-file"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-30T18:03:48Z",
+    "first_commit_at": "2026-07-30T17:46:18Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2248,
+  "rank_in_category": 116,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-31T15:46:11.226584Z",
+  "last_refreshed_at": "2026-07-31T15:46:11.226587Z",
+  "consecutive_refresh_failures": 0
+}
