@@ -1,7 +1,7 @@
 {
   "slug": "legal-agent-orchestrator",
   "name": "legal-agent-orchestrator",
-  "tagline": "An AI legal workflow running on Claude Code. Four legal agents — each with their own jurisdiction, knowledge base, and MCP tools — collaborate to produce legal opinions with full audit trails.",
+  "tagline": "legal-agent-orchestrator",
   "category": "legal-research",
   "tags": [],
   "author": {
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3362,
+  "composite_score": 0.3355,
   "rank_in_category": 32,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-11T17:17:54.266111Z",
-  "last_refreshed_at": "2026-07-31T15:46:45.658787Z",
+  "last_refreshed_at": "2026-08-01T14:47:19.528420Z",
   "consecutive_refresh_failures": 0
 }
