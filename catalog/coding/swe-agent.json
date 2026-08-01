@@ -25,11 +25,11 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 19971,
+    "stars": 19974,
     "downloads_30d": null,
     "last_commit_at": "2026-07-27T21:43:23Z",
     "first_commit_at": "2024-04-02T08:57:35Z",
-    "forks": 2179,
+    "forks": 2178,
     "watchers": 111,
     "open_issues": 54,
     "archived": false,
@@ -49,16 +49,16 @@
     {
       "name": "SWE-bench Verified",
       "score": 0.5,
-      "as_of": "2026-07-31",
+      "as_of": "2026-08-01",
       "source_url": "https://www.swebench.com/"
     }
   ],
   "runnable": true,
   "adapter_ref": "adapters/swe-agent/mcp.json",
-  "composite_score": 0.4873,
-  "rank_in_category": 16,
+  "composite_score": 0.4864,
+  "rank_in_category": 17,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-07-31T15:18:05.132113Z",
+  "last_refreshed_at": "2026-08-01T14:25:00.991771Z",
   "consecutive_refresh_failures": 0
 }

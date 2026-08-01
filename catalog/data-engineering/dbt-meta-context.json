@@ -1,0 +1,57 @@
+{
+  "slug": "dbt-meta-context",
+  "name": "dbt-meta-context",
+  "tagline": "Context cards for dbt metrics — 5-layer meta: schema, validator CLI, and installable agent skill so AI agents answer analytical questions accurately",
+  "category": "data-engineering",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "analytics-engineering",
+    "context-engineering",
+    "dbt",
+    "metricflow",
+    "semantic-layer"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "keithbinkly",
+    "url": "https://github.com/keithbinkly"
+  },
+  "source": {
+    "primary": "github",
+    "github": "keithbinkly/dbt-meta-context",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-30T09:29:35Z",
+    "first_commit_at": "2026-06-12T23:19:19Z",
+    "forks": 0,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4601,
+  "rank_in_category": 69,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-01T14:40:02.714155Z",
+  "last_refreshed_at": "2026-08-01T14:40:02.714159Z",
+  "consecutive_refresh_failures": 0
+}
