@@ -26,26 +26,26 @@
     "huggingface": null,
     "homepage": "https://koreanpulse.dev/"
   },
-  "license": "Unknown",
+  "license": "AGPL-3.0",
   "metrics": {
     "stars": 3,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-16T14:30:19Z",
+    "last_commit_at": "2026-07-19T14:11:30Z",
     "first_commit_at": "2026-05-05T07:48:40Z",
     "forks": 1,
     "watchers": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 1,
-    "releases_total": 0,
+    "contributors_count": null,
+    "releases_total": null,
     "latest_release_at": null,
-    "commits_90d": 104,
-    "has_ci": true,
-    "readme_length": 29175,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
     "frameworks": [
       "mcp"
     ]
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3919,
-  "rank_in_category": 101,
+  "composite_score": 0.4177,
+  "rank_in_category": 89,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-07T15:35:51.383760Z",
-  "last_refreshed_at": "2026-07-26T18:23:28.324564Z",
-  "consecutive_refresh_failures": 16
+  "last_refreshed_at": "2026-08-02T14:48:55.621949Z",
+  "consecutive_refresh_failures": 0
 }
