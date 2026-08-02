@@ -1,9 +1,20 @@
 {
   "slug": "global-stock-data",
   "name": "global-stock-data",
-  "tagline": "美股港股全栈数据工具包 (AI Skill) — 7层架构 · 17端点 · 5数据源 · 零鉴权 | US & HK Stock Full-Stack Data Toolkit for AI Coding Assistants",
+  "tagline": "US stock market data for AI coding assistants — zero-auth, official sources. CBOE options with full Greeks + 0DTE flow, FINRA market-wide short volume, SEC EDGAR filing stream, and a free market-wide ",
   "category": "coding",
-  "tags": [],
+  "tags": [
+    "0dte",
+    "ai-skill",
+    "cboe",
+    "claude-code",
+    "financial-data",
+    "finra",
+    "fintech",
+    "llm-tools",
+    "market-data",
+    "options-data"
+  ],
   "author": {
     "type": "user",
     "handle": "simonlin1212",
@@ -17,11 +28,11 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 1173,
+    "stars": 1434,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-20T07:24:13Z",
+    "last_commit_at": "2026-07-26T08:24:52Z",
     "first_commit_at": "2026-05-20T10:12:23Z",
-    "forks": 182,
+    "forks": 216,
     "watchers": 6,
     "open_issues": 0,
     "archived": false,
@@ -40,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2877,
-  "rank_in_category": 414,
+  "composite_score": 0.3202,
+  "rank_in_category": 327,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-28T14:51:55.949956Z",
-  "last_refreshed_at": "2026-07-18T14:25:29.210769Z",
-  "consecutive_refresh_failures": 14
+  "last_refreshed_at": "2026-08-02T14:32:53.639132Z",
+  "consecutive_refresh_failures": 0
 }

@@ -4,16 +4,16 @@
   "tagline": "Production RAG and agentic search framework.",
   "category": "search-rag",
   "tags": [
-    "agent",
+    "agent-framework",
+    "agentic-ai",
+    "agentic-rag",
     "agents",
     "ai",
-    "gemini",
-    "generative-ai",
-    "gpt-4",
-    "information-retrieval",
-    "large-language-models",
-    "llm",
-    "machine-learning"
+    "ai-agents",
+    "context-engineering",
+    "framework",
+    "genai",
+    "generative-ai"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 26074,
+    "stars": 26087,
     "downloads_30d": null,
     "last_commit_at": "2026-08-01T03:06:32Z",
     "first_commit_at": "2019-11-14T10:42:51Z",
-    "forks": 2974,
+    "forks": 2977,
     "watchers": 161,
-    "open_issues": 108,
+    "open_issues": 109,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -47,16 +47,16 @@
     "has_ci": null,
     "readme_length": null,
     "frameworks": [
-      "transformers"
+      "mcp"
     ]
   },
   "benchmarks": [],
   "runnable": true,
-  "adapter_ref": "adapters/haystack/mcp.json",
-  "composite_score": 0.5289,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5279,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-04-30T03:22:27.634845Z",
-  "last_refreshed_at": "2026-08-01T14:25:37.191515Z",
+  "last_refreshed_at": "2026-08-02T14:28:00.991186Z",
   "consecutive_refresh_failures": 0
 }
