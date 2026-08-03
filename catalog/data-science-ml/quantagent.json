@@ -1,32 +1,29 @@
 {
   "slug": "quantagent",
   "name": "QuantAgent",
-  "tagline": "Official Repository for QuantAgent",
+  "tagline": " AI 辅助量化交易研究系统",
   "category": "data-science-ml",
-  "tags": [
-    "agentic-ai",
-    "large-language-models"
-  ],
+  "tags": [],
   "author": {
-    "type": "org",
-    "handle": "Y-Research-SBU",
-    "url": "https://github.com/Y-Research-SBU"
+    "type": "user",
+    "handle": "Aurora-73",
+    "url": "https://github.com/Aurora-73"
   },
   "source": {
     "primary": "github",
-    "github": "Y-Research-SBU/QuantAgent",
+    "github": "Aurora-73/QuantAgent",
     "huggingface": null,
     "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 2781,
+    "stars": 6,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-08T05:31:06Z",
-    "first_commit_at": "2025-07-10T01:48:16Z",
-    "forks": 602,
-    "watchers": 25,
-    "open_issues": 5,
+    "last_commit_at": "2026-07-08T20:11:26Z",
+    "first_commit_at": "2026-07-05T15:35:10Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -43,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3307,
-  "rank_in_category": 47,
+  "composite_score": 0.2057,
+  "rank_in_category": 143,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:56:34.086049Z",
-  "last_refreshed_at": "2026-07-26T18:21:39.249794Z",
-  "consecutive_refresh_failures": 24
+  "first_seen_at": "2026-08-03T16:13:25.271743Z",
+  "last_refreshed_at": "2026-08-03T16:13:25.271746Z",
+  "consecutive_refresh_failures": 0
 }

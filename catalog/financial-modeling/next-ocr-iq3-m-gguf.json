@@ -1,7 +1,7 @@
 {
-  "slug": "next-ocr-q5-k-m-gguf",
-  "name": "next-ocr-Q5_K_M-GGUF",
-  "tagline": "Lamapi/next-ocr-Q5_K_M-GGUF — image-text-to-text",
+  "slug": "next-ocr-iq3-m-gguf",
+  "name": "next-ocr-IQ3_M-GGUF",
+  "tagline": "Lamapi/next-ocr-IQ3_M-GGUF — image-text-to-text",
   "category": "financial-modeling",
   "tags": [
     "transformers",
@@ -23,15 +23,15 @@
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "Lamapi/next-ocr-Q5_K_M-GGUF",
+    "huggingface": "Lamapi/next-ocr-IQ3_M-GGUF",
     "homepage": null
   },
   "license": "apache-2.0",
   "metrics": {
     "stars": 1,
-    "downloads_30d": 31,
-    "last_commit_at": "2025-11-13T13:42:36Z",
-    "first_commit_at": "2025-11-13T13:42:08Z",
+    "downloads_30d": 37,
+    "last_commit_at": "2025-11-13T15:29:05Z",
+    "first_commit_at": "2025-11-13T15:28:44Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2898,
-  "rank_in_category": 194,
+  "composite_score": 0.2936,
+  "rank_in_category": 187,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-13T15:19:20.399955Z",
-  "last_refreshed_at": "2026-07-26T18:21:00.909524Z",
-  "consecutive_refresh_failures": 27
+  "first_seen_at": "2026-08-03T16:14:27.598934Z",
+  "last_refreshed_at": "2026-08-03T16:14:27.598937Z",
+  "consecutive_refresh_failures": 0
 }

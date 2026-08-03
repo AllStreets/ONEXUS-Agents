@@ -1,0 +1,57 @@
+{
+  "slug": "remote-pi",
+  "name": "remote_pi",
+  "tagline": "Control your Pi coding agent from your phone. Pair with a one-time QR code and chat with your local agent — even when you're away from your computer.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent",
+    "agents",
+    "flutter",
+    "ia",
+    "pi",
+    "picode",
+    "rust"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jacobaraujo7",
+    "url": "https://github.com/jacobaraujo7"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jacobaraujo7/remote_pi",
+    "huggingface": null,
+    "homepage": "https://remote-pi.jacobmoura.work/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 169,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-03T14:23:18Z",
+    "first_commit_at": "2026-05-18T01:51:05Z",
+    "forks": 46,
+    "watchers": 1,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3442,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-03T15:57:48.715944Z",
+  "last_refreshed_at": "2026-08-03T15:57:48.715947Z",
+  "consecutive_refresh_failures": 0
+}
