@@ -3,7 +3,18 @@
   "name": "qwen-code",
   "tagline": "An open-source AI coding agent that lives in your terminal.",
   "category": "coding",
-  "tags": [],
+  "tags": [
+    "agentic",
+    "ai",
+    "ai-agent",
+    "ai-coding",
+    "cli",
+    "coding-agent",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "qwen"
+  ],
   "author": {
     "type": "org",
     "handle": "QwenLM",
@@ -17,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 26514,
+    "stars": 26591,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-02T14:28:56Z",
+    "last_commit_at": "2026-08-03T15:33:10Z",
     "first_commit_at": "2025-04-17T17:19:55Z",
-    "forks": 2759,
-    "watchers": 132,
-    "open_issues": 752,
+    "forks": 2767,
+    "watchers": 131,
+    "open_issues": 802,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -35,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.4265,
-  "rank_in_category": 84,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4916,
+  "rank_in_category": 10,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-01T18:40:49.599006Z",
-  "last_refreshed_at": "2026-08-02T14:30:55.032134Z",
+  "last_refreshed_at": "2026-08-03T15:43:59.972028Z",
   "consecutive_refresh_failures": 0
 }

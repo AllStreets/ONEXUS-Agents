@@ -1,0 +1,52 @@
+{
+  "slug": "llm-agent-paper-daily",
+  "name": "LLM-Agent-Paper-daily",
+  "tagline": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "llm",
+    "llm-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Lyz103",
+    "url": "https://github.com/Lyz103"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Lyz103/LLM-Agent-Paper-daily",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-03T11:22:09Z",
+    "first_commit_at": "2024-08-27T08:18:08Z",
+    "forks": 2,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3387,
+  "rank_in_category": 251,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-01T14:42:02.275680Z",
+  "last_refreshed_at": "2026-08-03T16:08:11.971852Z",
+  "consecutive_refresh_failures": 0
+}
