@@ -11,9 +11,9 @@
     "autonomous-agents",
     "claude",
     "coding-agent",
+    "deepseek",
     "gemini",
-    "glm",
-    "gpt"
+    "glm"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 399,
+    "stars": 400,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-01T22:05:45Z",
+    "last_commit_at": "2026-08-04T11:12:50Z",
     "first_commit_at": "2026-02-21T16:22:08Z",
     "forks": 41,
     "watchers": 5,
-    "open_issues": 4,
+    "open_issues": 5,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3864,
-  "rank_in_category": 165,
+  "composite_score": 0.3881,
+  "rank_in_category": 162,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-03T14:12:04.822074Z",
-  "last_refreshed_at": "2026-08-03T15:45:10.017087Z",
+  "last_refreshed_at": "2026-08-04T15:26:18.053805Z",
   "consecutive_refresh_failures": 0
 }
