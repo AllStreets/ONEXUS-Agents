@@ -5,14 +5,15 @@
   "category": "legal-research",
   "tags": [
     "anti-hallucination",
+    "hallucination-detection",
     "legal-agent",
     "legal-tech",
     "llm",
+    "llm-evaluation",
     "ollama",
     "python",
     "rag",
-    "retrieval-augmented-generation",
-    "sqlite"
+    "retrieval-augmented-generation"
   ],
   "author": {
     "type": "user",
@@ -29,7 +30,7 @@
   "metrics": {
     "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-02T23:58:55Z",
+    "last_commit_at": "2026-08-04T02:52:20Z",
     "first_commit_at": "2026-07-09T03:39:12Z",
     "forks": 0,
     "watchers": 0,
@@ -50,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2061,
+  "composite_score": 0.2063,
   "rank_in_category": 129,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-09T16:23:21.034246Z",
-  "last_refreshed_at": "2026-08-03T16:14:32.779723Z",
+  "last_refreshed_at": "2026-08-04T15:55:15.441086Z",
   "consecutive_refresh_failures": 0
 }
