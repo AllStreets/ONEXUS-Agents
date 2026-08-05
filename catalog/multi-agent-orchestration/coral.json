@@ -1,0 +1,60 @@
+{
+  "slug": "coral",
+  "name": "CORAL",
+  "tagline": "Open-source autoresearch powered by autonomous coding agents. Run Claude Code, OpenCode, and Codex with grading, shared memory, and multi-agent evolution. Accepted at COLM 2026.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "agent-orchestration",
+    "agentic-ai",
+    "ai-agents",
+    "alpha-evolve",
+    "autonomous-agents",
+    "autoresearch",
+    "claude-code",
+    "code-generation",
+    "codex"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Human-Agent-Society",
+    "url": "https://github.com/Human-Agent-Society"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Human-Agent-Society/CORAL",
+    "huggingface": null,
+    "homepage": "https://coral.compounding-intelligence.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 872,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-05T15:17:49Z",
+    "first_commit_at": "2026-03-16T09:11:31Z",
+    "forks": 114,
+    "watchers": 2,
+    "open_issues": 21,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3938,
+  "rank_in_category": 163,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-05T15:19:55.438670Z",
+  "last_refreshed_at": "2026-08-05T15:19:55.438674Z",
+  "consecutive_refresh_failures": 0
+}

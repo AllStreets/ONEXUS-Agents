@@ -1,0 +1,62 @@
+{
+  "slug": "lawgent",
+  "name": "lawgent",
+  "tagline": "Lawgent — an open-source legal AI agent. Grounded, multi-jurisdiction (CN · US · EU · ET · ICAO), citation-verified: every pinpoint round-tripped against the primary source.",
+  "category": "legal-research",
+  "tags": [
+    "ai-agents",
+    "anthropic-claude",
+    "aviation-law",
+    "chinese-law",
+    "citation-verification",
+    "lawgent",
+    "legal-agent",
+    "legal-ai",
+    "legal-ai-agent",
+    "legal-research"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "WenzhuoXu",
+    "url": "https://github.com/WenzhuoXu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "WenzhuoXu/lawgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-05T06:49:28Z",
+    "first_commit_at": "2026-08-05T05:03:43Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2697,
+  "rank_in_category": 74,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-05T15:38:30.110329Z",
+  "last_refreshed_at": "2026-08-05T15:38:30.110333Z",
+  "consecutive_refresh_failures": 0
+}
