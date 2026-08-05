@@ -1,0 +1,61 @@
+{
+  "slug": "equigig-ai",
+  "name": "EquiGig-AI",
+  "tagline": "An autonomous Agentic AI built with LangGraph to protect worker rights, detect predatory contract clauses, and advocate for fair compensation in line with UN SDG 8.",
+  "category": "legal-research",
+  "tags": [
+    "agentic-ai",
+    "ai-ethics",
+    "contract-analysis",
+    "decent-work",
+    "langraph",
+    "llm",
+    "python",
+    "sdg8",
+    "workforce-and-corporate"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Pranq-lgtm",
+    "url": "https://github.com/Pranq-lgtm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Pranq-lgtm/EquiGig-AI",
+    "huggingface": null,
+    "homepage": "https://equi-gig-ai.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-31T14:41:32Z",
+    "first_commit_at": "2026-07-26T19:21:02Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2321,
+  "rank_in_category": 110,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-05T15:38:55.457535Z",
+  "last_refreshed_at": "2026-08-05T15:38:55.457539Z",
+  "consecutive_refresh_failures": 0
+}

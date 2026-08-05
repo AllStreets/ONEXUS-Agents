@@ -1,0 +1,62 @@
+{
+  "slug": "factorgpt",
+  "name": "FactorGPT",
+  "tagline": "基于LLM的量化因子开发Agent",
+  "category": "financial-modeling",
+  "tags": [
+    "a-share",
+    "alpha-factor",
+    "backtesting",
+    "deepseek",
+    "factor-mining",
+    "financial-ai",
+    "genetic-programming",
+    "langgraph",
+    "llm-agent",
+    "multi-factor-model"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ZXTLQQ",
+    "url": "https://github.com/ZXTLQQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ZXTLQQ/FactorGPT",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-05T08:59:42Z",
+    "first_commit_at": "2026-07-31T15:31:07Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.366,
+  "rank_in_category": 126,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-05T15:34:44.346155Z",
+  "last_refreshed_at": "2026-08-05T15:34:44.346160Z",
+  "consecutive_refresh_failures": 0
+}
