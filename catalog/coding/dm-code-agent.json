@@ -1,7 +1,7 @@
 {
   "slug": "dm-code-agent",
   "name": "DM-Code-Agent",
-  "tagline": "Lightweight, auditable Python code agent (~1500 LOC) — ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   eval and trace replay.",
+  "tagline": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by the official harness -- every number reproducible, negative results included.",
   "category": "coding",
   "tags": [
     "agent",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 149,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-05T15:08:19Z",
+    "last_commit_at": "2026-08-06T05:45:27Z",
     "first_commit_at": "2025-09-30T04:07:59Z",
     "forks": 13,
     "watchers": 0,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3797,
+  "composite_score": 0.3793,
   "rank_in_category": 184,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-07T15:30:40.628029Z",
-  "last_refreshed_at": "2026-08-05T15:14:03.491663Z",
+  "last_refreshed_at": "2026-08-06T15:17:22.220338Z",
   "consecutive_refresh_failures": 0
 }
