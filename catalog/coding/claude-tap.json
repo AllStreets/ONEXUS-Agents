@@ -1,0 +1,60 @@
+{
+  "slug": "claude-tap",
+  "name": "claude-tap",
+  "tagline": "Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.",
+  "category": "coding",
+  "tags": [
+    "agent-debugging",
+    "agent-observability",
+    "ai-agents",
+    "ai-tools",
+    "api-debugging",
+    "claude-code",
+    "codex",
+    "codex-cli",
+    "cursor-cli",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "liaohch3",
+    "url": "https://github.com/liaohch3"
+  },
+  "source": {
+    "primary": "github",
+    "github": "liaohch3/claude-tap",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2978,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-06T13:12:01Z",
+    "first_commit_at": "2026-02-15T12:51:26Z",
+    "forks": 257,
+    "watchers": 4,
+    "open_issues": 21,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3583,
+  "rank_in_category": 238,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-06T15:23:50.918442Z",
+  "last_refreshed_at": "2026-08-06T15:23:50.918445Z",
+  "consecutive_refresh_failures": 0
+}
