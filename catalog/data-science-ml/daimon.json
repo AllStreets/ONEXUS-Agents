@@ -1,0 +1,62 @@
+{
+  "slug": "daimon",
+  "name": "daimon",
+  "tagline": "The open source data science agent for Discord and Slack",
+  "category": "data-science-ml",
+  "tags": [
+    "agents",
+    "ai-agent",
+    "anthropic",
+    "bayesian-inference",
+    "claude",
+    "data-science",
+    "discord-bot",
+    "llm",
+    "pymc",
+    "slack-bot"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pymc-labs",
+    "url": "https://github.com/pymc-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pymc-labs/daimon",
+    "huggingface": null,
+    "homepage": "https://daimon.decision.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-07T14:10:06Z",
+    "first_commit_at": "2026-07-15T09:52:37Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2606,
+  "rank_in_category": 93,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-07T14:34:04.605736Z",
+  "last_refreshed_at": "2026-08-07T14:34:04.605740Z",
+  "consecutive_refresh_failures": 0
+}

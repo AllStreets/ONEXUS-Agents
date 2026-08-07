@@ -1,0 +1,62 @@
+{
+  "slug": "orbitdesk-local-ai-support-agent",
+  "name": "orbitdesk-local-ai-support-agent",
+  "tagline": "A local-first Retrieval-Augmented Generation (RAG) AI support assistant built with LangGraph, FAISS, Sentence Transformers, Ollama, and TinyLlama.",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "faiss",
+    "huggingface",
+    "langgraph",
+    "llm",
+    "local-llm",
+    "ollama",
+    "python",
+    "rag",
+    "retrieval-augmented-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aryansingh192005",
+    "url": "https://github.com/aryansingh192005"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aryansingh192005/orbitdesk-local-ai-support-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-07T05:06:54Z",
+    "first_commit_at": "2026-08-07T04:45:32Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4124,
+  "rank_in_category": 80,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-07T14:47:46.031570Z",
+  "last_refreshed_at": "2026-08-07T14:47:46.031573Z",
+  "consecutive_refresh_failures": 0
+}

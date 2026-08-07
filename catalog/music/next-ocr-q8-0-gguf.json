@@ -1,0 +1,62 @@
+{
+  "slug": "next-ocr-q8-0-gguf",
+  "name": "next-ocr-Q8_0-GGUF",
+  "tagline": "Lamapi/next-ocr-Q8_0-GGUF — image-text-to-text",
+  "category": "music",
+  "tags": [
+    "transformers",
+    "gguf",
+    "text-generation-inference",
+    "unsloth",
+    "qwen3_vl",
+    "trl",
+    "sft",
+    "chemistry",
+    "code",
+    "climate"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Lamapi",
+    "url": "https://huggingface.co/Lamapi"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "Lamapi/next-ocr-Q8_0-GGUF",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": 31,
+    "last_commit_at": "2025-11-13T13:24:14Z",
+    "first_commit_at": "2025-11-13T13:23:36Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "transformers",
+    "pipeline_tag": "image-text-to-text",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3764,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-07T14:49:34.880231Z",
+  "last_refreshed_at": "2026-08-07T14:49:34.880234Z",
+  "consecutive_refresh_failures": 0
+}
