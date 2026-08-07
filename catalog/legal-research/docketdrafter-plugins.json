@@ -1,0 +1,60 @@
+{
+  "slug": "docketdrafter-plugins",
+  "name": "docketdrafter-plugins",
+  "tagline": "Open-source legal research plugins for Claude Cowork and Claude Code from DocketDrafter.",
+  "category": "legal-research",
+  "tags": [
+    "claude",
+    "claude-code",
+    "claude-cowork",
+    "claude-plugins",
+    "courtlistener",
+    "docketdrafter",
+    "law",
+    "legal-research",
+    "legal-tech",
+    "new-york-law"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "DocketDrafter",
+    "url": "https://github.com/DocketDrafter"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DocketDrafter/docketdrafter-plugins",
+    "huggingface": null,
+    "homepage": "https://docketdrafter.com/"
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-06T21:40:43Z",
+    "first_commit_at": "2026-08-05T18:25:10Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2251,
+  "rank_in_category": 114,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-07T14:43:49.967027Z",
+  "last_refreshed_at": "2026-08-07T14:43:49.967030Z",
+  "consecutive_refresh_failures": 0
+}
