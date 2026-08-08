@@ -1,0 +1,52 @@
+{
+  "slug": "dbtune-agent",
+  "name": "dbtune-agent",
+  "tagline": "Open-source Agent to observe and optimize your PostgreSQL database",
+  "category": "data-engineering",
+  "tags": [
+    "agent",
+    "postgresql"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "dbtuneai",
+    "url": "https://github.com/dbtuneai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dbtuneai/dbtune-agent",
+    "huggingface": null,
+    "homepage": "https://www.dbtune.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-05T14:53:06Z",
+    "first_commit_at": "2024-12-23T12:12:06Z",
+    "forks": 7,
+    "watchers": 5,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4947,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-08T14:02:24.742270Z",
+  "last_refreshed_at": "2026-08-08T14:02:24.742273Z",
+  "consecutive_refresh_failures": 0
+}

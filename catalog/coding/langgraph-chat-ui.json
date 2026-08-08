@@ -1,0 +1,51 @@
+{
+  "slug": "langgraph-chat-ui",
+  "name": "langgraph-chat-ui",
+  "tagline": "🦜💬 Customizable Chat Interface for LangGraph Server",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "braincrew-lab",
+    "url": "https://github.com/braincrew-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "braincrew-lab/langgraph-chat-ui",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-09T07:31:54Z",
+    "first_commit_at": "2026-01-11T19:24:08Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 35,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2471,
+  "rank_in_category": 497,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:51:24.229846Z",
+  "last_refreshed_at": "2026-08-08T13:58:02.901782Z",
+  "consecutive_refresh_failures": 0
+}

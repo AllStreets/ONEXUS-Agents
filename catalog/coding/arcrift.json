@@ -1,0 +1,62 @@
+{
+  "slug": "arcrift",
+  "name": "ArcRift",
+  "tagline": "Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions from your browser chats (Claude, ChatGPT, DeepSeek) straight to your local IDE agen",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-coding",
+    "browser-extension",
+    "chatgpt",
+    "claude",
+    "cursor",
+    "deepseek",
+    "developer-tools",
+    "gemini"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Eshaan-Nair",
+    "url": "https://github.com/Eshaan-Nair"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Eshaan-Nair/ArcRift",
+    "huggingface": null,
+    "homepage": "https://arcrift.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 245,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-07T12:52:48Z",
+    "first_commit_at": "2026-04-20T14:55:47Z",
+    "forks": 34,
+    "watchers": 4,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3343,
+  "rank_in_category": 293,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-08T13:50:48.455702Z",
+  "last_refreshed_at": "2026-08-08T13:50:48.455705Z",
+  "consecutive_refresh_failures": 0
+}

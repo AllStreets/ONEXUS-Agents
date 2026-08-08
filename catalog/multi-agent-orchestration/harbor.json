@@ -1,0 +1,53 @@
+{
+  "slug": "harbor",
+  "name": "harbor",
+  "tagline": "Framework for evaluating and improving agents ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "evals",
+    "rl-environments",
+    "terminal-bench"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "harbor-framework",
+    "url": "https://github.com/harbor-framework"
+  },
+  "source": {
+    "primary": "github",
+    "github": "harbor-framework/harbor",
+    "huggingface": null,
+    "homepage": "https://harborframework.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4014,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-08T03:01:42Z",
+    "first_commit_at": "2025-08-04T23:28:26Z",
+    "forks": 1500,
+    "watchers": 21,
+    "open_issues": 647,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4547,
+  "rank_in_category": 74,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-08T13:49:15.610362Z",
+  "last_refreshed_at": "2026-08-08T13:49:15.610365Z",
+  "consecutive_refresh_failures": 0
+}
