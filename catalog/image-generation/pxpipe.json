@@ -1,7 +1,7 @@
 {
   "slug": "pxpipe",
   "name": "pxpipe",
-  "tagline": "cut Fable 5 token usage by rendering text context as images",
+  "tagline": "cut Claude Code token usage by rendering text context as images",
   "category": "image-generation",
   "tags": [],
   "author": {
@@ -17,13 +17,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 6694,
+    "stars": 6991,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-25T05:14:43Z",
+    "last_commit_at": "2026-08-06T14:28:26Z",
     "first_commit_at": "2026-05-18T15:52:02Z",
-    "forks": 571,
-    "watchers": 26,
-    "open_issues": 30,
+    "forks": 605,
+    "watchers": 25,
+    "open_issues": 65,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3733,
+  "composite_score": 0.3851,
   "rank_in_category": 4,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-11T14:25:24.673798Z",
-  "last_refreshed_at": "2026-07-25T14:40:43.576681Z",
-  "consecutive_refresh_failures": 13
+  "last_refreshed_at": "2026-08-08T13:48:59.972883Z",
+  "consecutive_refresh_failures": 0
 }

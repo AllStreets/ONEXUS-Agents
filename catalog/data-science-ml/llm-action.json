@@ -1,0 +1,55 @@
+{
+  "slug": "llm-action",
+  "name": "llm-action",
+  "tagline": "本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）",
+  "category": "data-science-ml",
+  "tags": [
+    "llm",
+    "llm-inference",
+    "llm-serving",
+    "llm-training",
+    "llmops"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "liguodongiot",
+    "url": "https://github.com/liguodongiot"
+  },
+  "source": {
+    "primary": "github",
+    "github": "liguodongiot/llm-action",
+    "huggingface": null,
+    "homepage": "https://www.zhihu.com/column/c_1456193767213043713"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 24875,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-19T13:13:31Z",
+    "first_commit_at": "2023-05-23T05:29:17Z",
+    "forks": 2840,
+    "watchers": 201,
+    "open_issues": 18,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4358,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:00.302803Z",
+  "last_refreshed_at": "2026-08-08T13:48:46.083098Z",
+  "consecutive_refresh_failures": 0
+}
