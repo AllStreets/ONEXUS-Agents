@@ -1,29 +1,40 @@
 {
   "slug": "quant-agent",
-  "name": "Quant_Agent",
-  "tagline": "🚀 AI-powered multi-agent trading analysis system with Streamlit UI. Features technical indicators, pattern recognition, trend analysis, and LLM-driven decision synthesis using Groq API. Built with Pyt",
+  "name": "quant-agent",
+  "tagline": "LLM multi-agent quantitative trading system for US equities. 9 specialized agents (8 daily + 1 quarterly meta-reflector) with schema-enforced reasoning chains, deterministic Python risk filters, real ",
   "category": "financial-modeling",
-  "tags": [],
+  "tags": [
+    "algorithmic-trading",
+    "alpaca",
+    "anthropic",
+    "llm-agents",
+    "multi-agent-systems",
+    "openai",
+    "python",
+    "quant-trading",
+    "trading-bot",
+    "vibe-coding"
+  ],
   "author": {
     "type": "user",
-    "handle": "rlancaster243",
-    "url": "https://github.com/rlancaster243"
+    "handle": "yebof",
+    "url": "https://github.com/yebof"
   },
   "source": {
     "primary": "github",
-    "github": "rlancaster243/Quant_Agent",
+    "github": "yebof/quant-agent",
     "huggingface": null,
     "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 12,
+    "stars": 6,
     "downloads_30d": null,
-    "last_commit_at": "2025-09-23T17:13:44Z",
-    "first_commit_at": "2025-09-15T20:22:01Z",
-    "forks": 1,
+    "last_commit_at": "2026-07-16T14:14:40Z",
+    "first_commit_at": "2026-04-07T13:34:23Z",
+    "forks": 2,
     "watchers": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -35,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "anthropic-sdk"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2252,
-  "rank_in_category": 239,
+  "composite_score": 0.3541,
+  "rank_in_category": 137,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:56:38.431825Z",
-  "last_refreshed_at": "2026-08-07T14:41:28.390216Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-08-09T14:08:53.889515Z",
+  "last_refreshed_at": "2026-08-09T14:08:53.889519Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,62 @@
+{
+  "slug": "tutti",
+  "name": "tutti",
+  "tagline": "Where people and agents build in tune.",
+  "category": "coding",
+  "tags": [
+    "agent-collaboration",
+    "agent-orchestration",
+    "agent-workspace",
+    "agentic-ai",
+    "agentic-workflow",
+    "ai-agents",
+    "ai-tools",
+    "ai-workspace",
+    "claude-code",
+    "codex"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "tutti-os",
+    "url": "https://github.com/tutti-os"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tutti-os/tutti",
+    "huggingface": null,
+    "homepage": "https://tutti.sh/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3228,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-09T13:39:56Z",
+    "first_commit_at": "2026-06-11T19:38:27Z",
+    "forks": 322,
+    "watchers": 112,
+    "open_issues": 170,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4255,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-09T13:49:15.581870Z",
+  "last_refreshed_at": "2026-08-09T13:49:15.581874Z",
+  "consecutive_refresh_failures": 0
+}
