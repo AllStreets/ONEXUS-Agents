@@ -49,12 +49,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
   "composite_score": 0.7062,
   "rank_in_category": 6,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-09T13:54:01.816847Z",
-  "last_refreshed_at": "2026-08-09T13:54:01.816851Z",
+  "last_refreshed_at": "2026-08-09T17:45:23.084594Z",
   "consecutive_refresh_failures": 0
 }
