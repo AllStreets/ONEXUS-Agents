@@ -1,0 +1,62 @@
+{
+  "slug": "opencaselaw",
+  "name": "opencaselaw",
+  "tagline": "Open Swiss legal corpus + MCP server: 1M+ court decisions (1875–today), 21k laws, 10M-edge citation graph, 42 MCP tools. CC0 data, MIT code. Live at mcp.opencaselaw.ch",
+  "category": "legal-research",
+  "tags": [
+    "ai-agents",
+    "caselaw",
+    "citation-graph",
+    "dataset",
+    "legal-data",
+    "legal-research",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "open-data"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jonashertner",
+    "url": "https://github.com/jonashertner"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jonashertner/opencaselaw",
+    "huggingface": null,
+    "homepage": "https://opencaselaw.ch/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 53,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-10T10:45:38Z",
+    "first_commit_at": "2026-02-09T08:19:50Z",
+    "forks": 14,
+    "watchers": 1,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3807,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-10T14:54:09.744513Z",
+  "last_refreshed_at": "2026-08-10T14:54:09.744514Z",
+  "consecutive_refresh_failures": 0
+}

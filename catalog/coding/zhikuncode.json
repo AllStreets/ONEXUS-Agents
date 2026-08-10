@@ -1,7 +1,7 @@
 {
   "slug": "zhikuncode",
   "name": "zhikuncode",
-  "tagline": "Claude Code / Cursor 开源替代。部署在你自己的服务器上，团队用浏览器打开就能编程——包括手机。CLI & Web UI 双入口，Multi-Agent 协作，原生直连千问/DeepSeek 等国产大模型。SWE-bench Lite 56%，不是玩具。技能/插件/跨会话记忆，8 层安全沙箱，数据不离开你的机器。Docker 一键部署，MIT 开源，零锁定。",
+  "tagline": "Claude Code / Cursor 开源替代。部署在你自己的服务器上，团队用浏览器打开就能编程——包括手机。CLI & Web UI 双入口，Multi-Agent 协作，原生直连千问/DeepSeek 等国产大模型。技能/插件/跨会话记忆，8 层安全沙箱，数据不离开你的机器。Docker 一键部署，MIT 开源，零锁定。",
   "category": "coding",
   "tags": [
     "ai-coding-assistant",
@@ -26,11 +26,11 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 409,
+    "stars": 419,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-09T04:07:57Z",
+    "last_commit_at": "2026-08-10T14:16:05Z",
     "first_commit_at": "2026-04-21T16:15:15Z",
-    "forks": 115,
+    "forks": 119,
     "watchers": 0,
     "open_issues": 23,
     "archived": false,
@@ -49,10 +49,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3259,
-  "rank_in_category": 314,
+  "composite_score": 0.3269,
+  "rank_in_category": 308,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:19:26.912284Z",
-  "last_refreshed_at": "2026-08-09T13:49:55.309424Z",
+  "last_refreshed_at": "2026-08-10T14:21:25.441561Z",
   "consecutive_refresh_failures": 0
 }

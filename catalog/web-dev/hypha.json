@@ -1,0 +1,62 @@
+{
+  "slug": "hypha",
+  "name": "Hypha",
+  "tagline": "Harness-oriented agent system framework for production-grade LLM agent applications",
+  "category": "web-dev",
+  "tags": [
+    "agent-framework",
+    "agent-harness",
+    "agent-memory",
+    "agent-runtime",
+    "ai-agents",
+    "cache",
+    "evaluation",
+    "event-sourcing",
+    "finite-state-machine",
+    "human-in-the-loop"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "CodeSoul-co",
+    "url": "https://github.com/CodeSoul-co"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CodeSoul-co/Hypha",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-10T06:17:58Z",
+    "first_commit_at": "2026-07-01T06:52:17Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4414,
+  "rank_in_category": 116,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-10T14:32:56.755382Z",
+  "last_refreshed_at": "2026-08-10T14:32:56.755383Z",
+  "consecutive_refresh_failures": 0
+}

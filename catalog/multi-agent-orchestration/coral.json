@@ -1,7 +1,7 @@
 {
   "slug": "coral",
   "name": "CORAL",
-  "tagline": "Open-source autoresearch powered by autonomous coding agents. Run Claude Code, OpenCode, and Codex with grading, shared memory, and multi-agent evolution. Accepted at COLM 2026.",
+  "tagline": "Open-source autoresearch powered by autonomous coding agents. Run Claude Code, OpenCode, and Codex with grading, shared knowledge, and multi-agent evolution. Accepted at COLM 2026.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-framework",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 880,
+    "stars": 883,
     "downloads_30d": null,
     "last_commit_at": "2026-08-09T02:39:50Z",
     "first_commit_at": "2026-03-16T09:11:31Z",
     "forks": 118,
     "watchers": 2,
-    "open_issues": 19,
+    "open_issues": 20,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.394,
-  "rank_in_category": 160,
+  "composite_score": 0.3931,
+  "rank_in_category": 161,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-09T13:54:39.496046Z",
-  "last_refreshed_at": "2026-08-09T13:54:39.496050Z",
+  "first_seen_at": "2026-08-10T14:29:23.251913Z",
+  "last_refreshed_at": "2026-08-10T14:29:23.251914Z",
   "consecutive_refresh_failures": 0
 }

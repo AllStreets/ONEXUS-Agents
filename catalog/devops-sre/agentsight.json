@@ -1,0 +1,54 @@
+{
+  "slug": "agentsight",
+  "name": "agentsight",
+  "tagline": "system-level profiler/monitor and skills for Agents in eBPF or Mac",
+  "category": "devops-sre",
+  "tags": [
+    "agent",
+    "ebpf",
+    "llm",
+    "observability"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "eunomia-bpf",
+    "url": "https://github.com/eunomia-bpf"
+  },
+  "source": {
+    "primary": "github",
+    "github": "eunomia-bpf/agentsight",
+    "huggingface": null,
+    "homepage": "https://eunomia.dev/agentsight/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 573,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-10T08:24:26Z",
+    "first_commit_at": "2025-07-07T21:16:43Z",
+    "forks": 83,
+    "watchers": 3,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5292,
+  "rank_in_category": 46,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-10T14:29:03.971130Z",
+  "last_refreshed_at": "2026-08-10T14:29:03.971131Z",
+  "consecutive_refresh_failures": 0
+}

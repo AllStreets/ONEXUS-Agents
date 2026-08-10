@@ -17,7 +17,7 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 2232,
+    "stars": 2231,
     "downloads_30d": null,
     "last_commit_at": "2025-07-25T15:17:13Z",
     "first_commit_at": "2025-05-03T14:45:11Z",
@@ -38,12 +38,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
+  "runnable": false,
+  "adapter_ref": null,
   "composite_score": 0.2799,
-  "rank_in_category": 73,
+  "rank_in_category": 72,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-09T13:52:35.560239Z",
-  "last_refreshed_at": "2026-08-09T17:52:00.616537Z",
+  "first_seen_at": "2026-08-10T14:25:42.822795Z",
+  "last_refreshed_at": "2026-08-10T14:25:42.822796Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,63 @@
+{
+  "slug": "comfyui-agent-kit",
+  "name": "ComfyUI-Agent-Kit",
+  "tagline": "One ComfyUI skill for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwen Code): drives a local ComfyUI end to end. 72 model prompt recipes, 574 templates, plus standalone Seedance, Krea and M",
+  "category": "coding",
+  "tags": [
+    "ai-art",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-skill",
+    "codex",
+    "comfyui",
+    "gemini-cli",
+    "glm",
+    "image-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SlavaSexton",
+    "url": "https://github.com/SlavaSexton"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SlavaSexton/ComfyUI-Agent-Kit",
+    "huggingface": null,
+    "homepage": "https://aivfxnews.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 69,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-10T04:28:18Z",
+    "first_commit_at": "2026-06-20T04:03:30Z",
+    "forks": 5,
+    "watchers": 4,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3317,
+  "rank_in_category": 300,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-10T14:38:23.374154Z",
+  "last_refreshed_at": "2026-08-10T14:38:23.374155Z",
+  "consecutive_refresh_failures": 0
+}
