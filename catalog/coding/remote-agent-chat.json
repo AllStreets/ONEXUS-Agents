@@ -1,0 +1,60 @@
+{
+  "slug": "remote-agent-chat",
+  "name": "remote-agent-chat",
+  "tagline": "Access Antigravity IDE agents (Claude Code, Codex, Gemini) from your phone or browser via CDP + WebSocket relay",
+  "category": "coding",
+  "tags": [
+    "ai-coding-agent",
+    "antigravity-ide",
+    "cdp-relay",
+    "claude-code",
+    "cloudflare-tunnel",
+    "remote-ai-agent",
+    "remote-vibe-coding",
+    "self-hosted",
+    "vscode-agent",
+    "websocket-proxy"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "robertgroarke",
+    "url": "https://github.com/robertgroarke"
+  },
+  "source": {
+    "primary": "github",
+    "github": "robertgroarke/remote-agent-chat",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-27T12:09:21Z",
+    "first_commit_at": "2026-04-24T10:32:59Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2228,
+  "rank_in_category": 547,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-10T14:28:06.717274Z",
+  "last_refreshed_at": "2026-08-10T14:28:06.717275Z",
+  "consecutive_refresh_failures": 0
+}

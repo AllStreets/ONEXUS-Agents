@@ -1,0 +1,61 @@
+{
+  "slug": "core",
+  "name": "core",
+  "tagline": "RAG systems, LLM agents, and production pipelines for legal and financial document intelligence.",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-engineering",
+    "document-intelligence",
+    "financial-ai",
+    "langchain",
+    "langgraph",
+    "legal-ai",
+    "llm",
+    "python",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Dokist-ai",
+    "url": "https://github.com/Dokist-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Dokist-ai/core",
+    "huggingface": null,
+    "homepage": "https://dokist-ai.github.io/core/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-10T13:54:21Z",
+    "first_commit_at": "2026-04-17T14:26:01Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3899,
+  "rank_in_category": 101,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-10T14:48:56.480606Z",
+  "last_refreshed_at": "2026-08-10T14:48:56.480607Z",
+  "consecutive_refresh_failures": 0
+}

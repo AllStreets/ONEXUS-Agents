@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "nirholas/bnbchain-mcp",
     "huggingface": null,
-    "homepage": "https://bnbchainmcp.vercel.app/"
+    "homepage": "https://nirholas.github.io/bnbchain-mcp/"
   },
   "license": "NOASSERTION",
   "metrics": {
     "stars": 31,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-14T03:34:12Z",
+    "last_commit_at": "2026-08-04T01:55:19Z",
     "first_commit_at": "2026-01-26T16:27:54Z",
-    "forks": 4,
+    "forks": 5,
     "watchers": 0,
-    "open_issues": 0,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.443,
-  "rank_in_category": 82,
+  "composite_score": 0.4954,
+  "rank_in_category": 65,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:16.005311Z",
-  "last_refreshed_at": "2026-07-29T15:37:26.739505Z",
-  "consecutive_refresh_failures": 11
+  "last_refreshed_at": "2026-08-10T14:46:13.925370Z",
+  "consecutive_refresh_failures": 0
 }
