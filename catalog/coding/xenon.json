@@ -1,0 +1,62 @@
+{
+  "slug": "xenon",
+  "name": "Xenon",
+  "tagline": "开源终端 AI 编程 Agent：以在线 Evidence Runtime 验证链（LLM 输出是 Claim、工具结果才是 Evidence）为核心，SWE-bench_Lite 官方评测 36.7% 实例级通过率（可复现报告）。支持 7 种推理范式、MCP 工具、多模型。Python。",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "agent-framework",
+    "ai-coding-assistant",
+    "cli",
+    "coding-agent",
+    "deepseek",
+    "developer-tools",
+    "evidence",
+    "hallucination-detection",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "xianyu-sheng",
+    "url": "https://github.com/xianyu-sheng"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xianyu-sheng/Xenon",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 54,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-11T13:04:09Z",
+    "first_commit_at": "2026-06-03T08:40:24Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3353,
+  "rank_in_category": 292,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-11T14:23:20.052453Z",
+  "last_refreshed_at": "2026-08-11T14:23:20.052454Z",
+  "consecutive_refresh_failures": 0
+}

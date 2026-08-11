@@ -1,0 +1,56 @@
+{
+  "slug": "ebi-agent-chat-relay",
+  "name": "ebi-agent-chat-relay",
+  "tagline": "Multi-frontend agent relay: run Claude Code, Codex, local, and AG-UI agents from Discord or Microsoft Teams",
+  "category": "web-dev",
+  "tags": [
+    "ag-ui",
+    "ai-agents",
+    "claude-code",
+    "discord",
+    "microsoft-teams",
+    "openai-codex"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ebibibi",
+    "url": "https://github.com/ebibibi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ebibibi/ebi-agent-chat-relay",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 54,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-11T06:19:56Z",
+    "first_commit_at": "2026-02-18T04:19:13Z",
+    "forks": 25,
+    "watchers": 3,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4549,
+  "rank_in_category": 110,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-11T14:32:04.026572Z",
+  "last_refreshed_at": "2026-08-11T14:32:04.026574Z",
+  "consecutive_refresh_failures": 0
+}
