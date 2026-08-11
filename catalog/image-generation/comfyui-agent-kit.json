@@ -1,7 +1,7 @@
 {
   "slug": "comfyui-agent-kit",
   "name": "ComfyUI-Agent-Kit",
-  "tagline": "One ComfyUI skill for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwen Code): drives a local ComfyUI end to end. 75 model prompt recipes, 583 templates, plus a standalone Seedance skill for",
+  "tagline": "One ComfyUI skill for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwen Code): drives a local ComfyUI end to end. 72 model prompt recipes, 574 templates, plus standalone Seedance, Krea and M",
   "category": "image-generation",
   "tags": [
     "ai-art",
@@ -28,12 +28,12 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 69,
+    "stars": 70,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-07T14:14:44Z",
+    "last_commit_at": "2026-08-10T14:50:08Z",
     "first_commit_at": "2026-06-20T04:03:30Z",
     "forks": 5,
-    "watchers": 4,
+    "watchers": 5,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3343,
+  "composite_score": 0.3366,
   "rank_in_category": 7,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-09T14:00:01.960081Z",
-  "last_refreshed_at": "2026-08-09T14:00:01.960085Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-08-11T14:35:46.388633Z",
+  "last_refreshed_at": "2026-08-11T14:35:46.388636Z",
+  "consecutive_refresh_failures": 0
 }
