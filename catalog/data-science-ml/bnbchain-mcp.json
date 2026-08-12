@@ -24,28 +24,28 @@
     "primary": "github",
     "github": "nirholas/bnbchain-mcp",
     "huggingface": null,
-    "homepage": "https://bnbchainmcp.vercel.app/"
+    "homepage": "https://nirholas.github.io/bnbchain-mcp/"
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 32,
+    "stars": 31,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-14T03:34:12Z",
+    "last_commit_at": "2026-08-04T01:55:19Z",
     "first_commit_at": "2026-01-26T16:27:54Z",
     "forks": 5,
     "watchers": 0,
-    "open_issues": 0,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 4,
-    "releases_total": 0,
+    "contributors_count": null,
+    "releases_total": null,
     "latest_release_at": null,
-    "commits_90d": 3,
-    "has_ci": false,
-    "readme_length": 186939,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
     "frameworks": [
       "anthropic-sdk",
       "mcp"
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3112,
-  "rank_in_category": 63,
+  "composite_score": 0.3432,
+  "rank_in_category": 40,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:16.005311Z",
-  "last_refreshed_at": "2026-07-26T18:23:24.201528Z",
-  "consecutive_refresh_failures": 26
+  "last_refreshed_at": "2026-08-12T14:45:23.871142Z",
+  "consecutive_refresh_failures": 0
 }

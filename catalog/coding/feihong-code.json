@@ -1,0 +1,60 @@
+{
+  "slug": "feihong-code",
+  "name": "feihong-code",
+  "tagline": "飞虹 Code（fhcode）— 终端 AI 编程智能体，对标 Meta Muse Code。多模型路由（DeepSeek/通义/Ollama/OpenAI）、企业级 RBAC/审计链/多租户、全自动 SWE Agent。M0→M9.1 生产就绪。",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "autonomous-agent",
+    "cli",
+    "code-generation",
+    "coding-agent",
+    "deepseek",
+    "enterprise",
+    "llm",
+    "multi-agent",
+    "multi-tenant"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wch887292",
+    "url": "https://github.com/wch887292"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wch887292/feihong-code",
+    "huggingface": null,
+    "homepage": "https://www.klai.top/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-12T08:16:08Z",
+    "first_commit_at": "2026-08-10T04:49:15Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2049,
+  "rank_in_category": 586,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-12T14:21:43.168102Z",
+  "last_refreshed_at": "2026-08-12T14:21:43.168105Z",
+  "consecutive_refresh_failures": 0
+}
