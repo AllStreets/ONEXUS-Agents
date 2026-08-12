@@ -1,7 +1,7 @@
 {
   "slug": "ouroboros",
   "name": "ouroboros",
-  "tagline": "Agent OS: Stop prompting. Start specifying. A Socratic interview gates the spec on an ambiguity score, then one command drives execution, a staged evaluation gate, and a budgeted evolution loop that r",
+  "tagline": "Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make it into the success contract we hand it. Interview-gated, staged evaluation, budg",
   "category": "coding",
   "tags": [
     "agent-os",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 5379,
+    "stars": 5392,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-11T08:20:12Z",
+    "last_commit_at": "2026-08-12T04:32:46Z",
     "first_commit_at": "2026-01-21T03:15:49Z",
-    "forks": 541,
+    "forks": 543,
     "watchers": 14,
-    "open_issues": 55,
+    "open_issues": 59,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4442,
+  "composite_score": 0.4441,
   "rank_in_category": 54,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-11T14:20:22.991066Z",
-  "last_refreshed_at": "2026-08-11T14:20:22.991068Z",
+  "last_refreshed_at": "2026-08-12T14:21:04.161223Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,62 @@
+{
+  "slug": "labrat",
+  "name": "labrat",
+  "tagline": "🐀 Terminal-native AI data agent — ask your warehouse a question in plain English, watch dialect-correct SQL stream into your terminal, get grounded answers without leaving your shell. #5 on the DataAg",
+  "category": "sql-analytics",
+  "tags": [
+    "agentic-data-ai",
+    "agentic-data-engineering",
+    "ai",
+    "analytics",
+    "anthropic",
+    "claude",
+    "context-engineering",
+    "data-agent",
+    "data-engineering",
+    "dbt"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "esagduyu",
+    "url": "https://github.com/esagduyu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "esagduyu/labrat",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-06T21:24:02Z",
+    "first_commit_at": "2026-05-23T19:38:13Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2472,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-12T14:42:38.164733Z",
+  "last_refreshed_at": "2026-08-12T14:42:38.164736Z",
+  "consecutive_refresh_failures": 0
+}

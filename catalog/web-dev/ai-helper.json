@@ -1,0 +1,62 @@
+{
+  "slug": "ai-helper",
+  "name": "ai-helper",
+  "tagline": "LLM-powered smart browser extension for Chrome/Edge featuring a ReAct inference loop, 40+ built-in tools, MCP protocol support, multimodal file Q&A, image recognition, long-term memory, and multi-agen",
+  "category": "web-dev",
+  "tags": [
+    "ai-agent",
+    "ai-assistant",
+    "browser-automation",
+    "chrome-extension",
+    "developer-tools",
+    "harness",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "openai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "xiweicheng",
+    "url": "https://github.com/xiweicheng"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xiweicheng/ai-helper",
+    "huggingface": null,
+    "homepage": "https://xiweicheng.github.io/ai-helper/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-12T14:32:29Z",
+    "first_commit_at": "2026-06-21T12:31:00Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4443,
+  "rank_in_category": 116,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-12T14:33:15.564822Z",
+  "last_refreshed_at": "2026-08-12T14:33:15.564824Z",
+  "consecutive_refresh_failures": 0
+}
