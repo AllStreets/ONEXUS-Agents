@@ -1,7 +1,7 @@
 {
   "slug": "xenon",
   "name": "Xenon",
-  "tagline": "开源终端 AI 编程 Agent：以在线 Evidence Runtime 验证链（LLM 输出是 Claim、工具结果才是 Evidence）为核心，SWE-bench_Lite 官方评测 36.7% 实例级通过率（可复现报告）。支持 7 种推理范式、MCP 工具、多模型。Python。",
+  "tagline": "开源终端 AI 编程 Agent：以在线 Evidence Runtime 验证链（LLM 输出是 Claim、工具结果才是 Evidence）为核心。SWE-bench_Lite 官方评测 40.0% 实例级通过率（同模型 A/B +6.7pp，可复现报告）。7 种推理范式、MCP 工具、落盘补救与验证闭环。Python。",
   "category": "coding",
   "tags": [
     "agent",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 54,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-12T01:15:57Z",
+    "last_commit_at": "2026-08-13T12:13:37Z",
     "first_commit_at": "2026-06-03T08:40:24Z",
     "forks": 1,
     "watchers": 0,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3349,
+  "composite_score": 0.3354,
   "rank_in_category": 293,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-11T14:23:20.052453Z",
-  "last_refreshed_at": "2026-08-12T14:24:28.987550Z",
+  "last_refreshed_at": "2026-08-13T14:24:34.353092Z",
   "consecutive_refresh_failures": 0
 }

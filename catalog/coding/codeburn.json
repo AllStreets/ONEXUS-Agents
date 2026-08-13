@@ -1,7 +1,7 @@
 {
   "slug": "codeburn",
   "name": "codeburn",
-  "tagline": "Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn",
+  "tagline": "Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn",
   "category": "coding",
   "tags": [
     "ai-coding",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 9250,
+    "stars": 9294,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-12T13:54:23Z",
+    "last_commit_at": "2026-08-12T19:50:43Z",
     "first_commit_at": "2026-04-13T22:10:27Z",
-    "forks": 728,
+    "forks": 734,
     "watchers": 28,
-    "open_issues": 41,
+    "open_issues": 48,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3819,
-  "rank_in_category": 177,
+  "composite_score": 0.3813,
+  "rank_in_category": 178,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:20:38.902255Z",
-  "last_refreshed_at": "2026-08-12T14:23:34.697728Z",
+  "last_refreshed_at": "2026-08-13T14:23:55.512543Z",
   "consecutive_refresh_failures": 0
 }
