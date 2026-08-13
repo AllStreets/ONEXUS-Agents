@@ -1,0 +1,57 @@
+{
+  "slug": "coderix",
+  "name": "coderix",
+  "tagline": "A pure open-source coding agent developed solely by DeepSeek.",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "agentic-workflow",
+    "claude-code",
+    "codeagent",
+    "deepseek",
+    "react",
+    "skill"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AgenticMatrix",
+    "url": "https://github.com/AgenticMatrix"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AgenticMatrix/coderix",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-13T14:26:27Z",
+    "first_commit_at": "2026-06-09T02:44:56Z",
+    "forks": 2,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.244,
+  "rank_in_category": 505,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-13T14:27:14.862017Z",
+  "last_refreshed_at": "2026-08-13T14:27:14.862021Z",
+  "consecutive_refresh_failures": 0
+}

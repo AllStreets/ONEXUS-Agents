@@ -1,0 +1,60 @@
+{
+  "slug": "superset",
+  "name": "superset",
+  "tagline": "Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.",
+  "category": "coding",
+  "tags": [
+    "ade",
+    "agent",
+    "agent-orchestration",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "cursor-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "superset-sh",
+    "url": "https://github.com/superset-sh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "superset-sh/superset",
+    "huggingface": null,
+    "homepage": "https://superset.sh/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 12885,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-13T12:54:25Z",
+    "first_commit_at": "2025-10-21T09:20:02Z",
+    "forks": 1188,
+    "watchers": 30,
+    "open_issues": 555,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4008,
+  "rank_in_category": 142,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-13T14:23:53.783452Z",
+  "last_refreshed_at": "2026-08-13T14:23:53.783455Z",
+  "consecutive_refresh_failures": 0
+}
