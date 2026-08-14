@@ -1,0 +1,60 @@
+{
+  "slug": "niki",
+  "name": "niki",
+  "tagline": "Hermetic multi-agent coding system: isolated AI agents independently plan, code, test & review in Docker sandboxes, then hand you a reviewable git branch. Fire-and-forget, BYOK, built in Rust.",
+  "category": "coding",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "ai-agents",
+    "automation",
+    "autonomous-agents",
+    "byok",
+    "cli",
+    "code-generation",
+    "code-review",
+    "coding-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "RavaniRoshan",
+    "url": "https://github.com/RavaniRoshan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RavaniRoshan/niki",
+    "huggingface": null,
+    "homepage": "https://niki-site.vercel.app/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-14T11:20:13Z",
+    "first_commit_at": "2026-07-09T17:00:25Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2073,
+  "rank_in_category": 516,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-14T14:17:19.105740Z",
+  "last_refreshed_at": "2026-08-14T14:17:19.105743Z",
+  "consecutive_refresh_failures": 0
+}

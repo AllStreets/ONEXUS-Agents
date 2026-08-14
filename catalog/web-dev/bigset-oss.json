@@ -1,0 +1,53 @@
+{
+  "slug": "bigset-oss",
+  "name": "bigset-oss",
+  "tagline": "Open-source BigSet — self-hostable live datasets populated by TinyFish web agents",
+  "category": "web-dev",
+  "tags": [
+    "bigset",
+    "open-source",
+    "tinyfish"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "tinyfish-io",
+    "url": "https://github.com/tinyfish-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tinyfish-io/bigset-oss",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 1688,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-14T01:19:03Z",
+    "first_commit_at": "2026-05-15T03:06:25Z",
+    "forks": 198,
+    "watchers": 19,
+    "open_issues": 35,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5444,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-14T14:27:59.996565Z",
+  "last_refreshed_at": "2026-08-14T14:27:59.996568Z",
+  "consecutive_refresh_failures": 0
+}
