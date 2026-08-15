@@ -1,7 +1,7 @@
 {
   "slug": "superset",
   "name": "superset",
-  "tagline": "Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.",
+  "tagline": "Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.",
   "category": "coding",
   "tags": [
     "ade",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 12907,
+    "stars": 12931,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-14T14:12:50Z",
+    "last_commit_at": "2026-08-15T12:41:34Z",
     "first_commit_at": "2025-10-21T09:20:02Z",
-    "forks": 1191,
-    "watchers": 31,
-    "open_issues": 552,
+    "forks": 1193,
+    "watchers": 32,
+    "open_issues": 563,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4009,
-  "rank_in_category": 133,
+  "composite_score": 0.401,
+  "rank_in_category": 132,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-13T14:23:53.783452Z",
-  "last_refreshed_at": "2026-08-14T14:18:55.492561Z",
+  "last_refreshed_at": "2026-08-15T13:31:26.017889Z",
   "consecutive_refresh_failures": 0
 }
