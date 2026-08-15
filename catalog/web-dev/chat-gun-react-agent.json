@@ -1,7 +1,7 @@
 {
   "slug": "chat-gun-react-agent",
   "name": "chat-gun-react-agent",
-  "tagline": "🤖A production-oriented full-stack Agent Chat system built with React, TypeScript, LangGraph JS, Qwen/OpenAI-compatible models, native tools, optional MCP, HITL, streaming events, multimodal input, and",
+  "tagline": "🤖 A full-stack Agent Chat Runtime for pre-production validation, built with act, TypeScript, and LangGraph JS combining streaming, multimodal, HITL, and tools with durable Task/Step execution, retry b",
   "category": "web-dev",
   "tags": [
     "agent",
@@ -25,13 +25,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 72,
+    "stars": 75,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-14T08:15:25Z",
+    "last_commit_at": "2026-08-15T10:00:44Z",
     "first_commit_at": "2026-06-05T10:49:52Z",
     "forks": 14,
     "watchers": 4,
-    "open_issues": 9,
+    "open_issues": 11,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5204,
-  "rank_in_category": 64,
+  "composite_score": 0.5214,
+  "rank_in_category": 63,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-04T15:39:43.700612Z",
-  "last_refreshed_at": "2026-08-14T14:30:06.359232Z",
+  "last_refreshed_at": "2026-08-15T13:40:40.103530Z",
   "consecutive_refresh_failures": 0
 }
