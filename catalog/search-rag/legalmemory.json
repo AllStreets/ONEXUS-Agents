@@ -1,29 +1,29 @@
 {
-  "slug": "codetutor",
-  "name": "codetutor",
-  "tagline": "An AI Pair Programmer, that teaches you to code as you write, for Emacs",
-  "category": "coding",
+  "slug": "legalmemory",
+  "name": "LegalMemory",
+  "tagline": "LegalMemory",
+  "category": "search-rag",
   "tags": [],
   "author": {
-    "type": "user",
-    "handle": "jaketothepast",
-    "url": "https://github.com/jaketothepast"
+    "type": "org",
+    "handle": "eigenweltlabs",
+    "url": "https://github.com/eigenweltlabs"
   },
   "source": {
     "primary": "github",
-    "github": "jaketothepast/codetutor",
+    "github": "eigenweltlabs/LegalMemory",
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "AGPL-3.0",
   "metrics": {
-    "stars": 24,
+    "stars": 30,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-20T01:35:31Z",
-    "first_commit_at": "2026-06-08T18:23:51Z",
-    "forks": 0,
+    "last_commit_at": "2026-08-14T07:06:26Z",
+    "first_commit_at": "2026-08-01T09:31:56Z",
+    "forks": 7,
     "watchers": 0,
-    "open_issues": 0,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2001,
-  "rank_in_category": 525,
+  "composite_score": 0.2761,
+  "rank_in_category": 60,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-12T16:24:56.346529Z",
-  "last_refreshed_at": "2026-08-15T13:37:09.678395Z",
+  "first_seen_at": "2026-08-06T15:52:16.108439Z",
+  "last_refreshed_at": "2026-08-16T13:59:29.457967Z",
   "consecutive_refresh_failures": 0
 }

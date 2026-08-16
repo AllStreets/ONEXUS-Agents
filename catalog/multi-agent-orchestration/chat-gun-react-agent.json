@@ -1,0 +1,60 @@
+{
+  "slug": "chat-gun-react-agent",
+  "name": "chat-gun-react-agent",
+  "tagline": "🤖 A full-stack Agent Chat Runtime for pre-production validation, built with act, TypeScript, and LangGraph JS combining streaming, multimodal, HITL, and tools with durable Task/Step execution, retry b",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "chatbot",
+    "langgraph",
+    "mcp",
+    "multi-agent",
+    "qwen",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "HsienW",
+    "url": "https://github.com/HsienW"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HsienW/chat-gun-react-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 79,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-15T10:00:44Z",
+    "first_commit_at": "2026-06-05T10:49:52Z",
+    "forks": 14,
+    "watchers": 4,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3954,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-04T15:39:43.700612Z",
+  "last_refreshed_at": "2026-08-16T13:43:15.739710Z",
+  "consecutive_refresh_failures": 0
+}

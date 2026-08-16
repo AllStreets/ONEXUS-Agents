@@ -1,0 +1,62 @@
+{
+  "slug": "quant-agent",
+  "name": "quant-agent",
+  "tagline": "LLM multi-agent quantitative trading system for US equities. 9 specialized agents (8 daily + 1 quarterly meta-reflector) with schema-enforced reasoning chains, deterministic Python risk filters, real ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "algorithmic-trading",
+    "alpaca",
+    "anthropic",
+    "llm-agents",
+    "multi-agent-systems",
+    "openai",
+    "python",
+    "quant-trading",
+    "trading-bot",
+    "vibe-coding"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yebof",
+    "url": "https://github.com/yebof"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yebof/quant-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T14:14:40Z",
+    "first_commit_at": "2026-04-07T13:34:23Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2605,
+  "rank_in_category": 135,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-09T14:08:53.889515Z",
+  "last_refreshed_at": "2026-08-16T13:55:31.373235Z",
+  "consecutive_refresh_failures": 0
+}
