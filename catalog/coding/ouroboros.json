@@ -12,8 +12,8 @@
     "cli",
     "codex",
     "coding-agent",
-    "developer-tools",
-    "github-copilot"
+    "deepseek",
+    "deepseek-harness"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 5416,
+    "stars": 5457,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-15T13:15:14Z",
+    "last_commit_at": "2026-08-16T13:24:00Z",
     "first_commit_at": "2026-01-21T03:15:49Z",
-    "forks": 545,
+    "forks": 552,
     "watchers": 14,
-    "open_issues": 78,
+    "open_issues": 58,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4448,
-  "rank_in_category": 51,
+  "composite_score": 0.445,
+  "rank_in_category": 50,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-11T14:20:22.991066Z",
-  "last_refreshed_at": "2026-08-15T13:29:36.773222Z",
+  "last_refreshed_at": "2026-08-16T13:31:10.278526Z",
   "consecutive_refresh_failures": 0
 }
