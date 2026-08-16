@@ -29,13 +29,16 @@
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": null,
-    "releases_total": null,
-    "latest_release_at": null,
-    "commits_90d": null,
-    "has_ci": null,
-    "readme_length": null,
-    "frameworks": []
+    "contributors_count": 5,
+    "releases_total": 5,
+    "latest_release_at": "2026-05-24T13:40:19Z",
+    "commits_90d": 2,
+    "has_ci": true,
+    "readme_length": 19617,
+    "frameworks": [
+      "anthropic-sdk",
+      "openai-agents-sdk"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
@@ -44,6 +47,6 @@
   "rank_in_category": 475,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:38.849597Z",
-  "last_refreshed_at": "2026-08-03T16:09:11.680866Z",
+  "last_refreshed_at": "2026-08-16T17:41:02.200215Z",
   "consecutive_refresh_failures": 13
 }
