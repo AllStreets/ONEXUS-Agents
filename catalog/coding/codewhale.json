@@ -1,0 +1,62 @@
+{
+  "slug": "codewhale",
+  "name": "CodeWhale",
+  "tagline": "Open-source, community-driven agent harness",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "alibaba-cloud",
+    "anthropic",
+    "cli",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "grok"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Hmbown",
+    "url": "https://github.com/Hmbown"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Hmbown/CodeWhale",
+    "huggingface": null,
+    "homepage": "https://codewhale.net/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 40828,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-18T12:58:05Z",
+    "first_commit_at": "2026-01-20T14:57:35Z",
+    "forks": 3532,
+    "watchers": 160,
+    "open_issues": 152,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4299,
+  "rank_in_category": 76,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-18T13:41:45.935952Z",
+  "last_refreshed_at": "2026-08-18T13:41:45.935955Z",
+  "consecutive_refresh_failures": 0
+}

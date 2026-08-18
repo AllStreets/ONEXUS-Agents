@@ -28,24 +28,24 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 313,
+    "stars": 354,
     "downloads_30d": null,
     "last_commit_at": "2026-06-25T04:04:13Z",
     "first_commit_at": "2025-06-14T09:49:47Z",
-    "forks": 56,
-    "watchers": 5,
+    "forks": 60,
+    "watchers": 6,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": true,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 2,
-    "releases_total": 11,
-    "latest_release_at": "2026-06-25T04:04:23Z",
-    "commits_90d": 49,
-    "has_ci": true,
-    "readme_length": 23270,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
     "frameworks": [
       "anthropic-sdk"
     ]
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.2599,
-  "rank_in_category": 412,
+  "composite_score": 0.2604,
+  "rank_in_category": 414,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-07T09:33:02.488208Z",
-  "last_refreshed_at": "2026-08-16T17:39:24.327491Z",
-  "consecutive_refresh_failures": 19
+  "last_refreshed_at": "2026-08-18T13:43:01.520846Z",
+  "consecutive_refresh_failures": 0
 }

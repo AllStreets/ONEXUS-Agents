@@ -1,0 +1,57 @@
+{
+  "slug": "barehands",
+  "name": "barehands",
+  "tagline": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai-assisstant",
+    "augmented-reality",
+    "claude-code",
+    "gesture-control",
+    "hand-tracking",
+    "mediapipe",
+    "threejs"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jaredrhod",
+    "url": "https://github.com/jaredrhod"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jaredrhod/barehands",
+    "huggingface": null,
+    "homepage": "https://jaredrhod.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 218,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-18T08:35:06Z",
+    "first_commit_at": "2026-08-15T07:36:54Z",
+    "forks": 39,
+    "watchers": 9,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3373,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-18T13:55:42.732311Z",
+  "last_refreshed_at": "2026-08-18T13:55:42.732314Z",
+  "consecutive_refresh_failures": 0
+}

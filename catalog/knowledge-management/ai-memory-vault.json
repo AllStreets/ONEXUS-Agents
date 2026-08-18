@@ -1,0 +1,63 @@
+{
+  "slug": "ai-memory-vault",
+  "name": "ai-memory-vault",
+  "tagline": "Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.",
+  "category": "knowledge-management",
+  "tags": [
+    "agent-memory",
+    "ai",
+    "ai-agents",
+    "ai-memory",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "knowledge-management",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jaredrhod",
+    "url": "https://github.com/jaredrhod"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jaredrhod/ai-memory-vault",
+    "huggingface": null,
+    "homepage": "https://jaredrhod.com/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "metrics": {
+    "stars": 525,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-18T08:35:09Z",
+    "first_commit_at": "2026-06-18T01:17:27Z",
+    "forks": 116,
+    "watchers": 10,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6336,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-18T13:55:40.157713Z",
+  "last_refreshed_at": "2026-08-18T13:55:40.157716Z",
+  "consecutive_refresh_failures": 0
+}
