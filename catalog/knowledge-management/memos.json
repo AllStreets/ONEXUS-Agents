@@ -1,7 +1,7 @@
 {
   "slug": "memos",
   "name": "MemOS",
-  "tagline": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
+  "tagline": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
   "category": "knowledge-management",
   "tags": [
     "agent",
@@ -10,10 +10,10 @@
     "ai-agents",
     "chatgpt",
     "claude",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
     "hermes",
-    "llm",
-    "long-term-memory",
-    "mcp"
+    "llm"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 10729,
+    "stars": 10759,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-16T05:43:53Z",
+    "last_commit_at": "2026-08-18T12:50:13Z",
     "first_commit_at": "2025-07-06T10:01:39Z",
     "forks": 994,
-    "watchers": 44,
-    "open_issues": 105,
+    "watchers": 45,
+    "open_issues": 84,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.7362,
-  "rank_in_category": 5,
+  "composite_score": 0.7368,
+  "rank_in_category": 7,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-16T13:35:03.153484Z",
-  "last_refreshed_at": "2026-08-16T13:35:03.153487Z",
+  "first_seen_at": "2026-08-18T13:46:03.349148Z",
+  "last_refreshed_at": "2026-08-18T13:46:03.349151Z",
   "consecutive_refresh_failures": 0
 }

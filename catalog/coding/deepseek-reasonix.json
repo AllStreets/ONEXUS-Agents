@@ -12,8 +12,8 @@
     "coding-agent",
     "deepseek",
     "developer-tools",
-    "ink",
-    "llm"
+    "dsh",
+    "dsh-plugin"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 34631,
+    "stars": 34757,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-16T13:17:00Z",
+    "last_commit_at": "2026-08-18T13:15:15Z",
     "first_commit_at": "2026-05-30T00:53:10Z",
-    "forks": 2300,
-    "watchers": 92,
-    "open_issues": 1435,
+    "forks": 2308,
+    "watchers": 93,
+    "open_issues": 1489,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4514,
-  "rank_in_category": 44,
+  "composite_score": 0.4515,
+  "rank_in_category": 45,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-08T14:52:26.225694Z",
-  "last_refreshed_at": "2026-08-16T13:31:00.398392Z",
+  "last_refreshed_at": "2026-08-18T13:41:47.305503Z",
   "consecutive_refresh_failures": 0
 }

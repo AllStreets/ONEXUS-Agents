@@ -1,9 +1,10 @@
 {
   "slug": "next-270m-q4-k-m-gguf",
   "name": "next-270m-Q4_K_M-GGUF",
-  "tagline": "mattritchey/next-270m-Q4_K_M-GGUF — text-generation",
+  "tagline": "Lamapi/next-270m-Q4_K_M-GGUF — text-generation",
   "category": "data-science-ml",
   "tags": [
+    "transformers",
     "gguf",
     "turkish",
     "türkiye",
@@ -12,33 +13,32 @@
     "lamapi",
     "gemma3",
     "next",
-    "next-x1",
-    "efficient"
+    "next-x1"
   ],
   "author": {
     "type": "org",
-    "handle": "mattritchey",
-    "url": "https://huggingface.co/mattritchey"
+    "handle": "Lamapi",
+    "url": "https://huggingface.co/Lamapi"
   },
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "mattritchey/next-270m-Q4_K_M-GGUF",
+    "huggingface": "Lamapi/next-270m-Q4_K_M-GGUF",
     "homepage": null
   },
   "license": "mit",
   "metrics": {
-    "stars": 0,
-    "downloads_30d": 19,
-    "last_commit_at": "2025-10-21T17:31:33Z",
-    "first_commit_at": "2025-10-21T17:31:27Z",
+    "stars": 3,
+    "downloads_30d": 17,
+    "last_commit_at": "2025-10-28T10:44:09Z",
+    "first_commit_at": "2025-10-28T10:44:05Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
     "archived": null,
     "is_fork": null,
     "is_template": null,
-    "library_name": null,
+    "library_name": "transformers",
     "pipeline_tag": "text-generation",
     "contributors_count": null,
     "releases_total": null,
@@ -46,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "transformers"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.169,
-  "rank_in_category": 176,
+  "composite_score": 0.1966,
+  "rank_in_category": 143,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-20T15:32:33.384168Z",
-  "last_refreshed_at": "2026-08-16T17:39:48.109085Z",
-  "consecutive_refresh_failures": 18
+  "first_seen_at": "2026-08-18T14:04:01.233862Z",
+  "last_refreshed_at": "2026-08-18T14:04:01.233866Z",
+  "consecutive_refresh_failures": 0
 }

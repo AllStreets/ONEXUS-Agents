@@ -5,15 +5,15 @@
   "category": "coding",
   "tags": [
     "ai-coding",
-    "ai-tools",
     "ast",
     "claude",
     "claude-code",
+    "cline",
     "code-intelligence",
-    "code-retrieval",
+    "codex",
     "context-window",
-    "cursor",
-    "developer-tools"
+    "copilot",
+    "cursor"
   ],
   "author": {
     "type": "user",
@@ -28,11 +28,11 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 2566,
+    "stars": 2575,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-15T14:27:53Z",
+    "last_commit_at": "2026-08-18T13:43:25Z",
     "first_commit_at": "2026-02-09T01:41:05Z",
-    "forks": 355,
+    "forks": 356,
     "watchers": 19,
     "open_issues": 5,
     "archived": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4314,
-  "rank_in_category": 73,
+  "composite_score": 0.4325,
+  "rank_in_category": 71,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-24T15:35:51.478547Z",
-  "last_refreshed_at": "2026-08-16T13:33:30.024224Z",
+  "last_refreshed_at": "2026-08-18T13:44:23.986820Z",
   "consecutive_refresh_failures": 0
 }
