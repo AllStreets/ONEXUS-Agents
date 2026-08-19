@@ -1,0 +1,55 @@
+{
+  "slug": "secrepobench",
+  "name": "SecRepoBench",
+  "tagline": "Implementation of SecRepoBench: Benchmarking Code Agents for Secure Code Completion in Real-World Repositories [LLM4Code'26]",
+  "category": "coding",
+  "tags": [
+    "benchmark",
+    "code-agent",
+    "code-completion",
+    "llm",
+    "software-engineering"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ai-sec-lab",
+    "url": "https://github.com/ai-sec-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ai-sec-lab/SecRepoBench",
+    "huggingface": null,
+    "homepage": "https://secrepobench.github.io/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-21T10:17:59Z",
+    "first_commit_at": "2024-11-09T18:31:53Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2571,
+  "rank_in_category": 424,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-19T13:44:13.815081Z",
+  "last_refreshed_at": "2026-08-19T13:44:13.815084Z",
+  "consecutive_refresh_failures": 0
+}

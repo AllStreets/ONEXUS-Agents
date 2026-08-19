@@ -8,12 +8,12 @@
     "code-agent",
     "computer",
     "control",
+    "daemon",
     "execution",
     "llm-agent",
     "llm-code",
     "mcp",
-    "rust",
-    "serena"
+    "mcp-server"
   ],
   "author": {
     "type": "user",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 33,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-18T00:58:32Z",
+    "last_commit_at": "2026-08-19T12:31:21Z",
     "first_commit_at": "2025-04-27T16:57:52Z",
     "forks": 9,
     "watchers": 0,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3561,
-  "rank_in_category": 223,
+  "composite_score": 0.3566,
+  "rank_in_category": 224,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:23:52.073810Z",
-  "last_refreshed_at": "2026-08-18T13:43:19.712020Z",
+  "last_refreshed_at": "2026-08-19T13:44:07.860574Z",
   "consecutive_refresh_failures": 0
 }

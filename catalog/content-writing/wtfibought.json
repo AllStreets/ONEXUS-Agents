@@ -3,7 +3,9 @@
   "name": "wtfibought",
   "tagline": "what if i bought",
   "category": "content-writing",
-  "tags": [],
+  "tags": [
+    "agent"
+  ],
   "author": {
     "type": "user",
     "handle": "mamawai",
@@ -17,11 +19,11 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 54,
+    "stars": 58,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-14T08:58:18Z",
+    "last_commit_at": "2026-08-19T09:03:30Z",
     "first_commit_at": "2026-01-20T04:06:03Z",
-    "forks": 8,
+    "forks": 9,
     "watchers": 0,
     "open_issues": 0,
     "archived": false,
@@ -40,10 +42,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.458,
-  "rank_in_category": 27,
+  "composite_score": 0.4667,
+  "rank_in_category": 26,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-23T15:34:49.589633Z",
-  "last_refreshed_at": "2026-08-16T13:55:46.448344Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-08-19T14:06:56.628638Z",
+  "consecutive_refresh_failures": 0
 }

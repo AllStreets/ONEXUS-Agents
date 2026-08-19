@@ -1,0 +1,60 @@
+{
+  "slug": "caura-cross-fleet-gov",
+  "name": "caura-cross-fleet-gov",
+  "tagline": "Multi-agent memory governance demo using MemClaw + OpenClaw. Three agents (Sales, Legal, Admin) share one memory backend with hard fleet boundaries enforced at the query layer. Shows scoped writes, bl",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-fleet",
+    "agent-memory",
+    "ai-agents",
+    "context-sharing",
+    "cross-agent-memory",
+    "fleet-isolation",
+    "llm",
+    "memclaw",
+    "memory",
+    "memory-governance"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "caura-ai",
+    "url": "https://github.com/caura-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "caura-ai/caura-cross-fleet-gov",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 65,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-19T15:26:25Z",
+    "first_commit_at": "2026-05-19T14:30:42Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2889,
+  "rank_in_category": 123,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-19T14:09:27.740983Z",
+  "last_refreshed_at": "2026-08-19T14:09:27.740987Z",
+  "consecutive_refresh_failures": 0
+}
