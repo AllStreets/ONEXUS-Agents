@@ -1,39 +1,36 @@
 {
   "slug": "react-agent",
   "name": "react-agent",
-  "tagline": "The open-source React.js Autonomous LLM Agent",
+  "tagline": "LangGraph template for a simple ReAct agent",
   "category": "web-dev",
   "tags": [
-    "agent",
-    "gpt-4",
-    "headless",
-    "headlessui",
-    "llm",
-    "react"
+    "langgraph",
+    "langgraph-python",
+    "langgraph-template"
   ],
   "author": {
-    "type": "user",
-    "handle": "eylonmiz",
-    "url": "https://github.com/eylonmiz"
+    "type": "org",
+    "handle": "langchain-ai",
+    "url": "https://github.com/langchain-ai"
   },
   "source": {
     "primary": "github",
-    "github": "eylonmiz/react-agent",
+    "github": "langchain-ai/react-agent",
     "huggingface": null,
-    "homepage": "https://reactagent.io/"
+    "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1654,
+    "stars": 821,
     "downloads_30d": null,
-    "last_commit_at": "2024-04-12T13:38:37Z",
-    "first_commit_at": "2023-05-11T15:21:07Z",
-    "forks": 155,
-    "watchers": 15,
-    "open_issues": 13,
+    "last_commit_at": "2026-08-18T19:50:18Z",
+    "first_commit_at": "2024-08-21T20:13:15Z",
+    "forks": 697,
+    "watchers": 8,
+    "open_issues": 19,
     "archived": false,
     "is_fork": false,
-    "is_template": false,
+    "is_template": true,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
@@ -42,15 +39,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "langchain"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3865,
-  "rank_in_category": 150,
+  "composite_score": 0.451,
+  "rank_in_category": 103,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-15T13:40:26.301392Z",
-  "last_refreshed_at": "2026-08-18T13:54:19.491970Z",
+  "first_seen_at": "2026-08-19T13:54:06.075074Z",
+  "last_refreshed_at": "2026-08-19T13:54:06.075078Z",
   "consecutive_refresh_failures": 0
 }

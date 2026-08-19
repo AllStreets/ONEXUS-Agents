@@ -1,0 +1,62 @@
+{
+  "slug": "contract-analyst",
+  "name": "contract-analyst",
+  "tagline": "Agentic RAG system for analyzing legal contracts. Chat with agreements, extract clauses, flag risks, and compare terms using a local LLM.",
+  "category": "legal-research",
+  "tags": [
+    "agentic-ai",
+    "contract-analysis",
+    "faiss",
+    "langgraph",
+    "legal-tech",
+    "llm",
+    "machine-learning",
+    "nlp",
+    "ollama",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Eklavya20",
+    "url": "https://github.com/Eklavya20"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Eklavya20/contract-analyst",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-29T13:40:52Z",
+    "first_commit_at": "2026-03-26T15:15:36Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1596,
+  "rank_in_category": 173,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-19T14:08:13.166682Z",
+  "last_refreshed_at": "2026-08-19T14:08:13.166685Z",
+  "consecutive_refresh_failures": 0
+}

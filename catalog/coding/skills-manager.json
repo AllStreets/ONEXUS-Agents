@@ -1,29 +1,40 @@
 {
   "slug": "skills-manager",
-  "name": "skills-manager",
-  "tagline": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+  "name": "Skills-Manager",
+  "tagline": "A high-performance desktop application for managing skills across multiple AI coding assistants. Seamlessly organize, sync, and share skills for Claude Code、Codex、Opencode and other AI tools. Built wi",
   "category": "coding",
-  "tags": [],
+  "tags": [
+    "ai-skills-manager",
+    "claude-code",
+    "claude-code-skills",
+    "codex",
+    "codex-skills",
+    "developer-tools",
+    "react-19",
+    "skills",
+    "skills-management",
+    "skills-manager"
+  ],
   "author": {
     "type": "user",
-    "handle": "xingkongliang",
-    "url": "https://github.com/xingkongliang"
+    "handle": "jiweiyeah",
+    "url": "https://github.com/jiweiyeah"
   },
   "source": {
     "primary": "github",
-    "github": "xingkongliang/skills-manager",
+    "github": "jiweiyeah/Skills-Manager",
     "huggingface": null,
-    "homepage": "https://skillsmanager.dev/"
+    "homepage": "https://skillsmanager.freeourdays.com/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 3823,
+    "stars": 944,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-16T14:41:39Z",
-    "first_commit_at": "2026-03-01T12:06:18Z",
-    "forks": 331,
-    "watchers": 10,
-    "open_issues": 174,
+    "last_commit_at": "2026-08-10T06:41:43Z",
+    "first_commit_at": "2026-02-02T12:42:59Z",
+    "forks": 60,
+    "watchers": 5,
+    "open_issues": 41,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3682,
-  "rank_in_category": 198,
+  "composite_score": 0.3288,
+  "rank_in_category": 274,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-18T13:53:44.897869Z",
-  "last_refreshed_at": "2026-08-18T13:53:44.897872Z",
+  "first_seen_at": "2026-08-19T13:47:19.880025Z",
+  "last_refreshed_at": "2026-08-19T13:47:19.880028Z",
   "consecutive_refresh_failures": 0
 }

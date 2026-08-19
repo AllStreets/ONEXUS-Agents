@@ -1,0 +1,57 @@
+{
+  "slug": "cpa",
+  "name": "cpa",
+  "tagline": "LLM / AI data science agent, using Anthropic's Claude and PANDAS",
+  "category": "data-science-ml",
+  "tags": [
+    "agents",
+    "anthropic",
+    "claude",
+    "data-science",
+    "pandas"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rbitr",
+    "url": "https://github.com/rbitr"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rbitr/cpa",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2024-11-13T12:38:57Z",
+    "first_commit_at": "2024-11-13T12:29:54Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1572,
+  "rank_in_category": 187,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-19T14:00:23.766766Z",
+  "last_refreshed_at": "2026-08-19T14:00:23.766769Z",
+  "consecutive_refresh_failures": 0
+}

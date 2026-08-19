@@ -1,0 +1,62 @@
+{
+  "slug": "yao",
+  "name": "yao",
+  "tagline": "✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.",
+  "category": "coding",
+  "tags": [
+    "agent-harness",
+    "agent-orchestration",
+    "agent-skills",
+    "agent-workspaces",
+    "ai-agents",
+    "ai-native",
+    "claude-code",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "YaoApp",
+    "url": "https://github.com/YaoApp"
+  },
+  "source": {
+    "primary": "github",
+    "github": "YaoApp/yao",
+    "huggingface": null,
+    "homepage": "https://yaoagents.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 7714,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-19T04:45:36Z",
+    "first_commit_at": "2021-09-06T09:20:28Z",
+    "forks": 690,
+    "watchers": 99,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4858,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-19T13:43:00.501848Z",
+  "last_refreshed_at": "2026-08-19T13:43:00.501851Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,19 +1,19 @@
 {
   "slug": "jobs-applier-ai-agent-aihawk",
   "name": "Jobs_Applier_AI_Agent_AIHawk",
-  "tagline": "Open source AI job application bot in Python: auto apply to jobs, with a tailored resume and cover letter for each posting.",
+  "tagline": "Open source AI job application bot in Python: browser automation and web scraping to read job postings, then auto-apply with a tailored resume and cover letter for each posting.",
   "category": "browser-automation",
   "tags": [
-    "agent",
-    "application-resume",
-    "artificial-intelligence",
-    "automate",
+    "anti-bot",
+    "anti-detect-browser",
+    "antidetect",
     "automation",
-    "bot",
-    "chatgpt",
-    "chrome",
-    "gpt",
-    "human-resources"
+    "bot-detection",
+    "browser-automation",
+    "browser-fingerprinting",
+    "cloudflare",
+    "crawler",
+    "fingerprint"
   ],
   "author": {
     "type": "user",
@@ -28,11 +28,11 @@
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 30199,
+    "stars": 30207,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-18T00:42:09Z",
+    "last_commit_at": "2026-08-19T11:05:09Z",
     "first_commit_at": "2024-12-05T00:01:47Z",
-    "forks": 4625,
+    "forks": 4627,
     "watchers": 205,
     "open_issues": 28,
     "archived": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4981,
+  "composite_score": 0.4986,
   "rank_in_category": 5,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-18T13:53:12.953869Z",
-  "last_refreshed_at": "2026-08-18T13:53:12.953872Z",
+  "first_seen_at": "2026-08-19T13:52:51.164445Z",
+  "last_refreshed_at": "2026-08-19T13:52:51.164448Z",
   "consecutive_refresh_failures": 0
 }

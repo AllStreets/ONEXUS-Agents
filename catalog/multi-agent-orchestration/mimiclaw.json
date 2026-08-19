@@ -1,0 +1,56 @@
+{
+  "slug": "mimiclaw",
+  "name": "mimiclaw",
+  "tagline": "MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai",
+    "assistant",
+    "clawdbot",
+    "edge-ai-agents",
+    "memory",
+    "openclaw"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "memovai",
+    "url": "https://github.com/memovai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "memovai/mimiclaw",
+    "huggingface": null,
+    "homepage": "https://mimiclaw.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5709,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-15T14:32:50Z",
+    "first_commit_at": "2026-02-04T04:27:23Z",
+    "forks": 888,
+    "watchers": 54,
+    "open_issues": 113,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4361,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-07-15T15:04:08.990274Z",
+  "last_refreshed_at": "2026-08-19T13:54:48.834862Z",
+  "consecutive_refresh_failures": 0
+}
