@@ -1,19 +1,19 @@
 {
   "slug": "codewhale",
   "name": "CodeWhale",
-  "tagline": "Open-source, community-driven agent harness",
+  "tagline": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
   "category": "coding",
   "tags": [
-    "ai",
+    "agent-orchestration",
     "ai-agent",
-    "alibaba-cloud",
-    "anthropic",
     "cli",
     "coding-agent",
-    "deepseek",
-    "deepseek-harness",
-    "dsh",
-    "grok"
+    "local-first",
+    "mcp",
+    "multi-agent",
+    "multi-model",
+    "open-source",
+    "rust"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 40826,
+    "stars": 40832,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-19T04:32:43Z",
+    "last_commit_at": "2026-08-20T08:44:49Z",
     "first_commit_at": "2026-01-20T14:57:35Z",
     "forks": 3533,
     "watchers": 160,
-    "open_issues": 144,
+    "open_issues": 128,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -47,16 +47,16 @@
     "has_ci": null,
     "readme_length": null,
     "frameworks": [
-      "anthropic-sdk"
+      "mcp"
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.4296,
-  "rank_in_category": 77,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4799,
+  "rank_in_category": 26,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-18T13:41:45.935952Z",
-  "last_refreshed_at": "2026-08-19T13:42:56.167509Z",
+  "last_refreshed_at": "2026-08-20T13:44:55.280925Z",
   "consecutive_refresh_failures": 0
 }

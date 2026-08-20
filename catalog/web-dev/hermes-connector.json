@@ -1,0 +1,60 @@
+{
+  "slug": "hermes-connector",
+  "name": "hermes-connector",
+  "tagline": "Chrome browser extension for Hermes Agent — exact sessions, user-selected tabs, and local-first browser control.",
+  "category": "web-dev",
+  "tags": [
+    "ai-agent",
+    "ai-browser-agent",
+    "browser-automation",
+    "browser-control",
+    "browser-extension",
+    "chrome-extension",
+    "chrome-side-panel",
+    "hermes-agent",
+    "hermes-plugin",
+    "local-first"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "CorsenAI",
+    "url": "https://github.com/CorsenAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CorsenAI/hermes-connector",
+    "huggingface": null,
+    "homepage": "https://corsenai.github.io/hermes-connector/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-16T16:57:35Z",
+    "first_commit_at": "2026-07-20T22:10:44Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3673,
+  "rank_in_category": 171,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-20T13:54:48.138798Z",
+  "last_refreshed_at": "2026-08-20T13:54:48.138802Z",
+  "consecutive_refresh_failures": 0
+}

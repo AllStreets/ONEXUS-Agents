@@ -7,13 +7,13 @@
     "aggregations",
     "analytics",
     "bm25",
-    "database",
-    "elasticsearch",
+    "columnar-storage",
+    "distributed-search",
     "full-text-search",
     "htap",
     "hybrid-search",
-    "olap",
-    "postgresql"
+    "mpp",
+    "olap"
   ],
   "author": {
     "type": "org",
@@ -30,11 +30,11 @@
   "metrics": {
     "stars": 9175,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-19T09:28:21Z",
+    "last_commit_at": "2026-08-20T10:21:45Z",
     "first_commit_at": "2023-06-30T20:13:37Z",
     "forks": 435,
     "watchers": 42,
-    "open_issues": 192,
+    "open_issues": 187,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6331,
-  "rank_in_category": 8,
+  "composite_score": 0.6332,
+  "rank_in_category": 7,
   "discovered_via": "seed",
   "first_seen_at": "2026-04-30T03:22:43.862428Z",
-  "last_refreshed_at": "2026-08-19T13:42:37.966767Z",
+  "last_refreshed_at": "2026-08-20T13:44:33.314598Z",
   "consecutive_refresh_failures": 0
 }

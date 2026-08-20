@@ -1,0 +1,60 @@
+{
+  "slug": "backtalk",
+  "name": "backtalk",
+  "tagline": "Talk to your Claude Code agent out loud. Hold a key, speak, and it answers in a real voice about a second later, with all its tools and its own personality. The hearing and the voice run on free local",
+  "category": "audio-speech",
+  "tags": [
+    "claude",
+    "claude-code",
+    "kokoro",
+    "push-to-talk",
+    "python",
+    "speech-recognition",
+    "text-to-speech",
+    "voice",
+    "voice-assistant",
+    "whisper"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jaredrhod",
+    "url": "https://github.com/jaredrhod"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jaredrhod/backtalk",
+    "huggingface": null,
+    "homepage": "https://jaredrhod.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-19T22:33:03Z",
+    "first_commit_at": "2026-08-16T15:47:39Z",
+    "forks": 6,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3803,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-20T13:59:17.145174Z",
+  "last_refreshed_at": "2026-08-20T13:59:17.145178Z",
+  "consecutive_refresh_failures": 0
+}
