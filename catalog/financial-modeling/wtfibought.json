@@ -3,7 +3,9 @@
   "name": "wtfibought",
   "tagline": "what if i bought",
   "category": "financial-modeling",
-  "tags": [],
+  "tags": [
+    "agent"
+  ],
   "author": {
     "type": "user",
     "handle": "mamawai",
@@ -17,9 +19,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 58,
+    "stars": 62,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-17T07:35:10Z",
+    "last_commit_at": "2026-08-20T07:48:14Z",
     "first_commit_at": "2026-01-20T04:06:03Z",
     "forks": 9,
     "watchers": 0,
@@ -40,10 +42,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.426,
-  "rank_in_category": 74,
+  "composite_score": 0.4304,
+  "rank_in_category": 70,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-23T15:34:49.589633Z",
-  "last_refreshed_at": "2026-08-18T14:08:04.005408Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-08-20T14:10:30.491489Z",
+  "consecutive_refresh_failures": 0
 }

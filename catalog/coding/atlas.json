@@ -1,35 +1,40 @@
 {
   "slug": "atlas",
-  "name": "ATLAS",
-  "tagline": "Adaptive Test-time Learning and Autonomous Specialization",
+  "name": "atlas",
+  "tagline": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
   "category": "coding",
   "tags": [
-    "ai-agent",
-    "ai-harness",
-    "coding-agent",
-    "developer-tools",
-    "local-first"
+    "ai",
+    "ai-coding-assistant",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "git",
+    "gitops",
+    "kilo-code",
+    "mcp",
+    "mcp-client"
   ],
   "author": {
     "type": "user",
-    "handle": "itigges22",
-    "url": "https://github.com/itigges22"
+    "handle": "pacifio",
+    "url": "https://github.com/pacifio"
   },
   "source": {
     "primary": "github",
-    "github": "itigges22/ATLAS",
+    "github": "pacifio/atlas",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://www.tryatlas.cc/"
   },
-  "license": "AGPL-3.0",
+  "license": "MIT",
   "metrics": {
-    "stars": 2077,
+    "stars": 1210,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-17T05:38:56Z",
-    "first_commit_at": "2026-02-01T03:53:54Z",
-    "forks": 185,
-    "watchers": 21,
-    "open_issues": 29,
+    "last_commit_at": "2026-08-19T17:13:53Z",
+    "first_commit_at": "2026-05-14T16:49:14Z",
+    "forks": 217,
+    "watchers": 10,
+    "open_issues": 24,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -41,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.3592,
-  "rank_in_category": 217,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4135,
+  "rank_in_category": 108,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-20T15:11:58.894664Z",
-  "last_refreshed_at": "2026-08-19T13:43:13.052948Z",
+  "first_seen_at": "2026-08-20T13:45:44.527151Z",
+  "last_refreshed_at": "2026-08-20T13:45:44.527155Z",
   "consecutive_refresh_failures": 0
 }
