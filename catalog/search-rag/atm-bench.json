@@ -1,0 +1,60 @@
+{
+  "slug": "atm-bench",
+  "name": "ATM-Bench",
+  "tagline": "ATM-Bench: A benchmark for long-term personalized memory QA spanning ~4 years of multimodal data (images, videos, emails). Features referential queries, evidence-grounded answering, and multi-source r",
+  "category": "search-rag",
+  "tags": [
+    "agentic-memory",
+    "ai-agent",
+    "ai-agents",
+    "benchmark",
+    "long-term-memory",
+    "memory",
+    "memory-agent",
+    "memory-management",
+    "personal-ai",
+    "personal-ai-assistant"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JingbiaoMei",
+    "url": "https://github.com/JingbiaoMei"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JingbiaoMei/ATM-Bench",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 61,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-13T13:14:05Z",
+    "first_commit_at": "2026-03-03T22:52:14Z",
+    "forks": 3,
+    "watchers": 5,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2704,
+  "rank_in_category": 60,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:41:46.157004Z",
+  "last_refreshed_at": "2026-08-21T14:41:46.157008Z",
+  "consecutive_refresh_failures": 0
+}

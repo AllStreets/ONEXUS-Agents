@@ -1,0 +1,60 @@
+{
+  "slug": "ai-novel-writing-assistant",
+  "name": "AI-Novel-Writing-Assistant",
+  "tagline": "面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-d",
+  "category": "content-writing",
+  "tags": [
+    "agent-workflow",
+    "ai",
+    "creative-writing",
+    "long-form-fiction",
+    "narrative-engine",
+    "novel-writing",
+    "rag",
+    "story-generation",
+    "worldbuilding",
+    "writing-assistant"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ExplosiveCoderflome",
+    "url": "https://github.com/ExplosiveCoderflome"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ExplosiveCoderflome/AI-Novel-Writing-Assistant",
+    "huggingface": null,
+    "homepage": "https://explosivecoderflome.github.io/AI-Novel-Writing-Assistant/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2580,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-16T01:04:24Z",
+    "first_commit_at": "2026-03-04T10:03:18Z",
+    "forks": 511,
+    "watchers": 16,
+    "open_issues": 95,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6035,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:40:59.456306Z",
+  "last_refreshed_at": "2026-08-21T14:40:59.456309Z",
+  "consecutive_refresh_failures": 0
+}

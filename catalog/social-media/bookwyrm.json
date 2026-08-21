@@ -1,0 +1,58 @@
+{
+  "slug": "bookwyrm",
+  "name": "bookwyrm",
+  "tagline": "Social reading and reviewing, decentralized with ActivityPub",
+  "category": "social-media",
+  "tags": [
+    "activitypub",
+    "books",
+    "bookwyrm",
+    "decentralization",
+    "federation",
+    "openlibrary",
+    "reading",
+    "social-media"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "bookwyrm-social",
+    "url": "https://github.com/bookwyrm-social"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bookwyrm-social/bookwyrm",
+    "huggingface": null,
+    "homepage": "http://joinbookwyrm.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2769,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T03:48:49Z",
+    "first_commit_at": "2020-01-25T06:32:41Z",
+    "forks": 327,
+    "watchers": 30,
+    "open_issues": 412,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7003,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:35:44.733864Z",
+  "last_refreshed_at": "2026-08-21T14:35:44.733868Z",
+  "consecutive_refresh_failures": 0
+}

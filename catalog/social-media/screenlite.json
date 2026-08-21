@@ -1,0 +1,52 @@
+{
+  "slug": "screenlite",
+  "name": "screenlite",
+  "tagline": "Open-source digital signage software",
+  "category": "social-media",
+  "tags": [
+    "cms",
+    "digital-signage"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "screenlite",
+    "url": "https://github.com/screenlite"
+  },
+  "source": {
+    "primary": "github",
+    "github": "screenlite/screenlite",
+    "huggingface": null,
+    "homepage": "https://screenlite.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 363,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-08T22:53:29Z",
+    "first_commit_at": "2025-05-19T09:54:04Z",
+    "forks": 17,
+    "watchers": 15,
+    "open_issues": 38,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4965,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:38:31.767797Z",
+  "last_refreshed_at": "2026-08-21T14:38:31.767801Z",
+  "consecutive_refresh_failures": 0
+}

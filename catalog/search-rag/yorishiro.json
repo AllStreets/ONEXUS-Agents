@@ -1,0 +1,49 @@
+{
+  "slug": "yorishiro",
+  "name": "yorishiro",
+  "tagline": "Yorishiro: Extract character souls from films/novels, generate SOUL.md for AI roleplay. Dual-layer memory (SOUL.md + RAG), knowledge boundary filtering, split-persona support, MCP-ready. Works with cl",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "swordfeng",
+    "url": "https://github.com/swordfeng"
+  },
+  "source": {
+    "primary": "github",
+    "github": "swordfeng/yorishiro",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-25T04:55:26Z",
+    "first_commit_at": "2026-03-25T09:20:51Z",
+    "forks": 1,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1791,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:47:50.564458Z",
+  "last_refreshed_at": "2026-08-21T14:47:50.564461Z",
+  "consecutive_refresh_failures": 0
+}

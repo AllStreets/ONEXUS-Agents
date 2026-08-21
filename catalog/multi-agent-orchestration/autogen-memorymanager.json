@@ -1,0 +1,56 @@
+{
+  "slug": "autogen-memorymanager",
+  "name": "AutoGen_MemoryManager",
+  "tagline": "This repository demonstrates how a simple memory file can be incorporated into an Agents routine using the AutoGen framework. ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "autogen",
+    "example",
+    "manager",
+    "memory"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Andyinater",
+    "url": "https://github.com/Andyinater"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Andyinater/AutoGen_MemoryManager",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 50,
+    "downloads_30d": null,
+    "last_commit_at": "2023-10-04T02:24:50Z",
+    "first_commit_at": "2023-10-01T00:54:00Z",
+    "forks": 6,
+    "watchers": 5,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "autogen"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.234,
+  "rank_in_category": 207,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:47:40.317467Z",
+  "last_refreshed_at": "2026-08-21T14:47:40.317470Z",
+  "consecutive_refresh_failures": 0
+}

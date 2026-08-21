@@ -1,0 +1,60 @@
+{
+  "slug": "tidgi-desktop",
+  "name": "TidGi-Desktop",
+  "tagline": "TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 Ti",
+  "category": "knowledge-management",
+  "tags": [
+    "all-in-one",
+    "anki",
+    "backlinks",
+    "electron",
+    "evernote",
+    "knowledge-graph",
+    "knowledge-management",
+    "linux",
+    "local-first",
+    "macos"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "tiddly-gittly",
+    "url": "https://github.com/tiddly-gittly"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tiddly-gittly/TidGi-Desktop",
+    "huggingface": null,
+    "homepage": "https://tidgi.fun/"
+  },
+  "license": "MPL-2.0",
+  "metrics": {
+    "stars": 1999,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-18T07:02:37Z",
+    "first_commit_at": "2019-08-30T04:41:23Z",
+    "forks": 116,
+    "watchers": 18,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6423,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:43.916026Z",
+  "last_refreshed_at": "2026-08-21T14:59:43.916030Z",
+  "consecutive_refresh_failures": 0
+}

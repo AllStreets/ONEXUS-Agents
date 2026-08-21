@@ -1,0 +1,59 @@
+{
+  "slug": "deepwiki-rs",
+  "name": "deepwiki-rs",
+  "tagline": "Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.",
+  "category": "knowledge-management",
+  "tags": [
+    "claude",
+    "deepseek",
+    "deepwiki",
+    "llm",
+    "mistral",
+    "openai",
+    "openrouter",
+    "rust",
+    "wiki"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sopaco",
+    "url": "https://github.com/sopaco"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sopaco/deepwiki-rs",
+    "huggingface": null,
+    "homepage": "https://deepwiki.netlify.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1696,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-14T17:03:46Z",
+    "first_commit_at": "2025-09-05T16:38:32Z",
+    "forks": 191,
+    "watchers": 14,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.613,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:48:16.357890Z",
+  "last_refreshed_at": "2026-08-21T14:48:16.357894Z",
+  "consecutive_refresh_failures": 0
+}

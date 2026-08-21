@@ -1,0 +1,54 @@
+{
+  "slug": "dyresearch-obsidian",
+  "name": "dyresearch-obsidian",
+  "tagline": "TypeScript plugin for Obsidian enabling usage of AI Agents with memory.",
+  "category": "knowledge-management",
+  "tags": [
+    "generative-ai",
+    "obsidian-ai",
+    "obsidian-plugin",
+    "obsidian-vault"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "DylanTartarini1996",
+    "url": "https://github.com/DylanTartarini1996"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DylanTartarini1996/dyresearch-obsidian",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T20:42:17Z",
+    "first_commit_at": "2026-05-25T20:29:13Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3093,
+  "rank_in_category": 172,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:24.271920Z",
+  "last_refreshed_at": "2026-08-21T14:59:24.271924Z",
+  "consecutive_refresh_failures": 0
+}

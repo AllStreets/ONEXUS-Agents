@@ -1,0 +1,63 @@
+{
+  "slug": "wander-agent",
+  "name": "wander-agent",
+  "tagline": "Your AI's personal travel agent — 66 tools, zero API keys. Flights (incl. fares airlines hide), hotels, visas, weather, points & miles, via MCP.",
+  "category": "travel-planning",
+  "tags": [
+    "ai-agent",
+    "ai-tools",
+    "anthropic",
+    "claude",
+    "cursor",
+    "flights",
+    "llm-tools",
+    "mcp",
+    "model-context-protocol",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "VirajMishra1",
+    "url": "https://github.com/VirajMishra1"
+  },
+  "source": {
+    "primary": "github",
+    "github": "VirajMishra1/wander-agent",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/wander-agent/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-23T09:36:58Z",
+    "first_commit_at": "2025-03-30T15:48:24Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4993,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:26:36.380563Z",
+  "last_refreshed_at": "2026-08-21T14:26:36.380566Z",
+  "consecutive_refresh_failures": 0
+}

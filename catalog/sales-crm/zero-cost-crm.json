@@ -1,0 +1,60 @@
+{
+  "slug": "zero-cost-crm",
+  "name": "zero-cost-crm",
+  "tagline": "A self-hosted, open-source CRM for small sales teams—pipeline, contacts, follow-ups, activity tracking, lead imports, and optional call recordings.",
+  "category": "sales-crm",
+  "tags": [
+    "contact-management",
+    "crm",
+    "docker",
+    "express",
+    "lead-management",
+    "open-source-crm",
+    "postgresql",
+    "react",
+    "sales-crm",
+    "sales-pipeline"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ConvoBrains",
+    "url": "https://github.com/ConvoBrains"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ConvoBrains/zero-cost-crm",
+    "huggingface": null,
+    "homepage": "https://github.com/ConvoBrains/zero-cost-crm#readme"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-06T00:46:43Z",
+    "first_commit_at": "2026-07-08T14:11:30Z",
+    "forks": 17,
+    "watchers": 1,
+    "open_issues": 29,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4963,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:29:45.833109Z",
+  "last_refreshed_at": "2026-08-21T14:29:45.833112Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "spotify-downloader",
+  "name": "spotify-downloader",
+  "tagline": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+  "category": "music",
+  "tags": [
+    "download-music",
+    "hacktoberfest",
+    "mp3",
+    "music",
+    "playlists",
+    "python",
+    "song",
+    "song-lyrics",
+    "spotdl",
+    "spotdl-cli"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "spotDL",
+    "url": "https://github.com/spotDL"
+  },
+  "source": {
+    "primary": "github",
+    "github": "spotDL/spotify-downloader",
+    "huggingface": null,
+    "homepage": "https://spotdl.readthedocs.io/en/latest/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25843,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-12T04:08:03Z",
+    "first_commit_at": "2016-07-06T18:07:31Z",
+    "forks": 2217,
+    "watchers": 219,
+    "open_issues": 86,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6782,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:46:01.192333Z",
+  "last_refreshed_at": "2026-08-21T14:46:01.192336Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "pocketflow",
+  "name": "PocketFlow",
+  "tagline": "An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.",
+  "category": "data-science-ml",
+  "tags": [
+    "automl",
+    "computer-vision",
+    "deep-learning",
+    "mobile-app",
+    "model-compression"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Tencent",
+    "url": "https://github.com/Tencent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tencent/PocketFlow",
+    "huggingface": null,
+    "homepage": "https://pocketflow.github.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2908,
+    "downloads_30d": null,
+    "last_commit_at": "2023-03-31T22:23:33Z",
+    "first_commit_at": "2018-10-31T12:39:11Z",
+    "forks": 489,
+    "watchers": 141,
+    "open_issues": 75,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2864,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:52:27.800331Z",
+  "last_refreshed_at": "2026-08-21T14:52:27.800335Z",
+  "consecutive_refresh_failures": 0
+}

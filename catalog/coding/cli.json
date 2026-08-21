@@ -1,0 +1,62 @@
+{
+  "slug": "cli",
+  "name": "cli",
+  "tagline": "Open-source AI CLI and local MCP server connecting 25 AI clients—including Claude Code, Cursor, Codex, and ChatGPT—to 2,000+ models and APIs, with OAuth and rollback.",
+  "category": "coding",
+  "tags": [
+    "agent-skills",
+    "agent-tools",
+    "ai-agents",
+    "ai-coding",
+    "ai-gateway",
+    "ai-tools",
+    "chatgpt",
+    "claude-code",
+    "claude-code-skill",
+    "cli"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sandbaseai",
+    "url": "https://github.com/sandbaseai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sandbaseai/cli",
+    "huggingface": null,
+    "homepage": "https://blog.sandbase.ai/sandbase-cli-mcp-bridge-25-ai-clients/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T06:03:07Z",
+    "first_commit_at": "2026-06-26T08:55:59Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3252,
+  "rank_in_category": 301,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:37:18.610540Z",
+  "last_refreshed_at": "2026-08-21T14:37:18.610544Z",
+  "consecutive_refresh_failures": 0
+}

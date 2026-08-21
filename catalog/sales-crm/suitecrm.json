@@ -1,0 +1,57 @@
+{
+  "slug": "suitecrm",
+  "name": "SuiteCRM",
+  "tagline": "SuiteCRM - Solution open source professionnelle de CRM (Customer Relationship Management)",
+  "category": "sales-crm",
+  "tags": [
+    "crm",
+    "customer-relationship-management",
+    "open-source",
+    "php",
+    "phpsources",
+    "sales-crm",
+    "suitecrm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "PHP-Sources",
+    "url": "https://github.com/PHP-Sources"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PHP-Sources/SuiteCRM",
+    "huggingface": null,
+    "homepage": "https://phpsources.net/scripts/php/crm/versions/24_suitecrm"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-09T14:48:47Z",
+    "first_commit_at": "2026-04-09T14:48:20Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2704,
+  "rank_in_category": 92,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:29:56.697342Z",
+  "last_refreshed_at": "2026-08-21T14:29:56.697345Z",
+  "consecutive_refresh_failures": 0
+}

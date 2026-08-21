@@ -1,0 +1,60 @@
+{
+  "slug": "trek",
+  "name": "TREK",
+  "tagline": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+  "category": "travel-planning",
+  "tags": [
+    "budget-tracker",
+    "collaborative",
+    "open-source",
+    "opensource",
+    "packing-list",
+    "poi",
+    "real-time",
+    "routes",
+    "self-hosted",
+    "travel"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "liketrek",
+    "url": "https://github.com/liketrek"
+  },
+  "source": {
+    "primary": "github",
+    "github": "liketrek/TREK",
+    "huggingface": null,
+    "homepage": "https://demo.liketrek.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 12572,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T13:55:33Z",
+    "first_commit_at": "2026-03-18T22:53:12Z",
+    "forks": 1079,
+    "watchers": 38,
+    "open_issues": 92,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7442,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:26:49.167106Z",
+  "last_refreshed_at": "2026-08-21T14:26:49.167109Z",
+  "consecutive_refresh_failures": 0
+}

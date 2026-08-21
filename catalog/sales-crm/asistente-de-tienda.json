@@ -1,0 +1,62 @@
+{
+  "slug": "asistente-de-tienda",
+  "name": "asistente-de-tienda",
+  "tagline": "WhatsApp ecommerce/retail support + sales agent (es-MX), grounded on a real catalog. PRD 3 reference implementation in Rust.",
+  "category": "sales-crm",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "anthropic",
+    "catalog",
+    "claude",
+    "conversational-commerce",
+    "customer-support",
+    "ecommerce",
+    "mexico",
+    "retail"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "creandotumatrix-labs",
+    "url": "https://github.com/creandotumatrix-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "creandotumatrix-labs/asistente-de-tienda",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-19T18:08:36Z",
+    "first_commit_at": "2026-06-30T03:06:45Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4137,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:29:23.568376Z",
+  "last_refreshed_at": "2026-08-21T14:29:23.568379Z",
+  "consecutive_refresh_failures": 0
+}

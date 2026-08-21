@@ -1,0 +1,60 @@
+{
+  "slug": "autoapplycv",
+  "name": "autoapplycv",
+  "tagline": "AutoCVApply - Auto-fill job application forms on any site and draft answers, cover letters, and tailored resumes from the sidebar.",
+  "category": "browser-automation",
+  "tags": [
+    "addon",
+    "addons",
+    "addons-mozilla-org",
+    "ai",
+    "apply",
+    "automation",
+    "chrome-extension",
+    "cv",
+    "firefox-extension",
+    "greenhouse"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tmwclaxton",
+    "url": "https://github.com/tmwclaxton"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tmwclaxton/autoapplycv",
+    "huggingface": null,
+    "homepage": "https://www.autocvapply.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 72,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-03T19:47:49Z",
+    "first_commit_at": "2026-06-20T22:17:06Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2786,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:42:17.398141Z",
+  "last_refreshed_at": "2026-08-21T14:42:17.398144Z",
+  "consecutive_refresh_failures": 0
+}

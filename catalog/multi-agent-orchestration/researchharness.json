@@ -1,0 +1,60 @@
+{
+  "slug": "researchharness",
+  "name": "ResearchHarness",
+  "tagline": "A lightweight, general-purpose harness for tool-using LLM agents, fair benchmark evaluation, harness baselines, and personal assistant workflows.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agent-harness",
+    "assistant",
+    "baseline",
+    "benchmarking",
+    "evaluation",
+    "gemini",
+    "glm",
+    "gpt",
+    "harness"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "InternScience",
+    "url": "https://github.com/InternScience"
+  },
+  "source": {
+    "primary": "github",
+    "github": "InternScience/ResearchHarness",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/spaces/InternScience/ResearchHarness"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 44,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T16:14:33Z",
+    "first_commit_at": "2026-03-31T06:57:52Z",
+    "forks": 16,
+    "watchers": 0,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2972,
+  "rank_in_category": 137,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:48:37.149835Z",
+  "last_refreshed_at": "2026-08-21T14:48:37.149838Z",
+  "consecutive_refresh_failures": 0
+}

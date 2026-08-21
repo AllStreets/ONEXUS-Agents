@@ -1,0 +1,60 @@
+{
+  "slug": "agentpipe",
+  "name": "agentpipe",
+  "tagline": "A CLI/TUI app that orchestrates multi-agent conversations by enabling different AI CLI tools (Claude Code, Gemini, Qwen, etc.) to communicate in shared rooms.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-agents-automation",
+    "ai-agents-cli",
+    "claude-code",
+    "cli-app",
+    "cursor-ai",
+    "factory-ai",
+    "gemini-cli",
+    "grok"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kevinelliott",
+    "url": "https://github.com/kevinelliott"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kevinelliott/agentpipe",
+    "huggingface": null,
+    "homepage": "https://agentpipe.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 147,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-27T20:51:52Z",
+    "first_commit_at": "2025-09-12T02:57:00Z",
+    "forks": 25,
+    "watchers": 2,
+    "open_issues": 15,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3186,
+  "rank_in_category": 118,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:37:30.078055Z",
+  "last_refreshed_at": "2026-08-21T14:37:30.078058Z",
+  "consecutive_refresh_failures": 0
+}

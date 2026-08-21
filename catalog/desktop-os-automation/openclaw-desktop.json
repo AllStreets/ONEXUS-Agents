@@ -1,0 +1,58 @@
+{
+  "slug": "openclaw-desktop",
+  "name": "openClaw-Desktop",
+  "tagline": "AI NPC Desktop Platform built with Tauri + SvelteKit + Ollama",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai-desktop",
+    "desktop-ai",
+    "local-llm",
+    "npc-ai",
+    "ollama",
+    "selfhosted-ai",
+    "sveltekit",
+    "tauri"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "stormixus",
+    "url": "https://github.com/stormixus"
+  },
+  "source": {
+    "primary": "github",
+    "github": "stormixus/openClaw-Desktop",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-15T13:17:14Z",
+    "first_commit_at": "2026-02-05T19:30:05Z",
+    "forks": 5,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1921,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:53:56.051195Z",
+  "last_refreshed_at": "2026-08-21T14:53:56.051198Z",
+  "consecutive_refresh_failures": 0
+}

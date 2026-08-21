@@ -1,0 +1,60 @@
+{
+  "slug": "airbnb-scraper",
+  "name": "airbnb-scraper",
+  "tagline": "Scrape Airbnb listings, prices, host profiles, and ratings for any destination worldwide via a simple REST API. 5,000 free requests/month.",
+  "category": "travel-planning",
+  "tags": [
+    "airbnb",
+    "airbnb-analysis",
+    "airbnb-api",
+    "airbnb-api-scraper",
+    "airbnb-clone",
+    "airbnb-crawler",
+    "airbnb-data",
+    "airbnb-data-extraction",
+    "airbnb-extractor",
+    "airbnb-like-api"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "omkarcloud",
+    "url": "https://github.com/omkarcloud"
+  },
+  "source": {
+    "primary": "github",
+    "github": "omkarcloud/airbnb-scraper",
+    "huggingface": null,
+    "homepage": "https://www.omkar.cloud/tools/airbnb-scraper-api/about"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T10:10:34Z",
+    "first_commit_at": "2026-02-23T12:41:49Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3182,
+  "rank_in_category": 76,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:27:24.445841Z",
+  "last_refreshed_at": "2026-08-21T14:27:24.445844Z",
+  "consecutive_refresh_failures": 0
+}

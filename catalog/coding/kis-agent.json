@@ -1,0 +1,62 @@
+{
+  "slug": "kis-agent",
+  "name": "kis-agent",
+  "tagline": "한국투자증권 OpenAPI Python 래퍼 — CLI · Python SDK · LLM Agent · 실시간 WebSocket. 문서: unohee.github.io/kis-agent",
+  "category": "coding",
+  "tags": [
+    "async",
+    "automated-trading",
+    "cli",
+    "kis-openapi",
+    "korea-investment-securities",
+    "llm-agent",
+    "mcp-server",
+    "mkdocs",
+    "openapi",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "unohee",
+    "url": "https://github.com/unohee"
+  },
+  "source": {
+    "primary": "github",
+    "github": "unohee/kis-agent",
+    "huggingface": null,
+    "homepage": "https://unohee.github.io/kis-agent/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 50,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T04:00:03Z",
+    "first_commit_at": "2026-02-09T07:41:35Z",
+    "forks": 13,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3587,
+  "rank_in_category": 229,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:41:52.460078Z",
+  "last_refreshed_at": "2026-08-21T14:41:52.460082Z",
+  "consecutive_refresh_failures": 0
+}

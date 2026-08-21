@@ -1,0 +1,60 @@
+{
+  "slug": "karpathy-llm-wiki",
+  "name": "karpathy-llm-wiki",
+  "tagline": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting.",
+  "category": "knowledge-management",
+  "tags": [
+    "agent-skill",
+    "claude-code",
+    "codex",
+    "cursor",
+    "karpathy",
+    "knowledge-base",
+    "knowledge-management",
+    "llm",
+    "llm-wiki",
+    "markdown"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Astro-Han",
+    "url": "https://github.com/Astro-Han"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Astro-Han/karpathy-llm-wiki",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1966,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-23T16:57:44Z",
+    "first_commit_at": "2026-04-05T05:37:06Z",
+    "forks": 235,
+    "watchers": 14,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5734,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:44.659442Z",
+  "last_refreshed_at": "2026-08-21T14:59:44.659445Z",
+  "consecutive_refresh_failures": 0
+}

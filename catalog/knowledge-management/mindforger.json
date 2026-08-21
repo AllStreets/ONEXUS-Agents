@@ -1,0 +1,60 @@
+{
+  "slug": "mindforger",
+  "name": "mindforger",
+  "tagline": "Thinking notebook and Markdown editor.",
+  "category": "knowledge-management",
+  "tags": [
+    "debian",
+    "ide",
+    "knowledge",
+    "knowledge-management",
+    "linux",
+    "macos",
+    "markdown",
+    "markdown-editor",
+    "markdown-ide",
+    "notebook"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "dvorka-oss",
+    "url": "https://github.com/dvorka-oss"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dvorka-oss/mindforger",
+    "huggingface": null,
+    "homepage": "https://www.mindforger.com/"
+  },
+  "license": "GPL-2.0",
+  "metrics": {
+    "stars": 2712,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-29T17:34:49Z",
+    "first_commit_at": "2017-12-25T06:02:02Z",
+    "forks": 173,
+    "watchers": 68,
+    "open_issues": 632,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5611,
+  "rank_in_category": 80,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:38.881541Z",
+  "last_refreshed_at": "2026-08-21T14:59:38.881544Z",
+  "consecutive_refresh_failures": 0
+}

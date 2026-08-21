@@ -1,0 +1,59 @@
+{
+  "slug": "compose-for-agents",
+  "name": "compose-for-agents",
+  "tagline": "Build and run AI agents using Docker Compose. A collection of ready-to-use examples for orchestrating open-source LLMs, tools, and agent runtimes.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-workflows",
+    "ai-agents",
+    "docker",
+    "docker-compose",
+    "examples",
+    "large-language-models",
+    "llama-cpp",
+    "openai-gym",
+    "self-hosted"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "docker",
+    "url": "https://github.com/docker"
+  },
+  "source": {
+    "primary": "github",
+    "github": "docker/compose-for-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1024,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T18:15:29Z",
+    "first_commit_at": "2025-05-09T09:22:18Z",
+    "forks": 465,
+    "watchers": 29,
+    "open_issues": 26,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.37,
+  "rank_in_category": 85,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:28:36.053682Z",
+  "last_refreshed_at": "2026-08-21T14:28:36.053685Z",
+  "consecutive_refresh_failures": 0
+}

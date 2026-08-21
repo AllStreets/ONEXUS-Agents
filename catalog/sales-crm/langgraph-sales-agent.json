@@ -1,0 +1,59 @@
+{
+  "slug": "langgraph-sales-agent",
+  "name": "langgraph-sales-agent",
+  "tagline": "Multi-tenant AI sales agent for Telegram, Instagram, WhatsApp & Web. Drop a YAML, get a bot. Built on LangGraph.",
+  "category": "sales-crm",
+  "tags": [
+    "langchain",
+    "langgraph",
+    "langgraph-agents",
+    "langgraph-template",
+    "sales-agent",
+    "sales-automation",
+    "starter-kit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yerdaulet-damir",
+    "url": "https://github.com/yerdaulet-damir"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yerdaulet-damir/langgraph-sales-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 28,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-02T21:01:01Z",
+    "first_commit_at": "2026-02-17T22:14:40Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3953,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:29:10.630944Z",
+  "last_refreshed_at": "2026-08-21T14:29:10.630947Z",
+  "consecutive_refresh_failures": 0
+}

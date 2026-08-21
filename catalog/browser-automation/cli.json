@@ -1,0 +1,49 @@
+{
+  "slug": "cli",
+  "name": "cli",
+  "tagline": "CLI and Agent Skill for Firecrawl - Add scrape, search, and browsing capabilities to your AI agents",
+  "category": "browser-automation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "firecrawl",
+    "url": "https://github.com/firecrawl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "firecrawl/cli",
+    "huggingface": null,
+    "homepage": "http://docs.firecrawl.dev/cli"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 596,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T14:57:41Z",
+    "first_commit_at": "2026-01-02T19:03:49Z",
+    "forks": 94,
+    "watchers": 5,
+    "open_issues": 47,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3821,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:01:06.895798Z",
+  "last_refreshed_at": "2026-08-21T15:01:06.895802Z",
+  "consecutive_refresh_failures": 0
+}

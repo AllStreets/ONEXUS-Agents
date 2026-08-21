@@ -1,0 +1,49 @@
+{
+  "slug": "bsuite",
+  "name": "bsuite",
+  "tagline": "bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent",
+  "category": "scientific-research",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "google-deepmind",
+    "url": "https://github.com/google-deepmind"
+  },
+  "source": {
+    "primary": "github",
+    "github": "google-deepmind/bsuite",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1555,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-06T14:53:23Z",
+    "first_commit_at": "2019-08-08T13:28:18Z",
+    "forks": 187,
+    "watchers": 55,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6314,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:51:40.738831Z",
+  "last_refreshed_at": "2026-08-21T14:51:40.738835Z",
+  "consecutive_refresh_failures": 0
+}

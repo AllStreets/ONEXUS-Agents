@@ -1,0 +1,49 @@
+{
+  "slug": "ros2-navigation-stvl",
+  "name": "ros2_navigation_stvl",
+  "tagline": "ROS2-based navigation and mapping package using Nav2 and STVL plugin.",
+  "category": "robotics",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "mich-pest",
+    "url": "https://github.com/mich-pest"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mich-pest/ros2_navigation_stvl",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 90,
+    "downloads_30d": null,
+    "last_commit_at": "2022-11-11T08:39:31Z",
+    "first_commit_at": "2022-05-17T09:32:44Z",
+    "forks": 8,
+    "watchers": 2,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3734,
+  "rank_in_category": 135,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:58:58.672016Z",
+  "last_refreshed_at": "2026-08-21T14:58:58.672020Z",
+  "consecutive_refresh_failures": 0
+}

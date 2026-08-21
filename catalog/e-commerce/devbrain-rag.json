@@ -1,0 +1,49 @@
+{
+  "slug": "devbrain-rag",
+  "name": "devbrain-rag",
+  "tagline": "该项目有两个版本，第一个RAG，第二个引入agent，目前第二个还在提升效果中，ai-shopping-agent 是一套面向电商场景的 AI 智能导购系统，围绕「意图理解 → 智能咨询 → 决策辅助」三大核心环节构建完整技术链路。系统能够深度理解商品属性与用户购买意图，通过上传非结构化的商品详情与营销文档构建专属知识库，借助 RAG（检索增强生成）技术确保回复的专业性与准确性。",
+  "category": "e-commerce",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "liuqiyang671",
+    "url": "https://github.com/liuqiyang671"
+  },
+  "source": {
+    "primary": "github",
+    "github": "liuqiyang671/devbrain-rag",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-15T11:41:15Z",
+    "first_commit_at": "2026-05-01T08:13:02Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3037,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:40:01.499046Z",
+  "last_refreshed_at": "2026-08-21T14:40:01.499050Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "marketclaw",
+  "name": "MarketClaw",
+  "tagline": "AI-powered marketing agent — manage products, create content, run campaigns through chat 🦀",
+  "category": "marketing",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "anthropic",
+    "chatbot",
+    "claude",
+    "discord-bot",
+    "marketing",
+    "telegram-bot",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "helixdata",
+    "url": "https://github.com/helixdata"
+  },
+  "source": {
+    "primary": "github",
+    "github": "helixdata/MarketClaw",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-05T17:14:51Z",
+    "first_commit_at": "2026-02-21T05:09:07Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4059,
+  "rank_in_category": 78,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:34:19.700557Z",
+  "last_refreshed_at": "2026-08-21T14:34:19.700561Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "tc-light",
+  "name": "TC-Light",
+  "tagline": "[NeurIPS`25] TC-Light: Temporally Coherent Generative Rendering for Realistic World Transfer",
+  "category": "robotics",
+  "tags": [
+    "codebook",
+    "denoise",
+    "embodied-agent",
+    "embodied-ai",
+    "long-video",
+    "neurips-2025",
+    "optimization",
+    "relight",
+    "relighting",
+    "temporal-consistency"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Linketic",
+    "url": "https://github.com/Linketic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Linketic/TC-Light",
+    "huggingface": null,
+    "homepage": "https://dekuliutesla.github.io/tclight/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 94,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-23T03:56:29Z",
+    "first_commit_at": "2024-05-07T13:26:05Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.392,
+  "rank_in_category": 124,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:22.053255Z",
+  "last_refreshed_at": "2026-08-21T14:54:22.053259Z",
+  "consecutive_refresh_failures": 0
+}

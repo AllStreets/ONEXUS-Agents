@@ -1,0 +1,56 @@
+{
+  "slug": "librosa",
+  "name": "librosa",
+  "tagline": "Python library for audio and music analysis",
+  "category": "music",
+  "tags": [
+    "audio",
+    "dsp",
+    "librosa",
+    "music",
+    "python",
+    "scipy"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "librosa",
+    "url": "https://github.com/librosa"
+  },
+  "source": {
+    "primary": "github",
+    "github": "librosa/librosa",
+    "huggingface": null,
+    "homepage": "https://librosa.org/"
+  },
+  "license": "ISC",
+  "metrics": {
+    "stars": 8567,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T14:41:00Z",
+    "first_commit_at": "2012-10-20T14:21:01Z",
+    "forks": 1067,
+    "watchers": 132,
+    "open_issues": 48,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6616,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:46:20.204135Z",
+  "last_refreshed_at": "2026-08-21T14:46:20.204139Z",
+  "consecutive_refresh_failures": 0
+}

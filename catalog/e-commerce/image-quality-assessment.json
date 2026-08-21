@@ -1,0 +1,60 @@
+{
+  "slug": "image-quality-assessment",
+  "name": "image-quality-assessment",
+  "tagline": "Convolutional Neural Networks to predict the aesthetic and technical quality of images.",
+  "category": "e-commerce",
+  "tags": [
+    "aws",
+    "computer-vision",
+    "convolutional-neural-networks",
+    "deep-learning",
+    "e-commerce",
+    "idealo",
+    "image-quality-assessment",
+    "keras",
+    "machine-learning",
+    "mobilenet"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "idealo",
+    "url": "https://github.com/idealo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "idealo/image-quality-assessment",
+    "huggingface": null,
+    "homepage": "https://idealo.github.io/image-quality-assessment/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2243,
+    "downloads_30d": null,
+    "last_commit_at": "2024-07-12T19:16:31Z",
+    "first_commit_at": "2018-06-12T14:48:10Z",
+    "forks": 455,
+    "watchers": 3,
+    "open_issues": 44,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1767,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:39:15.255449Z",
+  "last_refreshed_at": "2026-08-21T14:39:15.255452Z",
+  "consecutive_refresh_failures": 0
+}

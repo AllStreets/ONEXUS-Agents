@@ -1,0 +1,59 @@
+{
+  "slug": "rosa",
+  "name": "rosa",
+  "tagline": "ROSA 🤖 is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.",
+  "category": "robotics",
+  "tags": [
+    "agents",
+    "ai",
+    "developer-tools",
+    "jpl",
+    "llm",
+    "nasa",
+    "robotics",
+    "ros",
+    "ros2"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nasa-jpl",
+    "url": "https://github.com/nasa-jpl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nasa-jpl/rosa",
+    "huggingface": null,
+    "homepage": "https://github.com/nasa-jpl/rosa/wiki"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1615,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-17T17:50:58Z",
+    "first_commit_at": "2024-08-10T03:33:17Z",
+    "forks": 175,
+    "watchers": 33,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.533,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:58:24.830590Z",
+  "last_refreshed_at": "2026-08-21T14:58:24.830593Z",
+  "consecutive_refresh_failures": 0
+}

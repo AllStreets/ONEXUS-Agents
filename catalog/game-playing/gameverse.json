@@ -1,0 +1,54 @@
+{
+  "slug": "gameverse",
+  "name": "GameVerse",
+  "tagline": "[ICML 2026] GameVerse: Can Vision-Language Models Learn from Video-based Reflection?",
+  "category": "game-playing",
+  "tags": [
+    "benchmark",
+    "computer-vision",
+    "game-agent",
+    "vision-language-model"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "THUSI-Lab",
+    "url": "https://github.com/THUSI-Lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "THUSI-Lab/GameVerse",
+    "huggingface": null,
+    "homepage": "https://gameverse-bench.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 52,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-02T05:52:26Z",
+    "first_commit_at": "2026-02-23T07:14:39Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4608,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:49:11.986582Z",
+  "last_refreshed_at": "2026-08-21T14:49:11.986585Z",
+  "consecutive_refresh_failures": 0
+}

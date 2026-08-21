@@ -1,0 +1,57 @@
+{
+  "slug": "genpark-automated-email-marketing-agent-skill",
+  "name": "genpark-automated-email-marketing-agent-skill",
+  "tagline": "Goal-driven email sequence generator & A/B testing agent",
+  "category": "email-scheduling",
+  "tags": [
+    "agentic-workflow",
+    "ai-agents",
+    "autonomous-agents",
+    "genpark",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "alphaparkinc",
+    "url": "https://github.com/alphaparkinc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alphaparkinc/genpark-automated-email-marketing-agent-skill",
+    "huggingface": null,
+    "homepage": "https://genpark.ai/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-24T00:47:14Z",
+    "first_commit_at": "2026-07-24T00:46:00Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4279,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:34:10.385787Z",
+  "last_refreshed_at": "2026-08-21T14:34:10.385790Z",
+  "consecutive_refresh_failures": 0
+}

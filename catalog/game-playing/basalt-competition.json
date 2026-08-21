@@ -1,0 +1,54 @@
+{
+  "slug": "basalt-competition",
+  "name": "basalt-competition",
+  "tagline": "Second place submission in the 2021 MineRL BASALT competition: training Minecraft agents on hard to specify tasks from demonstration, using Inverse soft-Q Learning for Imitation.",
+  "category": "game-playing",
+  "tags": [
+    "imitation-learning",
+    "minerl",
+    "minerl-basalt-competition",
+    "pytorch"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "edmundmills",
+    "url": "https://github.com/edmundmills"
+  },
+  "source": {
+    "primary": "github",
+    "github": "edmundmills/basalt-competition",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2021-12-08T14:41:32Z",
+    "first_commit_at": "2021-08-31T18:30:51Z",
+    "forks": 3,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2991,
+  "rank_in_category": 131,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:52:55.408684Z",
+  "last_refreshed_at": "2026-08-21T14:52:55.408687Z",
+  "consecutive_refresh_failures": 0
+}

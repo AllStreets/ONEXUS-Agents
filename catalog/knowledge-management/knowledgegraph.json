@@ -1,0 +1,55 @@
+{
+  "slug": "knowledgegraph",
+  "name": "KnowledgeGraph",
+  "tagline": "knowledge graph知识图谱,从零开始构建知识图谱",
+  "category": "knowledge-management",
+  "tags": [
+    "knowledge-graph",
+    "knowledge-management",
+    "named-entity-recognition",
+    "question-answering",
+    "relation-extraction"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "myhhub",
+    "url": "https://github.com/myhhub"
+  },
+  "source": {
+    "primary": "github",
+    "github": "myhhub/KnowledgeGraph",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1686,
+    "downloads_30d": null,
+    "last_commit_at": "2023-09-18T07:13:59Z",
+    "first_commit_at": "2019-10-17T07:29:21Z",
+    "forks": 172,
+    "watchers": 35,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4483,
+  "rank_in_category": 126,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:46.226996Z",
+  "last_refreshed_at": "2026-08-21T14:59:46.226999Z",
+  "consecutive_refresh_failures": 0
+}

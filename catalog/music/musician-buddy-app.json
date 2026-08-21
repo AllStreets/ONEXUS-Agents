@@ -1,0 +1,57 @@
+{
+  "slug": "musician-buddy-app",
+  "name": "musician-buddy-app",
+  "tagline": "An AI musician buddy to jam with, write songs together, create weekly practice plans, generate audio tracks & full length songs using Google's APIs for Lyria Pro 3 and Lyria Real-Time AI models.",
+  "category": "music",
+  "tags": [
+    "ai",
+    "lyria-3-pro",
+    "lyria-real-time",
+    "music",
+    "music-agent",
+    "musician-practice",
+    "musician-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "abelcuskelly",
+    "url": "https://github.com/abelcuskelly"
+  },
+  "source": {
+    "primary": "github",
+    "github": "abelcuskelly/musician-buddy-app",
+    "huggingface": null,
+    "homepage": "https://jambud.co/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-05T20:08:22Z",
+    "first_commit_at": "2025-12-26T19:43:19Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2708,
+  "rank_in_category": 101,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:45:53.451979Z",
+  "last_refreshed_at": "2026-08-21T14:45:53.451982Z",
+  "consecutive_refresh_failures": 0
+}

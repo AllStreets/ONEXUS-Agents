@@ -1,0 +1,60 @@
+{
+  "slug": "xiaomusic",
+  "name": "xiaomusic",
+  "tagline": "使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。",
+  "category": "music",
+  "tags": [
+    "docker",
+    "docker-compose",
+    "music",
+    "pdm",
+    "python",
+    "vue",
+    "xiaoai",
+    "xiaoai-speaker",
+    "xiaomi",
+    "xiaomusic"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hanxi",
+    "url": "https://github.com/hanxi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hanxi/xiaomusic",
+    "huggingface": null,
+    "homepage": "http://xdocs.hanxi.cc/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10048,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-09T05:24:33Z",
+    "first_commit_at": "2023-10-14T11:39:59Z",
+    "forks": 1143,
+    "watchers": 25,
+    "open_issues": 105,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2149,
+  "rank_in_category": 118,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:46:15.982270Z",
+  "last_refreshed_at": "2026-08-21T14:46:15.982274Z",
+  "consecutive_refresh_failures": 0
+}

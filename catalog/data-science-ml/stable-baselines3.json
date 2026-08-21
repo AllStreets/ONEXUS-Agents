@@ -1,0 +1,60 @@
+{
+  "slug": "stable-baselines3",
+  "name": "stable-baselines3",
+  "tagline": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
+  "category": "data-science-ml",
+  "tags": [
+    "baselines",
+    "gsde",
+    "gym",
+    "machine-learning",
+    "openai",
+    "python",
+    "pytorch",
+    "reinforcement-learning",
+    "reinforcement-learning-algorithms",
+    "robotics"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "DLR-RM",
+    "url": "https://github.com/DLR-RM"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DLR-RM/stable-baselines3",
+    "huggingface": null,
+    "homepage": "https://stable-baselines3.readthedocs.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13714,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-17T16:40:34Z",
+    "first_commit_at": "2019-09-05T11:26:14Z",
+    "forks": 2172,
+    "watchers": 66,
+    "open_issues": 86,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4414,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:52:14.640412Z",
+  "last_refreshed_at": "2026-08-21T14:52:14.640416Z",
+  "consecutive_refresh_failures": 0
+}

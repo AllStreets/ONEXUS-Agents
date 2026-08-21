@@ -1,0 +1,60 @@
+{
+  "slug": "alexandrie",
+  "name": "Alexandrie",
+  "tagline": "📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.",
+  "category": "knowledge-management",
+  "tags": [
+    "docker",
+    "golang",
+    "kanban",
+    "knowledge-base",
+    "knowledge-management",
+    "markdown",
+    "note-taking",
+    "notes",
+    "notes-app",
+    "notion"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Smaug6739",
+    "url": "https://github.com/Smaug6739"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Smaug6739/Alexandrie",
+    "huggingface": null,
+    "homepage": "https://alexandrie-hub.fr/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2345,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T14:30:27Z",
+    "first_commit_at": "2023-10-30T21:24:03Z",
+    "forks": 153,
+    "watchers": 12,
+    "open_issues": 27,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6527,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:41.407130Z",
+  "last_refreshed_at": "2026-08-21T14:59:41.407133Z",
+  "consecutive_refresh_failures": 0
+}

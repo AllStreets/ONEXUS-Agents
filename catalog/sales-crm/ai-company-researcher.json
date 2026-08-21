@@ -1,0 +1,56 @@
+{
+  "slug": "ai-company-researcher",
+  "name": "ai-company-researcher",
+  "tagline": "An AI agent that automates company research and lead prospecting (powered by langgraph and firecrawl)",
+  "category": "sales-crm",
+  "tags": [
+    "agents",
+    "ai",
+    "marketing",
+    "sales"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mayooear",
+    "url": "https://github.com/mayooear"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mayooear/ai-company-researcher",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 214,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-27T16:06:32Z",
+    "first_commit_at": "2025-01-21T15:35:41Z",
+    "forks": 41,
+    "watchers": 4,
+    "open_issues": 0,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1915,
+  "rank_in_category": 111,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:36:25.828441Z",
+  "last_refreshed_at": "2026-08-21T14:36:25.828444Z",
+  "consecutive_refresh_failures": 0
+}

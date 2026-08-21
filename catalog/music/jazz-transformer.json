@@ -1,0 +1,55 @@
+{
+  "slug": "jazz-transformer",
+  "name": "jazz_transformer",
+  "tagline": "Transformer-XL for Jazz music composition. Paper: \"The Jazz Transformer on the Front Line: Exploring the Shortcomings of AI-Composed Music through Quantitative Measures\", ISMIR 2020",
+  "category": "music",
+  "tags": [
+    "ai-music",
+    "jazz",
+    "python3",
+    "tensorflow",
+    "transformer"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "slSeanWU",
+    "url": "https://github.com/slSeanWU"
+  },
+  "source": {
+    "primary": "github",
+    "github": "slSeanWU/jazz_transformer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 135,
+    "downloads_30d": null,
+    "last_commit_at": "2023-03-25T00:48:55Z",
+    "first_commit_at": "2020-07-22T16:34:58Z",
+    "forks": 14,
+    "watchers": 3,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3167,
+  "rank_in_category": 79,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:47:07.778903Z",
+  "last_refreshed_at": "2026-08-21T14:47:07.778906Z",
+  "consecutive_refresh_failures": 0
+}

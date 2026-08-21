@@ -1,0 +1,62 @@
+{
+  "slug": "resonant",
+  "name": "Resonant",
+  "tagline": "Free, local AI music studio for Windows—generate songs, play instruments, arrange, mix, export WAV, and connect Codex or Claude through MCP.",
+  "category": "music",
+  "tags": [
+    "ace-step",
+    "ai-music",
+    "digital-audio-workstation",
+    "electron",
+    "generative-music",
+    "mcp",
+    "model-context-protocol",
+    "music-production",
+    "open-source",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "calesthio",
+    "url": "https://github.com/calesthio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "calesthio/Resonant",
+    "huggingface": null,
+    "homepage": "https://github.com/calesthio/Resonant/releases/latest"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 114,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-07T09:04:21Z",
+    "first_commit_at": "2026-08-02T11:36:39Z",
+    "forks": 16,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5184,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:47:13.668818Z",
+  "last_refreshed_at": "2026-08-21T14:47:13.668821Z",
+  "consecutive_refresh_failures": 0
+}

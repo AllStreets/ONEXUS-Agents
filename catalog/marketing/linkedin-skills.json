@@ -1,0 +1,62 @@
+{
+  "slug": "linkedin-skills",
+  "name": "linkedin-skills",
+  "tagline": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your ",
+  "category": "marketing",
+  "tags": [
+    "agent-skill",
+    "agent-skills",
+    "ai-agents",
+    "ai-content",
+    "ai-marketing",
+    "anthropic",
+    "awesome-claude",
+    "claude-code",
+    "claude-skills",
+    "content-creation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sergebulaev",
+    "url": "https://github.com/sergebulaev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sergebulaev/linkedin-skills",
+    "huggingface": null,
+    "homepage": "https://cccrafts.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 578,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T14:22:20Z",
+    "first_commit_at": "2026-04-14T16:29:07Z",
+    "forks": 90,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5996,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:33:38.322087Z",
+  "last_refreshed_at": "2026-08-21T14:33:38.322090Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "redink",
+  "name": "RedInk",
+  "tagline": "Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, \"One Sentence, One Image: Generate Xiaohongshu Text and Images.\"",
+  "category": "social-media",
+  "tags": [
+    "ai",
+    "aigc",
+    "content-generator",
+    "docker",
+    "flask",
+    "gemini",
+    "nano-banana-pro",
+    "python",
+    "social-media",
+    "text-to-image"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "HisMax",
+    "url": "https://github.com/HisMax"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HisMax/RedInk",
+    "huggingface": null,
+    "homepage": "https://redink.top/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 5474,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-30T14:28:30Z",
+    "first_commit_at": "2025-11-25T10:12:26Z",
+    "forks": 1031,
+    "watchers": 23,
+    "open_issues": 20,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6305,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:35:37.292508Z",
+  "last_refreshed_at": "2026-08-21T14:35:37.292511Z",
+  "consecutive_refresh_failures": 0
+}

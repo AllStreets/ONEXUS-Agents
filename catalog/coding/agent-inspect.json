@@ -1,0 +1,63 @@
+{
+  "slug": "agent-inspect",
+  "name": "agent-inspect",
+  "tagline": "Local execution trees for TypeScript AI agents.  agent-inspect helps you understand what happened inside an AI agent run — locally. It turns manual steps, tool calls, LLM calls, structured logs, failu",
+  "category": "coding",
+  "tags": [
+    "ai-agents",
+    "cli",
+    "debugging",
+    "devtools",
+    "evidence",
+    "jsonl",
+    "langchain",
+    "langgraph",
+    "local-first",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rajudandigam",
+    "url": "https://github.com/rajudandigam"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rajudandigam/agent-inspect",
+    "huggingface": null,
+    "homepage": "https://agentinspect.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 343,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-16T21:43:36Z",
+    "first_commit_at": "2026-05-02T06:10:47Z",
+    "forks": 92,
+    "watchers": 70,
+    "open_issues": 37,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3908,
+  "rank_in_category": 149,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:41:15.457517Z",
+  "last_refreshed_at": "2026-08-21T14:41:15.457520Z",
+  "consecutive_refresh_failures": 0
+}

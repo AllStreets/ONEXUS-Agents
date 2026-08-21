@@ -1,0 +1,62 @@
+{
+  "slug": "music-to-midi",
+  "name": "music-to-midi",
+  "tagline": "音乐转MIDI转换器 - Convert audio to multi-track MIDI with lyrics embedding",
+  "category": "music",
+  "tags": [
+    "ai-music",
+    "audio-to-midi",
+    "automatic-music-transcription",
+    "colab",
+    "gradio",
+    "midi",
+    "music-transcription",
+    "pyqt6",
+    "python",
+    "source-separation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mason369",
+    "url": "https://github.com/mason369"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mason369/music-to-midi",
+    "huggingface": null,
+    "homepage": "https://telknet.cc/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 114,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-09T21:49:00Z",
+    "first_commit_at": "2026-01-24T07:52:03Z",
+    "forks": 14,
+    "watchers": 1,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "gradio"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4834,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:47:12.789524Z",
+  "last_refreshed_at": "2026-08-21T14:47:12.789528Z",
+  "consecutive_refresh_failures": 0
+}

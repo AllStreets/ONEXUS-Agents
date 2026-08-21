@@ -1,0 +1,58 @@
+{
+  "slug": "ptcgdeckagent",
+  "name": "PtcgDeckAgent",
+  "tagline": "A local PTCG practice and rules-simulation project built with Godot 4.6 and GDScript.",
+  "category": "game-playing",
+  "tags": [
+    "ai-game-development",
+    "boardgame",
+    "game",
+    "game-agent",
+    "godot",
+    "godot-game",
+    "ptcg",
+    "tcg"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "beralee",
+    "url": "https://github.com/beralee"
+  },
+  "source": {
+    "primary": "github",
+    "github": "beralee/PtcgDeckAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 47,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-09T13:22:22Z",
+    "first_commit_at": "2026-03-21T13:43:33Z",
+    "forks": 11,
+    "watchers": 0,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5196,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:49:12.932102Z",
+  "last_refreshed_at": "2026-08-21T14:49:12.932106Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "rlcard",
+  "name": "rlcard",
+  "tagline": "Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.",
+  "category": "game-playing",
+  "tags": [
+    "ai",
+    "blackjack",
+    "card-game",
+    "card-games",
+    "deep-reinforcement-learning",
+    "doudizhu",
+    "game",
+    "game-ai",
+    "game-bot",
+    "gym-environment"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "datamllab",
+    "url": "https://github.com/datamllab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "datamllab/rlcard",
+    "huggingface": null,
+    "homepage": "http://www.rlcard.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3542,
+    "downloads_30d": null,
+    "last_commit_at": "2024-06-26T23:01:52Z",
+    "first_commit_at": "2019-06-05T02:21:36Z",
+    "forks": 751,
+    "watchers": 77,
+    "open_issues": 80,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5357,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:50:47.109494Z",
+  "last_refreshed_at": "2026-08-21T14:50:47.109497Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "journeypilot",
+  "name": "JourneyPilot",
+  "tagline": "Open-source AI travel planning workspace for evidence-backed itineraries, maps, reports, and printable PDFs.",
+  "category": "travel-planning",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "langgraph",
+    "open-source",
+    "python",
+    "rag",
+    "travel-planning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Dreamaker-TA",
+    "url": "https://github.com/Dreamaker-TA"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Dreamaker-TA/JourneyPilot",
+    "huggingface": null,
+    "homepage": "https://imlagom.com/journeypilot/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T08:41:33Z",
+    "first_commit_at": "2026-08-09T05:01:18Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4442,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:27:27.415225Z",
+  "last_refreshed_at": "2026-08-21T14:27:27.415228Z",
+  "consecutive_refresh_failures": 0
+}

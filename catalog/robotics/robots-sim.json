@@ -1,0 +1,60 @@
+{
+  "slug": "robots-sim",
+  "name": "robots-sim",
+  "tagline": "Simulated environments for robot agent evaluation and reinforcement learning.",
+  "category": "robotics",
+  "tags": [
+    "agentic",
+    "agentic-ai",
+    "ai",
+    "genai",
+    "machine-learning",
+    "python",
+    "robots",
+    "simulation",
+    "strands-agents",
+    "strands-labs"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "strands-labs",
+    "url": "https://github.com/strands-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "strands-labs/robots-sim",
+    "huggingface": null,
+    "homepage": "https://strands-labs.github.io/robots-sim/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 34,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-06T01:33:11Z",
+    "first_commit_at": "2026-02-20T23:32:08Z",
+    "forks": 10,
+    "watchers": 4,
+    "open_issues": 3,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1791,
+  "rank_in_category": 191,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:55:34.011742Z",
+  "last_refreshed_at": "2026-08-21T14:55:34.011745Z",
+  "consecutive_refresh_failures": 0
+}

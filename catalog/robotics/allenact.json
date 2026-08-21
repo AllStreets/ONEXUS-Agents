@@ -1,0 +1,58 @@
+{
+  "slug": "allenact",
+  "name": "allenact",
+  "tagline": "An open source framework for research in Embodied-AI from AI2.",
+  "category": "robotics",
+  "tags": [
+    "ai",
+    "ai2",
+    "computer-vision",
+    "deep-learning",
+    "embodied-agent",
+    "python",
+    "reinforcement-learning",
+    "research"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "allenai",
+    "url": "https://github.com/allenai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "allenai/allenact",
+    "huggingface": null,
+    "homepage": "https://www.allenact.org/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 382,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-19T14:51:49Z",
+    "first_commit_at": "2020-01-14T21:58:31Z",
+    "forks": 59,
+    "watchers": 7,
+    "open_issues": 58,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5192,
+  "rank_in_category": 60,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:06.748666Z",
+  "last_refreshed_at": "2026-08-21T14:54:06.748669Z",
+  "consecutive_refresh_failures": 0
+}

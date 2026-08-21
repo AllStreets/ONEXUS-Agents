@@ -1,0 +1,55 @@
+{
+  "slug": "phyagentos-core",
+  "name": "PhyAgentOS-core",
+  "tagline": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
+  "category": "game-playing",
+  "tags": [
+    "agent",
+    "claw",
+    "embodied-agent",
+    "embodied-ai",
+    "harness"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "PhyAgentOS",
+    "url": "https://github.com/PhyAgentOS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PhyAgentOS/PhyAgentOS-core",
+    "huggingface": null,
+    "homepage": "https://phy-agent-os.net/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1744,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T11:37:48Z",
+    "first_commit_at": "2026-03-12T05:12:10Z",
+    "forks": 106,
+    "watchers": 23,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6563,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:50:53.510314Z",
+  "last_refreshed_at": "2026-08-21T14:50:53.510318Z",
+  "consecutive_refresh_failures": 0
+}

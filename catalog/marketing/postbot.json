@@ -1,0 +1,60 @@
+{
+  "slug": "postbot",
+  "name": "postbot",
+  "tagline": "PostBot 内容同步助手 一款开源的多平台内容同步分发生产力工具。 支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。覆盖微信/微博/今日头条/小红书/知乎/百家号/企鹅号/视频号/抖音/快手/哔哩哔哩（B站）等国内主流媒体平台，可轻松扩展兼容 X（Twitter）、Facebook、Instagram、TikTok、YouTube、LinkedIn 等国际媒体平台。",
+  "category": "marketing",
+  "tags": [
+    "article",
+    "audio",
+    "automation",
+    "blog",
+    "cms",
+    "content",
+    "html",
+    "image-text",
+    "markdown",
+    "marketing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "gitcoffee-os",
+    "url": "https://github.com/gitcoffee-os"
+  },
+  "source": {
+    "primary": "github",
+    "github": "gitcoffee-os/postbot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1265,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-30T15:58:33Z",
+    "first_commit_at": "2025-05-30T16:05:36Z",
+    "forks": 170,
+    "watchers": 6,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6131,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:33:01.660387Z",
+  "last_refreshed_at": "2026-08-21T14:33:01.660390Z",
+  "consecutive_refresh_failures": 0
+}

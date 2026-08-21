@@ -1,0 +1,62 @@
+{
+  "slug": "nosia",
+  "name": "nosia",
+  "tagline": "Self-hosted AI RAG + MCP Platform",
+  "category": "search-rag",
+  "tags": [
+    "ai",
+    "all-in-one",
+    "docker",
+    "embedding",
+    "llm",
+    "mcp",
+    "rag",
+    "ruby",
+    "ruby-on-rails",
+    "shell"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "dilolabs",
+    "url": "https://github.com/dilolabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dilolabs/nosia",
+    "huggingface": null,
+    "homepage": "https://hub.docker.com/r/dilolabs/nosia"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 212,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-09T07:15:34Z",
+    "first_commit_at": "2024-06-04T19:41:56Z",
+    "forks": 19,
+    "watchers": 2,
+    "open_issues": 23,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4148,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:38:39.807286Z",
+  "last_refreshed_at": "2026-08-21T14:38:39.807289Z",
+  "consecutive_refresh_failures": 0
+}

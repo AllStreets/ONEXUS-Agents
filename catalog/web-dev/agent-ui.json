@@ -1,0 +1,55 @@
+{
+  "slug": "agent-ui",
+  "name": "agent-ui",
+  "tagline": "A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript. ",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "agno",
+    "ai",
+    "chat",
+    "self-hosted"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agno-agi",
+    "url": "https://github.com/agno-agi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agno-agi/agent-ui",
+    "huggingface": null,
+    "homepage": "https://agno-agent-ui.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1825,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-08T11:37:00Z",
+    "first_commit_at": "2025-02-03T11:23:46Z",
+    "forks": 380,
+    "watchers": 12,
+    "open_issues": 24,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.352,
+  "rank_in_category": 196,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:00:55.261905Z",
+  "last_refreshed_at": "2026-08-21T15:00:55.261909Z",
+  "consecutive_refresh_failures": 0
+}

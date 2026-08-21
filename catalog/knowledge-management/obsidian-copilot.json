@@ -1,0 +1,55 @@
+{
+  "slug": "obsidian-copilot",
+  "name": "obsidian-copilot",
+  "tagline": "THE Copilot in Obsidian",
+  "category": "knowledge-management",
+  "tags": [
+    "ai",
+    "aiagent",
+    "chatgpt",
+    "copilot",
+    "obsidian-plugin"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "logancyang",
+    "url": "https://github.com/logancyang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "logancyang/obsidian-copilot",
+    "huggingface": null,
+    "homepage": "https://www.obsidiancopilot.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 7606,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T12:31:12Z",
+    "first_commit_at": "2023-03-31T00:15:32Z",
+    "forks": 719,
+    "watchers": 40,
+    "open_issues": 86,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.687,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:01:32.400150Z",
+  "last_refreshed_at": "2026-08-21T15:01:32.400153Z",
+  "consecutive_refresh_failures": 0
+}

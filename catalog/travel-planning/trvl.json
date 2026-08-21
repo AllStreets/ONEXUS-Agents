@@ -1,0 +1,62 @@
+{
+  "slug": "trvl",
+  "name": "trvl",
+  "tagline": "Travel MCP server + CLI for AI assistants — flights, hotels, trains, cars, ferries, price alerts. No API keys, single Go binary. 1 smart MCP tool + 66 aliases (98.9% smaller tools/list). Works with Cl",
+  "category": "travel-planning",
+  "tags": [
+    "ai-agent",
+    "claude",
+    "cli",
+    "cursor",
+    "flight-search",
+    "flights",
+    "golang",
+    "google-flights",
+    "google-hotels",
+    "hotel-search"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MikkoParkkola",
+    "url": "https://github.com/MikkoParkkola"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MikkoParkkola/trvl",
+    "huggingface": null,
+    "homepage": "https://mikkoparkkola.github.io/trvl/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 64,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T06:46:56Z",
+    "first_commit_at": "2026-04-02T10:18:49Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6098,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:26:31.490618Z",
+  "last_refreshed_at": "2026-08-21T14:26:31.490621Z",
+  "consecutive_refresh_failures": 0
+}

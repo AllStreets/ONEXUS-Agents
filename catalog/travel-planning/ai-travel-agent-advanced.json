@@ -1,0 +1,51 @@
+{
+  "slug": "ai-travel-agent-advanced",
+  "name": "AI-Travel-Agent-Advanced",
+  "tagline": "AI Travel Planner using CrewAI multi-agents with Google Gemini. Features destination analysis, local expert insights, and complete itinerary creation. Uses web search for real-time data on weather, fl",
+  "category": "travel-planning",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "naakaarafr",
+    "url": "https://github.com/naakaarafr"
+  },
+  "source": {
+    "primary": "github",
+    "github": "naakaarafr/AI-Travel-Agent-Advanced",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-31T04:13:39Z",
+    "first_commit_at": "2025-05-30T11:31:51Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "crewai"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.329,
+  "rank_in_category": 74,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:28:25.098564Z",
+  "last_refreshed_at": "2026-08-21T14:28:25.098567Z",
+  "consecutive_refresh_failures": 0
+}

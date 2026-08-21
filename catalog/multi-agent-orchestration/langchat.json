@@ -1,0 +1,51 @@
+{
+  "slug": "langchat",
+  "name": "langchat",
+  "tagline": "A sandbox for showcasing different use cases of LangChain's createAgent",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "christian-bromann",
+    "url": "https://github.com/christian-bromann"
+  },
+  "source": {
+    "primary": "github",
+    "github": "christian-bromann/langchat",
+    "huggingface": null,
+    "homepage": "https://langchat.bromann.dev/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 77,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-11T21:37:59Z",
+    "first_commit_at": "2025-10-31T00:12:49Z",
+    "forks": 24,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2537,
+  "rank_in_category": 179,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:37:51.428579Z",
+  "last_refreshed_at": "2026-08-21T14:37:51.428582Z",
+  "consecutive_refresh_failures": 0
+}

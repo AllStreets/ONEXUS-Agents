@@ -1,0 +1,49 @@
+{
+  "slug": "fastgateway",
+  "name": "FastGateway",
+  "tagline": "FastGateway 一个超级简单方便的网关，基于Kestrel+Yarp实现的网关。 支持动态配置路由，支持动态配置集群，支持动态配置HTTPS证书，无需重启即可使用。",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "239573049",
+    "url": "https://github.com/239573049"
+  },
+  "source": {
+    "primary": "github",
+    "github": "239573049/FastGateway",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 171,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T16:55:29Z",
+    "first_commit_at": "2024-07-21T17:44:43Z",
+    "forks": 36,
+    "watchers": 4,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.52,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:31:57.715531Z",
+  "last_refreshed_at": "2026-08-21T14:31:57.715534Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "embodiedbench",
+  "name": "EmbodiedBench",
+  "tagline": "[ICML 2025 Oral] Official repo of EmbodiedBench,  a comprehensive benchmark designed to evaluate MLLMs as embodied agents.",
+  "category": "robotics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "EmbodiedBench",
+    "url": "https://github.com/EmbodiedBench"
+  },
+  "source": {
+    "primary": "github",
+    "github": "EmbodiedBench/EmbodiedBench",
+    "huggingface": null,
+    "homepage": "https://embodiedbench.github.io/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 332,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-30T22:29:38Z",
+    "first_commit_at": "2025-02-12T08:44:35Z",
+    "forks": 40,
+    "watchers": 4,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5093,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:56:50.290429Z",
+  "last_refreshed_at": "2026-08-21T14:56:50.290433Z",
+  "consecutive_refresh_failures": 0
+}

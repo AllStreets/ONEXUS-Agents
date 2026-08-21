@@ -1,0 +1,60 @@
+{
+  "slug": "esphomedesigner",
+  "name": "ESPHomeDesigner",
+  "tagline": "A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app.",
+  "category": "web-dev",
+  "tags": [
+    "custom-component",
+    "dashboard",
+    "editor",
+    "eink",
+    "esp32",
+    "esphome",
+    "esphome-lvgl-designer",
+    "hacs",
+    "hacs-integration",
+    "home-automation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "koosoli",
+    "url": "https://github.com/koosoli"
+  },
+  "source": {
+    "primary": "github",
+    "github": "koosoli/ESPHomeDesigner",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 1052,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-15T17:39:06Z",
+    "first_commit_at": "2025-11-12T10:03:32Z",
+    "forks": 67,
+    "watchers": 15,
+    "open_issues": 51,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.53,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:38:21.982335Z",
+  "last_refreshed_at": "2026-08-21T14:38:21.982339Z",
+  "consecutive_refresh_failures": 0
+}

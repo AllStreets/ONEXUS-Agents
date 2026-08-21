@@ -1,0 +1,58 @@
+{
+  "slug": "ecg-map",
+  "name": "ecg-map",
+  "tagline": "Interactive map and trip planner for the ECGA",
+  "category": "travel-planning",
+  "tags": [
+    "bicycling",
+    "carto",
+    "greeninfo-network",
+    "greenway",
+    "leaflet",
+    "react",
+    "recreation",
+    "trip-planner"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "EastCoastGreenwayAlliance",
+    "url": "https://github.com/EastCoastGreenwayAlliance"
+  },
+  "source": {
+    "primary": "github",
+    "github": "EastCoastGreenwayAlliance/ecg-map",
+    "huggingface": null,
+    "homepage": "https://map.greenway.org/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-02T19:00:37Z",
+    "first_commit_at": "2017-05-04T22:10:22Z",
+    "forks": 0,
+    "watchers": 3,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.318,
+  "rank_in_category": 77,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:27:05.602333Z",
+  "last_refreshed_at": "2026-08-21T14:27:05.602336Z",
+  "consecutive_refresh_failures": 0
+}

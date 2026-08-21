@@ -1,0 +1,60 @@
+{
+  "slug": "last30days-skill",
+  "name": "last30days-skill",
+  "tagline": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "category": "social-media",
+  "tags": [
+    "ai-prompts",
+    "ai-skill",
+    "bluesky",
+    "claude",
+    "claude-code",
+    "clawhub",
+    "deep-research",
+    "hackernews",
+    "instagram",
+    "openclaw"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mvanhorn",
+    "url": "https://github.com/mvanhorn"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mvanhorn/last30days-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 58867,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T07:31:53Z",
+    "first_commit_at": "2026-01-23T20:37:31Z",
+    "forks": 5141,
+    "watchers": 214,
+    "open_issues": 147,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7569,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:35:31.193407Z",
+  "last_refreshed_at": "2026-08-21T14:35:31.193411Z",
+  "consecutive_refresh_failures": 0
+}

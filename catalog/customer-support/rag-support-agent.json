@@ -1,0 +1,60 @@
+{
+  "slug": "rag-support-agent",
+  "name": "Rag-support-agent",
+  "tagline": "Hybrid-search RAG agent that answers questions from a business's own docs (PDF/DOCX/CSV/TXT) with source citations. BM25 + vector search + reranking, eval-scored (100% recall@3), domain-agnostic. Buil",
+  "category": "customer-support",
+  "tags": [
+    "ai-agent",
+    "bm25",
+    "chatbot",
+    "chromadb",
+    "document-qa",
+    "fastapi",
+    "hybrid-search",
+    "information-retrieval",
+    "llm",
+    "nlp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "TajwarHussain",
+    "url": "https://github.com/TajwarHussain"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TajwarHussain/Rag-support-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-19T10:43:27Z",
+    "first_commit_at": "2026-08-19T10:40:40Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3868,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:14:43.459891Z",
+  "last_refreshed_at": "2026-08-21T14:14:43.459894Z",
+  "consecutive_refresh_failures": 0
+}

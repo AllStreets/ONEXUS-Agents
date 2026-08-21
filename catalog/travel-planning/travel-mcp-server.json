@@ -1,0 +1,63 @@
+{
+  "slug": "travel-mcp-server",
+  "name": "travel-mcp-server",
+  "tagline": "Model Context Protocol server for travel aggregation. Search flights and hotels, track flights in real-time, and find the best travel dates using Amadeus and AviationStack APIs.",
+  "category": "travel-planning",
+  "tags": [
+    "ai",
+    "amadeus",
+    "anthropic",
+    "api-integration",
+    "async-python",
+    "aviationstack",
+    "claude",
+    "claude-desktop",
+    "flight-search",
+    "flight-tracking"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Spoofkapoof",
+    "url": "https://github.com/Spoofkapoof"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Spoofkapoof/travel-mcp-server",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-26T12:03:24Z",
+    "first_commit_at": "2025-11-04T10:34:09Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.445,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:27:26.607161Z",
+  "last_refreshed_at": "2026-08-21T14:27:26.607164Z",
+  "consecutive_refresh_failures": 0
+}

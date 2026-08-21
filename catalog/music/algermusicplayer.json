@@ -1,0 +1,53 @@
+{
+  "slug": "algermusicplayer",
+  "name": "AlgerMusicPlayer",
+  "tagline": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
+  "category": "music",
+  "tags": [
+    "alger",
+    "music",
+    "music-player"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "algerkong",
+    "url": "https://github.com/algerkong"
+  },
+  "source": {
+    "primary": "github",
+    "github": "algerkong/AlgerMusicPlayer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 16475,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-01T14:35:09Z",
+    "first_commit_at": "2021-07-19T09:36:48Z",
+    "forks": 1334,
+    "watchers": 54,
+    "open_issues": 217,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6487,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:46:05.477837Z",
+  "last_refreshed_at": "2026-08-21T14:46:05.477840Z",
+  "consecutive_refresh_failures": 0
+}

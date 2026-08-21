@@ -1,0 +1,62 @@
+{
+  "slug": "leadace",
+  "name": "leadace",
+  "tagline": "AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own inbox, and learns from every rejection. Self-hostable (Cloudflare + Supabase).",
+  "category": "sales-crm",
+  "tags": [
+    "ai-agent",
+    "ai-sdr",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-skills",
+    "cloudflare-workers",
+    "cold-email",
+    "lead-generation",
+    "mcp",
+    "outbound-sales"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aitit-inc",
+    "url": "https://github.com/aitit-inc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aitit-inc/leadace",
+    "huggingface": null,
+    "homepage": "https://leadace.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T16:04:47Z",
+    "first_commit_at": "2026-05-28T16:49:46Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4673,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:29:18.605926Z",
+  "last_refreshed_at": "2026-08-21T14:29:18.605929Z",
+  "consecutive_refresh_failures": 0
+}

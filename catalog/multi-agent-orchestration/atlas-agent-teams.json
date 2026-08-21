@@ -1,0 +1,49 @@
+{
+  "slug": "atlas-agent-teams",
+  "name": "Atlas-Agent-Teams",
+  "tagline": "Agent team plugins for Claude Code - pre-configured teams of specialized agents that collaborate on complex tasks",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "MonumentalSystems",
+    "url": "https://github.com/MonumentalSystems"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MonumentalSystems/Atlas-Agent-Teams",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-11T17:41:50Z",
+    "first_commit_at": "2026-02-06T03:11:37Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.303,
+  "rank_in_category": 130,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:37:39.373097Z",
+  "last_refreshed_at": "2026-08-21T14:37:39.373101Z",
+  "consecutive_refresh_failures": 0
+}

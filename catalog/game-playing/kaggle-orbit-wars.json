@@ -1,29 +1,37 @@
 {
   "slug": "kaggle-orbit-wars",
   "name": "kaggle-orbit-wars",
-  "tagline": "An RL library for the Kaggle 2026 Orbit Wars competition",
+  "tagline": "Kaggle Orbit Wars evaluation toolkit and competition retrospective with deterministic matches, replay analysis, and safe agent packaging.",
   "category": "game-playing",
-  "tags": [],
+  "tags": [
+    "evaluation",
+    "game-agent",
+    "kaggle",
+    "orbit-wars",
+    "python",
+    "replay-analysis",
+    "simulation"
+  ],
   "author": {
     "type": "user",
-    "handle": "IsaiahPressman",
-    "url": "https://github.com/IsaiahPressman"
+    "handle": "galaxywk223",
+    "url": "https://github.com/galaxywk223"
   },
   "source": {
     "primary": "github",
-    "github": "IsaiahPressman/kaggle-orbit-wars",
+    "github": "galaxywk223/kaggle-orbit-wars",
     "huggingface": null,
     "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 52,
+    "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-21T16:28:52Z",
-    "first_commit_at": "2026-04-20T02:43:04Z",
-    "forks": 14,
+    "last_commit_at": "2026-07-31T07:16:22Z",
+    "first_commit_at": "2026-07-31T07:14:05Z",
+    "forks": 0,
     "watchers": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +48,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3802,
-  "rank_in_category": 3,
+  "composite_score": 0.3612,
+  "rank_in_category": 93,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-27T14:45:52.537555Z",
-  "last_refreshed_at": "2026-08-20T14:06:36.959431Z",
+  "first_seen_at": "2026-08-21T14:49:22.832635Z",
+  "last_refreshed_at": "2026-08-21T14:49:22.832638Z",
   "consecutive_refresh_failures": 0
 }

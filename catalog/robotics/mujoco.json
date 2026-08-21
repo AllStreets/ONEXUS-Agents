@@ -1,0 +1,53 @@
+{
+  "slug": "mujoco",
+  "name": "mujoco",
+  "tagline": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+  "category": "robotics",
+  "tags": [
+    "mujoco",
+    "physics",
+    "robotics"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "google-deepmind",
+    "url": "https://github.com/google-deepmind"
+  },
+  "source": {
+    "primary": "github",
+    "github": "google-deepmind/mujoco",
+    "huggingface": null,
+    "homepage": "https://mujoco.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 14625,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T13:49:29Z",
+    "first_commit_at": "2021-10-18T11:35:33Z",
+    "forks": 1688,
+    "watchers": 129,
+    "open_issues": 349,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7398,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:39.655444Z",
+  "last_refreshed_at": "2026-08-21T14:54:39.655447Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "social-analyzer",
+  "name": "social-analyzer",
+  "tagline": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+  "category": "social-media",
+  "tags": [
+    "analysis",
+    "analyzer",
+    "cli",
+    "information-gathering",
+    "javascript",
+    "nodejs",
+    "nodejs-cli",
+    "osint",
+    "pentest",
+    "pentesting"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "qeeqbox",
+    "url": "https://github.com/qeeqbox"
+  },
+  "source": {
+    "primary": "github",
+    "github": "qeeqbox/social-analyzer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 23799,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-12T21:50:25Z",
+    "first_commit_at": "2020-11-30T19:04:28Z",
+    "forks": 2292,
+    "watchers": 418,
+    "open_issues": 26,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6034,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:35:34.418048Z",
+  "last_refreshed_at": "2026-08-21T14:35:34.418051Z",
+  "consecutive_refresh_failures": 0
+}

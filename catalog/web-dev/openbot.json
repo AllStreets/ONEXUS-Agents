@@ -1,6 +1,6 @@
 {
   "slug": "openbot",
-  "name": "openbot",
+  "name": "OpenBot",
   "tagline": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
   "category": "web-dev",
   "tags": [
@@ -19,19 +19,19 @@
   },
   "source": {
     "primary": "github",
-    "github": "CopilotKit/openbot",
+    "github": "CopilotKit/OpenBot",
     "huggingface": null,
     "homepage": "https://www.copilotkit.ai/openbot"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1196,
+    "stars": 1965,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-20T04:21:02Z",
+    "last_commit_at": "2026-08-21T04:41:06Z",
     "first_commit_at": "2026-08-15T01:20:00Z",
-    "forks": 118,
-    "watchers": 3,
-    "open_issues": 28,
+    "forks": 203,
+    "watchers": 7,
+    "open_issues": 39,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -50,10 +50,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5887,
-  "rank_in_category": 40,
+  "composite_score": 0.6033,
+  "rank_in_category": 36,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-20T13:59:24.658861Z",
-  "last_refreshed_at": "2026-08-20T13:59:24.658865Z",
+  "first_seen_at": "2026-08-21T13:58:04.979196Z",
+  "last_refreshed_at": "2026-08-21T13:58:04.979200Z",
   "consecutive_refresh_failures": 0
 }

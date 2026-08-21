@@ -1,0 +1,54 @@
+{
+  "slug": "word2wave",
+  "name": "word2wave",
+  "tagline": "Word2Wave: a framework for generating short audio samples from a text prompt using WaveGAN and COALA.",
+  "category": "music",
+  "tags": [
+    "ai-music",
+    "audio-generation",
+    "music-generation",
+    "text-to-audio"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ilaria-manco",
+    "url": "https://github.com/ilaria-manco"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ilaria-manco/word2wave",
+    "huggingface": null,
+    "homepage": "https://ilariamanco.com/word2wave/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 119,
+    "downloads_30d": null,
+    "last_commit_at": "2021-12-13T12:01:02Z",
+    "first_commit_at": "2021-04-20T10:52:16Z",
+    "forks": 15,
+    "watchers": 4,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.315,
+  "rank_in_category": 80,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:47:11.835558Z",
+  "last_refreshed_at": "2026-08-21T14:47:11.835562Z",
+  "consecutive_refresh_failures": 0
+}

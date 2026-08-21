@@ -1,0 +1,60 @@
+{
+  "slug": "gibsonenv",
+  "name": "GibsonEnv",
+  "tagline": "Gibson Environments: Real-World Perception for Embodied Agents",
+  "category": "robotics",
+  "tags": [
+    "computer-vision",
+    "cvpr2018",
+    "deep-learning",
+    "deep-reinforcement-learning",
+    "reinforcement-learning",
+    "research",
+    "robotics",
+    "ros",
+    "sim2real",
+    "simulator"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "StanfordVL",
+    "url": "https://github.com/StanfordVL"
+  },
+  "source": {
+    "primary": "github",
+    "github": "StanfordVL/GibsonEnv",
+    "huggingface": null,
+    "homepage": "http://gibsonenv.stanford.edu/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 946,
+    "downloads_30d": null,
+    "last_commit_at": "2024-04-15T12:20:11Z",
+    "first_commit_at": "2017-07-18T21:19:22Z",
+    "forks": 150,
+    "watchers": 27,
+    "open_issues": 49,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4614,
+  "rank_in_category": 84,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:56:17.002247Z",
+  "last_refreshed_at": "2026-08-21T14:56:17.002251Z",
+  "consecutive_refresh_failures": 0
+}

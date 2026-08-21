@@ -1,0 +1,56 @@
+{
+  "slug": "ingenious",
+  "name": "ingenious",
+  "tagline": "General-purpose Gen AI Accelerator developed for Insight APAC projects",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "autogen",
+    "azure",
+    "fastapi"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Insight-Services-APAC",
+    "url": "https://github.com/Insight-Services-APAC"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Insight-Services-APAC/ingenious",
+    "huggingface": null,
+    "homepage": "https://blog.insight-services-apac.dev/ingenious/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-13T03:14:48Z",
+    "first_commit_at": "2024-10-15T23:08:12Z",
+    "forks": 13,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "autogen"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.249,
+  "rank_in_category": 185,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:57:52.942204Z",
+  "last_refreshed_at": "2026-08-21T14:57:52.942207Z",
+  "consecutive_refresh_failures": 0
+}

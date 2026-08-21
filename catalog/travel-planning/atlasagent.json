@@ -1,0 +1,62 @@
+{
+  "slug": "atlasagent",
+  "name": "AtlasAgent",
+  "tagline": "全球高级定制化 AI 旅游攻略 Skill Pack — 9 skills, zero API key, Hermes/Cursor/Claude compatible",
+  "category": "travel-planning",
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "cursor",
+    "hermes",
+    "itinerary",
+    "llm",
+    "mcp",
+    "open-source",
+    "travel",
+    "travel-planning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wpfbcr",
+    "url": "https://github.com/wpfbcr"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wpfbcr/AtlasAgent",
+    "huggingface": null,
+    "homepage": "https://github.com/wpfbcr/AtlasAgent#%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-25T12:29:04Z",
+    "first_commit_at": "2026-06-25T09:27:29Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3958,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:27:36.195393Z",
+  "last_refreshed_at": "2026-08-21T14:27:36.195396Z",
+  "consecutive_refresh_failures": 0
+}

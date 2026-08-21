@@ -1,0 +1,60 @@
+{
+  "slug": "ros-esp32cam-diffdrive",
+  "name": "ros_esp32cam_diffdrive",
+  "tagline": "This is a ROS 2 & Micro-ROS project to control an RC tank with differential drive (skid steering) with an ESP32-CAM module.",
+  "category": "robotics",
+  "tags": [
+    "differential-drive-robot",
+    "esp32",
+    "esp32-cam",
+    "micro-ros",
+    "rc-tank",
+    "robot",
+    "ros2",
+    "ros2-foxy",
+    "skid-steering",
+    "wifi"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Reinbert",
+    "url": "https://github.com/Reinbert"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Reinbert/ros_esp32cam_diffdrive",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 79,
+    "downloads_30d": null,
+    "last_commit_at": "2023-06-14T14:58:15Z",
+    "first_commit_at": "2021-02-07T22:30:03Z",
+    "forks": 16,
+    "watchers": 5,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3778,
+  "rank_in_category": 132,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:01.967736Z",
+  "last_refreshed_at": "2026-08-21T14:59:01.967740Z",
+  "consecutive_refresh_failures": 0
+}

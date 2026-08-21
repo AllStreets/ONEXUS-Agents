@@ -1,0 +1,59 @@
+{
+  "slug": "chatbot",
+  "name": "chatbot",
+  "tagline": "Chatbot继续沿着LLM前进，近期更新小参数量SLM的和训练脚本，支持本地训练。新增ChatAgent,实现各种有实际场景价值的Agent实现。",
+  "category": "e-commerce",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "aiagents",
+    "chatbot",
+    "python",
+    "pytorch",
+    "seq2seq-chatbot",
+    "shopping",
+    "slm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zhaoyingjun",
+    "url": "https://github.com/zhaoyingjun"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zhaoyingjun/chatbot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 3580,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-09T11:20:37Z",
+    "first_commit_at": "2018-01-08T16:00:09Z",
+    "forks": 1010,
+    "watchers": 109,
+    "open_issues": 96,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5416,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:40:07.418529Z",
+  "last_refreshed_at": "2026-08-21T14:40:07.418532Z",
+  "consecutive_refresh_failures": 0
+}

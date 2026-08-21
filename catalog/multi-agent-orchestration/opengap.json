@@ -1,0 +1,60 @@
+{
+  "slug": "opengap",
+  "name": "opengap",
+  "tagline": "A framework-agnostic, git-native standard for defining AI agents",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agent-framework",
+    "agent-skills",
+    "agents",
+    "assistant",
+    "claude-code",
+    "gitagent",
+    "open-standard",
+    "openclaw",
+    "skills"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "open-gitagent",
+    "url": "https://github.com/open-gitagent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "open-gitagent/opengap",
+    "huggingface": null,
+    "homepage": "https://gitagent.sh/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2919,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-02T21:15:45Z",
+    "first_commit_at": "2026-02-24T16:08:31Z",
+    "forks": 347,
+    "watchers": 19,
+    "open_issues": 17,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3808,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:48:13.683915Z",
+  "last_refreshed_at": "2026-08-21T14:48:13.683918Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "heurist-agent-framework",
+  "name": "heurist-agent-framework",
+  "tagline": "A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-ai",
+    "agentic-framework",
+    "ai",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "heurist-network",
+    "url": "https://github.com/heurist-network"
+  },
+  "source": {
+    "primary": "github",
+    "github": "heurist-network/heurist-agent-framework",
+    "huggingface": null,
+    "homepage": "https://agent.heurist.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 820,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-26T18:32:41Z",
+    "first_commit_at": "2024-12-02T00:49:16Z",
+    "forks": 91,
+    "watchers": 5,
+    "open_issues": 35,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4588,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:36:53.660718Z",
+  "last_refreshed_at": "2026-08-21T14:36:53.660721Z",
+  "consecutive_refresh_failures": 0
+}

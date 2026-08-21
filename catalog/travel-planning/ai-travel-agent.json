@@ -1,0 +1,62 @@
+{
+  "slug": "ai-travel-agent",
+  "name": "AI-TRAVEL-AGENT",
+  "tagline": "AI-powered travel itinerary planner built with LangChain, Groq Llama 3.3, Streamlit, Docker, Kubernetes, and ELK Stack for end-to-end deployment and observability.",
+  "category": "travel-planning",
+  "tags": [
+    "ai",
+    "devops",
+    "docker",
+    "elasticsearch",
+    "elk-stack",
+    "filebeat",
+    "gcp",
+    "groq",
+    "kibana",
+    "kubernetes"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Anand-Velpuri",
+    "url": "https://github.com/Anand-Velpuri"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Anand-Velpuri/AI-TRAVEL-AGENT",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-23T06:43:14Z",
+    "first_commit_at": "2026-06-20T08:03:28Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3439,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:26:45.152184Z",
+  "last_refreshed_at": "2026-08-21T14:26:45.152188Z",
+  "consecutive_refresh_failures": 0
+}

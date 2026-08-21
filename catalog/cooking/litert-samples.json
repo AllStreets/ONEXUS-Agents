@@ -1,0 +1,53 @@
+{
+  "slug": "litert-samples",
+  "name": "litert-samples",
+  "tagline": "LiteRT and LiteRT-LM sample apps, model recipes, agent skills and utilities.",
+  "category": "cooking",
+  "tags": [
+    "edge-ai",
+    "generative-ai",
+    "on-device-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "google-ai-edge",
+    "url": "https://github.com/google-ai-edge"
+  },
+  "source": {
+    "primary": "github",
+    "github": "google-ai-edge/litert-samples",
+    "huggingface": null,
+    "homepage": "https://developers.google.com/edge/litert"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 403,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-17T10:27:09Z",
+    "first_commit_at": "2024-05-14T13:59:37Z",
+    "forks": 113,
+    "watchers": 10,
+    "open_issues": 104,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6334,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:45:00.459806Z",
+  "last_refreshed_at": "2026-08-21T14:45:00.459809Z",
+  "consecutive_refresh_failures": 0
+}

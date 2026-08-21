@@ -3,7 +3,12 @@
   "name": "kotlin-swe-bench",
   "tagline": "A Kotlin software-engineering benchmark for evaluating coding agents.",
   "category": "coding",
-  "tags": [],
+  "tags": [
+    "agent-evaluation",
+    "ai-agents",
+    "kotlin",
+    "swe-bench"
+  ],
   "author": {
     "type": "org",
     "handle": "Kotlin",
@@ -13,11 +18,11 @@
     "primary": "github",
     "github": "Kotlin/kotlin-swe-bench",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://kotlinlang.org/benchmark/"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 49,
+    "stars": 50,
     "downloads_30d": null,
     "last_commit_at": "2026-08-13T10:05:38Z",
     "first_commit_at": "2026-06-29T14:22:40Z",
@@ -40,10 +45,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2724,
-  "rank_in_category": 388,
+  "composite_score": 0.2717,
+  "rank_in_category": 429,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-11T14:24:28.993083Z",
-  "last_refreshed_at": "2026-08-20T13:47:54.754311Z",
+  "last_refreshed_at": "2026-08-21T13:47:34.091980Z",
   "consecutive_refresh_failures": 0
 }

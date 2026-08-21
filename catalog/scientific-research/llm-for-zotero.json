@@ -1,0 +1,61 @@
+{
+  "slug": "llm-for-zotero",
+  "name": "llm-for-zotero",
+  "tagline": "An open-sourced research agent system deeply rooted in your Zotero library.",
+  "category": "scientific-research",
+  "tags": [
+    "academic-paper",
+    "codex",
+    "literature-analysis",
+    "llm-agent",
+    "mcp",
+    "rag",
+    "research-tool",
+    "zotero",
+    "zotero-plugin"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yilewang",
+    "url": "https://github.com/yilewang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yilewang/llm-for-zotero",
+    "huggingface": null,
+    "homepage": "https://yilewang.github.io/llm-for-zotero"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 2710,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T04:58:45Z",
+    "first_commit_at": "2022-08-19T18:42:12Z",
+    "forks": 153,
+    "watchers": 7,
+    "open_issues": 135,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.7235,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:00:53.959319Z",
+  "last_refreshed_at": "2026-08-21T15:00:53.959322Z",
+  "consecutive_refresh_failures": 0
+}

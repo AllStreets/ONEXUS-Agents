@@ -1,0 +1,53 @@
+{
+  "slug": "gemini-sales-agent",
+  "name": "gemini-sales-agent",
+  "tagline": "ระบบ API Endpoints พร้อม Web Interface สำหรับใช้เป็นตัวกลางในการติดต่อกับลูกค้า",
+  "category": "sales-crm",
+  "tags": [
+    "express-js",
+    "gemini-api",
+    "sales-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sunny420x",
+    "url": "https://github.com/sunny420x"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sunny420x/gemini-sales-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-16T10:08:18Z",
+    "first_commit_at": "2026-08-16T10:07:51Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3825,
+  "rank_in_category": 48,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:29:34.691613Z",
+  "last_refreshed_at": "2026-08-21T14:29:34.691616Z",
+  "consecutive_refresh_failures": 0
+}

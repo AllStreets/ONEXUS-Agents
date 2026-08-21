@@ -1,0 +1,60 @@
+{
+  "slug": "moonfish",
+  "name": "moonfish",
+  "tagline": "~2000 Elo Python Chess Engine that implements: Negamax, PeSTO’s Evaluation, Null Move, Quiescence Search, Lazy SMP.",
+  "category": "game-playing",
+  "tags": [
+    "alpha-beta-pruning",
+    "chess",
+    "chess-ai-engine",
+    "chess-engine",
+    "minimax-alpha-beta-pruning",
+    "python",
+    "rl",
+    "rl-environment",
+    "symmetric-multiprocessing",
+    "uci"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "luccabb",
+    "url": "https://github.com/luccabb"
+  },
+  "source": {
+    "primary": "github",
+    "github": "luccabb/moonfish",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/spaces/luccabb/moonfish_chess"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-17T07:17:31Z",
+    "first_commit_at": "2021-09-20T06:24:39Z",
+    "forks": 4,
+    "watchers": 2,
+    "open_issues": 18,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3985,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:53:38.268818Z",
+  "last_refreshed_at": "2026-08-21T14:53:38.268821Z",
+  "consecutive_refresh_failures": 0
+}

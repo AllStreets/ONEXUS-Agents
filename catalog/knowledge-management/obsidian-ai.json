@@ -1,0 +1,60 @@
+{
+  "slug": "obsidian-ai",
+  "name": "obsidian-ai",
+  "tagline": "Bring your own AI environment to Obsidian. For note/doc creation, refinement, search, organization, management, you name it!",
+  "category": "knowledge-management",
+  "tags": [
+    "agentic-ai",
+    "claude",
+    "claude-ai",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "codex-cli",
+    "obsidian",
+    "obsidian-community",
+    "obsidian-md"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "spencermarx",
+    "url": "https://github.com/spencermarx"
+  },
+  "source": {
+    "primary": "github",
+    "github": "spencermarx/obsidian-ai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 46,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T12:39:29Z",
+    "first_commit_at": "2026-03-17T11:23:17Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3758,
+  "rank_in_category": 150,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:01:49.415209Z",
+  "last_refreshed_at": "2026-08-21T15:01:49.415212Z",
+  "consecutive_refresh_failures": 0
+}

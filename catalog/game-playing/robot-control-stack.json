@@ -1,0 +1,59 @@
+{
+  "slug": "robot-control-stack",
+  "name": "robot-control-stack",
+  "tagline": "A lean, ROS-free sim-to-real framework for training and deploying Vision-Language-Action (VLA) models and RL agents. Native MuJoCo Gymnasium wrappers with synchronous execution for Franka, UR5e, xArm,",
+  "category": "game-playing",
+  "tags": [
+    "franka",
+    "gymnasium",
+    "mujoco",
+    "reinforcement-learning",
+    "robot-learning",
+    "robot-manipulation",
+    "sim-to-real",
+    "vision-language-actions-models",
+    "vla-models"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "RobotControlStack",
+    "url": "https://github.com/RobotControlStack"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RobotControlStack/robot-control-stack",
+    "huggingface": null,
+    "homepage": "http://robotcontrolstack.org/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 150,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T00:34:38Z",
+    "first_commit_at": "2024-01-04T10:55:03Z",
+    "forks": 17,
+    "watchers": 2,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6067,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:51:59.125156Z",
+  "last_refreshed_at": "2026-08-21T14:51:59.125159Z",
+  "consecutive_refresh_failures": 0
+}

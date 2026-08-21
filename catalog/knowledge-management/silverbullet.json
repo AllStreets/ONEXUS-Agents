@@ -1,0 +1,56 @@
+{
+  "slug": "silverbullet",
+  "name": "silverbullet",
+  "tagline": "An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua",
+  "category": "knowledge-management",
+  "tags": [
+    "end-user-programming",
+    "knowledge-management",
+    "lua",
+    "markdown",
+    "note-taking",
+    "personal-knowledge-management"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "silverbulletmd",
+    "url": "https://github.com/silverbulletmd"
+  },
+  "source": {
+    "primary": "github",
+    "github": "silverbulletmd/silverbullet",
+    "huggingface": null,
+    "homepage": "https://silverbullet.md/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5895,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T14:14:04Z",
+    "first_commit_at": "2022-02-16T09:57:28Z",
+    "forks": 468,
+    "watchers": 24,
+    "open_issues": 328,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6788,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:31.447782Z",
+  "last_refreshed_at": "2026-08-21T14:59:31.447785Z",
+  "consecutive_refresh_failures": 0
+}

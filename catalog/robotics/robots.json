@@ -1,0 +1,55 @@
+{
+  "slug": "robots",
+  "name": "robots",
+  "tagline": "Control robots and physical hardware with natural language through Strands Agents.",
+  "category": "robotics",
+  "tags": [
+    "robots",
+    "strands-agents",
+    "strands-labs",
+    "vision-language-action",
+    "world-foundation-models"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "strands-labs",
+    "url": "https://github.com/strands-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "strands-labs/robots",
+    "huggingface": null,
+    "homepage": "https://strands-labs.github.io/robots/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 128,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T13:19:10Z",
+    "first_commit_at": "2026-02-20T18:58:14Z",
+    "forks": 31,
+    "watchers": 3,
+    "open_issues": 90,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5563,
+  "rank_in_category": 45,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:58:49.452370Z",
+  "last_refreshed_at": "2026-08-21T14:58:49.452373Z",
+  "consecutive_refresh_failures": 0
+}

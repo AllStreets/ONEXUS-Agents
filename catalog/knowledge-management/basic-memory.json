@@ -1,0 +1,62 @@
+{
+  "slug": "basic-memory",
+  "name": "basic-memory",
+  "tagline": "AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN",
+  "category": "knowledge-management",
+  "tags": [
+    "ai",
+    "claude",
+    "knowledge-management",
+    "knowlege-graph",
+    "llm",
+    "local-first",
+    "markdown",
+    "mcp",
+    "obsidian",
+    "obsidian-md"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "basicmachines-co",
+    "url": "https://github.com/basicmachines-co"
+  },
+  "source": {
+    "primary": "github",
+    "github": "basicmachines-co/basic-memory",
+    "huggingface": null,
+    "homepage": "https://basicmemory.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 3699,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T07:46:18Z",
+    "first_commit_at": "2024-12-02T22:40:44Z",
+    "forks": 259,
+    "watchers": 17,
+    "open_issues": 72,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.7308,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:34.823720Z",
+  "last_refreshed_at": "2026-08-21T14:59:34.823723Z",
+  "consecutive_refresh_failures": 0
+}

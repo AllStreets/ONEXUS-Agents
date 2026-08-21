@@ -1,0 +1,55 @@
+{
+  "slug": "openclaw-lark-knowledge-agent",
+  "name": "OpenClaw-Lark-Knowledge-Agent",
+  "tagline": "End-to-end personal knowledge RAG pipeline with OpenClaw + Lark (Feishu) agent integration",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "knowledge-base",
+    "lark",
+    "openclaw",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "EriiiirE",
+    "url": "https://github.com/EriiiirE"
+  },
+  "source": {
+    "primary": "github",
+    "github": "EriiiirE/OpenClaw-Lark-Knowledge-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-17T08:45:34Z",
+    "first_commit_at": "2026-03-11T07:38:36Z",
+    "forks": 3,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1584,
+  "rank_in_category": 74,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:00:10.179859Z",
+  "last_refreshed_at": "2026-08-21T15:00:10.179862Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "opengameagent",
+  "name": "OpenGameAgent",
+  "tagline": "Open-source C# agent runtime for AI-native games, autonomous NPCs, and interactive worlds. Structured context, tools, memory, multi-NPC scheduling, and durable game actions.",
+  "category": "game-playing",
+  "tags": [
+    "agent-runtime",
+    "agents",
+    "ai",
+    "ai-agents",
+    "csharp",
+    "dotnet",
+    "game-ai",
+    "game-development",
+    "generative-ai",
+    "godot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "EricSun0218",
+    "url": "https://github.com/EricSun0218"
+  },
+  "source": {
+    "primary": "github",
+    "github": "EricSun0218/OpenGameAgent",
+    "huggingface": null,
+    "homepage": "https://opengameagent.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 36,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T13:21:49Z",
+    "first_commit_at": "2026-08-07T00:37:11Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4864,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:50:12.902809Z",
+  "last_refreshed_at": "2026-08-21T14:50:12.902814Z",
+  "consecutive_refresh_failures": 0
+}

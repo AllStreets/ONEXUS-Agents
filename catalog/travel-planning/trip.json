@@ -1,0 +1,60 @@
+{
+  "slug": "trip",
+  "name": "trip",
+  "tagline": "🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.",
+  "category": "travel-planning",
+  "tags": [
+    "map",
+    "map-visualization",
+    "points-of-interest",
+    "selfhosted",
+    "travel",
+    "travel-app",
+    "trip",
+    "trip-planner",
+    "trip-planning",
+    "trips"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "itskovacs",
+    "url": "https://github.com/itskovacs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "itskovacs/trip",
+    "huggingface": null,
+    "homepage": "https://itskovacs-trip.netlify.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1849,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-16T09:18:39Z",
+    "first_commit_at": "2025-07-18T16:43:30Z",
+    "forks": 112,
+    "watchers": 6,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.668,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:26:49.919328Z",
+  "last_refreshed_at": "2026-08-21T14:26:49.919331Z",
+  "consecutive_refresh_failures": 0
+}

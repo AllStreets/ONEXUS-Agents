@@ -1,0 +1,60 @@
+{
+  "slug": "minimax-music-ui",
+  "name": "minimax-music-ui",
+  "tagline": "Suno-style web UI for a self-hosted MiniMax-Music3 inference server",
+  "category": "music",
+  "tags": [
+    "ai-music",
+    "diffusers",
+    "docker",
+    "express",
+    "minimax",
+    "minimax-music",
+    "music-generation",
+    "react",
+    "self-hosted",
+    "sgl-omni"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "adambenhassen",
+    "url": "https://github.com/adambenhassen"
+  },
+  "source": {
+    "primary": "github",
+    "github": "adambenhassen/minimax-music-ui",
+    "huggingface": null,
+    "homepage": "https://demo-minimax-music.adambh.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 59,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-19T03:06:13Z",
+    "first_commit_at": "2026-08-18T22:28:00Z",
+    "forks": 5,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4116,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:47:20.062015Z",
+  "last_refreshed_at": "2026-08-21T14:47:20.062018Z",
+  "consecutive_refresh_failures": 0
+}

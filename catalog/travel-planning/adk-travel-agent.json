@@ -1,0 +1,58 @@
+{
+  "slug": "adk-travel-agent",
+  "name": "adk-travel-agent",
+  "tagline": "A travel agent python app built with Google Agent Development Kit using Gemini model from Google Cloud Platform to be run locally or on CI/CD with Github Actions.",
+  "category": "travel-planning",
+  "tags": [
+    "agentic",
+    "gemini",
+    "gemini-api",
+    "genai",
+    "google-adk",
+    "monocle2ai",
+    "okahu",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "okahu-demos",
+    "url": "https://github.com/okahu-demos"
+  },
+  "source": {
+    "primary": "github",
+    "github": "okahu-demos/adk-travel-agent",
+    "huggingface": null,
+    "homepage": "https://portal.okahu.co/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-11T06:46:39Z",
+    "first_commit_at": "2025-09-04T23:36:44Z",
+    "forks": 13,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5103,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:28:19.756619Z",
+  "last_refreshed_at": "2026-08-21T14:28:19.756622Z",
+  "consecutive_refresh_failures": 0
+}

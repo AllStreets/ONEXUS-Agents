@@ -1,0 +1,62 @@
+{
+  "slug": "founder-marketing-skills",
+  "name": "founder-marketing-skills",
+  "tagline": "Open-source marketing skills for founders. Keyword research, growth strategy, social search audit, competitor analysis. Install with npx skills.",
+  "category": "marketing",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-marketing",
+    "anthropic",
+    "automation",
+    "claude",
+    "claude-agent-sdk",
+    "claude-agents",
+    "claude-code",
+    "claude-code-plugin"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ScaleBrick",
+    "url": "https://github.com/ScaleBrick"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ScaleBrick/founder-marketing-skills",
+    "huggingface": null,
+    "homepage": "https://scalebrick.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 89,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T19:52:38Z",
+    "first_commit_at": "2026-04-16T23:26:50Z",
+    "forks": 20,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4527,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:33:49.484643Z",
+  "last_refreshed_at": "2026-08-21T14:33:49.484646Z",
+  "consecutive_refresh_failures": 0
+}

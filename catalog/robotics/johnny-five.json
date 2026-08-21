@@ -1,0 +1,60 @@
+{
+  "slug": "johnny-five",
+  "name": "johnny-five",
+  "tagline": "JavaScript Robotics and IoT programming framework, developed at Bocoup.",
+  "category": "robotics",
+  "tags": [
+    "1-wire",
+    "adc",
+    "arduino",
+    "beaglebone-black",
+    "bluetooth",
+    "chip",
+    "dac",
+    "gpio",
+    "i2c",
+    "intel"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rwaldron",
+    "url": "https://github.com/rwaldron"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rwaldron/johnny-five",
+    "huggingface": null,
+    "homepage": "http://johnny-five.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 13411,
+    "downloads_30d": null,
+    "last_commit_at": "2023-10-24T22:18:06Z",
+    "first_commit_at": "2012-04-02T18:23:23Z",
+    "forks": 1730,
+    "watchers": 440,
+    "open_issues": 64,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5385,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:41.209377Z",
+  "last_refreshed_at": "2026-08-21T14:54:41.209381Z",
+  "consecutive_refresh_failures": 0
+}

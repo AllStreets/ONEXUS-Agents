@@ -1,0 +1,63 @@
+{
+  "slug": "delx-wellness",
+  "name": "delx-wellness",
+  "tagline": "Public registry for local-first wellness MCP connectors: wearables, recovery, training, nutrition and the Delx Wellness Hermes profile.",
+  "category": "healthcare",
+  "tags": [
+    "ai-agents",
+    "anthropic",
+    "apple-health",
+    "claude-desktop",
+    "cursor",
+    "fitbit",
+    "garmin",
+    "health-data",
+    "local-first",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "davidmosiah",
+    "url": "https://github.com/davidmosiah"
+  },
+  "source": {
+    "primary": "github",
+    "github": "davidmosiah/delx-wellness",
+    "huggingface": null,
+    "homepage": "https://wellness.delx.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 24,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-18T18:06:07Z",
+    "first_commit_at": "2026-05-03T10:34:28Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4677,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:45:37.020366Z",
+  "last_refreshed_at": "2026-08-21T14:45:37.020369Z",
+  "consecutive_refresh_failures": 0
+}

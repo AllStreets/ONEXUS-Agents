@@ -1,0 +1,57 @@
+{
+  "slug": "obsidian-knowledge-agent",
+  "name": "obsidian-knowledge-agent",
+  "tagline": "Agent-driven pipeline that turns raw material (PDFs, slides, syllabi, papers, URLs) into structured, teaching-quality Obsidian notes: ingest, compile, distribute.",
+  "category": "knowledge-management",
+  "tags": [
+    "agentic-workflows",
+    "ai-agents",
+    "claude",
+    "codex",
+    "knowledge-management",
+    "llm",
+    "obsidian"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Michael-OvO",
+    "url": "https://github.com/Michael-OvO"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Michael-OvO/obsidian-knowledge-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 204,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-27T19:04:59Z",
+    "first_commit_at": "2026-05-31T23:44:41Z",
+    "forks": 12,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4397,
+  "rank_in_category": 128,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:52.841843Z",
+  "last_refreshed_at": "2026-08-21T14:59:52.841847Z",
+  "consecutive_refresh_failures": 0
+}

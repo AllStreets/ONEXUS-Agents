@@ -1,0 +1,54 @@
+{
+  "slug": "booksaver-agent",
+  "name": "booksaver-agent",
+  "tagline": "An autonomous agent that monitors your travel bookings, detects price drops by navigating live booking sites with a browser agent, and rebooks on your behalf — runs as a lightweight local daemon, no a",
+  "category": "travel-planning",
+  "tags": [
+    "booking-com",
+    "browser-automation",
+    "price-monitoring",
+    "travel-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "romkagribok",
+    "url": "https://github.com/romkagribok"
+  },
+  "source": {
+    "primary": "github",
+    "github": "romkagribok/booksaver-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-17T04:52:55Z",
+    "first_commit_at": "2026-05-25T18:45:30Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4123,
+  "rank_in_category": 45,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:26:40.486627Z",
+  "last_refreshed_at": "2026-08-21T14:26:40.486630Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "pyboy",
+  "name": "PyBoy",
+  "tagline": "Game Boy emulator written in Python",
+  "category": "game-playing",
+  "tags": [
+    "cython",
+    "emulator",
+    "gameboy",
+    "gameboy-emulator",
+    "gameboy-emulator-library",
+    "pypy",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Baekalfen",
+    "url": "https://github.com/Baekalfen"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Baekalfen/PyBoy",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 5186,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T13:48:12Z",
+    "first_commit_at": "2016-01-25T13:45:55Z",
+    "forks": 538,
+    "watchers": 75,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7393,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:52:20.199186Z",
+  "last_refreshed_at": "2026-08-21T14:52:20.199189Z",
+  "consecutive_refresh_failures": 0
+}

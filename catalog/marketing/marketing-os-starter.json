@@ -1,0 +1,61 @@
+{
+  "slug": "marketing-os-starter",
+  "name": "marketing-os-starter",
+  "tagline": "An AI marketing team you can clone and run in 30 minutes. 4 specialized agents, 5 skills, structured handoffs, persistent memory. Built on Claude Code.",
+  "category": "marketing",
+  "tags": [
+    "ai-agents",
+    "ai-marketing",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "marketing",
+    "marketing-automation",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ericosiu",
+    "url": "https://github.com/ericosiu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ericosiu/marketing-os-starter",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 68,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-24T21:52:54Z",
+    "first_commit_at": "2026-02-23T22:52:20Z",
+    "forks": 13,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4394,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:33:52.358969Z",
+  "last_refreshed_at": "2026-08-21T14:33:52.358973Z",
+  "consecutive_refresh_failures": 0
+}

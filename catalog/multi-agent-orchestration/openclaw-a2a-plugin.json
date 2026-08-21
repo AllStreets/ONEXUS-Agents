@@ -1,0 +1,49 @@
+{
+  "slug": "openclaw-a2a-plugin",
+  "name": "openclaw-a2a-plugin",
+  "tagline": "OpenClaw A2A protocol community plugin. Send messages and files to other agents over the internet, and allow other people to connect to your agent with Tailscale",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "a2anet",
+    "url": "https://github.com/a2anet"
+  },
+  "source": {
+    "primary": "github",
+    "github": "a2anet/openclaw-a2a-plugin",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 28,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-09T16:54:08Z",
+    "first_commit_at": "2026-03-26T23:52:03Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3012,
+  "rank_in_category": 131,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:32:16.781516Z",
+  "last_refreshed_at": "2026-08-21T14:32:16.781520Z",
+  "consecutive_refresh_failures": 0
+}

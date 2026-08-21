@@ -1,0 +1,57 @@
+{
+  "slug": "vault-operator",
+  "name": "vault-operator",
+  "tagline": "Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintains your memory & knowledge, adapts to your workflows, uses plugins, skills & tools with full safety controls. BYOK & MCP",
+  "category": "knowledge-management",
+  "tags": [
+    "ai",
+    "automation",
+    "knowledge-management",
+    "llm-wiki",
+    "memory",
+    "obsidian-plugin",
+    "second-brain"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pssah4",
+    "url": "https://github.com/pssah4"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pssah4/vault-operator",
+    "huggingface": null,
+    "homepage": "https://pssah4.github.io/vault-operator/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 235,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-16T00:35:38Z",
+    "first_commit_at": "2026-02-16T07:29:55Z",
+    "forks": 24,
+    "watchers": 5,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5392,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:01:35.243237Z",
+  "last_refreshed_at": "2026-08-21T15:01:35.243241Z",
+  "consecutive_refresh_failures": 0
+}

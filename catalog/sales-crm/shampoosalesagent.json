@@ -1,0 +1,60 @@
+{
+  "slug": "shampoosalesagent",
+  "name": "ShampooSalesAgent",
+  "tagline": "A minimal LLM sales agent framework for sales agent fast deployment and benchmark. Support OpenAI models, Claude, HuggingFace models, Gemini, Ernie(文心一言4.0), Baichuan(百川), Qwen(通义千问), Moonshot(月之暗面), ",
+  "category": "sales-crm",
+  "tags": [
+    "agent",
+    "ai",
+    "framework",
+    "gpt",
+    "llm",
+    "machine-learning",
+    "nlp",
+    "recommendation-system",
+    "retail",
+    "salesperson"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jackfsuia",
+    "url": "https://github.com/jackfsuia"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jackfsuia/ShampooSalesAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2024-09-06T04:02:23Z",
+    "first_commit_at": "2024-04-01T18:16:59Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3241,
+  "rank_in_category": 67,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:30:20.440319Z",
+  "last_refreshed_at": "2026-08-21T14:30:20.440323Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "rl-with-resets",
+  "name": "rl_with_resets",
+  "tagline": "JAX implementation of deep RL agents with resets from the paper \"The Primacy Bias in Deep Reinforcement Learning\"",
+  "category": "game-playing",
+  "tags": [
+    "atari",
+    "atari2600",
+    "deep-learning",
+    "deep-reinforcement-learning",
+    "deepmind-control-suite",
+    "dmc",
+    "drq",
+    "flax",
+    "gym",
+    "jax"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "evgenii-nikishin",
+    "url": "https://github.com/evgenii-nikishin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "evgenii-nikishin/rl_with_resets",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 106,
+    "downloads_30d": null,
+    "last_commit_at": "2022-05-17T01:53:17Z",
+    "first_commit_at": "2022-05-17T01:52:17Z",
+    "forks": 8,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3677,
+  "rank_in_category": 85,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:52:09.881969Z",
+  "last_refreshed_at": "2026-08-21T14:52:09.881973Z",
+  "consecutive_refresh_failures": 0
+}
