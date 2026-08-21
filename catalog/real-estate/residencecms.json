@@ -1,0 +1,57 @@
+{
+  "slug": "residencecms",
+  "name": "ResidenceCMS",
+  "tagline": "Open Source Property Management System based on Symfony 7",
+  "category": "real-estate",
+  "tags": [
+    "cms",
+    "php-cms",
+    "php8",
+    "real-estate",
+    "symfony",
+    "symfony-application",
+    "symfony7"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Coderberg",
+    "url": "https://github.com/Coderberg"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Coderberg/ResidenceCMS",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 178,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-24T08:34:04Z",
+    "first_commit_at": "2018-09-09T20:20:03Z",
+    "forks": 60,
+    "watchers": 18,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5081,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:43:17.465111Z",
+  "last_refreshed_at": "2026-08-21T14:43:17.465114Z",
+  "consecutive_refresh_failures": 0
+}

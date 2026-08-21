@@ -1,0 +1,49 @@
+{
+  "slug": "mcp-grafana",
+  "name": "mcp-grafana",
+  "tagline": "MCP server for Grafana",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "grafana",
+    "url": "https://github.com/grafana"
+  },
+  "source": {
+    "primary": "github",
+    "github": "grafana/mcp-grafana",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3379,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T14:42:42Z",
+    "first_commit_at": "2024-12-24T15:44:44Z",
+    "forks": 426,
+    "watchers": 115,
+    "open_issues": 115,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6059,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:00:51.292462Z",
+  "last_refreshed_at": "2026-08-21T15:00:51.292465Z",
+  "consecutive_refresh_failures": 0
+}

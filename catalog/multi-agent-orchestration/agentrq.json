@@ -1,0 +1,62 @@
+{
+  "slug": "agentrq",
+  "name": "agentrq",
+  "tagline": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "acp-client",
+    "acp-gateway",
+    "agentic-ai",
+    "agentic-workflow",
+    "agents",
+    "claude-code",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "dsh-plugin",
+    "hermes-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agentrq",
+    "url": "https://github.com/agentrq"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agentrq/agentrq",
+    "huggingface": null,
+    "homepage": "https://agentrq.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1085,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T04:50:25Z",
+    "first_commit_at": "2026-04-28T08:06:28Z",
+    "forks": 79,
+    "watchers": 1,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.449,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:00:58.036229Z",
+  "last_refreshed_at": "2026-08-21T15:00:58.036233Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "bosquet",
+  "name": "bosquet",
+  "tagline": "Tooling to build LLM applications: prompt templating and composition, agents, LLM memory, and other instruments for builders of AI applications.",
+  "category": "music",
+  "tags": [
+    "ai",
+    "clojure",
+    "gpt",
+    "llmops",
+    "prompt-engineering"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zmedelis",
+    "url": "https://github.com/zmedelis"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zmedelis/bosquet",
+    "huggingface": null,
+    "homepage": "https://zmedelis.github.io/bosquet/"
+  },
+  "license": "EPL-1.0",
+  "metrics": {
+    "stars": 379,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-25T05:56:30Z",
+    "first_commit_at": "2023-01-01T17:04:01Z",
+    "forks": 28,
+    "watchers": 11,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4582,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:47:24.338912Z",
+  "last_refreshed_at": "2026-08-21T14:47:24.338916Z",
+  "consecutive_refresh_failures": 0
+}

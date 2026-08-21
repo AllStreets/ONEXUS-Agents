@@ -1,0 +1,62 @@
+{
+  "slug": "sales-ai-agent-langgraph",
+  "name": "sales-ai-agent-langgraph",
+  "tagline": "A Virtual Sales Agent that uses LangChain, LangGraph, and Gemini Flash to simulate customer interactions. Features include product inquiries, order management, and personalized recommendations through",
+  "category": "sales-crm",
+  "tags": [
+    "agents",
+    "ai",
+    "gemini",
+    "langchain",
+    "langchain-python",
+    "langgraph",
+    "langgraph-chabot",
+    "langgraph-python",
+    "python",
+    "streamlit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lucasboscatti",
+    "url": "https://github.com/lucasboscatti"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lucasboscatti/sales-ai-agent-langgraph",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 98,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-27T12:42:30Z",
+    "first_commit_at": "2024-12-19T19:25:22Z",
+    "forks": 24,
+    "watchers": 3,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4541,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:30:07.917921Z",
+  "last_refreshed_at": "2026-08-21T14:30:07.917924Z",
+  "consecutive_refresh_failures": 0
+}

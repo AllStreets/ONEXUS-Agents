@@ -1,0 +1,57 @@
+{
+  "slug": "open-source-rover",
+  "name": "open-source-rover",
+  "tagline": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+  "category": "robotics",
+  "tags": [
+    "diy",
+    "hardware",
+    "mars",
+    "mars-rover",
+    "open-source",
+    "robot",
+    "robotics"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nasa-jpl",
+    "url": "https://github.com/nasa-jpl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nasa-jpl/open-source-rover",
+    "huggingface": null,
+    "homepage": "https://open-source-rover.readthedocs.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 9596,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-13T01:02:20Z",
+    "first_commit_at": "2018-04-02T23:52:02Z",
+    "forks": 1496,
+    "watchers": 457,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7175,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:43.781567Z",
+  "last_refreshed_at": "2026-08-21T14:54:43.781570Z",
+  "consecutive_refresh_failures": 0
+}

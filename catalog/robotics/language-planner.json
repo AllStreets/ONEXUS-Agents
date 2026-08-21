@@ -1,0 +1,62 @@
+{
+  "slug": "language-planner",
+  "name": "language-planner",
+  "tagline": "Official Code for \"Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents\"",
+  "category": "robotics",
+  "tags": [
+    "artificial-intelligence",
+    "codex",
+    "deep-learning",
+    "embodied-ai",
+    "foundation-models",
+    "gpt-3",
+    "in-context-learning",
+    "knowledge-extraction",
+    "language-model",
+    "planning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "huangwl18",
+    "url": "https://github.com/huangwl18"
+  },
+  "source": {
+    "primary": "github",
+    "github": "huangwl18/language-planner",
+    "huggingface": null,
+    "homepage": "https://huangwl18.github.io/language-planner/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 280,
+    "downloads_30d": null,
+    "last_commit_at": "2022-05-16T00:24:12Z",
+    "first_commit_at": "2022-01-03T16:11:23Z",
+    "forks": 36,
+    "watchers": 2,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4341,
+  "rank_in_category": 98,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:56:54.220662Z",
+  "last_refreshed_at": "2026-08-21T14:56:54.220665Z",
+  "consecutive_refresh_failures": 0
+}

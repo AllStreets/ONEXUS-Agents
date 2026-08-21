@@ -1,0 +1,61 @@
+{
+  "slug": "notfair-plugin",
+  "name": "notfair-plugin",
+  "tagline": "Open-source SEO, GEO, and marketing skills for AI agents.",
+  "category": "marketing",
+  "tags": [
+    "agents",
+    "claude-code-plugin",
+    "claude-skills",
+    "geo",
+    "googleads",
+    "googleadsmcp",
+    "mcp",
+    "metaads",
+    "seo"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nowork-studio",
+    "url": "https://github.com/nowork-studio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nowork-studio/notfair-plugin",
+    "huggingface": null,
+    "homepage": "https://notfair.co/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3388,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-14T06:48:07Z",
+    "first_commit_at": "2026-04-04T00:46:08Z",
+    "forks": 422,
+    "watchers": 16,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.7265,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:34:29.141623Z",
+  "last_refreshed_at": "2026-08-21T14:34:29.141627Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "syntheory",
+  "name": "syntheory",
+  "tagline": "Do Music Generation Models Encode Music Theory? (ISMIR 2024)",
+  "category": "music",
+  "tags": [
+    "audio",
+    "music",
+    "music-ai",
+    "music-generation",
+    "music-information-retrieval",
+    "music-theory"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "brown-palm",
+    "url": "https://github.com/brown-palm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "brown-palm/syntheory",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2410.00872"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 24,
+    "downloads_30d": null,
+    "last_commit_at": "2024-10-30T03:00:42Z",
+    "first_commit_at": "2024-07-30T17:18:45Z",
+    "forks": 5,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2485,
+  "rank_in_category": 106,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:46:44.610049Z",
+  "last_refreshed_at": "2026-08-21T14:46:44.610052Z",
+  "consecutive_refresh_failures": 0
+}

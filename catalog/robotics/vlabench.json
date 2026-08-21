@@ -1,0 +1,53 @@
+{
+  "slug": "vlabench",
+  "name": "VLABench",
+  "tagline": "Official repo of VLABench, a large scale benchmark designed for fairly evaluating VLA, Embodied Agent, and VLMs.",
+  "category": "robotics",
+  "tags": [
+    "embodied",
+    "foundation-models",
+    "robotics"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OpenMOSS",
+    "url": "https://github.com/OpenMOSS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OpenMOSS/VLABench",
+    "huggingface": null,
+    "homepage": "https://vlabench.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 463,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-11T02:18:37Z",
+    "first_commit_at": "2024-12-25T10:49:26Z",
+    "forks": 38,
+    "watchers": 5,
+    "open_issues": 34,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4355,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:56:47.466141Z",
+  "last_refreshed_at": "2026-08-21T14:56:47.466144Z",
+  "consecutive_refresh_failures": 0
+}

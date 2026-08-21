@@ -1,0 +1,60 @@
+{
+  "slug": "claude-obsidian",
+  "name": "claude-obsidian",
+  "tagline": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal",
+  "category": "knowledge-management",
+  "tags": [
+    "agent-skills",
+    "ai-note-taking",
+    "ai-second-brain",
+    "claude-code",
+    "claude-code-skill",
+    "claude-memory",
+    "claude-plugin",
+    "karpathy-llm-wiki",
+    "knowledge-graph",
+    "knowledge-management"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AgriciDaniel",
+    "url": "https://github.com/AgriciDaniel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AgriciDaniel/claude-obsidian",
+    "huggingface": null,
+    "homepage": "https://agricidaniel.com/blog/claude-obsidian-ai-second-brain"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11104,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-01T12:03:27Z",
+    "first_commit_at": "2026-04-07T09:05:18Z",
+    "forks": 1283,
+    "watchers": 55,
+    "open_issues": 132,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6297,
+  "rank_in_category": 46,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:09.092410Z",
+  "last_refreshed_at": "2026-08-21T14:59:09.092413Z",
+  "consecutive_refresh_failures": 0
+}

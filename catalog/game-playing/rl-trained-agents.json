@@ -1,0 +1,54 @@
+{
+  "slug": "rl-trained-agents",
+  "name": "rl-trained-agents",
+  "tagline": "A collection of pre-trained RL agents using Stable Baselines3",
+  "category": "game-playing",
+  "tags": [
+    "pretrained-models",
+    "pytorch",
+    "reinforcement-learning",
+    "stable-baselines"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "DLR-RM",
+    "url": "https://github.com/DLR-RM"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DLR-RM/rl-trained-agents",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/sb3"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 153,
+    "downloads_30d": null,
+    "last_commit_at": "2024-11-05T16:59:40Z",
+    "first_commit_at": "2020-05-05T13:33:47Z",
+    "forks": 29,
+    "watchers": 3,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.416,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:51:58.235950Z",
+  "last_refreshed_at": "2026-08-21T14:51:58.235953Z",
+  "consecutive_refresh_failures": 0
+}

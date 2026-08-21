@@ -1,0 +1,61 @@
+{
+  "slug": "aso-skills",
+  "name": "aso-skills",
+  "tagline": "AI agent skills for App Store Optimization (ASO) and app marketing. Built for indie developers, app marketers, and growth teams who want Cursor, Claude Code, or any Agent Skills-compatible AI assistan",
+  "category": "marketing",
+  "tags": [
+    "app-store-analytics",
+    "app-store-connect",
+    "app-store-live",
+    "app-store-optimization",
+    "aso",
+    "marketing",
+    "mcp",
+    "mobile-app",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Eronred",
+    "url": "https://github.com/Eronred"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Eronred/aso-skills",
+    "huggingface": null,
+    "homepage": "https://appeeky.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1771,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-27T19:18:40Z",
+    "first_commit_at": "2026-02-27T23:57:02Z",
+    "forks": 113,
+    "watchers": 9,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.643,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:32:58.810567Z",
+  "last_refreshed_at": "2026-08-21T14:32:58.810570Z",
+  "consecutive_refresh_failures": 0
+}

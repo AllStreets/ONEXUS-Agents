@@ -1,0 +1,56 @@
+{
+  "slug": "hyperdog-ros2",
+  "name": "hyperdog_ros2",
+  "tagline": "HyperDog is a quadruped robot which is fully based on ROS 2 and Micro-ROS",
+  "category": "robotics",
+  "tags": [
+    "micro-ros",
+    "micro-ros-stm32",
+    "quadruped-robot",
+    "quadruped-robot-gaits",
+    "quadruped-simulation",
+    "ros2"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "NDHANA94",
+    "url": "https://github.com/NDHANA94"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NDHANA94/hyperdog_ros2",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 142,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-07T22:23:25Z",
+    "first_commit_at": "2022-04-16T19:29:08Z",
+    "forks": 31,
+    "watchers": 7,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4847,
+  "rank_in_category": 73,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:58:46.529242Z",
+  "last_refreshed_at": "2026-08-21T14:58:46.529245Z",
+  "consecutive_refresh_failures": 0
+}

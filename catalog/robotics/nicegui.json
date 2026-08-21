@@ -1,0 +1,60 @@
+{
+  "slug": "nicegui",
+  "name": "nicegui",
+  "tagline": "Create web-based user interfaces with Python. The nice way.",
+  "category": "robotics",
+  "tags": [
+    "frontend",
+    "gui",
+    "interaction",
+    "interface",
+    "interfaces",
+    "python",
+    "robotics",
+    "scripting",
+    "toolkit",
+    "webapp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "zauberzeug",
+    "url": "https://github.com/zauberzeug"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zauberzeug/nicegui",
+    "huggingface": null,
+    "homepage": "https://nicegui.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 16148,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-19T15:56:10Z",
+    "first_commit_at": "2021-05-07T03:32:54Z",
+    "forks": 938,
+    "watchers": 89,
+    "open_issues": 71,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.733,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:36.089789Z",
+  "last_refreshed_at": "2026-08-21T14:54:36.089792Z",
+  "consecutive_refresh_failures": 0
+}

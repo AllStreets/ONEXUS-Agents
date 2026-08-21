@@ -1,0 +1,60 @@
+{
+  "slug": "flocc",
+  "name": "flocc",
+  "tagline": "Agent-based modeling in JavaScript in the browser or on the server.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "abm",
+    "agent-based-modeling",
+    "agent-based-simulation",
+    "cellular-automata",
+    "complex-systems",
+    "complexity",
+    "javascript",
+    "multiagent",
+    "simulation",
+    "visualization"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "scottpdo",
+    "url": "https://github.com/scottpdo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "scottpdo/flocc",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 29,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T03:40:57Z",
+    "first_commit_at": "2018-04-26T00:26:11Z",
+    "forks": 5,
+    "watchers": 2,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2729,
+  "rank_in_category": 155,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:44:03.885952Z",
+  "last_refreshed_at": "2026-08-21T14:44:03.885955Z",
+  "consecutive_refresh_failures": 0
+}

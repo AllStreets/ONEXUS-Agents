@@ -1,0 +1,49 @@
+{
+  "slug": "retriever",
+  "name": "retriever",
+  "tagline": "Retriever: Programming Closed-Loop Modular Robot Agents",
+  "category": "robotics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "openretriever",
+    "url": "https://github.com/openretriever"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openretriever/retriever",
+    "huggingface": null,
+    "homepage": "http://openretriever.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-01T18:48:41Z",
+    "first_commit_at": "2023-10-20T23:36:31Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4734,
+  "rank_in_category": 77,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:55:55.174815Z",
+  "last_refreshed_at": "2026-08-21T14:55:55.174818Z",
+  "consecutive_refresh_failures": 0
+}

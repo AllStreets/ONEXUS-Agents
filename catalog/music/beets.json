@@ -1,0 +1,56 @@
+{
+  "slug": "beets",
+  "name": "beets",
+  "tagline": "music library manager and MusicBrainz tagger",
+  "category": "music",
+  "tags": [
+    "cli",
+    "hacktoberfest",
+    "music",
+    "music-library",
+    "musicbrainz",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "beetbox",
+    "url": "https://github.com/beetbox"
+  },
+  "source": {
+    "primary": "github",
+    "github": "beetbox/beets",
+    "huggingface": null,
+    "homepage": "http://beets.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 15563,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T09:05:46Z",
+    "first_commit_at": "2008-05-14T01:33:09Z",
+    "forks": 2086,
+    "watchers": 378,
+    "open_issues": 710,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6795,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:46:06.328864Z",
+  "last_refreshed_at": "2026-08-21T14:46:06.328867Z",
+  "consecutive_refresh_failures": 0
+}

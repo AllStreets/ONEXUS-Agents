@@ -1,0 +1,53 @@
+{
+  "slug": "navigation2",
+  "name": "navigation2",
+  "tagline": "ROS 2 Navigation Framework and System",
+  "category": "robotics",
+  "tags": [
+    "navigation",
+    "robotics",
+    "ros2"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ros-navigation",
+    "url": "https://github.com/ros-navigation"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ros-navigation/navigation2",
+    "huggingface": null,
+    "homepage": "https://nav2.org/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4606,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T12:27:15Z",
+    "first_commit_at": "2018-06-04T20:08:22Z",
+    "forks": 1919,
+    "watchers": 70,
+    "open_issues": 86,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.718,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:55.735873Z",
+  "last_refreshed_at": "2026-08-21T14:54:55.735877Z",
+  "consecutive_refresh_failures": 0
+}

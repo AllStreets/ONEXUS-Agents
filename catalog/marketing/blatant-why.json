@@ -1,0 +1,60 @@
+{
+  "slug": "blatant-why",
+  "name": "blatant-why",
+  "tagline": "AI-powered biologics design campaign agent — multi-agent orchestration with BoltzGen, PXDesign, Protenix, and 200+ cloud tools. Antibodies, nanobodies, de novo binders, and beyond.",
+  "category": "marketing",
+  "tags": [
+    "ai-agent",
+    "antibody-design",
+    "boltzgen",
+    "claude-code",
+    "computational-biology",
+    "drug-discovery",
+    "mcp-server",
+    "protein-engineering"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "001TMF",
+    "url": "https://github.com/001TMF"
+  },
+  "source": {
+    "primary": "github",
+    "github": "001TMF/blatant-why",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 110,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-16T18:07:08Z",
+    "first_commit_at": "2026-03-04T13:30:01Z",
+    "forks": 10,
+    "watchers": 1,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6104,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:34:50.497361Z",
+  "last_refreshed_at": "2026-08-21T14:34:50.497364Z",
+  "consecutive_refresh_failures": 0
+}

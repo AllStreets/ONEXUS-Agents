@@ -1,0 +1,55 @@
+{
+  "slug": "self-drive-planner-skill",
+  "name": "self-drive-planner-skill",
+  "tagline": "中国自驾规划 Skill：高德路线、天气、社区证据与交互路书",
+  "category": "travel-planning",
+  "tags": [
+    "amap",
+    "claude-code",
+    "codex-skill",
+    "road-trip",
+    "travel-planning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "leslieyeo",
+    "url": "https://github.com/leslieyeo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "leslieyeo/self-drive-planner-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-19T02:40:46Z",
+    "first_commit_at": "2026-08-12T11:03:36Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4243,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:27:23.521577Z",
+  "last_refreshed_at": "2026-08-21T14:27:23.521580Z",
+  "consecutive_refresh_failures": 0
+}

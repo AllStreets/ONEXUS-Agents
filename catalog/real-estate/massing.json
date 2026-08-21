@@ -1,0 +1,60 @@
+{
+  "slug": "massing",
+  "name": "massing",
+  "tagline": "Open, self-hosted, IFC-native AEC platform: web BIM viewer + modeling, a ~100-module GC portal (RFIs, pay apps, CPM, construction accounting — double-entry GL/WIP → QuickBooks, e-sign), AI assist, IDS",
+  "category": "real-estate",
+  "tags": [
+    "aec",
+    "appraisal",
+    "bcf",
+    "bim",
+    "bim-viewer",
+    "clash-detection",
+    "construction",
+    "construction-management",
+    "disposition",
+    "fastapi"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ibuilder",
+    "url": "https://github.com/ibuilder"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ibuilder/massing",
+    "huggingface": null,
+    "homepage": "https://massing.build/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 126,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T14:38:04Z",
+    "first_commit_at": "2026-06-14T17:42:33Z",
+    "forks": 56,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.63,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:43:22.352612Z",
+  "last_refreshed_at": "2026-08-21T14:43:22.352615Z",
+  "consecutive_refresh_failures": 0
+}

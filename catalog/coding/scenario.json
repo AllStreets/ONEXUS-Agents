@@ -1,0 +1,55 @@
+{
+  "slug": "scenario",
+  "name": "scenario",
+  "tagline": "Agentic testing for agentic codebases",
+  "category": "coding",
+  "tags": [
+    "agent-simulations",
+    "agent-testing",
+    "ai-testing",
+    "javascript-library",
+    "python-library"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "langwatch",
+    "url": "https://github.com/langwatch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "langwatch/scenario",
+    "huggingface": null,
+    "homepage": "https://scenario.langwatch.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 953,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T12:25:04Z",
+    "first_commit_at": "2025-04-04T14:21:47Z",
+    "forks": 77,
+    "watchers": 7,
+    "open_issues": 194,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3603,
+  "rank_in_category": 225,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:02.412096Z",
+  "last_refreshed_at": "2026-08-21T14:45:07.062857Z",
+  "consecutive_refresh_failures": 0
+}

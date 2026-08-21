@@ -1,0 +1,59 @@
+{
+  "slug": "n8n-ai-churn-analysis",
+  "name": "n8n-ai-churn-analysis",
+  "tagline": "Automated Customer Retention System built with n8n, OpenAI, and Google Sheets. Detects churn risk and generates personalized recovery emails.",
+  "category": "sales-crm",
+  "tags": [
+    "automation",
+    "ecommerce",
+    "gpt-4",
+    "javascript",
+    "lead-scoring",
+    "low-code",
+    "n8n",
+    "openai",
+    "sales-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "emrahdemirkoc",
+    "url": "https://github.com/emrahdemirkoc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "emrahdemirkoc/n8n-ai-churn-analysis",
+    "huggingface": null,
+    "homepage": "https://emrahdemirkoc.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-19T14:37:29Z",
+    "first_commit_at": "2026-01-17T09:01:41Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2433,
+  "rank_in_category": 104,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:29:33.838796Z",
+  "last_refreshed_at": "2026-08-21T14:29:33.838799Z",
+  "consecutive_refresh_failures": 0
+}

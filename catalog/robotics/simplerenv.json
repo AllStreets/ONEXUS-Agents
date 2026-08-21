@@ -1,0 +1,59 @@
+{
+  "slug": "simplerenv",
+  "name": "SimplerEnv",
+  "tagline": "Evaluating and reproducing real-world robot manipulation policies (e.g., RT-1, RT-1-X, Octo) in simulation under common setups (e.g., Google Robot, WidowX+Bridge) (CoRL 2024)",
+  "category": "robotics",
+  "tags": [
+    "computer-vision",
+    "embodied-ai",
+    "real2sim",
+    "reinforcement-learning",
+    "robot-learning",
+    "robot-manipulation",
+    "robotics",
+    "robotics-benchmark",
+    "robotics-simulation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "simpler-env",
+    "url": "https://github.com/simpler-env"
+  },
+  "source": {
+    "primary": "github",
+    "github": "simpler-env/SimplerEnv",
+    "huggingface": null,
+    "homepage": "https://simpler-env.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1145,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-20T13:08:29Z",
+    "first_commit_at": "2023-11-09T00:10:58Z",
+    "forks": 197,
+    "watchers": 9,
+    "open_issues": 33,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4867,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:56:14.003356Z",
+  "last_refreshed_at": "2026-08-21T14:56:14.003360Z",
+  "consecutive_refresh_failures": 0
+}

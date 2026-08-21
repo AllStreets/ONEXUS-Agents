@@ -1,0 +1,62 @@
+{
+  "slug": "agentra-os",
+  "name": "Agentra-OS",
+  "tagline": "An autonomous, multi-agent travel OS powered by LangGraph & Gemini. Features predictive waitlisting, real-time rerouting, and military-grade SOS protocols.",
+  "category": "travel-planning",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "cronjob",
+    "fastapi",
+    "gemini-api",
+    "langgraph",
+    "llm-orchestration",
+    "mongodb",
+    "multi-agent-systems",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Yogesh-max2123",
+    "url": "https://github.com/Yogesh-max2123"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Yogesh-max2123/Agentra-OS",
+    "huggingface": null,
+    "homepage": "https://agentra-os-navy.vercel.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-10T19:42:47Z",
+    "first_commit_at": "2026-06-03T18:37:44Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3496,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:26:37.406996Z",
+  "last_refreshed_at": "2026-08-21T14:26:37.406999Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "bullet3",
+  "name": "bullet3",
+  "tagline": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
+  "category": "robotics",
+  "tags": [
+    "computer-animation",
+    "game-development",
+    "kinematics",
+    "pybullet",
+    "reinforcement-learning",
+    "robotics",
+    "simulation",
+    "simulator",
+    "virtual-reality"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "bulletphysics",
+    "url": "https://github.com/bulletphysics"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bulletphysics/bullet3",
+    "huggingface": null,
+    "homepage": "http://bulletphysics.org/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 14684,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-22T02:13:14Z",
+    "first_commit_at": "2006-05-25T19:18:29Z",
+    "forks": 3088,
+    "watchers": 403,
+    "open_issues": 423,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5653,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:38.826751Z",
+  "last_refreshed_at": "2026-08-21T14:54:38.826754Z",
+  "consecutive_refresh_failures": 0
+}

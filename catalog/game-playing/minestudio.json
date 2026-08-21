@@ -1,0 +1,57 @@
+{
+  "slug": "minestudio",
+  "name": "MineStudio",
+  "tagline": "MineStudio: A Streamlined Package for Minecraft AI Agent Development",
+  "category": "game-playing",
+  "tags": [
+    "autonomous-agents",
+    "dataset",
+    "game",
+    "imitation-learning",
+    "minecraft",
+    "open-world",
+    "reinforcement-learning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "CraftJarvis",
+    "url": "https://github.com/CraftJarvis"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CraftJarvis/MineStudio",
+    "huggingface": null,
+    "homepage": "https://craftjarvis.github.io/MineStudio/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 405,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-12T14:26:46Z",
+    "first_commit_at": "2024-11-07T15:11:23Z",
+    "forks": 32,
+    "watchers": 7,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5237,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:53:08.038279Z",
+  "last_refreshed_at": "2026-08-21T14:53:08.038282Z",
+  "consecutive_refresh_failures": 0
+}

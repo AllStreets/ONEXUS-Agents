@@ -1,0 +1,59 @@
+{
+  "slug": "open-multi-agent-canvas",
+  "name": "open-multi-agent-canvas",
+  "tagline": "The open-source multi-agent chat interface that lets you manage multiple agents in one dynamic conversation and add MCP servers for deep research",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "copilotkit",
+    "mcp-client",
+    "multi-agent",
+    "open-canvas",
+    "python",
+    "typescript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "CopilotKit",
+    "url": "https://github.com/CopilotKit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CopilotKit/open-multi-agent-canvas",
+    "huggingface": null,
+    "homepage": "https://open-multi-agent-canvas.vercel.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 525,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T03:35:14Z",
+    "first_commit_at": "2025-02-06T07:20:54Z",
+    "forks": 77,
+    "watchers": 8,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4695,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:28:44.647152Z",
+  "last_refreshed_at": "2026-08-21T14:28:44.647155Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "micro-ros-espidf-component",
+  "name": "micro_ros_espidf_component",
+  "tagline": "micro-ROS ESP32 IDF component and sample code",
+  "category": "coding",
+  "tags": [
+    "esp-idf",
+    "micro-ros"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "micro-ROS",
+    "url": "https://github.com/micro-ROS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "micro-ROS/micro_ros_espidf_component",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 416,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T10:37:45Z",
+    "first_commit_at": "2020-09-08T14:05:23Z",
+    "forks": 123,
+    "watchers": 13,
+    "open_issues": 29,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3767,
+  "rank_in_category": 177,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:58:30.529841Z",
+  "last_refreshed_at": "2026-08-21T14:58:30.529844Z",
+  "consecutive_refresh_failures": 0
+}

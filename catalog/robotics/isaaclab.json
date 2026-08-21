@@ -1,0 +1,54 @@
+{
+  "slug": "isaaclab",
+  "name": "IsaacLab",
+  "tagline": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+  "category": "robotics",
+  "tags": [
+    "isaac-sim",
+    "omniverse-kit-extension",
+    "robot-learning",
+    "robotics"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "isaac-sim",
+    "url": "https://github.com/isaac-sim"
+  },
+  "source": {
+    "primary": "github",
+    "github": "isaac-sim/IsaacLab",
+    "huggingface": null,
+    "homepage": "https://isaac-sim.github.io/IsaacLab"
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 7929,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T14:12:16Z",
+    "first_commit_at": "2022-11-16T23:55:13Z",
+    "forks": 3831,
+    "watchers": 63,
+    "open_issues": 799,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7359,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:47.341679Z",
+  "last_refreshed_at": "2026-08-21T14:54:47.341683Z",
+  "consecutive_refresh_failures": 0
+}

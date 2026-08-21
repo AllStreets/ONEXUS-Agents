@@ -1,0 +1,63 @@
+{
+  "slug": "bony-agent",
+  "name": "bony-agent",
+  "tagline": "🤖 Bony Agent — Full-stack AI content production & distribution platform. One person can run an entire team: AI chat · image/video/music generation · smart editing · scheduled multi-platform publishing",
+  "category": "content-writing",
+  "tags": [
+    "agent",
+    "ai",
+    "automation",
+    "content-generation",
+    "fastapi",
+    "langchain",
+    "langgraph",
+    "llm",
+    "mcp",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "phuhao00",
+    "url": "https://github.com/phuhao00"
+  },
+  "source": {
+    "primary": "github",
+    "github": "phuhao00/bony-agent",
+    "huggingface": null,
+    "homepage": "https://github.com/phuhao00/bony-agent"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-15T11:49:12Z",
+    "first_commit_at": "2026-06-17T09:03:43Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4595,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:48:09.315559Z",
+  "last_refreshed_at": "2026-08-21T14:48:09.315562Z",
+  "consecutive_refresh_failures": 0
+}

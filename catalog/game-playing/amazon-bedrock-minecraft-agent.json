@@ -1,0 +1,53 @@
+{
+  "slug": "amazon-bedrock-minecraft-agent",
+  "name": "amazon-bedrock-minecraft-agent",
+  "tagline": "AI agentic bot for Minecraft using Agents for Amazon Bedrock.",
+  "category": "game-playing",
+  "tags": [
+    "agents",
+    "demo",
+    "generative-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "build-on-aws",
+    "url": "https://github.com/build-on-aws"
+  },
+  "source": {
+    "primary": "github",
+    "github": "build-on-aws/amazon-bedrock-minecraft-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT-0",
+  "metrics": {
+    "stars": 59,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-23T20:49:50Z",
+    "first_commit_at": "2024-05-29T22:28:49Z",
+    "forks": 5,
+    "watchers": 12,
+    "open_issues": 1,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1971,
+  "rank_in_category": 166,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:52:44.748563Z",
+  "last_refreshed_at": "2026-08-21T14:52:44.748566Z",
+  "consecutive_refresh_failures": 0
+}

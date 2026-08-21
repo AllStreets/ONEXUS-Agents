@@ -1,0 +1,60 @@
+{
+  "slug": "llama-cloud-services",
+  "name": "llama_cloud_services",
+  "tagline": "Knowledge Agents and Management in the Cloud",
+  "category": "knowledge-management",
+  "tags": [
+    "document",
+    "document-parser",
+    "document-parsing",
+    "docx-to-markdown",
+    "parsing",
+    "pdf",
+    "pdf-document-processor",
+    "pdf-to-excel",
+    "pdf-to-json",
+    "pdf-to-markdown"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "run-llama",
+    "url": "https://github.com/run-llama"
+  },
+  "source": {
+    "primary": "github",
+    "github": "run-llama/llama_cloud_services",
+    "huggingface": null,
+    "homepage": "https://cloud.llamaindex.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4262,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-18T19:09:10Z",
+    "first_commit_at": "2024-01-31T18:33:08Z",
+    "forks": 466,
+    "watchers": 26,
+    "open_issues": 365,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5697,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:51.149907Z",
+  "last_refreshed_at": "2026-08-21T14:59:51.149910Z",
+  "consecutive_refresh_failures": 0
+}

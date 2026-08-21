@@ -1,0 +1,62 @@
+{
+  "slug": "aiwg",
+  "name": "aiwg",
+  "tagline": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platform deployment. Claude Code · Codex · Copilot · Cursor · Factory · Warp · Windsur",
+  "category": "coding",
+  "tags": [
+    "agentic-coding",
+    "ai-framework",
+    "anthropic",
+    "autonomous-agents",
+    "claude-code",
+    "codex",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "fine-tuning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jmagly",
+    "url": "https://github.com/jmagly"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jmagly/aiwg",
+    "huggingface": null,
+    "homepage": "https://aiwg.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 201,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T00:38:05Z",
+    "first_commit_at": "2025-08-14T17:53:16Z",
+    "forks": 29,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3418,
+  "rank_in_category": 262,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:34:43.791765Z",
+  "last_refreshed_at": "2026-08-21T14:34:43.791768Z",
+  "consecutive_refresh_failures": 0
+}

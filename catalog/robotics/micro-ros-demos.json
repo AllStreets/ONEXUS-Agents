@@ -1,0 +1,49 @@
+{
+  "slug": "micro-ros-demos",
+  "name": "micro-ROS-demos",
+  "tagline": "Sample code using rclc and rclcpp implementations.",
+  "category": "robotics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "micro-ROS",
+    "url": "https://github.com/micro-ROS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "micro-ROS/micro-ROS-demos",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 101,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-19T09:35:58Z",
+    "first_commit_at": "2018-09-06T14:28:46Z",
+    "forks": 35,
+    "watchers": 9,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4289,
+  "rank_in_category": 101,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:58:51.128326Z",
+  "last_refreshed_at": "2026-08-21T14:58:51.128330Z",
+  "consecutive_refresh_failures": 0
+}

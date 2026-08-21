@@ -1,0 +1,53 @@
+{
+  "slug": "muscall",
+  "name": "muscall",
+  "tagline": "Official implementation of \"Contrastive Audio-Language Learning for Music\" (ISMIR 2022)",
+  "category": "music",
+  "tags": [
+    "cross-modal-retrieval",
+    "music-ai",
+    "music-information-retrieval"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ilaria-manco",
+    "url": "https://github.com/ilaria-manco"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ilaria-manco/muscall",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2208.12208"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 122,
+    "downloads_30d": null,
+    "last_commit_at": "2024-12-05T11:30:14Z",
+    "first_commit_at": "2022-08-26T04:05:23Z",
+    "forks": 12,
+    "watchers": 6,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3145,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:46:31.137925Z",
+  "last_refreshed_at": "2026-08-21T14:46:31.137928Z",
+  "consecutive_refresh_failures": 0
+}

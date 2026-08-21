@@ -1,0 +1,60 @@
+{
+  "slug": "docker",
+  "name": "docker",
+  "tagline": "Docker-related material to setup, configure and develop with micro-ROS hardware.",
+  "category": "coding",
+  "tags": [
+    "dds-xrce",
+    "docker",
+    "docker-automated",
+    "embedded",
+    "example-code",
+    "linux",
+    "micro-ros",
+    "olimex",
+    "ros2",
+    "stm32"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "micro-ROS",
+    "url": "https://github.com/micro-ROS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "micro-ROS/docker",
+    "huggingface": null,
+    "homepage": "https://micro-ros.github.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 60,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-15T14:41:06Z",
+    "first_commit_at": "2018-02-21T12:00:42Z",
+    "forks": 32,
+    "watchers": 6,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2182,
+  "rank_in_category": 532,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:05.011254Z",
+  "last_refreshed_at": "2026-08-21T14:59:05.011257Z",
+  "consecutive_refresh_failures": 0
+}

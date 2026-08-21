@@ -1,0 +1,61 @@
+{
+  "slug": "salesagent-genai",
+  "name": "SalesAgent_GenAI",
+  "tagline": "A basic sales agent application using Streamlit for the user interface and LangChain for the AI component. The agent should be able to: . Engage in basic conversations with potential customers, answer",
+  "category": "sales-crm",
+  "tags": [
+    "agent-based-modeling",
+    "conversational-ai",
+    "json",
+    "langchain",
+    "llama3",
+    "openai",
+    "openai-api",
+    "python3",
+    "stremalit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "varun-soni-ai",
+    "url": "https://github.com/varun-soni-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "varun-soni-ai/SalesAgent_GenAI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-03T10:51:32Z",
+    "first_commit_at": "2024-08-23T08:07:15Z",
+    "forks": 3,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3824,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:30:23.845555Z",
+  "last_refreshed_at": "2026-08-21T14:30:23.845557Z",
+  "consecutive_refresh_failures": 0
+}

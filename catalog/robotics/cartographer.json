@@ -1,0 +1,55 @@
+{
+  "slug": "cartographer",
+  "name": "cartographer",
+  "tagline": "Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
+  "category": "robotics",
+  "tags": [
+    "localization",
+    "mapping",
+    "robotics",
+    "self-driving",
+    "slam"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "cartographer-project",
+    "url": "https://github.com/cartographer-project"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cartographer-project/cartographer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7947,
+    "downloads_30d": null,
+    "last_commit_at": "2024-01-05T19:21:01Z",
+    "first_commit_at": "2016-08-02T07:12:42Z",
+    "forks": 2340,
+    "watchers": 376,
+    "open_issues": 242,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5311,
+  "rank_in_category": 55,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:46.472796Z",
+  "last_refreshed_at": "2026-08-21T14:54:46.472799Z",
+  "consecutive_refresh_failures": 0
+}

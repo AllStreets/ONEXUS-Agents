@@ -1,0 +1,62 @@
+{
+  "slug": "trip-planner",
+  "name": "trip-planner",
+  "tagline": "国内风景路线 AI 行程规划 Skill（Codex/Claude/Cursor 通用）：航班核验→高德实测路线→携程+飞猪房价→点评+美团餐厅→Markdown+PDF 攻略",
+  "category": "travel-planning",
+  "tags": [
+    "ai-agent",
+    "ai-skill",
+    "china-travel",
+    "claude-skill",
+    "codex",
+    "itinerary",
+    "mcp",
+    "travel-guide",
+    "travel-planner",
+    "travel-planning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "TianhaoWu66",
+    "url": "https://github.com/TianhaoWu66"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TianhaoWu66/trip-planner",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-19T10:50:09Z",
+    "first_commit_at": "2026-08-18T17:03:48Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4855,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:27:29.281054Z",
+  "last_refreshed_at": "2026-08-21T14:27:29.281057Z",
+  "consecutive_refresh_failures": 0
+}

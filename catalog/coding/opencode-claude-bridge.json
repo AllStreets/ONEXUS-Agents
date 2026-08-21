@@ -1,0 +1,49 @@
+{
+  "slug": "opencode-claude-bridge",
+  "name": "opencode-claude-bridge",
+  "tagline": "OpenCode plugin for Claude Pro/Max OAuth — auto-syncs from Claude CLI",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "dotCipher",
+    "url": "https://github.com/dotCipher"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dotCipher/opencode-claude-bridge",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 102,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-02T15:40:55Z",
+    "first_commit_at": "2026-03-22T23:24:46Z",
+    "forks": 25,
+    "watchers": 2,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2621,
+  "rank_in_category": 451,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:32:00.574369Z",
+  "last_refreshed_at": "2026-08-21T14:32:00.574372Z",
+  "consecutive_refresh_failures": 0
+}

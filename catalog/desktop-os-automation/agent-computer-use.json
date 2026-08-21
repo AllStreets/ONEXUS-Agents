@@ -1,0 +1,62 @@
+{
+  "slug": "agent-computer-use",
+  "name": "agent-computer-use",
+  "tagline": "Computer use CLI for AI agents",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agent-skills",
+    "agentic-ai",
+    "ai-agents",
+    "anthropic",
+    "claude-code",
+    "cli",
+    "computer",
+    "computer-use",
+    "desktop-automation",
+    "linux"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kortix-ai",
+    "url": "https://github.com/kortix-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kortix-ai/agent-computer-use",
+    "huggingface": null,
+    "homepage": "https://agent-computer-use.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 43,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-20T02:15:23Z",
+    "first_commit_at": "2026-03-30T21:05:50Z",
+    "forks": 14,
+    "watchers": 1,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2781,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:47:43.396721Z",
+  "last_refreshed_at": "2026-08-21T14:47:43.396725Z",
+  "consecutive_refresh_failures": 0
+}

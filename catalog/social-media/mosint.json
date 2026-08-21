@@ -1,0 +1,60 @@
+{
+  "slug": "mosint",
+  "name": "mosint",
+  "tagline": "An automated e-mail OSINT tool",
+  "category": "social-media",
+  "tags": [
+    "automation",
+    "data-breach",
+    "email",
+    "email-checker",
+    "go",
+    "hacking",
+    "information-gathering",
+    "osint",
+    "osint-tool",
+    "pentest"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "alpkeskin",
+    "url": "https://github.com/alpkeskin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alpkeskin/mosint",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5996,
+    "downloads_30d": null,
+    "last_commit_at": "2024-02-02T13:10:43Z",
+    "first_commit_at": "2020-09-27T14:55:27Z",
+    "forks": 654,
+    "watchers": 92,
+    "open_issues": 26,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5248,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:35:36.249527Z",
+  "last_refreshed_at": "2026-08-21T14:35:36.249531Z",
+  "consecutive_refresh_failures": 0
+}

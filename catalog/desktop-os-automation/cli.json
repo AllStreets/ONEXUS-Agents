@@ -1,0 +1,55 @@
+{
+  "slug": "cli",
+  "name": "cli",
+  "tagline": "A command-line tool to give your agents access to any app, create workflows and manage your One account.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agents",
+    "apps",
+    "cli",
+    "one",
+    "workflows"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "withoneai",
+    "url": "https://github.com/withoneai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "withoneai/cli",
+    "huggingface": null,
+    "homepage": "https://www.npmjs.com/package/@withone/cli"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 337,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T09:33:38Z",
+    "first_commit_at": "2026-02-13T18:31:10Z",
+    "forks": 33,
+    "watchers": 1,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3702,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:00:33.143415Z",
+  "last_refreshed_at": "2026-08-21T15:00:33.143418Z",
+  "consecutive_refresh_failures": 0
+}

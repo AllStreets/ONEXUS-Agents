@@ -1,0 +1,62 @@
+{
+  "slug": "multi-agent-campaign-creator",
+  "name": "Multi_Agent_Campaign_Creator",
+  "tagline": "4-agent AI system that generates full marketing campaigns — LangGraph orchestrates CrewAI agents (research → copy → visuals → strategy) on Groq.",
+  "category": "marketing",
+  "tags": [
+    "crewai",
+    "github-actions",
+    "groq",
+    "langgraph",
+    "llm",
+    "marketing-ai",
+    "multi-agent",
+    "pytest",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "satyamshivam13",
+    "url": "https://github.com/satyamshivam13"
+  },
+  "source": {
+    "primary": "github",
+    "github": "satyamshivam13/Multi_Agent_Campaign_Creator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-02T04:25:38Z",
+    "first_commit_at": "2026-02-10T09:05:02Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "crewai",
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3757,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:33:13.754844Z",
+  "last_refreshed_at": "2026-08-21T14:33:13.754847Z",
+  "consecutive_refresh_failures": 0
+}

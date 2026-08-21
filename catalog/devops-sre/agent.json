@@ -1,0 +1,60 @@
+{
+  "slug": "agent",
+  "name": "agent",
+  "tagline": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+  "category": "devops-sre",
+  "tags": [
+    "agent",
+    "ai-agent",
+    "autonomous-agent",
+    "devops",
+    "devops-agents",
+    "devtool",
+    "generative-ai",
+    "hacktoberfest",
+    "infrastructure",
+    "llm-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "stakpak",
+    "url": "https://github.com/stakpak"
+  },
+  "source": {
+    "primary": "github",
+    "github": "stakpak/agent",
+    "huggingface": null,
+    "homepage": "https://stakpak.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1744,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-06T10:10:46Z",
+    "first_commit_at": "2024-12-10T21:56:18Z",
+    "forks": 184,
+    "watchers": 14,
+    "open_issues": 38,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5258,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:00:21.944366Z",
+  "last_refreshed_at": "2026-08-21T15:00:21.944370Z",
+  "consecutive_refresh_failures": 0
+}

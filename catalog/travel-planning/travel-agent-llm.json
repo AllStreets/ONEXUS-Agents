@@ -1,0 +1,49 @@
+{
+  "slug": "travel-agent-llm",
+  "name": "travel_agent_LLM",
+  "tagline": "基于LangGraph开发的智能体项目，可借助大模型自动调用工具规划旅游行程，包括景点搜索、交通查询、饭店酒店查询等功能",
+  "category": "travel-planning",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "JianXiao2021",
+    "url": "https://github.com/JianXiao2021"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JianXiao2021/travel_agent_LLM",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 43,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-27T07:10:18Z",
+    "first_commit_at": "2024-08-20T10:10:51Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3461,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:28:00.591163Z",
+  "last_refreshed_at": "2026-08-21T14:28:00.591166Z",
+  "consecutive_refresh_failures": 0
+}

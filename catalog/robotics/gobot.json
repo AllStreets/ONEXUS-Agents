@@ -1,0 +1,60 @@
+{
+  "slug": "gobot",
+  "name": "gobot",
+  "tagline": "Golang framework for robotics, drones, and the Internet of Things (IoT)",
+  "category": "robotics",
+  "tags": [
+    "arduino",
+    "beaglebone",
+    "beaglebone-black",
+    "bluetooth",
+    "bluetooth-le",
+    "drone",
+    "go",
+    "gpio",
+    "hardware",
+    "i2c"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "hybridgroup",
+    "url": "https://github.com/hybridgroup"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hybridgroup/gobot",
+    "huggingface": null,
+    "homepage": "https://gobot.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 9450,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-07T16:21:45Z",
+    "first_commit_at": "2013-10-21T21:23:24Z",
+    "forks": 1062,
+    "watchers": 310,
+    "open_issues": 99,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5616,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:44.788086Z",
+  "last_refreshed_at": "2026-08-21T14:54:44.788089Z",
+  "consecutive_refresh_failures": 0
+}

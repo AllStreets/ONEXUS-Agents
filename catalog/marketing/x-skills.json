@@ -1,0 +1,60 @@
+{
+  "slug": "x-skills",
+  "name": "x-skills",
+  "tagline": "X (Twitter) marketing skills for Claude Code and Codex: write tweets, threads, and replies in your voice, strip AI tells, and publish via Publora. Open source, MIT. Content engineering by Creative Con",
+  "category": "marketing",
+  "tags": [
+    "agent-skill",
+    "ai-agents",
+    "ai-marketing",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "content-creation",
+    "content-engineering",
+    "marketing-automation",
+    "openclaw-skill"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sergebulaev",
+    "url": "https://github.com/sergebulaev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sergebulaev/x-skills",
+    "huggingface": null,
+    "homepage": "https://cccrafts.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 48,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T20:18:51Z",
+    "first_commit_at": "2026-07-02T04:36:12Z",
+    "forks": 8,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5162,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:33:54.031198Z",
+  "last_refreshed_at": "2026-08-21T14:33:54.031202Z",
+  "consecutive_refresh_failures": 0
+}

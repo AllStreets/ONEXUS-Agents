@@ -1,0 +1,55 @@
+{
+  "slug": "xiaohongshu-viral-note-agent-skill",
+  "name": "xiaohongshu-viral-note-agent-skill",
+  "tagline": "小红书爆款笔记生成 Agent Skill｜小红书笔记智能选题、内容生成/爆款小红书笔记仿写、热点趋势分析、封面设计、短视频脚本生成、合规校验、账号分析、一键发布与数据复盘，支持 MCP 接入 Cursor、Claude 、workbuddy、openclaw等 AI Agent。",
+  "category": "marketing",
+  "tags": [
+    "agent-skills",
+    "xhs",
+    "xhs-tool",
+    "xiaohongshu",
+    "xiaohongshu-marketing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "xuboboo",
+    "url": "https://github.com/xuboboo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xuboboo/xiaohongshu-viral-note-agent-skill",
+    "huggingface": null,
+    "homepage": "https://github.com/xuboboo/xiaohongshu-viral-note-agent-skill"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-19T17:25:31Z",
+    "first_commit_at": "2026-07-19T16:19:25Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4015,
+  "rank_in_category": 80,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:00:45.063453Z",
+  "last_refreshed_at": "2026-08-21T15:00:45.063456Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "community",
+  "name": "community",
+  "tagline": "Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS",
+  "category": "knowledge-management",
+  "tags": [
+    "collaboration",
+    "confluence",
+    "dashboards",
+    "docs",
+    "document-conversion",
+    "document-management",
+    "documentation",
+    "documentation-tool",
+    "emberjs",
+    "enterprise"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "documize",
+    "url": "https://github.com/documize"
+  },
+  "source": {
+    "primary": "github",
+    "github": "documize/community",
+    "huggingface": null,
+    "homepage": "https://www.documize.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 2415,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-18T16:18:58Z",
+    "first_commit_at": "2016-07-08T01:54:16Z",
+    "forks": 238,
+    "watchers": 59,
+    "open_issues": 46,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5537,
+  "rank_in_category": 83,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:40.584888Z",
+  "last_refreshed_at": "2026-08-21T14:59:40.584892Z",
+  "consecutive_refresh_failures": 0
+}

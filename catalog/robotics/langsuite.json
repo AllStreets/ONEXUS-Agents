@@ -1,0 +1,55 @@
+{
+  "slug": "langsuite",
+  "name": "langsuite",
+  "tagline": "Official Repo of LangSuitE",
+  "category": "robotics",
+  "tags": [
+    "acl2024",
+    "autonomous-agents",
+    "embodied-agent",
+    "large-language-models",
+    "llm-as-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "bigai-nlco",
+    "url": "https://github.com/bigai-nlco"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bigai-nlco/langsuite",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 86,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-15T13:20:26Z",
+    "first_commit_at": "2023-11-01T01:47:01Z",
+    "forks": 2,
+    "watchers": 6,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3593,
+  "rank_in_category": 143,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:24.233463Z",
+  "last_refreshed_at": "2026-08-21T14:54:24.233466Z",
+  "consecutive_refresh_failures": 0
+}

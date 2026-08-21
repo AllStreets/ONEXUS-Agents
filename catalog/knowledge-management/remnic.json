@@ -1,0 +1,62 @@
+{
+  "slug": "remnic",
+  "name": "remnic",
+  "tagline": "Open-source memory and context for user-aware agents: scoped memory, provenance, retrieval quality, correction, boundaries, evals, and MCP/HTTP access.",
+  "category": "knowledge-management",
+  "tags": [
+    "ai-agent",
+    "ai-memory",
+    "claude-code",
+    "engram",
+    "hermes-plugin",
+    "knowledge-graph",
+    "llm",
+    "local-first",
+    "long-term-memory",
+    "markdown"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "joshuaswarren",
+    "url": "https://github.com/joshuaswarren"
+  },
+  "source": {
+    "primary": "github",
+    "github": "joshuaswarren/remnic",
+    "huggingface": null,
+    "homepage": "https://remnic.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 173,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T14:29:15Z",
+    "first_commit_at": "2026-02-05T23:01:17Z",
+    "forks": 22,
+    "watchers": 0,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6154,
+  "rank_in_category": 55,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:41:40.042729Z",
+  "last_refreshed_at": "2026-08-21T14:41:40.042733Z",
+  "consecutive_refresh_failures": 0
+}

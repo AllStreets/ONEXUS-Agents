@@ -1,0 +1,59 @@
+{
+  "slug": "giga-piano-xl",
+  "name": "GIGA-Piano-XL",
+  "tagline": "SOTA Piano Transformer model trained on 4.2GB of Solo Piano MIDI music",
+  "category": "music",
+  "tags": [
+    "large-scale-training",
+    "music-ai",
+    "music-composition",
+    "music-generation",
+    "music-transformer",
+    "music-transformers-implementations",
+    "piano",
+    "piano-transformer",
+    "sota"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "asigalov61",
+    "url": "https://github.com/asigalov61"
+  },
+  "source": {
+    "primary": "github",
+    "github": "asigalov61/GIGA-Piano-XL",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 28,
+    "downloads_30d": null,
+    "last_commit_at": "2023-11-09T22:48:48Z",
+    "first_commit_at": "2022-10-10T19:07:17Z",
+    "forks": 5,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2504,
+  "rank_in_category": 105,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:46:42.529195Z",
+  "last_refreshed_at": "2026-08-21T14:46:42.529198Z",
+  "consecutive_refresh_failures": 0
+}

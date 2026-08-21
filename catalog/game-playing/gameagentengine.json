@@ -1,0 +1,49 @@
+{
+  "slug": "gameagentengine",
+  "name": "GameAgentEngine",
+  "tagline": "GameAgentEngine is a Go-based engine that sits between your game logic and LLM capabilities — responsible for world modeling, NPC intelligent behavior, memory management, and world timeline progressio",
+  "category": "game-playing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "ZSLTChenXiYin",
+    "url": "https://github.com/ZSLTChenXiYin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ZSLTChenXiYin/GameAgentEngine",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-04T15:36:19Z",
+    "first_commit_at": "2026-07-05T11:25:42Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4493,
+  "rank_in_category": 48,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:50:35.467438Z",
+  "last_refreshed_at": "2026-08-21T14:50:35.467442Z",
+  "consecutive_refresh_failures": 0
+}

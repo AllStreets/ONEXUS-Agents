@@ -1,0 +1,60 @@
+{
+  "slug": "ultimatevocalremovergui",
+  "name": "ultimatevocalremovergui",
+  "tagline": " GUI for a Vocal Remover that uses Deep Neural Networks.",
+  "category": "music",
+  "tags": [
+    "audio",
+    "instrumental",
+    "karaoke",
+    "kareokee",
+    "music",
+    "pytorch",
+    "separation",
+    "source",
+    "spectrogram",
+    "vocal"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Anjok07",
+    "url": "https://github.com/Anjok07"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Anjok07/ultimatevocalremovergui",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25829,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-13T21:44:03Z",
+    "first_commit_at": "2020-07-20T21:29:02Z",
+    "forks": 1946,
+    "watchers": 191,
+    "open_issues": 1513,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4942,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:46:02.001470Z",
+  "last_refreshed_at": "2026-08-21T14:46:02.001473Z",
+  "consecutive_refresh_failures": 0
+}

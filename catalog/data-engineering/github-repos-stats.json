@@ -1,0 +1,53 @@
+{
+  "slug": "github-repos-stats",
+  "name": "github-repos-stats",
+  "tagline": "Collect Repos Star/Fork/Watch Counts Everyday",
+  "category": "data-engineering",
+  "tags": [
+    "china",
+    "cncf",
+    "kubernetes"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "DaoCloud-OpenSource",
+    "url": "https://github.com/DaoCloud-OpenSource"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DaoCloud-OpenSource/github-repos-stats",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 19,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-17T08:40:46Z",
+    "first_commit_at": "2022-02-22T07:57:43Z",
+    "forks": 0,
+    "watchers": 2,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5143,
+  "rank_in_category": 58,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:58:01.114019Z",
+  "last_refreshed_at": "2026-08-21T14:58:01.114023Z",
+  "consecutive_refresh_failures": 0
+}

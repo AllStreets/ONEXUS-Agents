@@ -1,0 +1,62 @@
+{
+  "slug": "estatewise-chapel-hill-chatbot",
+  "name": "EstateWise-Chapel-Hill-Chatbot",
+  "tagline": "🏠 An AI real estate app featuring secure auth, conversation management, & personalized property recommendations. Powered by Agentic AI, RAG (w/ Pinecone), GraphRAG (w/ Neo4j), MCP, kNN, K‑Means Cluste",
+  "category": "real-estate",
+  "tags": [
+    "agentic-ai",
+    "artificial-intelligence",
+    "blue-green-deployment",
+    "canary-deployment",
+    "chatbot",
+    "estate",
+    "express",
+    "k-means-clustering",
+    "knn",
+    "machine-learning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hoangsonww",
+    "url": "https://github.com/hoangsonww"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hoangsonww/EstateWise-Chapel-Hill-Chatbot",
+    "huggingface": null,
+    "homepage": "https://estatewise.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 38,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-16T18:10:15Z",
+    "first_commit_at": "2025-04-15T15:04:31Z",
+    "forks": 22,
+    "watchers": 10,
+    "open_issues": 24,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6347,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:43:59.411409Z",
+  "last_refreshed_at": "2026-08-21T14:43:59.411412Z",
+  "consecutive_refresh_failures": 0
+}

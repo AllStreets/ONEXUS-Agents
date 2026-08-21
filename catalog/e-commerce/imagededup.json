@@ -1,0 +1,59 @@
+{
+  "slug": "imagededup",
+  "name": "imagededup",
+  "tagline": "😎 Finding duplicate images made easy!",
+  "category": "e-commerce",
+  "tags": [
+    "computer-vision",
+    "e-commerce",
+    "hashing",
+    "idealo",
+    "image-deduplication",
+    "image-preprocessing",
+    "neural-network",
+    "python",
+    "pytorch"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "idealo",
+    "url": "https://github.com/idealo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "idealo/imagededup",
+    "huggingface": null,
+    "homepage": "https://idealo.github.io/imagededup/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5665,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-15T15:19:22Z",
+    "first_commit_at": "2019-04-09T13:49:15Z",
+    "forks": 476,
+    "watchers": 59,
+    "open_issues": 38,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5391,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:39:07.075419Z",
+  "last_refreshed_at": "2026-08-21T14:39:07.075423Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "rerun",
+  "name": "rerun",
+  "tagline": "Visualize, query, and stream to train on multimodal robotics data.",
+  "category": "robotics",
+  "tags": [
+    "computer-vision",
+    "cpp",
+    "multimodal",
+    "python",
+    "robotics",
+    "rust",
+    "visualization"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "rerun-io",
+    "url": "https://github.com/rerun-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rerun-io/rerun",
+    "huggingface": null,
+    "homepage": "https://rerun.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 11333,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T13:51:09Z",
+    "first_commit_at": "2022-04-08T10:47:59Z",
+    "forks": 825,
+    "watchers": 74,
+    "open_issues": 1271,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7275,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:42.042324Z",
+  "last_refreshed_at": "2026-08-21T14:54:42.042327Z",
+  "consecutive_refresh_failures": 0
+}

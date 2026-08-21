@@ -1,0 +1,57 @@
+{
+  "slug": "obsidian-vault-agent",
+  "name": "obsidian-vault-agent",
+  "tagline": " Claude Code plugin: AI agent for your Obsidian vault — process books, courses, papers, YouTube into connected notes",
+  "category": "knowledge-management",
+  "tags": [
+    "agents",
+    "claude-code",
+    "claude-code-skills",
+    "llms",
+    "obsidian",
+    "second-brain",
+    "zettelkasten"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tuan3w",
+    "url": "https://github.com/tuan3w"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tuan3w/obsidian-vault-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 37,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-30T12:27:05Z",
+    "first_commit_at": "2026-03-21T01:38:50Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3337,
+  "rank_in_category": 163,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:01:54.167434Z",
+  "last_refreshed_at": "2026-08-21T15:01:54.167438Z",
+  "consecutive_refresh_failures": 0
+}

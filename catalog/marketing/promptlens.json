@@ -1,0 +1,58 @@
+{
+  "slug": "promptlens",
+  "name": "promptlens",
+  "tagline": "Local-first Chrome extension for reverse-engineering image prompts and visual marketing diagnosis with your own Vision API.",
+  "category": "marketing",
+  "tags": [
+    "ai-tools",
+    "byok",
+    "chrome-extension",
+    "local-first",
+    "marketing-ai",
+    "prompt-engineering",
+    "reverse-prompt",
+    "vision-api"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wildbyteai",
+    "url": "https://github.com/wildbyteai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wildbyteai/promptlens",
+    "huggingface": null,
+    "homepage": "https://promptlens.bytewatcher.xyz/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-31T06:20:43Z",
+    "first_commit_at": "2026-06-30T08:58:13Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3632,
+  "rank_in_category": 91,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:33:14.780035Z",
+  "last_refreshed_at": "2026-08-21T14:33:14.780038Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "accessibility-agents",
+  "name": "accessibility-agents",
+  "tagline": "Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code.",
+  "category": "coding",
+  "tags": [
+    "a11y",
+    "accessibility",
+    "ai-agents",
+    "aria",
+    "assistive-technology",
+    "claude",
+    "claude-code",
+    "copilot",
+    "github-copilot",
+    "screen-reader"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Community-Access",
+    "url": "https://github.com/Community-Access"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Community-Access/accessibility-agents",
+    "huggingface": null,
+    "homepage": "https://github.com/taylorarndt/a11y-agent-team#readme"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 397,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-11T13:43:32Z",
+    "first_commit_at": "2026-02-21T00:23:22Z",
+    "forks": 43,
+    "watchers": 13,
+    "open_issues": 40,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3725,
+  "rank_in_category": 193,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:03.297566Z",
+  "last_refreshed_at": "2026-08-21T14:45:10.995627Z",
+  "consecutive_refresh_failures": 0
+}

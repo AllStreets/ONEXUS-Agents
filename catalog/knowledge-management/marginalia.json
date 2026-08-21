@@ -1,0 +1,60 @@
+{
+  "slug": "marginalia",
+  "name": "marginalia",
+  "tagline": "A library-science-inspired personal knowledge management system with LLM agents",
+  "category": "knowledge-management",
+  "tags": [
+    "apple-silicon",
+    "arm64",
+    "desktop-app",
+    "docker",
+    "document-management",
+    "document-search",
+    "fastapi",
+    "information-retrieval",
+    "knowledge-base",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shenmintao",
+    "url": "https://github.com/shenmintao"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shenmintao/marginalia",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 232,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T10:16:04Z",
+    "first_commit_at": "2026-05-23T14:23:27Z",
+    "forks": 31,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5185,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:38:36.811734Z",
+  "last_refreshed_at": "2026-08-21T14:38:36.811738Z",
+  "consecutive_refresh_failures": 0
+}

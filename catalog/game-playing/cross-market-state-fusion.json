@@ -1,0 +1,49 @@
+{
+  "slug": "cross-market-state-fusion",
+  "name": "cross-market-state-fusion",
+  "tagline": "RL agent fusing real-time Binance futures data into Polymarket prediction markets. On-device training with MLX on Apple Silicon.",
+  "category": "game-playing",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "humanplane",
+    "url": "https://github.com/humanplane"
+  },
+  "source": {
+    "primary": "github",
+    "github": "humanplane/cross-market-state-fusion",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 385,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-03T18:56:14Z",
+    "first_commit_at": "2025-12-29T21:26:58Z",
+    "forks": 96,
+    "watchers": 7,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4498,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:51:47.849668Z",
+  "last_refreshed_at": "2026-08-21T14:51:47.849672Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "genomi",
+  "name": "genomi",
+  "tagline": "Local-first, open-source Claude Science alternative, before Claude Science is a thing. Turn your AI agent into personal DNA expert.",
+  "category": "bioinformatics",
+  "tags": [
+    "agent-harness",
+    "genome-analysis",
+    "whole-genome-sequencing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "exon-research",
+    "url": "https://github.com/exon-research"
+  },
+  "source": {
+    "primary": "github",
+    "github": "exon-research/genomi",
+    "huggingface": null,
+    "homepage": "https://www.genomiagent.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 478,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-17T21:01:38Z",
+    "first_commit_at": "2026-05-28T15:37:06Z",
+    "forks": 61,
+    "watchers": 25,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6466,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:00:28.601464Z",
+  "last_refreshed_at": "2026-08-21T15:00:28.601468Z",
+  "consecutive_refresh_failures": 0
+}

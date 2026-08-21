@@ -1,0 +1,59 @@
+{
+  "slug": "text-to-cad",
+  "name": "text-to-cad",
+  "tagline": "A library of agent skills for CAD, CAE and CAM",
+  "category": "robotics",
+  "tags": [
+    "agents",
+    "ai-agents",
+    "cad",
+    "mechanical-engineering",
+    "robotics",
+    "step",
+    "stl",
+    "stp",
+    "text-to-cad"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "earthtojake",
+    "url": "https://github.com/earthtojake"
+  },
+  "source": {
+    "primary": "github",
+    "github": "earthtojake/text-to-cad",
+    "huggingface": null,
+    "homepage": "https://www.texttocad.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13747,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T03:09:30Z",
+    "first_commit_at": "2026-04-22T03:30:15Z",
+    "forks": 1452,
+    "watchers": 73,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6947,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:40.420649Z",
+  "last_refreshed_at": "2026-08-21T14:54:40.420652Z",
+  "consecutive_refresh_failures": 0
+}

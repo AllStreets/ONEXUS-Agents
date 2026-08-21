@@ -1,0 +1,60 @@
+{
+  "slug": "spotube",
+  "name": "spotube",
+  "tagline": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+  "category": "music",
+  "tags": [
+    "android",
+    "android-client",
+    "android-music-player",
+    "desktop-client",
+    "fdroid",
+    "flutter",
+    "flutter-desktop",
+    "linux",
+    "macos",
+    "music"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "KRTirtho",
+    "url": "https://github.com/KRTirtho"
+  },
+  "source": {
+    "primary": "github",
+    "github": "KRTirtho/spotube",
+    "huggingface": null,
+    "homepage": "https://spotube.cc/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 48569,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T13:50:16Z",
+    "first_commit_at": "2021-02-14T03:15:49Z",
+    "forks": 2254,
+    "watchers": 258,
+    "open_issues": 848,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7049,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:45:57.802447Z",
+  "last_refreshed_at": "2026-08-21T14:45:57.802450Z",
+  "consecutive_refresh_failures": 0
+}

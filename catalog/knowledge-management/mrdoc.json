@@ -1,0 +1,57 @@
+{
+  "slug": "mrdoc",
+  "name": "MrDoc",
+  "tagline": "mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。",
+  "category": "knowledge-management",
+  "tags": [
+    "django",
+    "document-management",
+    "knowledge-management",
+    "markdown",
+    "notes-app",
+    "python",
+    "wiki"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zmister2016",
+    "url": "https://github.com/zmister2016"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zmister2016/MrDoc",
+    "huggingface": null,
+    "homepage": "https://mrdoc.io/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 3231,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T03:51:10Z",
+    "first_commit_at": "2019-07-10T14:03:55Z",
+    "forks": 583,
+    "watchers": 47,
+    "open_issues": 51,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6686,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:38.058749Z",
+  "last_refreshed_at": "2026-08-21T14:59:38.058752Z",
+  "consecutive_refresh_failures": 0
+}

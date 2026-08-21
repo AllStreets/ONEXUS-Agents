@@ -1,0 +1,55 @@
+{
+  "slug": "lmms",
+  "name": "lmms",
+  "tagline": "Cross-platform music production software",
+  "category": "music",
+  "tags": [
+    "daw",
+    "hacktoberfest",
+    "midi",
+    "music",
+    "songs"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "LMMS",
+    "url": "https://github.com/LMMS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LMMS/lmms",
+    "huggingface": null,
+    "homepage": "https://lmms.io/"
+  },
+  "license": "GPL-2.0",
+  "metrics": {
+    "stars": 10274,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-17T23:34:10Z",
+    "first_commit_at": "2005-09-22T13:49:52Z",
+    "forks": 1245,
+    "watchers": 244,
+    "open_issues": 1450,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6615,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:46:14.301965Z",
+  "last_refreshed_at": "2026-08-21T14:46:14.301969Z",
+  "consecutive_refresh_failures": 0
+}

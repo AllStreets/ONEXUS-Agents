@@ -1,0 +1,55 @@
+{
+  "slug": "progresslm",
+  "name": "ProgressLM",
+  "tagline": "[ACL 2026 Oral] How far can VLMs go in understanding long-horizon action progress from just a single observation? A promising early exploration ",
+  "category": "robotics",
+  "tags": [
+    "embodied-agent",
+    "multimodal-llm",
+    "robotics",
+    "spatial",
+    "vision-language-model"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ProgressLM",
+    "url": "https://github.com/ProgressLM"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ProgressLM/ProgressLM",
+    "huggingface": null,
+    "homepage": "https://progresslm.github.io/ProgressLM/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 129,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-26T23:25:19Z",
+    "first_commit_at": "2025-10-15T02:06:28Z",
+    "forks": 13,
+    "watchers": 14,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5093,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:19.956011Z",
+  "last_refreshed_at": "2026-08-21T14:54:19.956014Z",
+  "consecutive_refresh_failures": 0
+}

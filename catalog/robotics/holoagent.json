@@ -1,0 +1,52 @@
+{
+  "slug": "holoagent",
+  "name": "HoloAgent",
+  "tagline": "A unified, agentic system for general-purpose robots, enabling multi-modal perception, mapping and localization, and autonomous mobility and manipulation, with intelligent interaction with users.",
+  "category": "robotics",
+  "tags": [
+    "embodied-agent",
+    "robotic"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "HorizonRobotics",
+    "url": "https://github.com/HorizonRobotics"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HorizonRobotics/HoloAgent",
+    "huggingface": null,
+    "homepage": "https://horizonrobotics.github.io/robot_lab/holoagent/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 345,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-17T06:26:17Z",
+    "first_commit_at": "2025-11-07T03:31:24Z",
+    "forks": 26,
+    "watchers": 12,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5455,
+  "rank_in_category": 48,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:54:08.579180Z",
+  "last_refreshed_at": "2026-08-21T14:54:08.579183Z",
+  "consecutive_refresh_failures": 0
+}

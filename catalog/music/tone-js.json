@@ -1,0 +1,57 @@
+{
+  "slug": "tone-js",
+  "name": "Tone.js",
+  "tagline": "A Web Audio framework for making interactive music in the browser.",
+  "category": "music",
+  "tags": [
+    "javascript",
+    "music",
+    "samples",
+    "scheduling",
+    "synthesis",
+    "tone",
+    "web-audio"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Tonejs",
+    "url": "https://github.com/Tonejs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tonejs/Tone.js",
+    "huggingface": null,
+    "homepage": "https://tonejs.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14705,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-07T12:36:37Z",
+    "first_commit_at": "2014-03-11T04:54:40Z",
+    "forks": 1058,
+    "watchers": 206,
+    "open_issues": 58,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6517,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:46:07.232367Z",
+  "last_refreshed_at": "2026-08-21T14:46:07.232370Z",
+  "consecutive_refresh_failures": 0
+}

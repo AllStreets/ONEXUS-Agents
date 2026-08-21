@@ -1,39 +1,40 @@
 {
   "slug": "pymapf",
   "name": "pymapf",
-  "tagline": "📍🗺️ A Python library for Multi-Agents Planning and Pathfinding (Centralized and Decentralized)",
+  "tagline": "A Python library for multi-agent planning and pathfinding: CBS, PIBT, LaCAM, LNS, space-time A*, plus decentralized NMPC, velocity obstacles and swarm behaviors",
   "category": "robotics",
   "tags": [
     "control",
     "mapf",
-    "muli-agent-pathfinding",
     "multi-agent",
+    "multi-agent-pathfinding",
     "multi-agent-planning",
     "multi-agent-system",
+    "pathfinding",
     "planning",
-    "plannng",
+    "python",
     "robotics"
   ],
   "author": {
     "type": "org",
-    "handle": "APLA-Toolbox",
-    "url": "https://github.com/APLA-Toolbox"
+    "handle": "openplan-labs",
+    "url": "https://github.com/openplan-labs"
   },
   "source": {
     "primary": "github",
-    "github": "APLA-Toolbox/pymapf",
+    "github": "openplan-labs/pymapf",
     "huggingface": null,
-    "homepage": "https://apla-toolbox.github.io/pymapf/"
+    "homepage": "https://openplan-labs.github.io/pymapf/"
   },
   "license": "MIT",
   "metrics": {
     "stars": 77,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-11T22:12:41Z",
+    "last_commit_at": "2026-08-21T10:51:10Z",
     "first_commit_at": "2021-01-09T19:52:13Z",
     "forks": 12,
     "watchers": 0,
-    "open_issues": 13,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -50,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4501,
-  "rank_in_category": 3,
+  "composite_score": 0.5741,
+  "rank_in_category": 39,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-15T13:55:09.515510Z",
-  "last_refreshed_at": "2026-08-15T13:55:09.515514Z",
-  "consecutive_refresh_failures": 4
+  "first_seen_at": "2026-08-21T14:12:34.662569Z",
+  "last_refreshed_at": "2026-08-21T14:12:34.662573Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,56 @@
+{
+  "slug": "projectbea",
+  "name": "projectBEA",
+  "tagline": "ProjectBEA is a modular, autonomous AI VTuber engine. Features RAG memory, OBS integration, Discord voice calls, and an autonomous Minecraft agent. Built with Python/React, it supports swappable LLMs/",
+  "category": "game-playing",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-vtuber",
+    "ai-vtuber-model",
+    "autonomous-agents",
+    "vtuber"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "emqnuele",
+    "url": "https://github.com/emqnuele"
+  },
+  "source": {
+    "primary": "github",
+    "github": "emqnuele/projectBEA",
+    "huggingface": null,
+    "homepage": "https://projectbea.emqnuele.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-27T22:27:24Z",
+    "first_commit_at": "2026-02-18T01:01:18Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3863,
+  "rank_in_category": 76,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:52:51.680627Z",
+  "last_refreshed_at": "2026-08-21T14:52:51.680630Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "llm-osint",
+  "name": "llm_osint",
+  "tagline": "LLM OSINT is a proof-of-concept method of using LLMs to gather information from the internet and then perform a task with this information.",
+  "category": "browser-automation",
+  "tags": [
+    "gpt-4",
+    "llms",
+    "osint",
+    "webscraping"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sshh12",
+    "url": "https://github.com/sshh12"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sshh12/llm_osint",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 317,
+    "downloads_30d": null,
+    "last_commit_at": "2024-11-02T01:57:05Z",
+    "first_commit_at": "2023-04-13T00:51:48Z",
+    "forks": 52,
+    "watchers": 8,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2591,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T15:00:34.751897Z",
+  "last_refreshed_at": "2026-08-21T15:00:34.751901Z",
+  "consecutive_refresh_failures": 0
+}

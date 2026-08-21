@@ -1,0 +1,60 @@
+{
+  "slug": "ansari-skill",
+  "name": "ansari-skill",
+  "tagline": "Islamic Knowledge Agent Skill — answers questions about Islam using authentic sources. Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, and Gemini CLI.",
+  "category": "knowledge-management",
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "claude",
+    "codex",
+    "copilot",
+    "cursor",
+    "gemini",
+    "hadith",
+    "islamic",
+    "quran"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ansari-project",
+    "url": "https://github.com/ansari-project"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ansari-project/ansari-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 19,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-03T15:37:23Z",
+    "first_commit_at": "2026-02-01T11:54:24Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4134,
+  "rank_in_category": 142,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:59.746638Z",
+  "last_refreshed_at": "2026-08-21T14:59:59.746642Z",
+  "consecutive_refresh_failures": 0
+}

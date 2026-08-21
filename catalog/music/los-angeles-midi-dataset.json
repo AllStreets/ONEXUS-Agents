@@ -1,0 +1,60 @@
+{
+  "slug": "los-angeles-midi-dataset",
+  "name": "Los-Angeles-MIDI-Dataset",
+  "tagline": "SOTA kilo-scale MIDI dataset for MIR and Music AI purposes",
+  "category": "music",
+  "tags": [
+    "dataset",
+    "gpu-acceleration",
+    "gpu-midi-search",
+    "gpu-search",
+    "kilo-scale",
+    "large-scale-dataset",
+    "los-angeles",
+    "midi",
+    "midi-dataset",
+    "midi-search"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "asigalov61",
+    "url": "https://github.com/asigalov61"
+  },
+  "source": {
+    "primary": "github",
+    "github": "asigalov61/Los-Angeles-MIDI-Dataset",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/datasets/projectlosangeles/Los-Angeles-MIDI-Dataset"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 68,
+    "downloads_30d": null,
+    "last_commit_at": "2024-02-20T10:25:20Z",
+    "first_commit_at": "2021-08-25T02:41:22Z",
+    "forks": 3,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2622,
+  "rank_in_category": 103,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:46:36.254341Z",
+  "last_refreshed_at": "2026-08-21T14:46:36.254344Z",
+  "consecutive_refresh_failures": 0
+}

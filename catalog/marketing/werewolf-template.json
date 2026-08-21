@@ -1,0 +1,55 @@
+{
+  "slug": "werewolf-template",
+  "name": "werewolf-template",
+  "tagline": "Template repository for the Werewolf hackathon",
+  "category": "marketing",
+  "tags": [
+    "agi",
+    "ai-research",
+    "campaign",
+    "sentient",
+    "werewolf"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sentient-agi",
+    "url": "https://github.com/sentient-agi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sentient-agi/werewolf-template",
+    "huggingface": null,
+    "homepage": "https://openagi.discourse.group/t/agi-thon-werewolf-agents-tournament-home/2465"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 19,
+    "downloads_30d": null,
+    "last_commit_at": "2024-11-09T22:36:02Z",
+    "first_commit_at": "2024-09-23T10:09:24Z",
+    "forks": 12,
+    "watchers": 1,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2515,
+  "rank_in_category": 123,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:35:16.883531Z",
+  "last_refreshed_at": "2026-08-21T14:35:16.883534Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "spotify-ai-band-blocker",
+  "name": "Spotify-AI-Band-Blocker",
+  "tagline": "A Spicetify extension to skip songs from AI artists. Powered by SoulOverAI and Zoundhub.",
+  "category": "music",
+  "tags": [
+    "ai-music",
+    "blocklist",
+    "spicetify-extensions"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Reginald-Gillespie",
+    "url": "https://github.com/Reginald-Gillespie"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Reginald-Gillespie/Spotify-AI-Band-Blocker",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 69,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-29T16:28:11Z",
+    "first_commit_at": "2025-11-23T06:48:11Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4216,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:47:18.106230Z",
+  "last_refreshed_at": "2026-08-21T14:47:18.106233Z",
+  "consecutive_refresh_failures": 0
+}

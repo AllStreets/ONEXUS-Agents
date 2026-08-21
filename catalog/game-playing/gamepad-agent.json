@@ -1,0 +1,49 @@
+{
+  "slug": "gamepad-agent",
+  "name": "gamepad-agent",
+  "tagline": "一个纯 Go 实现的游戏手柄网络转发工具（实际上用的库并不纯）",
+  "category": "game-playing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "locoz666",
+    "url": "https://github.com/locoz666"
+  },
+  "source": {
+    "primary": "github",
+    "github": "locoz666/gamepad-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2020-05-08T10:27:42Z",
+    "first_commit_at": "2020-05-06T11:29:02Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3097,
+  "rank_in_category": 124,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:50:37.358409Z",
+  "last_refreshed_at": "2026-08-21T14:50:37.358413Z",
+  "consecutive_refresh_failures": 0
+}

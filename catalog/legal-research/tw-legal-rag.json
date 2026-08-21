@@ -1,7 +1,7 @@
 {
   "slug": "tw-legal-rag",
   "name": "tw-legal-rag",
-  "tagline": "Open-source CLI for semantic Taiwan legal judgment retrieval. Search judgments, package them for your own AI (Claude/ChatGPT), and run a bundle-level citation check. Bring your own LLM; retrieval-only",
+  "tagline": "台灣判決語意檢索 MCP server + CLI（公開原始碼 source-available）：2,250 萬筆裁判書、行政函釋、憲法法庭裁判，附引用查核。Taiwan legal judgment retrieval via MCP. Bring your own LLM; retrieval-only.",
   "category": "legal-research",
   "tags": [
     "court-judgments",
@@ -28,12 +28,12 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 250,
+    "stars": 294,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-20T10:01:00Z",
+    "last_commit_at": "2026-08-20T14:34:22Z",
     "first_commit_at": "2026-05-23T04:12:21Z",
     "forks": 40,
-    "watchers": 0,
+    "watchers": 1,
     "open_issues": 1,
     "archived": false,
     "is_fork": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4071,
+  "composite_score": 0.4087,
   "rank_in_category": 7,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-05T15:38:59.852090Z",
-  "last_refreshed_at": "2026-08-20T14:11:52.514145Z",
+  "last_refreshed_at": "2026-08-21T14:10:56.024495Z",
   "consecutive_refresh_failures": 0
 }

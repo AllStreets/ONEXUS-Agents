@@ -1,0 +1,60 @@
+{
+  "slug": "pear-desktop",
+  "name": "pear-desktop",
+  "tagline": "Pear 🍐 is extension for music player",
+  "category": "music",
+  "tags": [
+    "desktop-app",
+    "electron",
+    "linux",
+    "mac",
+    "macosx",
+    "music",
+    "music-player",
+    "music-player-application",
+    "music-player-extension",
+    "node"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pear-devs",
+    "url": "https://github.com/pear-devs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pear-devs/pear-desktop",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 33135,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T11:01:18Z",
+    "first_commit_at": "2019-04-19T18:12:36Z",
+    "forks": 1948,
+    "watchers": 172,
+    "open_issues": 645,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6954,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:45:59.493788Z",
+  "last_refreshed_at": "2026-08-21T14:45:59.493791Z",
+  "consecutive_refresh_failures": 0
+}

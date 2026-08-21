@@ -1,0 +1,62 @@
+{
+  "slug": "asc-mcp",
+  "name": "asc-mcp",
+  "tagline": "MCP server for App Store Connect API - 502 tools for apps, builds, TestFlight, subscriptions, Xcode Cloud, and more from Claude, Cursor, VS Code, or any MCP client",
+  "category": "coding",
+  "tags": [
+    "ai-tools",
+    "app-store-connect",
+    "claude",
+    "in-app-purchase",
+    "ios",
+    "macos",
+    "mcp",
+    "model-context-protocol",
+    "subscriptions",
+    "swift"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zelentsov-dev",
+    "url": "https://github.com/zelentsov-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zelentsov-dev/asc-mcp",
+    "huggingface": null,
+    "homepage": "https://github.com/zelentsov-dev/asc-mcp/releases"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 61,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-21T16:22:47Z",
+    "first_commit_at": "2026-02-17T06:07:24Z",
+    "forks": 11,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3173,
+  "rank_in_category": 322,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:42:20.102887Z",
+  "last_refreshed_at": "2026-08-21T14:42:20.102891Z",
+  "consecutive_refresh_failures": 0
+}

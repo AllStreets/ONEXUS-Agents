@@ -1,0 +1,60 @@
+{
+  "slug": "workbuddian",
+  "name": "workbuddian",
+  "tagline": "Obsidian 插件:把本地 CodeBuddy CLI 或 Hermes agent 变成 vault 内 AI 聊天——流式回复、@引用、双后端切换。Obsidian plugin turning local CodeBuddy CLI or Hermes agent into an in-vault AI chat with streaming, @-references, and dua",
+  "category": "knowledge-management",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "ai-chat",
+    "chat",
+    "claude-code",
+    "codebuddy",
+    "hermes",
+    "hermes-agent",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jiang198012",
+    "url": "https://github.com/jiang198012"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jiang198012/workbuddian",
+    "huggingface": null,
+    "homepage": "https://obsidian.md/plugins?id=workbuddian"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 43,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-18T07:15:55Z",
+    "first_commit_at": "2026-07-12T00:11:54Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4509,
+  "rank_in_category": 124,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:11.892916Z",
+  "last_refreshed_at": "2026-08-21T14:59:11.892919Z",
+  "consecutive_refresh_failures": 0
+}

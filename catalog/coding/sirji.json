@@ -1,0 +1,53 @@
+{
+  "slug": "sirji",
+  "name": "sirji",
+  "tagline": "Sirji is a framework to build & run custom AI agents for your everyday dev tasks.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "vscode-extension"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sirji-ai",
+    "url": "https://github.com/sirji-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sirji-ai/sirji",
+    "huggingface": null,
+    "homepage": "https://docs.sirji.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 76,
+    "downloads_30d": null,
+    "last_commit_at": "2024-09-17T05:48:18Z",
+    "first_commit_at": "2024-03-18T05:51:46Z",
+    "forks": 19,
+    "watchers": 8,
+    "open_issues": 10,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2087,
+  "rank_in_category": 556,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:05.509342Z",
+  "last_refreshed_at": "2026-08-21T14:45:22.403813Z",
+  "consecutive_refresh_failures": 0
+}

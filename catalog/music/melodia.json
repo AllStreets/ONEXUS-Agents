@@ -1,0 +1,51 @@
+{
+  "slug": "melodia",
+  "name": "Melodia",
+  "tagline": "用自然语言和 AI 获取个性化音乐推荐，从单次歌单扩展到完整的「音乐旅程」编排。 基于 FastAPI + LangGraph + Next.js，对接 Spotify / 网络搜索，支持心情、场景、故事驱动的音乐推荐、歌曲网络搜索，以及按情绪曲线自动分段的音乐旅程生成。",
+  "category": "music",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "imagist13",
+    "url": "https://github.com/imagist13"
+  },
+  "source": {
+    "primary": "github",
+    "github": "imagist13/Melodia",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-03T13:41:48Z",
+    "first_commit_at": "2025-09-29T11:13:23Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.277,
+  "rank_in_category": 99,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:48:04.674769Z",
+  "last_refreshed_at": "2026-08-21T14:48:04.674773Z",
+  "consecutive_refresh_failures": 0
+}

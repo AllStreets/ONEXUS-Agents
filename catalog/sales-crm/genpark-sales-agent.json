@@ -1,0 +1,57 @@
+{
+  "slug": "genpark-sales-agent",
+  "name": "genpark-sales-agent",
+  "tagline": "Autonomous outbound B2B sales development representative.",
+  "category": "sales-crm",
+  "tags": [
+    "agentic-workflow",
+    "ai-agents",
+    "autonomous-agents",
+    "genpark",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "alphaparkinc",
+    "url": "https://github.com/alphaparkinc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alphaparkinc/genpark-sales-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-20T10:19:12Z",
+    "first_commit_at": "2026-04-20T10:19:01Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.41,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:30:35.821869Z",
+  "last_refreshed_at": "2026-08-21T14:30:35.821871Z",
+  "consecutive_refresh_failures": 0
+}

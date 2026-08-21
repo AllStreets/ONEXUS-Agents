@@ -1,0 +1,49 @@
+{
+  "slug": "safety-starter-agents",
+  "name": "safety-starter-agents",
+  "tagline": "Basic constrained RL agents used in experiments for the \"Benchmarking Safe Exploration in Deep Reinforcement Learning\" paper.",
+  "category": "game-playing",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "openai",
+    "url": "https://github.com/openai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openai/safety-starter-agents",
+    "huggingface": null,
+    "homepage": "https://openai.com/blog/safety-gym/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 464,
+    "downloads_30d": null,
+    "last_commit_at": "2023-04-02T11:55:14Z",
+    "first_commit_at": "2019-11-21T03:16:21Z",
+    "forks": 111,
+    "watchers": 5,
+    "open_issues": 9,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1588,
+  "rank_in_category": 169,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:51:46.863918Z",
+  "last_refreshed_at": "2026-08-21T14:51:46.863921Z",
+  "consecutive_refresh_failures": 0
+}

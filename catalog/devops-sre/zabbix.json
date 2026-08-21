@@ -1,0 +1,49 @@
+{
+  "slug": "zabbix",
+  "name": "zabbix",
+  "tagline": "Zabbix chef cookbook",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "laradji",
+    "url": "https://github.com/laradji"
+  },
+  "source": {
+    "primary": "github",
+    "github": "laradji/zabbix",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 87,
+    "downloads_30d": null,
+    "last_commit_at": "2017-10-05T15:43:43Z",
+    "first_commit_at": "2012-05-18T08:07:24Z",
+    "forks": 119,
+    "watchers": 13,
+    "open_issues": 37,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3329,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-08T18:38:04.092564Z",
+  "last_refreshed_at": "2026-08-21T14:45:14.926798Z",
+  "consecutive_refresh_failures": 0
+}

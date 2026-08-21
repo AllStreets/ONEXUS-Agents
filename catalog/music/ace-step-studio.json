@@ -1,0 +1,62 @@
+{
+  "slug": "ace-step-studio",
+  "name": "ACE-Step-Studio",
+  "tagline": "Portable AI music generator — full songs with vocals, covers, music videos. One-click install, 100% offline, NVIDIA GPU.",
+  "category": "music",
+  "tags": [
+    "ace-step",
+    "ai-music",
+    "gradio",
+    "local-ai",
+    "lyrics",
+    "music-generation",
+    "music-video",
+    "offline",
+    "one-click-install",
+    "portable"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "timoncool",
+    "url": "https://github.com/timoncool"
+  },
+  "source": {
+    "primary": "github",
+    "github": "timoncool/ACE-Step-Studio",
+    "huggingface": null,
+    "homepage": "https://github.com/timoncool/ACE-Step-Studio/releases"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 315,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-19T00:11:53Z",
+    "first_commit_at": "2026-04-10T23:33:13Z",
+    "forks": 47,
+    "watchers": 6,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "gradio"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5259,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:47:03.769032Z",
+  "last_refreshed_at": "2026-08-21T14:47:03.769035Z",
+  "consecutive_refresh_failures": 0
+}

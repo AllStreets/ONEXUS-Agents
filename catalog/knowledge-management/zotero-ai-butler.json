@@ -1,0 +1,60 @@
+{
+  "slug": "zotero-ai-butler",
+  "name": "zotero-AI-Butler",
+  "tagline": "【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！",
+  "category": "knowledge-management",
+  "tags": [
+    "academic-tools",
+    "ai",
+    "ai-butler",
+    "artificial-intelligence",
+    "butler",
+    "knowledge-management",
+    "llm",
+    "markdown",
+    "paper-reading",
+    "pdf-analysis"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "steven-jianhao-li",
+    "url": "https://github.com/steven-jianhao-li"
+  },
+  "source": {
+    "primary": "github",
+    "github": "steven-jianhao-li/zotero-AI-Butler",
+    "huggingface": null,
+    "homepage": "https://github.com/steven-jianhao-li/zotero-AI-Butler/releases"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 1634,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-17T19:30:11Z",
+    "first_commit_at": "2025-10-29T06:48:29Z",
+    "forks": 85,
+    "watchers": 3,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.594,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:47.018977Z",
+  "last_refreshed_at": "2026-08-21T14:59:47.018981Z",
+  "consecutive_refresh_failures": 0
+}

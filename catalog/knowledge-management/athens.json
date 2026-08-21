@@ -1,0 +1,57 @@
+{
+  "slug": "athens",
+  "name": "athens",
+  "tagline": "Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21",
+  "category": "knowledge-management",
+  "tags": [
+    "hacktoberfest",
+    "knowledge-base",
+    "knowledge-graph",
+    "knowledge-management",
+    "memex",
+    "notetaking",
+    "tools-for-thought"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "athensresearch",
+    "url": "https://github.com/athensresearch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "athensresearch/athens",
+    "huggingface": null,
+    "homepage": "https://athensresearch.github.io/athens"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 6299,
+    "downloads_30d": null,
+    "last_commit_at": "2023-02-03T12:32:15Z",
+    "first_commit_at": "2020-03-31T01:39:15Z",
+    "forks": 396,
+    "watchers": 98,
+    "open_issues": 316,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4784,
+  "rank_in_category": 109,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:30.660332Z",
+  "last_refreshed_at": "2026-08-21T14:59:30.660335Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "visual-pushing-grasping",
+  "name": "visual-pushing-grasping",
+  "tagline": "Train robotic agents to learn to plan pushing and grasping actions for manipulation with deep reinforcement learning.",
+  "category": "robotics",
+  "tags": [
+    "3d",
+    "artificial-intelligence",
+    "computer-vision",
+    "deep-learning",
+    "deep-reinforcement-learning",
+    "grasping",
+    "manipulation",
+    "pushing",
+    "robotics",
+    "vision"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "andyzeng",
+    "url": "https://github.com/andyzeng"
+  },
+  "source": {
+    "primary": "github",
+    "github": "andyzeng/visual-pushing-grasping",
+    "huggingface": null,
+    "homepage": "http://vpg.cs.princeton.edu/"
+  },
+  "license": "BSD-2-Clause",
+  "metrics": {
+    "stars": 1109,
+    "downloads_30d": null,
+    "last_commit_at": "2021-05-11T14:06:29Z",
+    "first_commit_at": "2018-04-05T01:38:16Z",
+    "forks": 328,
+    "watchers": 30,
+    "open_issues": 68,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4721,
+  "rank_in_category": 78,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:55:26.065835Z",
+  "last_refreshed_at": "2026-08-21T14:55:26.065838Z",
+  "consecutive_refresh_failures": 0
+}

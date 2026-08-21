@@ -1,0 +1,60 @@
+{
+  "slug": "analytics",
+  "name": "analytics",
+  "tagline": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+  "category": "marketing",
+  "tags": [
+    "analytics",
+    "analytics-dashboard",
+    "clickhouse",
+    "elixir",
+    "google-analytics",
+    "marketing",
+    "open-source-analytics",
+    "phoenix",
+    "plausible-analytics",
+    "postgresql"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "plausible",
+    "url": "https://github.com/plausible"
+  },
+  "source": {
+    "primary": "github",
+    "github": "plausible/analytics",
+    "huggingface": null,
+    "homepage": "https://plausible.io/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 28694,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T08:59:35Z",
+    "first_commit_at": "2019-09-02T11:29:19Z",
+    "forks": 1808,
+    "watchers": 148,
+    "open_issues": 59,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7637,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:32:41.455074Z",
+  "last_refreshed_at": "2026-08-21T14:32:41.455077Z",
+  "consecutive_refresh_failures": 0
+}

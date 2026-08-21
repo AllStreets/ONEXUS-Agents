@@ -1,0 +1,60 @@
+{
+  "slug": "saleor",
+  "name": "saleor",
+  "tagline": "Saleor Core: the high performance, composable, headless commerce API.",
+  "category": "e-commerce",
+  "tags": [
+    "cart",
+    "checkout",
+    "commerce",
+    "composable",
+    "e-commerce",
+    "ecommerce",
+    "graphql",
+    "headless",
+    "headless-commerce",
+    "multichannel"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "saleor",
+    "url": "https://github.com/saleor"
+  },
+  "source": {
+    "primary": "github",
+    "github": "saleor/saleor",
+    "huggingface": null,
+    "homepage": "https://saleor.io/"
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 23248,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T09:09:03Z",
+    "first_commit_at": "2013-02-12T16:46:39Z",
+    "forks": 6106,
+    "watchers": 360,
+    "open_issues": 246,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7941,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:39:00.409951Z",
+  "last_refreshed_at": "2026-08-21T14:39:00.409955Z",
+  "consecutive_refresh_failures": 0
+}

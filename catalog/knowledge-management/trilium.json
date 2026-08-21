@@ -1,0 +1,60 @@
+{
+  "slug": "trilium",
+  "name": "Trilium",
+  "tagline": "Build your personal knowledge base with Trilium Notes",
+  "category": "knowledge-management",
+  "tags": [
+    "electron",
+    "electron-app",
+    "knowledge-base",
+    "knowledge-graph",
+    "knowledge-management",
+    "knowledge-management-graph",
+    "local-first",
+    "note-managment",
+    "note-taker",
+    "note-taking"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TriliumNext",
+    "url": "https://github.com/TriliumNext"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TriliumNext/Trilium",
+    "huggingface": null,
+    "homepage": "https://triliumnotes.org/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 37530,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T06:53:39Z",
+    "first_commit_at": "2017-05-23T00:30:20Z",
+    "forks": 2514,
+    "watchers": 274,
+    "open_issues": 671,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7254,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:27.172217Z",
+  "last_refreshed_at": "2026-08-21T14:59:27.172221Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "obsidian-mindset-skill",
+  "name": "obsidian-mindset-skill",
+  "tagline": "一个面向学习场景的 AI Skill 原型项目,依赖Obsidian的canvas可视化能力，帮助使用者在 Obsidian 中更清楚地理解概念之间的位置关系。",
+  "category": "knowledge-management",
+  "tags": [
+    "agent-skill",
+    "agent-skills",
+    "agents",
+    "agentskills",
+    "canvas",
+    "canvasjs",
+    "claude-skills",
+    "codex-skill",
+    "jsoncanvas",
+    "knowledge-graph"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rider-amazon",
+    "url": "https://github.com/rider-amazon"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rider-amazon/obsidian-mindset-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-22T16:00:19Z",
+    "first_commit_at": "2026-07-06T06:42:18Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3866,
+  "rank_in_category": 145,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:20.426814Z",
+  "last_refreshed_at": "2026-08-21T14:59:20.426818Z",
+  "consecutive_refresh_failures": 0
+}

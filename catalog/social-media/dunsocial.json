@@ -1,0 +1,62 @@
+{
+  "slug": "dunsocial",
+  "name": "dunsocial",
+  "tagline": "Official DunSocial product knowledge: AI social media scheduling, 43-tool MCP server, CLI, API, platforms, workflows, and citation-ready facts.",
+  "category": "social-media",
+  "tags": [
+    "ai-social-media",
+    "automation",
+    "chatgpt",
+    "claude",
+    "cli",
+    "content-creation",
+    "developer-tools",
+    "dunsocial",
+    "mcp",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "thisuxhq",
+    "url": "https://github.com/thisuxhq"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thisuxhq/dunsocial",
+    "huggingface": null,
+    "homepage": "https://www.dunsocial.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T11:11:40Z",
+    "first_commit_at": "2026-08-20T10:06:38Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4613,
+  "rank_in_category": 45,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:36:11.526789Z",
+  "last_refreshed_at": "2026-08-21T14:36:11.526792Z",
+  "consecutive_refresh_failures": 0
+}

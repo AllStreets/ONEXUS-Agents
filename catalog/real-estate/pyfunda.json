@@ -1,0 +1,60 @@
+{
+  "slug": "pyfunda",
+  "name": "pyfunda",
+  "tagline": "Python API wrapper for Funda.nl, the Dutch real estate platform. Uses the real mobile API.  No scraping, no Selenium, no CAPTCHA.",
+  "category": "real-estate",
+  "tags": [
+    "api",
+    "api-wrapper",
+    "client",
+    "dutch",
+    "dutch-real-estate",
+    "funda",
+    "funda-api",
+    "funda-nl",
+    "funda-scraper",
+    "housing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "0xMH",
+    "url": "https://github.com/0xMH"
+  },
+  "source": {
+    "primary": "github",
+    "github": "0xMH/pyfunda",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/pyfunda/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 186,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T22:48:05Z",
+    "first_commit_at": "2025-12-14T04:04:08Z",
+    "forks": 20,
+    "watchers": 4,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5894,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:43:15.556320Z",
+  "last_refreshed_at": "2026-08-21T14:43:15.556324Z",
+  "consecutive_refresh_failures": 0
+}

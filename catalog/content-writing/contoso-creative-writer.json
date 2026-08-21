@@ -1,0 +1,60 @@
+{
+  "slug": "contoso-creative-writer",
+  "name": "contoso-creative-writer",
+  "tagline": "A creative writing multi-agent solution to help users write articles.",
+  "category": "content-writing",
+  "tags": [
+    "agents",
+    "ai-azd-templates",
+    "azd-templates",
+    "azure",
+    "azure-ai-agent-service",
+    "azure-ai-search",
+    "azureopenai",
+    "bing",
+    "chatgpt",
+    "openai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Azure-Samples",
+    "url": "https://github.com/Azure-Samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Azure-Samples/contoso-creative-writer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 427,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-11T11:15:08Z",
+    "first_commit_at": "2024-04-15T22:55:39Z",
+    "forks": 1684,
+    "watchers": 19,
+    "open_issues": 28,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4721,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:41:14.234426Z",
+  "last_refreshed_at": "2026-08-21T14:41:14.234429Z",
+  "consecutive_refresh_failures": 0
+}

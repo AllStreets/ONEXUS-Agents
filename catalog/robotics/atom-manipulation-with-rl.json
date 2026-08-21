@@ -1,0 +1,52 @@
+{
+  "slug": "atom-manipulation-with-rl",
+  "name": "Atom_manipulation_with_RL",
+  "tagline": "Autonomous atom manipulation - in this project, we use deep reinforcement learning algorithms including soft actor-critic, hindsight experience replay, and emphasize recent experience replay to automa",
+  "category": "robotics",
+  "tags": [
+    "deep-reinforcement-learning",
+    "pytorch"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SINGROUP",
+    "url": "https://github.com/SINGROUP"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SINGROUP/Atom_manipulation_with_RL",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2023-03-06T15:38:43Z",
+    "first_commit_at": "2022-01-12T10:32:11Z",
+    "forks": 2,
+    "watchers": 5,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3251,
+  "rank_in_category": 160,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:58:05.931759Z",
+  "last_refreshed_at": "2026-08-21T14:58:05.931762Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "shopizer",
+  "name": "shopizer",
+  "tagline": "Shopizer java e-commerce software",
+  "category": "e-commerce",
+  "tags": [
+    "apache2",
+    "cloud",
+    "e-commerce",
+    "java",
+    "retail",
+    "shopizer",
+    "springboot",
+    "springframework",
+    "springmvc"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shopizer-ecommerce",
+    "url": "https://github.com/shopizer-ecommerce"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shopizer-ecommerce/shopizer",
+    "huggingface": null,
+    "homepage": "http://www.shopizer.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3938,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-23T16:16:56Z",
+    "first_commit_at": "2022-12-30T03:32:31Z",
+    "forks": 3306,
+    "watchers": 294,
+    "open_issues": 580,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5439,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:39:10.817034Z",
+  "last_refreshed_at": "2026-08-21T14:39:10.817038Z",
+  "consecutive_refresh_failures": 0
+}

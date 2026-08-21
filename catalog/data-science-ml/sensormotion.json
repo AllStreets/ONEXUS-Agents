@@ -1,0 +1,57 @@
+{
+  "slug": "sensormotion",
+  "name": "sensormotion",
+  "tagline": "Package for analyzing human motion data (e.g. PA, gait)",
+  "category": "data-science-ml",
+  "tags": [
+    "accelerometer",
+    "actigraphy",
+    "data-analysis",
+    "data-science",
+    "gait-analysis",
+    "physical-activity",
+    "sensor-data"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "thesimonho",
+    "url": "https://github.com/thesimonho"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thesimonho/sensormotion",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 94,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-18T10:34:04Z",
+    "first_commit_at": "2018-04-19T04:27:09Z",
+    "forks": 29,
+    "watchers": 10,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2144,
+  "rank_in_category": 134,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:44:06.832514Z",
+  "last_refreshed_at": "2026-08-21T14:44:06.832517Z",
+  "consecutive_refresh_failures": 0
+}

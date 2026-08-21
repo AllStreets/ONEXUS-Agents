@@ -1,0 +1,59 @@
+{
+  "slug": "shortsmith",
+  "name": "shortsmith",
+  "tagline": "Open-source pipeline for stitching viral shorts and auto-posting to YouTube. Generate 500 hook+CTA variations from one end-clip, stitch with channel-pulled source content, schedule daily uploads, week",
+  "category": "video-generation",
+  "tags": [
+    "content-automation",
+    "ffmpeg",
+    "open-source",
+    "python",
+    "shorts",
+    "tiktok",
+    "viral-marketing",
+    "youtube-api",
+    "youtube-shorts"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mlvps",
+    "url": "https://github.com/mlvps"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mlvps/shortsmith",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T07:22:57Z",
+    "first_commit_at": "2026-05-06T06:47:08Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2349,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:38:12.379185Z",
+  "last_refreshed_at": "2026-08-21T14:38:12.379189Z",
+  "consecutive_refresh_failures": 0
+}

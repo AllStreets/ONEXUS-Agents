@@ -1,0 +1,58 @@
+{
+  "slug": "tripforge",
+  "name": "TripForge",
+  "tagline": "AI-powered travel planning assistant that transforms natural conversations into personalized trip itineraries with real-time flight and hotel data using Google Gemini and LangGraph",
+  "category": "travel-planning",
+  "tags": [
+    "ai",
+    "google-gemini",
+    "itinerary-generator",
+    "langchain",
+    "langgraph",
+    "travel-planning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "akshat2635",
+    "url": "https://github.com/akshat2635"
+  },
+  "source": {
+    "primary": "github",
+    "github": "akshat2635/TripForge",
+    "huggingface": null,
+    "homepage": "https://tripforge.streamlit.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-24T16:33:12Z",
+    "first_commit_at": "2025-07-18T06:58:08Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2501,
+  "rank_in_category": 99,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:27:44.875573Z",
+  "last_refreshed_at": "2026-08-21T14:27:44.875577Z",
+  "consecutive_refresh_failures": 0
+}

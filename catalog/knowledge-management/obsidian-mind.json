@@ -1,0 +1,60 @@
+{
+  "slug": "obsidian-mind",
+  "name": "obsidian-mind",
+  "tagline": "A self-organizing Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.",
+  "category": "knowledge-management",
+  "tags": [
+    "ai-agents",
+    "claude-code",
+    "codex-cli",
+    "gemini-cli",
+    "knowledge-management",
+    "obsidian",
+    "obsidian-vault",
+    "persistent-memory",
+    "second-brain",
+    "template"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "breferrari",
+    "url": "https://github.com/breferrari"
+  },
+  "source": {
+    "primary": "github",
+    "github": "breferrari/obsidian-mind",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4525,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-17T20:24:09Z",
+    "first_commit_at": "2026-02-28T21:49:21Z",
+    "forks": 524,
+    "watchers": 13,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6316,
+  "rank_in_category": 45,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:59:32.261741Z",
+  "last_refreshed_at": "2026-08-21T14:59:32.261745Z",
+  "consecutive_refresh_failures": 0
+}

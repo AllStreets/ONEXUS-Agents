@@ -1,0 +1,55 @@
+{
+  "slug": "python-mchess",
+  "name": "python-mchess",
+  "tagline": "Python library to interface with Millennium chess board via ChessLink hardware",
+  "category": "game-playing",
+  "tags": [
+    "chess",
+    "chesslink",
+    "millennium",
+    "python",
+    "uci"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "domschl",
+    "url": "https://github.com/domschl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "domschl/python-mchess",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 24,
+    "downloads_30d": null,
+    "last_commit_at": "2023-10-03T15:39:11Z",
+    "first_commit_at": "2018-07-14T08:17:48Z",
+    "forks": 12,
+    "watchers": 7,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3633,
+  "rank_in_category": 91,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-21T14:53:39.666506Z",
+  "last_refreshed_at": "2026-08-21T14:53:39.666509Z",
+  "consecutive_refresh_failures": 0
+}
