@@ -1,0 +1,62 @@
+{
+  "slug": "soup",
+  "name": "Soup",
+  "tagline": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+  "category": "web-dev",
+  "tags": [
+    "cli",
+    "consumer-gpu",
+    "dpo",
+    "fine-tuning",
+    "gguf",
+    "huggingface",
+    "llm",
+    "llmops",
+    "local-ai",
+    "local-llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MakazhanAlpamys",
+    "url": "https://github.com/MakazhanAlpamys"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MakazhanAlpamys/Soup",
+    "huggingface": null,
+    "homepage": "https://trysoup.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2723,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-22T09:28:48Z",
+    "first_commit_at": "2026-02-20T11:14:56Z",
+    "forks": 405,
+    "watchers": 15,
+    "open_issues": 66,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5901,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-22T13:41:35.252131Z",
+  "last_refreshed_at": "2026-08-22T13:41:35.252135Z",
+  "consecutive_refresh_failures": 0
+}
