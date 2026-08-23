@@ -40,13 +40,15 @@
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": null,
-    "releases_total": null,
-    "latest_release_at": null,
-    "commits_90d": null,
-    "has_ci": null,
-    "readme_length": null,
-    "frameworks": []
+    "contributors_count": 0,
+    "releases_total": 2,
+    "latest_release_at": "2025-01-08T10:11:31Z",
+    "commits_90d": 0,
+    "has_ci": false,
+    "readme_length": 110637,
+    "frameworks": [
+      "transformers"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
@@ -55,6 +57,6 @@
   "rank_in_category": 95,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:05.799798Z",
-  "last_refreshed_at": "2026-08-16T13:50:27.334240Z",
+  "last_refreshed_at": "2026-08-23T17:45:07.797494Z",
   "consecutive_refresh_failures": 6
 }
