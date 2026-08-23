@@ -29,13 +29,15 @@
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": null,
-    "releases_total": null,
+    "contributors_count": 1,
+    "releases_total": 0,
     "latest_release_at": null,
-    "commits_90d": null,
-    "has_ci": null,
-    "readme_length": null,
-    "frameworks": []
+    "commits_90d": 49,
+    "has_ci": false,
+    "readme_length": 260316,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
@@ -44,6 +46,6 @@
   "rank_in_category": 203,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-09T13:54:18.504173Z",
-  "last_refreshed_at": "2026-08-10T14:28:44.805129Z",
+  "last_refreshed_at": "2026-08-23T17:42:47.174016Z",
   "consecutive_refresh_failures": 12
 }
