@@ -1,19 +1,19 @@
 {
   "slug": "tw-legal-rag",
   "name": "tw-legal-rag",
-  "tagline": "台灣判決語意檢索 MCP server + CLI（公開原始碼 source-available）：2,250 萬筆裁判書、行政函釋、憲法法庭裁判，附引用查核。Taiwan legal judgment retrieval via MCP. Bring your own LLM; retrieval-only.",
+  "tagline": "台灣法律 MCP 伺服器 + CLI（免費、免註冊、免 API key）：2,250 萬筆裁判書、行政函釋、憲法法庭裁判，附引用查核。Free Taiwan legal MCP server for Claude/ChatGPT/Codex — bring your own LLM, retrieval-only.",
   "category": "legal-research",
   "tags": [
+    "claude-mcp",
     "court-judgments",
     "legal-ai",
     "legal-research",
+    "legal-search",
     "legal-tech",
     "llm",
     "mcp",
-    "model-context-protocol",
-    "python-cli",
-    "rag",
-    "retrieval-augmented-generation"
+    "mcp-server",
+    "model-context-protocol"
   ],
   "author": {
     "type": "user",
@@ -24,13 +24,13 @@
     "primary": "github",
     "github": "aa0101181514/tw-legal-rag",
     "huggingface": null,
-    "homepage": "https://dr-lawbot.com/"
+    "homepage": "https://dr-legal.com.tw/"
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 295,
+    "stars": 298,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-22T10:43:13Z",
+    "last_commit_at": "2026-08-23T07:06:48Z",
     "first_commit_at": "2026-05-23T04:12:21Z",
     "forks": 40,
     "watchers": 1,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4097,
+  "composite_score": 0.4098,
   "rank_in_category": 6,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-05T15:38:59.852090Z",
-  "last_refreshed_at": "2026-08-22T13:50:20.058334Z",
+  "last_refreshed_at": "2026-08-23T13:57:29.881087Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "oh-my-pi",
   "name": "oh-my-pi",
-  "tagline": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+  "tagline": "⌥ Coding agent with the IDE wired in",
   "category": "coding",
   "tags": [
     "ai-agent",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 26426,
+    "stars": 26642,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-22T12:55:23Z",
+    "last_commit_at": "2026-08-23T13:29:35Z",
     "first_commit_at": "2025-08-09T15:18:38Z",
-    "forks": 2575,
-    "watchers": 79,
-    "open_issues": 1654,
+    "forks": 2594,
+    "watchers": 81,
+    "open_issues": 1649,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4844,
+  "composite_score": 0.4846,
   "rank_in_category": 25,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-14T15:10:11.662595Z",
-  "last_refreshed_at": "2026-08-22T13:32:34.431674Z",
+  "last_refreshed_at": "2026-08-23T13:34:37.243620Z",
   "consecutive_refresh_failures": 0
 }
