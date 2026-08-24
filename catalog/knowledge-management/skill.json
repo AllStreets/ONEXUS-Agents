@@ -1,0 +1,59 @@
+{
+  "slug": "skill",
+  "name": "skill",
+  "tagline": "收录最全、更新最快的技能Skills 商店，涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流等多个领域的 416 精选技能包。所有技能已打包完成，可直接安装使用！ 该商店中自动抓取了 Github 上的所有的 Skills 项目，并按照分类、更新时间、Star 数量等标签进行整理。",
+  "category": "knowledge-management",
+  "tags": [
+    "claude-skills",
+    "finance-skill",
+    "gemini-skills",
+    "hermes-skill",
+    "office-skill",
+    "openclaw-skills",
+    "skill",
+    "skill-md",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "anbeime",
+    "url": "https://github.com/anbeime"
+  },
+  "source": {
+    "primary": "github",
+    "github": "anbeime/skill",
+    "huggingface": null,
+    "homepage": "https://skill.miyucaicai.cn/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 5719,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T03:03:50Z",
+    "first_commit_at": "2026-02-02T09:14:21Z",
+    "forks": 553,
+    "watchers": 25,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6431,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-24T14:07:15.421635Z",
+  "last_refreshed_at": "2026-08-24T14:07:15.421638Z",
+  "consecutive_refresh_failures": 0
+}
