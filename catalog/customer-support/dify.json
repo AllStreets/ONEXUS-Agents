@@ -11,9 +11,9 @@
     "ai",
     "automation",
     "claude",
+    "deepseek",
     "genai",
-    "gpt",
-    "llm"
+    "gpt"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 153263,
+    "stars": 153361,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-23T11:35:23Z",
+    "last_commit_at": "2026-08-24T13:20:15Z",
     "first_commit_at": "2023-05-15T00:51:32Z",
-    "forks": 24202,
+    "forks": 24230,
     "watchers": 824,
-    "open_issues": 971,
+    "open_issues": 965,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.867,
+  "composite_score": 0.8671,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-04-30T03:22:07.424738Z",
-  "last_refreshed_at": "2026-08-23T13:30:47.647719Z",
+  "last_refreshed_at": "2026-08-24T13:50:28.566195Z",
   "consecutive_refresh_failures": 0
 }
