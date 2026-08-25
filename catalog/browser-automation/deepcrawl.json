@@ -1,0 +1,60 @@
+{
+  "slug": "deepcrawl",
+  "name": "deepcrawl",
+  "tagline": "100% free and full open-source edge Firecrawl alternative with better links extraction for agents - that you can deploy to cloudflare or vercel by yourself.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent-tools",
+    "ai-sdk",
+    "better-auth",
+    "cloudflare-workers",
+    "crawling",
+    "deepcrawl",
+    "hono",
+    "html-cleaner",
+    "html-to-markdown",
+    "links-extraction"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lumpinif",
+    "url": "https://github.com/lumpinif"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lumpinif/deepcrawl",
+    "huggingface": null,
+    "homepage": "https://deepcrawl.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 659,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T16:23:20Z",
+    "first_commit_at": "2025-05-22T11:41:12Z",
+    "forks": 77,
+    "watchers": 5,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.397,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:23:20.285867Z",
+  "last_refreshed_at": "2026-08-25T14:23:20.285871Z",
+  "consecutive_refresh_failures": 0
+}

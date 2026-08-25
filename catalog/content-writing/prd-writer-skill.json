@@ -1,0 +1,57 @@
+{
+  "slug": "prd-writer-skill",
+  "name": "prd-writer-skill",
+  "tagline": "对话式 PRD 生成技能，中文优化，通用 Agent Skill（Claude Code / Codex / Hermes / OpenClaw 等） · A conversational PRD-writing Agent Skill",
+  "category": "content-writing",
+  "tags": [
+    "agent-skill",
+    "ai-agent",
+    "claude-code",
+    "claude-skill",
+    "codex",
+    "prd",
+    "product-management"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Panix22",
+    "url": "https://github.com/Panix22"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Panix22/prd-writer-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 17,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T10:18:48Z",
+    "first_commit_at": "2026-06-04T08:30:18Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3493,
+  "rank_in_category": 126,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:22:20.585884Z",
+  "last_refreshed_at": "2026-08-25T14:22:20.585889Z",
+  "consecutive_refresh_failures": 0
+}

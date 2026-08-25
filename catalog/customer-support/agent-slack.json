@@ -1,0 +1,54 @@
+{
+  "slug": "agent-slack",
+  "name": "agent-slack",
+  "tagline": "Slack automation CLI for AI agents",
+  "category": "customer-support",
+  "tags": [
+    "agent",
+    "automation",
+    "cli",
+    "slack"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "stablyai",
+    "url": "https://github.com/stablyai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "stablyai/agent-slack",
+    "huggingface": null,
+    "homepage": "https://onorca.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 526,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-20T10:08:04Z",
+    "first_commit_at": "2026-02-04T00:33:03Z",
+    "forks": 63,
+    "watchers": 3,
+    "open_issues": 15,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5346,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:23:24.174981Z",
+  "last_refreshed_at": "2026-08-25T14:23:24.174985Z",
+  "consecutive_refresh_failures": 0
+}

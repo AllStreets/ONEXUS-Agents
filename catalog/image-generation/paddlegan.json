@@ -1,0 +1,60 @@
+{
+  "slug": "paddlegan",
+  "name": "PaddleGAN",
+  "tagline": "PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.",
+  "category": "image-generation",
+  "tags": [
+    "animeganv2",
+    "basicvsrplusplus",
+    "cyclegan",
+    "edvr",
+    "first-order-motion-model",
+    "gan",
+    "gpen",
+    "image-editing",
+    "image-generation",
+    "motion-transfer"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "PaddlePaddle",
+    "url": "https://github.com/PaddlePaddle"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PaddlePaddle/PaddleGAN",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 8048,
+    "downloads_30d": null,
+    "last_commit_at": "2024-07-03T15:05:24Z",
+    "first_commit_at": "2020-06-18T10:56:03Z",
+    "forks": 1231,
+    "watchers": 106,
+    "open_issues": 131,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3083,
+  "rank_in_category": 57,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:03.918192Z",
+  "last_refreshed_at": "2026-08-25T14:26:03.918196Z",
+  "consecutive_refresh_failures": 0
+}

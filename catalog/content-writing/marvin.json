@@ -1,0 +1,59 @@
+{
+  "slug": "marvin",
+  "name": "marvin",
+  "tagline": "an ambient intelligence library",
+  "category": "content-writing",
+  "tags": [
+    "agents",
+    "ai",
+    "ambient-ai",
+    "chatbots",
+    "gpt",
+    "llm",
+    "nli",
+    "python",
+    "structured-outputs"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "PrefectHQ",
+    "url": "https://github.com/PrefectHQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PrefectHQ/marvin",
+    "huggingface": null,
+    "homepage": "https://marvin.mintlify.app/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6191,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T08:14:54Z",
+    "first_commit_at": "2023-03-08T15:13:45Z",
+    "forks": 408,
+    "watchers": 33,
+    "open_issues": 112,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6716,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:22:36.124694Z",
+  "last_refreshed_at": "2026-08-25T14:22:36.124698Z",
+  "consecutive_refresh_failures": 0
+}

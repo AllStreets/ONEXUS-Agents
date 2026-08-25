@@ -1,0 +1,49 @@
+{
+  "slug": "diffusionagent",
+  "name": "DiffusionAgent",
+  "tagline": "DiffusionAgent",
+  "category": "image-generation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "DiffusionAgent",
+    "url": "https://github.com/DiffusionAgent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DiffusionAgent/DiffusionAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 211,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-22T07:13:46Z",
+    "first_commit_at": "2024-01-18T03:26:55Z",
+    "forks": 17,
+    "watchers": 7,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2508,
+  "rank_in_category": 107,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:53.190903Z",
+  "last_refreshed_at": "2026-08-25T14:26:53.190907Z",
+  "consecutive_refresh_failures": 0
+}

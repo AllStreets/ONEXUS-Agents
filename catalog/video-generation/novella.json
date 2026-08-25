@@ -1,0 +1,60 @@
+{
+  "slug": "novella",
+  "name": "novella",
+  "tagline": "🎬 端到端 AI 漫剧 / 动画短剧 Multi-Agent 多智能体协作创作平台 (Novella AI)。基于 Hub-and-Spoke 智能体架构、ProjectBlackboard 共享黑板、自定义 Agent 扩展插件、角色 Consistency 锚定与 4K GPU 压制。",
+  "category": "video-generation",
+  "tags": [
+    "agent-orchestration",
+    "ai-agent",
+    "ai-manga",
+    "ai-video-generation",
+    "desktop-app",
+    "ffmpeg-gpu",
+    "manga-generator",
+    "monorepo",
+    "multi-agent",
+    "novel-to-video"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Agions",
+    "url": "https://github.com/Agions"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Agions/novella",
+    "huggingface": null,
+    "homepage": "https://agions.github.io/novella/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 83,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-18T08:52:20Z",
+    "first_commit_at": "2026-05-27T01:35:41Z",
+    "forks": 23,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3397,
+  "rank_in_category": 73,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:42.552869Z",
+  "last_refreshed_at": "2026-08-25T14:29:42.552873Z",
+  "consecutive_refresh_failures": 0
+}

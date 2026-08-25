@@ -1,0 +1,58 @@
+{
+  "slug": "comfyui-openrouter-ai",
+  "name": "comfyui-openrouter-ai",
+  "tagline": "开源的 ComfyUI 一体化管理平台 —— 工作流与模型统一管理，内置负载均衡、可视化表单、积分用户系统和后台管理，支持自托管/an all-in-one, open-source platform for managing ComfyUI workflows and AI models. Features load balancing, visual forms, a user system ",
+  "category": "image-generation",
+  "tags": [
+    "comfyui",
+    "comfyui-workflow",
+    "java",
+    "jdk22",
+    "openrouter-api",
+    "springboot3",
+    "typescript",
+    "vue"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dulaiduwang003",
+    "url": "https://github.com/dulaiduwang003"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dulaiduwang003/comfyui-openrouter-ai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 774,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-28T03:22:02Z",
+    "first_commit_at": "2023-03-04T06:04:28Z",
+    "forks": 221,
+    "watchers": 15,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2799,
+  "rank_in_category": 84,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:30.869871Z",
+  "last_refreshed_at": "2026-08-25T14:25:30.869875Z",
+  "consecutive_refresh_failures": 0
+}

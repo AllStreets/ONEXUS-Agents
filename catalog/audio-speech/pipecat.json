@@ -1,0 +1,56 @@
+{
+  "slug": "pipecat",
+  "name": "pipecat",
+  "tagline": "Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.",
+  "category": "audio-speech",
+  "tags": [
+    "ai",
+    "chatbot-framework",
+    "chatbots",
+    "real-time",
+    "voice",
+    "voice-assistant"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pipecat-ai",
+    "url": "https://github.com/pipecat-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pipecat-ai/pipecat",
+    "huggingface": null,
+    "homepage": "https://pipecat.ai/"
+  },
+  "license": "BSD-2-Clause",
+  "metrics": {
+    "stars": 14689,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T14:27:13Z",
+    "first_commit_at": "2023-12-26T00:09:11Z",
+    "forks": 2541,
+    "watchers": 78,
+    "open_issues": 244,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6643,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:34:59.850761Z",
+  "last_refreshed_at": "2026-08-25T14:34:59.850765Z",
+  "consecutive_refresh_failures": 0
+}

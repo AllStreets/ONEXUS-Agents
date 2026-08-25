@@ -1,0 +1,60 @@
+{
+  "slug": "video-shotcraft",
+  "name": "video-shotcraft",
+  "tagline": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+  "category": "video-generation",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "ai-video",
+    "claude-code",
+    "claude-code-skills",
+    "claude-skills",
+    "codex",
+    "motion-design",
+    "motion-graphics",
+    "product-video"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Vincentwei1021",
+    "url": "https://github.com/Vincentwei1021"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Vincentwei1021/video-shotcraft",
+    "huggingface": null,
+    "homepage": "https://vincentwei1021.github.io/video-shotcraft/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6322,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T14:26:42Z",
+    "first_commit_at": "2026-07-19T05:45:41Z",
+    "forks": 551,
+    "watchers": 7,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4429,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:23.808039Z",
+  "last_refreshed_at": "2026-08-25T14:29:23.808043Z",
+  "consecutive_refresh_failures": 0
+}

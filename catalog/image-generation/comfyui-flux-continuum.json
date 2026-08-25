@@ -1,0 +1,49 @@
+{
+  "slug": "comfyui-flux-continuum",
+  "name": "ComfyUI-Flux-Continuum",
+  "tagline": "A modular workflow for FLUX inside of ComfyUI that brings order to the chaos of image generation pipelines.",
+  "category": "image-generation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "robertvoy",
+    "url": "https://github.com/robertvoy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "robertvoy/ComfyUI-Flux-Continuum",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 239,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-04T06:17:57Z",
+    "first_commit_at": "2024-10-14T05:44:31Z",
+    "forks": 11,
+    "watchers": 5,
+    "open_issues": 18,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2382,
+  "rank_in_category": 116,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:28:30.265882Z",
+  "last_refreshed_at": "2026-08-25T14:28:30.265886Z",
+  "consecutive_refresh_failures": 0
+}

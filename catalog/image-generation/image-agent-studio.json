@@ -1,0 +1,60 @@
+{
+  "slug": "image-agent-studio",
+  "name": "image-agent-studio",
+  "tagline": "Image Agent Studio - self-hosted AI image creation workstation / 自托管 AI 图像创作工作站",
+  "category": "image-generation",
+  "tags": [
+    "ai-image",
+    "gpt-image-2",
+    "image-agent-studio",
+    "image-generation",
+    "image-workbench",
+    "newapi",
+    "openai-compatible",
+    "prompt-workflow",
+    "self-hosted",
+    "sub2api"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "margetrp-hub",
+    "url": "https://github.com/margetrp-hub"
+  },
+  "source": {
+    "primary": "github",
+    "github": "margetrp-hub/image-agent-studio",
+    "huggingface": null,
+    "homepage": "https://studio.ohlaoo.com/studio/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-19T05:38:56Z",
+    "first_commit_at": "2026-05-24T19:09:22Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2341,
+  "rank_in_category": 120,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:27:05.213576Z",
+  "last_refreshed_at": "2026-08-25T14:27:05.213580Z",
+  "consecutive_refresh_failures": 0
+}

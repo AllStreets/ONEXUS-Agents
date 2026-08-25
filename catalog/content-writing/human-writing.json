@@ -1,0 +1,54 @@
+{
+  "slug": "human-writing",
+  "name": "human-writing",
+  "tagline": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+  "category": "content-writing",
+  "tags": [
+    "agent-skills",
+    "chinese-writing",
+    "creative-writing",
+    "writing-skill"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "KKKKhazix",
+    "url": "https://github.com/KKKKhazix"
+  },
+  "source": {
+    "primary": "github",
+    "github": "KKKKhazix/human-writing",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3056,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-11T15:07:45Z",
+    "first_commit_at": "2026-08-05T01:19:34Z",
+    "forks": 247,
+    "watchers": 5,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.581,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:22:42.463083Z",
+  "last_refreshed_at": "2026-08-25T14:22:42.463087Z",
+  "consecutive_refresh_failures": 0
+}

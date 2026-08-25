@@ -1,0 +1,57 @@
+{
+  "slug": "pydantic-ai",
+  "name": "pydantic-ai",
+  "tagline": "How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+  "category": "coding",
+  "tags": [
+    "agent-framework",
+    "genai",
+    "harness",
+    "harness-engineering",
+    "llm",
+    "pydantic",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pydantic",
+    "url": "https://github.com/pydantic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pydantic/pydantic-ai",
+    "huggingface": null,
+    "homepage": "https://pydantic.dev/pydantic-ai"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 19494,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T14:18:22Z",
+    "first_commit_at": "2024-06-14T02:52:51Z",
+    "forks": 2588,
+    "watchers": 117,
+    "open_issues": 730,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4401,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:19:18.708491Z",
+  "last_refreshed_at": "2026-08-25T14:19:18.708495Z",
+  "consecutive_refresh_failures": 0
+}

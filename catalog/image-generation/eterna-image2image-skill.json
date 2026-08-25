@@ -1,0 +1,56 @@
+{
+  "slug": "eterna-image2image-skill",
+  "name": "eterna-image2image-skill",
+  "tagline": "Experimental bilingual Codex skill for ETERNA-inspired image2image cinematic color and composition.",
+  "category": "image-generation",
+  "tags": [
+    "ai-image-generation",
+    "cinematic",
+    "codex-skill",
+    "color-grading",
+    "eterna",
+    "image2image"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Cuimao777",
+    "url": "https://github.com/Cuimao777"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Cuimao777/eterna-image2image-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 175,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-26T07:55:33Z",
+    "first_commit_at": "2026-06-26T07:54:13Z",
+    "forks": 26,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2474,
+  "rank_in_category": 111,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:41.964552Z",
+  "last_refreshed_at": "2026-08-25T14:26:41.964556Z",
+  "consecutive_refresh_failures": 0
+}

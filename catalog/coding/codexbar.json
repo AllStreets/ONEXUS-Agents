@@ -1,0 +1,54 @@
+{
+  "slug": "codexbar",
+  "name": "CodexBar",
+  "tagline": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "claude-code",
+    "codex",
+    "swift"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "steipete",
+    "url": "https://github.com/steipete"
+  },
+  "source": {
+    "primary": "github",
+    "github": "steipete/CodexBar",
+    "huggingface": null,
+    "homepage": "https://codex.bar/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 20562,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T11:02:58Z",
+    "first_commit_at": "2025-11-16T17:00:45Z",
+    "forks": 1775,
+    "watchers": 51,
+    "open_issues": 133,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4075,
+  "rank_in_category": 130,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:33:27.418466Z",
+  "last_refreshed_at": "2026-08-25T14:33:27.418470Z",
+  "consecutive_refresh_failures": 0
+}

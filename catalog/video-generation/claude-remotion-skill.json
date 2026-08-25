@@ -1,0 +1,62 @@
+{
+  "slug": "claude-remotion-skill",
+  "name": "claude-remotion-skill",
+  "tagline": "Open-source Claude agent skill that teaches Claude Code, Claude Desktop & Claude AI to create and edit professional motion graphics videos with Remotion. AI video editing, B-roll, captions, sound desi",
+  "category": "video-generation",
+  "tags": [
+    "ai-agents",
+    "ai-video",
+    "ai-video-editor",
+    "ai-video-generation",
+    "anthropic",
+    "claude",
+    "claude-agent-skills",
+    "claude-ai",
+    "claude-code",
+    "claude-skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "haidrrrry",
+    "url": "https://github.com/haidrrrry"
+  },
+  "source": {
+    "primary": "github",
+    "github": "haidrrrry/claude-remotion-skill",
+    "huggingface": null,
+    "homepage": "https://instagram.com/haidercodes"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 82,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-12T21:05:03Z",
+    "first_commit_at": "2026-06-13T10:11:29Z",
+    "forks": 8,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3548,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:43.100027Z",
+  "last_refreshed_at": "2026-08-25T14:29:43.100031Z",
+  "consecutive_refresh_failures": 0
+}

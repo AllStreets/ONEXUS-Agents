@@ -1,0 +1,60 @@
+{
+  "slug": "speech-android",
+  "name": "speech-android",
+  "tagline": "On-device speech SDK for Android — ASR, TTS, VAD, and noise cancellation powered by ONNX Runtime with Qualcomm NNAPI acceleration",
+  "category": "audio-speech",
+  "tags": [
+    "android",
+    "asr",
+    "automotive",
+    "edge-ai",
+    "kotlin",
+    "nnapi",
+    "on-device",
+    "onnx-runtime",
+    "qualcomm",
+    "snapdragon"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "soniqo",
+    "url": "https://github.com/soniqo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "soniqo/speech-android",
+    "huggingface": null,
+    "homepage": "https://soniqo.audio/getting-started/android"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 144,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-14T11:17:09Z",
+    "first_commit_at": "2026-03-19T19:22:17Z",
+    "forks": 10,
+    "watchers": 4,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4281,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:35.476493Z",
+  "last_refreshed_at": "2026-08-25T14:32:35.476497Z",
+  "consecutive_refresh_failures": 0
+}

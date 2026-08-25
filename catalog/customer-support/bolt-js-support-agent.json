@@ -1,0 +1,51 @@
+{
+  "slug": "bolt-js-support-agent",
+  "name": "bolt-js-support-agent",
+  "tagline": "Casey (it/this/that) - an AI-powered IT helpdesk agent in Slack using the Claude SDK and OpenAI SDK.",
+  "category": "customer-support",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "slack-samples",
+    "url": "https://github.com/slack-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "slack-samples/bolt-js-support-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T05:14:37Z",
+    "first_commit_at": "2026-03-27T19:08:03Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4798,
+  "rank_in_category": 60,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:19:20.506956Z",
+  "last_refreshed_at": "2026-08-25T14:19:20.506961Z",
+  "consecutive_refresh_failures": 0
+}

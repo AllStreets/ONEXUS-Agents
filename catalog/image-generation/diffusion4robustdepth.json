@@ -1,0 +1,59 @@
+{
+  "slug": "diffusion4robustdepth",
+  "name": "Diffusion4RobustDepth",
+  "tagline": "[ECCV 2024] Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions",
+  "category": "image-generation",
+  "tags": [
+    "conditional-diffusion",
+    "depth-esimation",
+    "depth-prediction",
+    "diffusion-models",
+    "image-generation-ai",
+    "image-synthesis",
+    "monocular-depth",
+    "monocular-depth-estimation",
+    "single-image-depth-prediction"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "fabiotosi92",
+    "url": "https://github.com/fabiotosi92"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fabiotosi92/Diffusion4RobustDepth",
+    "huggingface": null,
+    "homepage": "https://depth4challenges.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 93,
+    "downloads_30d": null,
+    "last_commit_at": "2024-09-28T19:18:34Z",
+    "first_commit_at": "2024-07-09T07:11:13Z",
+    "forks": 1,
+    "watchers": 18,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2047,
+  "rank_in_category": 147,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:14.244147Z",
+  "last_refreshed_at": "2026-08-25T14:26:14.244151Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "usd-content-agents",
+  "name": "usd-content-agents",
+  "tagline": "AI-powered agents for automating 3D content workflows using Vision-Language Models (VLMs). Content Agents analyze 3D assets and automate material assignment, physics property classification, and textu",
+  "category": "content-writing",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "NVIDIA-Omniverse",
+    "url": "https://github.com/NVIDIA-Omniverse"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVIDIA-Omniverse/usd-content-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 186,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-31T00:02:13Z",
+    "first_commit_at": "2026-04-28T17:10:49Z",
+    "forks": 23,
+    "watchers": 4,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4798,
+  "rank_in_category": 52,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:22:14.536039Z",
+  "last_refreshed_at": "2026-08-25T14:22:14.536043Z",
+  "consecutive_refresh_failures": 0
+}

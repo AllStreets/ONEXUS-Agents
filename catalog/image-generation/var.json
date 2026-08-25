@@ -1,0 +1,62 @@
+{
+  "slug": "var",
+  "name": "VAR",
+  "tagline": "[NeurIPS 2024 Best Paper Award][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *",
+  "category": "image-generation",
+  "tags": [
+    "auto-regressive-model",
+    "autoregressive-models",
+    "diffusion-models",
+    "generative-ai",
+    "generative-model",
+    "gpt",
+    "gpt-2",
+    "image-generation",
+    "large-language-models",
+    "neurips"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "FoundationVision",
+    "url": "https://github.com/FoundationVision"
+  },
+  "source": {
+    "primary": "github",
+    "github": "FoundationVision/VAR",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8730,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-10T21:42:29Z",
+    "first_commit_at": "2024-04-01T16:53:18Z",
+    "forks": 572,
+    "watchers": 100,
+    "open_issues": 61,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.333,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:01.997202Z",
+  "last_refreshed_at": "2026-08-25T14:26:01.997206Z",
+  "consecutive_refresh_failures": 0
+}

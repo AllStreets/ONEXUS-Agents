@@ -1,0 +1,57 @@
+{
+  "slug": "lighthouse-mcp-server",
+  "name": "lighthouse-mcp-server",
+  "tagline": "MCP server that enables AI agents to perform comprehensive web audits using Google Lighthouse with 13+ tools for performance, accessibility, SEO, and security analysis.",
+  "category": "browser-automation",
+  "tags": [
+    "lighthouse",
+    "lighthouse-audits",
+    "lighthouse-score",
+    "mcp",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "danielsogl",
+    "url": "https://github.com/danielsogl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "danielsogl/lighthouse-mcp-server",
+    "huggingface": null,
+    "homepage": "https://codingrules.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 67,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T20:35:34Z",
+    "first_commit_at": "2025-05-31T11:22:16Z",
+    "forks": 13,
+    "watchers": 0,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4169,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:19.479553Z",
+  "last_refreshed_at": "2026-08-25T14:25:19.479557Z",
+  "consecutive_refresh_failures": 0
+}

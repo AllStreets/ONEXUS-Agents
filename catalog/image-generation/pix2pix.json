@@ -1,0 +1,60 @@
+{
+  "slug": "pix2pix",
+  "name": "pix2pix",
+  "tagline": "Image-to-image translation with conditional adversarial nets",
+  "category": "image-generation",
+  "tags": [
+    "computer-graphics",
+    "computer-vision",
+    "dcgan",
+    "deep-learning",
+    "gan",
+    "generative-adversarial-network",
+    "image-generation",
+    "image-manipulation",
+    "image-to-image-translation",
+    "pix2pix"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "phillipi",
+    "url": "https://github.com/phillipi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "phillipi/pix2pix",
+    "huggingface": null,
+    "homepage": "https://phillipi.github.io/pix2pix/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 10653,
+    "downloads_30d": null,
+    "last_commit_at": "2021-06-06T12:09:47Z",
+    "first_commit_at": "2016-11-16T22:50:12Z",
+    "forks": 1731,
+    "watchers": 310,
+    "open_issues": 92,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3138,
+  "rank_in_category": 52,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:59.610492Z",
+  "last_refreshed_at": "2026-08-25T14:25:59.610496Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "selfhost-ai",
+  "name": "selfhost-ai",
+  "tagline": "🚀 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTPS. Free Zapier/Make alternative.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "automation",
+    "chatgpt-alternative",
+    "dify",
+    "docker",
+    "flowise",
+    "homelab",
+    "llm",
+    "local-llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kossakovsky",
+    "url": "https://github.com/kossakovsky"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kossakovsky/selfhost-ai",
+    "huggingface": null,
+    "homepage": "https://github.com/kossakovsky/selfhost-ai#readme"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 921,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-24T18:54:51Z",
+    "first_commit_at": "2025-02-16T21:09:35Z",
+    "forks": 234,
+    "watchers": 25,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3998,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:28:40.993368Z",
+  "last_refreshed_at": "2026-08-25T14:28:40.993372Z",
+  "consecutive_refresh_failures": 0
+}

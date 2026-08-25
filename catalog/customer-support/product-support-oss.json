@@ -1,0 +1,60 @@
+{
+  "slug": "product-support-oss",
+  "name": "product-support-oss",
+  "tagline": "AI support assistant for e-commerce product catalogs. RAG-based answers about products, specifications, descriptions, and store knowledge.",
+  "category": "customer-support",
+  "tags": [
+    "axum",
+    "chatbot",
+    "customer-support-ai",
+    "docker",
+    "ecommerce",
+    "embeddings",
+    "llm",
+    "nuxt",
+    "ollama",
+    "qwen"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "c0de4un",
+    "url": "https://github.com/c0de4un"
+  },
+  "source": {
+    "primary": "github",
+    "github": "c0de4un/product-support-oss",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-09T14:44:48Z",
+    "first_commit_at": "2026-08-03T14:44:44Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3683,
+  "rank_in_category": 106,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:18:04.905900Z",
+  "last_refreshed_at": "2026-08-25T14:18:04.905905Z",
+  "consecutive_refresh_failures": 0
+}

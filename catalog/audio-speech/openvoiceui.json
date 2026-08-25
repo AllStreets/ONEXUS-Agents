@@ -1,0 +1,60 @@
+{
+  "slug": "openvoiceui",
+  "name": "OpenVoiceUI",
+  "tagline": "Voice-powered AI assistant platform — connect any LLM, any TTS, with a live web canvas, music generation, and agent orchestration using openclaw. Install: npx openvoiceui setup",
+  "category": "audio-speech",
+  "tags": [
+    "ai-agent",
+    "ai-assistant",
+    "ai-canvas",
+    "ai-voice",
+    "docker",
+    "flask",
+    "llm",
+    "music-generation",
+    "openclaw",
+    "pinokio"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MCERQUA",
+    "url": "https://github.com/MCERQUA"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MCERQUA/OpenVoiceUI",
+    "huggingface": null,
+    "homepage": "https://openvoiceui.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 69,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T04:46:53Z",
+    "first_commit_at": "2026-02-27T02:39:22Z",
+    "forks": 11,
+    "watchers": 1,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4553,
+  "rank_in_category": 46,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:40.981865Z",
+  "last_refreshed_at": "2026-08-25T14:32:40.981869Z",
+  "consecutive_refresh_failures": 0
+}

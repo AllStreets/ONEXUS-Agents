@@ -1,0 +1,60 @@
+{
+  "slug": "khoj",
+  "name": "khoj",
+  "tagline": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI ",
+  "category": "image-generation",
+  "tags": [
+    "agent",
+    "ai",
+    "assistant",
+    "chat",
+    "chatgpt",
+    "emacs",
+    "image-generation",
+    "llama3",
+    "llamacpp",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "khoj-ai",
+    "url": "https://github.com/khoj-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "khoj-ai/khoj",
+    "huggingface": null,
+    "homepage": "https://khoj.dev/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 36715,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-02T01:55:40Z",
+    "first_commit_at": "2021-04-04T11:53:03Z",
+    "forks": 2404,
+    "watchers": 174,
+    "open_issues": 140,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.44,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:53.390963Z",
+  "last_refreshed_at": "2026-08-25T14:25:53.390966Z",
+  "consecutive_refresh_failures": 0
+}

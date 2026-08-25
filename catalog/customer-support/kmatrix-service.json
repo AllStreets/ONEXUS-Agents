@@ -1,0 +1,57 @@
+{
+  "slug": "kmatrix-service",
+  "name": "KMatrix-service",
+  "tagline": "KMatrix is an LLM workflow application and RAG (Retrieval-Augmented Generation) knowledge base system built upon RuoYi and LangChain4j / Langgraph4j. Drawing inspiration from projects like MaxKB and D",
+  "category": "customer-support",
+  "tags": [
+    "ai-agent",
+    "ai-assistant",
+    "ai-customer-service",
+    "ai-customer-support",
+    "knowledge-base",
+    "knowledge-management",
+    "rag-chatbot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mahoneliu",
+    "url": "https://github.com/mahoneliu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mahoneliu/KMatrix-service",
+    "huggingface": null,
+    "homepage": "http://kmatrix.kykms.cn/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 26,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-20T09:46:40Z",
+    "first_commit_at": "2025-12-23T13:16:38Z",
+    "forks": 8,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.382,
+  "rank_in_category": 98,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:18:14.842834Z",
+  "last_refreshed_at": "2026-08-25T14:18:14.842839Z",
+  "consecutive_refresh_failures": 0
+}

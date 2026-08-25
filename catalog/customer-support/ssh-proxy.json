@@ -1,0 +1,53 @@
+{
+  "slug": "ssh-proxy",
+  "name": "ssh-proxy",
+  "tagline": "SSH proxy that allows support agents go to customers servers with using intermediate corporate SSH key",
+  "category": "customer-support",
+  "tags": [
+    "security",
+    "ssh",
+    "ssh-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "flussonic",
+    "url": "https://github.com/flussonic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "flussonic/ssh-proxy",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 64,
+    "downloads_30d": null,
+    "last_commit_at": "2019-05-22T20:24:01Z",
+    "first_commit_at": "2018-01-28T07:36:02Z",
+    "forks": 10,
+    "watchers": 7,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3394,
+  "rank_in_category": 122,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:18:47.831070Z",
+  "last_refreshed_at": "2026-08-25T14:18:47.831074Z",
+  "consecutive_refresh_failures": 0
+}

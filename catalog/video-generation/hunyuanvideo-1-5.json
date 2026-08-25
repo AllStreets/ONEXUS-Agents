@@ -1,0 +1,53 @@
+{
+  "slug": "hunyuanvideo-1-5",
+  "name": "HunyuanVideo-1.5",
+  "tagline": "HunyuanVideo-1.5: A leading lightweight video generation model",
+  "category": "video-generation",
+  "tags": [
+    "image-to-video",
+    "text-to-video",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Tencent-Hunyuan",
+    "url": "https://github.com/Tencent-Hunyuan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tencent-Hunyuan/HunyuanVideo-1.5",
+    "huggingface": null,
+    "homepage": "https://hunyuan.tencent.com/video/zh?tabIndex=0"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4532,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-10T06:14:59Z",
+    "first_commit_at": "2025-11-21T03:07:13Z",
+    "forks": 218,
+    "watchers": 80,
+    "open_issues": 37,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.37,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:27.057202Z",
+  "last_refreshed_at": "2026-08-25T14:29:27.057205Z",
+  "consecutive_refresh_failures": 0
+}

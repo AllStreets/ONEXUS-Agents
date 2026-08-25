@@ -1,0 +1,60 @@
+{
+  "slug": "nbp-web-gen",
+  "name": "nbp-web-gen",
+  "tagline": "  AI Image & Video Generator powered by Google Gemini & Veo 3.1. Create images, videos, stickers, slides, and convert PDFs to editable PPTX. 100% client-side, no backend. | Gemini + Veo 3.1 驅動的 AI 圖像與",
+  "category": "image-generation",
+  "tags": [
+    "ai-image-generator",
+    "ai-presentation-generator",
+    "ai-slide-builder",
+    "ai-sticker-art",
+    "ai-video",
+    "diagram-generator",
+    "gemini-api",
+    "google-gemini",
+    "image-generation-ai",
+    "nano-banana-pro"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nathanfhh",
+    "url": "https://github.com/nathanfhh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nathanfhh/nbp-web-gen",
+    "huggingface": null,
+    "homepage": "https://nathanfhh.github.io/nbp-web-gen/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-10T23:22:43Z",
+    "first_commit_at": "2026-01-03T08:53:28Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2242,
+  "rank_in_category": 129,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:22.463421Z",
+  "last_refreshed_at": "2026-08-25T14:26:22.463425Z",
+  "consecutive_refresh_failures": 0
+}

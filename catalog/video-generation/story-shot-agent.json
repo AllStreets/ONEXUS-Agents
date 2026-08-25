@@ -1,0 +1,62 @@
+{
+  "slug": "story-shot-agent",
+  "name": "story-shot-agent",
+  "tagline": "剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt | 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词。保持角色/剧情跨片段一致，支持 MCP/REST API/函数调用 | Python库 + A2A集成。（LLM-powered screenplay-to-",
+  "category": "video-generation",
+  "tags": [
+    "agent-to-agent",
+    "ai-filmmaking",
+    "ai-video-generation",
+    "character-consistency",
+    "function-calling",
+    "kling-ai",
+    "langgraph-agent",
+    "llm-agent",
+    "pika-labs",
+    "prompt-engineering"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "neopen",
+    "url": "https://github.com/neopen"
+  },
+  "source": {
+    "primary": "github",
+    "github": "neopen/story-shot-agent",
+    "huggingface": null,
+    "homepage": "https://shot.helpenx.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 145,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T10:13:42Z",
+    "first_commit_at": "2025-10-23T13:28:56Z",
+    "forks": 30,
+    "watchers": 4,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.287,
+  "rank_in_category": 102,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:41.246617Z",
+  "last_refreshed_at": "2026-08-25T14:29:41.246621Z",
+  "consecutive_refresh_failures": 0
+}

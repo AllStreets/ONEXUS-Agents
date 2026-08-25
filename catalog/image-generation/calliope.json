@@ -1,0 +1,60 @@
+{
+  "slug": "calliope",
+  "name": "Calliope",
+  "tagline": "Local-first AI story-to-video studio — FastAPI + SvelteKit + ComfyUI",
+  "category": "image-generation",
+  "tags": [
+    "ai-video",
+    "ai-video-editing",
+    "ai-video-editor",
+    "aivideogenerator",
+    "comfyui",
+    "comfyui-extension",
+    "comfyui-workflow",
+    "fastapi",
+    "sveltekit",
+    "sveltekit-example"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "benjiyaya",
+    "url": "https://github.com/benjiyaya"
+  },
+  "source": {
+    "primary": "github",
+    "github": "benjiyaya/Calliope",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 82,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T12:12:23Z",
+    "first_commit_at": "2026-07-27T21:29:46Z",
+    "forks": 24,
+    "watchers": 1,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2984,
+  "rank_in_category": 67,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:48.864413Z",
+  "last_refreshed_at": "2026-08-25T14:25:48.864417Z",
+  "consecutive_refresh_failures": 0
+}

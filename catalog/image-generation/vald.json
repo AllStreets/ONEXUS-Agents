@@ -1,0 +1,60 @@
+{
+  "slug": "vald",
+  "name": "vald",
+  "tagline": "Vald.  A Highly Scalable Distributed Vector Search Engine",
+  "category": "image-generation",
+  "tags": [
+    "anng",
+    "approximate-nearest-neighbor-search",
+    "cloud",
+    "cloud-native",
+    "distributed-systems",
+    "golang",
+    "hacktoberfest",
+    "high-dimensional-data",
+    "high-performance",
+    "image-search"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "vdaas",
+    "url": "https://github.com/vdaas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vdaas/vald",
+    "huggingface": null,
+    "homepage": "https://vald.vdaas.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1718,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T05:55:21Z",
+    "first_commit_at": "2019-10-04T05:19:47Z",
+    "forks": 95,
+    "watchers": 15,
+    "open_issues": 151,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:27:21.378673Z",
+  "last_refreshed_at": "2026-08-25T14:27:21.378676Z",
+  "consecutive_refresh_failures": 0
+}

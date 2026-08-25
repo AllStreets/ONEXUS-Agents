@@ -1,0 +1,58 @@
+{
+  "slug": "smart-comfyui-gallery",
+  "name": "smart-comfyui-gallery",
+  "tagline": "SmartGallery DAM is a local-first, browser-based Digital Asset Manager for ComfyUI. Generate without opening ComfyUI. Query your gallery with AI, in natural language. Advanced file manager, filter by ",
+  "category": "image-generation",
+  "tags": [
+    "comfyui",
+    "comfyui-gallery",
+    "comfyui-workflow",
+    "flask",
+    "image-management",
+    "mobile",
+    "python",
+    "stable-diffusion"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "biagiomaf",
+    "url": "https://github.com/biagiomaf"
+  },
+  "source": {
+    "primary": "github",
+    "github": "biagiomaf/smart-comfyui-gallery",
+    "huggingface": null,
+    "homepage": "https://smartgallerydam.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 372,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T12:41:18Z",
+    "first_commit_at": "2025-09-03T18:51:34Z",
+    "forks": 38,
+    "watchers": 5,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3389,
+  "rank_in_category": 39,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:35.080881Z",
+  "last_refreshed_at": "2026-08-25T14:25:35.080885Z",
+  "consecutive_refresh_failures": 0
+}

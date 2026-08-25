@@ -1,0 +1,55 @@
+{
+  "slug": "openai-agents-js",
+  "name": "openai-agents-js",
+  "tagline": "A lightweight, powerful framework for multi-agent workflows and voice agents",
+  "category": "audio-speech",
+  "tags": [
+    "agents",
+    "openai",
+    "openai-api",
+    "realtime-api",
+    "typescript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openai",
+    "url": "https://github.com/openai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openai/openai-agents-js",
+    "huggingface": null,
+    "homepage": "https://openai.github.io/openai-agents-js/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3702,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T13:08:55Z",
+    "first_commit_at": "2025-06-03T16:46:08Z",
+    "forks": 938,
+    "watchers": 43,
+    "open_issues": 23,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6083,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:35:01.837444Z",
+  "last_refreshed_at": "2026-08-25T14:35:01.837448Z",
+  "consecutive_refresh_failures": 0
+}

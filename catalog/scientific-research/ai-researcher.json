@@ -1,0 +1,51 @@
+{
+  "slug": "ai-researcher",
+  "name": "AI-Researcher",
+  "tagline": "[NeurIPS2025] \"AI-Researcher: Autonomous Scientific Innovation\" -- A production-ready version: https://novix.science/chat",
+  "category": "scientific-research",
+  "tags": [
+    "ai-researcher"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "HKUDS",
+    "url": "https://github.com/HKUDS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HKUDS/AI-Researcher",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2505.18705"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 5701,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-16T06:47:34Z",
+    "first_commit_at": "2025-03-11T12:52:15Z",
+    "forks": 722,
+    "watchers": 40,
+    "open_issues": 67,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5014,
+  "rank_in_category": 85,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:22:37.328111Z",
+  "last_refreshed_at": "2026-08-25T14:22:37.328116Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "streamcore-server",
+  "name": "streamcore-server",
+  "tagline": "Open-source realtime voice agent server in Go with WebRTC (WHIP), barge-in, streaming STT/LLM/TTS pipelines, plugin system, multi-language SDKs, SIP telephony, ESP32 support & fully local mode.",
+  "category": "audio-speech",
+  "tags": [
+    "agent-framework",
+    "ai-voice-agent",
+    "conversational-ai",
+    "esp32",
+    "go",
+    "golang",
+    "local-ai",
+    "open-source-ai",
+    "realtime-ai",
+    "realtime-voice-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "streamcoreai",
+    "url": "https://github.com/streamcoreai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "streamcoreai/streamcore-server",
+    "huggingface": null,
+    "homepage": "https://www.streamcore.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 187,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T13:53:02Z",
+    "first_commit_at": "2026-04-15T11:26:28Z",
+    "forks": 26,
+    "watchers": 3,
+    "open_issues": 20,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4807,
+  "rank_in_category": 39,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:32.841103Z",
+  "last_refreshed_at": "2026-08-25T14:32:32.841107Z",
+  "consecutive_refresh_failures": 0
+}

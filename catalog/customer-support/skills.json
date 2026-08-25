@@ -1,0 +1,49 @@
+{
+  "slug": "skills",
+  "name": "skills",
+  "tagline": "The open agent skills tool - npx skills",
+  "category": "customer-support",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "vercel-labs",
+    "url": "https://github.com/vercel-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vercel-labs/skills",
+    "huggingface": null,
+    "homepage": "https://skills.sh/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 29637,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-18T20:28:34Z",
+    "first_commit_at": "2026-01-14T21:31:41Z",
+    "forks": 2529,
+    "watchers": 98,
+    "open_issues": 1117,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6967,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:19:06.209003Z",
+  "last_refreshed_at": "2026-08-25T14:19:06.209007Z",
+  "consecutive_refresh_failures": 0
+}

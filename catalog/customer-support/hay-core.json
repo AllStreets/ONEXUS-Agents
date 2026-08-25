@@ -1,0 +1,56 @@
+{
+  "slug": "hay-core",
+  "name": "hay-core",
+  "tagline": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge base, and integrate with your existing tools. All from a single dashboard.",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "customer",
+    "customer-support",
+    "customer-support-ai",
+    "llm",
+    "llm-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "hay-chat",
+    "url": "https://github.com/hay-chat"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hay-chat/hay-core",
+    "huggingface": null,
+    "homepage": "https://hay.chat/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T12:34:35Z",
+    "first_commit_at": "2025-08-27T11:19:54Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.443,
+  "rank_in_category": 76,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:18:02.681156Z",
+  "last_refreshed_at": "2026-08-25T14:18:02.681160Z",
+  "consecutive_refresh_failures": 0
+}

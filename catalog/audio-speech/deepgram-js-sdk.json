@@ -1,0 +1,60 @@
+{
+  "slug": "deepgram-js-sdk",
+  "name": "deepgram-js-sdk",
+  "tagline": "Official JavaScript SDK for Deepgram.",
+  "category": "audio-speech",
+  "tags": [
+    "ai",
+    "asr",
+    "deepgram",
+    "hacktoberfest",
+    "javascript",
+    "speech-recognition",
+    "speech-to-text",
+    "text-to-speech",
+    "typescript",
+    "voice-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "deepgram",
+    "url": "https://github.com/deepgram"
+  },
+  "source": {
+    "primary": "github",
+    "github": "deepgram/deepgram-js-sdk",
+    "huggingface": null,
+    "homepage": "https://developers.deepgram.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 272,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T14:34:56Z",
+    "first_commit_at": "2021-05-02T02:47:25Z",
+    "forks": 95,
+    "watchers": 17,
+    "open_issues": 43,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5464,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:32.095602Z",
+  "last_refreshed_at": "2026-08-25T14:32:32.095606Z",
+  "consecutive_refresh_failures": 0
+}

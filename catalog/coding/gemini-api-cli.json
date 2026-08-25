@@ -1,0 +1,52 @@
+{
+  "slug": "gemini-api-cli",
+  "name": "gemini-api-cli",
+  "tagline": "An (experimental) CLI for the Gemini API",
+  "category": "coding",
+  "tags": [
+    "gemini",
+    "gemini-api"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "google-gemini",
+    "url": "https://github.com/google-gemini"
+  },
+  "source": {
+    "primary": "github",
+    "github": "google-gemini/gemini-api-cli",
+    "huggingface": null,
+    "homepage": "https://ai.google.dev/gemini-api/docs"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 40,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-11T10:31:33Z",
+    "first_commit_at": "2026-04-28T13:20:25Z",
+    "forks": 19,
+    "watchers": 3,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2755,
+  "rank_in_category": 446,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:34:48.792848Z",
+  "last_refreshed_at": "2026-08-25T14:34:48.792853Z",
+  "consecutive_refresh_failures": 0
+}

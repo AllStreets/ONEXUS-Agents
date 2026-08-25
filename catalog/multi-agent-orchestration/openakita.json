@@ -1,0 +1,59 @@
+{
+  "slug": "openakita",
+  "name": "openakita",
+  "tagline": "An open-source AI assistant framework with skills and agent architecture",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "ai",
+    "assistant",
+    "automation",
+    "claw",
+    "clawd",
+    "clawdbot",
+    "openclaw",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "openakita",
+    "url": "https://github.com/openakita"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openakita/openakita",
+    "huggingface": null,
+    "homepage": "http://openakita.ai/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 1972,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-14T02:58:23Z",
+    "first_commit_at": "2026-01-30T17:39:00Z",
+    "forks": 274,
+    "watchers": 15,
+    "open_issues": 46,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4056,
+  "rank_in_category": 83,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:22:44.551632Z",
+  "last_refreshed_at": "2026-08-25T14:22:44.551635Z",
+  "consecutive_refresh_failures": 0
+}

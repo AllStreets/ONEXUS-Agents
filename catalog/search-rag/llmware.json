@@ -1,0 +1,59 @@
+{
+  "slug": "llmware",
+  "name": "llmware",
+  "tagline": "Unified framework for building enterprise RAG pipelines with small, specialized models",
+  "category": "search-rag",
+  "tags": [
+    "agents",
+    "generative-ai-tools",
+    "llamacpp",
+    "llm",
+    "onnx",
+    "openvino",
+    "parsing",
+    "retrieval-augmented-generation",
+    "small-specialized-models"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "llmware-ai",
+    "url": "https://github.com/llmware-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "llmware-ai/llmware",
+    "huggingface": null,
+    "homepage": "https://llmware-ai.github.io/llmware/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 14850,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-17T13:53:37Z",
+    "first_commit_at": "2023-09-29T15:19:07Z",
+    "forks": 2943,
+    "watchers": 58,
+    "open_issues": 95,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3921,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:19:50.915925Z",
+  "last_refreshed_at": "2026-08-25T14:19:50.915930Z",
+  "consecutive_refresh_failures": 0
+}

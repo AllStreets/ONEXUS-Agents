@@ -1,0 +1,53 @@
+{
+  "slug": "workflow",
+  "name": "workflow",
+  "tagline": "ComfyUI奇思妙想 | workflow",
+  "category": "image-generation",
+  "tags": [
+    "comfyui",
+    "comfyui-workflow",
+    "workflow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yuyou-dev",
+    "url": "https://github.com/yuyou-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yuyou-dev/workflow",
+    "huggingface": null,
+    "homepage": "https://space.bilibili.com/43149384"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 181,
+    "downloads_30d": null,
+    "last_commit_at": "2024-11-20T15:29:34Z",
+    "first_commit_at": "2024-02-18T12:26:10Z",
+    "forks": 37,
+    "watchers": 3,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2303,
+  "rank_in_category": 124,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:38.254214Z",
+  "last_refreshed_at": "2026-08-25T14:25:38.254218Z",
+  "consecutive_refresh_failures": 0
+}

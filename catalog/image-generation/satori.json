@@ -1,0 +1,59 @@
+{
+  "slug": "satori",
+  "name": "satori",
+  "tagline": "Enlightened library to convert HTML and CSS to SVG",
+  "category": "image-generation",
+  "tags": [
+    "css",
+    "image",
+    "image-generation",
+    "image-generator",
+    "jsx",
+    "opengraph-images",
+    "satori",
+    "svg",
+    "vercel"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "vercel",
+    "url": "https://github.com/vercel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vercel/satori",
+    "huggingface": null,
+    "homepage": "https://og-playground.vercel.app/"
+  },
+  "license": "MPL-2.0",
+  "metrics": {
+    "stars": 13849,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T12:48:10Z",
+    "first_commit_at": "2022-01-30T01:25:14Z",
+    "forks": 356,
+    "watchers": 76,
+    "open_issues": 126,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4353,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:57.933130Z",
+  "last_refreshed_at": "2026-08-25T14:25:57.933133Z",
+  "consecutive_refresh_failures": 0
+}

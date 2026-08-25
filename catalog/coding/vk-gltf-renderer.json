@@ -1,0 +1,60 @@
+{
+  "slug": "vk-gltf-renderer",
+  "name": "vk_gltf_renderer",
+  "tagline": "Vulkan ray tracing glTF 2.0 renderer — RTX path tracer with PBR materials, AI denoising (DLSS, OptiX), and scene editing. NVIDIA open-source sample.",
+  "category": "coding",
+  "tags": [
+    "computer-graphics",
+    "cpp",
+    "denoising",
+    "dlss",
+    "gltf",
+    "gltf-viewer",
+    "gltf2",
+    "nvidia",
+    "path-tracing",
+    "pbr"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nvpro-samples",
+    "url": "https://github.com/nvpro-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nvpro-samples/vk_gltf_renderer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 404,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T12:16:22Z",
+    "first_commit_at": "2019-12-03T13:01:09Z",
+    "forks": 35,
+    "watchers": 16,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3486,
+  "rank_in_category": 262,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:28:17.511726Z",
+  "last_refreshed_at": "2026-08-25T14:28:17.511730Z",
+  "consecutive_refresh_failures": 0
+}

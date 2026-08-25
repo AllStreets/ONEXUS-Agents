@@ -1,0 +1,55 @@
+{
+  "slug": "xiaper",
+  "name": "xiaper",
+  "tagline": "Enterprise Open Source IM Solution",
+  "category": "customer-support",
+  "tags": [
+    "im",
+    "mqtt",
+    "server",
+    "spring-boot",
+    "stomp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "xiaper",
+    "url": "https://github.com/xiaper"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xiaper/xiaper",
+    "huggingface": null,
+    "homepage": "http://www.xiaper.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 63,
+    "downloads_30d": null,
+    "last_commit_at": "2024-03-30T02:08:24Z",
+    "first_commit_at": "2019-02-13T14:10:06Z",
+    "forks": 36,
+    "watchers": 2,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.375,
+  "rank_in_category": 104,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:21:07.124198Z",
+  "last_refreshed_at": "2026-08-25T14:21:07.124201Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "blog-writing-agent",
+  "name": "blog-writing-agent",
+  "tagline": "A langgraph based blog writing agent",
+  "category": "content-writing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "campusx-official",
+    "url": "https://github.com/campusx-official"
+  },
+  "source": {
+    "primary": "github",
+    "github": "campusx-official/blog-writing-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 51,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-31T09:02:03Z",
+    "first_commit_at": "2026-01-31T09:02:02Z",
+    "forks": 37,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3913,
+  "rank_in_category": 94,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:22:07.976111Z",
+  "last_refreshed_at": "2026-08-25T14:22:07.976115Z",
+  "consecutive_refresh_failures": 0
+}

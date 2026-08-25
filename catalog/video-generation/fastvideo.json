@@ -1,0 +1,56 @@
+{
+  "slug": "fastvideo",
+  "name": "FastVideo",
+  "tagline": "A unified inference and post-training framework for accelerated video generation.",
+  "category": "video-generation",
+  "tags": [
+    "diffusers",
+    "diffusion-models",
+    "distillation",
+    "inference",
+    "post-training",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "hao-ai-lab",
+    "url": "https://github.com/hao-ai-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hao-ai-lab/FastVideo",
+    "huggingface": null,
+    "homepage": "https://hao-ai-lab.github.io/FastVideo"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4052,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T08:04:03Z",
+    "first_commit_at": "2024-03-04T14:06:39Z",
+    "forks": 414,
+    "watchers": 37,
+    "open_issues": 159,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4892,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:31.671507Z",
+  "last_refreshed_at": "2026-08-25T14:29:31.671511Z",
+  "consecutive_refresh_failures": 0
+}

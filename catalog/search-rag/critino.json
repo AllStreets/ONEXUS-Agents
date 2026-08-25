@@ -1,0 +1,57 @@
+{
+  "slug": "critino",
+  "name": "critino",
+  "tagline": "The LLM Agent Critique Platform.",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "ai",
+    "langchain",
+    "llm",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "startino",
+    "url": "https://github.com/startino"
+  },
+  "source": {
+    "primary": "github",
+    "github": "startino/critino",
+    "huggingface": null,
+    "homepage": "https://critino.starti.no/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-15T15:38:10Z",
+    "first_commit_at": "2024-08-30T05:26:31Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2082,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:21:22.175605Z",
+  "last_refreshed_at": "2026-08-25T14:21:22.175609Z",
+  "consecutive_refresh_failures": 0
+}

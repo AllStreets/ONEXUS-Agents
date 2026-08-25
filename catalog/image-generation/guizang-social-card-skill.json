@@ -1,0 +1,62 @@
+{
+  "slug": "guizang-social-card-skill",
+  "name": "guizang-social-card-skill",
+  "tagline": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对",
+  "category": "image-generation",
+  "tags": [
+    "agent-skill",
+    "ai-agent",
+    "anthropic",
+    "claude-code",
+    "claude-skill",
+    "codex",
+    "editorial-design",
+    "html-template",
+    "image-generation",
+    "playwright"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "op7418",
+    "url": "https://github.com/op7418"
+  },
+  "source": {
+    "primary": "github",
+    "github": "op7418/guizang-social-card-skill",
+    "huggingface": null,
+    "homepage": "https://github.com/op7418/guizang-social-card-skill"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 6607,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-01T16:39:11Z",
+    "first_commit_at": "2026-05-27T14:00:55Z",
+    "forks": 526,
+    "watchers": 7,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3486,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:05.757970Z",
+  "last_refreshed_at": "2026-08-25T14:26:05.757974Z",
+  "consecutive_refresh_failures": 0
+}

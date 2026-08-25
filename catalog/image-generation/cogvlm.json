@@ -1,0 +1,55 @@
+{
+  "slug": "cogvlm",
+  "name": "CogVLM",
+  "tagline": "a state-of-the-art-level open visual language model | 多模态预训练模型",
+  "category": "image-generation",
+  "tags": [
+    "cross-modality",
+    "language-model",
+    "multi-modal",
+    "pretrained-models",
+    "visual-language-models"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "zai-org",
+    "url": "https://github.com/zai-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zai-org/CogVLM",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6743,
+    "downloads_30d": null,
+    "last_commit_at": "2024-05-29T10:01:33Z",
+    "first_commit_at": "2023-09-28T09:54:34Z",
+    "forks": 451,
+    "watchers": 67,
+    "open_issues": 67,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2993,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:27:08.097238Z",
+  "last_refreshed_at": "2026-08-25T14:27:08.097242Z",
+  "consecutive_refresh_failures": 0
+}

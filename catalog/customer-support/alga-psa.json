@@ -1,0 +1,56 @@
+{
+  "slug": "alga-psa",
+  "name": "alga-psa",
+  "tagline": "An open source MSP PSA from Nine Minds",
+  "category": "customer-support",
+  "tags": [
+    "msp",
+    "nine-minds",
+    "open-source",
+    "professional-services-automation",
+    "psa",
+    "ticketing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Nine-Minds",
+    "url": "https://github.com/Nine-Minds"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Nine-Minds/alga-psa",
+    "huggingface": null,
+    "homepage": "https://www.nineminds.com/alga-psa"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 132,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T14:12:53Z",
+    "first_commit_at": "2024-11-04T01:50:06Z",
+    "forks": 50,
+    "watchers": 8,
+    "open_issues": 51,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5867,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:20:38.456026Z",
+  "last_refreshed_at": "2026-08-25T14:20:38.456030Z",
+  "consecutive_refresh_failures": 0
+}

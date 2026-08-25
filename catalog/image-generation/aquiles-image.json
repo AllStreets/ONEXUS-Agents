@@ -1,0 +1,60 @@
+{
+  "slug": "aquiles-image",
+  "name": "Aquiles-Image",
+  "tagline": "A high-performance, memory-efficient inference server for diffusion models (image/video generation), compatible with the OpenAI client",
+  "category": "image-generation",
+  "tags": [
+    "cuda",
+    "diffusers",
+    "diffusion",
+    "diffusion-models",
+    "fastapi",
+    "flux",
+    "image-generation-ai",
+    "image2image",
+    "latent-diffusion-models",
+    "open-source"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Aquiles-ai",
+    "url": "https://github.com/Aquiles-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Aquiles-ai/Aquiles-Image",
+    "huggingface": null,
+    "homepage": "https://aquiles-ai.vercel.app/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T22:48:19Z",
+    "first_commit_at": "2025-09-09T14:54:01Z",
+    "forks": 1,
+    "watchers": 2,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2835,
+  "rank_in_category": 79,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:20.298958Z",
+  "last_refreshed_at": "2026-08-25T14:26:20.298963Z",
+  "consecutive_refresh_failures": 0
+}

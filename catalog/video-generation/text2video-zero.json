@@ -1,0 +1,52 @@
+{
+  "slug": "text2video-zero",
+  "name": "Text2Video-Zero",
+  "tagline": "[ICCV 2023 Oral] Text-to-Image Diffusion Models are Zero-Shot Video Generators",
+  "category": "video-generation",
+  "tags": [
+    "video-editing",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Picsart-AI-Research",
+    "url": "https://github.com/Picsart-AI-Research"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Picsart-AI-Research/Text2Video-Zero",
+    "huggingface": null,
+    "homepage": "https://text2video-zero.github.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4245,
+    "downloads_30d": null,
+    "last_commit_at": "2023-05-06T22:35:28Z",
+    "first_commit_at": "2023-03-21T13:41:41Z",
+    "forks": 387,
+    "watchers": 67,
+    "open_issues": 51,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3595,
+  "rank_in_category": 60,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:29.671961Z",
+  "last_refreshed_at": "2026-08-25T14:29:29.671965Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "speech-to-speech",
+  "name": "speech-to-speech",
+  "tagline": "Build voice agents with open-source models",
+  "category": "audio-speech",
+  "tags": [
+    "ai",
+    "assistant",
+    "language-model",
+    "machine-learning",
+    "python",
+    "speech",
+    "speech-synthesis",
+    "speech-to-text",
+    "speech-translation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "huggingface",
+    "url": "https://github.com/huggingface"
+  },
+  "source": {
+    "primary": "github",
+    "github": "huggingface/speech-to-speech",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 12855,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T12:13:22Z",
+    "first_commit_at": "2024-08-07T15:36:13Z",
+    "forks": 1591,
+    "watchers": 109,
+    "open_issues": 104,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6552,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:35:00.492063Z",
+  "last_refreshed_at": "2026-08-25T14:35:00.492067Z",
+  "consecutive_refresh_failures": 0
+}

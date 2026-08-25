@@ -1,0 +1,63 @@
+{
+  "slug": "agent-one",
+  "name": "agent-one",
+  "tagline": "Free Open-source Claude Cowork Alternative",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-coding",
+    "anthropic",
+    "claude",
+    "desktop-app",
+    "extension",
+    "free",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "The-Best-Codes",
+    "url": "https://github.com/The-Best-Codes"
+  },
+  "source": {
+    "primary": "github",
+    "github": "The-Best-Codes/agent-one",
+    "huggingface": null,
+    "homepage": "https://www.agent-one.dev/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 31,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-23T22:45:54Z",
+    "first_commit_at": "2025-02-23T17:56:11Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3601,
+  "rank_in_category": 236,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:24:20.482964Z",
+  "last_refreshed_at": "2026-08-25T14:24:20.482967Z",
+  "consecutive_refresh_failures": 0
+}

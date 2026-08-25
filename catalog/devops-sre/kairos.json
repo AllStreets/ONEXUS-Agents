@@ -1,0 +1,60 @@
+{
+  "slug": "kairos",
+  "name": "kairos",
+  "tagline": "The immutable Linux meta-distribution for edge Kubernetes.",
+  "category": "devops-sre",
+  "tags": [
+    "baremetal",
+    "cloud",
+    "cloud-native",
+    "containers",
+    "edge",
+    "hacktoberfest",
+    "immutable",
+    "k3s",
+    "kubernetes",
+    "libp2p"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kairos-io",
+    "url": "https://github.com/kairos-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kairos-io/kairos",
+    "huggingface": null,
+    "homepage": "https://kairos.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1809,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T13:44:46Z",
+    "first_commit_at": "2021-07-30T16:25:40Z",
+    "forks": 140,
+    "watchers": 17,
+    "open_issues": 288,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5908,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:27:16.891456Z",
+  "last_refreshed_at": "2026-08-25T14:27:16.891460Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "everything-openai-codex",
+  "name": "everything-openai-codex",
+  "tagline": "EOC: open-source operating system for OpenAI Codex workflows with agents, skills, hooks, rules, memory, safety gates, and cross-harness adapters.",
+  "category": "coding",
+  "tags": [
+    "agent-harness",
+    "agent-skills",
+    "ai-agents",
+    "automation",
+    "cli-tools",
+    "codex",
+    "codex-cli",
+    "codex-plugins",
+    "coding-assistant",
+    "copilot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mturac",
+    "url": "https://github.com/mturac"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mturac/everything-openai-codex",
+    "huggingface": null,
+    "homepage": "https://github.com/mturac/everything-openai-codex"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 87,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T12:57:16Z",
+    "first_commit_at": "2026-05-18T18:23:57Z",
+    "forks": 3,
+    "watchers": 14,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2912,
+  "rank_in_category": 404,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:31:29.099697Z",
+  "last_refreshed_at": "2026-08-25T14:31:29.099701Z",
+  "consecutive_refresh_failures": 0
+}

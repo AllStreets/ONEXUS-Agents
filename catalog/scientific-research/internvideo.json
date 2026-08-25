@@ -1,0 +1,60 @@
+{
+  "slug": "internvideo",
+  "name": "InternVideo",
+  "tagline": "[ECCV2024] Video Foundation Models & Data for Multimodal Understanding",
+  "category": "scientific-research",
+  "tags": [
+    "action-recognition",
+    "benchmark",
+    "contrastive-learning",
+    "foundation-models",
+    "instruction-tuning",
+    "masked-autoencoder",
+    "multimodal",
+    "open-set-recognition",
+    "self-supervised",
+    "spatio-temporal-action-localization"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OpenGVLab",
+    "url": "https://github.com/OpenGVLab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OpenGVLab/InternVideo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2368,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-02T03:20:41Z",
+    "first_commit_at": "2022-12-06T17:01:04Z",
+    "forks": 159,
+    "watchers": 25,
+    "open_issues": 147,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5917,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:30:29.377388Z",
+  "last_refreshed_at": "2026-08-25T14:30:29.377392Z",
+  "consecutive_refresh_failures": 0
+}

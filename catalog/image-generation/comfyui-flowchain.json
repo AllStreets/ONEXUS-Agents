@@ -1,0 +1,55 @@
+{
+  "slug": "comfyui-flowchain",
+  "name": "Comfyui-FlowChain",
+  "tagline": "Convert your workflows into nodes and chain them together",
+  "category": "image-generation",
+  "tags": [
+    "comfyui",
+    "comfyui-nodes",
+    "comfyui-workflow",
+    "flux",
+    "stable-diffusion"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "numz",
+    "url": "https://github.com/numz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "numz/Comfyui-FlowChain",
+    "huggingface": null,
+    "homepage": "https://buymeacoffee.com/numzzz5"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 170,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-28T06:20:20Z",
+    "first_commit_at": "2024-10-13T18:07:20Z",
+    "forks": 16,
+    "watchers": 2,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2258,
+  "rank_in_category": 127,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:39.456688Z",
+  "last_refreshed_at": "2026-08-25T14:25:39.456691Z",
+  "consecutive_refresh_failures": 0
+}

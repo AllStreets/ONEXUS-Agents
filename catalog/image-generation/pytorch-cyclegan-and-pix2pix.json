@@ -1,0 +1,60 @@
+{
+  "slug": "pytorch-cyclegan-and-pix2pix",
+  "name": "pytorch-CycleGAN-and-pix2pix",
+  "tagline": "Image-to-Image Translation in PyTorch",
+  "category": "image-generation",
+  "tags": [
+    "computer-graphics",
+    "computer-vision",
+    "cyclegan",
+    "deep-learning",
+    "gan",
+    "gans",
+    "generative-adversarial-network",
+    "image-generation",
+    "image-manipulation",
+    "pix2pix"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "junyanz",
+    "url": "https://github.com/junyanz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "junyanz/pytorch-CycleGAN-and-pix2pix",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 25229,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-06T17:58:38Z",
+    "first_commit_at": "2017-04-18T10:38:47Z",
+    "forks": 6570,
+    "watchers": 338,
+    "open_issues": 589,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3404,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:55.138089Z",
+  "last_refreshed_at": "2026-08-25T14:25:55.138093Z",
+  "consecutive_refresh_failures": 0
+}

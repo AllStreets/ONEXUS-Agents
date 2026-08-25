@@ -1,0 +1,55 @@
+{
+  "slug": "ai-resolution-quality",
+  "name": "ai-resolution-quality",
+  "tagline": "Causal inference pipeline (PSM + DiD) estimating the effect of AI assistance on customer-support resolution quality",
+  "category": "customer-support",
+  "tags": [
+    "ai-customer-support",
+    "causal-inference",
+    "data-science",
+    "difference-in-differences",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dustintdn",
+    "url": "https://github.com/dustintdn"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dustintdn/ai-resolution-quality",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-11T19:52:02Z",
+    "first_commit_at": "2026-03-09T22:46:16Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2569,
+  "rank_in_category": 171,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:18:25.117869Z",
+  "last_refreshed_at": "2026-08-25T14:18:25.117873Z",
+  "consecutive_refresh_failures": 0
+}

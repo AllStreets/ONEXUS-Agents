@@ -1,0 +1,58 @@
+{
+  "slug": "voicebox",
+  "name": "voicebox",
+  "tagline": "The open-source AI voice studio. Clone, dictate, create.",
+  "category": "audio-speech",
+  "tags": [
+    "ai",
+    "cuda",
+    "mlx",
+    "qwen3-tts",
+    "qwen3-tts-ui",
+    "voice-ai",
+    "voice-clone",
+    "whisper"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jamiepine",
+    "url": "https://github.com/jamiepine"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jamiepine/voicebox",
+    "huggingface": null,
+    "homepage": "https://voicebox.sh/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 51413,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-09T00:03:42Z",
+    "first_commit_at": "2026-01-25T10:19:06Z",
+    "forks": 6415,
+    "watchers": 236,
+    "open_issues": 658,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6384,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:34:26.129513Z",
+  "last_refreshed_at": "2026-08-25T14:34:26.129517Z",
+  "consecutive_refresh_failures": 0
+}

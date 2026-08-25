@@ -1,0 +1,49 @@
+{
+  "slug": "openai-support-agent-demo",
+  "name": "openai-support-agent-demo",
+  "tagline": "Demo of a customer support agent interface using NextJS and the OpenAI Responses API with File Search",
+  "category": "customer-support",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "openai",
+    "url": "https://github.com/openai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openai/openai-support-agent-demo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 195,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-15T23:46:55Z",
+    "first_commit_at": "2025-04-15T20:14:00Z",
+    "forks": 70,
+    "watchers": 6,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4147,
+  "rank_in_category": 87,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:18:41.341273Z",
+  "last_refreshed_at": "2026-08-25T14:18:41.341277Z",
+  "consecutive_refresh_failures": 0
+}

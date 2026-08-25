@@ -1,0 +1,60 @@
+{
+  "slug": "insightcut-jianying-image-video",
+  "name": "insightcut-jianying-image-video",
+  "tagline": "剪映 / Jianying / CapCut 可编辑图片视频工作台 · InsightCut：文稿转分镜、图片、配音、字幕和可编辑草稿，支持 MP4、素材包与剪映草稿导出。",
+  "category": "video-generation",
+  "tags": [
+    "ai-video",
+    "ai-video-generation",
+    "ai-video-generator",
+    "capcut",
+    "capcut-draft",
+    "explainer-video",
+    "fastapi",
+    "ffmpeg",
+    "image-to-video",
+    "jianying"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SkyNotSilent",
+    "url": "https://github.com/SkyNotSilent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SkyNotSilent/insightcut-jianying-image-video",
+    "huggingface": null,
+    "homepage": "https://skynotsilent.github.io/insightcut-jianying-image-video/showcase/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 42,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T15:47:23Z",
+    "first_commit_at": "2026-05-01T03:59:44Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3261,
+  "rank_in_category": 78,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:48.869559Z",
+  "last_refreshed_at": "2026-08-25T14:29:48.869563Z",
+  "consecutive_refresh_failures": 0
+}

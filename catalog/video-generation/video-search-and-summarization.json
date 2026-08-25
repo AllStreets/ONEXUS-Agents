@@ -1,0 +1,62 @@
+{
+  "slug": "video-search-and-summarization",
+  "name": "video-search-and-summarization",
+  "tagline": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building video analytics agents with real-time verified alerts, visual Q&A, and automated r",
+  "category": "video-generation",
+  "tags": [
+    "computer-vision",
+    "generative-ai",
+    "long-video-understanding",
+    "model-context-protocol",
+    "multimodal-ai",
+    "natural-language-search",
+    "nvidia-nim",
+    "rag",
+    "real-time-video-analytics",
+    "retrieval-augmented-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NVIDIA-AI-Blueprints",
+    "url": "https://github.com/NVIDIA-AI-Blueprints"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "huggingface": null,
+    "homepage": "https://build.nvidia.com/nvidia/video-search-and-summarization"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1822,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T14:29:29Z",
+    "first_commit_at": "2024-10-22T06:43:07Z",
+    "forks": 378,
+    "watchers": 19,
+    "open_issues": 144,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5388,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:30:30.850509Z",
+  "last_refreshed_at": "2026-08-25T14:30:30.850512Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "sip-to-ai",
+  "name": "sip-to-ai",
+  "tagline": "Turn any SIP call into a realtime AI voice agent (OpenAI Realtime / Deepgram/Gemini Live/xAI Grok Voice)",
+  "category": "audio-speech",
+  "tags": [
+    "asterisk",
+    "callcenter",
+    "deepgram",
+    "freeswitch",
+    "gemini-live",
+    "openai",
+    "realtime",
+    "sip",
+    "telephony",
+    "voice-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aicc2025",
+    "url": "https://github.com/aicc2025"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aicc2025/sip-to-ai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 102,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-07T04:30:54Z",
+    "first_commit_at": "2025-10-05T00:54:22Z",
+    "forks": 27,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4333,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:38.402788Z",
+  "last_refreshed_at": "2026-08-25T14:32:38.402791Z",
+  "consecutive_refresh_failures": 0
+}

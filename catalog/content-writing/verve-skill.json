@@ -1,0 +1,60 @@
+{
+  "slug": "verve-skill",
+  "name": "verve-skill",
+  "tagline": "Claude Code and Codex skill that strips AI tells from prose and puts a human voice back, in British English. Prose only, no packages or network. A free tool by DBHQ.",
+  "category": "content-writing",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "british-english",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "content-writing",
+    "copywriting",
+    "editing",
+    "prose"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "dbhq-uk",
+    "url": "https://github.com/dbhq-uk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dbhq-uk/verve-skill",
+    "huggingface": null,
+    "homepage": "https://dbhq.uk/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-09T18:07:03Z",
+    "first_commit_at": "2026-03-09T10:50:30Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4018,
+  "rank_in_category": 87,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:21:46.627106Z",
+  "last_refreshed_at": "2026-08-25T14:21:46.627110Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "customer-service-chatbot",
+  "name": "customer-service-chatbot",
+  "tagline": "It is an artificially intelligent chatbot which can interact with customers with voice.",
+  "category": "customer-support",
+  "tags": [
+    "aiml",
+    "aiml-bots",
+    "chatbot",
+    "customer",
+    "customer-service",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pyxploiter",
+    "url": "https://github.com/pyxploiter"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pyxploiter/customer-service-chatbot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2018-12-28T17:43:00Z",
+    "first_commit_at": "2017-08-08T22:15:28Z",
+    "forks": 13,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3205,
+  "rank_in_category": 138,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:21:20.847570Z",
+  "last_refreshed_at": "2026-08-25T14:21:20.847574Z",
+  "consecutive_refresh_failures": 0
+}

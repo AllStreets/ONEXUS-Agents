@@ -1,0 +1,60 @@
+{
+  "slug": "android-text-to-image",
+  "name": "android-text-to-image",
+  "tagline": "A wrapper Android library/aar that converts the given promt as string into an image",
+  "category": "image-generation",
+  "tags": [
+    "android",
+    "android-ai",
+    "android-library",
+    "android-text-to-image",
+    "image-generation",
+    "image-generation-ai",
+    "image-generator",
+    "kotlin",
+    "kotlin-library",
+    "text-to-image"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zekierciyas",
+    "url": "https://github.com/zekierciyas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zekierciyas/android-text-to-image",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2024-01-30T22:53:00Z",
+    "first_commit_at": "2024-01-28T19:31:11Z",
+    "forks": 4,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1794,
+  "rank_in_category": 169,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:27.294396Z",
+  "last_refreshed_at": "2026-08-25T14:26:27.294400Z",
+  "consecutive_refresh_failures": 0
+}

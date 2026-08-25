@@ -17,24 +17,24 @@
   ],
   "author": {
     "type": "org",
-    "handle": "NanoNets",
-    "url": "https://github.com/NanoNets"
+    "handle": "trailhq",
+    "url": "https://github.com/trailhq"
   },
   "source": {
     "primary": "github",
-    "github": "NanoNets/Graft",
+    "github": "trailhq/Graft",
     "huggingface": null,
     "homepage": "https://graft.nanonets.ai/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 4692,
+    "stars": 4858,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-24T12:43:15Z",
+    "last_commit_at": "2026-08-25T13:48:14Z",
     "first_commit_at": "2026-07-03T12:05:37Z",
-    "forks": 405,
-    "watchers": 22,
-    "open_issues": 59,
+    "forks": 425,
+    "watchers": 23,
+    "open_issues": 77,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4306,
+  "composite_score": 0.4314,
   "rank_in_category": 78,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-24T13:55:49.621967Z",
-  "last_refreshed_at": "2026-08-24T13:55:49.621970Z",
+  "first_seen_at": "2026-08-25T13:53:07.527117Z",
+  "last_refreshed_at": "2026-08-25T13:53:07.527121Z",
   "consecutive_refresh_failures": 0
 }

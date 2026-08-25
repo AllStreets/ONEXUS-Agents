@@ -1,0 +1,62 @@
+{
+  "slug": "ai-healthcare-system",
+  "name": "AI-Healthcare-System",
+  "tagline": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and FastAPI Clinical Architecture.",
+  "category": "data-engineering",
+  "tags": [
+    "agent-framework",
+    "apache-airflow",
+    "clinical-decision-support",
+    "clinical-intelligence",
+    "delta-lake",
+    "ehr",
+    "fastapi",
+    "fhir",
+    "healthcare",
+    "hipaa"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pavanbadempet",
+    "url": "https://github.com/pavanbadempet"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pavanbadempet/AI-Healthcare-System",
+    "huggingface": null,
+    "homepage": "https://pavanbadempet.github.io/AI-Healthcare-System/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 43,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T03:39:53Z",
+    "first_commit_at": "2026-07-13T15:02:43Z",
+    "forks": 14,
+    "watchers": 4,
+    "open_issues": 21,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5374,
+  "rank_in_category": 52,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:23.926613Z",
+  "last_refreshed_at": "2026-08-25T14:25:23.926617Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "makemoneywithai",
+  "name": "MakeMoneyWithAI",
+  "tagline": "A list of open-source AI projects you can use to generate income easily.",
+  "category": "content-writing",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "deepfake",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "nlp",
+    "ocr",
+    "open-source"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "garylab",
+    "url": "https://github.com/garylab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "garylab/MakeMoneyWithAI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 784,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-23T01:07:32Z",
+    "first_commit_at": "2025-03-19T09:01:38Z",
+    "forks": 132,
+    "watchers": 14,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6877,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:20:01.268459Z",
+  "last_refreshed_at": "2026-08-25T14:20:01.268462Z",
+  "consecutive_refresh_failures": 0
+}

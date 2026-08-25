@@ -1,0 +1,62 @@
+{
+  "slug": "rag-cookbooks",
+  "name": "rag-cookbooks",
+  "tagline": "This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.",
+  "category": "search-rag",
+  "tags": [
+    "ai",
+    "chromadb",
+    "cookbooks",
+    "faiss",
+    "langchain",
+    "llm",
+    "llms",
+    "openai",
+    "pinecone",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "athina-ai",
+    "url": "https://github.com/athina-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "athina-ai/rag-cookbooks",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2566,
+    "downloads_30d": null,
+    "last_commit_at": "2025-02-17T10:05:33Z",
+    "first_commit_at": "2024-12-01T05:14:24Z",
+    "forks": 325,
+    "watchers": 33,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3027,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:27:15.540968Z",
+  "last_refreshed_at": "2026-08-25T14:27:15.540972Z",
+  "consecutive_refresh_failures": 0
+}
