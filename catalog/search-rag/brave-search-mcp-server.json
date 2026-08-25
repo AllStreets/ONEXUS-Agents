@@ -1,0 +1,49 @@
+{
+  "slug": "brave-search-mcp-server",
+  "name": "brave-search-mcp-server",
+  "tagline": "brave-search-mcp-server",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "brave",
+    "url": "https://github.com/brave"
+  },
+  "source": {
+    "primary": "github",
+    "github": "brave/brave-search-mcp-server",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1403,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T16:12:05Z",
+    "first_commit_at": "2025-06-12T18:22:05Z",
+    "forks": 199,
+    "watchers": 7,
+    "open_issues": 34,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3788,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:19:57.491283Z",
+  "last_refreshed_at": "2026-08-25T14:19:57.491287Z",
+  "consecutive_refresh_failures": 0
+}

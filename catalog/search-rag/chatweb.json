@@ -1,0 +1,60 @@
+{
+  "slug": "chatweb",
+  "name": "chatWeb",
+  "tagline": "ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.",
+  "category": "search-rag",
+  "tags": [
+    "ai",
+    "chatgpt",
+    "crawler",
+    "docx",
+    "embedding",
+    "faiss",
+    "gpt",
+    "gpt-35-turbo",
+    "news-extractor",
+    "newspaper"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SkywalkerDarren",
+    "url": "https://github.com/SkywalkerDarren"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SkywalkerDarren/chatWeb",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 916,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-25T16:56:25Z",
+    "first_commit_at": "2023-03-09T12:15:16Z",
+    "forks": 137,
+    "watchers": 18,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3368,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:21:01.970470Z",
+  "last_refreshed_at": "2026-08-25T14:21:01.970474Z",
+  "consecutive_refresh_failures": 0
+}

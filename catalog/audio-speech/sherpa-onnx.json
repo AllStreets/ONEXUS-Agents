@@ -1,0 +1,60 @@
+{
+  "slug": "sherpa-onnx",
+  "name": "sherpa-onnx",
+  "tagline": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android",
+  "category": "audio-speech",
+  "tags": [
+    "aarch64",
+    "android",
+    "arm32",
+    "asr",
+    "cpp",
+    "csharp",
+    "dotnet",
+    "ios",
+    "lazarus",
+    "linux"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "k2-fsa",
+    "url": "https://github.com/k2-fsa"
+  },
+  "source": {
+    "primary": "github",
+    "github": "k2-fsa/sherpa-onnx",
+    "huggingface": null,
+    "homepage": "https://k2-fsa.github.io/sherpa/onnx/index.html"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 14379,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T03:44:25Z",
+    "first_commit_at": "2022-09-02T12:29:07Z",
+    "forks": 1650,
+    "watchers": 116,
+    "open_issues": 625,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6587,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:53.453466Z",
+  "last_refreshed_at": "2026-08-25T14:32:53.453470Z",
+  "consecutive_refresh_failures": 0
+}

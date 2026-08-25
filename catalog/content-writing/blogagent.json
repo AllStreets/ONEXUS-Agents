@@ -1,0 +1,51 @@
+{
+  "slug": "blogagent",
+  "name": "BlogAgent",
+  "tagline": "Creating blog post using CrewAI and OpenAI",
+  "category": "content-writing",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "bobheadmaker",
+    "url": "https://github.com/bobheadmaker"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bobheadmaker/BlogAgent",
+    "huggingface": null,
+    "homepage": "https://aiagentslive.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2025-01-24T14:44:22Z",
+    "first_commit_at": "2025-01-24T11:53:14Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "crewai"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.285,
+  "rank_in_category": 155,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:23:50.150391Z",
+  "last_refreshed_at": "2026-08-25T14:23:50.150394Z",
+  "consecutive_refresh_failures": 0
+}

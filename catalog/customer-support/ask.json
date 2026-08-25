@@ -1,0 +1,62 @@
+{
+  "slug": "ask",
+  "name": "ask",
+  "tagline": "ask is an AI-powered CLI tool for developers who live in the terminal. It brings multi-provider LLM support, agent capabilities, and shell-native intelligence to your fingertips.",
+  "category": "customer-support",
+  "tags": [
+    "agent",
+    "ai",
+    "anthropic",
+    "automation",
+    "bash",
+    "claude",
+    "cli",
+    "deepseek",
+    "developer-tools",
+    "gemini"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "elias-ba",
+    "url": "https://github.com/elias-ba"
+  },
+  "source": {
+    "primary": "github",
+    "github": "elias-ba/ask",
+    "huggingface": null,
+    "homepage": "https://elias-ba.github.io/ask/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 48,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-28T22:21:58Z",
+    "first_commit_at": "2025-09-30T19:54:19Z",
+    "forks": 9,
+    "watchers": 2,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4024,
+  "rank_in_category": 91,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:18:49.905982Z",
+  "last_refreshed_at": "2026-08-25T14:18:49.905986Z",
+  "consecutive_refresh_failures": 0
+}

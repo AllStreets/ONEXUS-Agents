@@ -1,0 +1,53 @@
+{
+  "slug": "paper2video",
+  "name": "Paper2Video",
+  "tagline": "[ICCV 2025] Preacher: Paper-to-Video Agentic System",
+  "category": "video-generation",
+  "tags": [
+    "multiagent-systems",
+    "video-agents",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Gen-Verse",
+    "url": "https://github.com/Gen-Verse"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Gen-Verse/Paper2Video",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2508.09632"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 50,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-01T08:58:02Z",
+    "first_commit_at": "2025-09-01T07:49:47Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2351,
+  "rank_in_category": 120,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:30:07.538236Z",
+  "last_refreshed_at": "2026-08-25T14:30:07.538240Z",
+  "consecutive_refresh_failures": 0
+}

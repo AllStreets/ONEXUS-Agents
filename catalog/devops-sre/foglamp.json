@@ -1,0 +1,49 @@
+{
+  "slug": "foglamp",
+  "name": "foglamp",
+  "tagline": "The missing observability layer for the Vercel AI SDK.",
+  "category": "devops-sre",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "foglamp-labs",
+    "url": "https://github.com/foglamp-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "foglamp-labs/foglamp",
+    "huggingface": null,
+    "homepage": "https://foglamp.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 320,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-23T18:16:24Z",
+    "first_commit_at": "2026-04-18T23:56:00Z",
+    "forks": 27,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4859,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:20:29.715283Z",
+  "last_refreshed_at": "2026-08-25T14:20:29.715287Z",
+  "consecutive_refresh_failures": 0
+}

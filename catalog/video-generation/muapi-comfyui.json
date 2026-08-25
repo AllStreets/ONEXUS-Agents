@@ -1,0 +1,60 @@
+{
+  "slug": "muapi-comfyui",
+  "name": "muapi-comfyui",
+  "tagline": "ComfyUI custom nodes for 100+ AI models — Seedance, Kling, Veo3, Flux, HiDream, GPT-image, Imagen4 and more via muapi.ai",
+  "category": "video-generation",
+  "tags": [
+    "ai-image-editing",
+    "ai-video-generation",
+    "comfyui",
+    "comfyui-custom-nodes",
+    "comfyui-nodes",
+    "flux",
+    "generative-ai",
+    "image-generation",
+    "image-to-video",
+    "image-upscale"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SamurAIGPT",
+    "url": "https://github.com/SamurAIGPT"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SamurAIGPT/muapi-comfyui",
+    "huggingface": null,
+    "homepage": "https://muapi.ai/playground/nano-banana"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 66,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-15T08:40:58Z",
+    "first_commit_at": "2025-09-05T11:00:07Z",
+    "forks": 17,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3494,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:45.205278Z",
+  "last_refreshed_at": "2026-08-25T14:29:45.205282Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "cogvideo",
+  "name": "CogVideo",
+  "tagline": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+  "category": "video-generation",
+  "tags": [
+    "cogvideox",
+    "image-to-video",
+    "llm",
+    "sora",
+    "text-to-video",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "zai-org",
+    "url": "https://github.com/zai-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zai-org/CogVideo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 12972,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-04T11:19:04Z",
+    "first_commit_at": "2022-05-29T06:46:19Z",
+    "forks": 1334,
+    "watchers": 136,
+    "open_issues": 117,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3982,
+  "rank_in_category": 41,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:21.369461Z",
+  "last_refreshed_at": "2026-08-25T14:29:21.369465Z",
+  "consecutive_refresh_failures": 0
+}

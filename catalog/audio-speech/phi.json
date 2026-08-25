@@ -1,0 +1,60 @@
+{
+  "slug": "phi",
+  "name": "phi",
+  "tagline": "Phi-3, -3.5, and -4 for Mac: Locally-run Vision and Language Models for Apple Silicon",
+  "category": "audio-speech",
+  "tags": [
+    "agent",
+    "finetuning",
+    "llm",
+    "lora",
+    "mac",
+    "macos",
+    "metal",
+    "mlx",
+    "multi-agent-systems",
+    "multimodal"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JosefAlbers",
+    "url": "https://github.com/JosefAlbers"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JosefAlbers/phi",
+    "huggingface": null,
+    "homepage": "https://medium.com/@albersj66"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 278,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-31T08:46:27Z",
+    "first_commit_at": "2024-05-27T18:26:04Z",
+    "forks": 22,
+    "watchers": 7,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4921,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:33:35.448978Z",
+  "last_refreshed_at": "2026-08-25T14:33:35.448982Z",
+  "consecutive_refresh_failures": 0
+}

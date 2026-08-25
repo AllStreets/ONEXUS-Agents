@@ -1,0 +1,59 @@
+{
+  "slug": "deepgram-go-sdk",
+  "name": "deepgram-go-sdk",
+  "tagline": "Official Go SDK for Deepgram.",
+  "category": "audio-speech",
+  "tags": [
+    "asr",
+    "deepgram",
+    "go",
+    "hacktoberfest",
+    "speech-recognition",
+    "speech-to-text",
+    "text-to-speech",
+    "voice-agent",
+    "voice-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "deepgram",
+    "url": "https://github.com/deepgram"
+  },
+  "source": {
+    "primary": "github",
+    "github": "deepgram/deepgram-go-sdk",
+    "huggingface": null,
+    "homepage": "https://developers.deepgram.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 90,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-17T12:57:27Z",
+    "first_commit_at": "2022-05-07T16:55:34Z",
+    "forks": 57,
+    "watchers": 6,
+    "open_issues": 40,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4336,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:39.030855Z",
+  "last_refreshed_at": "2026-08-25T14:32:39.030859Z",
+  "consecutive_refresh_failures": 0
+}

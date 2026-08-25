@@ -1,0 +1,61 @@
+{
+  "slug": "bw-modeling-mcp",
+  "name": "bw-modeling-mcp",
+  "tagline": "MCP server for agentic AI-assisted development in SAP BW/4HANA",
+  "category": "coding",
+  "tags": [
+    "agentic-ai",
+    "bw-modelling-tools",
+    "bw4hana",
+    "bwmt",
+    "mcp",
+    "model-context-protocol",
+    "sap",
+    "sap-bw",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dnic-dev",
+    "url": "https://github.com/dnic-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dnic-dev/bw-modeling-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 58,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T15:36:37Z",
+    "first_commit_at": "2026-04-16T12:56:43Z",
+    "forks": 18,
+    "watchers": 7,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3538,
+  "rank_in_category": 252,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:24:06.150818Z",
+  "last_refreshed_at": "2026-08-25T14:24:06.150823Z",
+  "consecutive_refresh_failures": 0
+}

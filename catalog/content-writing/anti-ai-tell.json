@@ -1,0 +1,60 @@
+{
+  "slug": "anti-ai-tell",
+  "name": "anti-ai-tell",
+  "tagline": "Three-tier writing discipline that keeps prose from reading as AI-generated: prompt constraints, evidence-based linter, judgment checklist. Claude Code plugin + adapters for any AI client.",
+  "category": "content-writing",
+  "tags": [
+    "ai-detection",
+    "ai-writing",
+    "claude",
+    "cli",
+    "content-writing",
+    "linter",
+    "llm",
+    "prompt-engineering",
+    "prose",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MikkoParkkola",
+    "url": "https://github.com/MikkoParkkola"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MikkoParkkola/anti-ai-tell",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-02T11:57:02Z",
+    "first_commit_at": "2026-06-11T17:40:43Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3971,
+  "rank_in_category": 90,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:21:51.018889Z",
+  "last_refreshed_at": "2026-08-25T14:21:51.018893Z",
+  "consecutive_refresh_failures": 0
+}

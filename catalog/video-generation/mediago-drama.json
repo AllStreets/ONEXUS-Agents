@@ -1,0 +1,60 @@
+{
+  "slug": "mediago-drama",
+  "name": "mediago-drama",
+  "tagline": "小说改短剧，从文本到视频的一站式 Agent 工作台。",
+  "category": "video-generation",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "ai-content-gener",
+    "ai-video-generation",
+    "aigc",
+    "codex",
+    "codex-skill",
+    "content-generation",
+    "golang",
+    "gpt-image-2"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mediago-dev",
+    "url": "https://github.com/mediago-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mediago-dev/mediago-drama",
+    "huggingface": null,
+    "homepage": "https://mediago.torchstellar.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 61,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-30T02:40:33Z",
+    "first_commit_at": "2026-06-12T10:08:57Z",
+    "forks": 17,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.315,
+  "rank_in_category": 85,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:45.867195Z",
+  "last_refreshed_at": "2026-08-25T14:29:45.867198Z",
+  "consecutive_refresh_failures": 0
+}

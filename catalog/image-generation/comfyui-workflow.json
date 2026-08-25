@@ -1,0 +1,55 @@
+{
+  "slug": "comfyui-workflow",
+  "name": "comfyui-workflow",
+  "tagline": "comfyui工作流分享，提供deepseek、AI绘画、AI换脸、老照片修复、AI写真、AI设计、AI动漫、flux等comfyui workflow，更多工作流可以关注我的小程序《AI图工厂》。",
+  "category": "image-generation",
+  "tags": [
+    "ai",
+    "comfyui",
+    "comfyui-workflow",
+    "deepseek",
+    "flux"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ai-rich",
+    "url": "https://github.com/ai-rich"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ai-rich/comfyui-workflow",
+    "huggingface": null,
+    "homepage": "https://comfyui.aitgc.cn/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 176,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-08T12:31:27Z",
+    "first_commit_at": "2024-12-28T12:20:55Z",
+    "forks": 46,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2274,
+  "rank_in_category": 126,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:38.884929Z",
+  "last_refreshed_at": "2026-08-25T14:25:38.884932Z",
+  "consecutive_refresh_failures": 0
+}

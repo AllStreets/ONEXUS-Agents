@@ -1,0 +1,52 @@
+{
+  "slug": "wan2-2",
+  "name": "Wan2.2",
+  "tagline": "Wan: Open and Advanced Large-Scale Video Generative Models",
+  "category": "video-generation",
+  "tags": [
+    "aigc",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Wan-Video",
+    "url": "https://github.com/Wan-Video"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Wan-Video/Wan2.2",
+    "huggingface": null,
+    "homepage": "https://wan.video/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 17279,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-17T10:48:41Z",
+    "first_commit_at": "2025-07-28T11:51:57Z",
+    "forks": 2191,
+    "watchers": 124,
+    "open_issues": 293,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4071,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:19.544831Z",
+  "last_refreshed_at": "2026-08-25T14:29:19.544834Z",
+  "consecutive_refresh_failures": 0
+}

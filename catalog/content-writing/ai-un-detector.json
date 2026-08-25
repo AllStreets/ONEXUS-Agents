@@ -1,0 +1,55 @@
+{
+  "slug": "ai-un-detector",
+  "name": "ai-un-detector",
+  "tagline": "AI腔检测与改写工具 - 一键检测文本AI味并智能改写",
+  "category": "content-writing",
+  "tags": [
+    "ai-detection",
+    "ai-tools",
+    "content-writing",
+    "humanizer",
+    "text-analysis"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zhoudibo",
+    "url": "https://github.com/zhoudibo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zhoudibo/ai-un-detector",
+    "huggingface": null,
+    "homepage": "https://unai.se/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-08T08:35:02Z",
+    "first_commit_at": "2026-08-08T08:31:29Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3663,
+  "rank_in_category": 108,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:21:58.429328Z",
+  "last_refreshed_at": "2026-08-25T14:21:58.429331Z",
+  "consecutive_refresh_failures": 0
+}

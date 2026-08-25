@@ -1,0 +1,60 @@
+{
+  "slug": "jargo",
+  "name": "jargo",
+  "tagline": "A WebRTC-native, audio-first conversational-AI framework for Go.",
+  "category": "audio-speech",
+  "tags": [
+    "ai-agents",
+    "audio",
+    "conversational-ai",
+    "go",
+    "golang",
+    "llm",
+    "pion",
+    "realtime",
+    "speech-recognition",
+    "speech-to-text"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "gojargo",
+    "url": "https://github.com/gojargo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "gojargo/jargo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "BSD-2-Clause",
+  "metrics": {
+    "stars": 69,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-23T13:57:29Z",
+    "first_commit_at": "2026-06-18T15:21:13Z",
+    "forks": 3,
+    "watchers": 2,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4315,
+  "rank_in_category": 58,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:40.433851Z",
+  "last_refreshed_at": "2026-08-25T14:32:40.433855Z",
+  "consecutive_refresh_failures": 0
+}

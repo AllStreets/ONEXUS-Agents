@@ -1,0 +1,63 @@
+{
+  "slug": "oneringai",
+  "name": "oneringai",
+  "tagline": "One lib to rule them all (gen ai)",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "ai-agents-framework",
+    "anthropic",
+    "grok",
+    "llm",
+    "mcp",
+    "multi-modal",
+    "open-source",
+    "openai",
+    "typescript-library"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aantich",
+    "url": "https://github.com/aantich"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aantich/oneringai",
+    "huggingface": null,
+    "homepage": "https://oneringai.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 73,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T17:46:12Z",
+    "first_commit_at": "2026-01-05T21:37:01Z",
+    "forks": 20,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4079,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:33:42.352753Z",
+  "last_refreshed_at": "2026-08-25T14:33:42.352757Z",
+  "consecutive_refresh_failures": 0
+}

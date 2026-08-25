@@ -1,0 +1,62 @@
+{
+  "slug": "specification-website",
+  "name": "specification.website",
+  "tagline": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.",
+  "category": "web-dev",
+  "tags": [
+    "accessibility",
+    "agent-readiness",
+    "astro",
+    "cloudflare-pages",
+    "llms-txt",
+    "mcp",
+    "seo",
+    "specification",
+    "web-security",
+    "web-standards"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jdevalk",
+    "url": "https://github.com/jdevalk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jdevalk/specification.website",
+    "huggingface": null,
+    "homepage": "https://specification.website/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 838,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T05:28:04Z",
+    "first_commit_at": "2026-05-29T09:13:20Z",
+    "forks": 47,
+    "watchers": 5,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5787,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:24:28.592741Z",
+  "last_refreshed_at": "2026-08-25T14:24:28.592745Z",
+  "consecutive_refresh_failures": 0
+}

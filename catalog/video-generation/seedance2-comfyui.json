@@ -1,0 +1,60 @@
+{
+  "slug": "seedance2-comfyui",
+  "name": "seedance2-comfyui",
+  "tagline": "Seedance 2.0, 2.5 & 2 Mini ComfyUI: custom nodes and workflows for ByteDance video generation via MuAPI — text-to-video, image-to-video, Omni Reference, consistent characters, and video extend.",
+  "category": "video-generation",
+  "tags": [
+    "ai",
+    "ai-video",
+    "ai-video-generation",
+    "bytedance",
+    "comfyui",
+    "comfyui-custom-nodes",
+    "comfyui-nodes",
+    "generative-ai",
+    "image-to-video",
+    "muapi"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Anil-matcha",
+    "url": "https://github.com/Anil-matcha"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Anil-matcha/seedance2-comfyui",
+    "huggingface": null,
+    "homepage": "https://muapi.ai/playground/seedance-2.0-mini-image-to-video"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 38,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-03T11:21:30Z",
+    "first_commit_at": "2023-11-16T10:34:16Z",
+    "forks": 19,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.358,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:49.653627Z",
+  "last_refreshed_at": "2026-08-25T14:29:49.653630Z",
+  "consecutive_refresh_failures": 0
+}

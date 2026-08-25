@@ -1,0 +1,55 @@
+{
+  "slug": "llm-rubrics-survey",
+  "name": "LLM-Rubrics-Survey",
+  "tagline": "A survey of rubrics across the evolving LLM landscape.",
+  "category": "scientific-research",
+  "tags": [
+    "alignment",
+    "evaluation",
+    "llm",
+    "rubric",
+    "survey"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AI9Stars",
+    "url": "https://github.com/AI9Stars"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AI9Stars/LLM-Rubrics-Survey",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2606.08625v2"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 69,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-02T06:52:59Z",
+    "first_commit_at": "2026-05-31T12:24:17Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3832,
+  "rank_in_category": 140,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:31:08.553399Z",
+  "last_refreshed_at": "2026-08-25T14:31:08.553403Z",
+  "consecutive_refresh_failures": 0
+}

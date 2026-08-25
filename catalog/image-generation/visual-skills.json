@@ -1,0 +1,60 @@
+{
+  "slug": "visual-skills",
+  "name": "visual-skills",
+  "tagline": "AI film director skills for agents: cinematic dramaturgy (Murch, blocking, montage) + exact prompt syntax for Seedance 2.5, Kling 3.0 Turbo/Omni, Veo 3.1, Nano Banana 2, GPT Image 2. ",
+  "category": "image-generation",
+  "tags": [
+    "ai-image-generation",
+    "ai-prompts",
+    "ai-video-generation",
+    "claude",
+    "claude-agent-sdk",
+    "claude-code",
+    "claude-skills",
+    "cline",
+    "creative-director",
+    "cursor"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "smixs",
+    "url": "https://github.com/smixs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "smixs/visual-skills",
+    "huggingface": null,
+    "homepage": "https://github.com/smixs/visual-skills"
+  },
+  "license": "CC-BY-4.0",
+  "metrics": {
+    "stars": 207,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-08T00:40:20Z",
+    "first_commit_at": "2026-04-26T02:52:30Z",
+    "forks": 28,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.301,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:39.316012Z",
+  "last_refreshed_at": "2026-08-25T14:26:39.316017Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "styleid",
+  "name": "StyleID",
+  "tagline": "[SIGGRAPH2026] StyleID : Stylization-Agnostic Identity Encoder",
+  "category": "image-generation",
+  "tags": [
+    "evaluation-metric",
+    "evaluation-metrics",
+    "face-recognition",
+    "face-recognition-python",
+    "identity-preservation",
+    "image-generation",
+    "image-generation-ai",
+    "image-similarity",
+    "image-similarity-learning",
+    "stylization"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kwanyun",
+    "url": "https://github.com/kwanyun"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kwanyun/StyleID",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 32,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-16T08:18:40Z",
+    "first_commit_at": "2026-04-23T03:42:46Z",
+    "forks": 2,
+    "watchers": 5,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2676,
+  "rank_in_category": 94,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:18.667445Z",
+  "last_refreshed_at": "2026-08-25T14:26:18.667448Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "auto-video-gen",
+  "name": "auto-video-gen",
+  "tagline": "Biến 1 URL tin tức/GitHub thành video 9:16 chuẩn TikTok/Reels/Shorts trong 5 phút — không cần edit, TTS tiếng Việt + motion graphic tự động.",
+  "category": "video-generation",
+  "tags": [
+    "ai-video-generation",
+    "shorts-generator",
+    "text-to-video",
+    "tiktok-video"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Cuongyd196",
+    "url": "https://github.com/Cuongyd196"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Cuongyd196/auto-video-gen",
+    "huggingface": null,
+    "homepage": "https://www.facebook.com/cuongit96/reels/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 49,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-13T05:00:48Z",
+    "first_commit_at": "2026-07-13T04:16:03Z",
+    "forks": 42,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3042,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:47.283497Z",
+  "last_refreshed_at": "2026-08-25T14:29:47.283500Z",
+  "consecutive_refresh_failures": 0
+}

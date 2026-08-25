@@ -1,0 +1,59 @@
+{
+  "slug": "wavespeed-comfyui",
+  "name": "wavespeed-comfyui",
+  "tagline": "WaveSpeed nodes for ComfyUI — run hundreds of hosted image and video models (Seedream, Nano Banana, GPT Image, Seedance, Wan) inside your workflows",
+  "category": "video-generation",
+  "tags": [
+    "ai-image-generation",
+    "ai-video-generation",
+    "comfyui",
+    "comfyui-nodes",
+    "flux",
+    "stable-diffusion",
+    "text-to-image",
+    "text-to-video",
+    "wavespeed"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "WaveSpeedAI",
+    "url": "https://github.com/WaveSpeedAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "WaveSpeedAI/wavespeed-comfyui",
+    "huggingface": null,
+    "homepage": "https://wavespeed.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 59,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T05:32:51Z",
+    "first_commit_at": "2025-03-30T15:11:51Z",
+    "forks": 13,
+    "watchers": 3,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3772,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:46.716113Z",
+  "last_refreshed_at": "2026-08-25T14:29:46.716118Z",
+  "consecutive_refresh_failures": 0
+}

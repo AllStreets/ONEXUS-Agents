@@ -1,0 +1,59 @@
+{
+  "slug": "comfyui-multigpu",
+  "name": "ComfyUI-MultiGPU",
+  "tagline": "This custom_node for ComfyUI adds one-click \"Virtual VRAM\" for any UNet and CLIP loader as well MultiGPU integration in WanVideoWrapper, managing the offload/Block Swap of layers to DRAM *or* VRAM to ",
+  "category": "image-generation",
+  "tags": [
+    "comfyui",
+    "comfyui-nodes",
+    "comfyui-workflow",
+    "ggml",
+    "gguf-models",
+    "pytorch",
+    "stable-diffusion",
+    "unet-pytorch",
+    "wanvideowrapper"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pollockjj",
+    "url": "https://github.com/pollockjj"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pollockjj/ComfyUI-MultiGPU",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 971,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-08T18:59:46Z",
+    "first_commit_at": "2024-08-04T16:36:59Z",
+    "forks": 78,
+    "watchers": 16,
+    "open_issues": 41,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3192,
+  "rank_in_category": 48,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:30.268369Z",
+  "last_refreshed_at": "2026-08-25T14:25:30.268373Z",
+  "consecutive_refresh_failures": 0
+}

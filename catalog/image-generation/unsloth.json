@@ -1,0 +1,60 @@
+{
+  "slug": "unsloth",
+  "name": "unsloth",
+  "tagline": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+  "category": "image-generation",
+  "tags": [
+    "agent",
+    "ai",
+    "chatgpt",
+    "deepseek",
+    "fine-tuning",
+    "gemma",
+    "image-generation",
+    "llama",
+    "llm",
+    "llms"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "unslothai",
+    "url": "https://github.com/unslothai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "unslothai/unsloth",
+    "huggingface": null,
+    "homepage": "https://unsloth.ai/docs"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 74670,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T14:25:25Z",
+    "first_commit_at": "2023-11-29T16:50:09Z",
+    "forks": 6758,
+    "watchers": 376,
+    "open_issues": 1392,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4774,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:52.152557Z",
+  "last_refreshed_at": "2026-08-25T14:25:52.152561Z",
+  "consecutive_refresh_failures": 0
+}

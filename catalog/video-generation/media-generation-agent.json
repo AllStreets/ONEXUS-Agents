@@ -1,0 +1,56 @@
+{
+  "slug": "media-generation-agent",
+  "name": "media-generation-agent",
+  "tagline": "Video Generation Agent with Veo 3.1 and Nano Banana in Cloud Run",
+  "category": "video-generation",
+  "tags": [
+    "adk",
+    "agentic-ai",
+    "cloud-run",
+    "nano-banana",
+    "veo3",
+    "video-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "vladkol",
+    "url": "https://github.com/vladkol"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vladkol/media-generation-agent",
+    "huggingface": null,
+    "homepage": "https://console.cloud.google.com/?utm_campaign=CDR_0xc245fc42_default_b443956672&utm_medium=external&utm_source=blog"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2025-10-21T15:52:46Z",
+    "first_commit_at": "2025-10-20T17:25:42Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2177,
+  "rank_in_category": 123,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:30:51.991852Z",
+  "last_refreshed_at": "2026-08-25T14:30:51.991856Z",
+  "consecutive_refresh_failures": 0
+}

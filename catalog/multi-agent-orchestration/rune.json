@@ -1,0 +1,57 @@
+{
+  "slug": "rune",
+  "name": "rune",
+  "tagline": "Less skills. Deeper connections. A lean, interconnected skill ecosystem for Claude Code.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "claude-code",
+    "mesh",
+    "orchestration",
+    "plugin",
+    "skills",
+    "tdd",
+    "workflow"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Rune-kit",
+    "url": "https://github.com/Rune-kit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Rune-kit/rune",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 84,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-16T06:32:36Z",
+    "first_commit_at": "2026-03-15T06:38:49Z",
+    "forks": 24,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3334,
+  "rank_in_category": 140,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:20:48.940747Z",
+  "last_refreshed_at": "2026-08-25T14:20:48.940751Z",
+  "consecutive_refresh_failures": 0
+}

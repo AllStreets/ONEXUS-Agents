@@ -1,0 +1,62 @@
+{
+  "slug": "divar-ai-contest",
+  "name": "Divar-AI-Contest",
+  "tagline": "CTF for AI agents — 1st & 2nd place LLM-agent solutions to Divar's AI Contest on Quera. Built on GPT-4.1-mini (via Metis AI) with LangGraph ReAct agents.",
+  "category": "web-dev",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "ai-contest",
+    "capture-the-flag",
+    "divar",
+    "gpt-4",
+    "hackathon",
+    "langgraph",
+    "llm",
+    "metis-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "erfnzdeh",
+    "url": "https://github.com/erfnzdeh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "erfnzdeh/Divar-AI-Contest",
+    "huggingface": null,
+    "homepage": "https://quera.org/events/divar-0404"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-08T19:06:42Z",
+    "first_commit_at": "2025-07-10T13:09:05Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3919,
+  "rank_in_category": 169,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T13:58:10.598507Z",
+  "last_refreshed_at": "2026-08-25T13:58:10.598511Z",
+  "consecutive_refresh_failures": 0
+}

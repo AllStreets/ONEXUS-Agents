@@ -1,0 +1,49 @@
+{
+  "slug": "videoseek",
+  "name": "videoseek",
+  "tagline": "[CVPR 2026] VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking",
+  "category": "video-generation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "jylins",
+    "url": "https://github.com/jylins"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jylins/videoseek",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 68,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-23T07:58:12Z",
+    "first_commit_at": "2026-03-23T07:53:18Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2588,
+  "rank_in_category": 111,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:30:05.903184Z",
+  "last_refreshed_at": "2026-08-25T14:30:05.903188Z",
+  "consecutive_refresh_failures": 0
+}

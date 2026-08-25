@@ -1,0 +1,57 @@
+{
+  "slug": "clinical-voice-note-gateway",
+  "name": "clinical-voice-note-gateway",
+  "tagline": "Send a privacy-minded clinical voice note through an OpenAI-compatible Infrai gateway.",
+  "category": "audio-speech",
+  "tags": [
+    "audio-speech",
+    "healthtech",
+    "infrai",
+    "openai",
+    "openai-compatible",
+    "privacy",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lyle-0013",
+    "url": "https://github.com/lyle-0013"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lyle-0013/clinical-voice-note-gateway",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-04T13:15:05Z",
+    "first_commit_at": "2026-08-01T10:11:36Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2867,
+  "rank_in_category": 89,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:44.975669Z",
+  "last_refreshed_at": "2026-08-25T14:32:44.975674Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "surfsense",
+  "name": "SurfSense",
+  "tagline": "Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "agents",
+    "ai",
+    "fastapi",
+    "langchain",
+    "langgraph",
+    "nextjs",
+    "notebooklm",
+    "notebooklm-alternative",
+    "ollama"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MODSetter",
+    "url": "https://github.com/MODSetter"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MODSetter/SurfSense",
+    "huggingface": null,
+    "homepage": "https://www.surfsense.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 16005,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T20:59:25Z",
+    "first_commit_at": "2024-07-30T23:00:11Z",
+    "forks": 1528,
+    "watchers": 86,
+    "open_issues": 120,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4722,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:30:19.317201Z",
+  "last_refreshed_at": "2026-08-25T14:30:19.317205Z",
+  "consecutive_refresh_failures": 0
+}

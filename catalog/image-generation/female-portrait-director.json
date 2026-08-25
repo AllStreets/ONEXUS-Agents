@@ -1,0 +1,55 @@
+{
+  "slug": "female-portrait-director",
+  "name": "female-portrait-director",
+  "tagline": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
+  "category": "image-generation",
+  "tags": [
+    "ai-image-generation",
+    "codex",
+    "codex-skill",
+    "open-source",
+    "prompt-engineering"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "liyue-aigc",
+    "url": "https://github.com/liyue-aigc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "liyue-aigc/female-portrait-director",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1393,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-15T13:22:05Z",
+    "first_commit_at": "2026-05-30T06:32:54Z",
+    "forks": 170,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.301,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:33.897275Z",
+  "last_refreshed_at": "2026-08-25T14:26:33.897279Z",
+  "consecutive_refresh_failures": 0
+}

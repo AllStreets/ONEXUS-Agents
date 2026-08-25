@@ -1,0 +1,65 @@
+{
+  "slug": "octopoda-os",
+  "name": "Octopoda-OS",
+  "tagline": "The open-source memory and observability layer for AI agents — persistent memory, loop detection, hash-chained audit trails, and a live dashboard, automatic on pip install.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "ai-agents",
+    "ai-memory",
+    "autogen",
+    "crash-recovery",
+    "crewai",
+    "developer-tools",
+    "knowledge-graph",
+    "langchain",
+    "llm-agents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "RyjoxTechnologies",
+    "url": "https://github.com/RyjoxTechnologies"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RyjoxTechnologies/Octopoda-OS",
+    "huggingface": null,
+    "homepage": "https://octopodas.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 500,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-15T16:10:16Z",
+    "first_commit_at": "2026-04-02T18:24:18Z",
+    "forks": 67,
+    "watchers": 3,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "autogen",
+      "crewai",
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4046,
+  "rank_in_category": 84,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:20:08.783183Z",
+  "last_refreshed_at": "2026-08-25T14:20:08.783187Z",
+  "consecutive_refresh_failures": 0
+}

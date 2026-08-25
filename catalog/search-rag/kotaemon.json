@@ -1,0 +1,54 @@
+{
+  "slug": "kotaemon",
+  "name": "kotaemon",
+  "tagline": "An open-source RAG-based tool for chatting with your documents.",
+  "category": "search-rag",
+  "tags": [
+    "chatbot",
+    "llms",
+    "open-source",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Cinnamon",
+    "url": "https://github.com/Cinnamon"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Cinnamon/kotaemon",
+    "huggingface": null,
+    "homepage": "https://cinnamon.github.io/kotaemon/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 25715,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-14T16:53:59Z",
+    "first_commit_at": "2023-08-16T07:56:48Z",
+    "forks": 2145,
+    "watchers": 129,
+    "open_issues": 242,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4307,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:19:07.355095Z",
+  "last_refreshed_at": "2026-08-25T14:19:07.355099Z",
+  "consecutive_refresh_failures": 0
+}

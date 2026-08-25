@@ -1,0 +1,62 @@
+{
+  "slug": "localai",
+  "name": "LocalAI",
+  "tagline": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+  "category": "image-generation",
+  "tags": [
+    "agents",
+    "ai",
+    "api",
+    "audio-generation",
+    "decentralized",
+    "distributed",
+    "image-generation",
+    "libp2p",
+    "llama",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mudler",
+    "url": "https://github.com/mudler"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mudler/LocalAI",
+    "huggingface": null,
+    "homepage": "https://localai.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 48666,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T12:05:16Z",
+    "first_commit_at": "2023-03-18T22:58:18Z",
+    "forks": 4386,
+    "watchers": 293,
+    "open_issues": 206,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.534,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:25:52.724636Z",
+  "last_refreshed_at": "2026-08-25T14:25:52.724640Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "qwen-audio-agent",
+  "name": "qwen-audio-agent",
+  "tagline": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+  "category": "audio-speech",
+  "tags": [
+    "acp",
+    "agent",
+    "agentic-ai",
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "opencode",
+    "speech-recognition",
+    "text-to-speech"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "QwenAudio",
+    "url": "https://github.com/QwenAudio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "QwenAudio/qwen-audio-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2242,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T14:29:13Z",
+    "first_commit_at": "2026-07-26T11:04:04Z",
+    "forks": 190,
+    "watchers": 15,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5534,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:25.650843Z",
+  "last_refreshed_at": "2026-08-25T14:32:25.650846Z",
+  "consecutive_refresh_failures": 0
+}

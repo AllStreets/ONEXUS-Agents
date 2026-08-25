@@ -1,0 +1,60 @@
+{
+  "slug": "arcreel",
+  "name": "ArcReel",
+  "tagline": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
+  "category": "video-generation",
+  "tags": [
+    "agentic-workflow",
+    "ai-agent",
+    "ai-animation",
+    "ai-video-generator",
+    "capcut",
+    "claude-agent-sdk",
+    "content-creation",
+    "docker",
+    "ffmpeg",
+    "image-to-video"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ArcReel",
+    "url": "https://github.com/ArcReel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ArcReel/ArcReel",
+    "huggingface": null,
+    "homepage": "https://arc-reel.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 4172,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T14:24:34Z",
+    "first_commit_at": "2026-02-06T07:05:18Z",
+    "forks": 841,
+    "watchers": 19,
+    "open_issues": 135,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4592,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:30.244991Z",
+  "last_refreshed_at": "2026-08-25T14:29:30.244995Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "devspace",
+  "name": "devspace",
+  "tagline": "Turn ChatGPT into Codex! OR Turn Claude Web into Claude Code!",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "codex",
+    "dyanmic-workflow",
+    "pi-coding-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Waishnav",
+    "url": "https://github.com/Waishnav"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Waishnav/devspace",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4007,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-23T21:00:48Z",
+    "first_commit_at": "2026-06-14T06:33:21Z",
+    "forks": 446,
+    "watchers": 6,
+    "open_issues": 62,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4121,
+  "rank_in_category": 76,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:23:06.740118Z",
+  "last_refreshed_at": "2026-08-25T14:23:06.740122Z",
+  "consecutive_refresh_failures": 0
+}

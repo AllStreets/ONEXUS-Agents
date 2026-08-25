@@ -1,0 +1,54 @@
+{
+  "slug": "dreamifly",
+  "name": "Dreamifly",
+  "tagline": "一个轻量级的AI图片在线生成web工具，功能丰富，且易于上手和二次开发",
+  "category": "image-generation",
+  "tags": [
+    "ai",
+    "ai-image-generation",
+    "comfyui",
+    "tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "LastLighter",
+    "url": "https://github.com/LastLighter"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LastLighter/Dreamifly",
+    "huggingface": null,
+    "homepage": "https://imagifly.net/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 200,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-13T03:37:01Z",
+    "first_commit_at": "2025-09-25T06:52:42Z",
+    "forks": 30,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2951,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:40.070231Z",
+  "last_refreshed_at": "2026-08-25T14:26:40.070235Z",
+  "consecutive_refresh_failures": 0
+}

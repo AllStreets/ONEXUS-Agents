@@ -1,0 +1,53 @@
+{
+  "slug": "active-call",
+  "name": "active-call",
+  "tagline": "A SIP/WebRTC voice agent",
+  "category": "audio-speech",
+  "tags": [
+    "sip",
+    "voice-agent",
+    "webrtc"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "miuda-ai",
+    "url": "https://github.com/miuda-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "miuda-ai/active-call",
+    "huggingface": null,
+    "homepage": "https://miuda.ai/?ref=active-call"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 187,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-23T14:39:09Z",
+    "first_commit_at": "2025-12-21T15:26:43Z",
+    "forks": 33,
+    "watchers": 2,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.488,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:33.519452Z",
+  "last_refreshed_at": "2026-08-25T14:32:33.519456Z",
+  "consecutive_refresh_failures": 0
+}

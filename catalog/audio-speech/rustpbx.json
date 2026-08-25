@@ -1,0 +1,57 @@
+{
+  "slug": "rustpbx",
+  "name": "rustpbx",
+  "tagline": "A PBX written by rust",
+  "category": "audio-speech",
+  "tags": [
+    "freeswitch",
+    "pbx",
+    "sip",
+    "sip-proxy",
+    "voice-agent",
+    "voice-assistant",
+    "webrtc"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "restsend",
+    "url": "https://github.com/restsend"
+  },
+  "source": {
+    "primary": "github",
+    "github": "restsend/rustpbx",
+    "huggingface": null,
+    "homepage": "https://miuda.ai/?ref=rustpbx"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 755,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T10:12:35Z",
+    "first_commit_at": "2025-02-14T06:47:04Z",
+    "forks": 109,
+    "watchers": 11,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5627,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:28.072825Z",
+  "last_refreshed_at": "2026-08-25T14:32:28.072829Z",
+  "consecutive_refresh_failures": 0
+}

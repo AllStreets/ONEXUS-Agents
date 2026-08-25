@@ -1,0 +1,55 @@
+{
+  "slug": "windiffusion",
+  "name": "WinDiffusion",
+  "tagline": "Windows desktop (C++/Qt) app for local Stable Diffusion inference",
+  "category": "image-generation",
+  "tags": [
+    "image-generation-ai",
+    "onnx",
+    "onnxruntime-directml",
+    "qt",
+    "stable-diffusion"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ZDisket",
+    "url": "https://github.com/ZDisket"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ZDisket/WinDiffusion",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2025-02-14T20:24:04Z",
+    "first_commit_at": "2024-03-10T01:08:30Z",
+    "forks": 4,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1661,
+  "rank_in_category": 174,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:27.930695Z",
+  "last_refreshed_at": "2026-08-25T14:26:27.930698Z",
+  "consecutive_refresh_failures": 0
+}

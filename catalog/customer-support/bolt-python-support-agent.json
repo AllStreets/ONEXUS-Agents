@@ -1,0 +1,51 @@
+{
+  "slug": "bolt-python-support-agent",
+  "name": "bolt-python-support-agent",
+  "tagline": "Casey (it/this/that) - an AI-powered IT helpdesk agent in Slack using the Claude SDK, OpenAI SDK, and Pydantic AI.",
+  "category": "customer-support",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "slack-samples",
+    "url": "https://github.com/slack-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "slack-samples/bolt-python-support-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T08:37:32Z",
+    "first_commit_at": "2026-02-12T22:29:39Z",
+    "forks": 5,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4917,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:19:23.293125Z",
+  "last_refreshed_at": "2026-08-25T14:19:23.293129Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "screenmind",
+  "name": "ScreenMind",
+  "tagline": " AI-powered screen memory — captures, analyzes, and lets you search/chat your screen history. Powered by Gemma 4 . 100% local, 100% private.",
+  "category": "knowledge-management",
+  "tags": [
+    "ai",
+    "fastapi",
+    "gemma",
+    "llama-cpp",
+    "localai",
+    "multimodal",
+    "privacy",
+    "productivity",
+    "python",
+    "recall-alternative"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ayushh0110",
+    "url": "https://github.com/ayushh0110"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ayushh0110/ScreenMind",
+    "huggingface": null,
+    "homepage": "https://screenmind.pages.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 204,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-22T18:59:21Z",
+    "first_commit_at": "2026-05-22T09:32:08Z",
+    "forks": 16,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5079,
+  "rank_in_category": 112,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:33:07.843336Z",
+  "last_refreshed_at": "2026-08-25T14:33:07.843340Z",
+  "consecutive_refresh_failures": 0
+}

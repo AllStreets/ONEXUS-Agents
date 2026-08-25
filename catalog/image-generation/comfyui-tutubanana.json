@@ -1,0 +1,54 @@
+{
+  "slug": "comfyui-tutubanana",
+  "name": "ComfyUI-TutuBanana",
+  "tagline": "支持多API提供商的Google Nano Banana图像生成ComfyUI自定义节点",
+  "category": "image-generation",
+  "tags": [
+    "ai-image-generation",
+    "comfyui",
+    "comfyui-nodes",
+    "gemini"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zhaotututu",
+    "url": "https://github.com/zhaotututu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zhaotututu/ComfyUI-TutuBanana",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 143,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-26T11:20:49Z",
+    "first_commit_at": "2025-08-27T02:44:45Z",
+    "forks": 12,
+    "watchers": 0,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2097,
+  "rank_in_category": 140,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:43.314433Z",
+  "last_refreshed_at": "2026-08-25T14:26:43.314436Z",
+  "consecutive_refresh_failures": 0
+}

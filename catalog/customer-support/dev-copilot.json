@@ -1,0 +1,57 @@
+{
+  "slug": "dev-copilot",
+  "name": "dev-copilot",
+  "tagline": "A developer-focused chatbot agent that answers technical questions.",
+  "category": "customer-support",
+  "tags": [
+    "ai-agents",
+    "cli",
+    "copilot",
+    "langchain",
+    "langgraph"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AstrionDev",
+    "url": "https://github.com/AstrionDev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AstrionDev/dev-copilot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-21T18:50:53Z",
+    "first_commit_at": "2026-01-21T17:24:59Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3252,
+  "rank_in_category": 134,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:19:38.765325Z",
+  "last_refreshed_at": "2026-08-25T14:19:38.765329Z",
+  "consecutive_refresh_failures": 0
+}

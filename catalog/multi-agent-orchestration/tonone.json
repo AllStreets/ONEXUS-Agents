@@ -1,0 +1,49 @@
+{
+  "slug": "tonone",
+  "name": "tonone",
+  "tagline": "One session. Two commands. Full team. Zero meetings.",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "tonone-ai",
+    "url": "https://github.com/tonone-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tonone-ai/tonone",
+    "huggingface": null,
+    "homepage": "https://second.tonone.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 73,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-17T09:31:57Z",
+    "first_commit_at": "2026-03-16T00:36:45Z",
+    "forks": 10,
+    "watchers": 4,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3112,
+  "rank_in_category": 159,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:20:50.272580Z",
+  "last_refreshed_at": "2026-08-25T14:20:50.272584Z",
+  "consecutive_refresh_failures": 0
+}

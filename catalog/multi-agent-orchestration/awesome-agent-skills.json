@@ -1,62 +1,61 @@
 {
   "slug": "awesome-agent-skills",
   "name": "awesome-agent-skills",
-  "tagline": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+  "tagline": "Curated reusable skills, workflows, and tool-backed capabilities for AI agents.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-skills",
     "ai-agents",
-    "ai-development",
-    "ai-ecosystem",
-    "ai-engineering",
-    "ai-tools",
-    "ai-workflow",
-    "anthropic",
-    "auto-updated",
-    "awesome"
+    "awesome-list",
+    "claude-code",
+    "codex",
+    "cursor",
+    "mcp",
+    "skills",
+    "workflows"
   ],
   "author": {
     "type": "user",
-    "handle": "linny006",
-    "url": "https://github.com/linny006"
+    "handle": "Ezeafk",
+    "url": "https://github.com/Ezeafk"
   },
   "source": {
     "primary": "github",
-    "github": "linny006/awesome-agent-skills",
+    "github": "Ezeafk/awesome-agent-skills",
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 14,
+    "stars": 96,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-01T14:45:35Z",
-    "first_commit_at": "2026-05-20T01:09:06Z",
-    "forks": 2,
-    "watchers": 0,
-    "open_issues": 5,
+    "last_commit_at": "2026-08-01T13:01:01Z",
+    "first_commit_at": "2026-06-25T17:52:43Z",
+    "forks": 24,
+    "watchers": 4,
+    "open_issues": 26,
     "archived": false,
     "is_fork": false,
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
-    "releases_total": 1,
-    "latest_release_at": "2026-05-24T01:09:12Z",
+    "releases_total": null,
+    "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": 25826,
+    "readme_length": null,
     "frameworks": [
-      "anthropic-sdk"
+      "mcp"
     ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.2879,
-  "rank_in_category": 143,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3804,
+  "rank_in_category": 96,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-01T14:46:02.331341Z",
-  "last_refreshed_at": "2026-08-23T17:47:23.347211Z",
-  "consecutive_refresh_failures": 22
+  "first_seen_at": "2026-08-25T14:28:22.935218Z",
+  "last_refreshed_at": "2026-08-25T14:28:22.935222Z",
+  "consecutive_refresh_failures": 0
 }

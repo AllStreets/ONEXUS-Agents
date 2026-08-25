@@ -1,0 +1,60 @@
+{
+  "slug": "flux-3-video-api",
+  "name": "flux-3-video-api",
+  "tagline": "Python wrapper for Black Forest Labs' FLUX 3 video API — Text-to-Video and Image-to-Video with native synchronized audio.",
+  "category": "video-generation",
+  "tags": [
+    "ai-video",
+    "ai-video-generation",
+    "black-forest-labs",
+    "flux",
+    "flux-3",
+    "generative-ai",
+    "image-to-video-api",
+    "muapi",
+    "python-api-wrapper",
+    "python-sdk"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SamurAIGPT",
+    "url": "https://github.com/SamurAIGPT"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SamurAIGPT/flux-3-video-api",
+    "huggingface": null,
+    "homepage": "https://muapi.ai/flux-3"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 93,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T08:13:42Z",
+    "first_commit_at": "2026-03-18T06:15:55Z",
+    "forks": 12,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3427,
+  "rank_in_category": 69,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:41.977037Z",
+  "last_refreshed_at": "2026-08-25T14:29:41.977041Z",
+  "consecutive_refresh_failures": 0
+}

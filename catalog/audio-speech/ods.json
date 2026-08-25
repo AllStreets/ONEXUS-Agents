@@ -1,0 +1,60 @@
+{
+  "slug": "ods",
+  "name": "ODS",
+  "tagline": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+  "category": "audio-speech",
+  "tags": [
+    "ai-agents",
+    "amd",
+    "comfyui",
+    "docker",
+    "llama-cpp",
+    "llm",
+    "local-ai",
+    "n8n",
+    "nvidia",
+    "open-webui"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Osmantic",
+    "url": "https://github.com/Osmantic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Osmantic/ODS",
+    "huggingface": null,
+    "homepage": "https://discord.gg/qGVygYada3"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4673,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T17:18:44Z",
+    "first_commit_at": "2026-02-09T13:24:46Z",
+    "forks": 715,
+    "watchers": 32,
+    "open_issues": 1050,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5868,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:33:28.661897Z",
+  "last_refreshed_at": "2026-08-25T14:33:28.661901Z",
+  "consecutive_refresh_failures": 0
+}

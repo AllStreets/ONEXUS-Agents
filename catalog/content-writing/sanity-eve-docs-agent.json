@@ -1,0 +1,49 @@
+{
+  "slug": "sanity-eve-docs-agent",
+  "name": "sanity-eve-docs-agent",
+  "tagline": "Autonomous docs-feedback agent: Sanity Content Agent (read+write) on eve. Feedback -> drafts a fix into a Content Release -> Slack notice for review.",
+  "category": "content-writing",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "sanity-labs",
+    "url": "https://github.com/sanity-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sanity-labs/sanity-eve-docs-agent",
+    "huggingface": null,
+    "homepage": "https://sanity-eve-docs-agent.sanity.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 18,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-23T19:43:00Z",
+    "first_commit_at": "2026-06-22T16:48:25Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3662,
+  "rank_in_category": 109,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:23:00.354883Z",
+  "last_refreshed_at": "2026-08-25T14:23:00.354888Z",
+  "consecutive_refresh_failures": 0
+}

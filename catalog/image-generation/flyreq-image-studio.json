@@ -1,0 +1,60 @@
+{
+  "slug": "flyreq-image-studio",
+  "name": "flyreq-image-studio",
+  "tagline": "AI生图工作台 (AI Image Generator)、视频工作台。支持 Agent 与工作台模式、无限画布、素材管理、提示词反推/广场及 PWA，支持外链式配置；可接入 Grok、GPT Image 2 等自定义模型生图。自适应手机端。",
+  "category": "image-generation",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agents",
+    "flyreq",
+    "gpt-image-2",
+    "grok",
+    "grok-imagine",
+    "image-generation",
+    "image-generation-ai",
+    "infinite-canvas"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "doudou770",
+    "url": "https://github.com/doudou770"
+  },
+  "source": {
+    "primary": "github",
+    "github": "doudou770/flyreq-image-studio",
+    "huggingface": null,
+    "homepage": "https://image.flyreq.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 102,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T07:12:09Z",
+    "first_commit_at": "2026-06-21T03:30:01Z",
+    "forks": 15,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2804,
+  "rank_in_category": 83,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:13.335281Z",
+  "last_refreshed_at": "2026-08-25T14:26:13.335285Z",
+  "consecutive_refresh_failures": 0
+}

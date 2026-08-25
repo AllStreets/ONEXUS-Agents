@@ -1,0 +1,49 @@
+{
+  "slug": "libtv-video-agent",
+  "name": "libtv-video-agent",
+  "tagline": "LibTV 视频制作 Agent：用 LibTV CLI(Seedance 2.0) 把分镜做成短片的跨工具通用 Agent — 九宫格→clean→image2video→ffmpeg 终剪全流程 + prompt 铁律库 + 踩坑速查。支持 Claude Code/Codex/CodeBuddy。",
+  "category": "video-generation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "PomeloR611",
+    "url": "https://github.com/PomeloR611"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PomeloR611/libtv-video-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 38,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-06T06:32:14Z",
+    "first_commit_at": "2026-06-16T03:13:01Z",
+    "forks": 8,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3233,
+  "rank_in_category": 82,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:30:13.091603Z",
+  "last_refreshed_at": "2026-08-25T14:30:13.091607Z",
+  "consecutive_refresh_failures": 0
+}

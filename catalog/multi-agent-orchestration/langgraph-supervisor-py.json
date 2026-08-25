@@ -1,0 +1,51 @@
+{
+  "slug": "langgraph-supervisor-py",
+  "name": "langgraph-supervisor-py",
+  "tagline": "langgraph-supervisor-py",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "langchain-ai",
+    "url": "https://github.com/langchain-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "langchain-ai/langgraph-supervisor-py",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1647,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-15T06:32:54Z",
+    "first_commit_at": "2025-02-05T20:54:09Z",
+    "forks": 256,
+    "watchers": 13,
+    "open_issues": 54,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4176,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:22:46.913381Z",
+  "last_refreshed_at": "2026-08-25T14:22:46.913385Z",
+  "consecutive_refresh_failures": 0
+}

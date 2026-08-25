@@ -1,0 +1,60 @@
+{
+  "slug": "crawlcat-skills",
+  "name": "crawlcat-skills",
+  "tagline": "Bundled agent skills for Crawlcat — teach Cursor, Codex, and MCP clients when to list sites, run SEO crawls, and export audit reports for AI coding assistants.",
+  "category": "content-writing",
+  "tags": [
+    "agents-skills",
+    "seo-ai",
+    "seo-ai-visibility",
+    "seo-audit",
+    "seo-audit-log",
+    "seo-audit-skill",
+    "seo-audit-tool",
+    "seo-auditing",
+    "seo-friendly",
+    "seo-meta"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "crawlcat",
+    "url": "https://github.com/crawlcat"
+  },
+  "source": {
+    "primary": "github",
+    "github": "crawlcat/crawlcat-skills",
+    "huggingface": null,
+    "homepage": "https://www.crawl.cat/agents"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-03T19:48:34Z",
+    "first_commit_at": "2026-07-25T17:40:49Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3612,
+  "rank_in_category": 113,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:21:32.819390Z",
+  "last_refreshed_at": "2026-08-25T14:21:32.819394Z",
+  "consecutive_refresh_failures": 0
+}

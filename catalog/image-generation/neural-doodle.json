@@ -1,0 +1,55 @@
+{
+  "slug": "neural-doodle",
+  "name": "neural-doodle",
+  "tagline": "Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t",
+  "category": "image-generation",
+  "tags": [
+    "deep-learning",
+    "deep-neural-networks",
+    "image-generation",
+    "image-manipulation",
+    "image-processing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "alexjc",
+    "url": "https://github.com/alexjc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alexjc/neural-doodle",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 9852,
+    "downloads_30d": null,
+    "last_commit_at": "2020-10-01T16:54:52Z",
+    "first_commit_at": "2016-03-05T23:35:18Z",
+    "forks": 891,
+    "watchers": 1,
+    "open_issues": 50,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1054,
+  "rank_in_category": 190,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:00.605113Z",
+  "last_refreshed_at": "2026-08-25T14:26:00.605117Z",
+  "consecutive_refresh_failures": 0
+}

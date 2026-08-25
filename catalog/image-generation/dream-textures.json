@@ -1,0 +1,55 @@
+{
+  "slug": "dream-textures",
+  "name": "dream-textures",
+  "tagline": "Stable Diffusion built-in to Blender",
+  "category": "image-generation",
+  "tags": [
+    "ai",
+    "blender",
+    "blender-addon",
+    "image-generation",
+    "stable-diffusion"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "carson-katri",
+    "url": "https://github.com/carson-katri"
+  },
+  "source": {
+    "primary": "github",
+    "github": "carson-katri/dream-textures",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 8194,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-26T02:23:11Z",
+    "first_commit_at": "2022-09-08T17:55:10Z",
+    "forks": 438,
+    "watchers": 114,
+    "open_issues": 17,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3017,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:02.577474Z",
+  "last_refreshed_at": "2026-08-25T14:26:02.577478Z",
+  "consecutive_refresh_failures": 0
+}

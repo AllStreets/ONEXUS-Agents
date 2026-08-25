@@ -1,0 +1,58 @@
+{
+  "slug": "jarvis-ai",
+  "name": "jarvis_ai",
+  "tagline": "Iron-Man-style voice assistant + holographic HUD for Hermes Agent. Local Whisper STT, ElevenLabs voice, agent-summoned media panels, runs on your own hardware.",
+  "category": "audio-speech",
+  "tags": [
+    "ai-agent",
+    "elevenlabs",
+    "hermes-agent",
+    "hud",
+    "jarvis",
+    "self-hosted",
+    "voice-assistant",
+    "whisper"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "eadmin2",
+    "url": "https://github.com/eadmin2"
+  },
+  "source": {
+    "primary": "github",
+    "github": "eadmin2/jarvis_ai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 139,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-13T20:05:33Z",
+    "first_commit_at": "2026-06-11T01:50:27Z",
+    "forks": 39,
+    "watchers": 4,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3897,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:34:02.055240Z",
+  "last_refreshed_at": "2026-08-25T14:34:02.055244Z",
+  "consecutive_refresh_failures": 0
+}

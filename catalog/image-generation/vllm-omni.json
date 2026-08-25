@@ -1,0 +1,60 @@
+{
+  "slug": "vllm-omni",
+  "name": "vllm-omni",
+  "tagline": "A framework for efficient model inference with omni-modality models",
+  "category": "image-generation",
+  "tags": [
+    "audio-generation",
+    "diffusion",
+    "image-generation",
+    "inference",
+    "model-serving",
+    "multimodal",
+    "pytorch",
+    "transformer",
+    "video-generation",
+    "world-model"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "vllm-project",
+    "url": "https://github.com/vllm-project"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vllm-project/vllm-omni",
+    "huggingface": null,
+    "homepage": "https://docs.vllm.ai/projects/vllm-omni"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6318,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T14:14:44Z",
+    "first_commit_at": "2025-09-11T00:34:44Z",
+    "forks": 1547,
+    "watchers": 52,
+    "open_issues": 1693,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4104,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:06.415026Z",
+  "last_refreshed_at": "2026-08-25T14:26:06.415030Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "videoagent",
+  "name": "VideoAgent",
+  "tagline": "\"VideoAgent: All-in-One Agentic Framework for Video Understanding, Editing, and Remaking\"",
+  "category": "video-generation",
+  "tags": [
+    "agents",
+    "audio-editing",
+    "audio-understanding",
+    "llm-agents",
+    "notebooklm",
+    "podcast",
+    "video-editing",
+    "video-understanding"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "HKUDS",
+    "url": "https://github.com/HKUDS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HKUDS/VideoAgent",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2606.23327"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1750,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-22T01:44:05Z",
+    "first_commit_at": "2025-07-17T13:47:47Z",
+    "forks": 232,
+    "watchers": 17,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4206,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:53.364380Z",
+  "last_refreshed_at": "2026-08-25T14:29:53.364383Z",
+  "consecutive_refresh_failures": 0
+}

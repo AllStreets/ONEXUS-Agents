@@ -1,0 +1,53 @@
+{
+  "slug": "sd4j",
+  "name": "sd4j",
+  "tagline": "Stable diffusion pipeline in Java using ONNX Runtime",
+  "category": "image-generation",
+  "tags": [
+    "java",
+    "onnxruntime",
+    "stable-diffusion"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "oracle",
+    "url": "https://github.com/oracle"
+  },
+  "source": {
+    "primary": "github",
+    "github": "oracle/sd4j",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "UPL-1.0",
+  "metrics": {
+    "stars": 179,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T18:02:14Z",
+    "first_commit_at": "2023-12-12T13:43:38Z",
+    "forks": 23,
+    "watchers": 7,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2814,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:28:54.983559Z",
+  "last_refreshed_at": "2026-08-25T14:28:54.983562Z",
+  "consecutive_refresh_failures": 0
+}

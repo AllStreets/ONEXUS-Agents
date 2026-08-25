@@ -1,0 +1,62 @@
+{
+  "slug": "docmd",
+  "name": "docmd",
+  "tagline": "Documentation compiler for humans and machines. One Markdown source, one command — website, search, AI context, and knowledge formats together.",
+  "category": "knowledge-management",
+  "tags": [
+    "ai-skills",
+    "api",
+    "context-api",
+    "docker",
+    "docmd",
+    "documentation",
+    "i18n",
+    "javascript",
+    "markdown",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "docmd-io",
+    "url": "https://github.com/docmd-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "docmd-io/docmd",
+    "huggingface": null,
+    "homepage": "https://docmd.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2427,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T18:58:09Z",
+    "first_commit_at": "2025-05-08T04:58:48Z",
+    "forks": 132,
+    "watchers": 7,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6946,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:48:04.918604Z",
+  "last_refreshed_at": "2026-08-25T13:55:07.758359Z",
+  "consecutive_refresh_failures": 0
+}

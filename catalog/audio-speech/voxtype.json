@@ -1,0 +1,60 @@
+{
+  "slug": "voxtype",
+  "name": "VoxType",
+  "tagline": "Privacy-conscious, open-source AI voice typing for Windows.",
+  "category": "audio-speech",
+  "tags": [
+    "asr",
+    "dictation",
+    "doubao",
+    "llm",
+    "open-source",
+    "privacy-focused",
+    "rust",
+    "speech-to-text",
+    "svelte",
+    "tauri"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zkwi",
+    "url": "https://github.com/zkwi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zkwi/VoxType",
+    "huggingface": null,
+    "homepage": "https://github.com/zkwi/VoxType/releases/latest"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 87,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T01:08:27Z",
+    "first_commit_at": "2026-03-31T03:05:11Z",
+    "forks": 10,
+    "watchers": 8,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4548,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:34:38.594278Z",
+  "last_refreshed_at": "2026-08-25T14:34:38.594281Z",
+  "consecutive_refresh_failures": 0
+}

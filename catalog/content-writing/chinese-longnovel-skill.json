@@ -1,0 +1,60 @@
+{
+  "slug": "chinese-longnovel-skill",
+  "name": "chinese-longnovel-skill",
+  "tagline": "面向 Codex / Claude Code 的中文长篇网络小说写作 Skill：分层上下文组装、50章分阶段规划、状态回证、伏笔追踪与回收、一致性审查和自动修复。Chinese web novel writing agent skill.",
+  "category": "content-writing",
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "ai-writing",
+    "chinese-novel",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "creative-writing",
+    "fiction-writing",
+    "long-context"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "xiaofeng-928",
+    "url": "https://github.com/xiaofeng-928"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xiaofeng-928/chinese-longnovel-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 69,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T14:29:14Z",
+    "first_commit_at": "2026-06-15T16:15:01Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4598,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:22:07.270885Z",
+  "last_refreshed_at": "2026-08-25T14:22:07.270888Z",
+  "consecutive_refresh_failures": 0
+}

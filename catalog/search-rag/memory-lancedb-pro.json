@@ -1,0 +1,56 @@
+{
+  "slug": "memory-lancedb-pro",
+  "name": "memory-lancedb-pro",
+  "tagline": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+  "category": "search-rag",
+  "tags": [
+    "lancedb",
+    "memory",
+    "openclaw",
+    "openclaw-agent",
+    "openclaw-plugin",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "CortexReach",
+    "url": "https://github.com/CortexReach"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CortexReach/memory-lancedb-pro",
+    "huggingface": null,
+    "homepage": "https://youtu.be/bhuGrjuCM_g"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 4462,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T08:16:31Z",
+    "first_commit_at": "2026-02-24T13:31:42Z",
+    "forks": 730,
+    "watchers": 15,
+    "open_issues": 56,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.398,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:23:05.591768Z",
+  "last_refreshed_at": "2026-08-25T14:23:05.591772Z",
+  "consecutive_refresh_failures": 0
+}

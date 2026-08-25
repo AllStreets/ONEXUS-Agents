@@ -1,0 +1,60 @@
+{
+  "slug": "sageattention",
+  "name": "SageAttention",
+  "tagline": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+  "category": "video-generation",
+  "tags": [
+    "attention",
+    "cuda",
+    "efficient-attention",
+    "inference-acceleration",
+    "llm",
+    "llm-infra",
+    "mlsys",
+    "quantization",
+    "triton",
+    "video-generate"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "thu-ml",
+    "url": "https://github.com/thu-ml"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thu-ml/SageAttention",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2410.02367"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3679,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-17T17:43:28Z",
+    "first_commit_at": "2024-10-03T09:35:35Z",
+    "forks": 486,
+    "watchers": 45,
+    "open_issues": 206,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3806,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:33.996668Z",
+  "last_refreshed_at": "2026-08-25T14:29:33.996672Z",
+  "consecutive_refresh_failures": 0
+}

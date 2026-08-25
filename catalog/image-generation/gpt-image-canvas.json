@@ -1,0 +1,53 @@
+{
+  "slug": "gpt-image-canvas",
+  "name": "gpt-image-canvas",
+  "tagline": "Local professional AI canvas built with tldraw.",
+  "category": "image-generation",
+  "tags": [
+    "ai",
+    "ai-tools",
+    "aiimagegenerator"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mrslimslim",
+    "url": "https://github.com/mrslimslim"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mrslimslim/gpt-image-canvas",
+    "huggingface": null,
+    "homepage": "https://github.com/mrslimslim/gpt-image-canvas"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 723,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-04T07:22:23Z",
+    "first_commit_at": "2026-04-27T08:13:37Z",
+    "forks": 98,
+    "watchers": 5,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2984,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:27:33.763524Z",
+  "last_refreshed_at": "2026-08-25T14:27:33.763528Z",
+  "consecutive_refresh_failures": 0
+}

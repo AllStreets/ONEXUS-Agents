@@ -1,0 +1,60 @@
+{
+  "slug": "openai-tts",
+  "name": "openai_tts",
+  "tagline": "Custom TTS component for Home Assistant. Utilizes the OpenAI speech engine or any compatible endpoint to deliver high-quality speech. Optionally offers chime and audio normalization features.",
+  "category": "audio-speech",
+  "tags": [
+    "ai",
+    "chime",
+    "ha",
+    "hacs",
+    "home-assistant",
+    "homeassistant",
+    "llm",
+    "local-llm",
+    "openai",
+    "self-hosted"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sfortis",
+    "url": "https://github.com/sfortis"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sfortis/openai_tts",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 209,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T10:47:45Z",
+    "first_commit_at": "2023-11-10T06:30:40Z",
+    "forks": 48,
+    "watchers": 2,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.53,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:34:33.553076Z",
+  "last_refreshed_at": "2026-08-25T14:34:33.553080Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "voltagent",
+  "name": "voltagent",
+  "tagline": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
+  "category": "content-writing",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-agents-framework",
+    "aiagentframework",
+    "chatbots",
+    "chatgpt",
+    "framework",
+    "javascript",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "VoltAgent",
+    "url": "https://github.com/VoltAgent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "VoltAgent/voltagent",
+    "huggingface": null,
+    "homepage": "https://voltagent.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10414,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-10T14:24:53Z",
+    "first_commit_at": "2025-04-16T15:41:18Z",
+    "forks": 1101,
+    "watchers": 95,
+    "open_issues": 88,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.7314,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:23:52.451393Z",
+  "last_refreshed_at": "2026-08-25T14:23:52.451397Z",
+  "consecutive_refresh_failures": 0
+}

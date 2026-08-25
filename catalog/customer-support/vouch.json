@@ -1,0 +1,49 @@
+{
+  "slug": "vouch",
+  "name": "vouch",
+  "tagline": "The Open Standard for AI Agent & Embodied Agent Identity & Accountability",
+  "category": "customer-support",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "vouch-protocol",
+    "url": "https://github.com/vouch-protocol"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vouch-protocol/vouch",
+    "huggingface": null,
+    "homepage": "http://vouch-protocol.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T09:29:05Z",
+    "first_commit_at": "2025-11-30T15:02:37Z",
+    "forks": 14,
+    "watchers": 2,
+    "open_issues": 27,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5163,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:21:14.057425Z",
+  "last_refreshed_at": "2026-08-25T14:21:14.057429Z",
+  "consecutive_refresh_failures": 0
+}

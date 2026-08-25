@@ -1,0 +1,54 @@
+{
+  "slug": "comfyui-api",
+  "name": "comfyui-api",
+  "tagline": "A simple API server to make ComfyUI easy to scale horizontally. Get outputs directly in the response, or asynchronously via a variety of storage providers.",
+  "category": "image-generation",
+  "tags": [
+    "ai-image-generation",
+    "comfyui",
+    "image-generation",
+    "web-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SaladTechnologies",
+    "url": "https://github.com/SaladTechnologies"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SaladTechnologies/comfyui-api",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 446,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-25T03:23:20Z",
+    "first_commit_at": "2024-07-11T14:25:41Z",
+    "forks": 76,
+    "watchers": 8,
+    "open_issues": 23,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3476,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:36.543832Z",
+  "last_refreshed_at": "2026-08-25T14:26:36.543836Z",
+  "consecutive_refresh_failures": 0
+}

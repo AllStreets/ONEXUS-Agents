@@ -1,7 +1,7 @@
 {
   "slug": "skill",
   "name": "skill",
-  "tagline": "收录最全、更新最快的技能Skills 商店，涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流等多个领域的 416 精选技能包。所有技能已打包完成，可直接安装使用！ 该商店中自动抓取了 Github 上的所有的 Skills 项目，并按照分类、更新时间、Star 数量等标签进行整理。",
+  "tagline": "收录最全、更新最快的AI Agent技能商店 ⭐ 416精选技能包 + 知易多模型智能知识管家",
   "category": "knowledge-management",
   "tags": [
     "claude-skills",
@@ -23,15 +23,15 @@
     "primary": "github",
     "github": "anbeime/skill",
     "huggingface": null,
-    "homepage": "https://skill.miyucaicai.cn/"
+    "homepage": "https://ai123.miyucaicai.cn/"
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 5719,
+    "stars": 5762,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-24T03:03:50Z",
+    "last_commit_at": "2026-08-25T02:59:19Z",
     "first_commit_at": "2026-02-02T09:14:21Z",
-    "forks": 553,
+    "forks": 554,
     "watchers": 25,
     "open_issues": 14,
     "archived": false,
@@ -50,10 +50,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6431,
-  "rank_in_category": 40,
+  "composite_score": 0.6433,
+  "rank_in_category": 45,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-24T14:07:15.421635Z",
-  "last_refreshed_at": "2026-08-24T14:07:15.421638Z",
+  "first_seen_at": "2026-08-25T14:02:43.266009Z",
+  "last_refreshed_at": "2026-08-25T14:02:43.266013Z",
   "consecutive_refresh_failures": 0
 }

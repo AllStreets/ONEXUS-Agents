@@ -1,0 +1,55 @@
+{
+  "slug": "krillinai",
+  "name": "KrillinAI",
+  "tagline": "AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTub",
+  "category": "audio-speech",
+  "tags": [
+    "dubbing",
+    "localization",
+    "tts",
+    "video-transcription",
+    "video-translation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "krillinai",
+    "url": "https://github.com/krillinai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "krillinai/KrillinAI",
+    "huggingface": null,
+    "homepage": "https://github.com/krillinai/content-marketing-skills"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 11264,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T03:41:18Z",
+    "first_commit_at": "2024-12-17T01:59:22Z",
+    "forks": 1075,
+    "watchers": 53,
+    "open_issues": 36,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4798,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:30:22.346480Z",
+  "last_refreshed_at": "2026-08-25T14:30:22.346483Z",
+  "consecutive_refresh_failures": 0
+}

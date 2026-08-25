@@ -1,0 +1,49 @@
+{
+  "slug": "claude-code-router",
+  "name": "claude-code-router",
+  "tagline": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "musistudio",
+    "url": "https://github.com/musistudio"
+  },
+  "source": {
+    "primary": "github",
+    "github": "musistudio/claude-code-router",
+    "huggingface": null,
+    "homepage": "https://ccrdesk.top/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 36863,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T14:03:58Z",
+    "first_commit_at": "2025-02-25T02:43:22Z",
+    "forks": 3086,
+    "watchers": 134,
+    "open_issues": 1091,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5001,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:19:00.130648Z",
+  "last_refreshed_at": "2026-08-25T14:19:00.130652Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "microsandbox",
+  "name": "microsandbox",
+  "tagline": "🧱 easy fast local-first microVM runtime and library",
+  "category": "coding",
+  "tags": [
+    "agents",
+    "docker",
+    "golang",
+    "linux",
+    "local",
+    "macos",
+    "microvm",
+    "nodejs",
+    "python",
+    "rust"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "superradcompany",
+    "url": "https://github.com/superradcompany"
+  },
+  "source": {
+    "primary": "github",
+    "github": "superradcompany/microsandbox",
+    "huggingface": null,
+    "homepage": "https://docs.microsandbox.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7919,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T03:57:39Z",
+    "first_commit_at": "2024-10-03T15:57:38Z",
+    "forks": 417,
+    "watchers": 25,
+    "open_issues": 81,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4152,
+  "rank_in_category": 109,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:34:28.460769Z",
+  "last_refreshed_at": "2026-08-25T14:34:28.460773Z",
+  "consecutive_refresh_failures": 0
+}

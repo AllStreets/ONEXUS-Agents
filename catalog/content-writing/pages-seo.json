@@ -1,0 +1,62 @@
+{
+  "slug": "pages-seo",
+  "name": "pages-seo",
+  "tagline": "Self-hosted programmatic-SEO + daily-AI-blog toolkit for Cloudflare Pages. Brand DNA → auto-planned content calendar → daily posts with hero images. Free tier covers most cases.",
+  "category": "content-writing",
+  "tags": [
+    "ai-blog",
+    "anthropic",
+    "cloudflare-pages",
+    "cloudflare-workers",
+    "context-generation",
+    "d1-database",
+    "edge-computing",
+    "free",
+    "gemini",
+    "indexnow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Benjamin-Bloch",
+    "url": "https://github.com/Benjamin-Bloch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Benjamin-Bloch/pages-seo",
+    "huggingface": null,
+    "homepage": "https://seo.benjaminb.xyz/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-11T12:06:43Z",
+    "first_commit_at": "2026-05-18T09:12:53Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.376,
+  "rank_in_category": 102,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:21:30.226927Z",
+  "last_refreshed_at": "2026-08-25T14:21:30.226931Z",
+  "consecutive_refresh_failures": 0
+}

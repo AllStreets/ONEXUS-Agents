@@ -1,0 +1,57 @@
+{
+  "slug": "knowledgebase-chat",
+  "name": "Knowledgebase-Chat",
+  "tagline": "using RAG + openai to chat with a knowledgebase.",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "ai-support",
+    "customer-support",
+    "customer-support-ai",
+    "openai",
+    "product-recommendation-with-ai",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "BruceWind",
+    "url": "https://github.com/BruceWind"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BruceWind/Knowledgebase-Chat",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2024-09-05T12:18:34Z",
+    "first_commit_at": "2024-09-04T04:20:31Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2401,
+  "rank_in_category": 179,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:18:08.311437Z",
+  "last_refreshed_at": "2026-08-25T14:18:08.311441Z",
+  "consecutive_refresh_failures": 0
+}

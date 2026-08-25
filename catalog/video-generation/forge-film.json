@@ -1,0 +1,62 @@
+{
+  "slug": "forge-film",
+  "name": "forge-film",
+  "tagline": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建",
+  "category": "video-generation",
+  "tags": [
+    "ai",
+    "ai-cinematography",
+    "ai-filmmaking",
+    "ai-video-generation",
+    "cpm",
+    "critical-path-method",
+    "dag",
+    "generative-ai",
+    "gradio",
+    "llm-workflow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "F-R-L",
+    "url": "https://github.com/F-R-L"
+  },
+  "source": {
+    "primary": "github",
+    "github": "F-R-L/forge-film",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 534,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-26T11:38:28Z",
+    "first_commit_at": "2026-03-24T15:08:09Z",
+    "forks": 11,
+    "watchers": 1,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "gradio"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.311,
+  "rank_in_category": 89,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:36.344679Z",
+  "last_refreshed_at": "2026-08-25T14:29:36.344682Z",
+  "consecutive_refresh_failures": 0
+}

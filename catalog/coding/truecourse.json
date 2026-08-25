@@ -1,0 +1,60 @@
+{
+  "slug": "truecourse",
+  "name": "truecourse",
+  "tagline": "AI-powered architecture analysis and code intelligence. Detects circular deps, layer violations, dead modules, and more. Web UI + CLI.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "architecture",
+    "code-analysis",
+    "code-quality",
+    "developer-tools",
+    "javascript",
+    "linter",
+    "python",
+    "static-analysis",
+    "typescript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "truecourse-ai",
+    "url": "https://github.com/truecourse-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "truecourse-ai/truecourse",
+    "huggingface": null,
+    "homepage": "https://truecourse.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 521,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T07:16:51Z",
+    "first_commit_at": "2026-03-13T03:52:40Z",
+    "forks": 42,
+    "watchers": 2,
+    "open_issues": 60,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3262,
+  "rank_in_category": 319,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:23:25.376227Z",
+  "last_refreshed_at": "2026-08-25T14:23:25.376230Z",
+  "consecutive_refresh_failures": 0
+}

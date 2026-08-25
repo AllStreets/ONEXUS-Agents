@@ -1,0 +1,62 @@
+{
+  "slug": "seo-agent",
+  "name": "seo-agent",
+  "tagline": "Open-source SEO audit agent — real-browser checks, backlink scoring, and multi-engine AI citation tracking (Claude, ChatGPT, Gemini, Perplexity, Copilot) via SearchApi",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "ai-visibility",
+    "anthropic",
+    "browser-automation",
+    "claude-api",
+    "llm",
+    "playwright",
+    "python",
+    "searchapi",
+    "seo"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dannwaneri",
+    "url": "https://github.com/dannwaneri"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dannwaneri/seo-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 42,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-20T15:23:13Z",
+    "first_commit_at": "2026-03-30T12:35:11Z",
+    "forks": 8,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.332,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:24:34.681404Z",
+  "last_refreshed_at": "2026-08-25T14:24:34.681408Z",
+  "consecutive_refresh_failures": 0
+}

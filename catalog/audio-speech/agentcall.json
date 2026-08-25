@@ -1,0 +1,60 @@
+{
+  "slug": "agentcall",
+  "name": "agentcall",
+  "tagline": "AgentCall lets AI Agents join meetings with voice, video & screen-share to build together. Supports Google Meet, Teams, Zoom (Beta)",
+  "category": "audio-speech",
+  "tags": [
+    "agent-skills",
+    "agentcall",
+    "ai-agent",
+    "ai-meeting-assistant",
+    "claude-code",
+    "claude-plugin",
+    "claude-skill",
+    "google-meet",
+    "llm-agent",
+    "meeting-bot"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pattern-ai-labs",
+    "url": "https://github.com/pattern-ai-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pattern-ai-labs/agentcall",
+    "huggingface": null,
+    "homepage": "https://agentcall.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 150,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-10T08:18:46Z",
+    "first_commit_at": "2026-04-13T11:51:10Z",
+    "forks": 17,
+    "watchers": 6,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.45,
+  "rank_in_category": 48,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:34.113881Z",
+  "last_refreshed_at": "2026-08-25T14:32:34.113885Z",
+  "consecutive_refresh_failures": 0
+}

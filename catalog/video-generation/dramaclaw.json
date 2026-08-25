@@ -1,0 +1,60 @@
+{
+  "slug": "dramaclaw",
+  "name": "dramaclaw",
+  "tagline": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
+  "category": "video-generation",
+  "tags": [
+    "ai-agent",
+    "ai-filmmaking",
+    "ai-video",
+    "aigc",
+    "aigc-pipeline",
+    "content-creation",
+    "dramaclaw",
+    "fastapi",
+    "generative-ai",
+    "image-to-video"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "dramaclaw",
+    "url": "https://github.com/dramaclaw"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dramaclaw/dramaclaw",
+    "huggingface": null,
+    "homepage": "https://dramaclaw.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4302,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T12:32:32Z",
+    "first_commit_at": "2026-04-21T07:00:31Z",
+    "forks": 422,
+    "watchers": 59,
+    "open_issues": 46,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.449,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:28.325691Z",
+  "last_refreshed_at": "2026-08-25T14:29:28.325695Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "kill-slop",
+  "name": "kill-slop",
+  "tagline": "Make AI writing sound like you, not like AI. Two Claude Code skills that audit text against your own voice and fix only what fails.",
+  "category": "content-writing",
+  "tags": [
+    "ai-agents",
+    "ai-detection",
+    "ai-slop",
+    "ai-writing",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "content-writing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aixarizzo",
+    "url": "https://github.com/aixarizzo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aixarizzo/kill-slop",
+    "huggingface": null,
+    "homepage": "https://aixarizzo.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 17,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-06T21:31:29Z",
+    "first_commit_at": "2026-07-31T16:35:52Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.442,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:21:41.028942Z",
+  "last_refreshed_at": "2026-08-25T14:21:41.028946Z",
+  "consecutive_refresh_failures": 0
+}

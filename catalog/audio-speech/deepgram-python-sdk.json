@@ -1,0 +1,59 @@
+{
+  "slug": "deepgram-python-sdk",
+  "name": "deepgram-python-sdk",
+  "tagline": "Official Python SDK for Deepgram.",
+  "category": "audio-speech",
+  "tags": [
+    "asr",
+    "automated-speech-recognition",
+    "deepgram",
+    "python",
+    "speech-recognition",
+    "speech-to-text",
+    "text-to-speech",
+    "voice-agent",
+    "voice-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "deepgram",
+    "url": "https://github.com/deepgram"
+  },
+  "source": {
+    "primary": "github",
+    "github": "deepgram/deepgram-python-sdk",
+    "huggingface": null,
+    "homepage": "https://developers.deepgram.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 458,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T13:07:41Z",
+    "first_commit_at": "2021-07-06T18:06:04Z",
+    "forks": 141,
+    "watchers": 9,
+    "open_issues": 40,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5564,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:32:29.581939Z",
+  "last_refreshed_at": "2026-08-25T14:32:29.581943Z",
+  "consecutive_refresh_failures": 0
+}

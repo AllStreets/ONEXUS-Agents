@@ -1,0 +1,60 @@
+{
+  "slug": "humanise-text-skill",
+  "name": "humanise-text-skill",
+  "tagline": "Strip AI writing patterns from any text. Claude Code skill with 507-entry banned word list, structural pattern detection, and 12-check validation.",
+  "category": "content-writing",
+  "tags": [
+    "ai-detection",
+    "ai-text-detection",
+    "ai-tools",
+    "ai-writing",
+    "claude-code",
+    "claude-code-skill",
+    "content-writing",
+    "copywriting",
+    "de-slop",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "199-biotechnologies",
+    "url": "https://github.com/199-biotechnologies"
+  },
+  "source": {
+    "primary": "github",
+    "github": "199-biotechnologies/humanise-text-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-02T19:55:09Z",
+    "first_commit_at": "2026-04-02T19:53:33Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3072,
+  "rank_in_category": 147,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:21:41.831141Z",
+  "last_refreshed_at": "2026-08-25T14:21:41.831145Z",
+  "consecutive_refresh_failures": 0
+}

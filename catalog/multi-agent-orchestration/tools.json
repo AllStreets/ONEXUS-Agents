@@ -1,0 +1,63 @@
+{
+  "slug": "tools",
+  "name": "tools",
+  "tagline": "A set of tools that gives agents powerful capabilities.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "anthropic",
+    "autonomous-agents",
+    "bedrock",
+    "genai",
+    "litellm",
+    "llama"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "strands-agents",
+    "url": "https://github.com/strands-agents"
+  },
+  "source": {
+    "primary": "github",
+    "github": "strands-agents/tools",
+    "huggingface": null,
+    "homepage": "https://strandsagents.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1156,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T20:12:11Z",
+    "first_commit_at": "2025-05-16T16:57:03Z",
+    "forks": 328,
+    "watchers": 19,
+    "open_issues": 138,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4919,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:27:26.801271Z",
+  "last_refreshed_at": "2026-08-25T14:27:26.801275Z",
+  "consecutive_refresh_failures": 0
+}

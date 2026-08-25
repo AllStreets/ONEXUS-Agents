@@ -1,0 +1,60 @@
+{
+  "slug": "chuanhuchatgpt",
+  "name": "ChuanhuChatGPT",
+  "tagline": "GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.",
+  "category": "customer-support",
+  "tags": [
+    "chatbot",
+    "chatglm",
+    "chatgpt-api",
+    "claude",
+    "dalle3",
+    "ernie",
+    "gemini",
+    "gemma",
+    "inspurai",
+    "llama"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "GaiZhenbiao",
+    "url": "https://github.com/GaiZhenbiao"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GaiZhenbiao/ChuanhuChatGPT",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 15279,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-30T13:54:58Z",
+    "first_commit_at": "2023-03-02T13:37:13Z",
+    "forks": 2201,
+    "watchers": 85,
+    "open_issues": 129,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6092,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:18:34.451892Z",
+  "last_refreshed_at": "2026-08-25T14:18:34.451896Z",
+  "consecutive_refresh_failures": 0
+}

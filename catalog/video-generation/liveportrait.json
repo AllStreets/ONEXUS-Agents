@@ -1,0 +1,54 @@
+{
+  "slug": "liveportrait",
+  "name": "LivePortrait",
+  "tagline": "Bring portraits to life!",
+  "category": "video-generation",
+  "tags": [
+    "face-animation",
+    "image-animation",
+    "video-editing",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "KlingAIResearch",
+    "url": "https://github.com/KlingAIResearch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "KlingAIResearch/LivePortrait",
+    "huggingface": null,
+    "homepage": "https://liveportrait.github.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 18966,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-01T17:25:09Z",
+    "first_commit_at": "2024-07-03T16:15:03Z",
+    "forks": 1969,
+    "watchers": 153,
+    "open_issues": 289,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4606,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:29:18.954676Z",
+  "last_refreshed_at": "2026-08-25T14:29:18.954680Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "s65-shubh-nawani-capstone-astrapix",
+  "name": "S65_Shubh_Nawani_Capstone_AstraPix",
+  "tagline": "AstraPix is an AI image generation platform using advanced Replicate models for text-to-image and image editing, featuring OAuth/GitHub login and Razorpay-powered token payments for premium features.",
+  "category": "image-generation",
+  "tags": [
+    "fine-tuning",
+    "flux-schnell",
+    "image-generation-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kalviumcommunity",
+    "url": "https://github.com/kalviumcommunity"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kalviumcommunity/S65_Shubh_Nawani_Capstone_AstraPix",
+    "huggingface": null,
+    "homepage": "https://astrapix.vercel.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-24T03:34:35Z",
+    "first_commit_at": "2025-03-22T06:09:37Z",
+    "forks": 2,
+    "watchers": 3,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1662,
+  "rank_in_category": 173,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:26.492033Z",
+  "last_refreshed_at": "2026-08-25T14:26:26.492037Z",
+  "consecutive_refresh_failures": 0
+}

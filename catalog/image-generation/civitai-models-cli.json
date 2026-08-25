@@ -1,0 +1,59 @@
+{
+  "slug": "civitai-models-cli",
+  "name": "civitai-models-cli",
+  "tagline": "Simple CLI tool streamlines the process of managing AI models from the CivitAI platform. It offers functionalities to list available models, view their details, download selected variants, and remove ",
+  "category": "image-generation",
+  "tags": [
+    "ai",
+    "civitai",
+    "civitai-api",
+    "cli",
+    "cli-app",
+    "image-generation-ai",
+    "ollama-client",
+    "openai",
+    "python3"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "regiellis",
+    "url": "https://github.com/regiellis"
+  },
+  "source": {
+    "primary": "github",
+    "github": "regiellis/civitai-models-cli",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 19,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-03T03:37:52Z",
+    "first_commit_at": "2024-08-04T03:35:03Z",
+    "forks": 7,
+    "watchers": 0,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1932,
+  "rank_in_category": 162,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:26:21.896460Z",
+  "last_refreshed_at": "2026-08-25T14:26:21.896464Z",
+  "consecutive_refresh_failures": 0
+}

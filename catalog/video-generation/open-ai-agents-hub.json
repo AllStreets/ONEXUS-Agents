@@ -1,0 +1,62 @@
+{
+  "slug": "open-ai-agents-hub",
+  "name": "open-ai-agents-hub",
+  "tagline": "Open-source, self-hosted platform to build, host, and chat with AI agents — LLM chat bots and image/video generation agents — from a single interface. Bring your own API keys.",
+  "category": "video-generation",
+  "tags": [
+    "agent-marketplace",
+    "ai-agent-builder",
+    "ai-agents",
+    "ai-chat",
+    "anthropic",
+    "chatbot",
+    "claude",
+    "conversational-ai",
+    "gemini",
+    "generative-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Anil-matcha",
+    "url": "https://github.com/Anil-matcha"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Anil-matcha/open-ai-agents-hub",
+    "huggingface": null,
+    "homepage": "https://muapi.ai/agents"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 18,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-02T09:36:52Z",
+    "first_commit_at": "2026-06-25T13:44:09Z",
+    "forks": 9,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.325,
+  "rank_in_category": 80,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:30:51.374548Z",
+  "last_refreshed_at": "2026-08-25T14:30:51.374552Z",
+  "consecutive_refresh_failures": 0
+}
