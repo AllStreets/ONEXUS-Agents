@@ -4,6 +4,7 @@
   "tagline": "Open-source, self-hosted customer support desk in a single binary. Email and live chat. A lightweight alternative to Intercom, Zendesk, Chatwoot.",
   "category": "customer-support",
   "tags": [
+    "ai-agent",
     "chat-widget",
     "customer-service",
     "customer-success",
@@ -12,8 +13,7 @@
     "golang",
     "helpcenter",
     "helpdesk",
-    "intercom",
-    "knowledge-base"
+    "intercom"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 2806,
+    "stars": 2808,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-25T12:59:20Z",
+    "last_commit_at": "2026-08-26T10:49:25Z",
     "first_commit_at": "2024-05-12T12:14:24Z",
     "forks": 239,
-    "watchers": 17,
-    "open_issues": 78,
+    "watchers": 18,
+    "open_issues": 79,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6748,
+  "composite_score": 0.6746,
   "rank_in_category": 13,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:27:31.385583Z",
-  "last_refreshed_at": "2026-08-25T14:17:37.416220Z",
+  "last_refreshed_at": "2026-08-26T14:23:33.378264Z",
   "consecutive_refresh_failures": 0
 }

@@ -17,7 +17,7 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 39,
+    "stars": 42,
     "downloads_30d": null,
     "last_commit_at": "2026-05-24T13:58:30Z",
     "first_commit_at": "2025-07-18T09:40:14Z",
@@ -30,23 +30,20 @@
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
-    "releases_total": 5,
-    "latest_release_at": "2026-05-24T13:40:19Z",
+    "releases_total": null,
+    "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": 19617,
-    "frameworks": [
-      "anthropic-sdk",
-      "openai-agents-sdk"
-    ]
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2353,
-  "rank_in_category": 548,
+  "composite_score": 0.2207,
+  "rank_in_category": 576,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:38.849597Z",
-  "last_refreshed_at": "2026-08-23T17:47:32.888282Z",
-  "consecutive_refresh_failures": 21
+  "last_refreshed_at": "2026-08-26T14:15:01.321429Z",
+  "consecutive_refresh_failures": 0
 }

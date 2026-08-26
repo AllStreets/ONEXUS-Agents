@@ -1,0 +1,62 @@
+{
+  "slug": "gate402-mcp",
+  "name": "gate402-mcp",
+  "tagline": "MCP server for Gate402 — pay-per-call agent APIs over x402/USDC: rent GPU/CPU compute (per-second), open-model LLM inference (Llama 3.1, Qwen, Mistral), a full Base trading loop (discover → vet → read",
+  "category": "financial-modeling",
+  "tags": [
+    "agent-payments",
+    "agent-tools",
+    "ai-agents",
+    "base",
+    "claude",
+    "cline",
+    "cursor",
+    "defi",
+    "gpu-compute",
+    "http-402"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pgalyen1987",
+    "url": "https://github.com/pgalyen1987"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pgalyen1987/gate402-mcp",
+    "huggingface": null,
+    "homepage": "https://gate402.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-03T00:25:10Z",
+    "first_commit_at": "2026-06-30T18:32:44Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3949,
+  "rank_in_category": 99,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-26T14:15:29.344422Z",
+  "last_refreshed_at": "2026-08-26T14:15:29.344426Z",
+  "consecutive_refresh_failures": 0
+}
