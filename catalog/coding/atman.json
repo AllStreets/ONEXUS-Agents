@@ -1,0 +1,63 @@
+{
+  "slug": "atman",
+  "name": "atman",
+  "tagline": "A flow-driven AI coding agent runtime. Write agent workflows in the .at DSL — Turing-complete, inspectable, deterministic. The LLM is one node; atman orchestrates the rest.",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "ai-coding-agent",
+    "anthropic",
+    "code-agent",
+    "developer-tools",
+    "dsl",
+    "llm",
+    "mcp",
+    "rust",
+    "terminal"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "W-Mai",
+    "url": "https://github.com/W-Mai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "W-Mai/atman",
+    "huggingface": null,
+    "homepage": "https://atman.run/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-23T09:48:23Z",
+    "first_commit_at": "2026-07-02T20:48:09Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3163,
+  "rank_in_category": 347,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-26T13:57:08.517453Z",
+  "last_refreshed_at": "2026-08-26T13:57:08.517457Z",
+  "consecutive_refresh_failures": 0
+}

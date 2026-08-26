@@ -1,7 +1,7 @@
 {
   "slug": "skill",
   "name": "skill",
-  "tagline": "收录最全、更新最快的AI Agent技能商店 ⭐ 416精选技能包 + 知易多模型智能知识管家",
+  "tagline": "收录最全、更新最快的技能Skills商店：416个精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。",
   "category": "knowledge-management",
   "tags": [
     "claude-skills",
@@ -23,16 +23,16 @@
     "primary": "github",
     "github": "anbeime/skill",
     "huggingface": null,
-    "homepage": "https://ai123.miyucaicai.cn/"
+    "homepage": "https://skill-vercel.vercel.app/"
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 5762,
+    "stars": 5807,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-25T02:59:19Z",
+    "last_commit_at": "2026-08-26T10:44:11Z",
     "first_commit_at": "2026-02-02T09:14:21Z",
-    "forks": 554,
-    "watchers": 25,
+    "forks": 561,
+    "watchers": 26,
     "open_issues": 14,
     "archived": false,
     "is_fork": false,
@@ -50,10 +50,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6433,
+  "composite_score": 0.6441,
   "rank_in_category": 45,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-25T14:02:43.266009Z",
-  "last_refreshed_at": "2026-08-25T14:02:43.266013Z",
+  "first_seen_at": "2026-08-26T14:08:55.718764Z",
+  "last_refreshed_at": "2026-08-26T14:08:55.718768Z",
   "consecutive_refresh_failures": 0
 }

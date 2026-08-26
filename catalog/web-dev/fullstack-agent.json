@@ -1,29 +1,29 @@
 {
   "slug": "fullstack-agent",
-  "name": "fullstack-agent",
-  "tagline": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you",
+  "name": "FullStack-Agent",
+  "tagline": "FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation",
   "category": "web-dev",
   "tags": [],
   "author": {
     "type": "user",
-    "handle": "jaredrhod",
-    "url": "https://github.com/jaredrhod"
+    "handle": "mnluzimu",
+    "url": "https://github.com/mnluzimu"
   },
   "source": {
     "primary": "github",
-    "github": "jaredrhod/fullstack-agent",
+    "github": "mnluzimu/FullStack-Agent",
     "huggingface": null,
     "homepage": null
   },
-  "license": "AGPL-3.0",
+  "license": "Unknown",
   "metrics": {
-    "stars": 350,
+    "stars": 54,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-24T02:01:04Z",
-    "first_commit_at": "2026-08-17T04:03:48Z",
-    "forks": 112,
-    "watchers": 13,
-    "open_issues": 2,
+    "last_commit_at": "2026-07-10T05:35:19Z",
+    "first_commit_at": "2026-01-31T08:24:24Z",
+    "forks": 8,
+    "watchers": 0,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5025,
-  "rank_in_category": 83,
+  "composite_score": 0.3622,
+  "rank_in_category": 191,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-25T14:01:19.525326Z",
-  "last_refreshed_at": "2026-08-25T14:01:19.525330Z",
+  "first_seen_at": "2026-08-26T14:07:43.655986Z",
+  "last_refreshed_at": "2026-08-26T14:07:43.655991Z",
   "consecutive_refresh_failures": 0
 }
