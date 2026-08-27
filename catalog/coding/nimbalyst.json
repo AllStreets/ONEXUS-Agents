@@ -5,15 +5,15 @@
   "category": "coding",
   "tags": [
     "agentic-ai",
+    "agentic-ide",
     "ai-agents",
+    "ai-coding-assistant",
     "claude-code",
     "codex",
     "coding-agent",
     "developer-tools",
-    "ide",
-    "markdown-editor",
-    "mcp",
-    "multi-agent-systems"
+    "electron",
+    "ide"
   ],
   "author": {
     "type": "org",
@@ -28,24 +28,24 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1365,
+    "stars": 1588,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-31T06:46:57Z",
+    "last_commit_at": "2026-08-27T04:44:08Z",
     "first_commit_at": "2025-07-23T23:33:50Z",
-    "forks": 191,
-    "watchers": 10,
-    "open_issues": 501,
+    "forks": 231,
+    "watchers": 12,
+    "open_issues": 578,
     "archived": false,
     "is_fork": false,
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 36,
-    "releases_total": 92,
-    "latest_release_at": "2026-08-22T23:12:14Z",
-    "commits_90d": 1112,
-    "has_ci": true,
-    "readme_length": 8757,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
     "frameworks": [
       "mcp"
     ]
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4117,
-  "rank_in_category": 120,
+  "composite_score": 0.4378,
+  "rank_in_category": 68,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-08T15:21:51.436083Z",
-  "last_refreshed_at": "2026-08-23T17:47:11.868390Z",
-  "consecutive_refresh_failures": 25
+  "last_refreshed_at": "2026-08-27T22:50:22.675711Z",
+  "consecutive_refresh_failures": 0
 }
