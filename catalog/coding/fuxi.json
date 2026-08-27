@@ -1,0 +1,62 @@
+{
+  "slug": "fuxi",
+  "name": "Fuxi",
+  "tagline": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "ai-coding",
+    "autonomous-agent",
+    "cli",
+    "code-assistant",
+    "coding-agent",
+    "coding-assistant",
+    "developer-tool"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "fuxicodex",
+    "url": "https://github.com/fuxicodex"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fuxicodex/Fuxi",
+    "huggingface": null,
+    "homepage": "https://www.fuxicode.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2269,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-23T10:16:40Z",
+    "first_commit_at": "2026-08-04T07:32:12Z",
+    "forks": 69,
+    "watchers": 36,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4047,
+  "rank_in_category": 138,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-27T22:49:55.074695Z",
+  "last_refreshed_at": "2026-08-27T22:49:55.074698Z",
+  "consecutive_refresh_failures": 0
+}
