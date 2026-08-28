@@ -1,40 +1,35 @@
 {
   "slug": "claude-skills",
   "name": "claude-skills",
-  "tagline": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e",
+  "tagline": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
   "category": "coding",
   "tags": [
-    "agent-plugins",
-    "agent-skills",
-    "agentic-ai",
-    "ai-coding-agent",
-    "anthropic-claude",
-    "claude-ai",
+    "ai-agents",
+    "claude",
     "claude-code",
-    "claude-code-plugins",
-    "claude-code-skills",
+    "claude-marketplace",
     "claude-skills"
   ],
   "author": {
     "type": "user",
-    "handle": "alirezarezvani",
-    "url": "https://github.com/alirezarezvani"
+    "handle": "Jeffallan",
+    "url": "https://github.com/Jeffallan"
   },
   "source": {
     "primary": "github",
-    "github": "alirezarezvani/claude-skills",
+    "github": "Jeffallan/claude-skills",
     "huggingface": null,
-    "homepage": "https://alirezarezvani.medium.com/"
+    "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 25096,
+    "stars": 11228,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-26T15:12:59Z",
-    "first_commit_at": "2025-10-19T04:05:42Z",
-    "forks": 3543,
-    "watchers": 222,
-    "open_issues": 6,
+    "last_commit_at": "2026-08-07T20:19:18Z",
+    "first_commit_at": "2025-10-20T17:46:41Z",
+    "forks": 1071,
+    "watchers": 88,
+    "open_issues": 33,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4151,
-  "rank_in_category": 106,
+  "composite_score": 0.3801,
+  "rank_in_category": 182,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-24T13:54:06.776681Z",
-  "last_refreshed_at": "2026-08-27T22:52:02.356964Z",
+  "first_seen_at": "2026-08-28T23:00:12.729550Z",
+  "last_refreshed_at": "2026-08-28T23:00:12.729554Z",
   "consecutive_refresh_failures": 0
 }

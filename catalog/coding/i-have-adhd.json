@@ -1,0 +1,56 @@
+{
+  "slug": "i-have-adhd",
+  "name": "i-have-adhd",
+  "tagline": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+  "category": "coding",
+  "tags": [
+    "adhd",
+    "claude-",
+    "claude-code-plugin",
+    "claude-skills",
+    "developer-tools",
+    "productivity"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ayghri",
+    "url": "https://github.com/ayghri"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ayghri/i-have-adhd",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25328,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-26T13:24:45Z",
+    "first_commit_at": "2026-05-13T20:52:40Z",
+    "forks": 1599,
+    "watchers": 76,
+    "open_issues": 21,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.395,
+  "rank_in_category": 156,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-28T22:56:06.040604Z",
+  "last_refreshed_at": "2026-08-28T22:56:06.040608Z",
+  "consecutive_refresh_failures": 0
+}
