@@ -28,24 +28,24 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 35,
+    "stars": 37,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-04T07:03:44Z",
+    "last_commit_at": "2026-08-17T03:03:07Z",
     "first_commit_at": "2026-01-04T23:28:59Z",
-    "forks": 13,
+    "forks": 12,
     "watchers": 2,
-    "open_issues": 6,
+    "open_issues": 5,
     "archived": false,
     "is_fork": false,
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 3,
-    "releases_total": 0,
+    "contributors_count": null,
+    "releases_total": null,
     "latest_release_at": null,
-    "commits_90d": 8,
-    "has_ci": false,
-    "readme_length": 193766,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
     "frameworks": [
       "mcp"
     ]
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4855,
-  "rank_in_category": 41,
+  "composite_score": 0.5019,
+  "rank_in_category": 39,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:14.417176Z",
-  "last_refreshed_at": "2026-08-23T17:44:14.980418Z",
-  "consecutive_refresh_failures": 13
+  "last_refreshed_at": "2026-08-29T17:13:49.696840Z",
+  "consecutive_refresh_failures": 0
 }

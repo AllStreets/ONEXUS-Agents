@@ -1,0 +1,58 @@
+{
+  "slug": "nanoharness",
+  "name": "NanoHarness",
+  "tagline": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation, and SWE-bench-shaped evidence.",
+  "category": "coding",
+  "tags": [
+    "agent-evaluation",
+    "agent-harness",
+    "coding-agent",
+    "llm-agent",
+    "multi-agent",
+    "observability",
+    "python",
+    "swe-bench"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "semi-hollow",
+    "url": "https://github.com/semi-hollow"
+  },
+  "source": {
+    "primary": "github",
+    "github": "semi-hollow/NanoHarness",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 39,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-26T16:54:09Z",
+    "first_commit_at": "2026-04-29T09:40:31Z",
+    "forks": 1,
+    "watchers": 7,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2523,
+  "rank_in_category": 507,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-29T17:01:18.354848Z",
+  "last_refreshed_at": "2026-08-29T17:01:18.354851Z",
+  "consecutive_refresh_failures": 0
+}

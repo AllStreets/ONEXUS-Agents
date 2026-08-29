@@ -1,0 +1,62 @@
+{
+  "slug": "cruxible",
+  "name": "cruxible",
+  "tagline": "Governed state engine for AI agents: typed, executable knowledge artifacts with a code-like lifecycle",
+  "category": "legal-research",
+  "tags": [
+    "agent-infrastructure",
+    "agents",
+    "ai-agents",
+    "ai-governance",
+    "governance",
+    "hard-state",
+    "knowledge-as-code",
+    "llm",
+    "local-first",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "cruxible-ai",
+    "url": "https://github.com/cruxible-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cruxible-ai/cruxible",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T15:44:52Z",
+    "first_commit_at": "2026-03-04T02:01:15Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3298,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-29T17:19:53.203439Z",
+  "last_refreshed_at": "2026-08-29T17:19:53.203443Z",
+  "consecutive_refresh_failures": 0
+}
