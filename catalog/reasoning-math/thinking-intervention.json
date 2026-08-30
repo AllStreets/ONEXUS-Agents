@@ -1,0 +1,54 @@
+{
+  "slug": "thinking-intervention",
+  "name": "thinking-intervention",
+  "tagline": "Used for thinking process intervention of reasoning models such as DeepSeek-R1, effectively controlling the reasoning thinking process. 用于DeepSeek-R1等推理模型的思维过程干预，有效控制推理思考过程",
+  "category": "reasoning-math",
+  "tags": [
+    "llm",
+    "reasoning",
+    "reasoning-agent",
+    "thinking-invervention"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shibing624",
+    "url": "https://github.com/shibing624"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shibing624/thinking-intervention",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2025-04-14T13:14:28Z",
+    "first_commit_at": "2025-04-08T07:17:18Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1751,
+  "rank_in_category": 123,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:49:17.773000Z",
+  "last_refreshed_at": "2026-08-30T17:49:17.773004Z",
+  "consecutive_refresh_failures": 0
+}

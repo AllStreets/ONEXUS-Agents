@@ -1,0 +1,59 @@
+{
+  "slug": "clawteam-openclaw",
+  "name": "ClawTeam-OpenClaw",
+  "tagline": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "clawdbot",
+    "openclaw",
+    "openclaw-extension",
+    "openclaw-plugin",
+    "openclaw-skills",
+    "swarm",
+    "swarm-intelligence",
+    "swarms"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "win4r",
+    "url": "https://github.com/win4r"
+  },
+  "source": {
+    "primary": "github",
+    "github": "win4r/ClawTeam-OpenClaw",
+    "huggingface": null,
+    "homepage": "https://youtu.be/aZT9d8qrirY"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1444,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-03T18:24:33Z",
+    "first_commit_at": "2026-03-17T15:27:29Z",
+    "forks": 316,
+    "watchers": 11,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3674,
+  "rank_in_category": 259,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:41.754762Z",
+  "last_refreshed_at": "2026-08-30T17:54:41.754766Z",
+  "consecutive_refresh_failures": 0
+}

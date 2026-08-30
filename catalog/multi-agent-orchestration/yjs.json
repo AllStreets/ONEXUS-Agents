@@ -1,0 +1,60 @@
+{
+  "slug": "yjs",
+  "name": "yjs",
+  "tagline": "Shared data types for building collaborative software",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "collaboration",
+    "collaborative-editing",
+    "crdt",
+    "decentralized",
+    "offline-first",
+    "p2p",
+    "peer-to-peer",
+    "realtime",
+    "shared-editing",
+    "yjs"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "yjs",
+    "url": "https://github.com/yjs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yjs/yjs",
+    "huggingface": null,
+    "homepage": "https://docs.yjs.dev/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 22722,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-06T08:32:25Z",
+    "first_commit_at": "2014-07-29T19:29:10Z",
+    "forks": 799,
+    "watchers": 123,
+    "open_issues": 138,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4751,
+  "rank_in_category": 76,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:51:05.764521Z",
+  "last_refreshed_at": "2026-08-30T17:51:05.764525Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "connect",
+  "name": "connect",
+  "tagline": "The swiss army knife of healthcare integration.",
+  "category": "healthcare",
+  "tags": [
+    "healthcare",
+    "hl7",
+    "integration",
+    "interoperability",
+    "mirth",
+    "mirth-connect"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nextgenhealthcare",
+    "url": "https://github.com/nextgenhealthcare"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nextgenhealthcare/connect",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1192,
+    "downloads_30d": null,
+    "last_commit_at": "2024-09-23T16:32:01Z",
+    "first_commit_at": "2006-03-20T22:20:40Z",
+    "forks": 466,
+    "watchers": 91,
+    "open_issues": 410,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3762,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:25.623943Z",
+  "last_refreshed_at": "2026-08-30T17:56:25.623946Z",
+  "consecutive_refresh_failures": 0
+}

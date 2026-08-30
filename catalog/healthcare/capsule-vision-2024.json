@@ -1,0 +1,55 @@
+{
+  "slug": "capsule-vision-2024",
+  "name": "capsule-vision-2024",
+  "tagline": "video capsule endoscopy abnormality classification for capsule vision 2024 challenge",
+  "category": "healthcare",
+  "tags": [
+    "ai-healthcare",
+    "cnn-pytorch",
+    "endoscopic-images",
+    "image-classification",
+    "vision-transformer-image-classification"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "arnavsm",
+    "url": "https://github.com/arnavsm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "arnavsm/capsule-vision-2024",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-12T14:00:10Z",
+    "first_commit_at": "2024-09-08T17:15:56Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2048,
+  "rank_in_category": 173,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:57:06.496561Z",
+  "last_refreshed_at": "2026-08-30T17:57:06.496565Z",
+  "consecutive_refresh_failures": 0
+}

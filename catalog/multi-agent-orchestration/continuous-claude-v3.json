@@ -1,0 +1,61 @@
+{
+  "slug": "continuous-claude-v3",
+  "name": "Continuous-Claude-v3",
+  "tagline": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "claude-code",
+    "claude-code-cli",
+    "claude-code-hooks",
+    "claude-code-mcp",
+    "claude-code-skills",
+    "claude-code-subagents",
+    "claude-skills",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "parcadei",
+    "url": "https://github.com/parcadei"
+  },
+  "source": {
+    "primary": "github",
+    "github": "parcadei/Continuous-Claude-v3",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3932,
+    "downloads_30d": null,
+    "last_commit_at": "2026-01-26T15:27:49Z",
+    "first_commit_at": "2026-01-10T01:54:24Z",
+    "forks": 299,
+    "watchers": 30,
+    "open_issues": 46,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3919,
+  "rank_in_category": 222,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:51:27.423067Z",
+  "last_refreshed_at": "2026-08-30T17:51:27.423071Z",
+  "consecutive_refresh_failures": 0
+}

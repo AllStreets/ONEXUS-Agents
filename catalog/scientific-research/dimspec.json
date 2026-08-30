@@ -1,0 +1,60 @@
+{
+  "slug": "dimspec",
+  "name": "dimspec",
+  "tagline": "The Database Infrastructure for Mass Spectrometry (DIMSpec) project",
+  "category": "scientific-research",
+  "tags": [
+    "database",
+    "mass-spectrometry",
+    "nist",
+    "nist-database",
+    "pfas",
+    "plumber-api",
+    "r",
+    "scientific-research",
+    "scientific-software",
+    "shiny-r"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "usnistgov",
+    "url": "https://github.com/usnistgov"
+  },
+  "source": {
+    "primary": "github",
+    "github": "usnistgov/dimspec",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-27T18:32:08Z",
+    "first_commit_at": "2021-05-12T20:27:10Z",
+    "forks": 19,
+    "watchers": 3,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3356,
+  "rank_in_category": 294,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:33.305157Z",
+  "last_refreshed_at": "2026-08-30T17:44:33.305161Z",
+  "consecutive_refresh_failures": 0
+}

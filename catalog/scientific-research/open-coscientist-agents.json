@@ -1,0 +1,51 @@
+{
+  "slug": "open-coscientist-agents",
+  "name": "open-coscientist-agents",
+  "tagline": "Implementation of Google Deepmind's AI co-scientist with LangGraph and GPT Researcher",
+  "category": "scientific-research",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "conradry",
+    "url": "https://github.com/conradry"
+  },
+  "source": {
+    "primary": "github",
+    "github": "conradry/open-coscientist-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 69,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-22T02:55:39Z",
+    "first_commit_at": "2025-04-04T03:16:10Z",
+    "forks": 18,
+    "watchers": 3,
+    "open_issues": 3,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1025,
+  "rank_in_category": 337,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:45:38.659646Z",
+  "last_refreshed_at": "2026-08-30T17:45:38.659649Z",
+  "consecutive_refresh_failures": 0
+}

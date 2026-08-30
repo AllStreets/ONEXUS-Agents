@@ -1,0 +1,62 @@
+{
+  "slug": "multi-agent-system",
+  "name": "multi-agent-system",
+  "tagline": "Autonomous agent networks for task automation that requires multi-step reasoning",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-ai",
+    "autonomous-agents",
+    "composiotool",
+    "docling",
+    "graph-theory",
+    "langchain",
+    "litellm",
+    "matplotlib",
+    "mem0ai",
+    "multi-agent-systems"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "versionHQ",
+    "url": "https://github.com/versionHQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "versionHQ/multi-agent-system",
+    "huggingface": null,
+    "homepage": "https://versionhq.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 30,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-01T08:12:44Z",
+    "first_commit_at": "2024-12-05T15:43:45Z",
+    "forks": 10,
+    "watchers": 4,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2391,
+  "rank_in_category": 493,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:27.586417Z",
+  "last_refreshed_at": "2026-08-30T17:55:27.586421Z",
+  "consecutive_refresh_failures": 0
+}

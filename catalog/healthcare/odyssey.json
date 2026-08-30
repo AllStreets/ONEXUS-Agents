@@ -1,0 +1,62 @@
+{
+  "slug": "odyssey",
+  "name": "odyssey",
+  "tagline": "An interpretable foundation model of the patient clinical timeline: event forecasting, calibrated time-to-event alerts, and concept-level interpretability, benchmarked head-to-head against tuned GBMs,",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "concept-bottleneck",
+    "ehr",
+    "eicu",
+    "electronic-health-records",
+    "foundation-models",
+    "healthcare",
+    "interpretability",
+    "machine-learning",
+    "mamba"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "VectorInstitute",
+    "url": "https://github.com/VectorInstitute"
+  },
+  "source": {
+    "primary": "github",
+    "github": "VectorInstitute/odyssey",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 62,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:36:35Z",
+    "first_commit_at": "2023-12-01T15:46:33Z",
+    "forks": 15,
+    "watchers": 4,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5054,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:55.279539Z",
+  "last_refreshed_at": "2026-08-30T17:55:55.279543Z",
+  "consecutive_refresh_failures": 0
+}

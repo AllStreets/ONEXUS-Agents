@@ -1,0 +1,62 @@
+{
+  "slug": "egc",
+  "name": "EGC",
+  "tagline": "EGC gives every AI coding agent the same brain. Shared memory, skills, and live context across Cursor, Claude Code, Copilot, Aider, and 20+ AI coding tools with zero configuration. Every tab, terminal",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-memory",
+    "agentic-workflows",
+    "ai-agents",
+    "ai-memory",
+    "aider",
+    "claude-code",
+    "context-engineering",
+    "copilot",
+    "cursor",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Fmarzochi",
+    "url": "https://github.com/Fmarzochi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Fmarzochi/EGC",
+    "huggingface": null,
+    "homepage": "https://fmarzochi.github.io/EGCSite/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 46,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-26T16:10:28Z",
+    "first_commit_at": "2026-05-11T02:41:49Z",
+    "forks": 42,
+    "watchers": 5,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4023,
+  "rank_in_category": 202,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:47.901023Z",
+  "last_refreshed_at": "2026-08-30T17:52:47.901027Z",
+  "consecutive_refresh_failures": 0
+}

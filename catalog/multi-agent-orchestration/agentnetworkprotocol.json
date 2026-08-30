@@ -1,0 +1,53 @@
+{
+  "slug": "agentnetworkprotocol",
+  "name": "AgentNetworkProtocol",
+  "tagline": "AgentNetworkProtocol(ANP) is an open source protocol for agent communication. Our vision is to define how agents connect with each other, building an open, secure, and efficient collaboration network ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "communication",
+    "protocol"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agent-network-protocol",
+    "url": "https://github.com/agent-network-protocol"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agent-network-protocol/AgentNetworkProtocol",
+    "huggingface": null,
+    "homepage": "https://agent-network-protocol.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1407,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-28T05:53:23Z",
+    "first_commit_at": "2024-10-23T01:15:51Z",
+    "forks": 101,
+    "watchers": 33,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4385,
+  "rank_in_category": 143,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:11.542321Z",
+  "last_refreshed_at": "2026-08-30T17:55:11.542325Z",
+  "consecutive_refresh_failures": 0
+}

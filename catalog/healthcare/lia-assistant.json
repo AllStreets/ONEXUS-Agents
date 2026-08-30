@@ -1,0 +1,63 @@
+{
+  "slug": "lia-assistant",
+  "name": "LIA-Assistant",
+  "tagline": "Smart multi-agent conversational assistant with LangGraph orchestration, Human-in-the-Loop, enterprise-grade observability, and full i18n support (6 languages)",
+  "category": "healthcare",
+  "tags": [
+    "ai",
+    "ai-assistant",
+    "apple",
+    "chatbot",
+    "claude",
+    "conversational-ai",
+    "docker",
+    "emotional-ai",
+    "google",
+    "healthcare-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jgouviergmail",
+    "url": "https://github.com/jgouviergmail"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jgouviergmail/LIA-Assistant",
+    "huggingface": null,
+    "homepage": "https://lia.jeyswork.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 42,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T15:39:12Z",
+    "first_commit_at": "2026-03-13T23:20:41Z",
+    "forks": 7,
+    "watchers": 2,
+    "open_issues": 10,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5033,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:49.937878Z",
+  "last_refreshed_at": "2026-08-30T17:56:49.937882Z",
+  "consecutive_refresh_failures": 0
+}

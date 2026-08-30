@@ -1,0 +1,53 @@
+{
+  "slug": "leanagent",
+  "name": "LeanAgent",
+  "tagline": "LeanAgent is a novel lifelong learning framework for formal theorem proving that continuously generalizes to and improves on ever-expanding mathematical knowledge without forgetting previously learned",
+  "category": "reasoning-math",
+  "tags": [
+    "agent",
+    "continual-learning",
+    "lean4"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "lean-dojo",
+    "url": "https://github.com/lean-dojo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lean-dojo/LeanAgent",
+    "huggingface": null,
+    "homepage": "https://deepwiki.com/lean-dojo/LeanAgent"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 84,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-13T18:30:45Z",
+    "first_commit_at": "2023-06-26T16:26:09Z",
+    "forks": 20,
+    "watchers": 4,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.227,
+  "rank_in_category": 91,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:51:33.179460Z",
+  "last_refreshed_at": "2026-08-30T17:51:33.179464Z",
+  "consecutive_refresh_failures": 0
+}

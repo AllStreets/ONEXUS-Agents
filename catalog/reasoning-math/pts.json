@@ -1,0 +1,60 @@
+{
+  "slug": "pts",
+  "name": "pts",
+  "tagline": "Pivotal Token Search",
+  "category": "reasoning-math",
+  "tags": [
+    "dataset-generation",
+    "direct-preference-optimization",
+    "dpo",
+    "llm",
+    "llm-inference",
+    "llm-steering",
+    "mech-interp",
+    "phi-4",
+    "phi-4-mini",
+    "phi4"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "codelion",
+    "url": "https://github.com/codelion"
+  },
+  "source": {
+    "primary": "github",
+    "github": "codelion/pts",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 157,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-05T00:07:19Z",
+    "first_commit_at": "2025-05-02T02:17:51Z",
+    "forks": 9,
+    "watchers": 3,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3148,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:49:06.898252Z",
+  "last_refreshed_at": "2026-08-30T17:49:06.898256Z",
+  "consecutive_refresh_failures": 0
+}

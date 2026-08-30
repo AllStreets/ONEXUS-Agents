@@ -1,0 +1,49 @@
+{
+  "slug": "benchaid",
+  "name": "benchaid",
+  "tagline": "BenchAid - Your molecular biology AI agent. Designed by the Farnung Lab at Harvard Medical School.",
+  "category": "bioinformatics",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "farnunglab",
+    "url": "https://github.com/farnunglab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "farnunglab/benchaid",
+    "huggingface": null,
+    "homepage": "https://benchaid.farnunglab.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-04T18:50:48Z",
+    "first_commit_at": "2026-02-09T18:40:10Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3305,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:43:29.662648Z",
+  "last_refreshed_at": "2026-08-30T17:43:29.662651Z",
+  "consecutive_refresh_failures": 0
+}

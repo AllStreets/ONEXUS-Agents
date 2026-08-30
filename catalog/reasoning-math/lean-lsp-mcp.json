@@ -1,0 +1,55 @@
+{
+  "slug": "lean-lsp-mcp",
+  "name": "lean-lsp-mcp",
+  "tagline": "Lean Theorem Prover MCP",
+  "category": "reasoning-math",
+  "tags": [
+    "lean4",
+    "lsp",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "oOo0oOo",
+    "url": "https://github.com/oOo0oOo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "oOo0oOo/lean-lsp-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 485,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-19T19:08:34Z",
+    "first_commit_at": "2025-03-29T10:47:46Z",
+    "forks": 77,
+    "watchers": 13,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4343,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:50:47.259432Z",
+  "last_refreshed_at": "2026-08-30T17:50:47.259436Z",
+  "consecutive_refresh_failures": 0
+}

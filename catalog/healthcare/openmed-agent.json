@@ -1,0 +1,62 @@
+{
+  "slug": "openmed-agent",
+  "name": "openmed-agent",
+  "tagline": "Terminal-native agent for clinical workflows — prior auth, coding audit, and documentation, with reviewable output",
+  "category": "healthcare",
+  "tags": [
+    "agentic-ai",
+    "ai-agent",
+    "claude",
+    "cli",
+    "clinical",
+    "deidentification",
+    "fhir",
+    "gpt-5-6",
+    "gpt-5-6-sol",
+    "health-records"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openmed-labs",
+    "url": "https://github.com/openmed-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openmed-labs/openmed-agent",
+    "huggingface": null,
+    "homepage": "http://agent.openmed.life/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 30,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-18T18:31:27Z",
+    "first_commit_at": "2026-03-08T20:08:28Z",
+    "forks": 5,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4544,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:53.122440Z",
+  "last_refreshed_at": "2026-08-30T17:56:53.122444Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "auto-research",
+  "name": "Auto-Research",
+  "tagline": "Generate custom detailed survey paper with topic clustered sections and proper citations, from just a single query in just under 30 mins !!",
+  "category": "scientific-research",
+  "tags": [
+    "arxiv",
+    "arxiv-api",
+    "nlp",
+    "ocr",
+    "pdf-document-processor",
+    "python",
+    "pytorch",
+    "research-and-development",
+    "research-data-management",
+    "research-software-engineering"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sidphbot",
+    "url": "https://github.com/sidphbot"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sidphbot/Auto-Research",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 58,
+    "downloads_30d": null,
+    "last_commit_at": "2023-12-10T16:34:42Z",
+    "first_commit_at": "2021-07-05T23:27:08Z",
+    "forks": 6,
+    "watchers": 1,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3336,
+  "rank_in_category": 297,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:24.587624Z",
+  "last_refreshed_at": "2026-08-30T17:44:24.587627Z",
+  "consecutive_refresh_failures": 0
+}

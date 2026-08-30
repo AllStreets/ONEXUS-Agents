@@ -1,0 +1,55 @@
+{
+  "slug": "frankenterm",
+  "name": "frankenterm",
+  "tagline": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "automation",
+    "rust",
+    "terminal",
+    "wezterm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Dicklesworthstone",
+    "url": "https://github.com/Dicklesworthstone"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Dicklesworthstone/frankenterm",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 109,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-28T17:38:55Z",
+    "first_commit_at": "2026-01-18T20:00:55Z",
+    "forks": 16,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3373,
+  "rank_in_category": 310,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:57.621787Z",
+  "last_refreshed_at": "2026-08-30T17:54:57.621791Z",
+  "consecutive_refresh_failures": 0
+}

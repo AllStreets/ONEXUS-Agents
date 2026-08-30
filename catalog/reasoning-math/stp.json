@@ -1,0 +1,56 @@
+{
+  "slug": "stp",
+  "name": "stp",
+  "tagline": "Simple Theorem Prover, an efficient SMT solver for bitvectors, floating-point and arrays.",
+  "category": "reasoning-math",
+  "tags": [
+    "cnf",
+    "cryptography",
+    "sat-solver",
+    "smt",
+    "symbolic-execution",
+    "verification"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "stp",
+    "url": "https://github.com/stp"
+  },
+  "source": {
+    "primary": "github",
+    "github": "stp/stp",
+    "huggingface": null,
+    "homepage": "https://stp.github.io/stp/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 588,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:37:20Z",
+    "first_commit_at": "2008-10-22T19:18:17Z",
+    "forks": 144,
+    "watchers": 28,
+    "open_issues": 33,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4016,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:50:44.184254Z",
+  "last_refreshed_at": "2026-08-30T17:50:44.184257Z",
+  "consecutive_refresh_failures": 0
+}

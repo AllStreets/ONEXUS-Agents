@@ -1,0 +1,54 @@
+{
+  "slug": "care-fe",
+  "name": "care_fe",
+  "tagline": "Care is a Digital Public Good enabling accelerated healthcare delivery. ",
+  "category": "healthcare",
+  "tags": [
+    "digital-public-goods",
+    "hacktoberfest",
+    "healthcare",
+    "hmis"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ohcnetwork",
+    "url": "https://github.com/ohcnetwork"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ohcnetwork/care_fe",
+    "huggingface": null,
+    "homepage": "https://care.ohc.network/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 625,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T05:13:43Z",
+    "first_commit_at": "2020-03-21T17:48:10Z",
+    "forks": 1135,
+    "watchers": 19,
+    "open_issues": 275,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5718,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:33.980169Z",
+  "last_refreshed_at": "2026-08-30T17:56:33.980173Z",
+  "consecutive_refresh_failures": 0
+}

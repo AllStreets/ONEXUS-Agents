@@ -1,0 +1,62 @@
+{
+  "slug": "claude-image",
+  "name": "claude-image",
+  "tagline": "教 Claude Code/Codex 真正用好 gpt-image-2 的 skill 包 · Drop-in skill teaching agents to actually use GPT Image 2 — intent-first prompting, surgical edits, parallel batching, visual self-verification",
+  "category": "education-tutoring",
+  "tags": [
+    "agent-skills",
+    "ai-skills",
+    "anthropic",
+    "chinese-typography",
+    "claude-code",
+    "codex",
+    "gpt-image-2",
+    "image-generation",
+    "openai",
+    "prompt-engineering"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jiangmuran",
+    "url": "https://github.com/jiangmuran"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jiangmuran/claude-image",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 84,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-26T05:39:36Z",
+    "first_commit_at": "2026-04-25T18:39:21Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3181,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:47:26.340745Z",
+  "last_refreshed_at": "2026-08-30T17:47:26.340748Z",
+  "consecutive_refresh_failures": 0
+}

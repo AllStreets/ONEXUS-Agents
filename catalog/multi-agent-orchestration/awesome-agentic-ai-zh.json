@@ -1,0 +1,62 @@
+{
+  "slug": "awesome-agentic-ai-zh",
+  "name": "awesome-agentic-ai-zh",
+  "tagline": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-ai",
+    "agentic-workflows",
+    "ai-agent",
+    "ai-agents",
+    "awesome-list",
+    "chinese-llm",
+    "claude-code",
+    "claude-skills",
+    "cli",
+    "learning-roadmap"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "WenyuChiou",
+    "url": "https://github.com/WenyuChiou"
+  },
+  "source": {
+    "primary": "github",
+    "github": "WenyuChiou/awesome-agentic-ai-zh",
+    "huggingface": null,
+    "homepage": "https://wenyuchiou.github.io/awesome-agentic-ai-zh/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6521,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T15:54:46Z",
+    "first_commit_at": "2026-05-04T22:19:06Z",
+    "forks": 874,
+    "watchers": 28,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5038,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:53:12.676819Z",
+  "last_refreshed_at": "2026-08-30T17:53:12.676823Z",
+  "consecutive_refresh_failures": 0
+}

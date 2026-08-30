@@ -1,0 +1,62 @@
+{
+  "slug": "neuro-san",
+  "name": "neuro-san",
+  "tagline": "Neuro AI System of Agent Networks",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "aaosa",
+    "agentic-ai",
+    "agentic-framework",
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-agents-framework",
+    "langchain",
+    "llms",
+    "mas"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "cognizant-ai-lab",
+    "url": "https://github.com/cognizant-ai-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cognizant-ai-lab/neuro-san",
+    "huggingface": null,
+    "homepage": "https://decisionai.ml/neuro-san"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 146,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-26T16:03:09Z",
+    "first_commit_at": "2024-11-15T20:19:07Z",
+    "forks": 51,
+    "watchers": 10,
+    "open_issues": 115,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4142,
+  "rank_in_category": 179,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:18.673617Z",
+  "last_refreshed_at": "2026-08-30T17:55:18.673620Z",
+  "consecutive_refresh_failures": 0
+}

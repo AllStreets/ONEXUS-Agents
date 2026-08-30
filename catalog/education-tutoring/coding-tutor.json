@@ -1,0 +1,54 @@
+{
+  "slug": "coding-tutor",
+  "name": "Coding-Tutor",
+  "tagline": "[ACL 2025 Findings] Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The Curious Case of LLMs as Your Coding Tutors",
+  "category": "education-tutoring",
+  "tags": [
+    "coding-assistant",
+    "evaluation-framework",
+    "llm-agents",
+    "tutoring"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "iwangjian",
+    "url": "https://github.com/iwangjian"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iwangjian/Coding-Tutor",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2502.13311"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 91,
+    "downloads_30d": null,
+    "last_commit_at": "2025-06-02T19:14:02Z",
+    "first_commit_at": "2025-01-23T08:36:42Z",
+    "forks": 13,
+    "watchers": 2,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2922,
+  "rank_in_category": 79,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:46:25.536512Z",
+  "last_refreshed_at": "2026-08-30T17:46:25.536516Z",
+  "consecutive_refresh_failures": 0
+}

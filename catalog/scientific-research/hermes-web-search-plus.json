@@ -1,0 +1,62 @@
+{
+  "slug": "hermes-web-search-plus",
+  "name": "hermes-web-search-plus",
+  "tagline": "Give your Hermes agent the web as real sources, never a made-up answer — multi-provider search and extraction with an optional local, key-free DonSeTch option.",
+  "category": "scientific-research",
+  "tags": [
+    "ai-agents",
+    "donsetch",
+    "hermes-agent",
+    "mcp",
+    "python",
+    "research-agent",
+    "search-api",
+    "searxng",
+    "source-grounding",
+    "web-extraction"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "robbyczgw-cla",
+    "url": "https://github.com/robbyczgw-cla"
+  },
+  "source": {
+    "primary": "github",
+    "github": "robbyczgw-cla/hermes-web-search-plus",
+    "huggingface": null,
+    "homepage": "https://websearchplus.xyz/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 389,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T15:01:24Z",
+    "first_commit_at": "2026-03-17T13:25:03Z",
+    "forks": 29,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.62,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:43:54.999505Z",
+  "last_refreshed_at": "2026-08-30T17:43:54.999508Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "healthchain",
+  "name": "HealthChain",
+  "tagline": "Python SDK for healthcare AI — typed, validated FHIR tools for agents, real-time EHR connectivity, production deployment ✨ 🏥",
+  "category": "healthcare",
+  "tags": [
+    "agents",
+    "ai",
+    "ehr",
+    "fhir",
+    "fhir-api",
+    "fhir-tools",
+    "healthcare",
+    "healthcare-ai",
+    "langchain",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "healthchainai",
+    "url": "https://github.com/healthchainai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "healthchainai/HealthChain",
+    "huggingface": null,
+    "homepage": "https://healthchainai.github.io/HealthChain/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 222,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-14T16:12:19Z",
+    "first_commit_at": "2024-04-11T10:09:35Z",
+    "forks": 41,
+    "watchers": 6,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5628,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:39.258613Z",
+  "last_refreshed_at": "2026-08-30T17:56:39.258618Z",
+  "consecutive_refresh_failures": 0
+}

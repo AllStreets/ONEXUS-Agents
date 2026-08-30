@@ -1,0 +1,62 @@
+{
+  "slug": "cowagent",
+  "name": "CowAgent",
+  "tagline": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (form",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "chatgpt-on-wechat",
+    "claude",
+    "claude-code",
+    "codex",
+    "cowagent",
+    "deepseek",
+    "harness"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zhayujie",
+    "url": "https://github.com/zhayujie"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zhayujie/CowAgent",
+    "huggingface": null,
+    "homepage": "https://cowagent.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 46726,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T13:46:40Z",
+    "first_commit_at": "2022-08-09T16:04:10Z",
+    "forks": 10325,
+    "watchers": 309,
+    "open_issues": 44,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.59,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:05.284293Z",
+  "last_refreshed_at": "2026-08-30T17:52:05.284297Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "tuberculosis-recognition",
+  "name": "Tuberculosis_recognition",
+  "tagline": "PyTorch TB chest X-ray classifier with a live demo and dataset artifact audit.",
+  "category": "healthcare",
+  "tags": [
+    "chest-xray",
+    "computer-vision",
+    "dataset-bias",
+    "deep-learning",
+    "docker",
+    "healthcare-ai",
+    "image-classification",
+    "medical-imaging",
+    "pytorch",
+    "responsible-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "PandaMia",
+    "url": "https://github.com/PandaMia"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PandaMia/Tuberculosis_recognition",
+    "huggingface": null,
+    "homepage": "https://tuberculosis-recognition.pandamia.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 66,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-28T17:38:00Z",
+    "first_commit_at": "2022-05-10T07:33:24Z",
+    "forks": 0,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3125,
+  "rank_in_category": 100,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:42.809890Z",
+  "last_refreshed_at": "2026-08-30T17:56:42.809894Z",
+  "consecutive_refresh_failures": 0
+}

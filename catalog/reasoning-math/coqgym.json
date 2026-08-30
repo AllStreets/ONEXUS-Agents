@@ -1,0 +1,53 @@
+{
+  "slug": "coqgym",
+  "name": "CoqGym",
+  "tagline": "A Learning Environment for Theorem Proving with the Coq proof assistant",
+  "category": "reasoning-math",
+  "tags": [
+    "icml-2019",
+    "machine-learning",
+    "theorem-proving"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "princeton-vl",
+    "url": "https://github.com/princeton-vl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "princeton-vl/CoqGym",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/1905.09381"
+  },
+  "license": "LGPL-2.1",
+  "metrics": {
+    "stars": 419,
+    "downloads_30d": null,
+    "last_commit_at": "2023-06-30T18:46:04Z",
+    "first_commit_at": "2019-05-26T22:27:24Z",
+    "forks": 55,
+    "watchers": 12,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2597,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:50:49.365537Z",
+  "last_refreshed_at": "2026-08-30T17:50:49.365540Z",
+  "consecutive_refresh_failures": 0
+}

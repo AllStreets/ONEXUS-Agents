@@ -1,0 +1,63 @@
+{
+  "slug": "tongyou-travel-agent",
+  "name": "tongyou-travel-agent",
+  "tagline": "17同游 · 旅行智能体：Agent 驱动真实 Chrome 抓取攻略生成带预算的行程，支持多人协同编辑",
+  "category": "travel-planning",
+  "tags": [
+    "ai-agent",
+    "browser-automation",
+    "chrome-devtools-protocol",
+    "deepseek",
+    "fastapi",
+    "langgraph",
+    "llm",
+    "mcp",
+    "python",
+    "react"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "315462438",
+    "url": "https://github.com/315462438"
+  },
+  "source": {
+    "primary": "github",
+    "github": "315462438/tongyou-travel-agent",
+    "huggingface": null,
+    "homepage": "https://17tongyou.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-27T10:17:46Z",
+    "first_commit_at": "2026-08-13T11:28:58Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4752,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T18:00:07.464540Z",
+  "last_refreshed_at": "2026-08-30T18:00:07.464544Z",
+  "consecutive_refresh_failures": 0
+}

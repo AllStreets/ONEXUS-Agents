@@ -1,0 +1,59 @@
+{
+  "slug": "agentrearrange-paper",
+  "name": "AgentRearrange-Paper",
+  "tagline": "AgentRearrange is a Swarms orchestration primitive that    turns a tiny string DSL (-> for sequential, , for    concurrent) into arbitrary mixed-topology multi-agent      workflows.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentrearrange",
+    "agents",
+    "ai",
+    "ml",
+    "multi-agent",
+    "multi-agent-orchestration",
+    "research-paper",
+    "swarms",
+    "swarms-paper"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "The-Swarm-Corporation",
+    "url": "https://github.com/The-Swarm-Corporation"
+  },
+  "source": {
+    "primary": "github",
+    "github": "The-Swarm-Corporation/AgentRearrange-Paper",
+    "huggingface": null,
+    "homepage": "https://swarms.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-04T17:37:11Z",
+    "first_commit_at": "2026-06-01T20:44:24Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2047,
+  "rank_in_category": 535,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:53:01.513129Z",
+  "last_refreshed_at": "2026-08-30T17:53:01.513132Z",
+  "consecutive_refresh_failures": 0
+}

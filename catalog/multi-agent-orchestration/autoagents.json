@@ -1,0 +1,55 @@
+{
+  "slug": "autoagents",
+  "name": "AutoAgents",
+  "tagline": "A  multi-agent framework written in Rust that enables you to build, deploy, and coordinate multiple intelligent agents",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-agents-framework",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "liquidos-ai",
+    "url": "https://github.com/liquidos-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "liquidos-ai/AutoAgents",
+    "huggingface": null,
+    "homepage": "https://liquidos-ai.github.io/AutoAgents/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 744,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-26T10:21:45Z",
+    "first_commit_at": "2025-02-22T09:25:42Z",
+    "forks": 86,
+    "watchers": 8,
+    "open_issues": 24,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4109,
+  "rank_in_category": 185,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:50:23.946080Z",
+  "last_refreshed_at": "2026-08-30T17:50:23.946084Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "openmrs-core",
+  "name": "openmrs-core",
+  "tagline": "OpenMRS API and web application code",
+  "category": "healthcare",
+  "tags": [
+    "ehr",
+    "emr",
+    "health",
+    "healthcare",
+    "hospital",
+    "java",
+    "medical-records",
+    "openmrs",
+    "openmrs-community"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openmrs",
+    "url": "https://github.com/openmrs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openmrs/openmrs-core",
+    "huggingface": null,
+    "homepage": "http://openmrs.org/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1904,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T20:16:42Z",
+    "first_commit_at": "2006-05-02T15:02:17Z",
+    "forks": 4383,
+    "watchers": 148,
+    "open_issues": 276,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6024,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:23.615130Z",
+  "last_refreshed_at": "2026-08-30T17:56:23.615134Z",
+  "consecutive_refresh_failures": 0
+}

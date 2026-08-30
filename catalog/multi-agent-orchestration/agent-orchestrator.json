@@ -1,0 +1,60 @@
+{
+  "slug": "agent-orchestrator",
+  "name": "agent-orchestrator",
+  "tagline": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code review",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-fleet",
+    "agent-ide",
+    "agent-orchestration",
+    "agent-swarm",
+    "claude-code",
+    "codex-cli",
+    "git-worktrees",
+    "multi-agent",
+    "orchestration",
+    "orchestrator"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Untrivial-ai",
+    "url": "https://github.com/Untrivial-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Untrivial-ai/agent-orchestrator",
+    "huggingface": null,
+    "homepage": "http://aoagents.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 10666,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:51:58Z",
+    "first_commit_at": "2026-02-13T09:55:31Z",
+    "forks": 1491,
+    "watchers": 36,
+    "open_issues": 866,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4549,
+  "rank_in_category": 109,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:10.538091Z",
+  "last_refreshed_at": "2026-08-30T17:52:10.538095Z",
+  "consecutive_refresh_failures": 0
+}

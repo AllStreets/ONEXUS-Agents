@@ -1,0 +1,60 @@
+{
+  "slug": "radiolens",
+  "name": "radiolens",
+  "tagline": "MobileNetV2 pneumonia classifier validated on an independent 485-sample cross-operator cohort. 96.4% sensitivity, 96.4% ROC-AUC, bootstrap p=0.978. FastAPI inference API, Streamlit dashboard, DICOM su",
+  "category": "healthcare",
+  "tags": [
+    "binary-classification",
+    "bootstrap-statistics",
+    "chest-xray",
+    "clinical-ai",
+    "computer-vision",
+    "cross-validation",
+    "deep-learning",
+    "dicom",
+    "docker",
+    "fastapi"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Hilary-Henshaw",
+    "url": "https://github.com/Hilary-Henshaw"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Hilary-Henshaw/radiolens",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-22T01:34:00Z",
+    "first_commit_at": "2025-09-02T08:14:23Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2914,
+  "rank_in_category": 114,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:15.546535Z",
+  "last_refreshed_at": "2026-08-30T17:56:15.546538Z",
+  "consecutive_refresh_failures": 0
+}

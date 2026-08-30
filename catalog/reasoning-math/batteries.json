@@ -1,0 +1,52 @@
+{
+  "slug": "batteries",
+  "name": "batteries",
+  "tagline": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
+  "category": "reasoning-math",
+  "tags": [
+    "lean",
+    "lean4"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "leanprover-community",
+    "url": "https://github.com/leanprover-community"
+  },
+  "source": {
+    "primary": "github",
+    "github": "leanprover-community/batteries",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 417,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T10:19:38Z",
+    "first_commit_at": "2022-08-28T15:23:46Z",
+    "forks": 161,
+    "watchers": 11,
+    "open_issues": 87,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3976,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:50:51.870884Z",
+  "last_refreshed_at": "2026-08-30T17:50:51.870888Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "appagent",
+  "name": "AppAgent",
+  "tagline": "AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "chatgpt",
+    "generative-ai",
+    "gpt4",
+    "gpt4v",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TencentQQGYLab",
+    "url": "https://github.com/TencentQQGYLab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TencentQQGYLab/AppAgent",
+    "huggingface": null,
+    "homepage": "https://appagent-official.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6869,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-19T11:01:38Z",
+    "first_commit_at": "2023-12-21T14:06:16Z",
+    "forks": 761,
+    "watchers": 75,
+    "open_issues": 99,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3527,
+  "rank_in_category": 283,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:53:17.669309Z",
+  "last_refreshed_at": "2026-08-30T17:53:17.669313Z",
+  "consecutive_refresh_failures": 0
+}

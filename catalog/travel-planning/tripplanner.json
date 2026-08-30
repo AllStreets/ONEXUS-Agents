@@ -1,41 +1,41 @@
 {
   "slug": "tripplanner",
-  "name": "TripPlanner",
-  "tagline": "TripPlanner ✈️ : A React Native App where you can register your trips 🏝 and points 🏖  with your financial costs to be made on the trip 🚤 💸 - Android 🤖 and iOS 🍎 . ",
+  "name": "TRIPPLANNER",
+  "tagline": "AI-assisted travel planning with Gemini itineraries, Firebase persistence, and expense tracking.",
   "category": "travel-planning",
   "tags": [
-    "android",
-    "financial-costs",
-    "ios",
+    "expense-tracker",
+    "firebase",
+    "firestore",
+    "generative-ai",
+    "google-gemini",
+    "itinerary-generator",
     "javascript",
     "react",
-    "react-native",
-    "reactjs",
-    "register",
-    "travel",
-    "trip"
+    "tailwindcss",
+    "travel"
   ],
   "author": {
     "type": "user",
-    "handle": "samuelematias",
-    "url": "https://github.com/samuelematias"
+    "handle": "vincenzo-afk",
+    "url": "https://github.com/vincenzo-afk"
   },
   "source": {
     "primary": "github",
-    "github": "samuelematias/TripPlanner",
+    "github": "vincenzo-afk/TRIPPLANNER",
     "huggingface": null,
     "homepage": null
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 19,
+    "stars": 32,
     "downloads_30d": null,
-    "last_commit_at": "2019-01-14T00:17:51Z",
-    "first_commit_at": "2018-12-13T23:10:38Z",
-    "forks": 2,
+    "last_commit_at": "2026-08-23T16:59:09Z",
+    "first_commit_at": "2026-04-20T14:08:59Z",
+    "forks": 0,
     "watchers": 0,
     "open_issues": 0,
-    "archived": true,
+    "archived": false,
     "is_fork": false,
     "is_template": false,
     "library_name": null,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1012,
-  "rank_in_category": 105,
+  "composite_score": 0.469,
+  "rank_in_category": 32,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-21T14:26:55.547425Z",
-  "last_refreshed_at": "2026-08-21T14:26:55.547429Z",
-  "consecutive_refresh_failures": 8
+  "first_seen_at": "2026-08-30T17:59:39.565553Z",
+  "last_refreshed_at": "2026-08-30T17:59:39.565557Z",
+  "consecutive_refresh_failures": 0
 }

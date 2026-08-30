@@ -1,0 +1,62 @@
+{
+  "slug": "goal-flow",
+  "name": "goal-flow",
+  "tagline": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "agentic-engineering",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "ai-agent",
+    "deepage",
+    "dify"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wanmol",
+    "url": "https://github.com/wanmol"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wanmol/goal-flow",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 135,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-13T09:39:00Z",
+    "first_commit_at": "2026-08-06T15:55:45Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3128,
+  "rank_in_category": 344,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:01.906584Z",
+  "last_refreshed_at": "2026-08-30T17:54:01.906588Z",
+  "consecutive_refresh_failures": 0
+}

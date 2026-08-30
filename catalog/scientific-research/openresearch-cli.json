@@ -1,0 +1,49 @@
+{
+  "slug": "openresearch-cli",
+  "name": "openresearch-cli",
+  "tagline": "Run parallel research agents with any model",
+  "category": "scientific-research",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "alphaXiv",
+    "url": "https://github.com/alphaXiv"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alphaXiv/openresearch-cli",
+    "huggingface": null,
+    "homepage": "https://openresearch.sh/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 482,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T01:19:47Z",
+    "first_commit_at": "2026-06-07T05:14:11Z",
+    "forks": 41,
+    "watchers": 1,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5551,
+  "rank_in_category": 84,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:48.489637Z",
+  "last_refreshed_at": "2026-08-30T17:44:48.489641Z",
+  "consecutive_refresh_failures": 0
+}

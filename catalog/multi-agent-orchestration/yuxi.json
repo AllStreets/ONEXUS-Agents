@@ -1,0 +1,63 @@
+{
+  "slug": "yuxi",
+  "name": "Yuxi",
+  "tagline": "可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-rag",
+    "ai-agents",
+    "deepagents",
+    "docker",
+    "document-ai",
+    "fastapi",
+    "harness",
+    "kbqa",
+    "kgqa",
+    "knowledge-base"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "xerrors",
+    "url": "https://github.com/xerrors"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xerrors/Yuxi",
+    "huggingface": null,
+    "homepage": "https://xerrors.github.io/Yuxi/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6586,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T15:43:58Z",
+    "first_commit_at": "2024-07-06T17:58:23Z",
+    "forks": 982,
+    "watchers": 46,
+    "open_issues": 80,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5466,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:14.293902Z",
+  "last_refreshed_at": "2026-08-30T17:52:14.293905Z",
+  "consecutive_refresh_failures": 0
+}

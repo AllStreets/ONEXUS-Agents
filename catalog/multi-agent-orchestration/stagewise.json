@@ -1,0 +1,53 @@
+{
+  "slug": "stagewise",
+  "name": "stagewise",
+  "tagline": "The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agent-orchestration",
+    "ide"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "stagewise-io",
+    "url": "https://github.com/stagewise-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "stagewise-io/stagewise",
+    "huggingface": null,
+    "homepage": "https://stagewise.io/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 6798,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-17T19:00:31Z",
+    "first_commit_at": "2025-04-26T12:43:16Z",
+    "forks": 507,
+    "watchers": 22,
+    "open_issues": 17,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4489,
+  "rank_in_category": 117,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:31.643377Z",
+  "last_refreshed_at": "2026-08-30T17:52:31.643380Z",
+  "consecutive_refresh_failures": 0
+}

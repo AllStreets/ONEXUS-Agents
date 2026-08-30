@@ -1,0 +1,62 @@
+{
+  "slug": "opencode-swarm",
+  "name": "opencode-swarm",
+  "tagline": "  Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-swarm",
+    "ai-agents",
+    "ai-coding",
+    "automation",
+    "bun",
+    "cli",
+    "code-review",
+    "coding-agent",
+    "developer-tools",
+    "github"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ZaxbyHub",
+    "url": "https://github.com/ZaxbyHub"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ZaxbyHub/opencode-swarm",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 460,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:46:50Z",
+    "first_commit_at": "2026-01-27T16:00:05Z",
+    "forks": 48,
+    "watchers": 4,
+    "open_issues": 119,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4462,
+  "rank_in_category": 126,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:46.210779Z",
+  "last_refreshed_at": "2026-08-30T17:54:46.210783Z",
+  "consecutive_refresh_failures": 0
+}

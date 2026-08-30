@@ -1,0 +1,52 @@
+{
+  "slug": "tgs-agent",
+  "name": "TGS-Agent",
+  "tagline": "[2026 AAAI] Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation",
+  "category": "reasoning-math",
+  "tags": [
+    "audio-visual",
+    "referring-video-object-segmentation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jasongief",
+    "url": "https://github.com/jasongief"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jasongief/TGS-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-08T10:23:02Z",
+    "first_commit_at": "2025-11-01T13:00:53Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1493,
+  "rank_in_category": 137,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:49:39.322614Z",
+  "last_refreshed_at": "2026-08-30T17:49:39.322618Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "scivision",
+  "name": "scivision",
+  "tagline": "scivision: a framework for scientific image analysis",
+  "category": "scientific-research",
+  "tags": [
+    "computer-vision",
+    "data-science",
+    "hut23",
+    "hut23-1205",
+    "image-processing",
+    "machine-learning",
+    "scientific-research"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "alan-turing-institute",
+    "url": "https://github.com/alan-turing-institute"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alan-turing-institute/scivision",
+    "huggingface": null,
+    "homepage": "https://alan-turing-institute.github.io/scivision/"
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 109,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T04:29:45Z",
+    "first_commit_at": "2021-05-13T11:12:53Z",
+    "forks": 40,
+    "watchers": 9,
+    "open_issues": 70,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5669,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:21.761861Z",
+  "last_refreshed_at": "2026-08-30T17:44:21.761864Z",
+  "consecutive_refresh_failures": 0
+}

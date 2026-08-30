@@ -1,0 +1,62 @@
+{
+  "slug": "marm-memory",
+  "name": "marm-memory",
+  "tagline": "Local-first 3-in-1 AI memory layer & MCP server for Claude Code, Codex, Grok, Gemini, VS Code and Cursor. Fuses session history, codebase indexing & concept graphs in SQLite. Enables zero-cloud, priva",
+  "category": "knowledge-management",
+  "tags": [
+    "agent-memory",
+    "ai-agents",
+    "ai-memory",
+    "claude-code",
+    "codex-cli",
+    "developer-tools",
+    "embeddings",
+    "indexing-engine",
+    "knowledge-graph",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Lyellr88",
+    "url": "https://github.com/Lyellr88"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Lyellr88/marm-memory",
+    "huggingface": null,
+    "homepage": "https://lyellr88.github.io/marm-memory"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 339,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T09:56:17Z",
+    "first_commit_at": "2026-03-20T10:02:52Z",
+    "forks": 69,
+    "watchers": 8,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6404,
+  "rank_in_category": 52,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:48.534007Z",
+  "last_refreshed_at": "2026-08-30T17:54:48.534011Z",
+  "consecutive_refresh_failures": 0
+}

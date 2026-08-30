@@ -1,0 +1,56 @@
+{
+  "slug": "txagent",
+  "name": "TxAgent",
+  "tagline": "TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools",
+  "category": "reasoning-math",
+  "tags": [
+    "agents",
+    "precision-medicine",
+    "reasoning-agent",
+    "reasoning-language-models",
+    "therapeutics",
+    "tool-use"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mims-harvard",
+    "url": "https://github.com/mims-harvard"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mims-harvard/TxAgent",
+    "huggingface": null,
+    "homepage": "https://zitniklab.hms.harvard.edu/TxAgent"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 652,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-30T03:44:25Z",
+    "first_commit_at": "2025-03-13T23:11:06Z",
+    "forks": 104,
+    "watchers": 13,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2633,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:49:04.041705Z",
+  "last_refreshed_at": "2026-08-30T17:49:04.041709Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "forgecat-agent-profiles",
+  "name": "forgecat-agent-profiles",
+  "tagline": "Production-ready AI agent profiles for Claude Code, Cursor, Codex, OpenClaw, and Hermes. Search, install, and contribute ForgeCat packages.",
+  "category": "coding",
+  "tags": [
+    "agent-md-file",
+    "agent-profiles",
+    "agent-skills",
+    "agent-workflows",
+    "ai-agent",
+    "ai-agent-marketplace",
+    "ai-agents",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-skills"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nota-america",
+    "url": "https://github.com/nota-america"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nota-america/forgecat-agent-profiles",
+    "huggingface": null,
+    "homepage": "https://forgecat.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 58,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T05:32:34Z",
+    "first_commit_at": "2026-03-18T04:39:13Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3482,
+  "rank_in_category": 275,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:47:16.196698Z",
+  "last_refreshed_at": "2026-08-30T17:47:16.196702Z",
+  "consecutive_refresh_failures": 0
+}

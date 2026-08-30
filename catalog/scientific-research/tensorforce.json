@@ -1,0 +1,57 @@
+{
+  "slug": "tensorforce",
+  "name": "tensorforce",
+  "tagline": "Tensorforce: a TensorFlow library for applied reinforcement learning",
+  "category": "scientific-research",
+  "tags": [
+    "control",
+    "deep-reinforcement-learning",
+    "reinforcement-learning",
+    "system-control",
+    "tensorflow",
+    "tensorflow-library",
+    "tensorforce"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "tensorforce",
+    "url": "https://github.com/tensorforce"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tensorforce/tensorforce",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3305,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-14T05:34:38Z",
+    "first_commit_at": "2016-09-29T15:59:21Z",
+    "forks": 523,
+    "watchers": 136,
+    "open_issues": 44,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6227,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:47:37.106173Z",
+  "last_refreshed_at": "2026-08-30T17:47:37.106177Z",
+  "consecutive_refresh_failures": 0
+}

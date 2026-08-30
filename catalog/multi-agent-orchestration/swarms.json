@@ -1,0 +1,62 @@
+{
+  "slug": "swarms",
+  "name": "swarms",
+  "tagline": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-ai",
+    "agentic-workflow",
+    "agents",
+    "ai",
+    "artificial-intelligence",
+    "chatgpt",
+    "claude-code",
+    "gpt4all",
+    "huggingface",
+    "langchain"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kyegomez",
+    "url": "https://github.com/kyegomez"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kyegomez/swarms",
+    "huggingface": null,
+    "homepage": "https://docs.swarms.world/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7106,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-28T22:57:21Z",
+    "first_commit_at": "2023-07-06T01:14:46Z",
+    "forks": 1008,
+    "watchers": 67,
+    "open_issues": 169,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4962,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:53:11.381996Z",
+  "last_refreshed_at": "2026-08-30T17:53:11.382000Z",
+  "consecutive_refresh_failures": 0
+}

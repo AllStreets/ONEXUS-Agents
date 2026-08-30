@@ -1,0 +1,60 @@
+{
+  "slug": "notebooklm-py",
+  "name": "notebooklm-py",
+  "tagline": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents li",
+  "category": "knowledge-management",
+  "tags": [
+    "agentic-skill",
+    "claude-skills",
+    "gemini-notebook",
+    "gemini-notebook-api",
+    "gemini-notebook-skill",
+    "google-notebooklm",
+    "notebooklm",
+    "notebooklm-api",
+    "notebooklm-skill",
+    "openclaw-skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "teng-lin",
+    "url": "https://github.com/teng-lin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "teng-lin/notebooklm-py",
+    "huggingface": null,
+    "homepage": "https://github.com/teng-lin/notebooklm-py"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 19017,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:41:16Z",
+    "first_commit_at": "2026-01-05T06:09:04Z",
+    "forks": 2559,
+    "watchers": 86,
+    "open_issues": 32,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6936,
+  "rank_in_category": 26,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:45:11.726357Z",
+  "last_refreshed_at": "2026-08-30T17:45:11.726361Z",
+  "consecutive_refresh_failures": 0
+}

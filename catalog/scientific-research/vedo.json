@@ -1,0 +1,60 @@
+{
+  "slug": "vedo",
+  "name": "vedo",
+  "tagline": "A python module for scientific analysis of 3D data based on VTK and Numpy",
+  "category": "scientific-research",
+  "tags": [
+    "3d",
+    "3d-graphics",
+    "finite-elements",
+    "mesh",
+    "numpy",
+    "python",
+    "scientific-research",
+    "scientific-visualization",
+    "simulations",
+    "visualization"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "marcomusy",
+    "url": "https://github.com/marcomusy"
+  },
+  "source": {
+    "primary": "github",
+    "github": "marcomusy/vedo",
+    "huggingface": null,
+    "homepage": "https://vedo.embl.es/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2265,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-04T14:34:23Z",
+    "first_commit_at": "2017-11-10T15:17:48Z",
+    "forks": 277,
+    "watchers": 32,
+    "open_issues": 172,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6322,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:13.945867Z",
+  "last_refreshed_at": "2026-08-30T17:44:13.945871Z",
+  "consecutive_refresh_failures": 0
+}

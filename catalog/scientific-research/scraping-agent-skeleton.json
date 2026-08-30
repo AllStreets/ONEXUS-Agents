@@ -1,0 +1,57 @@
+{
+  "slug": "scraping-agent-skeleton",
+  "name": "scraping-agent-skeleton",
+  "tagline": "Research and scraping agent skeleton: tool loop, loadable skills, fallback chains. No data included, configured via .env.",
+  "category": "scientific-research",
+  "tags": [
+    "agent",
+    "agent-skills",
+    "llm",
+    "openai",
+    "python",
+    "research-agent",
+    "web-scraping"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sami-mag07",
+    "url": "https://github.com/sami-mag07"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sami-mag07/scraping-agent-skeleton",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 36,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-22T00:18:06Z",
+    "first_commit_at": "2026-08-10T13:21:45Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4191,
+  "rank_in_category": 224,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:01.018020Z",
+  "last_refreshed_at": "2026-08-30T17:44:01.018024Z",
+  "consecutive_refresh_failures": 0
+}

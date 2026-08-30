@@ -1,0 +1,51 @@
+{
+  "slug": "mathlib4",
+  "name": "mathlib4",
+  "tagline": "The math library of Lean 4",
+  "category": "reasoning-math",
+  "tags": [
+    "lean4"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "leanprover-community",
+    "url": "https://github.com/leanprover-community"
+  },
+  "source": {
+    "primary": "github",
+    "github": "leanprover-community/mathlib4",
+    "huggingface": null,
+    "homepage": "https://leanprover-community.github.io/mathlib4_docs"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3974,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T16:35:51Z",
+    "first_commit_at": "2021-05-09T07:51:43Z",
+    "forks": 1631,
+    "watchers": 41,
+    "open_issues": 3364,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4461,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:51:26.346950Z",
+  "last_refreshed_at": "2026-08-30T17:51:26.346954Z",
+  "consecutive_refresh_failures": 0
+}

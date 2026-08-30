@@ -1,0 +1,60 @@
+{
+  "slug": "bioinformatics-pipeline",
+  "name": "bioinformatics_pipeline",
+  "tagline": "Bioinformatics Pipeline",
+  "category": "bioinformatics",
+  "tags": [
+    "amplicon",
+    "data-analysis",
+    "geo-data",
+    "metagenomics",
+    "methylation",
+    "mirna-seq",
+    "pipeline",
+    "rna-seq",
+    "snakemake",
+    "tcga-data"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "HuaZou",
+    "url": "https://github.com/HuaZou"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HuaZou/bioinformatics_pipeline",
+    "huggingface": null,
+    "homepage": "https://zouhua.top/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2022-10-07T13:02:53Z",
+    "first_commit_at": "2019-10-31T00:59:45Z",
+    "forks": 8,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3042,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:43:36.226481Z",
+  "last_refreshed_at": "2026-08-30T17:43:36.226484Z",
+  "consecutive_refresh_failures": 0
+}

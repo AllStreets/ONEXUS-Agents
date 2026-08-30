@@ -1,0 +1,49 @@
+{
+  "slug": "flue",
+  "name": "flue",
+  "tagline": "The sandbox agent framework.",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "withastro",
+    "url": "https://github.com/withastro"
+  },
+  "source": {
+    "primary": "github",
+    "github": "withastro/flue",
+    "huggingface": null,
+    "homepage": "https://www.flueframework.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 8091,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-27T14:42:59Z",
+    "first_commit_at": "2026-02-25T18:45:00Z",
+    "forks": 478,
+    "watchers": 24,
+    "open_issues": 38,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4392,
+  "rank_in_category": 141,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:53:16.331871Z",
+  "last_refreshed_at": "2026-08-30T17:53:16.331875Z",
+  "consecutive_refresh_failures": 0
+}

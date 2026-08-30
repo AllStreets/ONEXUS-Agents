@@ -1,0 +1,55 @@
+{
+  "slug": "agent-kit",
+  "name": "agent-kit",
+  "tagline": "AgentKit: Build multi-agent networks in TypeScript with deterministic routing and rich tooling via MCP.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agent-framework",
+    "ai-agents",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "inngest",
+    "url": "https://github.com/inngest"
+  },
+  "source": {
+    "primary": "github",
+    "github": "inngest/agent-kit",
+    "huggingface": null,
+    "homepage": "https://agentkit.inngest.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 924,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-29T18:37:00Z",
+    "first_commit_at": "2024-11-18T06:00:10Z",
+    "forks": 142,
+    "watchers": 5,
+    "open_issues": 49,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3486,
+  "rank_in_category": 295,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:12.810489Z",
+  "last_refreshed_at": "2026-08-30T17:55:12.810492Z",
+  "consecutive_refresh_failures": 0
+}

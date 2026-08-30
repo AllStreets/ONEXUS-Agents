@@ -1,0 +1,49 @@
+{
+  "slug": "agentdns",
+  "name": "AgentDNS",
+  "tagline": "AgentDNS is the core component of Agent network that facilitates agent registration and discovery, enabling large language models (LLMs) to browse the internet freely, just like humans.",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "jsjfai",
+    "url": "https://github.com/jsjfai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jsjfai/AgentDNS",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 60,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-30T10:43:46Z",
+    "first_commit_at": "2025-10-28T06:32:30Z",
+    "forks": 4,
+    "watchers": 3,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3142,
+  "rank_in_category": 342,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:24.743215Z",
+  "last_refreshed_at": "2026-08-30T17:55:24.743218Z",
+  "consecutive_refresh_failures": 0
+}

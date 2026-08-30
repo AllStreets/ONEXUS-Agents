@@ -1,0 +1,60 @@
+{
+  "slug": "agent-framework",
+  "name": "agent-framework",
+  "tagline": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "dotnet",
+    "multi-agent",
+    "orchestration",
+    "python",
+    "sdk",
+    "workflows"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/agent-framework",
+    "huggingface": null,
+    "homepage": "https://aka.ms/agent-framework"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13222,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T08:45:09Z",
+    "first_commit_at": "2025-04-28T19:40:48Z",
+    "forks": 2240,
+    "watchers": 111,
+    "open_issues": 646,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4802,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:09.197376Z",
+  "last_refreshed_at": "2026-08-30T17:52:09.197380Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "medical-rag",
+  "name": "medical-rag",
+  "tagline": "医学中文RAG项目，使用langchain+milvus，支持快速一键式部署，支持无缝领域迁移",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "yolo-hyl",
+    "url": "https://github.com/yolo-hyl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yolo-hyl/medical-rag",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 298,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-15T07:45:17Z",
+    "first_commit_at": "2025-08-07T05:29:43Z",
+    "forks": 34,
+    "watchers": 11,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2419,
+  "rank_in_category": 87,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:58:15.056156Z",
+  "last_refreshed_at": "2026-08-30T17:58:15.056160Z",
+  "consecutive_refresh_failures": 0
+}

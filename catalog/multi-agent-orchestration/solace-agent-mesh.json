@@ -1,0 +1,62 @@
+{
+  "slug": "solace-agent-mesh",
+  "name": "solace-agent-mesh",
+  "tagline": "An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-s",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a",
+    "agentframework",
+    "agentic",
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "agenticai",
+    "agents",
+    "ai",
+    "ai-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SolaceLabs",
+    "url": "https://github.com/SolaceLabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SolaceLabs/solace-agent-mesh",
+    "huggingface": null,
+    "homepage": "https://solacelabs.github.io/solace-agent-mesh/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4951,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-28T17:34:33Z",
+    "first_commit_at": "2025-01-10T17:12:24Z",
+    "forks": 270,
+    "watchers": 23,
+    "open_issues": 80,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5227,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:36.343506Z",
+  "last_refreshed_at": "2026-08-30T17:54:36.343510Z",
+  "consecutive_refresh_failures": 0
+}

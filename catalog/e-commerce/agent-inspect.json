@@ -1,0 +1,63 @@
+{
+  "slug": "agent-inspect",
+  "name": "agent-inspect",
+  "tagline": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share safe offline evidence.",
+  "category": "e-commerce",
+  "tags": [
+    "ai-agents",
+    "ci",
+    "cli",
+    "debugging",
+    "devtools",
+    "evidence",
+    "jsonl",
+    "langchain",
+    "langgraph",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rajudandigam",
+    "url": "https://github.com/rajudandigam"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rajudandigam/agent-inspect",
+    "huggingface": null,
+    "homepage": "https://agentinspect.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 406,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-27T18:40:51Z",
+    "first_commit_at": "2026-05-02T06:10:47Z",
+    "forks": 94,
+    "watchers": 70,
+    "open_issues": 26,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6781,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T18:11:35.170948Z",
+  "last_refreshed_at": "2026-08-30T18:11:35.170951Z",
+  "consecutive_refresh_failures": 0
+}

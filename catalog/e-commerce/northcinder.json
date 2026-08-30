@@ -1,7 +1,7 @@
 {
   "slug": "northcinder",
   "name": "northcinder",
-  "tagline": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+  "tagline": "Open-source MCP server for comparing products and asking the buyer before purchase.",
   "category": "e-commerce",
   "tags": [
     "agentic-commerce",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1203,
+    "stars": 1219,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-19T06:08:22Z",
+    "last_commit_at": "2026-08-22T12:11:30Z",
     "first_commit_at": "2026-08-17T11:36:45Z",
-    "forks": 5,
+    "forks": 8,
     "watchers": 5,
-    "open_issues": 0,
+    "open_issues": 5,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.608,
-  "rank_in_category": 24,
+  "composite_score": 0.6461,
+  "rank_in_category": 25,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-21T14:39:31.797821Z",
-  "last_refreshed_at": "2026-08-21T14:39:31.797824Z",
-  "consecutive_refresh_failures": 8
+  "last_refreshed_at": "2026-08-30T18:10:39.852021Z",
+  "consecutive_refresh_failures": 0
 }

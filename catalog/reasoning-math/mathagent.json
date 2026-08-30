@@ -1,0 +1,58 @@
+{
+  "slug": "mathagent",
+  "name": "MathAgent",
+  "tagline": "它是一款面向数学建模的自动化Agent，基于Spring AI Alibaba Graph框架开发：从问题陈述出发自动构建并求解数学模型、进行数据验证与可视化，最终输出包含方法、结果、代码、数据与参考文献的可直接投稿的完整论文。",
+  "category": "reasoning-math",
+  "tags": [
+    "agent",
+    "data-analysis",
+    "deepresearch",
+    "mathematical-modelling",
+    "papers",
+    "springai",
+    "springai-alibaba",
+    "workflow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zxuexingzhijie",
+    "url": "https://github.com/zxuexingzhijie"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zxuexingzhijie/MathAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 39,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-21T07:55:20Z",
+    "first_commit_at": "2025-09-27T13:54:51Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.191,
+  "rank_in_category": 112,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:49:34.526287Z",
+  "last_refreshed_at": "2026-08-30T17:49:34.526290Z",
+  "consecutive_refresh_failures": 0
+}

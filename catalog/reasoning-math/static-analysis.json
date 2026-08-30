@@ -1,0 +1,59 @@
+{
+  "slug": "static-analysis",
+  "name": "static-analysis",
+  "tagline": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
+  "category": "reasoning-math",
+  "tags": [
+    "analysis",
+    "awesome-list",
+    "code-quality",
+    "hacktoberfest",
+    "linter",
+    "sast",
+    "static-analysis",
+    "static-analyzers",
+    "static-code-analysis"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "analysis-tools-dev",
+    "url": "https://github.com/analysis-tools-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "analysis-tools-dev/static-analysis",
+    "huggingface": null,
+    "homepage": "https://analysis-tools.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14754,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T15:28:30Z",
+    "first_commit_at": "2015-12-18T16:58:30Z",
+    "forks": 1508,
+    "watchers": 307,
+    "open_issues": 10,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.463,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:51:10.360941Z",
+  "last_refreshed_at": "2026-08-30T17:51:10.360945Z",
+  "consecutive_refresh_failures": 0
+}

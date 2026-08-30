@@ -1,0 +1,57 @@
+{
+  "slug": "metriport",
+  "name": "metriport",
+  "tagline": "Healthcare data infrastructure for next generation care delivery.",
+  "category": "healthcare",
+  "tags": [
+    "api",
+    "fhir",
+    "healthcare",
+    "hipaa",
+    "open-source",
+    "soc2",
+    "typescript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "metriport",
+    "url": "https://github.com/metriport"
+  },
+  "source": {
+    "primary": "github",
+    "github": "metriport/metriport",
+    "huggingface": null,
+    "homepage": "https://metriport.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 771,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-28T00:46:05Z",
+    "first_commit_at": "2022-12-21T05:10:12Z",
+    "forks": 107,
+    "watchers": 8,
+    "open_issues": 69,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5388,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:30.472517Z",
+  "last_refreshed_at": "2026-08-30T17:56:30.472521Z",
+  "consecutive_refresh_failures": 0
+}

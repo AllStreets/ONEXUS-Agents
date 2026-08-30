@@ -1,0 +1,49 @@
+{
+  "slug": "nimreadfq",
+  "name": "nimreadfq",
+  "tagline": "A wrapper to Heng Li's kseq/readfq, an efficient FastQ/Fasta parser",
+  "category": "bioinformatics",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "andreas-wilm",
+    "url": "https://github.com/andreas-wilm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "andreas-wilm/nimreadfq",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2023-06-28T09:46:33Z",
+    "first_commit_at": "2019-07-10T21:30:33Z",
+    "forks": 3,
+    "watchers": 2,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3113,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:43:48.453572Z",
+  "last_refreshed_at": "2026-08-30T17:43:48.453575Z",
+  "consecutive_refresh_failures": 0
+}

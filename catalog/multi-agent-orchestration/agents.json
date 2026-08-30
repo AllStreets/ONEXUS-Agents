@@ -1,0 +1,63 @@
+{
+  "slug": "agents",
+  "name": "agents",
+  "tagline": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-skills",
+    "agentic-ai",
+    "agents",
+    "ai-agents",
+    "anthropic",
+    "antigravity",
+    "claude",
+    "claude-code",
+    "claude-code-plugins",
+    "claude-skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wshobson",
+    "url": "https://github.com/wshobson"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wshobson/agents",
+    "huggingface": null,
+    "homepage": "https://sethhobson.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 39267,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-26T12:14:16Z",
+    "first_commit_at": "2025-07-24T23:29:24Z",
+    "forks": 4190,
+    "watchers": 311,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5548,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:05.921090Z",
+  "last_refreshed_at": "2026-08-30T17:52:05.921093Z",
+  "consecutive_refresh_failures": 0
+}

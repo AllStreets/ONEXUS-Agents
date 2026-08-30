@@ -1,0 +1,58 @@
+{
+  "slug": "flow-crew",
+  "name": "flow-crew",
+  "tagline": "Ship a brief, walk away. FlowCrew orchestrates a planner, parallel coders, and QA gates on top of Claude Code or Codex — with campaign memory that learns across",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "autonomous-agents",
+    "claude-code",
+    "codex",
+    "dynamic-workflow",
+    "multi-agent-orchestration",
+    "multiple-agent",
+    "workflow-orchestration"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "cuibuaa",
+    "url": "https://github.com/cuibuaa"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cuibuaa/flow-crew",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T17:48:22Z",
+    "first_commit_at": "2026-04-23T07:07:58Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2746,
+  "rank_in_category": 417,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:56.462618Z",
+  "last_refreshed_at": "2026-08-30T17:52:56.462622Z",
+  "consecutive_refresh_failures": 0
+}

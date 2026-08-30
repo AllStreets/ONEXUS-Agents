@@ -1,0 +1,58 @@
+{
+  "slug": "lean-nvim",
+  "name": "lean.nvim",
+  "tagline": "Neovim support for the Lean theorem prover",
+  "category": "reasoning-math",
+  "tags": [
+    "lean",
+    "lean4",
+    "leanprover",
+    "neovim",
+    "neovim-plugin",
+    "nvim",
+    "nvim-treesitter",
+    "tree-sitter"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Julian",
+    "url": "https://github.com/Julian"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Julian/lean.nvim",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 569,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-10T10:07:41Z",
+    "first_commit_at": "2020-12-30T19:54:23Z",
+    "forks": 60,
+    "watchers": 5,
+    "open_issues": 37,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3681,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:50:44.761471Z",
+  "last_refreshed_at": "2026-08-30T17:50:44.761474Z",
+  "consecutive_refresh_failures": 0
+}

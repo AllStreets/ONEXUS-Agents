@@ -1,0 +1,62 @@
+{
+  "slug": "awesome-claude-skills",
+  "name": "awesome-claude-skills",
+  "tagline": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "antigravity",
+    "automation",
+    "claude",
+    "claude-code",
+    "codex",
+    "composio",
+    "cursor",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ComposioHQ",
+    "url": "https://github.com/ComposioHQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ComposioHQ/awesome-claude-skills",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 74054,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-10T21:45:44Z",
+    "first_commit_at": "2025-10-17T09:09:35Z",
+    "forks": 8479,
+    "watchers": 459,
+    "open_issues": 1356,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5485,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:45:01.944427Z",
+  "last_refreshed_at": "2026-08-30T17:45:01.944431Z",
+  "consecutive_refresh_failures": 0
+}

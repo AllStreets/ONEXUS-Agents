@@ -1,0 +1,60 @@
+{
+  "slug": "golutra",
+  "name": "golutra",
+  "tagline": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orch",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "ai",
+    "automation",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "codex",
+    "codex-cli",
+    "desktop-app",
+    "developer"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "golutra",
+    "url": "https://github.com/golutra"
+  },
+  "source": {
+    "primary": "github",
+    "github": "golutra/golutra",
+    "huggingface": null,
+    "homepage": "https://www.golutra.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 3830,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-06T09:55:18Z",
+    "first_commit_at": "2026-02-25T18:45:58Z",
+    "forks": 440,
+    "watchers": 9,
+    "open_issues": 57,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4017,
+  "rank_in_category": 204,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:40.970481Z",
+  "last_refreshed_at": "2026-08-30T17:55:40.970485Z",
+  "consecutive_refresh_failures": 0
+}

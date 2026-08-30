@@ -1,0 +1,60 @@
+{
+  "slug": "dsh-agent-bus",
+  "name": "dsh-agent-bus",
+  "tagline": "Multi-agent orchestration for DeepSeek Harness: turn isolated sessions into a team that assigns work, reviews output, and runs DAG workflows — durable task ledger, real reviewers, crash-safe recovery.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a",
+    "agent",
+    "agent-bus",
+    "ai-agents",
+    "dag",
+    "deepseek-harness",
+    "dsh-plugin",
+    "multi-agent",
+    "multi-agent-orchestration",
+    "orchestration"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MistyBridge",
+    "url": "https://github.com/MistyBridge"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MistyBridge/dsh-agent-bus",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-28T20:51:19Z",
+    "first_commit_at": "2026-08-18T05:32:53Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2636,
+  "rank_in_category": 443,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:57.171643Z",
+  "last_refreshed_at": "2026-08-30T17:52:57.171647Z",
+  "consecutive_refresh_failures": 0
+}

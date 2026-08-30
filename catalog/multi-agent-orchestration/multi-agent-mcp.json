@@ -1,0 +1,63 @@
+{
+  "slug": "multi-agent-mcp",
+  "name": "Multi-Agent-Mcp",
+  "tagline": "A Model-Agnostic, Git-Sandboxed Multi-Agent Nexus MCP Server.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agent",
+    "ai-coding",
+    "coding-assistant",
+    "langgraph",
+    "litellm",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "multi-agent-orchestration",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "R-Mabasha",
+    "url": "https://github.com/R-Mabasha"
+  },
+  "source": {
+    "primary": "github",
+    "github": "R-Mabasha/Multi-Agent-Mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-14T15:23:43Z",
+    "first_commit_at": "2026-02-20T05:29:04Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.248,
+  "rank_in_category": 476,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:53:02.819330Z",
+  "last_refreshed_at": "2026-08-30T17:53:02.819334Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "open-scholar-peer",
+  "name": "open-scholar-peer",
+  "tagline": "Open ScholarPeer is a Community Implementation of \"ScholarPeer: A Context-Aware Multi-Agent Framework for Automated Peer Review\" by Google DeepMind",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "academic-paper-review",
+    "ai-agents",
+    "ai-peer-review",
+    "peer-review",
+    "research-paper",
+    "research-tool"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "amirkiarafiei",
+    "url": "https://github.com/amirkiarafiei"
+  },
+  "source": {
+    "primary": "github",
+    "github": "amirkiarafiei/open-scholar-peer",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2601.22638"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 23,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-07T07:18:48Z",
+    "first_commit_at": "2026-04-23T11:17:25Z",
+    "forks": 6,
+    "watchers": 2,
+    "open_issues": 21,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.298,
+  "rank_in_category": 374,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:45:41.935673Z",
+  "last_refreshed_at": "2026-08-30T17:45:41.935678Z",
+  "consecutive_refresh_failures": 0
+}

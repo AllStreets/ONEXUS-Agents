@@ -1,0 +1,60 @@
+{
+  "slug": "openfang",
+  "name": "openfang",
+  "tagline": "Open-source Agent Operating System",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "ai-agents",
+    "llm",
+    "mcp",
+    "open-source",
+    "openclaw",
+    "operating-system",
+    "rust"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "RightNow-AI",
+    "url": "https://github.com/RightNow-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RightNow-AI/openfang",
+    "huggingface": null,
+    "homepage": "https://www.openfang.sh/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 18147,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-02T08:13:12Z",
+    "first_commit_at": "2026-02-25T22:00:27Z",
+    "forks": 2288,
+    "watchers": 126,
+    "open_issues": 114,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4816,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:17.822411Z",
+  "last_refreshed_at": "2026-08-30T17:52:17.822415Z",
+  "consecutive_refresh_failures": 0
+}

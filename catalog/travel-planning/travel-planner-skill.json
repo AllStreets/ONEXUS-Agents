@@ -1,0 +1,59 @@
+{
+  "slug": "travel-planner-skill",
+  "name": "travel-planner-skill",
+  "tagline": "面向中国大陆行程的 AI Agent Skill：整合官方、高德、小红书、美团和国内 OTA，生成可校验的对话攻略与响应式 HTML，支持 npx 安装和引导式线上部署。",
+  "category": "travel-planning",
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "amap",
+    "claude-code",
+    "codex",
+    "cursor",
+    "travel-planner",
+    "trip-planner",
+    "xiaohongshu"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SquirrelSong5",
+    "url": "https://github.com/SquirrelSong5"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SquirrelSong5/travel-planner-skill",
+    "huggingface": null,
+    "homepage": "https://squirrelsong5.github.io/travel-plans/chengdu-2026-09-18.html"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T15:18:04Z",
+    "first_commit_at": "2026-06-17T10:00:50Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4369,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:59:44.319809Z",
+  "last_refreshed_at": "2026-08-30T17:59:44.319813Z",
+  "consecutive_refresh_failures": 0
+}

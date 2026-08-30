@@ -1,0 +1,60 @@
+{
+  "slug": "openapi-to-cli",
+  "name": "openapi-to-cli",
+  "tagline": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.",
+  "category": "coding",
+  "tags": [
+    "api-proxy",
+    "cli",
+    "nodejs",
+    "openapi",
+    "openclaw",
+    "openclaw-skill",
+    "rest-api",
+    "skills",
+    "swagger",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "EvilFreelancer",
+    "url": "https://github.com/EvilFreelancer"
+  },
+  "source": {
+    "primary": "github",
+    "github": "EvilFreelancer/openapi-to-cli",
+    "huggingface": null,
+    "homepage": "https://www.npmjs.com/package/openapi-to-cli"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 256,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T08:05:04Z",
+    "first_commit_at": "2026-03-12T16:37:27Z",
+    "forks": 14,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2877,
+  "rank_in_category": 426,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:47:46.435536Z",
+  "last_refreshed_at": "2026-08-30T17:47:46.435542Z",
+  "consecutive_refresh_failures": 0
+}

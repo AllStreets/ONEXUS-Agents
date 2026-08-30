@@ -1,0 +1,60 @@
+{
+  "slug": "pspm",
+  "name": "PsPM",
+  "tagline": "Precision psychophysiology made easy",
+  "category": "scientific-research",
+  "tags": [
+    "analysis",
+    "bioinformatics",
+    "ecg",
+    "eeg",
+    "inference",
+    "linear-models",
+    "matlab",
+    "matlab-gui",
+    "matlab-toolbox",
+    "medical-informatics"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "bachlab",
+    "url": "https://github.com/bachlab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bachlab/PsPM",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 52,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-27T13:43:22Z",
+    "first_commit_at": "2015-02-06T10:13:23Z",
+    "forks": 14,
+    "watchers": 6,
+    "open_issues": 18,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5351,
+  "rank_in_category": 108,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:26.687894Z",
+  "last_refreshed_at": "2026-08-30T17:44:26.687898Z",
+  "consecutive_refresh_failures": 0
+}

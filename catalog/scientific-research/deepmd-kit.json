@@ -1,0 +1,60 @@
+{
+  "slug": "deepmd-kit",
+  "name": "deepmd-kit",
+  "tagline": "A deep learning package for many-body potential energy representation and molecular dynamics",
+  "category": "scientific-research",
+  "tags": [
+    "ase",
+    "c",
+    "computational-chemistry",
+    "cpp",
+    "cuda",
+    "deep-learning",
+    "deepmd",
+    "ipi",
+    "jax",
+    "lammps"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "deepmodeling",
+    "url": "https://github.com/deepmodeling"
+  },
+  "source": {
+    "primary": "github",
+    "github": "deepmodeling/deepmd-kit",
+    "huggingface": null,
+    "homepage": "https://docs.deepmodeling.com/projects/deepmd/"
+  },
+  "license": "LGPL-3.0",
+  "metrics": {
+    "stars": 2025,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-28T22:17:43Z",
+    "first_commit_at": "2017-12-12T15:22:29Z",
+    "forks": 647,
+    "watchers": 46,
+    "open_issues": 213,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6723,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:45:21.394801Z",
+  "last_refreshed_at": "2026-08-30T17:45:21.394805Z",
+  "consecutive_refresh_failures": 0
+}

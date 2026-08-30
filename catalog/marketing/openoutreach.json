@@ -1,7 +1,7 @@
 {
   "slug": "openoutreach",
   "name": "OpenOutreach",
-  "tagline": "Open-source AI lead finder: describe your product, it finds the people who fit and tells you why each one does.",
+  "tagline": "Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit and explains why each one does, then exports a CSV your cold-email tool can send. Self-hosted CLI.",
   "category": "marketing",
   "tags": [
     "agent",
@@ -26,15 +26,15 @@
     "huggingface": null,
     "homepage": "https://openoutreach.app/"
   },
-  "license": "NOASSERTION",
+  "license": "GPL-3.0",
   "metrics": {
-    "stars": 2786,
+    "stars": 2852,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-21T12:54:37Z",
+    "last_commit_at": "2026-08-29T16:45:27Z",
     "first_commit_at": "2016-10-07T18:09:43Z",
-    "forks": 529,
+    "forks": 536,
     "watchers": 44,
-    "open_issues": 137,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6913,
-  "rank_in_category": 8,
+  "composite_score": 0.6792,
+  "rank_in_category": 14,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-21T14:32:52.694075Z",
-  "last_refreshed_at": "2026-08-21T14:32:52.694079Z",
-  "consecutive_refresh_failures": 8
+  "last_refreshed_at": "2026-08-30T18:04:35.145246Z",
+  "consecutive_refresh_failures": 0
 }

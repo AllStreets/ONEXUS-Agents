@@ -1,0 +1,60 @@
+{
+  "slug": "clinical-agent",
+  "name": "clinical-agent",
+  "tagline": "This project is designed for a simple LLM agent with tools on a clinical knowledge graph in Neo4j.",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "chatgpt",
+    "graph",
+    "graphrag",
+    "langchain",
+    "llm",
+    "neo4j",
+    "openai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tomasonjo",
+    "url": "https://github.com/tomasonjo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tomasonjo/clinical-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 26,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-27T07:48:31Z",
+    "first_commit_at": "2024-06-06T17:55:42Z",
+    "forks": 8,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2148,
+  "rank_in_category": 94,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:58:27.116035Z",
+  "last_refreshed_at": "2026-08-30T17:58:27.116039Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "higher-education-agents",
+  "name": "higher-education-agents",
+  "tagline": "Drop-in OpenClaw/NemoClaw agent configuration for the ibl.ai Higher Education segment — Campus Assistant orchestrator plus 16 specialist subagents.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "academic-advising",
+    "agentic-ai",
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "conversational-ai",
+    "edtech",
+    "higher-education",
+    "ibl-ai",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "iblai",
+    "url": "https://github.com/iblai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "iblai/higher-education-agents",
+    "huggingface": null,
+    "homepage": "https://ibl.ai/solutions/higher-education"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-08T14:20:53Z",
+    "first_commit_at": "2026-06-08T14:17:52Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2334,
+  "rank_in_category": 503,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:47:02.733739Z",
+  "last_refreshed_at": "2026-08-30T17:47:02.733743Z",
+  "consecutive_refresh_failures": 0
+}

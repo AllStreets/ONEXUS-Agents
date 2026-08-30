@@ -1,0 +1,63 @@
+{
+  "slug": "claude-code-analysis",
+  "name": "claude-code-analysis",
+  "tagline": "We read all 512K lines of Claude Code's accidentally exposed source. 82 docs, 15 diagrams, every subsystem mapped — from the hidden YOLO safety classifier to multi-agent swarms.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "anthropic",
+    "architecture-analysis",
+    "claude-code",
+    "cli-tools",
+    "llm-internals",
+    "mcp",
+    "react-ink",
+    "reverse-engineering"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "thtskaran",
+    "url": "https://github.com/thtskaran"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thtskaran/claude-code-analysis",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 126,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-02T10:03:22Z",
+    "first_commit_at": "2026-04-01T15:14:59Z",
+    "forks": 16,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3121,
+  "rank_in_category": 346,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:55.506162Z",
+  "last_refreshed_at": "2026-08-30T17:54:55.506165Z",
+  "consecutive_refresh_failures": 0
+}

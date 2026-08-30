@@ -1,0 +1,60 @@
+{
+  "slug": "open-science",
+  "name": "open-science",
+  "tagline": "Open Science is an open-source, local-first, model-agnostic AI research workbench for reproducible scientific research on macOS, Windows, and Linux.",
+  "category": "scientific-research",
+  "tags": [
+    "ai-for-science",
+    "ai-research",
+    "ai-research-tool",
+    "linux",
+    "local-first",
+    "macos",
+    "model-agnostic",
+    "open-science",
+    "reproducible-research",
+    "research-software"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aipoch",
+    "url": "https://github.com/aipoch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aipoch/open-science",
+    "huggingface": null,
+    "homepage": "https://aipoch.com/open-science"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3378,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:41:06Z",
+    "first_commit_at": "2026-07-03T02:35:10Z",
+    "forks": 208,
+    "watchers": 94,
+    "open_issues": 48,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6288,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:13.226333Z",
+  "last_refreshed_at": "2026-08-30T17:44:13.226337Z",
+  "consecutive_refresh_failures": 0
+}

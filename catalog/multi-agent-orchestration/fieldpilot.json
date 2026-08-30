@@ -1,0 +1,60 @@
+{
+  "slug": "fieldpilot",
+  "name": "fieldpilot",
+  "tagline": "Policy-aware field mission orchestration agent with bounded planning, auditable replanning, travel and expense constraints.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "amap",
+    "fastapi",
+    "field-service",
+    "llm",
+    "mission-planning",
+    "policy-engine",
+    "pydantic-ai",
+    "python",
+    "travel-operations"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "KXHXK",
+    "url": "https://github.com/KXHXK"
+  },
+  "source": {
+    "primary": "github",
+    "github": "KXHXK/fieldpilot",
+    "huggingface": null,
+    "homepage": "https://fieldpilot-kxh.netlify.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-11T18:51:50Z",
+    "first_commit_at": "2026-07-30T04:50:08Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2664,
+  "rank_in_category": 435,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:20.730682Z",
+  "last_refreshed_at": "2026-08-30T17:54:20.730686Z",
+  "consecutive_refresh_failures": 0
+}

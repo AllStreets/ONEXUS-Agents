@@ -1,7 +1,7 @@
 {
   "slug": "airbnb-scraper",
   "name": "airbnb-scraper",
-  "tagline": "Scrape Airbnb listings, prices, host profiles, and ratings for any destination worldwide via a simple REST API. 5,000 free requests/month.",
+  "tagline": "Airbnb Scraper — scrape Airbnb listings, live nightly prices, availability, host profiles, amenities & reviews into JSON. Search any location across 67 country sites. Try free in the playground.",
   "category": "travel-planning",
   "tags": [
     "airbnb",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 4,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-30T10:10:34Z",
+    "last_commit_at": "2026-08-22T12:42:34Z",
     "first_commit_at": "2026-02-23T12:41:49Z",
     "forks": 0,
     "watchers": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3137,
-  "rank_in_category": 77,
+  "composite_score": 0.4228,
+  "rank_in_category": 48,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-21T14:27:24.445841Z",
-  "last_refreshed_at": "2026-08-21T14:27:24.445844Z",
-  "consecutive_refresh_failures": 8
+  "last_refreshed_at": "2026-08-30T18:00:00.018003Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,54 @@
+{
+  "slug": "deepmath",
+  "name": "DeepMath",
+  "tagline": "Simple framework for training and evaluating math reasoning agents using local models, GRPO and vLLM.",
+  "category": "reasoning-math",
+  "tags": [
+    "grpo",
+    "llm",
+    "math",
+    "reasoning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "IntelLabs",
+    "url": "https://github.com/IntelLabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "IntelLabs/DeepMath",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 47,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T17:38:02Z",
+    "first_commit_at": "2025-11-11T20:10:00Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2825,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:49:27.398473Z",
+  "last_refreshed_at": "2026-08-30T17:49:27.398476Z",
+  "consecutive_refresh_failures": 0
+}

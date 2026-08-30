@@ -1,0 +1,62 @@
+{
+  "slug": "rag-pdf-chat-multi-agent-pipeline-python-react-fullstack",
+  "name": "RAG-PDF-Chat-Multi-Agent-Pipeline--Python-React-FullStack",
+  "tagline": "A full-stack RAG demo you can run locally or deploy to a VPS: upload a PDF, build a per-browser vector index (FAISS), chat with an LLM using retrieved context. The UI is a React + TypeScript SPA; the ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "chunking",
+    "document-intelligence",
+    "embedding",
+    "faiss",
+    "fastapi",
+    "httpx",
+    "langchain",
+    "lru-cache",
+    "multi-agent-orchestration",
+    "multi-ai-agents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "arnobt78",
+    "url": "https://github.com/arnobt78"
+  },
+  "source": {
+    "primary": "github",
+    "github": "arnobt78/RAG-PDF-Chat-Multi-Agent-Pipeline--Python-React-FullStack",
+    "huggingface": null,
+    "homepage": "https://pdf-chat-scrapper.vercel.app/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-08T21:27:40Z",
+    "first_commit_at": "2026-04-13T13:12:39Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2041,
+  "rank_in_category": 536,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:53:00.638936Z",
+  "last_refreshed_at": "2026-08-30T17:53:00.638940Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "fhir",
+  "name": "fhir",
+  "tagline": "FHIR Protocol Buffers",
+  "category": "healthcare",
+  "tags": [
+    "fhir",
+    "healthcare",
+    "hl7"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "google",
+    "url": "https://github.com/google"
+  },
+  "source": {
+    "primary": "github",
+    "github": "google/fhir",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 951,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-27T04:51:54Z",
+    "first_commit_at": "2018-01-25T01:28:25Z",
+    "forks": 206,
+    "watchers": 56,
+    "open_issues": 35,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5586,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:28.411597Z",
+  "last_refreshed_at": "2026-08-30T17:56:28.411601Z",
+  "consecutive_refresh_failures": 0
+}
