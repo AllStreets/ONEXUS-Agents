@@ -1,0 +1,49 @@
+{
+  "slug": "seahorse-agent",
+  "name": "seahorse-agent",
+  "tagline": "Seahorse Agent 是一个面向企业知识、长期记忆和可治理智能体的工程化平台。它不是单一聊天 Demo，而是一套用于构建企业级 AI 应用的参考实现：把 RAG、用户记忆、用户画像、Agent/Skill/Tool、租户治理、审计和可观测性放在同一条可部署、可验证、可扩展的系统链路里。",
+  "category": "knowledge-management",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "onceMisery",
+    "url": "https://github.com/onceMisery"
+  },
+  "source": {
+    "primary": "github",
+    "github": "onceMisery/seahorse-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-08T12:33:55Z",
+    "first_commit_at": "2026-05-11T13:57:15Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4143,
+  "rank_in_category": 170,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T18:04:14.425984Z",
+  "last_refreshed_at": "2026-08-30T18:04:14.425988Z",
+  "consecutive_refresh_failures": 0
+}

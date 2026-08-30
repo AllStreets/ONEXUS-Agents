@@ -1,0 +1,56 @@
+{
+  "slug": "lagent",
+  "name": "lagent",
+  "tagline": "A lightweight framework for building LLM-based agents",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "gpt",
+    "llm",
+    "transformers"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "InternLM",
+    "url": "https://github.com/InternLM"
+  },
+  "source": {
+    "primary": "github",
+    "github": "InternLM/lagent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2278,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-03T07:18:16Z",
+    "first_commit_at": "2023-08-20T12:45:45Z",
+    "forks": 242,
+    "watchers": 19,
+    "open_issues": 27,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4475,
+  "rank_in_category": 125,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:50:20.227934Z",
+  "last_refreshed_at": "2026-08-30T17:50:20.227938Z",
+  "consecutive_refresh_failures": 0
+}

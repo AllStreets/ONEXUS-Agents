@@ -1,0 +1,55 @@
+{
+  "slug": "ai-shifu",
+  "name": "ai-shifu",
+  "tagline": "Get AI to teach and answer questions for you - just by typing!",
+  "category": "education-tutoring",
+  "tags": [
+    "agent",
+    "ai",
+    "education",
+    "llm",
+    "teaching-assistant"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ai-shifu",
+    "url": "https://github.com/ai-shifu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ai-shifu/ai-shifu",
+    "huggingface": null,
+    "homepage": "https://ai-shifu.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 314,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:42:54Z",
+    "first_commit_at": "2024-03-23T06:23:20Z",
+    "forks": 120,
+    "watchers": 13,
+    "open_issues": 31,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5511,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:47:43.910901Z",
+  "last_refreshed_at": "2026-08-30T17:47:43.910905Z",
+  "consecutive_refresh_failures": 0
+}

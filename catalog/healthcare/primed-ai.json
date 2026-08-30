@@ -1,0 +1,57 @@
+{
+  "slug": "primed-ai",
+  "name": "PRIMED-AI",
+  "tagline": "A framework for per-modality failure analysis and missing-data evaluation in multimodal clinical AI.",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "failure-analysis",
+    "healthcare-ai",
+    "interpretability",
+    "medical-imaging",
+    "model-robustness",
+    "multimodal-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "criticaldata",
+    "url": "https://github.com/criticaldata"
+  },
+  "source": {
+    "primary": "github",
+    "github": "criticaldata/PRIMED-AI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T14:05:09Z",
+    "first_commit_at": "2026-06-17T04:28:17Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3763,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:02.086628Z",
+  "last_refreshed_at": "2026-08-30T17:56:02.086632Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "ragen",
+  "name": "RAGEN",
+  "tagline": "Agent RL framework for LLM agents: multi-turn reinforcement learning with StarPO and reasoning-collapse diagnostics",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-rl",
+    "agentic-ai",
+    "llm-agents",
+    "multi-turn-rl",
+    "reinforcement-learning",
+    "rl-framework"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mll-lab-nu",
+    "url": "https://github.com/mll-lab-nu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mll-lab-nu/RAGEN",
+    "huggingface": null,
+    "homepage": "https://ragen-ai.github.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2781,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-23T22:59:46Z",
+    "first_commit_at": "2025-01-25T21:30:45Z",
+    "forks": 228,
+    "watchers": 22,
+    "open_issues": 29,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4429,
+  "rank_in_category": 133,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:50:02.512768Z",
+  "last_refreshed_at": "2026-08-30T17:50:02.512772Z",
+  "consecutive_refresh_failures": 0
+}

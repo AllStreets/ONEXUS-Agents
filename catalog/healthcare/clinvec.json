@@ -1,0 +1,57 @@
+{
+  "slug": "clinvec",
+  "name": "ClinVec",
+  "tagline": "ClinVec: Unified Embeddings of Clinical Codes Enable Knowledge-Grounded AI in Medicine",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "embeddings",
+    "graph-transformer",
+    "medical-ai",
+    "multimodality",
+    "precision-medicine",
+    "representation-learning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mims-harvard",
+    "url": "https://github.com/mims-harvard"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mims-harvard/ClinVec",
+    "huggingface": null,
+    "homepage": "https://github.com/mims-harvard/ClinVec"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 97,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-25T18:22:12Z",
+    "first_commit_at": "2024-08-30T20:03:20Z",
+    "forks": 15,
+    "watchers": 5,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4103,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:54.546274Z",
+  "last_refreshed_at": "2026-08-30T17:55:54.546278Z",
+  "consecutive_refresh_failures": 0
+}

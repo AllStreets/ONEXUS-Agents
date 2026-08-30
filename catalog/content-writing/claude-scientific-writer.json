@@ -1,0 +1,58 @@
+{
+  "slug": "claude-scientific-writer",
+  "name": "claude-scientific-writer",
+  "tagline": "A general purpose scientific writer",
+  "category": "content-writing",
+  "tags": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "skills",
+    "tools",
+    "writer"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "K-Dense-AI/claude-scientific-writer",
+    "huggingface": null,
+    "homepage": "https://k-dense.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2275,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-19T09:24:21Z",
+    "first_commit_at": "2025-10-27T06:52:21Z",
+    "forks": 265,
+    "watchers": 20,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6345,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:45:20.248451Z",
+  "last_refreshed_at": "2026-08-30T17:45:20.248455Z",
+  "consecutive_refresh_failures": 0
+}

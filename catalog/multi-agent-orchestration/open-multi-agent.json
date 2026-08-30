@@ -1,0 +1,63 @@
+{
+  "slug": "open-multi-agent",
+  "name": "open-multi-agent",
+  "tagline": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepS",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "agent-orchestration",
+    "agentic-ai",
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "crewai-alternative",
+    "deepseek",
+    "dynamic-workflows"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "open-multi-agent",
+    "url": "https://github.com/open-multi-agent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "open-multi-agent/open-multi-agent",
+    "huggingface": null,
+    "homepage": "https://open-multi-agent.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6844,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T01:51:23Z",
+    "first_commit_at": "2026-03-31T20:33:15Z",
+    "forks": 2433,
+    "watchers": 60,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5123,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:13.708561Z",
+  "last_refreshed_at": "2026-08-30T17:52:13.708565Z",
+  "consecutive_refresh_failures": 0
+}

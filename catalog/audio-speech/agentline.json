@@ -1,0 +1,62 @@
+{
+  "slug": "agentline",
+  "name": "AgentLine",
+  "tagline": "Open-source AI phone API for voice agents. Give Claude, Cursor, OpenClaw, or any LLM a real phone number — outbound/inbound calls, SMS, transcripts, MCP, DTMF/IVR. FastAPI + SignalWire + Deepgram. Sel",
+  "category": "audio-speech",
+  "tags": [
+    "ai-agent",
+    "ai-agents",
+    "claude-code",
+    "conversational-ai",
+    "cursor",
+    "deepgram",
+    "fastapi",
+    "ivr",
+    "mcp",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AgentLineHQ",
+    "url": "https://github.com/AgentLineHQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AgentLineHQ/AgentLine",
+    "huggingface": null,
+    "homepage": "https://agentline.cloud/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 40,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-28T06:01:16Z",
+    "first_commit_at": "2026-06-21T19:38:31Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4966,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T18:04:03.501582Z",
+  "last_refreshed_at": "2026-08-30T18:04:03.501585Z",
+  "consecutive_refresh_failures": 0
+}

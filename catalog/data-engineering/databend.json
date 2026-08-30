@@ -1,0 +1,60 @@
+{
+  "slug": "databend",
+  "name": "databend",
+  "tagline": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.",
+  "category": "data-engineering",
+  "tags": [
+    "ai",
+    "bigdata",
+    "cloud-native",
+    "database",
+    "elasticsearch",
+    "geospatial",
+    "lakehouse",
+    "olap",
+    "rust",
+    "serverless"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "databendlabs",
+    "url": "https://github.com/databendlabs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "databendlabs/databend",
+    "huggingface": null,
+    "homepage": "https://docs.databend.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 9426,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:17:07Z",
+    "first_commit_at": "2020-10-10T10:32:41Z",
+    "forks": 895,
+    "watchers": 92,
+    "open_issues": 565,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7232,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:29.047437Z",
+  "last_refreshed_at": "2026-08-30T17:54:29.047441Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "deepagent",
+  "name": "DeepAgent",
+  "tagline": "[WWW‘26 Oral🔥] DeepAgent: A General Reasoning Agent with Scalable Toolsets",
+  "category": "reasoning-math",
+  "tags": [
+    "agent",
+    "deep-agents",
+    "reasoning"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "RUC-NLPIR",
+    "url": "https://github.com/RUC-NLPIR"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RUC-NLPIR/DeepAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1135,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-13T07:24:32Z",
+    "first_commit_at": "2025-09-29T14:26:58Z",
+    "forks": 141,
+    "watchers": 14,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2977,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:49:23.753530Z",
+  "last_refreshed_at": "2026-08-30T17:49:23.753533Z",
+  "consecutive_refresh_failures": 0
+}

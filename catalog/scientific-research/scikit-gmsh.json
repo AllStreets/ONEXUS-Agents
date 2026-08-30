@@ -1,0 +1,60 @@
+{
+  "slug": "scikit-gmsh",
+  "name": "scikit-gmsh",
+  "tagline": "Scikit for Gmsh to generate 3D finite element mesh",
+  "category": "scientific-research",
+  "tags": [
+    "3d",
+    "engineering",
+    "fem",
+    "finite-element-analysis",
+    "gmsh",
+    "hacktoberfest",
+    "mathematics",
+    "mesh-generation",
+    "mesh-processing",
+    "meshing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pyvista",
+    "url": "https://github.com/pyvista"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pyvista/scikit-gmsh",
+    "huggingface": null,
+    "homepage": "https://scikit-gmsh.readthedocs.io/en/latest"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 80,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T02:27:10Z",
+    "first_commit_at": "2022-07-25T08:31:24Z",
+    "forks": 6,
+    "watchers": 4,
+    "open_issues": 47,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5398,
+  "rank_in_category": 101,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:23.176018Z",
+  "last_refreshed_at": "2026-08-30T17:44:23.176022Z",
+  "consecutive_refresh_failures": 0
+}

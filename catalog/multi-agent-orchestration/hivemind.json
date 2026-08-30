@@ -1,0 +1,60 @@
+{
+  "slug": "hivemind",
+  "name": "hivemind",
+  "tagline": "One prompt. A full AI engineering team. Go lie on the couch. 🧠",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "ai-coding",
+    "ai-engineering-team",
+    "claude-code",
+    "code-review",
+    "dag",
+    "dag-execution",
+    "dashboard",
+    "developer-tools",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "cohen-liel",
+    "url": "https://github.com/cohen-liel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cohen-liel/hivemind",
+    "huggingface": null,
+    "homepage": "https://cohen-liel.github.io/hivemind/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 108,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-18T22:33:46Z",
+    "first_commit_at": "2026-03-17T16:33:42Z",
+    "forks": 16,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2666,
+  "rank_in_category": 434,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:45.813523Z",
+  "last_refreshed_at": "2026-08-30T17:52:45.813527Z",
+  "consecutive_refresh_failures": 0
+}

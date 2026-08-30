@@ -1,0 +1,49 @@
+{
+  "slug": "fractals",
+  "name": "fractals",
+  "tagline": "Fractals is a recursive task orchestrator for agent swarm",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "TinyAGI",
+    "url": "https://github.com/TinyAGI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TinyAGI/fractals",
+    "huggingface": null,
+    "homepage": "https://tinyagicompany.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 643,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-06T10:48:28Z",
+    "first_commit_at": "2026-03-05T17:25:00Z",
+    "forks": 48,
+    "watchers": 2,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2865,
+  "rank_in_category": 393,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:44.851526Z",
+  "last_refreshed_at": "2026-08-30T17:54:44.851530Z",
+  "consecutive_refresh_failures": 0
+}

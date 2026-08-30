@@ -1,0 +1,57 @@
+{
+  "slug": "a2a-samples",
+  "name": "a2a-samples",
+  "tagline": "Samples using the Agent2Agent (A2A) Protocol",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a",
+    "a2a-client",
+    "a2a-mcp",
+    "a2a-protocol",
+    "a2a-server",
+    "agents",
+    "generative-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "a2aproject",
+    "url": "https://github.com/a2aproject"
+  },
+  "source": {
+    "primary": "github",
+    "github": "a2aproject/a2a-samples",
+    "huggingface": null,
+    "homepage": "https://a2a-protocol.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1750,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-17T21:38:17Z",
+    "first_commit_at": "2025-04-09T02:47:43Z",
+    "forks": 745,
+    "watchers": 18,
+    "open_issues": 306,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4341,
+  "rank_in_category": 148,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:48.344033Z",
+  "last_refreshed_at": "2026-08-30T17:55:48.344037Z",
+  "consecutive_refresh_failures": 0
+}

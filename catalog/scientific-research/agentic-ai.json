@@ -1,0 +1,62 @@
+{
+  "slug": "agentic-ai",
+  "name": "agentic-ai",
+  "tagline": "Agentic AI research papers, benchmarks, frameworks, and tools curated across 24 domains.",
+  "category": "scientific-research",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "ai-benchmarks",
+    "ai-evaluation",
+    "ai-research",
+    "ai-safety",
+    "ai-security",
+    "automation",
+    "autonomous-agents",
+    "awesome-list"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mahmoudrabie",
+    "url": "https://github.com/mahmoudrabie"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mahmoudrabie/agentic-ai",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 159,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-20T20:09:33Z",
+    "first_commit_at": "2025-03-21T08:23:49Z",
+    "forks": 6,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5615,
+  "rank_in_category": 79,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:58:23.156450Z",
+  "last_refreshed_at": "2026-08-30T17:58:23.156454Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "nexent",
+  "name": "nexent",
+  "tagline": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedbac",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-rag",
+    "agentic-workflow",
+    "ai",
+    "harness",
+    "harness-engineering",
+    "llm",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ModelEngine-Group",
+    "url": "https://github.com/ModelEngine-Group"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ModelEngine-Group/nexent",
+    "huggingface": null,
+    "homepage": "http://modelengine-group.github.io/nexent/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5841,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T10:15:54Z",
+    "first_commit_at": "2025-04-28T09:38:30Z",
+    "forks": 724,
+    "watchers": 256,
+    "open_issues": 236,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5251,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:14.947181Z",
+  "last_refreshed_at": "2026-08-30T17:52:14.947184Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "omnigent",
+  "name": "omnigent",
+  "tagline": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "agent-governance",
+    "agent-orchestration",
+    "agents",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "coding-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "omnigent-ai",
+    "url": "https://github.com/omnigent-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "omnigent-ai/omnigent",
+    "huggingface": null,
+    "homepage": "https://omnigent.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 9513,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:43:49Z",
+    "first_commit_at": "2026-06-13T00:37:34Z",
+    "forks": 1467,
+    "watchers": 40,
+    "open_issues": 1266,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.445,
+  "rank_in_category": 130,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:11.212883Z",
+  "last_refreshed_at": "2026-08-30T17:52:11.212887Z",
+  "consecutive_refresh_failures": 0
+}

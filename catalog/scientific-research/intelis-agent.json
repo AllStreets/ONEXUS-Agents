@@ -1,0 +1,60 @@
+{
+  "slug": "intelis-agent",
+  "name": "Intelis-Agent",
+  "tagline": "A self-running research agent that monitors the web on your schedule, verifies findings with LLM analysis, and delivers intelligence reports by email and in-app.",
+  "category": "scientific-research",
+  "tags": [
+    "ai-agents",
+    "ai-research",
+    "ai-search",
+    "automation",
+    "cron",
+    "drizzle-orm",
+    "express",
+    "llm",
+    "mysql",
+    "react"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "vincenzo-afk",
+    "url": "https://github.com/vincenzo-afk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vincenzo-afk/Intelis-Agent",
+    "huggingface": null,
+    "homepage": "https://intelis-agent.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 19,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T17:25:36Z",
+    "first_commit_at": "2026-08-14T01:30:18Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4269,
+  "rank_in_category": 216,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:09.112932Z",
+  "last_refreshed_at": "2026-08-30T17:44:09.112936Z",
+  "consecutive_refresh_failures": 0
+}

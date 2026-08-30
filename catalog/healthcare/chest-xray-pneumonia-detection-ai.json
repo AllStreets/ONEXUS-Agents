@@ -1,0 +1,60 @@
+{
+  "slug": "chest-xray-pneumonia-detection-ai",
+  "name": "chest-xray-pneumonia-detection-ai",
+  "tagline": "AI-powered chest X-ray pneumonia detection with 86% accuracy and 96.4% sensitivity, validated on an independent (cross-operator) cohort of 485 pediatric samples. Built with TensorFlow & FastAPI.",
+  "category": "healthcare",
+  "tags": [
+    "chest-xrays",
+    "clinical-ai",
+    "computer-vision",
+    "deep-learning",
+    "external-validation",
+    "fastapi",
+    "healthcare-ai",
+    "keras-tensorflow",
+    "machine-learning",
+    "machine-learning-projects"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ayushirathour",
+    "url": "https://github.com/ayushirathour"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ayushirathour/chest-xray-pneumonia-detection-ai",
+    "huggingface": null,
+    "homepage": "https://pneumodetectai.streamlit.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-14T10:15:46Z",
+    "first_commit_at": "2025-08-10T09:11:47Z",
+    "forks": 1,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3609,
+  "rank_in_category": 82,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:57.522956Z",
+  "last_refreshed_at": "2026-08-30T17:55:57.522959Z",
+  "consecutive_refresh_failures": 0
+}

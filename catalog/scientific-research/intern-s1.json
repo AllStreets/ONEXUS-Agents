@@ -1,0 +1,49 @@
+{
+  "slug": "intern-s1",
+  "name": "Intern-S1",
+  "tagline": "A Scientific Multimodal Foundation Model",
+  "category": "scientific-research",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "InternLM",
+    "url": "https://github.com/InternLM"
+  },
+  "source": {
+    "primary": "github",
+    "github": "InternLM/Intern-S1",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 852,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-17T10:25:15Z",
+    "first_commit_at": "2025-07-25T13:22:13Z",
+    "forks": 49,
+    "watchers": 7,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5364,
+  "rank_in_category": 106,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:45:26.223075Z",
+  "last_refreshed_at": "2026-08-30T17:45:26.223079Z",
+  "consecutive_refresh_failures": 0
+}

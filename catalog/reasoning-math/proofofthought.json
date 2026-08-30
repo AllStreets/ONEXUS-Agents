@@ -1,0 +1,56 @@
+{
+  "slug": "proofofthought",
+  "name": "proofofthought",
+  "tagline": "Proof of thought : LLM-based reasoning using Z3 theorem proving with multiple backend support (SMT2 and JSON DSL)",
+  "category": "reasoning-math",
+  "tags": [
+    "automated-reasoning",
+    "llm",
+    "llm-inference",
+    "llm-reasoning",
+    "trustworthy-ai",
+    "z3"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "DebarghaG",
+    "url": "https://github.com/DebarghaG"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DebarghaG/proofofthought",
+    "huggingface": null,
+    "homepage": "https://debarghag.github.io/proofofthought/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 376,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-07T03:29:32Z",
+    "first_commit_at": "2025-10-02T18:32:13Z",
+    "forks": 27,
+    "watchers": 2,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3033,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:50:53.963143Z",
+  "last_refreshed_at": "2026-08-30T17:50:53.963147Z",
+  "consecutive_refresh_failures": 0
+}

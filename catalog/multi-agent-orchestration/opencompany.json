@@ -1,0 +1,60 @@
+{
+  "slug": "opencompany",
+  "name": "OpenCompany",
+  "tagline": "Self-improving AI that runs your whole business turning LLM tokens into work and dollars.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "assistant",
+    "autonomous-agents",
+    "co-employees",
+    "company",
+    "hermes",
+    "hermes-agent",
+    "loop-agents",
+    "n8n"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zeenie-ai",
+    "url": "https://github.com/zeenie-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zeenie-ai/OpenCompany",
+    "huggingface": null,
+    "homepage": "https://opencompany.sh/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 798,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T10:04:00Z",
+    "first_commit_at": "2026-01-01T10:35:26Z",
+    "forks": 117,
+    "watchers": 6,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3906,
+  "rank_in_category": 224,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T18:01:02.773538Z",
+  "last_refreshed_at": "2026-08-30T18:01:02.773541Z",
+  "consecutive_refresh_failures": 0
+}

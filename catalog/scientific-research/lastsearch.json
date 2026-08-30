@@ -1,0 +1,65 @@
+{
+  "slug": "lastsearch",
+  "name": "lastsearch",
+  "tagline": "Reliable research infrastructure for AI agents. Evidence-backed web search with citations, confidence scores, and Clarity anti-hallucination. MCP server, REST API, Python SDK.",
+  "category": "scientific-research",
+  "tags": [
+    "agent-tools",
+    "ai-agent",
+    "anti-hallucination",
+    "citations",
+    "clarity",
+    "crewai",
+    "fact-checking",
+    "hallucination-prevention",
+    "langchain",
+    "lastsearch"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "LastSearch-HQ",
+    "url": "https://github.com/LastSearch-HQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LastSearch-HQ/lastsearch",
+    "huggingface": null,
+    "homepage": "https://browseai.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T09:23:43Z",
+    "first_commit_at": "2026-03-09T06:39:47Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "crewai",
+      "langchain",
+      "llamaindex",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5417,
+  "rank_in_category": 97,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:06.806654Z",
+  "last_refreshed_at": "2026-08-30T17:44:06.806658Z",
+  "consecutive_refresh_failures": 0
+}

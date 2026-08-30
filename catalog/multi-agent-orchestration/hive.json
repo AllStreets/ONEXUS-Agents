@@ -1,0 +1,62 @@
+{
+  "slug": "hive",
+  "name": "hive",
+  "tagline": "Multi-Agent Harness for Production AI",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agent-framework",
+    "agent-skills",
+    "anthropic",
+    "automation",
+    "autonomous-agents",
+    "claude",
+    "harness",
+    "harness-engineering",
+    "human-in-the-loop"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aden-hive",
+    "url": "https://github.com/aden-hive"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aden-hive/hive",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 10986,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T05:30:06Z",
+    "first_commit_at": "2026-01-14T04:13:05Z",
+    "forks": 5669,
+    "watchers": 242,
+    "open_issues": 1344,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4724,
+  "rank_in_category": 82,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:19.149677Z",
+  "last_refreshed_at": "2026-08-30T17:52:19.149681Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "deeptutor",
+  "name": "DeepTutor",
+  "tagline": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "ai-tutor",
+    "clawdbot",
+    "cli-tool",
+    "deepresearch",
+    "interactive-learning",
+    "large-language-models",
+    "multi-agent-systems",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "HKUDS",
+    "url": "https://github.com/HKUDS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HKUDS/DeepTutor",
+    "huggingface": null,
+    "homepage": "http://arxiv.org/abs/2604.26962"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 37902,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:13:40Z",
+    "first_commit_at": "2025-12-28T15:35:55Z",
+    "forks": 4752,
+    "watchers": 183,
+    "open_issues": 145,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4836,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:53:44.306070Z",
+  "last_refreshed_at": "2026-08-30T17:53:44.306074Z",
+  "consecutive_refresh_failures": 0
+}

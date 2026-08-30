@@ -1,0 +1,60 @@
+{
+  "slug": "finsight-ai",
+  "name": "FinSight-AI",
+  "tagline": "AI equity research agent with resilient workflows, evidence-grounded RAG, versioned reports, and automated quality evaluation.",
+  "category": "scientific-research",
+  "tags": [
+    "ai-agent",
+    "financial-research",
+    "llm-evaluation",
+    "pgvector",
+    "postgresql",
+    "rabbitmq",
+    "rag",
+    "redis",
+    "spring-boot",
+    "workflow-orchestration"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "juanjuandog",
+    "url": "https://github.com/juanjuandog"
+  },
+  "source": {
+    "primary": "github",
+    "github": "juanjuandog/FinSight-AI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1033,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-23T14:06:29Z",
+    "first_commit_at": "2026-05-11T11:20:30Z",
+    "forks": 61,
+    "watchers": 8,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5703,
+  "rank_in_category": 69,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:40.065696Z",
+  "last_refreshed_at": "2026-08-30T17:44:40.065700Z",
+  "consecutive_refresh_failures": 0
+}

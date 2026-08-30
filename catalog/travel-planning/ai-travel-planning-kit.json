@@ -1,7 +1,7 @@
 {
   "slug": "ai-travel-planning-kit",
   "name": "ai-travel-planning-kit",
-  "tagline": "AI Travel Planning Kit / AI 旅行规划工具包 — 用 Codex、TRAE、WorkBuddy 等 AI 查资料、选住宿、排路线、控预算，生成可执行的完整旅行方案。",
+  "tagline": "一套给 AI Agent 的旅行规划规则包：可核验的交易性事实、按需加载的 16 个专项模块、事实台账复用、离线手机版旅行手册（中英双语）",
   "category": "travel-planning",
   "tags": [
     "agent-skills",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-14T16:26:14Z",
+    "last_commit_at": "2026-08-24T15:04:00Z",
     "first_commit_at": "2026-08-13T15:54:43Z",
     "forks": 0,
     "watchers": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3692,
-  "rank_in_category": 57,
+  "composite_score": 0.3819,
+  "rank_in_category": 64,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-21T14:27:51.396116Z",
-  "last_refreshed_at": "2026-08-21T14:27:51.396120Z",
-  "consecutive_refresh_failures": 8
+  "last_refreshed_at": "2026-08-30T18:00:20.075748Z",
+  "consecutive_refresh_failures": 0
 }

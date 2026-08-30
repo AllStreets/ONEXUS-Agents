@@ -1,0 +1,53 @@
+{
+  "slug": "anp",
+  "name": "anp",
+  "tagline": "Our vision is to provide communication capabilities for intelligent agents, allowing them to connect with each other to form a collaborative network of intelligent agents.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "ai",
+    "did"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agent-network-protocol",
+    "url": "https://github.com/agent-network-protocol"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agent-network-protocol/anp",
+    "huggingface": null,
+    "homepage": "https://agent-network-protocol.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 343,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-28T05:53:23Z",
+    "first_commit_at": "2024-08-04T02:59:33Z",
+    "forks": 54,
+    "watchers": 9,
+    "open_issues": 18,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4107,
+  "rank_in_category": 186,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:14.772721Z",
+  "last_refreshed_at": "2026-08-30T17:55:14.772725Z",
+  "consecutive_refresh_failures": 0
+}

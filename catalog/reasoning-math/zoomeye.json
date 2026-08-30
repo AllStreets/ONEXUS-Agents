@@ -1,0 +1,53 @@
+{
+  "slug": "zoomeye",
+  "name": "ZoomEye",
+  "tagline": "[EMNLP-2025 Oral] ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration",
+  "category": "reasoning-math",
+  "tags": [
+    "large-language-models",
+    "reasoning-agent",
+    "vision-and-language"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "om-ai-lab",
+    "url": "https://github.com/om-ai-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "om-ai-lab/ZoomEye",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 91,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-20T01:55:51Z",
+    "first_commit_at": "2024-10-31T13:42:24Z",
+    "forks": 10,
+    "watchers": 4,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2288,
+  "rank_in_category": 89,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:49:09.675603Z",
+  "last_refreshed_at": "2026-08-30T17:49:09.675607Z",
+  "consecutive_refresh_failures": 0
+}

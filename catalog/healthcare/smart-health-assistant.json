@@ -1,0 +1,62 @@
+{
+  "slug": "smart-health-assistant",
+  "name": "Smart-Health-Assistant",
+  "tagline": "对标蚂蚁阿福的开源大健康 AI 助手，基于 LangGraph + FastAPI + React，支持多智能体、RAG、报告解读、拍照问药与链路评估。Open-source AI health assistant inspired by Ant Afu, with multi-agent routing, RAG, multimodal medical vision, tracing, and ",
+  "category": "healthcare",
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "ai-healthcare",
+    "fastapi",
+    "healthcare",
+    "langchain",
+    "langgraph",
+    "medical-ai",
+    "multi-agent",
+    "multimodal"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wananing",
+    "url": "https://github.com/wananing"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wananing/Smart-Health-Assistant",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-21T02:27:09Z",
+    "first_commit_at": "2026-02-28T07:17:32Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.393,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:57:01.185367Z",
+  "last_refreshed_at": "2026-08-30T17:57:01.185370Z",
+  "consecutive_refresh_failures": 0
+}

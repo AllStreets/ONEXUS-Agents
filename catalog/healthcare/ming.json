@@ -1,0 +1,58 @@
+{
+  "slug": "ming",
+  "name": "MING",
+  "tagline": "明医 (MING)：中文医疗问诊大模型",
+  "category": "healthcare",
+  "tags": [
+    "consultation",
+    "huggingface",
+    "llm",
+    "medical",
+    "pytorch",
+    "transformers"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "MediaBrain-SJTU",
+    "url": "https://github.com/MediaBrain-SJTU"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MediaBrain-SJTU/MING",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1176,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-23T09:29:13Z",
+    "first_commit_at": "2023-04-07T14:11:14Z",
+    "forks": 145,
+    "watchers": 15,
+    "open_issues": 23,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3929,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:58:31.359894Z",
+  "last_refreshed_at": "2026-08-30T17:58:31.359898Z",
+  "consecutive_refresh_failures": 0
+}

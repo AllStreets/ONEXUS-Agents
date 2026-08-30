@@ -1,0 +1,54 @@
+{
+  "slug": "medresearcher-r1",
+  "name": "MedResearcher-R1",
+  "tagline": "MedResearcher-R1 is a deep research agent for medical scenarios, built on a knowledge-informed trajectory synthesis framework.",
+  "category": "scientific-research",
+  "tags": [
+    "agent",
+    "deepresearch",
+    "llm",
+    "medical-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AQ-MedAI",
+    "url": "https://github.com/AQ-MedAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AQ-MedAI/MedResearcher-R1",
+    "huggingface": null,
+    "homepage": "https://x.com/AQ_MedAI"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 520,
+    "downloads_30d": null,
+    "last_commit_at": "2025-09-01T02:58:52Z",
+    "first_commit_at": "2025-08-21T03:00:48Z",
+    "forks": 44,
+    "watchers": 6,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3922,
+  "rank_in_category": 249,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:45.568690Z",
+  "last_refreshed_at": "2026-08-30T17:44:45.568694Z",
+  "consecutive_refresh_failures": 0
+}

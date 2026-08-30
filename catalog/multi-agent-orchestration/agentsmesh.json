@@ -1,0 +1,60 @@
+{
+  "slug": "agentsmesh",
+  "name": "AgentsMesh",
+  "tagline": "The AI Agent Workforce Platform. Run a hundred AI coding agents across your own machines — schedule, isolate, and steer them all from one console.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "agentsmesh",
+    "ai-agent",
+    "ai-agent-workforce-platform",
+    "ai-coding",
+    "aider",
+    "claude-code",
+    "codex-cli",
+    "gemini-cli",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "AgentsMesh",
+    "url": "https://github.com/AgentsMesh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AgentsMesh/AgentsMesh",
+    "huggingface": null,
+    "homepage": "https://agentsmesh.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2334,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-03T11:45:02Z",
+    "first_commit_at": "2026-01-08T12:29:54Z",
+    "forks": 242,
+    "watchers": 123,
+    "open_issues": 20,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3991,
+  "rank_in_category": 212,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:35.576670Z",
+  "last_refreshed_at": "2026-08-30T17:52:35.576674Z",
+  "consecutive_refresh_failures": 0
+}

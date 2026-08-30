@@ -1,0 +1,58 @@
+{
+  "slug": "planr",
+  "name": "planr",
+  "tagline": "Planr turns product intent into a durable task graph that Codex, Claude Code, Cursor, MCP clients, and humans can share without losing ownership or evidence.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agent",
+    "claude",
+    "codex",
+    "cursor",
+    "graph",
+    "planning",
+    "planr",
+    "task-graph"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "instructa",
+    "url": "https://github.com/instructa"
+  },
+  "source": {
+    "primary": "github",
+    "github": "instructa/planr",
+    "huggingface": null,
+    "homepage": "https://planr.so/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 71,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-27T12:29:55Z",
+    "first_commit_at": "2026-06-09T18:54:35Z",
+    "forks": 13,
+    "watchers": 3,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.334,
+  "rank_in_category": 314,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:51:46.917671Z",
+  "last_refreshed_at": "2026-08-30T17:51:46.917675Z",
+  "consecutive_refresh_failures": 0
+}

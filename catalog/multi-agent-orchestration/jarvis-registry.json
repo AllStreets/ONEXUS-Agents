@@ -1,0 +1,58 @@
+{
+  "slug": "jarvis-registry",
+  "name": "jarvis-registry",
+  "tagline": "Connect any AI copilot or autonomous agent to your enterprise tools — through a single, secure MCP/Agent gateway with built-in identity, access control, and full observability.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agent-gateway",
+    "agent-orchestration",
+    "mcp",
+    "mcp-gateway",
+    "orchestration"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ascending-llc",
+    "url": "https://github.com/ascending-llc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ascending-llc/jarvis-registry",
+    "huggingface": null,
+    "homepage": "https://jarvisregistry.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2770,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T07:47:30Z",
+    "first_commit_at": "2025-05-29T18:23:39Z",
+    "forks": 404,
+    "watchers": 30,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5095,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:34.896185Z",
+  "last_refreshed_at": "2026-08-30T17:52:34.896189Z",
+  "consecutive_refresh_failures": 0
+}

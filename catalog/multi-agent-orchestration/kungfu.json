@@ -1,0 +1,54 @@
+{
+  "slug": "kungfu",
+  "name": "kungfu",
+  "tagline": "Your agents don’t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own execution surface.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agent-framework",
+    "agent-memory",
+    "agent-orchestration"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kungfu-systems",
+    "url": "https://github.com/kungfu-systems"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kungfu-systems/kungfu",
+    "huggingface": null,
+    "homepage": "https://kungfu.tech/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4505,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:48:47Z",
+    "first_commit_at": "2017-11-15T06:54:01Z",
+    "forks": 1287,
+    "watchers": 258,
+    "open_issues": 82,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4783,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:26.129169Z",
+  "last_refreshed_at": "2026-08-30T17:52:26.129173Z",
+  "consecutive_refresh_failures": 0
+}

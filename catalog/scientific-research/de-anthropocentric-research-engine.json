@@ -1,0 +1,62 @@
+{
+  "slug": "de-anthropocentric-research-engine",
+  "name": "de-anthropocentric-research-engine",
+  "tagline": "900+ pure-markdown skills for autonomous AI research, organized as 9 freely-composable packages over a 4-layer hierarchy (Campaign → Strategy → Tactic → SOP). Non-linear orchestration with backtrackin",
+  "category": "scientific-research",
+  "tags": [
+    "academic-research",
+    "agent-native-research-artifact",
+    "ai-scientist",
+    "auto-research",
+    "autonomous-research",
+    "autoresearch",
+    "claude-code",
+    "codex",
+    "deep-research",
+    "dsh-plugin"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "yogsoth-ai",
+    "url": "https://github.com/yogsoth-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yogsoth-ai/de-anthropocentric-research-engine",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 405,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T16:10:30Z",
+    "first_commit_at": "2026-02-09T16:13:50Z",
+    "forks": 30,
+    "watchers": 28,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6353,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:43:54.370837Z",
+  "last_refreshed_at": "2026-08-30T17:43:54.370840Z",
+  "consecutive_refresh_failures": 0
+}

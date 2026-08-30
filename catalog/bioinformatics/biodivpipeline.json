@@ -1,0 +1,49 @@
+{
+  "slug": "biodivpipeline",
+  "name": "BiodivPipeline",
+  "tagline": "A Modular nf-core Workflow for FAIR Biodiversity Data Processing",
+  "category": "bioinformatics",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "biodivportal",
+    "url": "https://github.com/biodivportal"
+  },
+  "source": {
+    "primary": "github",
+    "github": "biodivportal/BiodivPipeline",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-31T08:33:19Z",
+    "first_commit_at": "2026-04-28T08:56:00Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3512,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:43:41.504392Z",
+  "last_refreshed_at": "2026-08-30T17:43:41.504396Z",
+  "consecutive_refresh_failures": 0
+}

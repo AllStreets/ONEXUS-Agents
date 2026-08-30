@@ -1,0 +1,62 @@
+{
+  "slug": "scaffolding",
+  "name": "scaffolding",
+  "tagline": "Spec-driven multi-agent orchestration plugin for Claude Code — 13 agents, 35 skills, per-phase model tiers, opt-in lifecycle hooks, and optional cross-device semantic memory.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-plugin",
+    "developer-tools",
+    "llm",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "komluk",
+    "url": "https://github.com/komluk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "komluk/scaffolding",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 15,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-06T10:51:52Z",
+    "first_commit_at": "2026-04-09T14:36:02Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2799,
+  "rank_in_category": 403,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:52.299355Z",
+  "last_refreshed_at": "2026-08-30T17:52:52.299359Z",
+  "consecutive_refresh_failures": 0
+}

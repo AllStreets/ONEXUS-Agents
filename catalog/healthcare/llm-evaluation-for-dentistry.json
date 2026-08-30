@@ -1,0 +1,59 @@
+{
+  "slug": "llm-evaluation-for-dentistry",
+  "name": "llm-evaluation-for-dentistry",
+  "tagline": "Which LLMs can a dentist trust? A reproducible benchmark of language models on clinical dental knowledge, with clinician-verified rubrics across 6 domains. Part of Periospot.",
+  "category": "healthcare",
+  "tags": [
+    "benchmark",
+    "clinical-ai",
+    "dental-ai",
+    "dentistry",
+    "healthcare-ai",
+    "llm",
+    "llm-evaluation",
+    "periodontics",
+    "weights-and-biases"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Tuminha",
+    "url": "https://github.com/Tuminha"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tuminha/llm-evaluation-for-dentistry",
+    "huggingface": null,
+    "homepage": "https://periospot.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-16T05:12:07Z",
+    "first_commit_at": "2024-10-03T04:50:37Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3653,
+  "rank_in_category": 78,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:59.720919Z",
+  "last_refreshed_at": "2026-08-30T17:55:59.720923Z",
+  "consecutive_refresh_failures": 0
+}

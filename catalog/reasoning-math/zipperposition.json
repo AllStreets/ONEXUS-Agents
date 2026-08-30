@@ -1,0 +1,60 @@
+{
+  "slug": "zipperposition",
+  "name": "zipperposition",
+  "tagline": "An automatic theorem prover in OCaml for typed higher-order logic with equality and datatypes, based on superposition+rewriting; and Logtk, a supporting library for manipulating terms, formulas, claus",
+  "category": "reasoning-math",
+  "tags": [
+    "cnf",
+    "computer-science-algorithms",
+    "experimental",
+    "induction",
+    "logic",
+    "ocaml",
+    "polymorphism",
+    "prototype",
+    "prover",
+    "rewriting"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sneeuwballen",
+    "url": "https://github.com/sneeuwballen"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sneeuwballen/zipperposition",
+    "huggingface": null,
+    "homepage": "https://sneeuwballen.github.io/zipperposition/"
+  },
+  "license": "BSD-2-Clause",
+  "metrics": {
+    "stars": 166,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-10T11:45:57Z",
+    "first_commit_at": "2012-08-07T13:51:42Z",
+    "forks": 24,
+    "watchers": 9,
+    "open_issues": 38,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3445,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:51:02.926073Z",
+  "last_refreshed_at": "2026-08-30T17:51:02.926077Z",
+  "consecutive_refresh_failures": 0
+}

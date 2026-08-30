@@ -1,0 +1,53 @@
+{
+  "slug": "ultraswarm",
+  "name": "ultraswarm",
+  "tagline": "Multi-CLI agent swarm orchestrated by Claude Code: external AI CLIs code in isolated worktrees, Claude verifies and merges",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "claude-code",
+    "orchestration"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "fubak",
+    "url": "https://github.com/fubak"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fubak/ultraswarm",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 83,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-03T12:08:22Z",
+    "first_commit_at": "2026-06-08T00:11:30Z",
+    "forks": 10,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2906,
+  "rank_in_category": 386,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:58.900961Z",
+  "last_refreshed_at": "2026-08-30T17:54:58.900965Z",
+  "consecutive_refresh_failures": 0
+}

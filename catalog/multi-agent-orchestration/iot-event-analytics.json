@@ -1,0 +1,51 @@
+{
+  "slug": "iot-event-analytics",
+  "name": "iot-event-analytics",
+  "tagline": "IoT Event Analytics is a complex event processing and agent network platform",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "iot-platform"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "COVESA",
+    "url": "https://github.com/COVESA"
+  },
+  "source": {
+    "primary": "github",
+    "github": "COVESA/iot-event-analytics",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MPL-2.0",
+  "metrics": {
+    "stars": 26,
+    "downloads_30d": null,
+    "last_commit_at": "2021-10-22T07:07:45Z",
+    "first_commit_at": "2021-03-03T17:54:09Z",
+    "forks": 14,
+    "watchers": 10,
+    "open_issues": 10,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2457,
+  "rank_in_category": 481,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:29.094914Z",
+  "last_refreshed_at": "2026-08-30T17:55:29.094918Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "iris-fhir-agents",
+  "name": "iris-fhir-agents",
+  "tagline": "🥈 2nd Prize Winner (Expert Nomination) — Multi-agent clinical AI platform for InterSystems IRIS with FHIR R4, Vector Search RAG, LangChain, live FHIR agents, and a no-code Agent Builder.",
+  "category": "healthcare",
+  "tags": [
+    "clinical-ai",
+    "fhir",
+    "healthcare",
+    "intersystems-iris",
+    "langchain",
+    "multi-agent-systems",
+    "rag",
+    "vector-search"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mwaseem75",
+    "url": "https://github.com/mwaseem75"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mwaseem75/iris-fhir-agents",
+    "huggingface": null,
+    "homepage": "https://openexchange.intersystems.com/package/iris-fhir-agents-1"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-30T17:17:03Z",
+    "first_commit_at": "2026-06-04T08:20:19Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3017,
+  "rank_in_category": 108,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:05.134662Z",
+  "last_refreshed_at": "2026-08-30T17:56:05.134665Z",
+  "consecutive_refresh_failures": 0
+}

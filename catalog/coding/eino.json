@@ -1,0 +1,59 @@
+{
+  "slug": "eino",
+  "name": "eino",
+  "tagline": "The ultimate LLM/AI application development framework in Go.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-application",
+    "ai-framework",
+    "langchain",
+    "langchain-for-go",
+    "langchaingo",
+    "llm-application"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "cloudwego",
+    "url": "https://github.com/cloudwego"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cloudwego/eino",
+    "huggingface": null,
+    "homepage": "https://www.cloudwego.io/docs/eino/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 12879,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T12:33:23Z",
+    "first_commit_at": "2024-12-04T06:47:29Z",
+    "forks": 1073,
+    "watchers": 73,
+    "open_issues": 151,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.437,
+  "rank_in_category": 67,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:27.924232Z",
+  "last_refreshed_at": "2026-08-30T17:54:27.924236Z",
+  "consecutive_refresh_failures": 0
+}

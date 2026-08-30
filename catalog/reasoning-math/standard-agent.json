@@ -1,0 +1,60 @@
+{
+  "slug": "standard-agent",
+  "name": "standard-agent",
+  "tagline": "Composable reasoning agent library in Python. Swap LLMs, reasoning strategies, memory backends and tool providers, with just-in-time tool loading.",
+  "category": "reasoning-math",
+  "tags": [
+    "agent-library",
+    "agents",
+    "ai",
+    "ai-agent",
+    "developer-tools",
+    "hacktoberfest",
+    "llm",
+    "python",
+    "reasoning-agent",
+    "rewoo"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "jentic",
+    "url": "https://github.com/jentic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jentic/standard-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 69,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-12T12:14:57Z",
+    "first_commit_at": "2025-07-10T16:03:26Z",
+    "forks": 28,
+    "watchers": 3,
+    "open_issues": 20,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2718,
+  "rank_in_category": 64,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:49:11.253870Z",
+  "last_refreshed_at": "2026-08-30T17:49:11.253874Z",
+  "consecutive_refresh_failures": 0
+}

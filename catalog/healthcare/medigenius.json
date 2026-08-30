@@ -1,0 +1,62 @@
+{
+  "slug": "medigenius",
+  "name": "MediGenius",
+  "tagline": "AI-powered multi-agent medical assistant with a deterministic safety layer — crisis detection, refused-topic hard-stops, dosage grounding, and post-generation diagnosis verification running before and",
+  "category": "healthcare",
+  "tags": [
+    "ai-agents",
+    "ai-agents-framework",
+    "ai-healthcare-assistant",
+    "clinical-assistant",
+    "doctor-ai",
+    "druginteractionsubagent",
+    "duckduckgo-search",
+    "fallback-architecture",
+    "generative-ai",
+    "healthcare-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Md-Emon-Hasan",
+    "url": "https://github.com/Md-Emon-Hasan"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Md-Emon-Hasan/MediGenius",
+    "huggingface": null,
+    "homepage": "https://medigenius.onrender.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 51,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-05T16:35:07Z",
+    "first_commit_at": "2025-04-30T17:18:04Z",
+    "forks": 13,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4261,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:46.401970Z",
+  "last_refreshed_at": "2026-08-30T17:56:46.401974Z",
+  "consecutive_refresh_failures": 0
+}

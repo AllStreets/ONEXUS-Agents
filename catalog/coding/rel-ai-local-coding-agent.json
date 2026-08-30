@@ -1,0 +1,61 @@
+{
+  "slug": "rel-ai-local-coding-agent",
+  "name": "rel-ai-local-coding-agent",
+  "tagline": "Local coding agent for ChatGPT Web. Analyze, edit, run, test, review, and manage repositories on your own computer through MCP.",
+  "category": "coding",
+  "tags": [
+    "ai-coding",
+    "chatgpt",
+    "code-agent",
+    "coding-agent",
+    "developer-tools",
+    "electron",
+    "local-ai",
+    "mcp",
+    "model-context-protocol"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Kyne0328",
+    "url": "https://github.com/Kyne0328"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Kyne0328/rel-ai-local-coding-agent",
+    "huggingface": null,
+    "homepage": "https://kyne0328.github.io/rel-ai-local-coding-agent/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T08:46:37Z",
+    "first_commit_at": "2026-05-05T12:26:37Z",
+    "forks": 4,
+    "watchers": 2,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3331,
+  "rank_in_category": 313,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:14:54.491688Z",
+  "last_refreshed_at": "2026-08-30T17:14:54.491691Z",
+  "consecutive_refresh_failures": 0
+}

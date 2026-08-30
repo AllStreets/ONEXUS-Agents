@@ -1,0 +1,60 @@
+{
+  "slug": "openmed",
+  "name": "openmed",
+  "tagline": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your network.",
+  "category": "healthcare",
+  "tags": [
+    "android",
+    "clinical-nlp",
+    "healthcare",
+    "hipaa",
+    "ios",
+    "javascript",
+    "llm",
+    "local-llm",
+    "mlx",
+    "ner"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "maziyarpanahi",
+    "url": "https://github.com/maziyarpanahi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "maziyarpanahi/openmed",
+    "huggingface": null,
+    "homepage": "https://openmed.life/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5181,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T13:29:05Z",
+    "first_commit_at": "2025-09-10T07:45:38Z",
+    "forks": 655,
+    "watchers": 23,
+    "open_issues": 551,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5772,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:19.489754Z",
+  "last_refreshed_at": "2026-08-30T17:56:19.489758Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "mlx-dspark",
+  "name": "mlx-dspark",
+  "tagline": "Up to 4× faster LLM decoding on Apple Silicon, lossless. Native MLX port of DeepSeek's DSpark & z-lab's DFlash speculative decoding — Gemma-4, Qwen3.8, Muse-Glimmer, Nemotron, LFM2.5, Ornith-1.0, tern",
+  "category": "reasoning-math",
+  "tags": [
+    "apple-silicon",
+    "claude-code",
+    "codex",
+    "dflash2",
+    "dspark",
+    "inference-engine",
+    "llm-inference",
+    "local-llm",
+    "macos",
+    "metal"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ARahim3",
+    "url": "https://github.com/ARahim3"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ARahim3/mlx-dspark",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 622,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-27T08:30:22Z",
+    "first_commit_at": "2026-06-29T20:55:25Z",
+    "forks": 50,
+    "watchers": 6,
+    "open_issues": 15,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3376,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:51:39.213675Z",
+  "last_refreshed_at": "2026-08-30T17:51:39.213679Z",
+  "consecutive_refresh_failures": 0
+}

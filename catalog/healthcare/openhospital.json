@@ -1,0 +1,53 @@
+{
+  "slug": "openhospital",
+  "name": "openhospital",
+  "tagline": "OH - Open Hospital is a free and open-source Electronic Health Record (EHR) software application. This repository is used to build its releases.",
+  "category": "healthcare",
+  "tags": [
+    "hacktoberfest",
+    "healthcare",
+    "openhospital"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "informatici",
+    "url": "https://github.com/informatici"
+  },
+  "source": {
+    "primary": "github",
+    "github": "informatici/openhospital",
+    "huggingface": null,
+    "homepage": "https://www.open-hospital.org/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 627,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-14T10:32:00Z",
+    "first_commit_at": "2019-03-24T09:01:37Z",
+    "forks": 141,
+    "watchers": 30,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5299,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:32.539066Z",
+  "last_refreshed_at": "2026-08-30T17:56:32.539071Z",
+  "consecutive_refresh_failures": 0
+}

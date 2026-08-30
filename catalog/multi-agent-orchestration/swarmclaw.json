@@ -1,0 +1,63 @@
+{
+  "slug": "swarmclaw",
+  "name": "swarmclaw",
+  "tagline": "Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools, schedules, delegation, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "agent-memory",
+    "agent-runtime",
+    "agent-swarm",
+    "agents",
+    "ai",
+    "ai-agent-framework",
+    "ai-agents",
+    "autonomous-agents",
+    "claude"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "swarmclawai",
+    "url": "https://github.com/swarmclawai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "swarmclawai/swarmclaw",
+    "huggingface": null,
+    "homepage": "https://www.swarmclaw.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 654,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-30T20:58:13Z",
+    "first_commit_at": "2026-02-18T22:25:02Z",
+    "forks": 136,
+    "watchers": 9,
+    "open_issues": 15,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4081,
+  "rank_in_category": 193,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:44.166959Z",
+  "last_refreshed_at": "2026-08-30T17:54:44.166963Z",
+  "consecutive_refresh_failures": 0
+}

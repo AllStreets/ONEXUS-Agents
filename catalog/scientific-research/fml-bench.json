@@ -1,0 +1,54 @@
+{
+  "slug": "fml-bench",
+  "name": "FML-bench",
+  "tagline": "FML-bench",
+  "category": "scientific-research",
+  "tags": [
+    "autonomous-research",
+    "benchmark",
+    "language-mode",
+    "research-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "qrzou",
+    "url": "https://github.com/qrzou"
+  },
+  "source": {
+    "primary": "github",
+    "github": "qrzou/FML-bench",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2605.17373"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 29,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-26T11:20:35Z",
+    "first_commit_at": "2026-05-17T17:09:32Z",
+    "forks": 6,
+    "watchers": 3,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3959,
+  "rank_in_category": 247,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:03.186293Z",
+  "last_refreshed_at": "2026-08-30T17:44:03.186297Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "openviking",
+  "name": "OpenViking",
+  "tagline": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "category": "knowledge-management",
+  "tags": [
+    "agent-memory",
+    "agent-plugins",
+    "agentic-rag",
+    "context-database",
+    "dsh-plugin",
+    "self-evolving"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "volcengine",
+    "url": "https://github.com/volcengine"
+  },
+  "source": {
+    "primary": "github",
+    "github": "volcengine/OpenViking",
+    "huggingface": null,
+    "homepage": "https://openviking.ai/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 34449,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T06:31:10Z",
+    "first_commit_at": "2026-01-29T12:29:19Z",
+    "forks": 2629,
+    "watchers": 97,
+    "open_issues": 595,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7018,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:53:46.384905Z",
+  "last_refreshed_at": "2026-08-30T17:53:46.384908Z",
+  "consecutive_refresh_failures": 0
+}

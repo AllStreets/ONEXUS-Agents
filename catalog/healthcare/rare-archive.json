@@ -1,0 +1,60 @@
+{
+  "slug": "rare-archive",
+  "name": "rare-archive",
+  "tagline": "Rare AI Archive: open-source agentic diagnostic AI for rare genetic diseases — decentralized post-training, clinician validation, federated deployment",
+  "category": "healthcare",
+  "tags": [
+    "agentic-ai",
+    "clinical-ai",
+    "clinical-decision-support",
+    "diagnostic-ai",
+    "fine-tuning",
+    "gguf",
+    "lattice-protocol",
+    "llama-cpp",
+    "medical-ai",
+    "open-science"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Wilhelm-Foundation",
+    "url": "https://github.com/Wilhelm-Foundation"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Wilhelm-Foundation/rare-archive",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/Wilhelm-Foundation"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-01T15:12:03Z",
+    "first_commit_at": "2026-03-17T05:52:02Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2583,
+  "rank_in_category": 141,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:07.445572Z",
+  "last_refreshed_at": "2026-08-30T17:56:07.445576Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "nearest-destination-finder",
+  "name": "Nearest-Destination-Finder",
+  "tagline": "A Python tool for comparing travel distances and optimizing multi-stop routes. Works out of the box with no API key required — or connect Google Maps / OpenRouteService for road-accurate distances and",
+  "category": "travel-planning",
+  "tags": [
+    "algorithm",
+    "distance-calculator",
+    "geolocation",
+    "gis",
+    "mapping",
+    "python",
+    "route-optimization",
+    "travel-planning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "RobertoReale",
+    "url": "https://github.com/RobertoReale"
+  },
+  "source": {
+    "primary": "github",
+    "github": "RobertoReale/Nearest-Destination-Finder",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-09T20:54:50Z",
+    "first_commit_at": "2025-03-22T19:16:41Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3601,
+  "rank_in_category": 73,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T18:00:14.970177Z",
+  "last_refreshed_at": "2026-08-30T18:00:14.970181Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "wanta",
+  "name": "wanta",
+  "tagline": "An open-source desktop AI agent foundation powered by OpenCode and connected through OpenConnector, with local tools, permission controls, and artifacts.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agentic-ai",
+    "ai-agent",
+    "byok",
+    "cross-platform",
+    "desktop-agent",
+    "electron",
+    "human-in-the-loop",
+    "llm",
+    "opencode",
+    "openconnector"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "oomol-lab",
+    "url": "https://github.com/oomol-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "oomol-lab/wanta",
+    "huggingface": null,
+    "homepage": "https://wanta.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 68,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T16:03:48Z",
+    "first_commit_at": "2026-06-12T11:17:23Z",
+    "forks": 12,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3292,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T18:10:12.190293Z",
+  "last_refreshed_at": "2026-08-30T18:10:12.190297Z",
+  "consecutive_refresh_failures": 0
+}

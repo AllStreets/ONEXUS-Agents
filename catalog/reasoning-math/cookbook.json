@@ -1,0 +1,54 @@
+{
+  "slug": "cookbook",
+  "name": "cookbook",
+  "tagline": "A collection of guides and examples for the Gemma open models from Google.",
+  "category": "reasoning-math",
+  "tags": [
+    "codegemma",
+    "gemma",
+    "paligemma",
+    "recurrentgemma"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "google-gemma",
+    "url": "https://github.com/google-gemma"
+  },
+  "source": {
+    "primary": "github",
+    "github": "google-gemma/cookbook",
+    "huggingface": null,
+    "homepage": "https://ai.google.dev/gemma/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3984,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-19T04:00:06Z",
+    "first_commit_at": "2024-05-27T08:11:41Z",
+    "forks": 656,
+    "watchers": 61,
+    "open_issues": 38,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.428,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:49:59.992156Z",
+  "last_refreshed_at": "2026-08-30T17:49:59.992160Z",
+  "consecutive_refresh_failures": 0
+}

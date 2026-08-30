@@ -1,0 +1,49 @@
+{
+  "slug": "neocarta",
+  "name": "neocarta",
+  "tagline": "Library built for generating semantic layer graphs for query routing, query generation and data discovery",
+  "category": "data-engineering",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "neo4j-labs",
+    "url": "https://github.com/neo4j-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "neo4j-labs/neocarta",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 101,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T21:46:10Z",
+    "first_commit_at": "2026-01-21T20:54:13Z",
+    "forks": 26,
+    "watchers": 2,
+    "open_issues": 288,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.543,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T18:10:10.825132Z",
+  "last_refreshed_at": "2026-08-30T18:10:10.825136Z",
+  "consecutive_refresh_failures": 0
+}

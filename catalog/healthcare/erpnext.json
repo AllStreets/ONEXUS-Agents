@@ -1,0 +1,60 @@
+{
+  "slug": "erpnext",
+  "name": "erpnext",
+  "tagline": "Free and Open Source Enterprise Resource Planning (ERP)",
+  "category": "healthcare",
+  "tags": [
+    "accounting",
+    "asset-management",
+    "crm",
+    "distribution",
+    "erp",
+    "erpnext",
+    "frappe",
+    "healthcare",
+    "hrms",
+    "manufacturing"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "frappe",
+    "url": "https://github.com/frappe"
+  },
+  "source": {
+    "primary": "github",
+    "github": "frappe/erpnext",
+    "huggingface": null,
+    "homepage": "https://frappe.io/erpnext"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 38679,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:47:37Z",
+    "first_commit_at": "2011-06-08T09:07:15Z",
+    "forks": 12651,
+    "watchers": 676,
+    "open_issues": 1828,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6643,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:17.439239Z",
+  "last_refreshed_at": "2026-08-30T17:56:17.439243Z",
+  "consecutive_refresh_failures": 0
+}

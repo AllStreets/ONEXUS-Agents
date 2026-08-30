@@ -1,0 +1,49 @@
+{
+  "slug": "noodle",
+  "name": "noodle",
+  "tagline": "Orchestrate agents using skills",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "poteto",
+    "url": "https://github.com/poteto"
+  },
+  "source": {
+    "primary": "github",
+    "github": "poteto/noodle",
+    "huggingface": null,
+    "homepage": "https://poteto.github.io/noodle/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 264,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-19T07:46:39Z",
+    "first_commit_at": "2026-02-22T04:30:52Z",
+    "forks": 14,
+    "watchers": 0,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2699,
+  "rank_in_category": 427,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:53:57.199740Z",
+  "last_refreshed_at": "2026-08-30T17:53:57.199743Z",
+  "consecutive_refresh_failures": 0
+}

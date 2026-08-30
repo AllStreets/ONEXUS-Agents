@@ -1,0 +1,63 @@
+{
+  "slug": "agent-network",
+  "name": "agent-network",
+  "tagline": "助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / OpenAI / xAI / MiniMax / DeepSeek / GLM / Kimi / 书生 / 小米 MiMo），自带 Web Dashboard",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-network",
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-agent-sdk",
+    "claude-code",
+    "codex",
+    "dashboard",
+    "deepseek",
+    "grok"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sleep2agi",
+    "url": "https://github.com/sleep2agi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sleep2agi/agent-network",
+    "huggingface": null,
+    "homepage": "https://anet.sh/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 68,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:52:57Z",
+    "first_commit_at": "2026-05-10T11:57:49Z",
+    "forks": 9,
+    "watchers": 1,
+    "open_issues": 207,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4011,
+  "rank_in_category": 206,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:55:22.463221Z",
+  "last_refreshed_at": "2026-08-30T17:55:22.463224Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "agentscope-java",
+  "name": "agentscope-java",
+  "tagline": "Build distributed, production-grade, long-running agents.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "adk",
+    "agent",
+    "agent-framework",
+    "agentic",
+    "agentic-ai",
+    "agentscope",
+    "ai",
+    "harness",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agentscope-ai",
+    "url": "https://github.com/agentscope-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agentscope-ai/agentscope-java",
+    "huggingface": null,
+    "homepage": "https://java.agentscope.io/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 5352,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T16:47:49Z",
+    "first_commit_at": "2025-09-23T06:36:44Z",
+    "forks": 1256,
+    "watchers": 37,
+    "open_issues": 830,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4539,
+  "rank_in_category": 110,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:23.481753Z",
+  "last_refreshed_at": "2026-08-30T17:52:23.481756Z",
+  "consecutive_refresh_failures": 0
+}

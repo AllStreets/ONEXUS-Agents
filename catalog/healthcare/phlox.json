@@ -1,0 +1,57 @@
+{
+  "slug": "phlox",
+  "name": "phlox",
+  "tagline": "Open source, local first AI medical agent for desktop and web.",
+  "category": "healthcare",
+  "tags": [
+    "llamacpp",
+    "macos",
+    "medical",
+    "ollama",
+    "rag",
+    "scribe",
+    "whisper"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "bloodworks-io",
+    "url": "https://github.com/bloodworks-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bloodworks-io/phlox",
+    "huggingface": null,
+    "homepage": "https://phlox.bloodworks.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 105,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T22:54:17Z",
+    "first_commit_at": "2024-09-13T14:52:17Z",
+    "forks": 23,
+    "watchers": 3,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4855,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:57:25.717605Z",
+  "last_refreshed_at": "2026-08-30T17:57:25.717609Z",
+  "consecutive_refresh_failures": 0
+}

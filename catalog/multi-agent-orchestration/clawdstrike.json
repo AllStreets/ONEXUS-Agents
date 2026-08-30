@@ -1,0 +1,60 @@
+{
+  "slug": "clawdstrike",
+  "name": "clawdstrike",
+  "tagline": "Agentic AI EDR for developer workstations and autonomous agent swarms. Build Swarm Detection & Response platforms with Clawdstrike.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-security",
+    "agentic-security",
+    "agents",
+    "ai-security",
+    "ai-security-tool",
+    "cyber-defense",
+    "cyber-security",
+    "cybersecurity",
+    "cybersecurity-tools",
+    "detection-engineering"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "backbay-labs",
+    "url": "https://github.com/backbay-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "backbay-labs/clawdstrike",
+    "huggingface": null,
+    "homepage": "https://backbay.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 286,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T23:11:51Z",
+    "first_commit_at": "2026-01-31T22:51:41Z",
+    "forks": 34,
+    "watchers": 5,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3663,
+  "rank_in_category": 264,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:49.716907Z",
+  "last_refreshed_at": "2026-08-30T17:54:49.716911Z",
+  "consecutive_refresh_failures": 0
+}

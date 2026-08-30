@@ -1,0 +1,62 @@
+{
+  "slug": "prospector",
+  "name": "Prospector",
+  "tagline": "Automacao de geracao de leads: acha negocios sem site, gera proposta com IA (copy + mockup + roteiro de ligacao), publica e acompanha num CRM ate fechar. Python + Next.js + Supabase + Claude API + Clo",
+  "category": "sales-crm",
+  "tags": [
+    "automation",
+    "claude-api",
+    "cloudflare-workers",
+    "lead-generation",
+    "llm",
+    "nextjs",
+    "python",
+    "sales-crm",
+    "supabase",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Ismael042",
+    "url": "https://github.com/Ismael042"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Ismael042/Prospector",
+    "huggingface": null,
+    "homepage": "https://prospector.santanaismael042.workers.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-26T21:38:47Z",
+    "first_commit_at": "2026-08-25T19:11:48Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4075,
+  "rank_in_category": 43,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T18:02:03.896519Z",
+  "last_refreshed_at": "2026-08-30T18:02:03.896523Z",
+  "consecutive_refresh_failures": 0
+}

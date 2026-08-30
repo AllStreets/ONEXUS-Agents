@@ -1,0 +1,60 @@
+{
+  "slug": "cog",
+  "name": "cog",
+  "tagline": "The Cog — AI-native IDE for orchestrating agents across any CLI. Multi-agent workspace with 25+ MCP tools, remote view, 3DS client, community presets, and more.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "ai",
+    "electron",
+    "ide",
+    "llm",
+    "mcp",
+    "orchestration",
+    "typescript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "the-cog-dev",
+    "url": "https://github.com/the-cog-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "the-cog-dev/cog",
+    "huggingface": null,
+    "homepage": "https://thecog.dev/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-29T01:10:17Z",
+    "first_commit_at": "2026-03-29T09:34:13Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3465,
+  "rank_in_category": 298,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:23.844891Z",
+  "last_refreshed_at": "2026-08-30T17:54:23.844895Z",
+  "consecutive_refresh_failures": 0
+}

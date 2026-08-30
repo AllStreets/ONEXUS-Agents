@@ -1,0 +1,62 @@
+{
+  "slug": "clawrouter",
+  "name": "ClawRouter",
+  "tagline": "The agent-native LLM router for autonomous agents. Every frontier model behind one wallet, <1ms local routing, USDC payments on Base & Solana via x402.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "cost-optimization",
+    "deepseek",
+    "gemini",
+    "llm",
+    "llm-router",
+    "micropayments",
+    "openai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "BlockRunAI",
+    "url": "https://github.com/BlockRunAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "BlockRunAI/ClawRouter",
+    "huggingface": null,
+    "homepage": "https://www.npmjs.com/package/@blockrun/clawrouter"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6574,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T16:28:24Z",
+    "first_commit_at": "2026-02-03T17:31:55Z",
+    "forks": 648,
+    "watchers": 70,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.458,
+  "rank_in_category": 102,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:49:57.551436Z",
+  "last_refreshed_at": "2026-08-30T17:49:57.551440Z",
+  "consecutive_refresh_failures": 0
+}

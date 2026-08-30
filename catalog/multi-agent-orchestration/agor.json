@@ -1,0 +1,62 @@
+{
+  "slug": "agor",
+  "name": "agor",
+  "tagline": "Agor - team command center for all things agentic",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "agentic",
+    "ai-agents",
+    "ai-coding",
+    "ai-pair-programming",
+    "canvas",
+    "claude-code",
+    "codex",
+    "coding-assistant",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "preset-io",
+    "url": "https://github.com/preset-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "preset-io/agor",
+    "huggingface": null,
+    "homepage": "https://agor.live/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1379,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T05:29:44Z",
+    "first_commit_at": "2025-10-04T07:29:09Z",
+    "forks": 121,
+    "watchers": 12,
+    "open_issues": 221,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4827,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:40.027705Z",
+  "last_refreshed_at": "2026-08-30T17:52:40.027709Z",
+  "consecutive_refresh_failures": 0
+}

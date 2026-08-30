@@ -1,0 +1,51 @@
+{
+  "slug": "lean",
+  "name": "lean",
+  "tagline": "Lean 3 Theorem Prover (community fork)",
+  "category": "reasoning-math",
+  "tags": [
+    "lean3"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "leanprover-community",
+    "url": "https://github.com/leanprover-community"
+  },
+  "source": {
+    "primary": "github",
+    "github": "leanprover-community/lean",
+    "huggingface": null,
+    "homepage": "http://leanprover-community.github.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 432,
+    "downloads_30d": null,
+    "last_commit_at": "2023-10-12T20:35:09Z",
+    "first_commit_at": "2013-07-16T01:43:32Z",
+    "forks": 79,
+    "watchers": 22,
+    "open_issues": 131,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2629,
+  "rank_in_category": 70,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:50:47.961072Z",
+  "last_refreshed_at": "2026-08-30T17:50:47.961075Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "hol",
+  "name": "HOL",
+  "tagline": "Canonical sources for HOL4 theorem-proving system.   Branch develop is where “mainline development” occurs; when develop passes our regression tests, master is merged forward to catch up.",
+  "category": "reasoning-math",
+  "tags": [
+    "higher-order-logic",
+    "lambda-calculus",
+    "theorem-proving"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "HOL-Theorem-Prover",
+    "url": "https://github.com/HOL-Theorem-Prover"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HOL-Theorem-Prover/HOL",
+    "huggingface": null,
+    "homepage": "https://hol-theorem-prover.org/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 755,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T12:04:40Z",
+    "first_commit_at": "1999-04-29T16:49:15Z",
+    "forks": 173,
+    "watchers": 40,
+    "open_issues": 236,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4062,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:50:43.009088Z",
+  "last_refreshed_at": "2026-08-30T17:50:43.009091Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "nodeterm",
+  "name": "nodeterm",
+  "tagline": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "adhd",
+    "agent-orchestration",
+    "ai-agents",
+    "canvas",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "electron",
+    "gemini"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "eneskirca",
+    "url": "https://github.com/eneskirca"
+  },
+  "source": {
+    "primary": "github",
+    "github": "eneskirca/nodeterm",
+    "huggingface": null,
+    "homepage": "https://nodeterm.dev/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1354,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T15:58:55Z",
+    "first_commit_at": "2026-06-15T11:26:35Z",
+    "forks": 140,
+    "watchers": 6,
+    "open_issues": 59,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.394,
+  "rank_in_category": 217,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:40.629961Z",
+  "last_refreshed_at": "2026-08-30T17:52:40.629965Z",
+  "consecutive_refresh_failures": 0
+}

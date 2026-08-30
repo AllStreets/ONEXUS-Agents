@@ -1,0 +1,58 @@
+{
+  "slug": "english-tutor-agent",
+  "name": "english-tutor-agent",
+  "tagline": "Turn your coding agent (Claude Code / Codex / Cursor) into a personal English tutor with persistent memory & spaced repetition — no quizzes, learn through conversation. 把 AI 编程助手变成有长期记忆的私人英语教练",
+  "category": "education-tutoring",
+  "tags": [
+    "agents-md",
+    "ai-agent",
+    "claude-code",
+    "codex",
+    "cursor",
+    "english-learning",
+    "language-learning",
+    "spaced-repetition"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "HS-Jack-YZY",
+    "url": "https://github.com/HS-Jack-YZY"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HS-Jack-YZY/english-tutor-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-03T09:34:30Z",
+    "first_commit_at": "2026-08-03T09:34:15Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3155,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:46:33.715364Z",
+  "last_refreshed_at": "2026-08-30T17:46:33.715368Z",
+  "consecutive_refresh_failures": 0
+}

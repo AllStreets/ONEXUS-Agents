@@ -1,0 +1,49 @@
+{
+  "slug": "aipack",
+  "name": "aipack",
+  "tagline": "aipack 是一个 TypeScript AI Agent 开发框架，自研运行时核心，集成记忆、压缩、可观测性等能力，开箱即用支持 13+ 主流大模型，并提供 CLI、桌面应用和示例应用。",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "luoguoxiong",
+    "url": "https://github.com/luoguoxiong"
+  },
+  "source": {
+    "primary": "github",
+    "github": "luoguoxiong/aipack",
+    "huggingface": null,
+    "homepage": "https://aipack-ai.netlify.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 309,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-26T14:51:33Z",
+    "first_commit_at": "2026-07-21T08:41:58Z",
+    "forks": 84,
+    "watchers": 17,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.356,
+  "rank_in_category": 276,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:47:45.071640Z",
+  "last_refreshed_at": "2026-08-30T17:47:45.071644Z",
+  "consecutive_refresh_failures": 0
+}

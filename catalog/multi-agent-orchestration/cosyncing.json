@@ -1,0 +1,60 @@
+{
+  "slug": "cosyncing",
+  "name": "cosyncing",
+  "tagline": "Synchronize and Orchestrate agents from CLI to GUI, across desktop to phone.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ade",
+    "agent-orchestration",
+    "agents",
+    "ai-agents",
+    "ai-agents-framework",
+    "ai-agents-platform",
+    "claude-code",
+    "codex",
+    "codex-cli",
+    "dsh-plugin"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "cosyncing",
+    "url": "https://github.com/cosyncing"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cosyncing/cosyncing",
+    "huggingface": null,
+    "homepage": "https://cosyncing.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 37,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T23:27:37Z",
+    "first_commit_at": "2026-08-08T12:01:00Z",
+    "forks": 5,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3017,
+  "rank_in_category": 367,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:13.095915Z",
+  "last_refreshed_at": "2026-08-30T17:54:13.095919Z",
+  "consecutive_refresh_failures": 0
+}

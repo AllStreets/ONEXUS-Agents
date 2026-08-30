@@ -1,0 +1,57 @@
+{
+  "slug": "forecasting-tools",
+  "name": "forecasting-tools",
+  "tagline": "A framework for building a AI Forecasting Bot for Metaculus. Additionally AI Forecasting tools to help humans forecast the future. ",
+  "category": "reasoning-math",
+  "tags": [
+    "ai",
+    "forecasting",
+    "future",
+    "metaculus",
+    "prediction",
+    "reasoning-agent",
+    "research-tool"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Metaculus",
+    "url": "https://github.com/Metaculus"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Metaculus/forecasting-tools",
+    "huggingface": null,
+    "homepage": "https://forecasting-tools.streamlit.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 77,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-28T20:02:59Z",
+    "first_commit_at": "2024-12-19T21:27:20Z",
+    "forks": 37,
+    "watchers": 6,
+    "open_issues": 34,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3468,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:49:10.438375Z",
+  "last_refreshed_at": "2026-08-30T17:49:10.438378Z",
+  "consecutive_refresh_failures": 0
+}

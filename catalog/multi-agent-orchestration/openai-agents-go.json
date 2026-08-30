@@ -1,0 +1,62 @@
+{
+  "slug": "openai-agents-go",
+  "name": "openai-agents-go",
+  "tagline": "Unofficial Go SDK for Open AI. A lightweight, powerful framework for multi-agent workflows.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "ai",
+    "chatgpt",
+    "go",
+    "golang",
+    "llm",
+    "llm-agents",
+    "openai",
+    "openai-agents",
+    "openai-agents-sdk"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MitulShah1",
+    "url": "https://github.com/MitulShah1"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MitulShah1/openai-agents-go",
+    "huggingface": null,
+    "homepage": "https://mitulshah1.github.io/openai-agents-go/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 46,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T11:59:02Z",
+    "first_commit_at": "2026-01-09T07:33:20Z",
+    "forks": 8,
+    "watchers": 0,
+    "open_issues": 39,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "openai-agents-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.348,
+  "rank_in_category": 296,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:46:57.001649Z",
+  "last_refreshed_at": "2026-08-30T17:46:57.001653Z",
+  "consecutive_refresh_failures": 0
+}

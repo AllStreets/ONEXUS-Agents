@@ -1,0 +1,60 @@
+{
+  "slug": "zeroshot",
+  "name": "zeroshot",
+  "tagline": "Independent executor–verifier orchestration for software changes.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-loops",
+    "agent-orchestration",
+    "agentic-workflow",
+    "ai-agent",
+    "ai-agents",
+    "autonomous-agents",
+    "claude",
+    "cli",
+    "codex",
+    "coding-assistant"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "the-open-engine",
+    "url": "https://github.com/the-open-engine"
+  },
+  "source": {
+    "primary": "github",
+    "github": "the-open-engine/zeroshot",
+    "huggingface": null,
+    "homepage": "https://www.theopenengine.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1806,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T23:02:11Z",
+    "first_commit_at": "2025-12-25T17:08:13Z",
+    "forks": 167,
+    "watchers": 3,
+    "open_issues": 88,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4102,
+  "rank_in_category": 190,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:37.502936Z",
+  "last_refreshed_at": "2026-08-30T17:52:37.502939Z",
+  "consecutive_refresh_failures": 0
+}

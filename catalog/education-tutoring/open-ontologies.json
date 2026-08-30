@@ -1,0 +1,62 @@
+{
+  "slug": "open-ontologies",
+  "name": "open-ontologies",
+  "tagline": "AI-native ontology engine: a Rust MCP server with tools for building, validating, querying, and reasoning over RDF/OWL ontologies. In-memory Oxigraph triple store, native OWL2-DL tableaux reasoner, SH",
+  "category": "education-tutoring",
+  "tags": [
+    "ai-native",
+    "claude",
+    "description-logics",
+    "knowledge-graph",
+    "linked-data",
+    "mcp",
+    "mcp-server",
+    "ontology",
+    "owl",
+    "owl2"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "fabio-rovai",
+    "url": "https://github.com/fabio-rovai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fabio-rovai/open-ontologies",
+    "huggingface": null,
+    "homepage": "https://gov.tesseract.academy/research"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 456,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T15:22:16Z",
+    "first_commit_at": "2026-03-09T09:08:34Z",
+    "forks": 59,
+    "watchers": 10,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5864,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:47:42.718552Z",
+  "last_refreshed_at": "2026-08-30T17:47:42.718555Z",
+  "consecutive_refresh_failures": 0
+}

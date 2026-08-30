@@ -1,0 +1,62 @@
+{
+  "slug": "awesome-ai-anatomy",
+  "name": "awesome-ai-anatomy",
+  "tagline": "Source code teardowns of 15 AI coding agents. What is actually inside Claude Code, Dify, OpenHands, Cline, MemPalace, oh-my-codex, Goose, Codex CLI, and 7 more. Architecture diagrams, design patterns.",
+  "category": "coding",
+  "tags": [
+    "agent-framework",
+    "ai-agent",
+    "ai-security",
+    "architecture",
+    "awesome-list",
+    "claude-code",
+    "coding-agent",
+    "developer-tools",
+    "llm",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "NeuZhou",
+    "url": "https://github.com/NeuZhou"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NeuZhou/awesome-ai-anatomy",
+    "huggingface": null,
+    "homepage": "https://neuzhou.github.io/awesome-ai-anatomy"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 239,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-13T15:23:45Z",
+    "first_commit_at": "2026-04-04T12:59:51Z",
+    "forks": 21,
+    "watchers": 6,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2915,
+  "rank_in_category": 419,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:48:36.564021Z",
+  "last_refreshed_at": "2026-08-30T17:48:36.564025Z",
+  "consecutive_refresh_failures": 0
+}

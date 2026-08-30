@@ -1,0 +1,54 @@
+{
+  "slug": "innereye-deeplearning",
+  "name": "InnerEye-DeepLearning",
+  "tagline": "Medical Imaging Deep Learning library to train and deploy 3D segmentation models on Azure Machine Learning",
+  "category": "healthcare",
+  "tags": [
+    "azure",
+    "deep-learning",
+    "healthcare",
+    "medical-imaging"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/InnerEye-DeepLearning",
+    "huggingface": null,
+    "homepage": "https://aka.ms/innereyeoss"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 581,
+    "downloads_30d": null,
+    "last_commit_at": "2024-03-21T09:43:17Z",
+    "first_commit_at": "2020-07-28T18:00:03Z",
+    "forks": 147,
+    "watchers": 3,
+    "open_issues": 89,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1017,
+  "rank_in_category": 183,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:35.457594Z",
+  "last_refreshed_at": "2026-08-30T17:56:35.457598Z",
+  "consecutive_refresh_failures": 0
+}

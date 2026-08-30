@@ -1,0 +1,63 @@
+{
+  "slug": "deepgit",
+  "name": "DeepGit",
+  "tagline": "Deep research agent to help you find the best GitHub repositories 🕵️!",
+  "category": "scientific-research",
+  "tags": [
+    "agent",
+    "deep-research",
+    "github-search",
+    "langchain",
+    "langgraph",
+    "llm",
+    "nlp",
+    "open-source",
+    "python",
+    "seq2seq"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zamalali",
+    "url": "https://github.com/zamalali"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zamalali/DeepGit",
+    "huggingface": null,
+    "homepage": "https://deepgit.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 904,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T09:46:12Z",
+    "first_commit_at": "2024-12-16T04:43:11Z",
+    "forks": 96,
+    "watchers": 8,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6402,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:40.671988Z",
+  "last_refreshed_at": "2026-08-30T17:44:40.671992Z",
+  "consecutive_refresh_failures": 0
+}

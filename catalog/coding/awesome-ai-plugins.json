@@ -1,0 +1,62 @@
+{
+  "slug": "awesome-ai-plugins",
+  "name": "awesome-ai-plugins",
+  "tagline": "A curated list of awesome plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCode and More.",
+  "category": "coding",
+  "tags": [
+    "ai-assistant",
+    "ai-plugin",
+    "antigravity",
+    "awesome",
+    "awesome-list",
+    "chatgpt",
+    "clade",
+    "claude",
+    "claude-code",
+    "codex"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "hashgraph-online",
+    "url": "https://github.com/hashgraph-online"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hashgraph-online/awesome-ai-plugins",
+    "huggingface": null,
+    "homepage": "https://hol.org/registry/plugins"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 124,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T15:18:06Z",
+    "first_commit_at": "2026-04-07T18:49:59Z",
+    "forks": 135,
+    "watchers": 1,
+    "open_issues": 64,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3799,
+  "rank_in_category": 185,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:47:13.733278Z",
+  "last_refreshed_at": "2026-08-30T17:47:13.733281Z",
+  "consecutive_refresh_failures": 0
+}

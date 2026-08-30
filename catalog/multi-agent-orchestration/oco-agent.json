@@ -1,0 +1,59 @@
+{
+  "slug": "oco-agent",
+  "name": "OCO-Agent",
+  "tagline": "Open Source Computer Orchestration Agent - Endpoint Management Solution: Client & Server Inventory, Configuration & Policy Management, Automation and Software Rollout/Deployment/Distribution, Mobile D",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "automation",
+    "client",
+    "deployment",
+    "inventory",
+    "management",
+    "oco",
+    "orchestration",
+    "software-deployment"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "schorschii",
+    "url": "https://github.com/schorschii"
+  },
+  "source": {
+    "primary": "github",
+    "github": "schorschii/OCO-Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 26,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-05T21:08:11Z",
+    "first_commit_at": "2020-10-18T20:29:21Z",
+    "forks": 6,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3396,
+  "rank_in_category": 305,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:54:17.525570Z",
+  "last_refreshed_at": "2026-08-30T17:54:17.525574Z",
+  "consecutive_refresh_failures": 0
+}

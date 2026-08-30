@@ -1,0 +1,63 @@
+{
+  "slug": "ag2",
+  "name": "ag2",
+  "tagline": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "a2a",
+    "ag2",
+    "agent-framework",
+    "agentic",
+    "agentic-ai",
+    "ai",
+    "ai-agents-framework",
+    "aiagents",
+    "genai",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ag2ai",
+    "url": "https://github.com/ag2ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ag2ai/ag2",
+    "huggingface": null,
+    "homepage": "https://ag2.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4894,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T16:45:32Z",
+    "first_commit_at": "2020-12-04T17:40:27Z",
+    "forks": 707,
+    "watchers": 73,
+    "open_issues": 31,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "autogen",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5403,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:24.808792Z",
+  "last_refreshed_at": "2026-08-30T17:52:24.808796Z",
+  "consecutive_refresh_failures": 0
+}

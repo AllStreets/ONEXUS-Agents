@@ -1,0 +1,61 @@
+{
+  "slug": "awesome-mcp-servers",
+  "name": "awesome-mcp-servers",
+  "tagline": "Awesome MCP Servers - A curated list of Model Context Protocol servers",
+  "category": "marketing",
+  "tags": [
+    "ai",
+    "anthropic-claude",
+    "awesome",
+    "context",
+    "mcp",
+    "model-context-protocol",
+    "servers",
+    "tool-use",
+    "tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "appcypher",
+    "url": "https://github.com/appcypher"
+  },
+  "source": {
+    "primary": "github",
+    "github": "appcypher/awesome-mcp-servers",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 5762,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-06T08:04:35Z",
+    "first_commit_at": "2024-11-28T23:53:45Z",
+    "forks": 2258,
+    "watchers": 46,
+    "open_issues": 523,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2548,
+  "rank_in_category": 145,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T18:06:12.530899Z",
+  "last_refreshed_at": "2026-08-30T18:06:12.530902Z",
+  "consecutive_refresh_failures": 0
+}

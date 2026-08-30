@@ -1,0 +1,55 @@
+{
+  "slug": "ksor",
+  "name": "ksor",
+  "tagline": "KSoR (Knowledge System of Record) is an open-source SDK for building governed, authoritative knowledge systems for humans and AI agents. It is a foundation of an AI-native knowledge platform.",
+  "category": "knowledge-management",
+  "tags": [
+    "agents",
+    "ai-agents",
+    "governed-agents",
+    "governed-ai",
+    "system-of-record"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "panaversity",
+    "url": "https://github.com/panaversity"
+  },
+  "source": {
+    "primary": "github",
+    "github": "panaversity/ksor",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 126,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:42:43Z",
+    "first_commit_at": "2026-08-17T06:59:03Z",
+    "forks": 27,
+    "watchers": 23,
+    "open_issues": 24,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5437,
+  "rank_in_category": 105,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:47:12.411283Z",
+  "last_refreshed_at": "2026-08-30T17:47:12.411287Z",
+  "consecutive_refresh_failures": 0
+}

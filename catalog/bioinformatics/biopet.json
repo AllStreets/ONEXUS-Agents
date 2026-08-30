@@ -1,0 +1,54 @@
+{
+  "slug": "biopet",
+  "name": "biopet",
+  "tagline": "Biopet docs",
+  "category": "bioinformatics",
+  "tags": [
+    "gatk",
+    "pipeline",
+    "scala",
+    "workflow"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "biopet",
+    "url": "https://github.com/biopet"
+  },
+  "source": {
+    "primary": "github",
+    "github": "biopet/biopet",
+    "huggingface": null,
+    "homepage": "http://biopet-docs.readthedocs.io/en/latest/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 17,
+    "downloads_30d": null,
+    "last_commit_at": "2018-08-02T09:04:06Z",
+    "first_commit_at": "2014-05-14T08:13:48Z",
+    "forks": 3,
+    "watchers": 7,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2928,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:43:47.112328Z",
+  "last_refreshed_at": "2026-08-30T17:43:47.112332Z",
+  "consecutive_refresh_failures": 0
+}

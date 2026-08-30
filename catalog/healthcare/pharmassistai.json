@@ -1,0 +1,62 @@
+{
+  "slug": "pharmassistai",
+  "name": "PharmAssistAI",
+  "tagline": "An innovative application designed to help pharmacists and pharmacy students quickly research FDA-approved drugs by retrieving relevant information from drug labels and adverse event datasets, and pro",
+  "category": "healthcare",
+  "tags": [
+    "ai-in-pharmacy",
+    "chainlit",
+    "educational-tool",
+    "fda-data",
+    "healthcare-ai",
+    "langchain",
+    "langsmith",
+    "llm",
+    "nlp",
+    "open-source-healthcare"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rajkstats",
+    "url": "https://github.com/rajkstats"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rajkstats/PharmAssistAI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 26,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-24T01:21:10Z",
+    "first_commit_at": "2024-05-14T02:01:44Z",
+    "forks": 9,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2666,
+  "rank_in_category": 133,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:56:55.344182Z",
+  "last_refreshed_at": "2026-08-30T17:56:55.344185Z",
+  "consecutive_refresh_failures": 0
+}

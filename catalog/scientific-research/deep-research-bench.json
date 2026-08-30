@@ -1,0 +1,54 @@
+{
+  "slug": "deep-research-bench",
+  "name": "deep_research_bench",
+  "tagline": "DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents",
+  "category": "scientific-research",
+  "tags": [
+    "agent",
+    "benchmark",
+    "deepresearch",
+    "nlp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Ayanami0730",
+    "url": "https://github.com/Ayanami0730"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Ayanami0730/deep_research_bench",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/pdf/2506.11763"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 817,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-11T06:14:30Z",
+    "first_commit_at": "2025-06-13T09:36:49Z",
+    "forks": 84,
+    "watchers": 3,
+    "open_issues": 24,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4865,
+  "rank_in_category": 154,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:41.303208Z",
+  "last_refreshed_at": "2026-08-30T17:44:41.303212Z",
+  "consecutive_refresh_failures": 0
+}

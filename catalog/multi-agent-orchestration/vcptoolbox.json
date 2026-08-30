@@ -1,0 +1,60 @@
+{
+  "slug": "vcptoolbox",
+  "name": "VCPToolBox",
+  "tagline": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-framework",
+    "ai-agent",
+    "ai-assistant",
+    "ai-companion",
+    "context-management",
+    "context-management-system",
+    "function-calling",
+    "llm",
+    "multi-model",
+    "nodejs"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lioensky",
+    "url": "https://github.com/lioensky"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lioensky/VCPToolBox",
+    "huggingface": null,
+    "homepage": "https://www.vcptoolbox.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2276,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T17:05:32Z",
+    "first_commit_at": "2025-05-12T13:51:06Z",
+    "forks": 373,
+    "watchers": 23,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4278,
+  "rank_in_category": 159,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:29.246279Z",
+  "last_refreshed_at": "2026-08-30T17:52:29.246282Z",
+  "consecutive_refresh_failures": 0
+}

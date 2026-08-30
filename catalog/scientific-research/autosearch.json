@@ -1,0 +1,65 @@
+{
+  "slug": "autosearch",
+  "name": "Autosearch",
+  "tagline": "Open-source deep research for AI agents: 40 channels, 10+ Chinese sources.",
+  "category": "scientific-research",
+  "tags": [
+    "agent-infrastructure",
+    "agentic-search",
+    "ai-agent",
+    "ai-agents",
+    "autogen",
+    "chinese-search",
+    "claude-code",
+    "claude-code-plugin",
+    "cline",
+    "cursor"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "0xmariowu",
+    "url": "https://github.com/0xmariowu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "0xmariowu/Autosearch",
+    "huggingface": null,
+    "homepage": "https://www.autosearch.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 44,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-07T08:28:16Z",
+    "first_commit_at": "2026-03-25T00:52:30Z",
+    "forks": 6,
+    "watchers": 2,
+    "open_issues": 15,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "autogen",
+      "langchain",
+      "llamaindex",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5281,
+  "rank_in_category": 114,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:43:59.704017Z",
+  "last_refreshed_at": "2026-08-30T17:43:59.704021Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "3d-muscles",
+  "name": "3d-muscles",
+  "tagline": "Materials to reproduce the results of our paper about 3D muscle modelling.",
+  "category": "scientific-research",
+  "tags": [
+    "bioengineering",
+    "biomechanics",
+    "geometry",
+    "hip",
+    "joint-models",
+    "muscle",
+    "muscle-model",
+    "opensim",
+    "scientific-papers",
+    "scientific-publications"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "modenaxe",
+    "url": "https://github.com/modenaxe"
+  },
+  "source": {
+    "primary": "github",
+    "github": "modenaxe/3d-muscles",
+    "huggingface": null,
+    "homepage": "https://simtk.org/projects/3d-muscles"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 35,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-30T01:07:25Z",
+    "first_commit_at": "2020-01-15T14:58:29Z",
+    "forks": 6,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3602,
+  "rank_in_category": 281,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:44:30.971225Z",
+  "last_refreshed_at": "2026-08-30T17:44:30.971229Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "ruflo",
+  "name": "ruflo",
+  "tagline": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "agents",
+    "ai-agents",
+    "ai-assistant",
+    "ai-skills",
+    "autonomous-agents",
+    "claude-code",
+    "codex"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ruvnet",
+    "url": "https://github.com/ruvnet"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ruvnet/ruflo",
+    "huggingface": null,
+    "homepage": "https://cognitum.one/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 69801,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-30T13:47:12Z",
+    "first_commit_at": "2025-06-02T21:24:20Z",
+    "forks": 8350,
+    "watchers": 445,
+    "open_issues": 870,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5751,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:52:04.019436Z",
+  "last_refreshed_at": "2026-08-30T17:52:04.019440Z",
+  "consecutive_refresh_failures": 0
+}
