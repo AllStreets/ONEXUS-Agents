@@ -1,7 +1,7 @@
 {
   "slug": "remote-pi",
   "name": "remote_pi",
-  "tagline": "Control your Pi coding agent from your phone. Pair with a one-time QR code and chat with your local agent — even when you're away from your computer.",
+  "tagline": "Control your Pi coding agent from your phone. Pair with a one-time QR code and chat with your local agent, even when you're away from your computer.",
   "category": "coding",
   "tags": [
     "agent",
@@ -25,13 +25,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 297,
+    "stars": 323,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-25T03:41:11Z",
+    "last_commit_at": "2026-08-30T20:27:17Z",
     "first_commit_at": "2026-05-18T01:51:05Z",
-    "forks": 83,
+    "forks": 84,
     "watchers": 1,
-    "open_issues": 24,
+    "open_issues": 25,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -48,10 +48,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3147,
-  "rank_in_category": 360,
+  "composite_score": 0.3203,
+  "rank_in_category": 345,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-25T13:59:54.645636Z",
-  "last_refreshed_at": "2026-08-25T13:59:54.645640Z",
-  "consecutive_refresh_failures": 5
+  "first_seen_at": "2026-08-31T19:34:04.027671Z",
+  "last_refreshed_at": "2026-08-31T19:34:04.027675Z",
+  "consecutive_refresh_failures": 0
 }
