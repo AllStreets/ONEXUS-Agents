@@ -1,0 +1,49 @@
+{
+  "slug": "github-trending",
+  "name": "github-trending",
+  "tagline": "定时抓取 Github Trending",
+  "category": "web-dev",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "johe123qwe",
+    "url": "https://github.com/johe123qwe"
+  },
+  "source": {
+    "primary": "github",
+    "github": "johe123qwe/github-trending",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 61,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-31T18:57:13Z",
+    "first_commit_at": "2023-04-15T05:59:17Z",
+    "forks": 12,
+    "watchers": 5,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4884,
+  "rank_in_category": 97,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-31T19:35:29.611631Z",
+  "last_refreshed_at": "2026-08-31T19:35:29.611635Z",
+  "consecutive_refresh_failures": 0
+}

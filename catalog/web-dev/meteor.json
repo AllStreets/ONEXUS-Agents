@@ -1,0 +1,60 @@
+{
+  "slug": "meteor",
+  "name": "meteor",
+  "tagline": "Meteor, the JavaScript App Platform",
+  "category": "web-dev",
+  "tags": [
+    "build-system",
+    "framework",
+    "hacktoberfest",
+    "javascript",
+    "meteor",
+    "mongodb",
+    "nodejs",
+    "npm",
+    "react",
+    "reactive-programming"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "meteor",
+    "url": "https://github.com/meteor"
+  },
+  "source": {
+    "primary": "github",
+    "github": "meteor/meteor",
+    "huggingface": null,
+    "homepage": "https://meteor.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 44812,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-31T19:05:18Z",
+    "first_commit_at": "2011-11-18T02:35:20Z",
+    "forks": 5240,
+    "watchers": 1477,
+    "open_issues": 357,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6817,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-31T19:28:36.055485Z",
+  "last_refreshed_at": "2026-08-31T19:28:36.055488Z",
+  "consecutive_refresh_failures": 0
+}

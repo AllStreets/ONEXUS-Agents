@@ -1,0 +1,55 @@
+{
+  "slug": "codex-router",
+  "name": "codex-router",
+  "tagline": "External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.",
+  "category": "devops-sre",
+  "tags": [
+    "codex",
+    "deepseek",
+    "kimi",
+    "litellm",
+    "model-router"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "duolahypercho",
+    "url": "https://github.com/duolahypercho"
+  },
+  "source": {
+    "primary": "github",
+    "github": "duolahypercho/codex-router",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2992,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-31T15:15:52Z",
+    "first_commit_at": "2026-07-19T22:49:48Z",
+    "forks": 231,
+    "watchers": 6,
+    "open_issues": 15,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5465,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-30T17:20:29.545926Z",
+  "last_refreshed_at": "2026-08-31T19:30:52.560253Z",
+  "consecutive_refresh_failures": 0
+}

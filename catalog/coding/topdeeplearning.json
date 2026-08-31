@@ -22,12 +22,12 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 6228,
+    "stars": 6299,
     "downloads_30d": null,
     "last_commit_at": "2026-07-15T02:19:53Z",
     "first_commit_at": "2016-04-27T04:13:03Z",
-    "forks": 1237,
-    "watchers": 346,
+    "forks": 1250,
+    "watchers": 351,
     "open_issues": 20,
     "archived": false,
     "is_fork": false,
@@ -35,22 +35,20 @@
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
-    "releases_total": 0,
+    "releases_total": null,
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
-    "readme_length": 309716,
-    "frameworks": [
-      "anthropic-sdk"
-    ]
+    "readme_length": null,
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4481,
-  "rank_in_category": 53,
+  "composite_score": 0.4326,
+  "rank_in_category": 80,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-25T14:40:45.951679Z",
-  "last_refreshed_at": "2026-08-23T17:47:25.624151Z",
-  "consecutive_refresh_failures": 27
+  "last_refreshed_at": "2026-08-31T19:27:41.585656Z",
+  "consecutive_refresh_failures": 0
 }
