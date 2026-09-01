@@ -1,31 +1,35 @@
 {
   "slug": "awesome",
-  "name": "Awesome",
-  "tagline": "My Awesome from the starred repos 😋",
+  "name": "awesome",
+  "tagline": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
   "category": "knowledge-management",
   "tags": [
-    "awesome"
+    "awesome",
+    "awesome-list",
+    "lists",
+    "resources",
+    "unicorns"
   ],
   "author": {
     "type": "user",
-    "handle": "skyfe79",
-    "url": "https://github.com/skyfe79"
+    "handle": "sindresorhus",
+    "url": "https://github.com/sindresorhus"
   },
   "source": {
     "primary": "github",
-    "github": "skyfe79/Awesome",
+    "github": "sindresorhus/awesome",
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "CC0-1.0",
   "metrics": {
-    "stars": 11,
+    "stars": 501974,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-23T23:26:37Z",
-    "first_commit_at": "2021-08-27T18:04:06Z",
-    "forks": 3,
-    "watchers": 1,
-    "open_issues": 0,
+    "last_commit_at": "2026-08-21T12:39:13Z",
+    "first_commit_at": "2014-07-11T13:42:24Z",
+    "forks": 36671,
+    "watchers": 8366,
+    "open_issues": 105,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,12 +44,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5314,
-  "rank_in_category": 116,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.778,
+  "rank_in_category": 4,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-30T17:25:37.668329Z",
-  "last_refreshed_at": "2026-08-30T19:52:29.565708Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-06-06T09:47:27.962549Z",
+  "last_refreshed_at": "2026-09-01T17:14:37.829984Z",
+  "consecutive_refresh_failures": 0
 }

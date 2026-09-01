@@ -1,7 +1,7 @@
 {
   "slug": "late-cli",
   "name": "late-cli",
-  "tagline": "Zero-config AI agent written in pure Go. Enforced ephemeral subagents keep your model smart and your context tiny. From tiny local models to frontier LLMs.",
+  "tagline": "A minimalist AI agent written in pure Go with a subagents first workflow. Get more out of the same model.",
   "category": "coding",
   "tags": [
     "agent",
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3899,
-  "rank_in_category": 168,
+  "composite_score": 0.3891,
+  "rank_in_category": 171,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-03T14:12:04.822074Z",
-  "last_refreshed_at": "2026-08-31T19:25:02.555331Z",
+  "last_refreshed_at": "2026-09-01T17:11:13.480702Z",
   "consecutive_refresh_failures": 0
 }
