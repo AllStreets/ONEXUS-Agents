@@ -1,40 +1,35 @@
 {
   "slug": "awesome-dsh-plugin",
   "name": "awesome-dsh-plugin",
-  "tagline": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
+  "tagline": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
   "category": "coding",
   "tags": [
-    "agent-harness",
-    "ai-agent",
-    "ai-agents",
-    "autonomous-agent",
     "awesome",
     "awesome-list",
-    "cli",
-    "coding-agent",
-    "cordis",
-    "deepseek"
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin"
   ],
   "author": {
-    "type": "user",
-    "handle": "Anil-matcha",
-    "url": "https://github.com/Anil-matcha"
+    "type": "org",
+    "handle": "awesome-dsh-plugin",
+    "url": "https://github.com/awesome-dsh-plugin"
   },
   "source": {
     "primary": "github",
-    "github": "Anil-matcha/awesome-dsh-plugin",
+    "github": "awesome-dsh-plugin/awesome-dsh-plugin",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://awesome-dsh-plugin.com/"
   },
-  "license": "Unknown",
+  "license": "CC0-1.0",
   "metrics": {
-    "stars": 991,
+    "stars": 14050,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-25T06:52:19Z",
-    "first_commit_at": "2023-05-06T17:27:55Z",
-    "forks": 264,
-    "watchers": 17,
-    "open_issues": 25,
+    "last_commit_at": "2026-09-01T15:28:21Z",
+    "first_commit_at": "2026-08-13T13:55:28Z",
+    "forks": 2465,
+    "watchers": 34,
+    "open_issues": 281,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -49,12 +44,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.3852,
-  "rank_in_category": 177,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4372,
+  "rank_in_category": 68,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-30T17:34:06.633779Z",
-  "last_refreshed_at": "2026-08-30T17:34:06.633783Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-08-19T13:56:37.689659Z",
+  "last_refreshed_at": "2026-09-01T17:20:17.694904Z",
+  "consecutive_refresh_failures": 0
 }
