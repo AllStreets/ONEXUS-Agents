@@ -1,0 +1,62 @@
+{
+  "slug": "quantbrain-agent",
+  "name": "quantbrain-agent",
+  "tagline": "面向 A 股投研，针对分析时效差、逻辑不全及数据难量化痛点，自主构建以 Qwen2.5-72B-AWQ 为核心的全链路自动化投研系统。利用 LangGraph 编排多智能体协作流，融合 LoRA 垂直微调、MCP 工具链与 CoT+ReAct 架构，实现从行情舆情实时采集、产业链知识图谱多维推演到 Reflexion 反思审核的投研全闭环，每日 9:00 定时产出机构级专业研报推送飞书，显著提升投",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "fintech",
+    "langgraph",
+    "llm",
+    "lora",
+    "multi-agent",
+    "python",
+    "qwen2-5",
+    "stock-analysis",
+    "vllm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SR88888888",
+    "url": "https://github.com/SR88888888"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SR88888888/quantbrain-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-02T11:27:34Z",
+    "first_commit_at": "2026-03-02T07:04:42Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2021,
+  "rank_in_category": 542,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:56:40.938641Z",
+  "last_refreshed_at": "2026-09-02T17:26:27.863764Z",
+  "consecutive_refresh_failures": 0
+}

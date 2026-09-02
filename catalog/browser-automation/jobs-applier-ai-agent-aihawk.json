@@ -1,7 +1,7 @@
 {
   "slug": "jobs-applier-ai-agent-aihawk",
   "name": "Jobs_Applier_AI_Agent_AIHawk",
-  "tagline": "Open source AI job application bot in Python: browser automation and web scraping to read job postings, then auto-apply with a tailored resume and cover letter for each posting.",
+  "tagline": "Open source AI job application toolkit in Python: generate a resume and cover letter tailored to each job posting, and drive a stealth browser from any AI client over MCP.",
   "category": "browser-automation",
   "tags": [
     "anti-bot",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
     "huggingface": null,
-    "homepage": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk/wiki"
+    "homepage": null
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 30290,
+    "stars": 30302,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-19T11:05:09Z",
+    "last_commit_at": "2026-09-02T11:50:42Z",
     "first_commit_at": "2024-12-05T00:01:47Z",
     "forks": 4645,
     "watchers": 206,
-    "open_issues": 28,
+    "open_issues": 22,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4871,
+  "composite_score": 0.4995,
   "rank_in_category": 6,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-31T19:33:17.506263Z",
-  "last_refreshed_at": "2026-08-31T19:33:17.506266Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-09-02T17:11:54.280790Z",
+  "last_refreshed_at": "2026-09-02T17:11:54.280794Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,58 @@
+{
+  "slug": "solana-agent-kit",
+  "name": "solana-agent-kit",
+  "tagline": "connect any ai agents to solana protocols",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai",
+    "langchain",
+    "langchain-js",
+    "solana",
+    "solana-langchain",
+    "web3js"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "sendaifun",
+    "url": "https://github.com/sendaifun"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sendaifun/solana-agent-kit",
+    "huggingface": null,
+    "homepage": "https://kit.sendai.fun/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1710,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-14T18:46:54Z",
+    "first_commit_at": "2024-11-17T14:39:36Z",
+    "forks": 873,
+    "watchers": 21,
+    "open_issues": 63,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2999,
+  "rank_in_category": 373,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:56:30.987864Z",
+  "last_refreshed_at": "2026-09-02T17:26:06.319737Z",
+  "consecutive_refresh_failures": 0
+}

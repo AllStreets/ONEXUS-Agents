@@ -1,7 +1,7 @@
 {
   "slug": "late-cli",
   "name": "late-cli",
-  "tagline": "A minimalist AI agent written in pure Go with a subagents first workflow. Get more out of the same model.",
+  "tagline": "Autonomous AI dev agent in pure Go. Enforced ephemeral subagents keep context pure. Making small local models viable for real dev work.",
   "category": "coding",
   "tags": [
     "agent",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 414,
+    "stars": 415,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-31T00:08:52Z",
+    "last_commit_at": "2026-09-01T22:59:47Z",
     "first_commit_at": "2026-02-21T16:22:08Z",
     "forks": 43,
     "watchers": 6,
-    "open_issues": 9,
+    "open_issues": 7,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3891,
-  "rank_in_category": 171,
+  "composite_score": 0.3901,
+  "rank_in_category": 169,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-03T14:12:04.822074Z",
-  "last_refreshed_at": "2026-09-01T17:11:13.480702Z",
+  "last_refreshed_at": "2026-09-02T17:01:50.997052Z",
   "consecutive_refresh_failures": 0
 }

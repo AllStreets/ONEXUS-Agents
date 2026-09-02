@@ -1,0 +1,56 @@
+{
+  "slug": "codewiki",
+  "name": "CodeWiki",
+  "tagline": "[ACL 2026] Open-source framework for holistic, structured repository-level documentation across multilingual codebases",
+  "category": "search-rag",
+  "tags": [
+    "automated-documentation",
+    "code-documentation",
+    "code-understanding",
+    "documentation-generator",
+    "open-source-deepwiki",
+    "repository-documentation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "FSoft-AI4Code",
+    "url": "https://github.com/FSoft-AI4Code"
+  },
+  "source": {
+    "primary": "github",
+    "github": "FSoft-AI4Code/CodeWiki",
+    "huggingface": null,
+    "homepage": "https://fsoft-ai4code.github.io/CodeWiki/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1660,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-24T02:30:37Z",
+    "first_commit_at": "2025-09-05T09:42:25Z",
+    "forks": 252,
+    "watchers": 13,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3763,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:06.407459Z",
+  "last_refreshed_at": "2026-09-02T17:21:17.460991Z",
+  "consecutive_refresh_failures": 0
+}
