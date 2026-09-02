@@ -1,6 +1,6 @@
 {
   "slug": "codewhale",
-  "name": "CodeWhale",
+  "name": "Codewhale",
   "tagline": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
   "category": "coding",
   "tags": [
@@ -22,19 +22,19 @@
   },
   "source": {
     "primary": "github",
-    "github": "Hmbown/CodeWhale",
+    "github": "Hmbown/Codewhale",
     "huggingface": null,
     "homepage": "https://codewhale.net/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 40888,
+    "stars": 40897,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-01T16:53:53Z",
+    "last_commit_at": "2026-09-02T17:00:23Z",
     "first_commit_at": "2026-01-20T14:57:35Z",
-    "forks": 3540,
-    "watchers": 164,
-    "open_issues": 110,
+    "forks": 3538,
+    "watchers": 165,
+    "open_issues": 79,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4808,
+  "composite_score": 0.4809,
   "rank_in_category": 29,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-18T13:41:45.935952Z",
-  "last_refreshed_at": "2026-09-01T17:10:14.738681Z",
+  "first_seen_at": "2026-09-02T17:00:41.542309Z",
+  "last_refreshed_at": "2026-09-02T17:00:41.542313Z",
   "consecutive_refresh_failures": 0
 }

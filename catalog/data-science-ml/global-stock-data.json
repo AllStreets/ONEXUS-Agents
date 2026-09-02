@@ -1,0 +1,60 @@
+{
+  "slug": "global-stock-data",
+  "name": "global-stock-data",
+  "tagline": "US stock market data for AI coding assistants — zero-auth, official sources. CBOE options with full Greeks + 0DTE flow, FINRA market-wide short volume, SEC EDGAR filing stream, and a free market-wide ",
+  "category": "data-science-ml",
+  "tags": [
+    "0dte",
+    "ai-skill",
+    "cboe",
+    "claude-code",
+    "financial-data",
+    "finra",
+    "fintech",
+    "llm-tools",
+    "market-data",
+    "options-data"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "simonlin1212",
+    "url": "https://github.com/simonlin1212"
+  },
+  "source": {
+    "primary": "github",
+    "github": "simonlin1212/global-stock-data",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1512,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-01T06:12:19Z",
+    "first_commit_at": "2026-05-20T10:12:23Z",
+    "forks": 234,
+    "watchers": 7,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3368,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-28T14:51:55.949956Z",
+  "last_refreshed_at": "2026-09-02T17:05:27.059497Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,35 +1,40 @@
 {
   "slug": "awesome-dsh-plugin",
   "name": "awesome-dsh-plugin",
-  "tagline": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+  "tagline": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
   "category": "coding",
   "tags": [
+    "agent-harness",
+    "ai-agent",
+    "ai-agents",
+    "autonomous-agent",
     "awesome",
     "awesome-list",
-    "deepseek-harness",
-    "dsh",
-    "dsh-plugin"
+    "cli",
+    "coding-agent",
+    "cordis",
+    "deepseek"
   ],
   "author": {
-    "type": "org",
-    "handle": "awesome-dsh-plugin",
-    "url": "https://github.com/awesome-dsh-plugin"
+    "type": "user",
+    "handle": "Anil-matcha",
+    "url": "https://github.com/Anil-matcha"
   },
   "source": {
     "primary": "github",
-    "github": "awesome-dsh-plugin/awesome-dsh-plugin",
+    "github": "Anil-matcha/awesome-dsh-plugin",
     "huggingface": null,
-    "homepage": "https://awesome-dsh-plugin.com/"
+    "homepage": null
   },
-  "license": "CC0-1.0",
+  "license": "Unknown",
   "metrics": {
-    "stars": 14050,
+    "stars": 994,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-01T15:28:21Z",
-    "first_commit_at": "2026-08-13T13:55:28Z",
-    "forks": 2465,
-    "watchers": 34,
-    "open_issues": 281,
+    "last_commit_at": "2026-08-25T06:52:19Z",
+    "first_commit_at": "2023-05-06T17:27:55Z",
+    "forks": 264,
+    "watchers": 20,
+    "open_issues": 27,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -44,12 +49,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4372,
-  "rank_in_category": 68,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3834,
+  "rank_in_category": 184,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-19T13:56:37.689659Z",
-  "last_refreshed_at": "2026-09-01T17:20:17.694904Z",
+  "first_seen_at": "2026-09-02T17:25:15.961639Z",
+  "last_refreshed_at": "2026-09-02T17:25:15.961643Z",
   "consecutive_refresh_failures": 0
 }
