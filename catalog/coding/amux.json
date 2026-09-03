@@ -1,7 +1,7 @@
 {
   "slug": "amux",
   "name": "amux",
-  "tagline": "Open-source control plane for AI coding agents — run, monitor & orchestrate dozens of parallel Claude Code, Codex & Gemini sessions from one web dashboard or your phone. Self-healing, single-file, tmu",
+  "tagline": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messagin",
   "category": "coding",
   "tags": [
     "agent-orchestration",
@@ -9,11 +9,11 @@
     "ai-agents",
     "ai-coding-assistant",
     "anthropic",
-    "automation",
     "claude",
     "claude-code",
-    "cli",
-    "codex"
+    "codex",
+    "coding-agent",
+    "control-plane"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 369,
+    "stars": 381,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-26T12:08:25Z",
+    "last_commit_at": "2026-09-03T16:28:48Z",
     "first_commit_at": "2026-02-18T01:35:42Z",
-    "forks": 41,
-    "watchers": 3,
-    "open_issues": 14,
+    "forks": 46,
+    "watchers": 2,
+    "open_issues": 13,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3825,
-  "rank_in_category": 187,
+  "composite_score": 0.3906,
+  "rank_in_category": 170,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-08T15:22:31.647721Z",
-  "last_refreshed_at": "2026-08-26T13:56:48.941950Z",
-  "consecutive_refresh_failures": 7
+  "last_refreshed_at": "2026-09-03T16:59:10.854833Z",
+  "consecutive_refresh_failures": 0
 }
