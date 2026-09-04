@@ -1,0 +1,62 @@
+{
+  "slug": "genpark-visual-viewport-element-occlusion-resolver-skill",
+  "name": "genpark-visual-viewport-element-occlusion-resolver-skill",
+  "tagline": "Visual viewport element occlusion resolver & modal dismiser (Computer Use)",
+  "category": "web-dev",
+  "tags": [
+    "agent-skills",
+    "browser-automation",
+    "dom-selector",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "playwright",
+    "python",
+    "skills",
+    "tabbit-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "alphaparkinc",
+    "url": "https://github.com/alphaparkinc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alphaparkinc/genpark-visual-viewport-element-occlusion-resolver-skill",
+    "huggingface": null,
+    "homepage": "https://genpark.ai/mcp"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-04T01:38:27Z",
+    "first_commit_at": "2026-09-04T01:38:11Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4254,
+  "rank_in_category": 142,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-04T16:54:06.284430Z",
+  "last_refreshed_at": "2026-09-04T16:54:06.284434Z",
+  "consecutive_refresh_failures": 0
+}

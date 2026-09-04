@@ -1,19 +1,19 @@
 {
   "slug": "aihawk",
   "name": "AIHawk",
-  "tagline": "Born as an AI web agent that applied to jobs in bulk. Becoming a general one: an agent you point at the web and tell what to do.",
+  "tagline": "AI browser agent on a real Firefox: describe the task in plain language and it browses, clicks and reads the web for you.",
   "category": "web-dev",
   "tags": [
-    "anti-bot",
-    "anti-detect-browser",
-    "antidetect",
+    "agents",
+    "ai",
+    "ai-agent",
+    "ai-agents",
     "automation",
-    "bot-detection",
+    "autonomous-agents",
+    "browser",
+    "browser-agent",
     "browser-automation",
-    "browser-fingerprinting",
-    "cloudflare",
-    "crawler",
-    "fingerprint"
+    "computer-use"
   ],
   "author": {
     "type": "user",
@@ -24,16 +24,16 @@
     "primary": "github",
     "github": "feder-cr/AIHawk",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://github.com/feder-cr/AIHawk/wiki"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 30307,
+    "stars": 30309,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-03T16:43:23Z",
+    "last_commit_at": "2026-09-04T16:51:11Z",
     "first_commit_at": "2024-12-05T00:01:47Z",
     "forks": 4645,
-    "watchers": 203,
+    "watchers": 198,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -46,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.6439,
-  "rank_in_category": 21,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.717,
+  "rank_in_category": 3,
   "discovered_via": "auto",
   "first_seen_at": "2026-09-03T17:09:31.518216Z",
-  "last_refreshed_at": "2026-09-03T17:09:31.518221Z",
+  "last_refreshed_at": "2026-09-04T16:53:48.182324Z",
   "consecutive_refresh_failures": 0
 }

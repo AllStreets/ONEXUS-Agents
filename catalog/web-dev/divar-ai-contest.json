@@ -1,7 +1,7 @@
 {
   "slug": "divar-ai-contest",
   "name": "Divar-AI-Contest",
-  "tagline": "CTF for AI agents — 1st & 2nd place LLM-agent solutions to Divar's AI Contest on Quera. Built on GPT-4.1-mini (via Metis AI) with LangGraph ReAct agents.",
+  "tagline": "CTF for AI agents. 1st & 2nd place LLM-agent solutions to Divar's AI Contest on Quera, built on GPT-4.1-mini (via Metis AI) with LangGraph ReAct agents.",
   "category": "web-dev",
   "tags": [
     "agentic-ai",
@@ -28,7 +28,7 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 48,
+    "stars": 53,
     "downloads_30d": null,
     "last_commit_at": "2026-08-08T19:06:42Z",
     "first_commit_at": "2025-07-10T13:09:05Z",
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.402,
+  "composite_score": 0.4026,
   "rank_in_category": 162,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T13:58:10.598507Z",
-  "last_refreshed_at": "2026-09-03T17:08:50.230840Z",
+  "last_refreshed_at": "2026-09-04T16:54:19.915102Z",
   "consecutive_refresh_failures": 0
 }
