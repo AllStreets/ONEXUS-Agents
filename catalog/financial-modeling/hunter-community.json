@@ -1,18 +1,19 @@
 {
   "slug": "hunter-community",
   "name": "hunter-community",
-  "tagline": "Hunter Community Edition · your private financial AI team · open-source self-hosted · powered by opencode + MCP + multi-agent · 15 min docker start",
+  "tagline": "Hunter Community Edition · 私人金融 AI 团队 · AI 智能体 + AI 量化 · 开源自托管 · powered by opencode + Claude Code + MCP + multi-agent · your private financial AI team · open-source self-hosted · 15 min docker start",
   "category": "financial-modeling",
   "tags": [
     "ai-agents",
+    "ai-hedge-fund",
+    "ai-quant",
+    "anthropic",
     "apache-2",
+    "claude-agent-sdk",
+    "claude-code",
+    "codex",
     "docker-compose",
-    "financial-ai",
-    "mcp",
-    "opencode",
-    "opensource",
-    "self-hosted",
-    "stock-market"
+    "financial-ai"
   ],
   "author": {
     "type": "org",
@@ -27,9 +28,9 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 408,
+    "stars": 423,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-02T09:44:49Z",
+    "last_commit_at": "2026-09-03T18:01:39Z",
     "first_commit_at": "2026-08-10T10:35:37Z",
     "forks": 7,
     "watchers": 1,
@@ -46,16 +47,17 @@
     "has_ci": null,
     "readme_length": null,
     "frameworks": [
+      "anthropic-sdk",
       "mcp"
     ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5219,
+  "composite_score": 0.5232,
   "rank_in_category": 31,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-16T13:52:33.785009Z",
-  "last_refreshed_at": "2026-09-03T17:22:55.747599Z",
+  "last_refreshed_at": "2026-09-04T17:07:18.545737Z",
   "consecutive_refresh_failures": 0
 }
