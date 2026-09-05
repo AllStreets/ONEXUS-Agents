@@ -1,0 +1,49 @@
+{
+  "slug": "sample-target-identification-agent-using-kiro",
+  "name": "sample-target-identification-agent-using-kiro",
+  "tagline": "Multi agent application for target identification using spec-driven development with Kiro. Implements AWS Bedrock AgentCore agents for pharmaceutical target research, accessing 30+ biomedical database",
+  "category": "scientific-research",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "aws-samples",
+    "url": "https://github.com/aws-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-samples/sample-target-identification-agent-using-kiro",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT-0",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-12T17:08:43Z",
+    "first_commit_at": "2026-01-13T15:22:23Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 25,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.311,
+  "rank_in_category": 321,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-05T15:53:07.004785Z",
+  "last_refreshed_at": "2026-09-05T15:53:07.004789Z",
+  "consecutive_refresh_failures": 0
+}

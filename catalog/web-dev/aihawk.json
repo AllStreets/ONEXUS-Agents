@@ -1,19 +1,19 @@
 {
   "slug": "aihawk",
   "name": "AIHawk",
-  "tagline": "AI browser agent on a real Firefox: describe the task in plain language and it browses, clicks and reads the web for you.",
+  "tagline": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.",
   "category": "web-dev",
   "tags": [
-    "agents",
-    "ai",
+    "agentic-ai",
     "ai-agent",
-    "ai-agents",
-    "automation",
+    "ai-automation",
+    "autonomous-agent",
     "autonomous-agents",
     "browser",
     "browser-agent",
-    "browser-automation",
-    "computer-use"
+    "computer-use",
+    "job-hunting",
+    "job-search"
   ],
   "author": {
     "type": "user",
@@ -28,12 +28,12 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 30309,
+    "stars": 30312,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-04T16:51:11Z",
+    "last_commit_at": "2026-09-05T13:04:02Z",
     "first_commit_at": "2024-12-05T00:01:47Z",
-    "forks": 4645,
-    "watchers": 198,
+    "forks": 4646,
+    "watchers": 197,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -46,17 +46,15 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": [
-      "mcp"
-    ]
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.717,
-  "rank_in_category": 3,
+  "composite_score": 0.6939,
+  "rank_in_category": 6,
   "discovered_via": "auto",
   "first_seen_at": "2026-09-03T17:09:31.518216Z",
-  "last_refreshed_at": "2026-09-04T16:53:48.182324Z",
+  "last_refreshed_at": "2026-09-05T15:55:25.857000Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,63 @@
+{
+  "slug": "leann",
+  "name": "LEANN",
+  "tagline": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal devi",
+  "category": "search-rag",
+  "tags": [
+    "ai",
+    "faiss",
+    "gpt-oss",
+    "langchain",
+    "llama-index",
+    "llm",
+    "localstorage",
+    "offline-first",
+    "ollama",
+    "privacy"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "StarTrail-org",
+    "url": "https://github.com/StarTrail-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "StarTrail-org/LEANN",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2506.08276"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12890,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-05T09:57:42Z",
+    "first_commit_at": "2025-06-30T09:05:05Z",
+    "forks": 1163,
+    "watchers": 78,
+    "open_issues": 41,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "llamaindex"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4419,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-05T15:50:58.285260Z",
+  "last_refreshed_at": "2026-09-05T15:50:58.285264Z",
+  "consecutive_refresh_failures": 0
+}

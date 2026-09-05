@@ -1,7 +1,7 @@
 {
   "slug": "docmd",
   "name": "docmd",
-  "tagline": "Documentation compiler for humans and machines. One Markdown source, one command — website, search, AI context, and knowledge formats together.",
+  "tagline": "Documentation compiler for humans and machines. One Markdown source to website, search, AI context, and knowledge formats together.",
   "category": "search-rag",
   "tags": [
     "ai-skills",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 2433,
+    "stars": 2439,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-28T03:54:32Z",
+    "last_commit_at": "2026-09-04T03:55:23Z",
     "first_commit_at": "2025-05-08T04:58:48Z",
-    "forks": 133,
+    "forks": 132,
     "watchers": 7,
-    "open_issues": 13,
+    "open_issues": 14,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4444,
-  "rank_in_category": 19,
+  "composite_score": 0.4503,
+  "rank_in_category": 16,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:48:04.918604Z",
-  "last_refreshed_at": "2026-08-31T19:29:36.546075Z",
-  "consecutive_refresh_failures": 4
+  "last_refreshed_at": "2026-09-05T15:53:18.352468Z",
+  "consecutive_refresh_failures": 0
 }
