@@ -1,0 +1,60 @@
+{
+  "slug": "quadqwen",
+  "name": "QuadQwen",
+  "tagline": "OliviaRossi/QuadQwen — text-generation",
+  "category": "coding",
+  "tags": [
+    "safetensors",
+    "qwen3_5_moe",
+    "moe",
+    "qwen",
+    "qwen3",
+    "qwen3.5",
+    "qwen3.6",
+    "code",
+    "coding",
+    "agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OliviaRossi",
+    "url": "https://huggingface.co/OliviaRossi"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "OliviaRossi/QuadQwen",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": 883,
+    "last_commit_at": "2026-09-05T15:27:21Z",
+    "first_commit_at": "2026-09-04T08:21:35Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": null,
+    "pipeline_tag": "text-generation",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2882,
+  "rank_in_category": 421,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-05T15:55:23.318806Z",
+  "last_refreshed_at": "2026-09-05T15:55:23.318810Z",
+  "consecutive_refresh_failures": 0
+}
