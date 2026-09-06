@@ -1,7 +1,7 @@
 {
   "slug": "late-cli",
   "name": "late-cli",
-  "tagline": "Autonomous AI dev agent in pure Go. Enforced ephemeral subagents keep context small. Getting real work done on consumer hardware.",
+  "tagline": "Autonomous AI dev agent in pure Go built on empirical research. Enforced ephemeral subagents prevent context degradation. Get real work done on consumer hardware.",
   "category": "coding",
   "tags": [
     "agent",
@@ -28,9 +28,9 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 415,
+    "stars": 420,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-04T23:12:21Z",
+    "last_commit_at": "2026-09-05T19:52:31Z",
     "first_commit_at": "2026-02-21T16:22:08Z",
     "forks": 43,
     "watchers": 6,
@@ -54,9 +54,9 @@
   "runnable": true,
   "adapter_ref": "mcp/stdio",
   "composite_score": 0.3904,
-  "rank_in_category": 168,
+  "rank_in_category": 167,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-03T14:12:04.822074Z",
-  "last_refreshed_at": "2026-09-05T15:48:40.545547Z",
+  "last_refreshed_at": "2026-09-06T16:01:27.194619Z",
   "consecutive_refresh_failures": 0
 }

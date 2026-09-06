@@ -1,19 +1,19 @@
 {
   "slug": "insightdesk-ai",
   "name": "insightdesk-ai",
-  "tagline": "AI-powered IT helpdesk platform — ticket categorization, RAG-based solution retrieval, anomaly detection & model monitoring. Built with FastAPI + React + Tailwind.",
+  "tagline": "AI-powered helpdesk platform: ticket classification, RAG retrieval, anomaly detection & model monitoring. FastAPI + React.",
   "category": "customer-support",
   "tags": [
     "anomaly-detection",
+    "docker",
     "faiss",
     "fastapi",
+    "fastembed",
     "helpdesk-ai",
-    "heroku",
     "machine-learning",
     "nlp",
     "python",
-    "rag",
-    "react"
+    "rag"
   ],
   "author": {
     "type": "user",
@@ -30,11 +30,11 @@
   "metrics": {
     "stars": 1,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-03T18:49:35Z",
+    "last_commit_at": "2026-09-05T19:34:52Z",
     "first_commit_at": "2025-09-26T21:52:35Z",
     "forks": 0,
     "watchers": 0,
-    "open_issues": 3,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4337,
-  "rank_in_category": 78,
+  "composite_score": 0.4353,
+  "rank_in_category": 75,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-17T14:32:52.495235Z",
-  "last_refreshed_at": "2026-09-05T16:13:51.730843Z",
+  "last_refreshed_at": "2026-09-06T16:28:45.527967Z",
   "consecutive_refresh_failures": 0
 }
