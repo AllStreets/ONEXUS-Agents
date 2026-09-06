@@ -1,7 +1,7 @@
 {
   "slug": "authelia",
   "name": "authelia",
-  "tagline": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+  "tagline": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
   "category": "devops-sre",
   "tags": [
     "2fa",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 28796,
+    "stars": 28812,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-04T15:08:59Z",
+    "last_commit_at": "2026-09-06T01:08:29Z",
     "first_commit_at": "2016-12-10T00:47:58Z",
     "forks": 1477,
-    "watchers": 167,
-    "open_issues": 125,
+    "watchers": 168,
+    "open_issues": 131,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6652,
+  "composite_score": 0.6658,
   "rank_in_category": 4,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:52:53.780857Z",
-  "last_refreshed_at": "2026-09-04T17:02:41.342312Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-09-06T16:16:15.101036Z",
+  "consecutive_refresh_failures": 0
 }

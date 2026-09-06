@@ -1,7 +1,7 @@
 {
   "slug": "orca",
   "name": "orca",
-  "tagline": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+  "tagline": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
   "category": "coding",
   "tags": [
     "ade",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 62087,
+    "stars": 62623,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-05T15:30:42Z",
+    "last_commit_at": "2026-09-06T15:56:11Z",
     "first_commit_at": "2026-03-17T03:29:24Z",
-    "forks": 4149,
-    "watchers": 120,
-    "open_issues": 5308,
+    "forks": 4174,
+    "watchers": 121,
+    "open_issues": 5395,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.418,
-  "rank_in_category": 102,
+  "composite_score": 0.4183,
+  "rank_in_category": 100,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-10T15:36:03.673586Z",
-  "last_refreshed_at": "2026-09-05T15:49:43.829666Z",
+  "last_refreshed_at": "2026-09-06T16:02:52.778422Z",
   "consecutive_refresh_failures": 0
 }
