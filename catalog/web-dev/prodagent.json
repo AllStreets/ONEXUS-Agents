@@ -1,7 +1,7 @@
 {
   "slug": "prodagent",
   "name": "prodagent",
-  "tagline": "A tiny, readable production-grade LLM agent kernel — graph, channels/reducer state, BSP scheduler, event-sourced recovery & multi-agent via recursive runs. ReAct/plan-first are recipes above the kerne",
+  "tagline": "A minimal, readable agent-framework kernel — understand how LangGraph/ADK work under the hood. 1800行代码的 agent 框架内核，理解 LangGraph/ADK 底层的工作原理",
   "category": "web-dev",
   "tags": [
     "adk",
@@ -28,12 +28,12 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 68,
+    "stars": 69,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-06T13:55:43Z",
+    "last_commit_at": "2026-09-07T11:44:34Z",
     "first_commit_at": "2026-08-04T12:43:17Z",
-    "forks": 14,
-    "watchers": 0,
+    "forks": 15,
+    "watchers": 1,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.444,
-  "rank_in_category": 120,
+  "composite_score": 0.4448,
+  "rank_in_category": 121,
   "discovered_via": "auto",
   "first_seen_at": "2026-09-04T16:54:18.007884Z",
-  "last_refreshed_at": "2026-09-06T16:09:31.051560Z",
+  "last_refreshed_at": "2026-09-07T18:16:05.759353Z",
   "consecutive_refresh_failures": 0
 }

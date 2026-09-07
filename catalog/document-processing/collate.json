@@ -1,0 +1,60 @@
+{
+  "slug": "collate",
+  "name": "collate",
+  "tagline": "给历史研究者的中文文献 OCR 校对与阅读 pipeline · Agent-native OCR, collation & reading workflow for historical Chinese scholarship — works with Claude Code, Codex, Gemini CLI, Cursor & Hermes agents",
+  "category": "document-processing",
+  "tags": [
+    "agents",
+    "ai-agents",
+    "chinese-historical-documents",
+    "chinese-nlp",
+    "claude-code",
+    "codex",
+    "cursor",
+    "digital-humanities",
+    "gemini-cli",
+    "hermes-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MidnightDarling",
+    "url": "https://github.com/MidnightDarling"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MidnightDarling/collate",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-29T17:34:39Z",
+    "first_commit_at": "2026-04-18T16:58:45Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2916,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-07T18:22:54.665586Z",
+  "last_refreshed_at": "2026-09-07T18:22:54.665590Z",
+  "consecutive_refresh_failures": 0
+}
