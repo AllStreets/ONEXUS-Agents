@@ -1,0 +1,60 @@
+{
+  "slug": "skill",
+  "name": "skill",
+  "tagline": "收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curate",
+  "category": "coding",
+  "tags": [
+    "agent-skills",
+    "claude-skills",
+    "codex",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh-plugin",
+    "finance-skill",
+    "gemini-skills",
+    "hermes-skill"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "anbeime",
+    "url": "https://github.com/anbeime"
+  },
+  "source": {
+    "primary": "github",
+    "github": "anbeime/skill",
+    "huggingface": null,
+    "homepage": "https://skill.miyucaicai.cn/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 6329,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-07T07:05:19Z",
+    "first_commit_at": "2026-02-02T09:14:21Z",
+    "forks": 597,
+    "watchers": 26,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3823,
+  "rank_in_category": 186,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-07T18:20:47.389481Z",
+  "last_refreshed_at": "2026-09-07T18:20:47.389485Z",
+  "consecutive_refresh_failures": 0
+}
