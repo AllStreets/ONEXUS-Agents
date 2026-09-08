@@ -1,34 +1,33 @@
 {
   "slug": "awesome-agent-harness",
   "name": "awesome-agent-harness",
-  "tagline": "The official GitHub page for the paper \"Agent Systems with Harness Engineering\"",
+  "tagline": "An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.",
   "category": "multi-agent-orchestration",
   "tags": [
-    "agent",
     "agent-harness",
-    "awesome-list",
+    "context-engineering",
     "harness-engineering"
   ],
   "author": {
-    "type": "org",
-    "handle": "RUCAIBox",
-    "url": "https://github.com/RUCAIBox"
+    "type": "user",
+    "handle": "Picrew",
+    "url": "https://github.com/Picrew"
   },
   "source": {
     "primary": "github",
-    "github": "RUCAIBox/awesome-agent-harness",
+    "github": "Picrew/awesome-agent-harness",
     "huggingface": null,
-    "homepage": "https://openreview.net/forum?id=nM5tDHrQsx"
+    "homepage": "https://picrew.github.io/LLM-Harness/"
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 192,
+    "stars": 1728,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-25T13:42:25Z",
-    "first_commit_at": "2026-03-15T13:06:54Z",
-    "forks": 25,
-    "watchers": 1,
-    "open_issues": 10,
+    "last_commit_at": "2026-08-30T16:03:38Z",
+    "first_commit_at": "2026-03-30T04:24:35Z",
+    "forks": 188,
+    "watchers": 6,
+    "open_issues": 69,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,10 +44,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2897,
-  "rank_in_category": 385,
+  "composite_score": 0.3966,
+  "rank_in_category": 208,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:58:05.659316Z",
-  "last_refreshed_at": "2026-09-07T18:33:43.055856Z",
+  "first_seen_at": "2026-06-11T17:11:59.735306Z",
+  "last_refreshed_at": "2026-09-08T17:26:27.207485Z",
   "consecutive_refresh_failures": 0
 }

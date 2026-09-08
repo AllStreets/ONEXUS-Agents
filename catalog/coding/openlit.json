@@ -1,0 +1,60 @@
+{
+  "slug": "openlit",
+  "name": "openlit",
+  "tagline": "Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, prompts, costs & agent workflows with OpenTelemetry.",
+  "category": "coding",
+  "tags": [
+    "ai-engineering",
+    "ai-evaluation",
+    "ai-observability",
+    "ai-observability-platform",
+    "amd-gpu",
+    "claude-code",
+    "clickhouse",
+    "codex",
+    "coding-agent",
+    "coding-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openlit",
+    "url": "https://github.com/openlit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openlit/openlit",
+    "huggingface": null,
+    "homepage": "https://docs.openlit.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 2749,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-08T14:21:57Z",
+    "first_commit_at": "2024-01-23T17:41:35Z",
+    "forks": 374,
+    "watchers": 20,
+    "open_issues": 79,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4053,
+  "rank_in_category": 140,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-08T17:05:46.198422Z",
+  "last_refreshed_at": "2026-09-08T17:05:46.198426Z",
+  "consecutive_refresh_failures": 0
+}

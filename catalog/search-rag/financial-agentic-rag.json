@@ -1,14 +1,19 @@
 {
   "slug": "financial-agentic-rag",
   "name": "Financial_Agentic_RAG",
-  "tagline": "This project implements a RAG pipeline using the LangGraph framework, designed for efficiently analyzing financial documents, specifically 10-K filings.",
+  "tagline": "Agentic RAG over 10-K filings with cited answers. LangGraph + Pathway. 1st place, Inter IIT Tech Meet 13.0",
   "category": "search-rag",
   "tags": [
+    "agentic-rag",
     "ai-agents",
     "fastapi",
+    "financial-analysis",
+    "inter-iit",
     "langchain-python",
-    "python3",
-    "rag"
+    "langgraph",
+    "llm",
+    "pathway",
+    "python"
   ],
   "author": {
     "type": "user",
@@ -19,7 +24,7 @@
     "primary": "github",
     "github": "DeepakSilaych/Financial_Agentic_RAG",
     "huggingface": null,
-    "homepage": "http://finsight.deepaksilaych.me/"
+    "homepage": "https://finsight.deepaksilaych.me/"
   },
   "license": "Unknown",
   "metrics": {
@@ -48,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2674,
+  "composite_score": 0.2668,
   "rank_in_category": 88,
   "discovered_via": "auto",
-  "first_seen_at": "2026-09-07T18:28:51.928725Z",
-  "last_refreshed_at": "2026-09-07T18:28:51.928729Z",
+  "first_seen_at": "2026-09-08T17:30:04.332474Z",
+  "last_refreshed_at": "2026-09-08T17:30:04.332478Z",
   "consecutive_refresh_failures": 0
 }

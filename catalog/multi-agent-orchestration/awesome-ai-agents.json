@@ -1,40 +1,35 @@
 {
   "slug": "awesome-ai-agents",
-  "name": "awesome-ai-agents",
-  "tagline": "A list of AI autonomous agents",
+  "name": "Awesome-AI-Agents",
+  "tagline": "A collection of autonomous agents 🤖️ powered by LLM.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent",
-    "ai",
-    "artificial-intelligence",
-    "autogpt",
-    "autonomous-agents",
-    "awesome",
-    "babyagi",
-    "copilot",
-    "gpt",
-    "gpt-4"
+    "agents",
+    "llm",
+    "llm-powered-agents",
+    "multi-agent"
   ],
   "author": {
-    "type": "org",
-    "handle": "e2b-dev",
-    "url": "https://github.com/e2b-dev"
+    "type": "user",
+    "handle": "Jenqyang",
+    "url": "https://github.com/Jenqyang"
   },
   "source": {
     "primary": "github",
-    "github": "e2b-dev/awesome-ai-agents",
+    "github": "Jenqyang/Awesome-AI-Agents",
     "huggingface": null,
-    "homepage": "https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=awesome-ai-agents"
+    "homepage": "https://jenqyang.github.io/Awesome-AI-Agents/"
   },
-  "license": "NOASSERTION",
+  "license": "Unknown",
   "metrics": {
-    "stars": 29920,
+    "stars": 1233,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-21T18:52:45Z",
-    "first_commit_at": "2023-06-19T00:20:06Z",
-    "forks": 3432,
-    "watchers": 313,
-    "open_issues": 1004,
+    "last_commit_at": "2026-09-02T13:25:13Z",
+    "first_commit_at": "2023-12-22T07:10:28Z",
+    "forks": 428,
+    "watchers": 21,
+    "open_issues": 65,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4953,
-  "rank_in_category": 42,
+  "composite_score": 0.4467,
+  "rank_in_category": 116,
   "discovered_via": "auto",
-  "first_seen_at": "2026-09-07T18:10:49.017994Z",
-  "last_refreshed_at": "2026-09-07T18:10:49.017998Z",
+  "first_seen_at": "2026-09-08T17:17:59.405296Z",
+  "last_refreshed_at": "2026-09-08T17:17:59.405300Z",
   "consecutive_refresh_failures": 0
 }
