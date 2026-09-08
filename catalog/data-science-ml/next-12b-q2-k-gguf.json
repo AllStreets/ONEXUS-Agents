@@ -1,19 +1,19 @@
 {
-  "slug": "next-ocr-iq4-xs-gguf",
-  "name": "next-ocr-IQ4_XS-GGUF",
-  "tagline": "Lamapi/next-ocr-IQ4_XS-GGUF — image-text-to-text",
-  "category": "financial-modeling",
+  "slug": "next-12b-q2-k-gguf",
+  "name": "next-12b-Q2_K-GGUF",
+  "tagline": "Lamapi/next-12b-Q2_K-GGUF — image-text-to-text",
+  "category": "data-science-ml",
   "tags": [
     "transformers",
     "gguf",
-    "text-generation-inference",
-    "unsloth",
-    "qwen3_vl",
-    "trl",
-    "sft",
-    "chemistry",
-    "code",
-    "climate"
+    "turkish",
+    "türkiye",
+    "english",
+    "ai",
+    "lamapi",
+    "gemma3",
+    "next",
+    "next-x1"
   ],
   "author": {
     "type": "org",
@@ -23,15 +23,15 @@
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "Lamapi/next-ocr-IQ4_XS-GGUF",
+    "huggingface": "Lamapi/next-12b-Q2_K-GGUF",
     "homepage": null
   },
-  "license": "apache-2.0",
+  "license": "mit",
   "metrics": {
-    "stars": 1,
-    "downloads_30d": 32,
-    "last_commit_at": "2025-11-13T15:57:37Z",
-    "first_commit_at": "2025-11-13T15:57:14Z",
+    "stars": 2,
+    "downloads_30d": 26,
+    "last_commit_at": "2025-10-30T15:00:09Z",
+    "first_commit_at": "2025-10-28T12:51:27Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.287,
-  "rank_in_category": 187,
+  "composite_score": 0.1963,
+  "rank_in_category": 176,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-17T15:14:19.151032Z",
-  "last_refreshed_at": "2026-08-23T17:43:00.430231Z",
-  "consecutive_refresh_failures": 27
+  "first_seen_at": "2026-09-08T17:28:09.665950Z",
+  "last_refreshed_at": "2026-09-08T17:28:09.665955Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,40 +1,40 @@
 {
   "slug": "awesome-ai-agents",
   "name": "awesome-ai-agents",
-  "tagline": "Curated list of AI agent frameworks, coding and automation agents, MCP servers, and evaluation tools.",
+  "tagline": "A list of AI autonomous agents",
   "category": "coding",
   "tags": [
-    "agent-evaluation",
-    "agent-framework",
-    "agentic-ai",
-    "ai-agents",
-    "automation",
+    "agent",
+    "ai",
+    "artificial-intelligence",
+    "autogpt",
     "autonomous-agents",
-    "awesome-lists",
-    "coding-agents",
-    "cybersecurity",
-    "developer-tools"
+    "awesome",
+    "babyagi",
+    "copilot",
+    "gpt",
+    "gpt-4"
   ],
   "author": {
-    "type": "user",
-    "handle": "frangelbarrera",
-    "url": "https://github.com/frangelbarrera"
+    "type": "org",
+    "handle": "e2b-dev",
+    "url": "https://github.com/e2b-dev"
   },
   "source": {
     "primary": "github",
-    "github": "frangelbarrera/awesome-ai-agents",
+    "github": "e2b-dev/awesome-ai-agents",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=awesome-ai-agents"
   },
-  "license": "CC0-1.0",
+  "license": "NOASSERTION",
   "metrics": {
-    "stars": 19,
+    "stars": 29931,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-06T15:43:59Z",
-    "first_commit_at": "2026-06-01T17:45:34Z",
-    "forks": 19,
-    "watchers": 0,
-    "open_issues": 4,
+    "last_commit_at": "2026-08-21T18:52:45Z",
+    "first_commit_at": "2023-06-19T00:20:06Z",
+    "forks": 3433,
+    "watchers": 313,
+    "open_issues": 1005,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,17 +46,15 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": [
-      "mcp"
-    ]
+    "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3428,
-  "rank_in_category": 292,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4299,
+  "rank_in_category": 84,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-27T16:00:20.666417Z",
-  "last_refreshed_at": "2026-09-07T18:22:08.723750Z",
+  "first_seen_at": "2026-09-08T17:09:49.365434Z",
+  "last_refreshed_at": "2026-09-08T17:09:49.365438Z",
   "consecutive_refresh_failures": 0
 }

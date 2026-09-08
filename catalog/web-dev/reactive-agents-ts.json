@@ -1,0 +1,63 @@
+{
+  "slug": "reactive-agents-ts",
+  "name": "reactive-agents-ts",
+  "tagline": "The transparent, composable harness for TypeScript agents. The same code runs the full agent loop on a local 4B model or a frontier API, with tool-call healing, verification, and a signed evidence rec",
+  "category": "web-dev",
+  "tags": [
+    "agent-framework",
+    "agent-observability",
+    "agent-orchestration",
+    "agentic-ai",
+    "ai-agents",
+    "anthropic",
+    "automation",
+    "bun",
+    "composable",
+    "effect-ts"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tylerjrbuell",
+    "url": "https://github.com/tylerjrbuell"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tylerjrbuell/reactive-agents-ts",
+    "huggingface": null,
+    "homepage": "https://docs.reactiveagents.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-06T18:08:24Z",
+    "first_commit_at": "2026-02-19T14:01:28Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 22,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4962,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-08T17:18:51.384578Z",
+  "last_refreshed_at": "2026-09-08T17:18:51.384582Z",
+  "consecutive_refresh_failures": 0
+}

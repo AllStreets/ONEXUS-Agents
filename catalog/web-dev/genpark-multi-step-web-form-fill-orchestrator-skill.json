@@ -1,0 +1,62 @@
+{
+  "slug": "genpark-multi-step-web-form-fill-orchestrator-skill",
+  "name": "genpark-multi-step-web-form-fill-orchestrator-skill",
+  "tagline": "Multi-step web form fill orchestrator with validation (Playwright / Puppeteer)",
+  "category": "web-dev",
+  "tags": [
+    "agent-skills",
+    "browser-automation",
+    "dom-selector",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "playwright",
+    "python",
+    "skills",
+    "tabbit-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Alpha-Park",
+    "url": "https://github.com/Alpha-Park"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Alpha-Park/genpark-multi-step-web-form-fill-orchestrator-skill",
+    "huggingface": null,
+    "homepage": "https://genpark.ai/mcp"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-04T01:36:44Z",
+    "first_commit_at": "2026-09-04T01:36:29Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4196,
+  "rank_in_category": 147,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-08T17:15:35.062900Z",
+  "last_refreshed_at": "2026-09-08T17:15:35.062904Z",
+  "consecutive_refresh_failures": 0
+}
