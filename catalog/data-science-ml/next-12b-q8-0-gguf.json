@@ -1,0 +1,62 @@
+{
+  "slug": "next-12b-q8-0-gguf",
+  "name": "next-12b-Q8_0-GGUF",
+  "tagline": "Lamapi/next-12b-Q8_0-GGUF — image-text-to-text",
+  "category": "data-science-ml",
+  "tags": [
+    "transformers",
+    "gguf",
+    "turkish",
+    "türkiye",
+    "english",
+    "ai",
+    "lamapi",
+    "gemma3",
+    "next",
+    "next-x1"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Lamapi",
+    "url": "https://huggingface.co/Lamapi"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "Lamapi/next-12b-Q8_0-GGUF",
+    "homepage": null
+  },
+  "license": "mit",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": 30,
+    "last_commit_at": "2025-11-04T14:59:18Z",
+    "first_commit_at": "2025-11-04T14:58:28Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "transformers",
+    "pipeline_tag": "image-text-to-text",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1969,
+  "rank_in_category": 173,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-13T17:00:24.250262Z",
+  "last_refreshed_at": "2026-09-13T17:00:24.250265Z",
+  "consecutive_refresh_failures": 0
+}
