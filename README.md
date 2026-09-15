@@ -4,11 +4,13 @@
 
 &nbsp;
 
-<a href="https://onexus-agents.vercel.app"><img alt="agents" src="https://img.shields.io/badge/agents-7%2C000%2B-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
-<a href="https://onexus-agents.vercel.app/runnable"><img alt="runnable" src="https://img.shields.io/badge/runnable_via_mcp-500%2B-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
+<a href="https://github.com/AllStreets/ONEXUS-Agents/tree/main/adapters"><img alt="adapters maintained" src="https://img.shields.io/badge/adapters_hand--maintained-21-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
+<a href="https://onexus-agents.vercel.app/methodology"><img alt="ranking" src="https://img.shields.io/badge/ranking-weights_published-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
 <a href="https://onexus-agents.vercel.app/catalog"><img alt="categories" src="https://img.shields.io/badge/categories-40-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
 <a href="https://github.com/AllStreets/ONEXUS-Agents/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/badge/license-Apache--2.0-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
 <br/>
+<img alt="indexed" src="https://img.shields.io/badge/indexed-5%2C858_repos-6b7382?style=flat-square&labelColor=07090c"/>
+<img alt="declare mcp" src="https://img.shields.io/badge/self--declare_MCP-690-6b7382?style=flat-square&labelColor=07090c"/>
 <img alt="cadence" src="https://img.shields.io/badge/refresh-13%3A00_UTC_daily_%2B_17%3A00_UTC_sundays-6b7382?style=flat-square&labelColor=07090c"/>
 <img alt="python" src="https://img.shields.io/badge/python-3.12-6b7382?style=flat-square&labelColor=07090c"/>
 <img alt="node" src="https://img.shields.io/badge/node-24.x-6b7382?style=flat-square&labelColor=07090c"/>
@@ -38,6 +40,31 @@ ONEXUS itself is a closed-loop runtime: **Cortex** routes intent, **Engram** rem
 
 **ONEXUS-Agents is the body's reach.** It is the catalog the kernel looks at when it needs an external skill: a coding agent, a browser agent, a legal-research agent, a video-generation pipeline. We crawl GitHub and Hugging Face every night, score every candidate against a transparent composite of popularity, recency, runnability, quality signals, framework presence, and (where one exists) a real benchmark, and publish **every kept agent as static JSON with its own URL**.
 
+### What the numbers mean
+
+Discovery is cheap and verification is expensive, so we separate them in the data and
+say which is which:
+
+```
+  5,858   repos indexed ................ crawled, scored, published as JSON
+    690   self-declare an MCP server ... their topics/manifest say so. we did not run them.
+     21   adapters hand-maintained ..... written and kept working by a person
+```
+
+<sub>Counts as of the 2026-09-14 refresh. The top two move every night and drop when the
+Sunday rescan prunes dead repos; the bottom one only moves when a person writes an adapter.
+The live figures are always the ones on the <a href="https://onexus-agents.vercel.app">site</a>.</sub>
+
+The middle number is the one to read carefully. `runnable: true` is **derived from the
+repo's own declared metadata** — GitHub topics or a detected `mcp` framework — not from
+anything we executed. It is a lead, not a guarantee. The bottom number is the one with a
+human behind it, and it is the number that actually moves slowly.
+
+The ranking is the part worth stealing: `pipeline/ranking.py` publishes its weights in
+source, log-normalizes popularity, decays recency on a 90-day half-life, caps age at 24
+months, and multiplies penalties for archived (0.5) and template (0.8) repos. No hidden
+model, no vibes — you can recompute every score yourself.
+
 > *The catalog is the product. The dashboard is the showcase. The MCP bridge is the on-ramp.*
 
 ---
@@ -48,7 +75,7 @@ ONEXUS itself is a closed-loop runtime: **Cortex** routes intent, **Engram** rem
 
 Every agent in the catalog is a single JSON file under `catalog/<category>/<agent-slug>.json`. **No database.** The git history *is* the audit log.
 
-A subset of catalogued agents are marked `runnable: true` and have an `adapter_ref` — that's the MCP wrapper ONEXUS uses to actually invoke them. Discovery is broad; runnable is curated and grows weekly as the Sunday rescan finds new MCP-server-shaped repos.
+A subset of catalogued agents are marked `runnable: true` and carry an `adapter_ref` — the MCP wrapper ONEXUS uses to invoke them. That flag is **auto-derived from the repo's own declared topics and detected frameworks**, so treat it as a strong lead rather than a tested fact; the Sunday rescan widens it weekly. The 21 adapters under `adapters/` are the hand-maintained subset that a person has actually wired up and kept working.
 
 ---
 
