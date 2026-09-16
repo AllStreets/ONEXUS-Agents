@@ -49,14 +49,14 @@
     {
       "name": "SWE-bench Verified",
       "score": 0.5,
-      "as_of": "2026-09-15",
+      "as_of": "2026-09-16",
       "source_url": "https://www.swebench.com/"
     }
   ],
   "runnable": true,
   "adapter_ref": "adapters/swe-agent/mcp.json",
-  "composite_score": 0.4834,
-  "rank_in_category": 19,
+  "composite_score": 0.4824,
+  "rank_in_category": 20,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
   "last_refreshed_at": "2026-09-08T17:03:51.027987Z",
