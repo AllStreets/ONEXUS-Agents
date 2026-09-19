@@ -1,0 +1,62 @@
+{
+  "slug": "collision-1b",
+  "name": "Collision-1B",
+  "tagline": "collision-10M/Collision-1B — text-generation",
+  "category": "reasoning-math",
+  "tags": [
+    "transformers",
+    "collision",
+    "text-generation",
+    "conversational",
+    "rag",
+    "reasoning",
+    "deepseek-r1-style",
+    "system-2",
+    "agent",
+    "pytorch"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "collision-10M",
+    "url": "https://huggingface.co/collision-10M"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "collision-10M/Collision-1B",
+    "homepage": null
+  },
+  "license": "mit",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": 639,
+    "last_commit_at": "2026-09-19T14:25:06Z",
+    "first_commit_at": "2026-09-04T13:42:03Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "transformers",
+    "pipeline_tag": "text-generation",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3151,
+  "rank_in_category": 39,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-19T16:40:25.224742Z",
+  "last_refreshed_at": "2026-09-19T16:40:25.224744Z",
+  "consecutive_refresh_failures": 0
+}
