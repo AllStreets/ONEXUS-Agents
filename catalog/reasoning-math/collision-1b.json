@@ -5,15 +5,15 @@
   "category": "reasoning-math",
   "tags": [
     "transformers",
+    "pytorch",
+    "safetensors",
     "collision",
     "text-generation",
     "conversational",
     "rag",
     "reasoning",
     "deepseek-r1-style",
-    "system-2",
-    "agent",
-    "pytorch"
+    "system-2"
   ],
   "author": {
     "type": "org",
@@ -29,8 +29,8 @@
   "license": "mit",
   "metrics": {
     "stars": 2,
-    "downloads_30d": 1185,
-    "last_commit_at": "2026-09-19T14:25:06Z",
+    "downloads_30d": 1208,
+    "last_commit_at": "2026-09-21T15:58:23Z",
     "first_commit_at": "2026-09-04T13:42:03Z",
     "forks": null,
     "watchers": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.33,
-  "rank_in_category": 34,
+  "composite_score": 0.331,
+  "rank_in_category": 32,
   "discovered_via": "auto",
   "first_seen_at": "2026-09-19T16:40:25.224742Z",
-  "last_refreshed_at": "2026-09-20T17:07:39.799035Z",
+  "last_refreshed_at": "2026-09-21T18:57:42.524489Z",
   "consecutive_refresh_failures": 0
 }

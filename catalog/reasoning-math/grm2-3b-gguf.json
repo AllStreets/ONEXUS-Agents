@@ -1,44 +1,44 @@
 {
   "slug": "grm2-3b-gguf",
   "name": "GRM2-3b-GGUF",
-  "tagline": "OrionLLM/GRM2-3b-GGUF — None",
+  "tagline": "mradermacher/GRM2-3b-GGUF — None",
   "category": "reasoning-math",
   "tags": [
+    "transformers",
     "gguf",
     "reasoning",
-    "chat",
     "coding",
     "math",
     "science",
     "agent",
     "tools",
-    "base_model:OrionLLM/GRM2-3b",
-    "base_model:quantized:OrionLLM/GRM2-3b"
+    "en",
+    "base_model:OrionLLM/GRM2-3b"
   ],
   "author": {
     "type": "org",
-    "handle": "OrionLLM",
-    "url": "https://huggingface.co/OrionLLM"
+    "handle": "mradermacher",
+    "url": "https://huggingface.co/mradermacher"
   },
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "OrionLLM/GRM2-3b-GGUF",
+    "huggingface": "mradermacher/GRM2-3b-GGUF",
     "homepage": null
   },
   "license": "apache-2.0",
   "metrics": {
-    "stars": 6,
-    "downloads_30d": 432,
-    "last_commit_at": "2026-04-03T16:51:38Z",
-    "first_commit_at": "2026-03-29T16:16:25Z",
+    "stars": 4,
+    "downloads_30d": 418,
+    "last_commit_at": "2026-05-01T07:05:37Z",
+    "first_commit_at": "2026-03-20T22:52:52Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
     "archived": null,
     "is_fork": null,
     "is_template": null,
-    "library_name": null,
+    "library_name": "transformers",
     "pipeline_tag": null,
     "contributors_count": null,
     "releases_total": null,
@@ -46,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "transformers"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2132,
-  "rank_in_category": 98,
+  "composite_score": 0.2533,
+  "rank_in_category": 70,
   "discovered_via": "auto",
-  "first_seen_at": "2026-09-16T17:57:04.706318Z",
-  "last_refreshed_at": "2026-09-20T17:07:39.868224Z",
+  "first_seen_at": "2026-09-21T18:57:42.771353Z",
+  "last_refreshed_at": "2026-09-21T18:57:42.771356Z",
   "consecutive_refresh_failures": 0
 }
