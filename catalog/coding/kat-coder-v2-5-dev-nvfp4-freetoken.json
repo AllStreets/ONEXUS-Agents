@@ -1,0 +1,62 @@
+{
+  "slug": "kat-coder-v2-5-dev-nvfp4-freetoken",
+  "name": "KAT-Coder-V2.5-Dev-NVFP4-freetoken",
+  "tagline": "devmaksi/KAT-Coder-V2.5-Dev-NVFP4-freetoken — text-generation",
+  "category": "coding",
+  "tags": [
+    "transformers",
+    "safetensors",
+    "qwen3_5_moe",
+    "image-text-to-text",
+    "code",
+    "agent",
+    "agentic-coding",
+    "moe",
+    "coding",
+    "text-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "devmaksi",
+    "url": "https://huggingface.co/devmaksi"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "devmaksi/KAT-Coder-V2.5-Dev-NVFP4-freetoken",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 95,
+    "last_commit_at": "2026-09-23T21:28:09Z",
+    "first_commit_at": "2026-09-23T21:16:20Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "transformers",
+    "pipeline_tag": "text-generation",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2772,
+  "rank_in_category": 350,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-24T17:52:41.354397Z",
+  "last_refreshed_at": "2026-09-24T17:52:41.354400Z",
+  "consecutive_refresh_failures": 0
+}
