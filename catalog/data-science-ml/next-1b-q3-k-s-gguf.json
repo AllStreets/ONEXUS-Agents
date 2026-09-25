@@ -1,7 +1,7 @@
 {
-  "slug": "next-1b-q5-k-s-gguf",
-  "name": "next-1b-Q5_K_S-GGUF",
-  "tagline": "Lamapi/next-1b-Q5_K_S-GGUF — text-generation",
+  "slug": "next-1b-q3-k-s-gguf",
+  "name": "next-1b-Q3_K_S-GGUF",
+  "tagline": "Lamapi/next-1b-Q3_K_S-GGUF — text-generation",
   "category": "data-science-ml",
   "tags": [
     "transformers",
@@ -23,15 +23,15 @@
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "Lamapi/next-1b-Q5_K_S-GGUF",
+    "huggingface": "Lamapi/next-1b-Q3_K_S-GGUF",
     "homepage": null
   },
   "license": "mit",
   "metrics": {
-    "stars": 2,
-    "downloads_30d": 20,
-    "last_commit_at": "2025-10-28T10:51:00Z",
-    "first_commit_at": "2025-10-28T10:50:53Z",
+    "stars": 3,
+    "downloads_30d": 38,
+    "last_commit_at": "2025-10-28T10:41:56Z",
+    "first_commit_at": "2025-10-28T10:41:50Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.193,
-  "rank_in_category": 154,
+  "composite_score": 0.2064,
+  "rank_in_category": 125,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-24T15:20:48.716269Z",
-  "last_refreshed_at": "2026-08-28T23:10:36.096043Z",
-  "consecutive_refresh_failures": 27
+  "first_seen_at": "2026-09-25T17:56:13.851945Z",
+  "last_refreshed_at": "2026-09-25T17:56:13.851947Z",
+  "consecutive_refresh_failures": 0
 }
