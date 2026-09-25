@@ -1,0 +1,60 @@
+{
+  "slug": "lizard-17m",
+  "name": "Lizard-17m",
+  "tagline": "LizardModels/Lizard-17m — text-generation",
+  "category": "coding",
+  "tags": [
+    "torch",
+    "pytorch",
+    "safetensors",
+    "lizard",
+    "code",
+    "PyTorch",
+    "python",
+    "coding",
+    "agent",
+    "text-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "LizardModels",
+    "url": "https://huggingface.co/LizardModels"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "LizardModels/Lizard-17m",
+    "homepage": null
+  },
+  "license": "mit",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": 162,
+    "last_commit_at": "2025-09-05T13:33:16Z",
+    "first_commit_at": "2025-09-04T16:49:07Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "torch",
+    "pipeline_tag": "text-generation",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1829,
+  "rank_in_category": 497,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-25T17:53:19.567095Z",
+  "last_refreshed_at": "2026-09-25T17:53:19.567097Z",
+  "consecutive_refresh_failures": 0
+}
