@@ -1,0 +1,60 @@
+{
+  "slug": "youtube-action-qwen3-1-7b-lora",
+  "name": "youtube-action-qwen3-1.7b-lora",
+  "tagline": "yellowllm/youtube-action-qwen3-1.7b-lora — None",
+  "category": "marketing",
+  "tags": [
+    "mlx",
+    "lora",
+    "agent",
+    "browser-use",
+    "youtube",
+    "marketing",
+    "ko",
+    "base_model:mlx-community/Qwen3-1.7B-4bit",
+    "base_model:adapter:mlx-community/Qwen3-1.7B-4bit",
+    "license:apache-2.0"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "yellowllm",
+    "url": "https://huggingface.co/yellowllm"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "yellowllm/youtube-action-qwen3-1.7b-lora",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-09-24T15:38:53Z",
+    "first_commit_at": "2026-09-22T14:52:15Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "mlx",
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4216,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-26T17:26:06.021934Z",
+  "last_refreshed_at": "2026-09-26T17:26:06.021938Z",
+  "consecutive_refresh_failures": 0
+}
