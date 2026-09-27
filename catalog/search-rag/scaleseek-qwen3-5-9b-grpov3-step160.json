@@ -1,0 +1,60 @@
+{
+  "slug": "scaleseek-qwen3-5-9b-grpov3-step160",
+  "name": "ScaleSeek-Qwen3.5-9B-GRPOv3-step160",
+  "tagline": "Allenda/ScaleSeek-Qwen3.5-9B-GRPOv3-step160 — reinforcement-learning",
+  "category": "search-rag",
+  "tags": [
+    "safetensors",
+    "qwen3_5",
+    "retrieval",
+    "rag",
+    "agent",
+    "reinforcement-learning",
+    "grpo",
+    "scaleseek",
+    "en",
+    "base_model:Qwen/Qwen3.5-9B"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Allenda",
+    "url": "https://huggingface.co/Allenda"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "Allenda/ScaleSeek-Qwen3.5-9B-GRPOv3-step160",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-09-27T15:21:30Z",
+    "first_commit_at": "2026-09-27T15:19:51Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": null,
+    "pipeline_tag": "reinforcement-learning",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2274,
+  "rank_in_category": 57,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-09-27T17:48:21.331227Z",
+  "last_refreshed_at": "2026-09-27T17:48:21.331230Z",
+  "consecutive_refresh_failures": 0
+}
