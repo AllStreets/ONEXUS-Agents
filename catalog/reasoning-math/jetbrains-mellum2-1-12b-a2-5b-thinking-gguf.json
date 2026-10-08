@@ -1,37 +1,37 @@
 {
-  "slug": "chuck-norris-llm",
-  "name": "chuck-norris-llm",
-  "tagline": "wassemgtk/chuck-norris-llm — text-generation",
+  "slug": "jetbrains-mellum2-1-12b-a2-5b-thinking-gguf",
+  "name": "JetBrains-Mellum2.1-12B-A2.5B-Thinking-GGUF",
+  "tagline": "prithivMLmods/JetBrains-Mellum2.1-12B-A2.5B-Thinking-GGUF — text-generation",
   "category": "reasoning-math",
   "tags": [
     "transformers",
-    "safetensors",
-    "qwen3",
-    "text-generation",
+    "gguf",
+    "text-generation-inference",
+    "JetBrains",
+    "llama-cpp",
+    "agentic",
     "agent",
-    "math",
     "reasoning",
-    "Chuck Norris",
-    "fine-tuned",
-    "chain-of-thought"
+    "math",
+    "coding"
   ],
   "author": {
     "type": "org",
-    "handle": "wassemgtk",
-    "url": "https://huggingface.co/wassemgtk"
+    "handle": "prithivMLmods",
+    "url": "https://huggingface.co/prithivMLmods"
   },
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "wassemgtk/chuck-norris-llm",
+    "huggingface": "prithivMLmods/JetBrains-Mellum2.1-12B-A2.5B-Thinking-GGUF",
     "homepage": null
   },
   "license": "apache-2.0",
   "metrics": {
-    "stars": 4,
-    "downloads_30d": 36,
-    "last_commit_at": "2026-03-24T18:08:05Z",
-    "first_commit_at": "2026-03-21T21:25:12Z",
+    "stars": 1,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-10-08T15:51:57Z",
+    "first_commit_at": "2026-10-08T15:23:29Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2207,
-  "rank_in_category": 17,
+  "composite_score": 0.2423,
+  "rank_in_category": 8,
   "discovered_via": "auto",
-  "first_seen_at": "2026-04-30T16:56:49.021942Z",
-  "last_refreshed_at": "2026-10-08T19:35:00.311700Z",
+  "first_seen_at": "2026-10-08T19:35:00.506057Z",
+  "last_refreshed_at": "2026-10-08T19:35:00.506059Z",
   "consecutive_refresh_failures": 0
 }
