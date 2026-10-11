@@ -1,0 +1,60 @@
+{
+  "slug": "kivi-1-5b",
+  "name": "Kivi-1.5B",
+  "tagline": "frankenhack/Kivi-1.5B — None",
+  "category": "e-commerce",
+  "tags": [
+    "safetensors",
+    "qwen2",
+    "customer-service",
+    "ecommerce",
+    "rag",
+    "agent",
+    "qlora",
+    "tr",
+    "base_model:Qwen/Qwen2.5-1.5B-Instruct",
+    "base_model:finetune:Qwen/Qwen2.5-1.5B-Instruct"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "frankenhack",
+    "url": "https://huggingface.co/frankenhack"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "frankenhack/Kivi-1.5B",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 20,
+    "last_commit_at": "2026-10-11T12:16:26Z",
+    "first_commit_at": "2026-10-10T22:38:56Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5497,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-11T18:26:59.685744Z",
+  "last_refreshed_at": "2026-10-11T18:26:59.685747Z",
+  "consecutive_refresh_failures": 0
+}
