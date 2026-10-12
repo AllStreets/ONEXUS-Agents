@@ -1,7 +1,7 @@
 {
   "slug": "interfaze-1-lite",
   "name": "interfaze-1-lite",
-  "tagline": "interfaze-ai/interfaze-1-lite — image-text-to-image",
+  "tagline": "interfaze-ai/interfaze-1-lite — image-text-to-text",
   "category": "translation",
   "tags": [
     "transformers",
@@ -9,11 +9,11 @@
     "interfaze_lite",
     "feature-extraction",
     "vlm",
+    "any-to-text",
+    "audio-text-to-text",
     "multimodal",
     "multilingual",
-    "mixture-of-architectures",
-    "ocr",
-    "document-understanding"
+    "mixture-of-architectures"
   ],
   "author": {
     "type": "org",
@@ -28,9 +28,9 @@
   },
   "license": "other",
   "metrics": {
-    "stars": 56,
-    "downloads_30d": 143,
-    "last_commit_at": "2026-10-07T23:00:13Z",
+    "stars": 58,
+    "downloads_30d": 158,
+    "last_commit_at": "2026-10-12T05:22:16Z",
     "first_commit_at": "2026-10-03T01:11:05Z",
     "forks": null,
     "watchers": null,
@@ -39,7 +39,7 @@
     "is_fork": null,
     "is_template": null,
     "library_name": "transformers",
-    "pipeline_tag": "image-text-to-image",
+    "pipeline_tag": "image-text-to-text",
     "contributors_count": null,
     "releases_total": null,
     "latest_release_at": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5165,
-  "rank_in_category": 4,
+  "composite_score": 0.5232,
+  "rank_in_category": 3,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-06T19:02:52.228910Z",
-  "last_refreshed_at": "2026-10-11T20:53:40.321166Z",
+  "last_refreshed_at": "2026-10-12T21:50:50.838582Z",
   "consecutive_refresh_failures": 0
 }
