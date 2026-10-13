@@ -1,0 +1,57 @@
+{
+  "slug": "lit",
+  "name": "LIT",
+  "tagline": "LIT-review/LIT — text-to-video",
+  "category": "video-generation",
+  "tags": [
+    "video-generation",
+    "text-to-video",
+    "agent",
+    "llm",
+    "multimodal",
+    "license:mit",
+    "region:us"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "LIT-review",
+    "url": "https://huggingface.co/LIT-review"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "LIT-review/LIT",
+    "homepage": null
+  },
+  "license": "mit",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-10-13T19:55:28Z",
+    "first_commit_at": "2026-09-26T11:48:33Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": null,
+    "pipeline_tag": "text-to-video",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2787,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-13T19:59:35.213609Z",
+  "last_refreshed_at": "2026-10-13T19:59:35.213611Z",
+  "consecutive_refresh_failures": 0
+}
