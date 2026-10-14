@@ -1,7 +1,7 @@
 {
   "slug": "next-ocr-gguf",
   "name": "next-ocr-GGUF",
-  "tagline": "thelamapi/next-ocr-GGUF — image-text-to-text",
+  "tagline": "mradermacher/next-ocr-GGUF — None",
   "category": "financial-modeling",
   "tags": [
     "transformers",
@@ -17,21 +17,21 @@
   ],
   "author": {
     "type": "org",
-    "handle": "thelamapi",
-    "url": "https://huggingface.co/thelamapi"
+    "handle": "mradermacher",
+    "url": "https://huggingface.co/mradermacher"
   },
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "thelamapi/next-ocr-GGUF",
+    "huggingface": "mradermacher/next-ocr-GGUF",
     "homepage": null
   },
   "license": "apache-2.0",
   "metrics": {
-    "stars": 2,
-    "downloads_30d": 367,
-    "last_commit_at": "2026-03-11T17:34:47Z",
-    "first_commit_at": "2026-03-11T17:00:25Z",
+    "stars": 1,
+    "downloads_30d": 352,
+    "last_commit_at": "2026-03-04T06:00:32Z",
+    "first_commit_at": "2026-03-03T06:23:40Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
@@ -39,7 +39,7 @@
     "is_fork": null,
     "is_template": null,
     "library_name": "transformers",
-    "pipeline_tag": "image-text-to-text",
+    "pipeline_tag": null,
     "contributors_count": null,
     "releases_total": null,
     "latest_release_at": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3689,
-  "rank_in_category": 9,
+  "composite_score": 0.3514,
+  "rank_in_category": 12,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-13T19:55:13.956483Z",
-  "last_refreshed_at": "2026-10-13T19:55:13.956484Z",
+  "first_seen_at": "2026-10-14T17:59:09.704699Z",
+  "last_refreshed_at": "2026-10-14T17:59:09.704728Z",
   "consecutive_refresh_failures": 0
 }
