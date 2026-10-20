@@ -20,6 +20,17 @@ const ghHref = agent.source.github ? `https://github.com/${agent.source.github}`
 const hfHref = agent.source.huggingface ? `https://huggingface.co/${agent.source.huggingface}` : null;
 const homeHref = agent.source.homepage;
 const benchmark = agent.benchmarks?.[0];
+
+// How much we actually know, in three honest grades. Only an adapter that a
+// person wrote and keeps in adapters/ counts as more than metadata.
+import fs from "node:fs";
+import path from "node:path";
+const adapterOnDisk = !!agent.adapter_ref && fs.existsSync(path.resolve(process.cwd(), "..", agent.adapter_ref));
+const evidence = adapterOnDisk
+  ? { grade: "adapter", label: "Adapter maintained by a person", detail: `ONEXUS calls it through ${agent.adapter_ref}, which a person wrote and keeps working.` }
+  : agent.runnable
+    ? { grade: "declared", label: "Declares an MCP server", detail: "Its own topics or manifest say so. We have not run it." }
+    : { grade: "metadata", label: "Indexed from public metadata", detail: "Ranked on GitHub or Hugging Face signals. Nothing here was run." };
 const ageDays = agent.metrics.first_commit_at
   ? Math.floor((Date.now() - new Date(agent.metrics.first_commit_at).getTime()) / 86_400_000)
   : null;
@@ -85,11 +96,16 @@ if (typeof agent.metrics.stars === "number" && agent.metrics.stars > 0) {
         </div>
         <h1 class="text-4xl font-bold mb-2">{agent.name}</h1>
         <p class="text-lg text-[var(--color-fg-dim)] mb-4">{agent.tagline}</p>
+        <p class="text-sm mb-4" data-evidence={evidence.grade}>
+          <span class="font-mono text-xs uppercase tracking-wider text-[var(--color-accent)]">Evidence</span>
+          <span class="text-[var(--color-fg)] ml-2">{evidence.label}.</span>
+          <span class="text-[var(--color-fg-dim)] ml-1">{evidence.detail}</span>
+        </p>
 
         <div class="flex flex-wrap items-center gap-2">
           {agent.runnable && (
             <span class="badge badge-accent">
-              <Icon name="play" size="sm" />runnable via MCP
+              <Icon name="play" size="sm" />{adapterOnDisk ? "runnable via MCP" : "declares MCP"}
             </span>
           )}
           {(agent.metrics.frameworks ?? []).map((fw) => (

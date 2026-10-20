@@ -14,6 +14,19 @@ from pipeline.budget import get_budget
 GITHUB_API = "https://api.github.com"
 
 
+# Set when GitHub answers 401 to the PAT (expired or revoked). From then on
+# this run uses the Actions GITHUB_TOKEN instead, so one dead secret can't fail
+# every request. See auth_fallback_hook.
+_PAT_REJECTED = False
+
+
+def _token() -> str | None:
+    pat = os.environ.get("GH_PAT")
+    if pat and not _PAT_REJECTED:
+        return pat
+    return os.environ.get("GITHUB_TOKEN") or None
+
+
 def _headers() -> dict[str, str]:
     h = {
         "Accept": "application/vnd.github+json",
@@ -22,10 +35,30 @@ def _headers() -> dict[str, str]:
     }
     # Prefer user-supplied PAT (5000/hr) over Actions GITHUB_TOKEN (1000/hr).
     # Both are free; PAT requires only `public_repo` read scope.
-    token = os.environ.get("GH_PAT") or os.environ.get("GITHUB_TOKEN")
+    token = _token()
     if token:
         h["Authorization"] = f"Bearer {token}"
     return h
+
+
+def auth_fallback_hook(response: httpx.Response) -> None:
+    """httpx response hook: on a 401 from GitHub while using GH_PAT, stop using it.
+
+    Every fetch rebuilds its headers per attempt, so the retry that follows a
+    401 already carries GITHUB_TOKEN. Logged once, loudly, so an expired PAT
+    shows up in the run log instead of as thousands of anonymous failures.
+    """
+    global _PAT_REJECTED
+    if response.status_code != 401 or _PAT_REJECTED:
+        return
+    if response.request.url.host != "api.github.com":
+        return
+    pat = os.environ.get("GH_PAT")
+    sent = response.request.headers.get("Authorization", "")
+    if pat and sent == f"Bearer {pat}":
+        _PAT_REJECTED = True
+        print("GH_PAT was rejected by GitHub (401: expired or revoked). "
+              "Falling back to GITHUB_TOKEN for the rest of this run. Renew the GH_PAT secret.")
 
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(min=1, max=10))
