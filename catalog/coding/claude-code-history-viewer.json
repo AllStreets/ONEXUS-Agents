@@ -1,0 +1,60 @@
+{
+  "slug": "claude-code-history-viewer",
+  "name": "claude-code-history-viewer",
+  "tagline": "Desktop app and web server to browse, search and analyze your AI coding assistant history — Claude Code, Codex CLI, GitHub Copilot, Gemini CLI, Cursor, OpenCode and more. 100% offline.",
+  "category": "coding",
+  "tags": [
+    "ai-coding-assistant",
+    "chat-history",
+    "claude",
+    "claude-code",
+    "codex",
+    "conversation-history",
+    "copilot-cli",
+    "cursor",
+    "desktop-app",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jhlee0409",
+    "url": "https://github.com/jhlee0409"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jhlee0409/claude-code-history-viewer",
+    "huggingface": null,
+    "homepage": "https://jhlee0409.github.io/claude-code-history-viewer"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2269,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T04:00:47Z",
+    "first_commit_at": "2025-06-28T11:11:38Z",
+    "forks": 252,
+    "watchers": 6,
+    "open_issues": 29,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3756,
+  "rank_in_category": 161,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:13:27.996800Z",
+  "last_refreshed_at": "2026-10-20T04:13:27.996804Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "global-stock-data",
+  "name": "global-stock-data",
+  "tagline": "美股与全球市场数据工具包（给 AI 编程助手用）：官方源优先、零鉴权、标注合规级别 | US & global market data for AI coding assistants — zero-auth, official sources. CBOE options + 0DTE, VIX term structure, FINRA short data, SEC Form 4 / 13F,",
+  "category": "financial-modeling",
+  "tags": [
+    "0dte",
+    "ai-skill",
+    "cboe",
+    "claude-code",
+    "financial-data",
+    "finra",
+    "fintech",
+    "llm-tools",
+    "market-data",
+    "options-data"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "simonlin1212",
+    "url": "https://github.com/simonlin1212"
+  },
+  "source": {
+    "primary": "github",
+    "github": "simonlin1212/global-stock-data",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1751,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-12T00:07:47Z",
+    "first_commit_at": "2026-05-20T10:12:23Z",
+    "forks": 258,
+    "watchers": 9,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5101,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:17:20.561870Z",
+  "last_refreshed_at": "2026-10-20T04:17:20.561873Z",
+  "consecutive_refresh_failures": 0
+}

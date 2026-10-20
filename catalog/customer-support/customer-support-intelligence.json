@@ -1,0 +1,56 @@
+{
+  "slug": "customer-support-intelligence",
+  "name": "Customer_support_intelligence",
+  "tagline": "An interactive Streamlit app leveraging NLP embeddings and Gemini AI to analyze, classify, and provide insights on customer support issues. It enables trend tracking, root cause analysis, and AI-power",
+  "category": "customer-support",
+  "tags": [
+    "cluster-analysis",
+    "customer-support-ai",
+    "gemini-api",
+    "kmeans-clustering",
+    "machine-learning",
+    "nlp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "abh2050",
+    "url": "https://github.com/abh2050"
+  },
+  "source": {
+    "primary": "github",
+    "github": "abh2050/Customer_support_intelligence",
+    "huggingface": null,
+    "homepage": "https://customersupportintelligence.streamlit.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2025-03-17T18:59:42Z",
+    "first_commit_at": "2025-03-08T03:09:38Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2444,
+  "rank_in_category": 212,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:44:29.709341Z",
+  "last_refreshed_at": "2026-10-20T04:44:29.709346Z",
+  "consecutive_refresh_failures": 0
+}

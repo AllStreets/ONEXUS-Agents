@@ -1,7 +1,7 @@
 {
   "slug": "rtfm",
   "name": "rtfm",
-  "tagline": "The open retrieval layer for AI coding agents. Indexes code, docs, legal, research, data — 22 parsers (incl. EPUB, DOCX, ODT), FTS5 + semantic search, knowledge graph. Serves surgical context via MCP.",
+  "tagline": "The open retrieval layer for AI coding agents. Indexes code, docs, legal, research, data — 24 parsers (incl. EPUB, DOCX, ODT, MIDI, audio), FTS5 + semantic search, knowledge graph. Serves surgical con",
   "category": "search-rag",
   "tags": [
     "ai-agents",
@@ -24,15 +24,15 @@
     "primary": "github",
     "github": "roomi-fields/rtfm",
     "huggingface": null,
-    "homepage": "https://roomi-fields.github.io/rtfm/"
+    "homepage": "https://rtfm.roomi-fields.com/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 24,
+    "stars": 25,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-07T11:09:44Z",
+    "last_commit_at": "2026-10-18T17:45:16Z",
     "first_commit_at": "2025-12-31T15:03:14Z",
-    "forks": 5,
+    "forks": 6,
     "watchers": 2,
     "open_issues": 4,
     "archived": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3225,
-  "rank_in_category": 27,
+  "composite_score": 0.3593,
+  "rank_in_category": 30,
   "discovered_via": "auto",
-  "first_seen_at": "2026-09-08T17:36:22.174461Z",
-  "last_refreshed_at": "2026-09-08T17:36:22.174465Z",
+  "first_seen_at": "2026-10-20T04:42:26.018289Z",
+  "last_refreshed_at": "2026-10-20T04:42:26.018293Z",
   "consecutive_refresh_failures": 0
 }

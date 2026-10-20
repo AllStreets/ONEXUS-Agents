@@ -1,19 +1,19 @@
 {
   "slug": "obsei",
   "name": "obsei",
-  "tagline": "Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .",
+  "tagline": "Open source, privacy-first Voice of Customer analytics. A self-hosted alternative to Enterpret and Unwrap that strips PII from feedback before any LLM sees it.",
   "category": "customer-support",
   "tags": [
-    "anonymization",
-    "artificial-intelligence",
-    "business-process-automation",
-    "customer-engagement",
-    "customer-support",
-    "issue-tracking-system",
-    "low-code",
-    "lowcode",
-    "natural-language-processing",
-    "nlp"
+    "app-reviews",
+    "customer-experience",
+    "customer-feedback",
+    "customer-intelligence",
+    "feedback-analysis",
+    "gemini-cli-extension",
+    "llm",
+    "local-llm",
+    "mcp",
+    "mcp-server"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 1425,
+    "stars": 1440,
     "downloads_30d": null,
-    "last_commit_at": "2026-02-04T14:21:36Z",
-    "first_commit_at": "2020-10-25T21:00:48Z",
-    "forks": 177,
+    "last_commit_at": "2026-10-17T15:10:14Z",
+    "first_commit_at": "2020-10-25T21:00:49Z",
+    "forks": 179,
     "watchers": 27,
-    "open_issues": 37,
+    "open_issues": 3,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.4868,
-  "rank_in_category": 37,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.7132,
+  "rank_in_category": 8,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-01T14:27:33.008998Z",
-  "last_refreshed_at": "2026-09-03T17:33:05.062224Z",
+  "last_refreshed_at": "2026-10-20T04:47:35.962090Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,62 @@
+{
+  "slug": "opensquilla",
+  "name": "opensquilla",
+  "tagline": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agents",
+    "deep-learning",
+    "foundation-models",
+    "llm",
+    "mcp",
+    "memory",
+    "openclaw",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TokenRhythm",
+    "url": "https://github.com/TokenRhythm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TokenRhythm/opensquilla",
+    "huggingface": null,
+    "homepage": "https://opensquilla.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7114,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T04:07:55Z",
+    "first_commit_at": "2026-05-06T17:42:46Z",
+    "forks": 583,
+    "watchers": 138,
+    "open_issues": 270,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5047,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:16:48.793065Z",
+  "last_refreshed_at": "2026-10-20T04:16:48.793069Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "art",
+  "name": "ART",
+  "tagline": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "grpo",
+    "llms",
+    "lora",
+    "qwen",
+    "qwen3",
+    "reinforcement-learning",
+    "rl"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OpenPipe",
+    "url": "https://github.com/OpenPipe"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OpenPipe/ART",
+    "huggingface": null,
+    "homepage": "https://art.openpipe.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 10813,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T04:06:45Z",
+    "first_commit_at": "2025-03-10T18:25:48Z",
+    "forks": 1009,
+    "watchers": 67,
+    "open_issues": 171,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4781,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:27.201575Z",
+  "last_refreshed_at": "2026-10-20T04:33:35.442192Z",
+  "consecutive_refresh_failures": 0
+}

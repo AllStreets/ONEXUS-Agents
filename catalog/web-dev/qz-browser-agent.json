@@ -1,0 +1,60 @@
+{
+  "slug": "qz-browser-agent",
+  "name": "qz-browser-agent",
+  "tagline": "Local-first AI agent for Chrome: browser automation, web research, and data extraction with your own model.",
+  "category": "web-dev",
+  "tags": [
+    "ai-agent",
+    "browser-agent",
+    "browser-automation",
+    "chrome-extension",
+    "llm",
+    "mcp",
+    "web-agent",
+    "web-scraping"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "alibaba",
+    "url": "https://github.com/alibaba"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alibaba/qz-browser-agent",
+    "huggingface": null,
+    "homepage": "https://alibaba.github.io/qz-browser-agent/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 51,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T14:10:13Z",
+    "first_commit_at": "2026-10-12T09:54:22Z",
+    "forks": 11,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4836,
+  "rank_in_category": 69,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:21:56.747348Z",
+  "last_refreshed_at": "2026-10-20T04:21:56.747352Z",
+  "consecutive_refresh_failures": 0
+}

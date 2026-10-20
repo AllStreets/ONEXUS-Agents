@@ -1,0 +1,60 @@
+{
+  "slug": "laya",
+  "name": "laya",
+  "tagline": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque",
+  "category": "customer-support",
+  "tags": [
+    "calibration",
+    "classification",
+    "decision-model",
+    "huggingface",
+    "jev",
+    "modernbert",
+    "multilingual",
+    "nlp",
+    "python",
+    "pytorch"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "NandhaKishorM",
+    "url": "https://github.com/NandhaKishorM"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NandhaKishorM/laya",
+    "huggingface": null,
+    "homepage": "https://huggingface.co/convaiinnovations/laya"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 33578,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T09:40:14Z",
+    "first_commit_at": "2026-09-18T04:46:27Z",
+    "forks": 3023,
+    "watchers": 121,
+    "open_issues": 86,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6739,
+  "rank_in_category": 14,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:47:25.411724Z",
+  "last_refreshed_at": "2026-10-20T04:47:25.411728Z",
+  "consecutive_refresh_failures": 0
+}

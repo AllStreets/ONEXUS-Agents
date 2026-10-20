@@ -1,0 +1,63 @@
+{
+  "slug": "sciflow",
+  "name": "sciflow",
+  "tagline": "SciFlow - fully automated AI research assistant: local-first workbench (LangGraph pipeline / Agentic RAG / 8 citation styles / Electron desktop)",
+  "category": "scientific-research",
+  "tags": [
+    "academic-writing",
+    "ai",
+    "ai-agent",
+    "desktop-app",
+    "electron",
+    "knowledge-base",
+    "langgraph",
+    "literature-review",
+    "llm",
+    "local-first"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "badhope",
+    "url": "https://github.com/badhope"
+  },
+  "source": {
+    "primary": "github",
+    "github": "badhope/sciflow",
+    "huggingface": null,
+    "homepage": "https://badhope.github.io/sciflow/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-17T18:46:21Z",
+    "first_commit_at": "2026-09-25T04:23:23Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4778,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:29:17.966798Z",
+  "last_refreshed_at": "2026-10-20T04:29:17.966802Z",
+  "consecutive_refresh_failures": 0
+}

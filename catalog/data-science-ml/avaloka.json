@@ -1,0 +1,62 @@
+{
+  "slug": "avaloka",
+  "name": "avaloka",
+  "tagline": "Open source release of Data Science Agents that can analyze and transform datasets as well as train and infer models to augment your data scientists.",
+  "category": "data-science-ml",
+  "tags": [
+    "agentic-ai-platform",
+    "analytics-dashboard",
+    "analytics-engineering",
+    "apache-ray",
+    "automl",
+    "data-analysis-project",
+    "data-engineering",
+    "data-engineering-tools",
+    "data-quality",
+    "data-science-agents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "guruvaidev",
+    "url": "https://github.com/guruvaidev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "guruvaidev/avaloka",
+    "huggingface": null,
+    "homepage": "https://www.avaloka.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-18T05:55:01Z",
+    "first_commit_at": "2026-09-16T01:32:28Z",
+    "forks": 2,
+    "watchers": 2,
+    "open_issues": 18,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2742,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:31:35.341528Z",
+  "last_refreshed_at": "2026-10-20T04:31:35.341531Z",
+  "consecutive_refresh_failures": 0
+}

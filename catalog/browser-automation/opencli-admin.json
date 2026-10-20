@@ -1,0 +1,49 @@
+{
+  "slug": "opencli-admin",
+  "name": "opencli-admin",
+  "tagline": "基于 opencli 的可视化内容采集/AI打标/推送系统。可用于舆情监测。支持多开chrome 多账号采集，支持小红书 、微博、B 站等采集。支持 AI agent 处理（开发中）。支持一键 docker 部署，推送通知，分布式任务",
+  "category": "browser-automation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "xjh1994",
+    "url": "https://github.com/xjh1994"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xjh1994/opencli-admin",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 127,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-18T06:19:51Z",
+    "first_commit_at": "2026-03-18T11:13:06Z",
+    "forks": 26,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2515,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:24:34.201672Z",
+  "last_refreshed_at": "2026-10-20T04:24:34.201676Z",
+  "consecutive_refresh_failures": 0
+}

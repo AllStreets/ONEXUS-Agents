@@ -1,0 +1,60 @@
+{
+  "slug": "nanobrowser",
+  "name": "nanobrowser",
+  "tagline": "Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks.",
+  "category": "web-dev",
+  "tags": [
+    "agent",
+    "ai-agents",
+    "ai-tools",
+    "automation",
+    "browser",
+    "browser-agent",
+    "browser-automation",
+    "browser-use",
+    "cdp",
+    "chrome-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nanobrowser",
+    "url": "https://github.com/nanobrowser"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nanobrowser/nanobrowser",
+    "huggingface": null,
+    "homepage": "https://nanobrowser.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 14132,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-15T15:44:39Z",
+    "first_commit_at": "2024-12-31T08:11:28Z",
+    "forks": 1697,
+    "watchers": 70,
+    "open_issues": 68,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6369,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:21:45.201192Z",
+  "last_refreshed_at": "2026-10-20T04:21:45.201196Z",
+  "consecutive_refresh_failures": 0
+}

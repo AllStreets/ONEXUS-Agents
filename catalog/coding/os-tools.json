@@ -1,0 +1,55 @@
+{
+  "slug": "os-tools",
+  "name": "os-tools",
+  "tagline": "The home of moss (system state and package manager) and boulder (moss-format build tool)",
+  "category": "coding",
+  "tags": [
+    "atomic",
+    "build-tool",
+    "content-addressable-storage",
+    "package-manager",
+    "rust-lang"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aerynOS",
+    "url": "https://github.com/aerynOS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aerynOS/os-tools",
+    "huggingface": null,
+    "homepage": "https://aerynos.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 333,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-18T20:50:28Z",
+    "first_commit_at": "2023-09-04T22:15:22Z",
+    "forks": 41,
+    "watchers": 8,
+    "open_issues": 153,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3582,
+  "rank_in_category": 203,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:47:10.834805Z",
+  "last_refreshed_at": "2026-10-20T04:47:10.834809Z",
+  "consecutive_refresh_failures": 0
+}

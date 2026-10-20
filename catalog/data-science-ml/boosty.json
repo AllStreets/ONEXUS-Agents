@@ -1,9 +1,11 @@
 {
   "slug": "boosty",
   "name": "boosty",
-  "tagline": "boosty",
+  "tagline": "Boosty MCP servers for DeFi - Volume generation, trading, and wallet management",
   "category": "data-science-ml",
   "tags": [
+    "agents-md",
+    "ai-agents",
     "automation",
     "bot",
     "bundle",
@@ -11,9 +13,7 @@
     "crypto",
     "deployer",
     "ethereum",
-    "evm",
-    "profit",
-    "pumpfun"
+    "evm"
   ],
   "author": {
     "type": "user",
@@ -28,11 +28,11 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 28,
+    "stars": 29,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-07T06:19:20Z",
+    "last_commit_at": "2026-10-11T01:20:19Z",
     "first_commit_at": "2026-01-26T06:08:43Z",
-    "forks": 4,
+    "forks": 5,
     "watchers": 0,
     "open_issues": 1,
     "archived": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3019,
-  "rank_in_category": 35,
+  "composite_score": 0.3315,
+  "rank_in_category": 29,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:18.583462Z",
-  "last_refreshed_at": "2026-09-08T17:27:04.406658Z",
+  "last_refreshed_at": "2026-10-20T04:33:12.713131Z",
   "consecutive_refresh_failures": 0
 }

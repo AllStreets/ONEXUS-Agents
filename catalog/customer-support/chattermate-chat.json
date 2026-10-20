@@ -1,0 +1,60 @@
+{
+  "slug": "chattermate-chat",
+  "name": "chattermate.chat",
+  "tagline": "Open-source AI customer support platform — AI chatbot with human handoff, Shopify & Slack integrations, visual workflow builder. Self-hosted alternative to Intercom & Zendesk. Apache-2.0.",
+  "category": "customer-support",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "chatbot",
+    "customer-service",
+    "customer-support",
+    "fastapi",
+    "help-desk",
+    "human-handoff",
+    "intercom-alternative",
+    "live-chat"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "chattermate",
+    "url": "https://github.com/chattermate"
+  },
+  "source": {
+    "primary": "github",
+    "github": "chattermate/chattermate.chat",
+    "huggingface": null,
+    "homepage": "https://chattermate.chat/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 142,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T15:40:03Z",
+    "first_commit_at": "2025-02-01T15:04:32Z",
+    "forks": 60,
+    "watchers": 2,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5757,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:44:10.714238Z",
+  "last_refreshed_at": "2026-10-20T04:44:10.714242Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "librechat",
+  "name": "LibreChat",
+  "tagline": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me",
+  "category": "web-dev",
+  "tags": [
+    "ai",
+    "anthropic",
+    "artifacts",
+    "aws",
+    "azure",
+    "chatgpt",
+    "chatgpt-clone",
+    "claude",
+    "clone",
+    "deepseek"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "LibreChat-AI",
+    "url": "https://github.com/LibreChat-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LibreChat-AI/LibreChat",
+    "huggingface": null,
+    "homepage": "https://librechat.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 46026,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T03:48:28Z",
+    "first_commit_at": "2022-10-20T11:45:11Z",
+    "forks": 9461,
+    "watchers": 219,
+    "open_issues": 976,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.7604,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:45:37.747272Z",
+  "last_refreshed_at": "2026-10-20T04:45:37.747276Z",
+  "consecutive_refresh_failures": 0
+}

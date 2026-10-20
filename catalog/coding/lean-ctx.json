@@ -1,19 +1,19 @@
 {
   "slug": "lean-ctx",
   "name": "lean-ctx",
-  "tagline": "LeanCTX — Context Intelligence for AI systems.",
+  "tagline": "LeanCTX is the Context Gateway for AI Systems. Select task-relevant context, apply supported controls, connect local knowledge and inspect recorded evidence. Open-source Engine: CLI, MCP, hooks and su",
   "category": "coding",
   "tags": [
     "agentic-coding",
     "ai",
     "ai-agents",
     "ai-coding",
+    "ai-governance",
+    "ai-security",
+    "audit-trail",
     "claude-code",
     "context-engineering",
-    "context-intelligence",
-    "context-layer",
-    "copilot",
-    "cursor"
+    "context-gateway"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 3737,
+    "stars": 3890,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T15:28:22Z",
+    "last_commit_at": "2026-10-19T17:34:04Z",
     "first_commit_at": "2026-03-23T13:30:19Z",
-    "forks": 343,
-    "watchers": 23,
-    "open_issues": 18,
+    "forks": 353,
+    "watchers": 22,
+    "open_issues": 9,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4022,
-  "rank_in_category": 63,
+  "composite_score": 0.4375,
+  "rank_in_category": 62,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-04T15:13:13.680819Z",
-  "last_refreshed_at": "2026-09-08T17:08:06.084425Z",
+  "last_refreshed_at": "2026-10-20T04:14:59.625239Z",
   "consecutive_refresh_failures": 0
 }

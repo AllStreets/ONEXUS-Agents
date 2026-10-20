@@ -1,7 +1,7 @@
 {
   "slug": "screenpipe",
   "name": "screenpipe",
-  "tagline": "YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)",
+  "tagline": "YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context",
   "category": "desktop-os-automation",
   "tags": [
     "agents",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 21218,
+    "stars": 21994,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-25T14:08:47Z",
+    "last_commit_at": "2026-10-20T03:39:36Z",
     "first_commit_at": "2024-06-19T13:23:57Z",
-    "forks": 2133,
-    "watchers": 111,
-    "open_issues": 86,
+    "forks": 2249,
+    "watchers": 116,
+    "open_issues": 47,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5283,
+  "composite_score": 0.5727,
   "rank_in_category": 3,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-25T14:19:15.828801Z",
-  "last_refreshed_at": "2026-09-13T19:34:07.471048Z",
+  "first_seen_at": "2026-10-20T04:45:58.534079Z",
+  "last_refreshed_at": "2026-10-20T04:45:58.534083Z",
   "consecutive_refresh_failures": 0
 }

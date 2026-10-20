@@ -1,9 +1,20 @@
 {
   "slug": "openhuman",
   "name": "openhuman",
-  "tagline": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+  "tagline": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
   "category": "multi-agent-orchestration",
-  "tags": [],
+  "tags": [
+    "agent-orchestration",
+    "ai-agents",
+    "ai-assistant",
+    "desktop",
+    "llm",
+    "local-first",
+    "mcp",
+    "personal-ai",
+    "privacy",
+    "rust"
+  ],
   "author": {
     "type": "org",
     "handle": "tinyhumansai",
@@ -17,13 +28,13 @@
   },
   "license": "GPL-3.0",
   "metrics": {
-    "stars": 38968,
+    "stars": 42166,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-30T17:54:20Z",
+    "last_commit_at": "2026-10-20T03:39:58Z",
     "first_commit_at": "2026-01-26T22:06:29Z",
-    "forks": 3829,
+    "forks": 4164,
     "watchers": 197,
-    "open_issues": 320,
+    "open_issues": 294,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -35,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.4423,
-  "rank_in_category": 54,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5495,
+  "rank_in_category": 5,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-30T17:54:26.702887Z",
-  "last_refreshed_at": "2026-08-30T17:54:26.702890Z",
+  "first_seen_at": "2026-10-20T04:16:24.613952Z",
+  "last_refreshed_at": "2026-10-20T04:16:24.613956Z",
   "consecutive_refresh_failures": 0
 }

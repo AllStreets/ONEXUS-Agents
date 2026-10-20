@@ -1,0 +1,62 @@
+{
+  "slug": "claude-excel-skills",
+  "name": "claude-excel-skills",
+  "tagline": "12 Claude skills for building financial models in Excel: model architecture, driver builds, scenarios, sensitivity analysis and formula audit. Built by Oria.",
+  "category": "financial-modeling",
+  "tags": [
+    "agent-skills",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "excel",
+    "finance",
+    "financial-modeling",
+    "spreadsheets",
+    "xlsx"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "andreworia",
+    "url": "https://github.com/andreworia"
+  },
+  "source": {
+    "primary": "github",
+    "github": "andreworia/claude-excel-skills",
+    "huggingface": null,
+    "homepage": "https://www.oria.one/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-08T15:10:37Z",
+    "first_commit_at": "2026-09-08T13:06:04Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3546,
+  "rank_in_category": 125,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:35:41.954189Z",
+  "last_refreshed_at": "2026-10-20T04:35:41.954193Z",
+  "consecutive_refresh_failures": 0
+}

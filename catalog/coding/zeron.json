@@ -1,0 +1,60 @@
+{
+  "slug": "zeron",
+  "name": "zeron",
+  "tagline": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "cursor",
+    "developer-tools",
+    "gpui",
+    "local-first",
+    "open-source",
+    "rust"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "zeronsh",
+    "url": "https://github.com/zeronsh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zeronsh/zeron",
+    "huggingface": null,
+    "homepage": "https://zeron.sh/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3310,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T18:04:48Z",
+    "first_commit_at": "2026-07-19T18:04:51Z",
+    "forks": 338,
+    "watchers": 3,
+    "open_issues": 357,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3548,
+  "rank_in_category": 213,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:12:57.028061Z",
+  "last_refreshed_at": "2026-10-20T04:12:57.028065Z",
+  "consecutive_refresh_failures": 0
+}

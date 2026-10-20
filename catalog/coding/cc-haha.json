@@ -1,0 +1,63 @@
+{
+  "slug": "cc-haha",
+  "name": "cc-haha",
+  "tagline": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git wo",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "coding-agent",
+    "computer-use",
+    "desktop-app",
+    "electron"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "NanmiCoder",
+    "url": "https://github.com/NanmiCoder"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NanmiCoder/cc-haha",
+    "huggingface": null,
+    "homepage": "https://cchaha.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 15078,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T04:00:51Z",
+    "first_commit_at": "2026-03-31T08:55:58Z",
+    "forks": 8605,
+    "watchers": 56,
+    "open_issues": 192,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4729,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:12:43.081974Z",
+  "last_refreshed_at": "2026-10-20T04:12:43.081978Z",
+  "consecutive_refresh_failures": 0
+}

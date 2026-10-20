@@ -1,0 +1,57 @@
+{
+  "slug": "suna",
+  "name": "suna",
+  "tagline": "The open-source AI Operating System",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-operating-system",
+    "ai-os",
+    "llm",
+    "open-source",
+    "self-hosted"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kortix-ai",
+    "url": "https://github.com/kortix-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kortix-ai/suna",
+    "huggingface": null,
+    "homepage": "https://www.kortix.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 20288,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T04:45:57Z",
+    "first_commit_at": "2024-10-05T17:01:40Z",
+    "forks": 3440,
+    "watchers": 155,
+    "open_issues": 64,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5049,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:47:26.848487Z",
+  "last_refreshed_at": "2026-10-20T04:47:26.848491Z",
+  "consecutive_refresh_failures": 0
+}

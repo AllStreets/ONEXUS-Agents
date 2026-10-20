@@ -1,0 +1,60 @@
+{
+  "slug": "qianbi-novel",
+  "name": "QianBi-Novel",
+  "tagline": "千笔一文 Novel — 人 AI 共写的长篇网文创作台：条目化世界书 · 正则 must 契约（确定性复检，违规拦住锁定）· 三层审校（引证验真 + 投票）· 同人文外部导入可整批撤销 · 升级不动书稿 · BYOK 全本地 · MIT。A long-form fiction co-writing agent whose pipeline knows how to say no.",
+  "category": "content-writing",
+  "tags": [
+    "agent",
+    "ai-writing",
+    "byok",
+    "chinese",
+    "creative-writing",
+    "desktop-app",
+    "fan-fiction",
+    "llm",
+    "local-first",
+    "novel"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "GLFzr",
+    "url": "https://github.com/GLFzr"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GLFzr/QianBi-Novel",
+    "huggingface": null,
+    "homepage": "https://github.com/GLFzr/QianBi-Novel/releases/latest"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 48,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-27T07:05:50Z",
+    "first_commit_at": "2026-08-15T17:25:10Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4081,
+  "rank_in_category": 39,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:49:36.222761Z",
+  "last_refreshed_at": "2026-10-20T04:49:36.222764Z",
+  "consecutive_refresh_failures": 0
+}

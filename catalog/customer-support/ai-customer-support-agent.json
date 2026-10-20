@@ -1,32 +1,37 @@
 {
   "slug": "ai-customer-support-agent",
   "name": "ai-customer-support-agent",
-  "tagline": "AI-powered customer support automation workflow built with n8n ",
+  "tagline": "Multi-agent AI customer support system built with LangGraph, LangChain, OpenAI, and RAG, showcasing a modular architecture for intelligent task routing, retrieval, tool use and human-in-the-loop workf",
   "category": "customer-support",
   "tags": [
+    "a-i-customer-support-agent",
+    "ai",
+    "ai-agents",
     "ai-customer-support",
-    "chatbot",
-    "intelligent-routing",
-    "n8n",
-    "workflow-automation"
+    "customer-support",
+    "llm",
+    "llm-agents",
+    "mcp",
+    "mcp-client",
+    "mcp-server"
   ],
   "author": {
     "type": "user",
-    "handle": "JP-source-do",
-    "url": "https://github.com/JP-source-do"
+    "handle": "victorpreston",
+    "url": "https://github.com/victorpreston"
   },
   "source": {
     "primary": "github",
-    "github": "JP-source-do/ai-customer-support-agent",
+    "github": "victorpreston/ai-customer-support-agent",
     "huggingface": null,
-    "homepage": "https://www.loom.com/share/73548e064f6a4f08898fa862c837da8c"
+    "homepage": null
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 1,
+    "stars": 2,
     "downloads_30d": null,
-    "last_commit_at": "2025-09-28T22:59:44Z",
-    "first_commit_at": "2025-09-25T01:19:39Z",
+    "last_commit_at": "2026-10-07T14:49:51Z",
+    "first_commit_at": "2024-09-12T20:24:58Z",
     "forks": 0,
     "watchers": 0,
     "open_issues": 0,
@@ -41,15 +46,18 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.2269,
-  "rank_in_category": 175,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5062,
+  "rank_in_category": 52,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-25T14:18:22.155637Z",
-  "last_refreshed_at": "2026-09-13T19:33:23.852570Z",
+  "first_seen_at": "2026-10-20T04:44:47.075596Z",
+  "last_refreshed_at": "2026-10-20T04:44:47.075600Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,51 @@
+{
+  "slug": "orchestrate",
+  "name": "orchestrate",
+  "tagline": "Orchestrate",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "managed-by-terraform"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "groq",
+    "url": "https://github.com/groq"
+  },
+  "source": {
+    "primary": "github",
+    "github": "groq/orchestrate",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-18T18:55:24Z",
+    "first_commit_at": "2025-12-08T07:20:29Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2599,
+  "rank_in_category": 345,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:26:37.689875Z",
+  "last_refreshed_at": "2026-10-20T04:26:37.689879Z",
+  "consecutive_refresh_failures": 0
+}

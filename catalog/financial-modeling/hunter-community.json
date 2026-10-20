@@ -1,19 +1,19 @@
 {
   "slug": "hunter-community",
   "name": "hunter-community",
-  "tagline": "Hunter Community Edition · 私人金融 AI 团队 · AI 智能体 + AI 量化 · 开源自托管 · powered by opencode + Claude Code + MCP + multi-agent · your private financial AI team · open-source self-hosted · 15 min docker start",
+  "tagline": "HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBuddy Finance Edition · 多智能体投研终端 A股/港股/美股 · 推理在你机器上跑 · 仓位不出你硬盘 · BYOK · Apache 2.0 · docker c",
   "category": "financial-modeling",
   "tags": [
     "ai-agents",
     "ai-hedge-fund",
     "ai-quant",
     "anthropic",
-    "apache-2",
-    "claude-agent-sdk",
+    "byok",
     "claude-code",
-    "codex",
     "docker-compose",
-    "financial-ai"
+    "financial-ai",
+    "fintech",
+    "investment-research"
   ],
   "author": {
     "type": "org",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "agentpit-io/hunter-community",
     "huggingface": null,
-    "homepage": "https://hunter.agentpit.io/"
+    "homepage": "https://hunter-community.agentpit.io/"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 480,
+    "stars": 588,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T10:15:14Z",
+    "last_commit_at": "2026-10-14T17:31:58Z",
     "first_commit_at": "2026-08-10T10:35:37Z",
-    "forks": 57,
-    "watchers": 1,
-    "open_issues": 0,
+    "forks": 82,
+    "watchers": 4,
+    "open_issues": 21,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4964,
-  "rank_in_category": 21,
+  "composite_score": 0.5724,
+  "rank_in_category": 17,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-16T13:52:33.785009Z",
-  "last_refreshed_at": "2026-09-08T17:28:40.974047Z",
+  "last_refreshed_at": "2026-10-20T04:34:54.994250Z",
   "consecutive_refresh_failures": 0
 }

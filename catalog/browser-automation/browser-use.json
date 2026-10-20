@@ -6,11 +6,14 @@
   "tags": [
     "ai-agents",
     "ai-tools",
+    "browser-agent",
     "browser-automation",
     "browser-use",
-    "llm",
-    "playwright",
-    "python"
+    "cdp",
+    "cloud-browser",
+    "computer-use",
+    "headless-browser",
+    "llm"
   ],
   "author": {
     "type": "org",
@@ -25,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 113265,
+    "stars": 118571,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-07T19:55:36Z",
+    "last_commit_at": "2026-10-17T20:02:49Z",
     "first_commit_at": "2024-10-31T16:00:29Z",
-    "forks": 12480,
-    "watchers": 467,
-    "open_issues": 406,
+    "forks": 13159,
+    "watchers": 482,
+    "open_issues": 559,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -43,7 +46,9 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [
     {
@@ -54,11 +59,11 @@
     }
   ],
   "runnable": true,
-  "adapter_ref": "adapters/browser-use/mcp.json",
-  "composite_score": 0.6624,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.7122,
   "rank_in_category": 1,
   "discovered_via": "seed",
   "first_seen_at": "2026-01-12T00:00:00Z",
-  "last_refreshed_at": "2026-10-18T19:25:10.323600Z",
+  "last_refreshed_at": "2026-10-20T04:12:02.697356Z",
   "consecutive_refresh_failures": 0
 }

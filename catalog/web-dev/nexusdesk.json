@@ -1,0 +1,62 @@
+{
+  "slug": "nexusdesk",
+  "name": "nexusdesk",
+  "tagline": "Open-source, self-hosted AI customer service platform built around ReAct agents. Agents retrieve knowledge, call tools, and prepare actions; humans confirm high-impact writes such as ticket creation. ",
+  "category": "web-dev",
+  "tags": [
+    "ai-agent",
+    "customer-service",
+    "customer-support",
+    "fastapi",
+    "helpdesk",
+    "knowledge-base",
+    "langgraph",
+    "live-chat",
+    "llm",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "GroundedCore",
+    "url": "https://github.com/GroundedCore"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GroundedCore/nexusdesk",
+    "huggingface": null,
+    "homepage": "https://www.aidet.top/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 79,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T03:05:39Z",
+    "first_commit_at": "2026-09-24T14:23:09Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.42,
+  "rank_in_category": 107,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:24:53.685564Z",
+  "last_refreshed_at": "2026-10-20T04:24:53.685567Z",
+  "consecutive_refresh_failures": 0
+}

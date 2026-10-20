@@ -1,18 +1,19 @@
 {
   "slug": "hermes-legal",
   "name": "hermes-legal",
-  "tagline": "Autonomous contract risk analysis - scores clauses, suggests negotiation language, gives SIGN/NEGOTIATE/REJECT verdict, compares versions, watches folders. English + Turkish.",
+  "tagline": "Free, multi-provider AI contract analysis. Scores risk, suggests redlines, gives a sign/negotiate/reject verdict. Works with Groq/Gemini free tiers or fully offline, no API key required.",
   "category": "legal-research",
   "tags": [
-    "atropos",
-    "autonomous-agents",
+    "ai",
+    "cli",
     "contract-analysis",
-    "hermes-agent",
-    "legal",
-    "nlp",
-    "nous-research",
-    "risk-analysis",
-    "turkish"
+    "contract-analysis-legal-tech-enterprise-software",
+    "developer-tools",
+    "gemini",
+    "github-actions",
+    "groq",
+    "legal-tech",
+    "llm"
   ],
   "author": {
     "type": "user",
@@ -27,10 +28,10 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 22,
+    "stars": 26,
     "downloads_30d": null,
-    "last_commit_at": "2026-03-15T18:12:30Z",
-    "first_commit_at": "2026-03-15T13:28:01Z",
+    "last_commit_at": "2026-10-10T19:55:25Z",
+    "first_commit_at": "2026-09-18T03:57:28Z",
     "forks": 2,
     "watchers": 0,
     "open_issues": 0,
@@ -50,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1713,
-  "rank_in_category": 116,
+  "composite_score": 0.2578,
+  "rank_in_category": 68,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:25:22.404957Z",
-  "last_refreshed_at": "2026-09-08T17:33:25.247230Z",
+  "last_refreshed_at": "2026-10-20T04:39:26.508752Z",
   "consecutive_refresh_failures": 0
 }

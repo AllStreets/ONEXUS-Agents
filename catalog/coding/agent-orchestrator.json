@@ -1,0 +1,60 @@
+{
+  "slug": "agent-orchestrator",
+  "name": "agent-orchestrator",
+  "tagline": "Open-source (Apache-2.0) orchestrator for Claude Code, Codex & 30+ coding agents. Plan, run and supervise agent teams from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.",
+  "category": "coding",
+  "tags": [
+    "agent-fleet",
+    "agent-ide",
+    "agent-orchestration",
+    "agent-swarm",
+    "agentic-coding",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "codex-cli"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OrchestratorInc",
+    "url": "https://github.com/OrchestratorInc"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OrchestratorInc/agent-orchestrator",
+    "huggingface": null,
+    "homepage": "https://orchestrator.inc/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 13389,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T04:14:10Z",
+    "first_commit_at": "2026-02-13T09:55:31Z",
+    "forks": 1842,
+    "watchers": 41,
+    "open_issues": 939,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4001,
+  "rank_in_category": 108,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:14:48.147009Z",
+  "last_refreshed_at": "2026-10-20T04:14:48.147013Z",
+  "consecutive_refresh_failures": 0
+}

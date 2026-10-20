@@ -1,0 +1,59 @@
+{
+  "slug": "awesome-ai-agents-cn",
+  "name": "awesome-ai-agents-cn",
+  "tagline": "中文 AI Agent 落地案例精选 —— 真实场景、真实代码、真实效果。",
+  "category": "customer-support",
+  "tags": [
+    "agent",
+    "ai-agents",
+    "awesome-list",
+    "chinese",
+    "claude-code",
+    "llm",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "peterfei",
+    "url": "https://github.com/peterfei"
+  },
+  "source": {
+    "primary": "github",
+    "github": "peterfei/awesome-ai-agents-cn",
+    "huggingface": null,
+    "homepage": "https://github.com/peterfei/awesome-ai-agents-cn"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 19,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-02T06:46:09Z",
+    "first_commit_at": "2026-06-01T06:38:02Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.0,
+  "rank_in_category": 229,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:46:27.346136Z",
+  "last_refreshed_at": "2026-10-20T04:46:27.346139Z",
+  "consecutive_refresh_failures": 0
+}

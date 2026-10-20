@@ -1,0 +1,60 @@
+{
+  "slug": "daytradingagent",
+  "name": "DayTradingAgent",
+  "tagline": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-share equities | AI 日内交易智能体：覆盖港股 / 美股 / A 股，盯盘分析、输出结构化交易信号、自动执行交易等。",
+  "category": "financial-modeling",
+  "tags": [
+    "a-shares",
+    "ai-agent",
+    "ai-trading",
+    "automated-trading",
+    "day-trading",
+    "hk-stocks",
+    "llm",
+    "llm-agent",
+    "quantitative-trading",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "xhqing",
+    "url": "https://github.com/xhqing"
+  },
+  "source": {
+    "primary": "github",
+    "github": "xhqing/DayTradingAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-17T09:28:50Z",
+    "first_commit_at": "2026-07-07T13:07:11Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3387,
+  "rank_in_category": 145,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:34:46.968831Z",
+  "last_refreshed_at": "2026-10-20T04:34:46.968834Z",
+  "consecutive_refresh_failures": 0
+}

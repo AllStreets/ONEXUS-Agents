@@ -1,0 +1,60 @@
+{
+  "slug": "openrig",
+  "name": "openrig",
+  "tagline": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+  "category": "coding",
+  "tags": [
+    "agent-harness",
+    "agent-orchestration",
+    "agent-skills",
+    "ai-coding",
+    "claude-code",
+    "cli",
+    "codex-cli",
+    "multi-agent",
+    "multi-agent-systems",
+    "tmux"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mvschwarz",
+    "url": "https://github.com/mvschwarz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mvschwarz/openrig",
+    "huggingface": null,
+    "homepage": "https://openrig.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7917,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T04:14:43Z",
+    "first_commit_at": "2026-03-23T07:09:13Z",
+    "forks": 634,
+    "watchers": 31,
+    "open_issues": 163,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3848,
+  "rank_in_category": 133,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:14:53.325549Z",
+  "last_refreshed_at": "2026-10-20T04:14:53.325553Z",
+  "consecutive_refresh_failures": 0
+}

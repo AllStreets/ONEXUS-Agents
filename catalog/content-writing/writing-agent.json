@@ -1,7 +1,7 @@
 {
   "slug": "writing-agent",
   "name": "writing-agent",
-  "tagline": "🚀 一个基于 Claude Code (Skills + Subagents) 的“去AI味”全栈写作系统。不仅防套路，更通过专属规则强制注入人类观点与细节，搭配读者测试评估与自动图文排版。全面支持 DeepSeek / 智谱GLM / MiniMax 等国产低成本大模型，提供从选题、风格建模到审稿发布的高维全自动写作工作流。",
+  "tagline": "🚀 Writing Agent：开源多智能体对话写作助手。独立 Windows 客户端，无需 Claude Code，配置模型 API 即可使用。写作导演协同主笔、读者审校及“去 AI 味”等专家，从选题到成稿逐步共创，通过自然对话确认与修改。工程化 Harness 管理阶段确认、版本保存与中断恢复。内置 99 项模型连接预设，支持 DeepSeek、智谱 GLM、MiniMax 等及自定义接口；",
   "category": "content-writing",
   "tags": [
     "ai-writing",
@@ -26,13 +26,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 388,
+    "stars": 435,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-25T09:18:21Z",
+    "last_commit_at": "2026-10-19T17:34:54Z",
     "first_commit_at": "2025-12-20T16:36:38Z",
-    "forks": 62,
-    "watchers": 3,
-    "open_issues": 0,
+    "forks": 70,
+    "watchers": 4,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -49,10 +49,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4365,
-  "rank_in_category": 21,
+  "composite_score": 0.5322,
+  "rank_in_category": 13,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:21:23.870497Z",
-  "last_refreshed_at": "2026-09-13T19:35:17.700723Z",
+  "last_refreshed_at": "2026-10-20T04:48:37.256970Z",
   "consecutive_refresh_failures": 0
 }

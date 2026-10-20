@@ -1,0 +1,56 @@
+{
+  "slug": "nyse",
+  "name": "nyse",
+  "tagline": "A GPT-6 Astra agent that runs a live board of every Robinhood Stock Token against its real price and calls the gap while the real NYSE is closed. Built with Minara.",
+  "category": "financial-modeling",
+  "tags": [
+    "arbitrage",
+    "minara",
+    "robinhood-chain",
+    "stock-tokens",
+    "telegram-bot",
+    "trading-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "slash1sol1",
+    "url": "https://github.com/slash1sol1"
+  },
+  "source": {
+    "primary": "github",
+    "github": "slash1sol1/nyse",
+    "huggingface": null,
+    "homepage": "https://nyse.now/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 34,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-15T11:15:39Z",
+    "first_commit_at": "2026-09-15T10:34:32Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3441,
+  "rank_in_category": 138,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:34:36.203430Z",
+  "last_refreshed_at": "2026-10-20T04:34:36.203434Z",
+  "consecutive_refresh_failures": 0
+}

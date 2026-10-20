@@ -1,0 +1,62 @@
+{
+  "slug": "writing-mcp",
+  "name": "writing-mcp",
+  "tagline": "Local, deterministic MCP server for writing agents. Indexes InkOS/Markdown/TXT/EPUB into a rebuildable SQLite/FTS5 index and answers with SHA-256-verifiable evidence excerpts under token budgets. No L",
+  "category": "content-writing",
+  "tags": [
+    "context-engineering",
+    "context-engineering-framework",
+    "evidence-backed",
+    "knowledge-index",
+    "local-first",
+    "long-form-writing",
+    "mcp",
+    "mcp-servers",
+    "modelcontextprotocol",
+    "privacy"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "WQMYH",
+    "url": "https://github.com/WQMYH"
+  },
+  "source": {
+    "primary": "github",
+    "github": "WQMYH/writing-mcp",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-18T14:11:30Z",
+    "first_commit_at": "2026-08-13T12:48:30Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3902,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:48:46.077598Z",
+  "last_refreshed_at": "2026-10-20T04:48:46.077602Z",
+  "consecutive_refresh_failures": 0
+}

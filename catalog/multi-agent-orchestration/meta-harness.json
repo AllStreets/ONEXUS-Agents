@@ -1,7 +1,7 @@
 {
   "slug": "meta-harness",
   "name": "meta-harness",
-  "tagline": "Reference code for the Meta-Harness paper.",
+  "tagline": "Official code for Meta-Harness (2603.28052)",
   "category": "multi-agent-orchestration",
   "tags": [
     "harness-engineering",
@@ -20,13 +20,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1528,
+    "stars": 1688,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-11T22:25:06Z",
+    "last_commit_at": "2026-10-02T03:56:17Z",
     "first_commit_at": "2026-04-15T05:34:48Z",
-    "forks": 147,
-    "watchers": 8,
-    "open_issues": 7,
+    "forks": 171,
+    "watchers": 9,
+    "open_issues": 8,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -43,10 +43,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3339,
-  "rank_in_category": 206,
+  "composite_score": 0.3886,
+  "rank_in_category": 155,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-19T14:54:00.857479Z",
-  "last_refreshed_at": "2026-09-08T17:34:25.246682Z",
+  "first_seen_at": "2026-10-20T04:40:32.097957Z",
+  "last_refreshed_at": "2026-10-20T04:40:32.097960Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,60 @@
+{
+  "slug": "deepseek-harness-desktop",
+  "name": "deepseek-harness-desktop",
+  "tagline": "Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "ai-coding-assistant",
+    "codex",
+    "deepseek",
+    "deepseek-harness",
+    "desktop-app",
+    "dsh",
+    "dsh-plugin",
+    "electron",
+    "electron-app"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ningbainb",
+    "url": "https://github.com/ningbainb"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ningbainb/deepseek-harness-desktop",
+    "huggingface": null,
+    "homepage": "https://ningbainb.github.io/deepseek-harness-desktop/"
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 847,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-06T18:35:48Z",
+    "first_commit_at": "2026-08-04T15:39:43Z",
+    "forks": 25,
+    "watchers": 1,
+    "open_issues": 17,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3095,
+  "rank_in_category": 301,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:13:35.980488Z",
+  "last_refreshed_at": "2026-10-20T04:13:35.980491Z",
+  "consecutive_refresh_failures": 0
+}

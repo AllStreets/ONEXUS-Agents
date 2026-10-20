@@ -1,0 +1,60 @@
+{
+  "slug": "helpin",
+  "name": "helpin",
+  "tagline": "Open-source alternative to Intercom, Fin and Linear. Support, projects, CRM, meetings, and docs in one workspace—with AI agents that use customer history to answer questions, plan work, and follow up.",
+  "category": "customer-support",
+  "tags": [
+    "ai-agents",
+    "ai-agents-platform",
+    "crm",
+    "customer-support",
+    "customer-support-agent",
+    "customer-support-ai",
+    "customer-support-automation",
+    "customer-support-chatbot",
+    "helpdesk",
+    "issue-tracking"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "helpin-ai",
+    "url": "https://github.com/helpin-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "helpin-ai/helpin",
+    "huggingface": null,
+    "homepage": "https://helpin.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 45,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T17:32:13Z",
+    "first_commit_at": "2026-03-03T15:38:11Z",
+    "forks": 10,
+    "watchers": 0,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5131,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:44:14.383455Z",
+  "last_refreshed_at": "2026-10-20T04:44:14.383459Z",
+  "consecutive_refresh_failures": 0
+}

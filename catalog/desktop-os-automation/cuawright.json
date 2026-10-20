@@ -1,0 +1,49 @@
+{
+  "slug": "cuawright",
+  "name": "CUAWright",
+  "tagline": "A simple SWE-style browser+desktop agent framework that achieves SOTA results on long-horizon CUA tasks",
+  "category": "desktop-os-automation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/CUAWright",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6064,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-06T07:30:35Z",
+    "first_commit_at": "2026-04-08T01:48:09Z",
+    "forks": 386,
+    "watchers": 20,
+    "open_issues": 55,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4251,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:23:42.834478Z",
+  "last_refreshed_at": "2026-10-20T04:23:42.834481Z",
+  "consecutive_refresh_failures": 0
+}

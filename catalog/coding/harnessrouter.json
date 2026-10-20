@@ -1,0 +1,60 @@
+{
+  "slug": "harnessrouter",
+  "name": "harnessrouter",
+  "tagline": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, str",
+  "category": "coding",
+  "tags": [
+    "agent-api",
+    "agent-framework",
+    "agent-harness",
+    "ai-agents",
+    "ai-infrastructure",
+    "coding-agent",
+    "conformance-testing",
+    "deepseek-harness",
+    "harness-engineering",
+    "hermes"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "HarnessRouter",
+    "url": "https://github.com/HarnessRouter"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HarnessRouter/harnessrouter",
+    "huggingface": null,
+    "homepage": "https://harnessrouter.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3145,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T02:02:17Z",
+    "first_commit_at": "2026-08-09T20:49:20Z",
+    "forks": 346,
+    "watchers": 21,
+    "open_issues": 25,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3608,
+  "rank_in_category": 196,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:12:57.766366Z",
+  "last_refreshed_at": "2026-10-20T04:12:57.766369Z",
+  "consecutive_refresh_failures": 0
+}

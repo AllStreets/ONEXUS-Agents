@@ -1,0 +1,62 @@
+{
+  "slug": "pi-fabric",
+  "name": "pi-fabric",
+  "tagline": "A programmable tool and agent runtime for Pi",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "coding-agent",
+    "mcp",
+    "multi-agent",
+    "orchestration",
+    "pi",
+    "pi-extension",
+    "pi-package",
+    "quickjs",
+    "rlm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "fabric-runtime",
+    "url": "https://github.com/fabric-runtime"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fabric-runtime/pi-fabric",
+    "huggingface": null,
+    "homepage": "https://www.npmjs.com/package/pi-fabric"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 294,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T09:50:10Z",
+    "first_commit_at": "2026-07-12T14:48:51Z",
+    "forks": 36,
+    "watchers": 4,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4288,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:47:50.597045Z",
+  "last_refreshed_at": "2026-10-20T04:47:50.597049Z",
+  "consecutive_refresh_failures": 0
+}

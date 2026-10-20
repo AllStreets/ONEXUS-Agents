@@ -1,0 +1,60 @@
+{
+  "slug": "ifixai",
+  "name": "iFixAi",
+  "tagline": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th",
+  "category": "customer-support",
+  "tags": [
+    "agent-evaluation",
+    "ai",
+    "ai-alignment",
+    "ai-evaluation",
+    "ai-governance",
+    "ai-safety",
+    "cli",
+    "diagnostic-tool",
+    "eu-ai-act",
+    "hallucination-detection"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ifixai-ai",
+    "url": "https://github.com/ifixai-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ifixai-ai/iFixAi",
+    "huggingface": null,
+    "homepage": "https://www.ifixai.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 30176,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-16T04:33:05Z",
+    "first_commit_at": "2026-04-27T13:01:37Z",
+    "forks": 1677,
+    "watchers": 414,
+    "open_issues": 40,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6717,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:45:47.896987Z",
+  "last_refreshed_at": "2026-10-20T04:45:47.896991Z",
+  "consecutive_refresh_failures": 0
+}

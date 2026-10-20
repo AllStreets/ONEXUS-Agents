@@ -1,19 +1,19 @@
 {
   "slug": "ai-scribe-chat-gpt-content-creator",
   "name": "ai-scribe-chat-gpt-content-creator",
-  "tagline": "A WordPress plugin that uses the OpenAI API (GPT-4.5, o3) to generate SEO-optimized, humanized, long-form content and images.",
+  "tagline": "SEO content creator and Humanizer for WordPress using OpenAI, Anthropic Claude and Gemini, with editable prompts, images and Opace AI Hub.",
   "category": "content-writing",
   "tags": [
     "ai-content-generation",
+    "anthropic",
     "article-generator",
     "blog-writing",
     "chatgpt",
+    "claude",
     "content-creation",
     "content-marketing",
     "content-writing",
-    "generative-ai",
-    "gpt-3",
-    "gpt-35-turbo"
+    "gemini"
   ],
   "author": {
     "type": "user",
@@ -26,11 +26,11 @@
     "huggingface": null,
     "homepage": "https://opace.agency/services/web-design/wordpress-development"
   },
-  "license": "Unknown",
+  "license": "GPL-3.0",
   "metrics": {
     "stars": 51,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-25T11:36:51Z",
+    "last_commit_at": "2026-09-05T07:27:37Z",
     "first_commit_at": "2025-06-09T11:34:14Z",
     "forks": 10,
     "watchers": 2,
@@ -46,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "anthropic-sdk"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4099,
-  "rank_in_category": 27,
+  "composite_score": 0.4441,
+  "rank_in_category": 30,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:21:38.791868Z",
-  "last_refreshed_at": "2026-09-13T19:35:32.970413Z",
+  "last_refreshed_at": "2026-10-20T04:49:02.878511Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,57 @@
+{
+  "slug": "avoid-ai-writing",
+  "name": "avoid-ai-writing",
+  "tagline": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
+  "category": "content-writing",
+  "tags": [
+    "ai-writing",
+    "claude",
+    "claude-code",
+    "llm",
+    "prompt-engineering",
+    "skill",
+    "writing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "conorbronsdon",
+    "url": "https://github.com/conorbronsdon"
+  },
+  "source": {
+    "primary": "github",
+    "github": "conorbronsdon/avoid-ai-writing",
+    "huggingface": null,
+    "homepage": "https://chainofthought.show/go/avoid-ai-writing/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5117,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T03:38:15Z",
+    "first_commit_at": "2026-03-06T07:51:38Z",
+    "forks": 473,
+    "watchers": 24,
+    "open_issues": 21,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6121,
+  "rank_in_category": 4,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:50:22.879132Z",
+  "last_refreshed_at": "2026-10-20T04:50:22.879136Z",
+  "consecutive_refresh_failures": 0
+}
