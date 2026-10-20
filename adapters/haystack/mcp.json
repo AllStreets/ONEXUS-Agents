@@ -5,36 +5,28 @@
   "category": "search-rag",
   "transport": "stdio",
   "command": "python",
-  "args": ["-m", "adapters.haystack.server"],
-  "env": {
-    "OPENAI_API_KEY": {
-      "required": false,
-      "description": "OpenAI API key for OpenAI-backed generators / embedders."
-    },
-    "ANTHROPIC_API_KEY": {
-      "required": false,
-      "description": "Anthropic API key for Claude-backed generators."
-    },
-    "PIPELINE_DIR": {
-      "required": false,
-      "description": "Directory of Haystack pipeline YAML files. Each YAML is exposed as a named pipeline. Defaults to ./pipelines."
-    },
-    "DOCUMENT_STORE_URL": {
-      "required": false,
-      "description": "Connection string for a persistent document store (e.g. Elasticsearch, OpenSearch, Qdrant, Weaviate). Defaults to in-memory."
-    }
-  },
+  "args": [
+    "-m",
+    "adapters.haystack.server"
+  ],
+  "env": {},
   "capabilities": {
     "tools": [
-      "list_pipelines",
-      "run_pipeline",
       "index_documents",
       "search",
-      "describe_pipeline"
+      "list_pipelines",
+      "describe_pipeline",
+      "run_pipeline"
     ],
-    "resources": ["pipelines", "document_store"]
+    "resources": [
+      "document_store"
+    ]
   },
   "trust_floor": 0.45,
   "default_tier": "ADVISOR",
-  "notes": "deepset's RAG pipeline framework — runs user-authored YAML pipelines. ADVISOR tier because pipelines are operator-defined; per-component side effects bound by the wired components. Trust floor moderate to allow tool-augmented generators to act."
+  "notes": "deepset's Haystack as a keyword-search agent: an in-memory document store ranked with BM25, with documents passed in through index_documents. No model, no API key and no network, so it runs confined with --network none. Server code in server.py, image from the Dockerfile here. ADVISOR tier: it returns passages and changes nothing outside its own store.",
+  "confinement": {
+    "image": "ghcr.io/allstreets/onexus-adapter-haystack:0.1.0",
+    "command": "python"
+  }
 }

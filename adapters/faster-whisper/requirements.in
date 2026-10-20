@@ -1,0 +1,4 @@
+faster-whisper>=1.1,<2
+# PyAV 15+ dropped the metadata_errors argument faster-whisper 1.2 passes to av.open; 14.4.0 has no linux arm64 wheel for Python 3.12, 14.2.0 does
+av==14.2.0
+mcp>=1.6,<2

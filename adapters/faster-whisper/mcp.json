@@ -5,25 +5,11 @@
   "category": "audio-speech",
   "transport": "stdio",
   "command": "python",
-  "args": ["-m", "adapters.faster_whisper.server"],
-  "env": {
-    "MODEL_NAME": {
-      "required": false,
-      "description": "CTranslate2 Whisper model to load (e.g. tiny, base, small, medium, large-v3, distil-large-v3). Defaults to large-v3."
-    },
-    "DEVICE": {
-      "required": false,
-      "description": "Compute device: 'cpu', 'cuda', or 'auto'. Defaults to auto."
-    },
-    "COMPUTE_TYPE": {
-      "required": false,
-      "description": "Quantisation: 'int8', 'int8_float16', 'float16', 'float32'. Defaults to int8 on CPU, float16 on CUDA."
-    },
-    "MODEL_CACHE_DIR": {
-      "required": false,
-      "description": "Override the HuggingFace cache dir for model downloads."
-    }
-  },
+  "args": [
+    "-m",
+    "adapters.faster_whisper.server"
+  ],
+  "env": {},
   "capabilities": {
     "tools": [
       "transcribe",
@@ -31,9 +17,13 @@
       "detect_language",
       "translate"
     ],
-    "resources": ["filesystem"]
+    "resources": []
   },
   "trust_floor": 0.3,
   "default_tier": "EXECUTOR",
-  "notes": "Local Whisper inference (CTranslate2). Pure read-only over audio files — no network, no shell. Tier EXECUTOR with low trust floor since the only side effects are returning text and writing transcript files into a sandboxed output dir."
+  "notes": "Local Whisper inference (CTranslate2, int8 on CPU) with the base model baked into the image, so it runs confined with --network none. Audio is passed in base64 because the container sees none of the operator's files. Server code in server.py, image from the Dockerfile here. EXECUTOR with a low trust floor: its only output is text.",
+  "confinement": {
+    "image": "ghcr.io/allstreets/onexus-adapter-faster-whisper:0.1.0",
+    "command": "python"
+  }
 }

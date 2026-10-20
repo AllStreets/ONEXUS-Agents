@@ -7,7 +7,8 @@ agents:
 
   - source: github
     repo: SYSTRAN/faster-whisper
-    runnable: false
+    runnable: true
+    adapter_ref: adapters/faster-whisper/mcp.json
     notes: "Fast Whisper port used in production transcription agents."
 
   - source: github
