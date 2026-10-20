@@ -1,35 +1,26 @@
-# faster-whisper — MCP adapter
+# faster-whisper: MCP adapter
 
-Bridges [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) into ONEXUS via MCP.
+Runs [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) in ONEXUS for speech to text, on the CPU with int8. The Whisper `base` model is downloaded when the image is built, so the running agent needs no network.
 
-## Install
+It runs **confined**. ONEXUS starts it in the container from this folder's `Dockerfile` with no network, a read-only root, every capability dropped and a non-root user (see `confinement` in `mcp.json` and `nexus/agents/confine.py` in ONEXUS). It sees none of your files, so audio arrives base64-encoded in the tool call, up to 25 MB, in any format FFmpeg reads.
 
-```sh
-pip install faster-whisper
-pip install "onexus-agents-pipeline[adapters]"
-```
+## Tools
 
-GPU acceleration (optional):
+- `transcribe(audio_base64, language=None)`: the text, the detected language and the duration
+- `transcribe_chunked(audio_base64, language=None)`: each segment with its start and end in seconds
+- `detect_language(audio_base64)`: the language of the first 30 seconds, with the model's confidence
+- `translate(audio_base64)`: English text, whatever language is spoken
 
-```sh
-pip install "faster-whisper[cuda]"
-```
-
-## Invoke from ONEXUS
+## Build the image
 
 ```sh
-onexus call faster-whisper \
-  --task "transcribe ./meetings/2026-04-30-standup.m4a with speaker timestamps"
+docker build -t ghcr.io/allstreets/onexus-adapter-faster-whisper:0.1.0 adapters/faster-whisper
+python3 adapters/smoke.py faster-whisper
 ```
 
-ONEXUS will:
-1. Launch the MCP server declared in `mcp.json`.
-2. Forward Cortex's spec to `transcribe`.
-3. Return the transcript inline; long files stream chunk-by-chunk via `transcribe_chunked`.
+`requirements.txt` is the locked set, resolved in the image's base. PyAV is held at 14.2.0 because 15 and later removed an argument faster-whisper 1.2 still passes.
 
 ## Defaults
 
-- Tier: `EXECUTOR` — runs autonomously since it is read-only over audio + sandboxed transcript output.
-- Trust floor: `0.30` — local inference, no network, no shell.
-- Model: `large-v3` by default; switch to `distil-large-v3` for ~2x speed at near-parity WER.
-- Device: auto-detects CUDA, falls back to CPU.
+- Tier: `EXECUTOR` with a trust floor of `0.30`. Its only output is text.
+- Model: `base`. Larger models need more memory than the default 1 GB container limit.

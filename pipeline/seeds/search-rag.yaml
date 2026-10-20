@@ -17,7 +17,8 @@ agents:
 
   - source: github
     repo: deepset-ai/haystack
-    runnable: false
+    runnable: true
+    adapter_ref: adapters/haystack/mcp.json
     notes: "Production RAG and agentic search framework."
 
   - source: github

@@ -49,6 +49,25 @@ Some agents don't speak MCP yet. For those, write a thin Python wrapper under
 
 The intent is MCP-first; the shim is for the long tail.
 
+Today only `haystack` and `faster-whisper` ship their shim. The other descriptors that point at
+`python -m adapters.<name>.server` describe a server that hasn't been written yet, so they won't
+start until it is.
+
+## Confinement
+
+An adapter can declare a container to run in:
+
+```json
+"confinement": { "image": "ghcr.io/allstreets/onexus-adapter-haystack:0.1.0", "command": "python" }
+```
+
+ONEXUS then runs it with no network (or, if `hosts` are listed, only those hosts through an egress
+proxy), a read-only root, every capability dropped and a non-root user, and records in its ledger
+that the launch was confined. Put the `Dockerfile` beside `mcp.json`, lock its dependencies in
+`requirements.txt`, and check it with `python3 adapters/smoke.py <name>`, which starts the image
+with the same flags and compares the tools it serves to the ones `mcp.json` declares.
+Confined today: `haystack` and `faster-whisper`.
+
 ## Trust contract
 
 Every adapter is reviewed before merging — both for what it claims it can do and

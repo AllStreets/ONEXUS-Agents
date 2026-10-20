@@ -52,7 +52,7 @@
   },
   "benchmarks": [],
   "runnable": true,
-  "adapter_ref": "mcp/stdio",
+  "adapter_ref": "adapters/haystack/mcp.json",
   "composite_score": 0.537,
   "rank_in_category": 1,
   "discovered_via": "seed",
