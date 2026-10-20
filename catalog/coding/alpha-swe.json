@@ -1,0 +1,56 @@
+{
+  "slug": "alpha-swe",
+  "name": "alpha-swe",
+  "tagline": "Minimal yet extensible SWE agent: asyncio state machine, DAG task scheduling, long-term memory, sandboxing. Integrates phase-barrier as a stage-gate hook.",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "asyncio",
+    "llm",
+    "python",
+    "swe-agent",
+    "task-scheduler"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Xuqing0415",
+    "url": "https://github.com/Xuqing0415"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Xuqing0415/alpha-swe",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T10:56:26Z",
+    "first_commit_at": "2026-07-30T11:40:45Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2185,
+  "rank_in_category": 523,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T17:48:32.940140Z",
+  "last_refreshed_at": "2026-10-20T17:48:32.940144Z",
+  "consecutive_refresh_failures": 0
+}

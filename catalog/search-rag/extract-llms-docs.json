@@ -1,0 +1,62 @@
+{
+  "slug": "extract-llms-docs",
+  "name": "extract-llms-docs",
+  "tagline": "Extract documentation for AI agents from any site with llms.txt support. Features MCP server, REST API, batch processing, and multiple export formats.",
+  "category": "search-rag",
+  "tags": [
+    "agents-md",
+    "ai",
+    "ai-agents",
+    "claude",
+    "cursor",
+    "developer-tools",
+    "documentation",
+    "llm",
+    "llms-txt",
+    "markdown"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nirholas",
+    "url": "https://github.com/nirholas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nirholas/extract-llms-docs",
+    "huggingface": null,
+    "homepage": "https://llm.energy/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 34,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-11T01:49:10Z",
+    "first_commit_at": "2026-01-16T04:42:09Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.353,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:33:06.670122Z",
+  "last_refreshed_at": "2026-10-20T18:08:07.681410Z",
+  "consecutive_refresh_failures": 0
+}

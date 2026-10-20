@@ -1,0 +1,60 @@
+{
+  "slug": "mem0",
+  "name": "mem0",
+  "tagline": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+  "category": "search-rag",
+  "tags": [
+    "agentic-memory",
+    "agentic-memory-system",
+    "agents",
+    "ai",
+    "ai-agents",
+    "chatgpt",
+    "genai",
+    "llm",
+    "long-term-memory",
+    "memory"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mem0ai",
+    "url": "https://github.com/mem0ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mem0ai/mem0",
+    "huggingface": null,
+    "homepage": "https://mem0.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 67526,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T01:47:59Z",
+    "first_commit_at": "2023-06-20T08:59:41Z",
+    "forks": 7966,
+    "watchers": 257,
+    "open_issues": 856,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4902,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T17:52:46.370541Z",
+  "last_refreshed_at": "2026-10-20T17:52:46.370545Z",
+  "consecutive_refresh_failures": 0
+}
