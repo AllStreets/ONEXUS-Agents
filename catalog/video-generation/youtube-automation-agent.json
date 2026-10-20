@@ -1,19 +1,19 @@
 {
   "slug": "youtube-automation-agent",
   "name": "youtube-automation-agent",
-  "tagline": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
+  "tagline": "🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval,",
   "category": "video-generation",
   "tags": [
     "ai-agents",
-    "ai-powered",
     "automation",
     "content-automation",
     "content-creation",
     "content-strategy",
-    "free-tool",
     "google-gemini",
     "javascript",
-    "nodejs"
+    "nodejs",
+    "openai",
+    "self-hosted"
   ],
   "author": {
     "type": "user",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 4476,
+    "stars": 4487,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-20T04:28:22Z",
+    "last_commit_at": "2026-10-20T05:28:10Z",
     "first_commit_at": "2025-08-14T19:29:52Z",
     "forks": 1440,
     "watchers": 70,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4759,
+  "composite_score": 0.4754,
   "rank_in_category": 5,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T04:29:57.110568Z",
-  "last_refreshed_at": "2026-10-20T04:29:57.110571Z",
+  "first_seen_at": "2026-10-20T18:04:56.680789Z",
+  "last_refreshed_at": "2026-10-20T18:04:56.680793Z",
   "consecutive_refresh_failures": 0
 }

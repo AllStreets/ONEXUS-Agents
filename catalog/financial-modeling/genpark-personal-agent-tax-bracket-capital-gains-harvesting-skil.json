@@ -13,13 +13,13 @@
     "wash-sale-rule"
   ],
   "author": {
-    "type": "org",
-    "handle": "Alpha-Park",
-    "url": "https://github.com/Alpha-Park"
+    "type": "user",
+    "handle": "alphaparkinc",
+    "url": "https://github.com/alphaparkinc"
   },
   "source": {
     "primary": "github",
-    "github": "Alpha-Park/genpark-personal-agent-tax-bracket-capital-gains-harvesting-skill",
+    "github": "alphaparkinc/genpark-personal-agent-tax-bracket-capital-gains-harvesting-skill",
     "huggingface": null,
     "homepage": "https://www.genpark.ai/"
   },
@@ -27,8 +27,8 @@
   "metrics": {
     "stars": 7,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-19T02:37:54Z",
-    "first_commit_at": "2026-10-19T02:37:35Z",
+    "last_commit_at": "2026-10-19T02:37:19Z",
+    "first_commit_at": "2026-10-19T02:37:01Z",
     "forks": 0,
     "watchers": 0,
     "open_issues": 0,
@@ -50,10 +50,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4232,
-  "rank_in_category": 70,
+  "composite_score": 0.4224,
+  "rank_in_category": 72,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T04:36:27.954904Z",
-  "last_refreshed_at": "2026-10-20T04:36:27.954908Z",
+  "first_seen_at": "2026-10-20T18:11:32.693661Z",
+  "last_refreshed_at": "2026-10-20T18:11:32.693665Z",
   "consecutive_refresh_failures": 0
 }

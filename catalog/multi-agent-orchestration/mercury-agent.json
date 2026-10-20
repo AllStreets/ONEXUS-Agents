@@ -1,0 +1,53 @@
+{
+  "slug": "mercury-agent",
+  "name": "mercury-agent",
+  "tagline": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agent",
+    "ai-assistant",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "cosmicstack-labs",
+    "url": "https://github.com/cosmicstack-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cosmicstack-labs/mercury-agent",
+    "huggingface": null,
+    "homepage": "https://mercuryagent.sh/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3436,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T17:16:28Z",
+    "first_commit_at": "2026-04-19T18:34:42Z",
+    "forks": 374,
+    "watchers": 17,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4278,
+  "rank_in_category": 90,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:21:32.336406Z",
+  "last_refreshed_at": "2026-10-20T17:56:25.901378Z",
+  "consecutive_refresh_failures": 0
+}

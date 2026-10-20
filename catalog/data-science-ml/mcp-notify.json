@@ -4,7 +4,16 @@
   "tagline": "Monitor the Model Context Protocol (MCP) Registry for new, updated, and removed servers. Get real-time notifications via Discord, Slack, Email, Telegram, Microsoft Teams, Webhooks, or RSS feeds. Inclu",
   "category": "data-science-ml",
   "tags": [
-    "mcp"
+    "agents-md",
+    "ai-agents",
+    "discord",
+    "go",
+    "golang",
+    "llms-txt",
+    "mcp",
+    "mcp-registry",
+    "model-context-protocol",
+    "notifications"
   ],
   "author": {
     "type": "user",
@@ -19,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 28,
+    "stars": 31,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-17T03:02:42Z",
+    "last_commit_at": "2026-10-11T01:28:01Z",
     "first_commit_at": "2026-01-05T09:05:54Z",
     "forks": 3,
     "watchers": 0,
-    "open_issues": 0,
+    "open_issues": 5,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -44,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.2874,
-  "rank_in_category": 49,
+  "composite_score": 0.345,
+  "rank_in_category": 26,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:18.020547Z",
-  "last_refreshed_at": "2026-08-27T23:07:00.278354Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-10-20T18:08:12.334022Z",
+  "consecutive_refresh_failures": 0
 }
