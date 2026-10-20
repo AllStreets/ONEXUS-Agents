@@ -562,6 +562,10 @@ def main(
 
         t3 = progress.add_task("score + write", total=1)
         dropped = _write_and_truncate(by_cat, cats, dry_run=dry_run)
+        # Stale-cleanup drops were never written to _dropped/, which is how the
+        # Sept to Oct shrink went unrecorded. Record them with the rest.
+        for c, slug in stale_dropped:
+            dropped.setdefault(c, []).append(slug)
         progress.advance(t3)
 
     drops_file = _record_drops(dropped) if not dry_run else None
