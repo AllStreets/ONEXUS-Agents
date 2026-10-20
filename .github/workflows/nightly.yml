@@ -107,7 +107,7 @@ jobs:
           BRANCH="bot/refresh-$DATE"
 
           git checkout -B "$BRANCH"
-          git add catalog/ reports/
+          git add catalog/ reports/ README.md
           git commit -m "chore(catalog): daily refresh $DATE"
 
           # Rebase onto fresh main in case anything merged during this run

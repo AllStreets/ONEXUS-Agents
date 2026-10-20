@@ -1,0 +1,63 @@
+{
+  "slug": "swapper-toolkit",
+  "name": "swapper-toolkit",
+  "tagline": "DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with Claude Code, Cursor,   Windsurf, OpenClaw, CrewAI, AutoGPT, and other AI agent f",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "ai-agent-tools",
+    "ai-coding-assistant",
+    "autogpt",
+    "autonomous-agents",
+    "blockchain",
+    "claude-code",
+    "copilot",
+    "crewai",
+    "crypto"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "swapperfinance",
+    "url": "https://github.com/swapperfinance"
+  },
+  "source": {
+    "primary": "github",
+    "github": "swapperfinance/swapper-toolkit",
+    "huggingface": null,
+    "homepage": "https://swapper.finance/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 848,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-07T18:19:11Z",
+    "first_commit_at": "2026-03-23T11:05:11Z",
+    "forks": 37,
+    "watchers": 1,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "crewai",
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2482,
+  "rank_in_category": 386,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-04-30T03:23:30.150419Z",
+  "last_refreshed_at": "2026-09-08T17:06:33.211474Z",
+  "consecutive_refresh_failures": 0
+}

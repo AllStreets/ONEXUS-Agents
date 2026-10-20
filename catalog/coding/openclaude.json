@@ -1,0 +1,55 @@
+{
+  "slug": "openclaude",
+  "name": "openclaude",
+  "tagline": "runs anywhere. uses anything",
+  "category": "coding",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-tools",
+    "cli",
+    "coding"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Gitlawb",
+    "url": "https://github.com/Gitlawb"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Gitlawb/openclaude",
+    "huggingface": null,
+    "homepage": "https://openclaude.gitlawb.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 33004,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-07T23:53:01Z",
+    "first_commit_at": "2026-03-31T10:34:03Z",
+    "forks": 9071,
+    "watchers": 229,
+    "open_issues": 77,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3818,
+  "rank_in_category": 84,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-05-01T14:20:03.608000Z",
+  "last_refreshed_at": "2026-09-08T17:07:17.027377Z",
+  "consecutive_refresh_failures": 0
+}

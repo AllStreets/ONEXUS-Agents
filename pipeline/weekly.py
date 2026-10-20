@@ -137,7 +137,7 @@ def main(enrich_limit: int, skip_runnable: bool, dry_run: bool) -> None:
     enriched = 0
     skipped_budget = 0
 
-    with httpx.Client() as client:
+    with httpx.Client(event_hooks={"response": [gh.auth_fallback_hook]}) as client:
         # Pass 1: runnable rescan (cheap, every entry that isn't already runnable)
         if not skip_runnable:
             for p in paths:

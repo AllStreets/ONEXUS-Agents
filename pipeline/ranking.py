@@ -10,6 +10,7 @@ catalog entries always have `downloads_30d=None`, which historically meant the
 from __future__ import annotations
 
 import math
+import re
 from datetime import UTC, datetime
 
 from pipeline.schema import Agent, Category, Metrics
@@ -43,6 +44,43 @@ AGE_CAP_DAYS = 730  # 24 months
 # should never beat a live competitor on otherwise-equal signals.
 ARCHIVED_PENALTY = 0.5
 TEMPLATE_PENALTY = 0.8
+
+# Repos that are about agents but are not agents: reading lists, paper
+# collections, tutorials, courses, books, interview prep. They used to rank
+# near the top on stars alone (awesome-python first in email scheduling,
+# HowToCook first in cooking). They now score 0, so TAIL_QUALITY_THRESHOLD in
+# nightly drops them and the drop is recorded in catalog/_dropped/.
+NOT_AN_AGENT_SLUG_WORDS = frozenset({
+    "awesome", "tutorial", "tutorials", "course", "courses", "handbook",
+    "roadmap", "roadmaps", "interview", "interviews", "cheatsheet",
+    "cheatsheets", "book", "books", "lessons", "curriculum", "resources",
+    "papers", "primer",
+})
+NOT_AN_AGENT_SLUG_PREFIXES = ("awesome", "howto")
+NOT_AN_AGENT_TAGLINE = re.compile(
+    r"curated list|curated collection|a list of|awesome list|reading list"
+    r"|collection of (?:awesome|resources|papers|tools)"
+    r"|tutorials? (?:for|on|about)|courses? (?:for|on|about)|learning path"
+    r"|study notes|interview (?:questions|prep)|free (?:programming )?books"
+    r"|programmer's guide",
+    re.IGNORECASE,
+)
+
+
+def not_an_agent(agent: Agent) -> str | None:
+    """Why this entry is a list, course or guide rather than an agent, or None."""
+    slug = agent.slug.lower()
+    words = set(re.split(r"[-_.]", slug))
+    hit = sorted(words & NOT_AN_AGENT_SLUG_WORDS)
+    if hit:
+        return f"slug word: {', '.join(hit)}"
+    for prefix in NOT_AN_AGENT_SLUG_PREFIXES:
+        if slug.startswith(prefix):
+            return f"slug starts with {prefix}"
+    m = NOT_AN_AGENT_TAGLINE.search(agent.tagline or "")
+    if m:
+        return f"tagline: {m.group(0)}"
+    return None
 
 
 def log_normalize(values: list[float]) -> dict[int, float]:
@@ -157,6 +195,8 @@ def rank_category(agents: list[Agent], category: Category, now: datetime | None 
         score += weights["runnable"] * (1.0 if a.runnable else 0.0)
         score += weights["quality"] * quality_score(a.metrics)
         score *= penalty_multiplier(a.metrics)
+        if not_an_agent(a):
+            score = 0.0
         a.composite_score = round(score, 4)
 
     agents.sort(key=lambda a: a.composite_score, reverse=True)

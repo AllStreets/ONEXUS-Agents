@@ -33,6 +33,7 @@ from pipeline.crawlers import github as gh
 from pipeline.crawlers import huggingface as hf
 from pipeline.paths import CATALOG_DIR, DROPPED_DIR
 from pipeline.ranking import rank_category
+from pipeline.readme_counts import update_readme
 from pipeline.report import write_report
 from pipeline.schema import Agent, Benchmark, Category, CategoryIndex
 from pipeline.store import (
@@ -65,6 +66,15 @@ PER_CATEGORY_FEATURED_CAP: dict[str, int] = {}
 # is consistently rate-limited for four weeks loses its catalog spot.
 # Reset happens automatically on any successful build_from_github/huggingface.
 STALE_CLEANUP_THRESHOLD_DAYS = 28
+
+# If most of the hand-picked seed repos (aider, OpenHands, cline...) fail to
+# refresh in one run, the problem is ours (an expired token, an exhausted rate
+# window, an outage), not thousands of repos dying at once. Such a run must not
+# count against any entry or prune anything: before this guard, an expired
+# GH_PAT failed every fetch for weeks and the stale cleanup deleted the
+# catalog from about 5,700 entries to under 600.
+SYSTEMIC_FAILURE_RATIO = 0.5
+SEED_HEALTH = {"ok": 0, "failed": 0}
 
 # Hard cap on per-run classifier (OpenAI) calls. Stops runaway cost if a
 # future query expansion makes broad-discovery surface explode; once hit,
@@ -184,7 +194,11 @@ def _refresh_one_seed(
             console.print(f"[yellow]unknown source for {entry}: {src}")
             return None
     except Exception as e:  # noqa: BLE001
-        console.print(f"[yellow]seed refresh failed for {entry}: {e}")
+        SEED_HEALTH["failed"] += 1
+        cause = getattr(getattr(e, "last_attempt", None), "exception", lambda: None)()
+        status = getattr(getattr(cause, "response", None), "status_code", None)
+        console.print(f"[yellow]seed refresh failed for {entry.get('repo') or entry.get('model')}"
+                      f"{f' (HTTP {status})' if status else ''}: {cause or e}")
         # Fall back to the prior on-disk entry so transient API errors don't drop it.
         if src == "github":
             return next(
@@ -198,10 +212,17 @@ def _refresh_one_seed(
             )
         return None
 
+    SEED_HEALTH["ok" if agent else "failed"] += 1
     if agent:
         merge_benchmarks(agent, prior)
         merge_overrides(agent, prior)
     return agent
+
+
+def systemic_failure() -> bool:
+    """True when most seed refreshes failed this run (see SYSTEMIC_FAILURE_RATIO)."""
+    total = SEED_HEALTH["ok"] + SEED_HEALTH["failed"]
+    return total >= 10 and SEED_HEALTH["failed"] / total >= SYSTEMIC_FAILURE_RATIO
 
 
 def _discover(
@@ -488,7 +509,7 @@ def main(
     by_cat: dict[str, list[Agent]] = defaultdict(list)
     discover_stats: dict[str, int] = {"classifier_ok": 0, "classifier_err": 0, "classifier_capped": 0}
 
-    with httpx.Client() as client, Progress() as progress:
+    with httpx.Client(event_hooks={"response": [gh.auth_fallback_hook]}) as client, Progress() as progress:
         t1 = progress.add_task("refresh seeds", total=1)
         _refresh_seeds(client, cats, existing, by_cat, dry_run=dry_run)
         progress.advance(t1)
@@ -507,8 +528,18 @@ def main(
         # dead and should leave the catalog.
         seen = {(c, a.slug) for c, ags in by_cat.items() for a in ags}
         stale_dropped: list[tuple[str, str]] = []
+        systemic = systemic_failure()
+        if systemic:
+            console.print(
+                f"[red]systemic GitHub failure · {SEED_HEALTH['failed']} of "
+                f"{SEED_HEALTH['ok'] + SEED_HEALTH['failed']} seed refreshes failed. "
+                "Keeping every entry as it was: no failure counts, no stale cleanup."
+            )
         for (c, slug), agent in existing.items():
             if (c, slug) in seen:
+                continue
+            if systemic:
+                by_cat[c].append(agent)
                 continue
             agent.consecutive_refresh_failures = (
                 (agent.consecutive_refresh_failures or 0) + 1
@@ -531,6 +562,10 @@ def main(
 
         t3 = progress.add_task("score + write", total=1)
         dropped = _write_and_truncate(by_cat, cats, dry_run=dry_run)
+        # Stale-cleanup drops were never written to _dropped/, which is how the
+        # Sept to Oct shrink went unrecorded. Record them with the rest.
+        for c, slug in stale_dropped:
+            dropped.setdefault(c, []).append(slug)
         progress.advance(t3)
 
     drops_file = _record_drops(dropped) if not dry_run else None
@@ -571,6 +606,15 @@ def main(
         # match the site exactly — the site reads these same files.
         report_path = write_report(published_agents, prev_agents, final_stats, cap_per_cat=TOP_N)
         console.print(f"[dim]report written → {report_path.relative_to(CATALOG_DIR.parent)}")
+        if update_readme():
+            console.print("[dim]README counts updated to this run's catalog")
+
+    if systemic_failure():
+        # Nothing was lost (see above), but the run should show red in Actions
+        # so the cause gets fixed instead of silently repeating every night.
+        raise SystemExit(
+            "most seed refreshes failed: check the GH_PAT secret and the rate budget"
+        )
 
 
 if __name__ == "__main__":
