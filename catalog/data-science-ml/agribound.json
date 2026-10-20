@@ -1,0 +1,58 @@
+{
+  "slug": "agribound",
+  "name": "agribound",
+  "tagline": "An AI-powered field boundary delineation toolkit combining satellite foundation models, embeddings, and global training data for accurate agricultural parcel/field boundary mapping.",
+  "category": "data-science-ml",
+  "tags": [
+    "agriculture",
+    "computer-vision",
+    "field-boundary",
+    "geoai",
+    "geospatial",
+    "geospatial-foundation-model",
+    "pre-trained-model",
+    "satellite-embeddings"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "montimaj",
+    "url": "https://github.com/montimaj"
+  },
+  "source": {
+    "primary": "github",
+    "github": "montimaj/agribound",
+    "huggingface": null,
+    "homepage": "https://montimaj.github.io/agribound/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 92,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-14T04:48:24Z",
+    "first_commit_at": "2026-03-26T03:46:36Z",
+    "forks": 15,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2869,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:34:04.671264Z",
+  "last_refreshed_at": "2026-10-20T04:34:04.671268Z",
+  "consecutive_refresh_failures": 0
+}

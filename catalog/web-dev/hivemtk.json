@@ -1,19 +1,19 @@
 {
   "slug": "hivemtk",
   "name": "hivemtk",
-  "tagline": "七端打透，AI 真自主，数据封死在域内。 渠道覆盖：抖音 / 快手 / 小红书 / 闲鱼 / 微信 / 邮件 / 短信 统一接管。 AI 范式：ReAct 推理 + 41 工具的自主智能体，能感知→规划→调工具→反思，不是写死的工作流。 数据安全：100% 私域部署，对话 / 知识库 / RAG 全程不出客户内网，零外网可跑",
+  "tagline": "开源私域 AI 营销 SCRM 系统，Martech 获客引流利器！全渠道聚合（抖音/小红书/快手/微信/WhatsApp/TikTok/Telegram）统一收件箱与 CDP 客户管理。🤖核心功能：1. ReAct 自主 AI 智能体（41原子工具/销冠 SOP 自动化编排）；2. 本地知识库 RAG（混合检索/混合粗排）；3. 独家 GEO 模块（生成式大模型引擎优化/AI 搜索占位/内容创作",
   "category": "web-dev",
   "tags": [
-    "agpl",
     "ai-agent",
     "cdp",
-    "china",
-    "customer-service",
-    "docker",
-    "golang",
     "llm",
-    "marketing-automation",
-    "on-premise"
+    "marketing-technology",
+    "martech",
+    "open-source",
+    "rag",
+    "react",
+    "react-agent",
+    "scrm"
   ],
   "author": {
     "type": "user",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "xiaofang142/hivemtk",
     "huggingface": null,
-    "homepage": "http://hive.xapptool.cn/"
+    "homepage": "https://xapptool.cn/"
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 43,
+    "stars": 129,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T16:59:23Z",
+    "last_commit_at": "2026-10-20T02:30:18Z",
     "first_commit_at": "2026-07-21T10:07:29Z",
-    "forks": 10,
+    "forks": 43,
     "watchers": 1,
-    "open_issues": 9,
+    "open_issues": 3,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3817,
-  "rank_in_category": 81,
+  "composite_score": 0.4706,
+  "rank_in_category": 73,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-31T19:32:24.538574Z",
-  "last_refreshed_at": "2026-09-08T17:15:54.234408Z",
+  "last_refreshed_at": "2026-10-20T04:22:18.707138Z",
   "consecutive_refresh_failures": 0
 }

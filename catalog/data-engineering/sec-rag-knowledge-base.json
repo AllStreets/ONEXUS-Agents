@@ -1,0 +1,61 @@
+{
+  "slug": "sec-rag-knowledge-base",
+  "name": "sec-rag-knowledge-base",
+  "tagline": "Earnings call RAG pipeline: Hugging Face → chunk → pgvector + Chroma → FastAPI Q&A → 92% retrieval hit rate",
+  "category": "data-engineering",
+  "tags": [
+    "ai-data-engineering",
+    "anthropic",
+    "embeddings",
+    "fastapi",
+    "llm",
+    "pgvector",
+    "python",
+    "rag",
+    "vector-database"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Abhignachowdarykvl",
+    "url": "https://github.com/Abhignachowdarykvl"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Abhignachowdarykvl/sec-rag-knowledge-base",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-07T04:21:54Z",
+    "first_commit_at": "2026-09-29T03:37:29Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3954,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:28:11.094749Z",
+  "last_refreshed_at": "2026-10-20T04:28:11.094753Z",
+  "consecutive_refresh_failures": 0
+}

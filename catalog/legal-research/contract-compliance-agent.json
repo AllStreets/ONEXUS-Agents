@@ -1,0 +1,62 @@
+{
+  "slug": "contract-compliance-agent",
+  "name": "Contract-compliance-agent",
+  "tagline": "繁中合約初審：標出風險條款、給修改建議並附台灣法條出處。RAG + 多工具 Agent，附評測集。經濟部 2026 智慧創新大賞入圍。",
+  "category": "legal-research",
+  "tags": [
+    "ai-agents",
+    "bm25",
+    "contract-analysis",
+    "contract-review",
+    "fastapi",
+    "gemini",
+    "hybrid-search",
+    "langgraph",
+    "legal-ai",
+    "legal-nlp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "falltwo",
+    "url": "https://github.com/falltwo"
+  },
+  "source": {
+    "primary": "github",
+    "github": "falltwo/Contract-compliance-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-11T09:55:47Z",
+    "first_commit_at": "2026-03-10T13:57:54Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2687,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:39:34.157432Z",
+  "last_refreshed_at": "2026-10-20T04:39:34.157436Z",
+  "consecutive_refresh_failures": 0
+}

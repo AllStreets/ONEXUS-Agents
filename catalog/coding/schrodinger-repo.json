@@ -1,0 +1,54 @@
+{
+  "slug": "schrodinger-repo",
+  "name": "Schrodinger-Repo",
+  "tagline": "Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?",
+  "category": "coding",
+  "tags": [
+    "coding-agent",
+    "llm",
+    "swe-agent",
+    "swe-bench"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "cslsolow",
+    "url": "https://github.com/cslsolow"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cslsolow/Schrodinger-Repo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-24T03:00:16Z",
+    "first_commit_at": "2026-05-12T06:05:18Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2145,
+  "rank_in_category": 524,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:13:12.394220Z",
+  "last_refreshed_at": "2026-10-20T04:13:12.394223Z",
+  "consecutive_refresh_failures": 0
+}

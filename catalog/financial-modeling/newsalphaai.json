@@ -1,0 +1,62 @@
+{
+  "slug": "newsalphaai",
+  "name": "NewsAlphaAI",
+  "tagline": "AI-powered stock movement predictor that analyzes real-time financial news and market data using LLMs, RAG pipelines, and vector databases to forecast short-term stock direction. Built with LangChain,",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-stock-prediction",
+    "ai-trading",
+    "algorithmic-trading",
+    "financial-ai",
+    "langchain",
+    "langgraph",
+    "llm-finance",
+    "machine-learning",
+    "news-sentiment-analysis",
+    "quantitative-finance"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ankit-sengupta05",
+    "url": "https://github.com/ankit-sengupta05"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ankit-sengupta05/NewsAlphaAI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-17T17:51:06Z",
+    "first_commit_at": "2026-03-14T15:37:17Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2346,
+  "rank_in_category": 226,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:35:15.106117Z",
+  "last_refreshed_at": "2026-10-20T04:35:15.106121Z",
+  "consecutive_refresh_failures": 0
+}

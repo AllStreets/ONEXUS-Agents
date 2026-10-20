@@ -1,29 +1,40 @@
 {
   "slug": "scientific-agent-skills",
   "name": "scientific-agent-skills",
-  "tagline": "scientific-agent-skills",
+  "tagline": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog",
   "category": "scientific-research",
-  "tags": [],
+  "tags": [
+    "agent-skills",
+    "ai-scientist",
+    "bioinformatics",
+    "chemoinformatics",
+    "claude",
+    "claude-skills",
+    "claudecode",
+    "clinical-research",
+    "computational-biology",
+    "data-analysis"
+  ],
   "author": {
-    "type": "user",
-    "handle": "tondevrel",
-    "url": "https://github.com/tondevrel"
+    "type": "org",
+    "handle": "K-Dense-AI",
+    "url": "https://github.com/K-Dense-AI"
   },
   "source": {
     "primary": "github",
-    "github": "tondevrel/scientific-agent-skills",
+    "github": "K-Dense-AI/scientific-agent-skills",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://arxiv.org/abs/2609.00065"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 19,
+    "stars": 52999,
     "downloads_30d": null,
-    "last_commit_at": "2026-02-01T04:41:56Z",
-    "first_commit_at": "2026-01-31T14:42:49Z",
-    "forks": 2,
-    "watchers": 0,
-    "open_issues": 0,
+    "last_commit_at": "2026-10-19T09:33:57Z",
+    "first_commit_at": "2025-10-19T20:54:16Z",
+    "forks": 4690,
+    "watchers": 215,
+    "open_issues": 49,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2709,
-  "rank_in_category": 186,
+  "composite_score": 0.7683,
+  "rank_in_category": 1,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-30T17:45:13.425263Z",
-  "last_refreshed_at": "2026-08-30T17:45:13.425266Z",
+  "first_seen_at": "2026-10-20T04:45:36.405472Z",
+  "last_refreshed_at": "2026-10-20T04:45:36.405476Z",
   "consecutive_refresh_failures": 0
 }

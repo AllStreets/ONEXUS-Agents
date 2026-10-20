@@ -1,0 +1,56 @@
+{
+  "slug": "cc-settings",
+  "name": "cc-settings",
+  "tagline": "Claude Code configuration — agents, skills, hooks & settings for Darkroom Engineering",
+  "category": "coding",
+  "tags": [
+    "agents",
+    "ai",
+    "claude-code",
+    "darkroom-engineering",
+    "developer-tools",
+    "dotfiles"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "darkroomengineering",
+    "url": "https://github.com/darkroomengineering"
+  },
+  "source": {
+    "primary": "github",
+    "github": "darkroomengineering/cc-settings",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 52,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T20:39:51Z",
+    "first_commit_at": "2026-01-12T16:56:49Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.279,
+  "rank_in_category": 374,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:18:21.327957Z",
+  "last_refreshed_at": "2026-10-20T04:18:21.327961Z",
+  "consecutive_refresh_failures": 0
+}

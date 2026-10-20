@@ -1,0 +1,53 @@
+{
+  "slug": "claude-observability-plugin",
+  "name": "claude-observability-plugin",
+  "tagline": "Trace Claude Code AI coding assistant conversations, user inputs, and tool usage with Langfuse for comprehensive observability.",
+  "category": "coding",
+  "tags": [
+    "claude-code",
+    "code-agent",
+    "langfuse"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "langfuse",
+    "url": "https://github.com/langfuse"
+  },
+  "source": {
+    "primary": "github",
+    "github": "langfuse/claude-observability-plugin",
+    "huggingface": null,
+    "homepage": "https://langfuse.com/integrations/developer-tools/claude-code"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 29,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-06T07:57:05Z",
+    "first_commit_at": "2026-05-26T12:15:37Z",
+    "forks": 48,
+    "watchers": 0,
+    "open_issues": 18,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2796,
+  "rank_in_category": 371,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:14:04.751252Z",
+  "last_refreshed_at": "2026-10-20T04:14:04.751256Z",
+  "consecutive_refresh_failures": 0
+}

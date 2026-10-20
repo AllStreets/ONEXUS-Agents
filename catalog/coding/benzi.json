@@ -1,0 +1,62 @@
+{
+  "slug": "benzi",
+  "name": "Benzi",
+  "tagline": "Most coding agents grep and glob raw source into LLM's context window and hope the model is smart. Benzi compiles your codebase into a queryable map of calls, data flow, control flow and class hierarc",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "cli",
+    "code-generation",
+    "code-intelligence",
+    "coding-agent",
+    "compiler",
+    "cross-platform",
+    "developer-tools"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "oooscoos",
+    "url": "https://github.com/oooscoos"
+  },
+  "source": {
+    "primary": "github",
+    "github": "oooscoos/Benzi",
+    "huggingface": null,
+    "homepage": "https://varianttech.net/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 169,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T16:07:01Z",
+    "first_commit_at": "2026-07-29T18:20:45Z",
+    "forks": 10,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.348,
+  "rank_in_category": 228,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:15:31.618346Z",
+  "last_refreshed_at": "2026-10-20T04:15:31.618350Z",
+  "consecutive_refresh_failures": 0
+}

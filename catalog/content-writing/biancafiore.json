@@ -1,19 +1,19 @@
 {
   "slug": "biancafiore",
   "name": "biancafiore",
-  "tagline": "A portfolio for the best content writer ever",
+  "tagline": "Portfolio and blog of content writer Bianca Fiore. Astro SSR on Cloudflare Workers, content from EmDash",
   "category": "content-writing",
   "tags": [
     "astro",
     "blog",
+    "cloudflare-workers",
     "content-writing",
-    "css",
+    "drizzle-orm",
+    "effect-ts",
+    "emdash",
     "ngo",
-    "nodejs",
     "portfolio",
-    "react",
-    "resend",
-    "seo"
+    "react"
   ],
   "author": {
     "type": "user",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 8,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-23T13:23:16Z",
+    "last_commit_at": "2026-10-18T19:33:51Z",
     "first_commit_at": "2020-03-04T18:24:17Z",
     "forks": 0,
     "watchers": 1,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3588,
-  "rank_in_category": 43,
+  "composite_score": 0.4283,
+  "rank_in_category": 34,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:21:43.685249Z",
-  "last_refreshed_at": "2026-09-13T19:35:38.575348Z",
+  "last_refreshed_at": "2026-10-20T04:49:09.226943Z",
   "consecutive_refresh_failures": 0
 }

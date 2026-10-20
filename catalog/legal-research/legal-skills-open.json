@@ -1,7 +1,7 @@
 {
   "slug": "legal-skills-open",
   "name": "legal-skills-open",
-  "tagline": "Open library of legal AI skills (SKILL.md) for MCP-compatible agents — 39 jurisdictions, 200+ plugins, Apache-2.0.",
+  "tagline": "Open library of legal AI skills (SKILL.md) for MCP-compatible agents — 18,000+ skills, 54 jurisdictions, 410+ plugins, Apache-2.0.",
   "category": "legal-research",
   "tags": [
     "ai-agents",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 70,
+    "stars": 92,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-01T23:19:47Z",
+    "last_commit_at": "2026-10-12T20:51:45Z",
     "first_commit_at": "2026-05-22T13:03:41Z",
-    "forks": 7,
+    "forks": 12,
     "watchers": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.2937,
-  "rank_in_category": 30,
+  "composite_score": 0.3851,
+  "rank_in_category": 12,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:57:09.737417Z",
-  "last_refreshed_at": "2026-09-08T17:33:22.660160Z",
+  "last_refreshed_at": "2026-10-20T04:39:23.544630Z",
   "consecutive_refresh_failures": 0
 }

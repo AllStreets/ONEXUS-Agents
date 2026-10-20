@@ -1,19 +1,19 @@
 {
   "slug": "orca",
   "name": "orca",
-  "tagline": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+  "tagline": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
   "category": "coding",
   "tags": [
     "ade",
     "agent-ide",
     "ai-agents",
+    "automation",
+    "bot",
     "claude-code",
-    "cli",
     "codex",
-    "cursor-agent",
-    "devtools",
     "ghostty",
-    "ide"
+    "grok-bot",
+    "hermes-agent"
   ],
   "author": {
     "type": "org",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "stablyai/orca",
     "huggingface": null,
-    "homepage": "https://onorca.dev/"
+    "homepage": "https://orca.dev/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 64144,
+    "stars": 98496,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T16:22:53Z",
+    "last_commit_at": "2026-10-20T04:13:47Z",
     "first_commit_at": "2026-03-17T03:29:24Z",
-    "forks": 4257,
-    "watchers": 122,
-    "open_issues": 5605,
+    "forks": 6285,
+    "watchers": 154,
+    "open_issues": 8624,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3861,
-  "rank_in_category": 81,
+  "composite_score": 0.4283,
+  "rank_in_category": 70,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-10T15:36:03.673586Z",
-  "last_refreshed_at": "2026-09-08T17:08:18.944903Z",
+  "last_refreshed_at": "2026-10-20T04:15:07.500152Z",
   "consecutive_refresh_failures": 0
 }

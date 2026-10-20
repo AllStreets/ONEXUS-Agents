@@ -1,0 +1,56 @@
+{
+  "slug": "sample-strands-agents-hands-on-workshop",
+  "name": "sample-strands-agents-hands-on-workshop",
+  "tagline": "Hands-on workshop to build a production AI agent with Strands Agents, tools, hooks, memory, multi-agent, evals, and deploy to   Amazon Bedrock AgentCore.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentcore",
+    "agentcore-runtime",
+    "amazon-bedrock",
+    "aws",
+    "strands-agent-sdk",
+    "strands-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "aws-samples",
+    "url": "https://github.com/aws-samples"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws-samples/sample-strands-agents-hands-on-workshop",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT-0",
+  "metrics": {
+    "stars": 24,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-15T17:53:44Z",
+    "first_commit_at": "2026-06-04T01:00:29Z",
+    "forks": 19,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.283,
+  "rank_in_category": 299,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:48:32.020120Z",
+  "last_refreshed_at": "2026-10-20T04:48:32.020124Z",
+  "consecutive_refresh_failures": 0
+}

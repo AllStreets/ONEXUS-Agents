@@ -1,0 +1,62 @@
+{
+  "slug": "pocketstrike",
+  "name": "PocketStrike",
+  "tagline": " PocketStrike is a privacy-first mobile AI workstation. It combines zero-cloud native on-device GGUF inference (ARM NEON accelerated)   │ with frontier cloud LLMs, multi-step ReAct agent tools, Model ",
+  "category": "web-dev",
+  "tags": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "android",
+    "android-app",
+    "artificial-intelligence",
+    "automation",
+    "data-science"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "AbuZar-Ansarii",
+    "url": "https://github.com/AbuZar-Ansarii"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AbuZar-Ansarii/PocketStrike",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 114,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-27T07:13:31Z",
+    "first_commit_at": "2026-08-27T07:03:58Z",
+    "forks": 36,
+    "watchers": 4,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4693,
+  "rank_in_category": 74,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:24:49.578933Z",
+  "last_refreshed_at": "2026-10-20T04:24:49.578937Z",
+  "consecutive_refresh_failures": 0
+}

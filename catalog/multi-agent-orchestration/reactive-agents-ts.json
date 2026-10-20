@@ -1,7 +1,7 @@
 {
   "slug": "reactive-agents-ts",
   "name": "reactive-agents-ts",
-  "tagline": "The transparent, composable harness for TypeScript agents. The same code runs the full agent loop on a local 4B model or a frontier API, with tool-call healing, verification, and a signed evidence rec",
+  "tagline": "An open-source TypeScript agent harness for controllable execution, end-to-end observability, and reliable runs powered by both local models and frontier APIs.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-framework",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 27,
+    "stars": 31,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-06T18:08:24Z",
+    "last_commit_at": "2026-10-20T03:50:30Z",
     "first_commit_at": "2026-02-19T14:01:28Z",
-    "forks": 4,
+    "forks": 5,
     "watchers": 0,
-    "open_issues": 22,
+    "open_issues": 26,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3547,
-  "rank_in_category": 174,
+  "composite_score": 0.3948,
+  "rank_in_category": 146,
   "discovered_via": "auto",
-  "first_seen_at": "2026-09-07T18:18:35.645354Z",
-  "last_refreshed_at": "2026-09-07T18:18:35.645359Z",
+  "first_seen_at": "2026-10-20T04:25:00.498016Z",
+  "last_refreshed_at": "2026-10-20T04:25:00.498021Z",
   "consecutive_refresh_failures": 0
 }

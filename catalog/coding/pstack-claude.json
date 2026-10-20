@@ -1,0 +1,62 @@
+{
+  "slug": "pstack-claude",
+  "name": "pstack-claude",
+  "tagline": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+  "category": "coding",
+  "tags": [
+    "agent-plugin",
+    "agent-skills",
+    "agentic-ai",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "claude-code-skills",
+    "claude-plugin",
+    "claude-skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "michael-denyer",
+    "url": "https://github.com/michael-denyer"
+  },
+  "source": {
+    "primary": "github",
+    "github": "michael-denyer/pstack-claude",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3096,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T18:49:05Z",
+    "first_commit_at": "2026-05-26T13:25:55Z",
+    "forks": 296,
+    "watchers": 5,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.372,
+  "rank_in_category": 174,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:12:58.430285Z",
+  "last_refreshed_at": "2026-10-20T04:12:58.430289Z",
+  "consecutive_refresh_failures": 0
+}

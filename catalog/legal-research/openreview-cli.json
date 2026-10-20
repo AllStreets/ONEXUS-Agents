@@ -1,16 +1,17 @@
 {
   "slug": "openreview-cli",
   "name": "openreview-cli",
-  "tagline": "Privacy-first open-source contract review CLI. Multi-agent AI pipeline strips PII locally (fail-closed) before any cloud call. 21 contract types, 17 AI providers, local-first by default with Ollama. R",
+  "tagline": "AI contract review tool for private, on-device analysis of legal agreements. Review contracts clause by clause, spot risky terms, protect sensitive personal data, and scan 21+ contract types all witho",
   "category": "legal-research",
   "tags": [
-    "agent",
-    "ai",
     "ai-agents",
     "cli",
     "contract-analysis",
     "contract-review",
-    "legal-tech"
+    "legal-tech",
+    "on-device-ai",
+    "open-source",
+    "privacy"
   ],
   "author": {
     "type": "user",
@@ -23,15 +24,15 @@
     "huggingface": null,
     "homepage": null
   },
-  "license": "AGPL-3.0",
+  "license": "MIT",
   "metrics": {
-    "stars": 11,
+    "stars": 12,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-18T17:59:20Z",
-    "first_commit_at": "2026-06-23T15:29:17Z",
+    "last_commit_at": "2026-10-06T20:15:23Z",
+    "first_commit_at": "2026-10-06T20:15:19Z",
     "forks": 3,
     "watchers": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -48,10 +49,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2281,
-  "rank_in_category": 73,
+  "composite_score": 0.244,
+  "rank_in_category": 80,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-26T15:50:24.642315Z",
-  "last_refreshed_at": "2026-09-08T17:33:31.994574Z",
+  "last_refreshed_at": "2026-10-20T04:39:34.885883Z",
   "consecutive_refresh_failures": 0
 }

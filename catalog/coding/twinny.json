@@ -1,0 +1,60 @@
+{
+  "slug": "twinny",
+  "name": "twinny",
+  "tagline": "Open-source AI coding assistant for VS Code. Coding agent, code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure.",
+  "category": "coding",
+  "tags": [
+    "ai-coding-assistant",
+    "artificial-intelligence",
+    "code-chat",
+    "code-completion",
+    "code-generation",
+    "code-review",
+    "code-review-assistant",
+    "developer-tools",
+    "embeddings",
+    "llamacpp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "twinnydotdev",
+    "url": "https://github.com/twinnydotdev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "twinnydotdev/twinny",
+    "huggingface": null,
+    "homepage": "https://twinny.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3674,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-16T19:20:53Z",
+    "first_commit_at": "2023-08-21T14:11:00Z",
+    "forks": 235,
+    "watchers": 1,
+    "open_issues": 52,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3945,
+  "rank_in_category": 118,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:13:25.942657Z",
+  "last_refreshed_at": "2026-10-20T04:13:25.942661Z",
+  "consecutive_refresh_failures": 0
+}

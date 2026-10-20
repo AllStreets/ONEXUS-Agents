@@ -8,12 +8,12 @@
     "document-intelligence",
     "enterprise-ai",
     "financial-ai",
-    "llama-index",
     "llm",
     "machine-learning",
     "multimodal",
     "observability",
-    "production-system"
+    "production-system",
+    "pydantic"
   ],
   "author": {
     "type": "user",
@@ -28,9 +28,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 83,
+    "stars": 89,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-04T08:33:18Z",
+    "last_commit_at": "2026-10-14T11:53:51Z",
     "first_commit_at": "2024-02-01T04:46:37Z",
     "forks": 21,
     "watchers": 2,
@@ -46,17 +46,15 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": [
-      "llamaindex"
-    ]
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4435,
-  "rank_in_category": 38,
+  "composite_score": 0.4718,
+  "rank_in_category": 47,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-10T16:54:38.560547Z",
-  "last_refreshed_at": "2026-09-08T17:28:43.248096Z",
+  "last_refreshed_at": "2026-10-20T04:34:57.356258Z",
   "consecutive_refresh_failures": 0
 }

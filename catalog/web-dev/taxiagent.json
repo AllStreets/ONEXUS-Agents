@@ -1,0 +1,60 @@
+{
+  "slug": "taxiagent",
+  "name": "TaxiAgent",
+  "tagline": "网约车场景的 Spring Boot 全栈实战：Redis 高并发考点全覆盖（抢单秒杀 / GEO 派单 / 延迟队列 / 缓存一致性）+ 手搓 ReAct 多 Agent 框架",
+  "category": "web-dev",
+  "tags": [
+    "ai-agents",
+    "distributed-lock",
+    "geo",
+    "llm",
+    "lua",
+    "react-agent",
+    "redis",
+    "ride-hailing",
+    "spring-ai",
+    "spring-boot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ZhuofanWu",
+    "url": "https://github.com/ZhuofanWu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ZhuofanWu/TaxiAgent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 103,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-13T02:40:22Z",
+    "first_commit_at": "2026-04-02T07:43:15Z",
+    "forks": 13,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3897,
+  "rank_in_category": 123,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:22:20.794677Z",
+  "last_refreshed_at": "2026-10-20T04:22:20.794681Z",
+  "consecutive_refresh_failures": 0
+}

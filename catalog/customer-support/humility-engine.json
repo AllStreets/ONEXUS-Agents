@@ -1,0 +1,57 @@
+{
+  "slug": "humility-engine",
+  "name": "humility-engine",
+  "tagline": "I built an AI system to route support tickets, then found out its confidence scores couldn't actually tell a stolen phone apart from a lost card. Both looked equally \"sure\" to it, one was way more dan",
+  "category": "customer-support",
+  "tags": [
+    "customer-support-ai",
+    "fintech",
+    "llm-evaluation",
+    "machine-learning",
+    "nlp",
+    "python",
+    "risk-modelling"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sairakbar",
+    "url": "https://github.com/sairakbar"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sairakbar/humility-engine",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-04T14:56:02Z",
+    "first_commit_at": "2026-08-04T14:54:32Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3178,
+  "rank_in_category": 158,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:44:28.061623Z",
+  "last_refreshed_at": "2026-10-20T04:44:28.061627Z",
+  "consecutive_refresh_failures": 0
+}

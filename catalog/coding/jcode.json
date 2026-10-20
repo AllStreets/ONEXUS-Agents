@@ -1,7 +1,7 @@
 {
   "slug": "jcode",
   "name": "jcode",
-  "tagline": "The most RAM efficient harness",
+  "tagline": "High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows",
   "category": "coding",
   "tags": [
     "ai",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 19338,
+    "stars": 21048,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T03:31:20Z",
+    "last_commit_at": "2026-10-20T03:34:04Z",
     "first_commit_at": "2026-01-05T09:43:29Z",
-    "forks": 2225,
-    "watchers": 103,
-    "open_issues": 410,
+    "forks": 2440,
+    "watchers": 109,
+    "open_issues": 727,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4378,
-  "rank_in_category": 25,
+  "composite_score": 0.4746,
+  "rank_in_category": 21,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T16:11:14.282724Z",
-  "last_refreshed_at": "2026-09-08T17:05:29.988387Z",
+  "last_refreshed_at": "2026-10-20T04:12:42.446042Z",
   "consecutive_refresh_failures": 0
 }

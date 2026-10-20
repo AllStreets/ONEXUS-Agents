@@ -1,7 +1,7 @@
 {
   "slug": "lab-solocorp-os2-4",
   "name": "Lab-solocorp-os2.4",
-  "tagline": "18 departments. 55+ agents. One operating system — SoloCorp OS turns a single AI into a structured workforce. CFO, Legal, and Content Creator Packs now in pre-release. @mention a Head and begin.",
+  "tagline": "Department Architecture for AI agents — every task has an owner. Pre-release: 20 profiles, 9 skills, Central Bus + loop auto-pilot. MIT.",
   "category": "legal-research",
   "tags": [
     "agent-framework",
@@ -26,15 +26,15 @@
     "huggingface": null,
     "homepage": "https://github.com/Dr-SoloDev/Lab-solocorp-os2.4"
   },
-  "license": "NOASSERTION",
+  "license": "MIT",
   "metrics": {
     "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-01T21:01:06Z",
+    "last_commit_at": "2026-10-15T11:30:05Z",
     "first_commit_at": "2026-06-27T07:56:42Z",
-    "forks": 0,
+    "forks": 2,
     "watchers": 0,
-    "open_issues": 12,
+    "open_issues": 13,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1875,
-  "rank_in_category": 100,
+  "composite_score": 0.2296,
+  "rank_in_category": 86,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-07T16:11:42.688679Z",
-  "last_refreshed_at": "2026-09-08T17:33:10.168762Z",
+  "last_refreshed_at": "2026-10-20T04:39:13.662440Z",
   "consecutive_refresh_failures": 0
 }

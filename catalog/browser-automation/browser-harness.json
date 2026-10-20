@@ -1,7 +1,7 @@
 {
   "slug": "browser-harness",
   "name": "browser-harness",
-  "tagline": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+  "tagline": "Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.",
   "category": "browser-automation",
   "tags": [
     "ai-agent",
@@ -11,9 +11,9 @@
     "browser-use-box",
     "browser-use-cloud",
     "cdp",
-    "cloud-browser",
-    "llm",
-    "persistent-browser"
+    "chrome",
+    "chrome-devtools-protocol",
+    "claude-code"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 17428,
+    "stars": 18501,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-07T20:13:31Z",
+    "last_commit_at": "2026-10-17T17:59:01Z",
     "first_commit_at": "2026-04-17T00:51:31Z",
-    "forks": 1700,
-    "watchers": 56,
-    "open_issues": 329,
+    "forks": 1956,
+    "watchers": 55,
+    "open_issues": 417,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.4182,
-  "rank_in_category": 14,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5187,
+  "rank_in_category": 6,
   "discovered_via": "auto",
-  "first_seen_at": "2026-09-08T17:17:05.301394Z",
-  "last_refreshed_at": "2026-09-08T17:17:05.301398Z",
+  "first_seen_at": "2026-10-20T04:23:31.399384Z",
+  "last_refreshed_at": "2026-10-20T04:23:31.399388Z",
   "consecutive_refresh_failures": 0
 }

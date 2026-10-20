@@ -1,0 +1,52 @@
+{
+  "slug": "ai-dial",
+  "name": "ai-dial",
+  "tagline": "Documentation for AI DIAL",
+  "category": "data-science-ml",
+  "tags": [
+    "ai-dial",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "epam",
+    "url": "https://github.com/epam"
+  },
+  "source": {
+    "primary": "github",
+    "github": "epam/ai-dial",
+    "huggingface": null,
+    "homepage": "https://docs.dialx.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 146,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T15:47:23Z",
+    "first_commit_at": "2023-09-22T09:03:50Z",
+    "forks": 38,
+    "watchers": 18,
+    "open_issues": 28,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3622,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:33:57.644257Z",
+  "last_refreshed_at": "2026-10-20T04:33:57.644262Z",
+  "consecutive_refresh_failures": 0
+}

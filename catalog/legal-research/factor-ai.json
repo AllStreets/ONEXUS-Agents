@@ -1,0 +1,57 @@
+{
+  "slug": "factor-ai",
+  "name": "Factor-AI",
+  "tagline": "Autonomous AI agents that batch analyze legal contracts for risk, missing provisions, and cross document inconsistencies. Built on AWS Bedrock + Strands Agents SDK. This app is NOT legal advice, just ",
+  "category": "legal-research",
+  "tags": [
+    "agentic-ai",
+    "autonomous-ai",
+    "aws-strands-agents",
+    "contract-analysis",
+    "legal-due-diligence",
+    "legaltech",
+    "risk-analysis"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ATaylorAerospace",
+    "url": "https://github.com/ATaylorAerospace"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ATaylorAerospace/Factor-AI",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-04T08:15:32Z",
+    "first_commit_at": "2026-03-21T15:09:14Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2272,
+  "rank_in_category": 89,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:39:43.443502Z",
+  "last_refreshed_at": "2026-10-20T04:39:43.443506Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "gentle-ai",
   "name": "gentle-ai",
-  "tagline": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Driven Development, curated skills, MCP servers, personas,",
+  "tagline": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, person",
   "category": "coding",
   "tags": [
     "agent-skills",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "Gentleman-Programming/gentle-ai",
     "huggingface": null,
-    "homepage": "https://gentle-ai.gentlemanprogramming.com/"
+    "homepage": "https://gentlemanprogramming.com/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 6443,
+    "stars": 7864,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T12:43:53Z",
+    "last_commit_at": "2026-10-19T20:22:58Z",
     "first_commit_at": "2026-02-27T23:27:56Z",
-    "forks": 730,
-    "watchers": 48,
-    "open_issues": 877,
+    "forks": 847,
+    "watchers": 45,
+    "open_issues": 1002,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4148,
-  "rank_in_category": 43,
+  "composite_score": 0.4528,
+  "rank_in_category": 37,
   "discovered_via": "auto",
   "first_seen_at": "2026-09-06T16:02:37.468062Z",
-  "last_refreshed_at": "2026-09-08T17:08:00.560078Z",
+  "last_refreshed_at": "2026-10-20T04:14:53.993222Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "codegraph",
   "name": "codegraph",
-  "tagline": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+  "tagline": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca",
   "category": "search-rag",
   "tags": [],
   "author": {
@@ -17,13 +17,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 68054,
+    "stars": 74475,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-22T18:02:38Z",
+    "last_commit_at": "2026-10-20T04:23:19Z",
     "first_commit_at": "2026-01-18T22:23:53Z",
-    "forks": 4334,
-    "watchers": 158,
-    "open_issues": 448,
+    "forks": 4821,
+    "watchers": 172,
+    "open_issues": 621,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -38,12 +38,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4587,
-  "rank_in_category": 5,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4572,
+  "rank_in_category": 10,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-25T14:18:57.687992Z",
-  "last_refreshed_at": "2026-08-30T19:59:20.901234Z",
+  "first_seen_at": "2026-10-20T04:45:30.341442Z",
+  "last_refreshed_at": "2026-10-20T04:45:30.341446Z",
   "consecutive_refresh_failures": 0
 }

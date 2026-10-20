@@ -1,0 +1,49 @@
+{
+  "slug": "eks-pod-identity-agent",
+  "name": "eks-pod-identity-agent",
+  "tagline": "eks-pod-identity-agent",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "aws",
+    "url": "https://github.com/aws"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aws/eks-pod-identity-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 98,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-18T05:46:36Z",
+    "first_commit_at": "2024-05-30T20:27:53Z",
+    "forks": 43,
+    "watchers": 17,
+    "open_issues": 54,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3514,
+  "rank_in_category": 218,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:18:33.113042Z",
+  "last_refreshed_at": "2026-10-20T04:18:33.113046Z",
+  "consecutive_refresh_failures": 0
+}

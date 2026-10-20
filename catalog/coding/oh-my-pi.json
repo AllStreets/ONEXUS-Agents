@@ -1,7 +1,7 @@
 {
   "slug": "oh-my-pi",
   "name": "oh-my-pi",
-  "tagline": "⌥ Coding agent with the IDE wired in",
+  "tagline": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
   "category": "coding",
   "tags": [
     "ai-agent",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 30163,
+    "stars": 35980,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T17:06:41Z",
+    "last_commit_at": "2026-10-20T00:34:42Z",
     "first_commit_at": "2025-08-09T15:18:38Z",
-    "forks": 3088,
-    "watchers": 91,
-    "open_issues": 2494,
+    "forks": 3968,
+    "watchers": 98,
+    "open_issues": 3947,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4555,
-  "rank_in_category": 16,
+  "composite_score": 0.4938,
+  "rank_in_category": 13,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-14T15:10:11.662595Z",
-  "last_refreshed_at": "2026-09-08T17:08:22.308677Z",
+  "last_refreshed_at": "2026-10-20T04:15:11.919679Z",
   "consecutive_refresh_failures": 0
 }

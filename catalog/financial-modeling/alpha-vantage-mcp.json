@@ -1,0 +1,49 @@
+{
+  "slug": "alpha-vantage-mcp",
+  "name": "alpha_vantage_mcp",
+  "tagline": "Alpha Vantage MCP Server",
+  "category": "financial-modeling",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "alphavantage",
+    "url": "https://github.com/alphavantage"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alphavantage/alpha_vantage_mcp",
+    "huggingface": null,
+    "homepage": "https://mcp.alphavantage.co/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 221,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-03T00:09:33Z",
+    "first_commit_at": "2025-07-28T02:59:15Z",
+    "forks": 55,
+    "watchers": 2,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4862,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:36:50.392960Z",
+  "last_refreshed_at": "2026-10-20T04:36:50.392964Z",
+  "consecutive_refresh_failures": 0
+}

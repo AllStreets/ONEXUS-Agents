@@ -1,0 +1,60 @@
+{
+  "slug": "resolvehq",
+  "name": "ResolveHQ",
+  "tagline": "Self-hosted helpdesk on Cloudflare Workers: D1, R2, Queues, Email Routing. Shared inbox, email threading, AI assist.",
+  "category": "customer-support",
+  "tags": [
+    "cloudflare",
+    "cloudflare-d1",
+    "cloudflare-queues",
+    "cloudflare-r2",
+    "cloudflare-workers",
+    "customer-support",
+    "drizzle-orm",
+    "email",
+    "email-routing",
+    "helpdesk"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mirza-rizvi",
+    "url": "https://github.com/mirza-rizvi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mirza-rizvi/ResolveHQ",
+    "huggingface": null,
+    "homepage": "https://getresolvehq.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 206,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T05:33:14Z",
+    "first_commit_at": "2026-08-31T20:56:24Z",
+    "forks": 13,
+    "watchers": 1,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5279,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:44:08.531314Z",
+  "last_refreshed_at": "2026-10-20T04:44:08.531317Z",
+  "consecutive_refresh_failures": 0
+}

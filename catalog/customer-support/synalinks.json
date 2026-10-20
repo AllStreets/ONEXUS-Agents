@@ -1,7 +1,7 @@
 {
   "slug": "synalinks",
   "name": "synalinks",
-  "tagline": "From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM framework built with decade old Deep Learning best practices",
+  "tagline": "Keras based framework for neuro-symbolic LM systems",
   "category": "customer-support",
   "tags": [
     "context-engineering",
@@ -24,16 +24,16 @@
     "primary": "github",
     "github": "SynaLinks/synalinks",
     "huggingface": null,
-    "homepage": "https://synalinks.github.io/synalinks/"
+    "homepage": "https://synalinks.com/"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 455,
+    "stars": 464,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-24T18:56:19Z",
+    "last_commit_at": "2026-10-19T08:41:55Z",
     "first_commit_at": "2025-02-28T15:55:39Z",
-    "forks": 43,
-    "watchers": 4,
+    "forks": 46,
+    "watchers": 5,
     "open_issues": 2,
     "archived": false,
     "is_fork": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5334,
-  "rank_in_category": 23,
+  "composite_score": 0.5909,
+  "rank_in_category": 30,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:20:25.949639Z",
-  "last_refreshed_at": "2026-09-13T19:34:42.991437Z",
+  "last_refreshed_at": "2026-10-20T04:47:45.165838Z",
   "consecutive_refresh_failures": 0
 }

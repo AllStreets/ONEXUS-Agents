@@ -1,9 +1,12 @@
 {
   "slug": "xcientist",
   "name": "Xcientist",
-  "tagline": "The official repo for the paper \"Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness\"",
+  "tagline": "The official repo for the paper \"Making AI Scientists Auditable from Evidence to Claim\"",
   "category": "scientific-research",
-  "tags": [],
+  "tags": [
+    "agent-systems",
+    "ai4ai"
+  ],
   "author": {
     "type": "org",
     "handle": "OpenDFM",
@@ -17,12 +20,12 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 34,
+    "stars": 60,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-21T02:28:01Z",
+    "last_commit_at": "2026-09-27T18:21:28Z",
     "first_commit_at": "2025-11-05T11:37:38Z",
-    "forks": 3,
-    "watchers": 0,
+    "forks": 7,
+    "watchers": 2,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -40,10 +43,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3682,
-  "rank_in_category": 128,
+  "composite_score": 0.4609,
+  "rank_in_category": 68,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-25T14:24:15.236598Z",
-  "last_refreshed_at": "2026-09-13T19:37:21.979367Z",
+  "first_seen_at": "2026-10-20T04:52:08.229070Z",
+  "last_refreshed_at": "2026-10-20T04:52:08.229074Z",
   "consecutive_refresh_failures": 0
 }

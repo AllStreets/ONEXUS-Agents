@@ -1,7 +1,7 @@
 {
   "slug": "caveman",
   "name": "caveman",
-  "tagline": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+  "tagline": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
   "category": "coding",
   "tags": [
     "ai",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "JuliusBrussee/caveman",
     "huggingface": null,
-    "homepage": "https://docs.caveman.so/docs/quickstart"
+    "homepage": "https://docs.caveman.so/caveman"
   },
-  "license": "NOASSERTION",
+  "license": "Apache-2.0",
   "metrics": {
-    "stars": 102026,
+    "stars": 113703,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-29T22:17:17Z",
+    "last_commit_at": "2026-10-19T08:07:31Z",
     "first_commit_at": "2026-04-04T10:02:51Z",
-    "forks": 5936,
-    "watchers": 239,
-    "open_issues": 113,
+    "forks": 6578,
+    "watchers": 260,
+    "open_issues": 65,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4004,
-  "rank_in_category": 65,
+  "composite_score": 0.4432,
+  "rank_in_category": 52,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:46:53.342655Z",
-  "last_refreshed_at": "2026-08-31T19:27:01.787109Z",
+  "last_refreshed_at": "2026-10-20T04:15:05.296111Z",
   "consecutive_refresh_failures": 0
 }

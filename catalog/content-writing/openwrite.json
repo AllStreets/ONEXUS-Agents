@@ -1,0 +1,55 @@
+{
+  "slug": "openwrite",
+  "name": "Openwrite",
+  "tagline": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
+  "category": "content-writing",
+  "tags": [
+    "ai-novel",
+    "deepseek-harness",
+    "dsh-plugin",
+    "story-writing",
+    "writing-assistant"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "LiPu-jpg",
+    "url": "https://github.com/LiPu-jpg"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LiPu-jpg/Openwrite",
+    "huggingface": null,
+    "homepage": "https://github.com/LiPu-jpg/Openwrite#readme"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 845,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T13:35:05Z",
+    "first_commit_at": "2026-08-20T11:40:17Z",
+    "forks": 129,
+    "watchers": 3,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5361,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:50:40.497363Z",
+  "last_refreshed_at": "2026-10-20T04:50:40.497366Z",
+  "consecutive_refresh_failures": 0
+}

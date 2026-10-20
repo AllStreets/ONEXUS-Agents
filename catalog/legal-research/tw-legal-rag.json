@@ -1,7 +1,7 @@
 {
   "slug": "tw-legal-rag",
   "name": "tw-legal-rag",
-  "tagline": "台灣法律 MCP 伺服器 + CLI（免費、免註冊、免 API key）：2,250 萬筆裁判書、行政函釋、憲法法庭裁判，附引用查核。Free Taiwan legal MCP server for Claude/ChatGPT/Codex — bring your own LLM, retrieval-only.",
+  "tagline": "台灣法律 MCP 伺服器 + CLI（免費、免註冊、免 API key）：2,270 萬筆裁判書、行政函釋、憲法法庭裁判，附引用查核。Free Taiwan legal MCP server for Claude/ChatGPT/Codex: bring your own LLM, retrieval-only.",
   "category": "legal-research",
   "tags": [
     "claude-mcp",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 310,
+    "stars": 331,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T06:19:28Z",
+    "last_commit_at": "2026-10-20T04:11:50Z",
     "first_commit_at": "2026-05-23T04:12:21Z",
-    "forks": 41,
-    "watchers": 1,
-    "open_issues": 1,
+    "forks": 43,
+    "watchers": 2,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3881,
+  "composite_score": 0.4249,
   "rank_in_category": 4,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-05T15:38:59.852090Z",
-  "last_refreshed_at": "2026-09-08T17:33:43.417321Z",
+  "last_refreshed_at": "2026-10-20T04:39:47.626505Z",
   "consecutive_refresh_failures": 0
 }

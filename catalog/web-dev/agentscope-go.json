@@ -16,25 +16,25 @@
     "react-agent"
   ],
   "author": {
-    "type": "user",
-    "handle": "AlanFokCo",
-    "url": "https://github.com/AlanFokCo"
+    "type": "org",
+    "handle": "agentscope-ai",
+    "url": "https://github.com/agentscope-ai"
   },
   "source": {
     "primary": "github",
-    "github": "AlanFokCo/agentscope-go",
+    "github": "agentscope-ai/agentscope-go",
     "huggingface": null,
     "homepage": null
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 36,
+    "stars": 60,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T12:49:42Z",
+    "last_commit_at": "2026-10-19T13:18:19Z",
     "first_commit_at": "2026-03-13T07:13:05Z",
-    "forks": 2,
-    "watchers": 0,
-    "open_issues": 0,
+    "forks": 13,
+    "watchers": 1,
+    "open_issues": 9,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3482,
-  "rank_in_category": 119,
+  "composite_score": 0.4528,
+  "rank_in_category": 82,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-26T15:34:04.708690Z",
-  "last_refreshed_at": "2026-09-08T17:15:57.272133Z",
+  "first_seen_at": "2026-10-20T04:22:26.275712Z",
+  "last_refreshed_at": "2026-10-20T04:22:26.275716Z",
   "consecutive_refresh_failures": 0
 }

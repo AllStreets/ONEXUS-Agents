@@ -1,0 +1,60 @@
+{
+  "slug": "hackerrank-agent",
+  "name": "hackerrank-agent",
+  "tagline": "A terminal-based, multi-domain support-ticket triage agent grounded in a local support corpus.",
+  "category": "customer-support",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "ai-safety",
+    "cli",
+    "customer-support",
+    "groq",
+    "hybrid-search",
+    "information-retrieval",
+    "llm",
+    "prompt-injection"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "vincenzo-afk",
+    "url": "https://github.com/vincenzo-afk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vincenzo-afk/hackerrank-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 37,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-23T17:57:47Z",
+    "first_commit_at": "2026-04-22T07:16:37Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3915,
+  "rank_in_category": 105,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:47:17.139610Z",
+  "last_refreshed_at": "2026-10-20T04:47:17.139613Z",
+  "consecutive_refresh_failures": 0
+}

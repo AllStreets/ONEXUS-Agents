@@ -1,0 +1,62 @@
+{
+  "slug": "pi-desktop",
+  "name": "PI-Desktop",
+  "tagline": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "coding-agent",
+    "desktop-app",
+    "electron",
+    "global",
+    "i18n",
+    "local-first",
+    "mcp",
+    "pi",
+    "pi-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "vastsa",
+    "url": "https://github.com/vastsa"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vastsa/PI-Desktop",
+    "huggingface": null,
+    "homepage": "https://pi-docs.aiuo.net/"
+  },
+  "license": "LGPL-3.0",
+  "metrics": {
+    "stars": 7041,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T04:09:00Z",
+    "first_commit_at": "2026-07-24T17:16:41Z",
+    "forks": 678,
+    "watchers": 17,
+    "open_issues": 212,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4404,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:12:45.373413Z",
+  "last_refreshed_at": "2026-10-20T04:12:45.373417Z",
+  "consecutive_refresh_failures": 0
+}

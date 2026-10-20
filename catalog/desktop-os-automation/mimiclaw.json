@@ -1,7 +1,7 @@
 {
   "slug": "mimiclaw",
   "name": "mimiclaw",
-  "tagline": "MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.",
+  "tagline": "MimiClaw: Personal Agent on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS. On device Muse.",
   "category": "desktop-os-automation",
   "tags": [
     "ai",
@@ -9,7 +9,9 @@
     "clawdbot",
     "edge-ai-agents",
     "memory",
-    "openclaw"
+    "muse",
+    "openclaw",
+    "personal-agent"
   ],
   "author": {
     "type": "org",
@@ -24,13 +26,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 5742,
+    "stars": 5801,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-21T14:17:29Z",
+    "last_commit_at": "2026-10-04T06:40:28Z",
     "first_commit_at": "2026-02-04T04:27:23Z",
-    "forks": 892,
-    "watchers": 54,
-    "open_issues": 112,
+    "forks": 894,
+    "watchers": 52,
+    "open_issues": 111,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -47,10 +49,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4018,
-  "rank_in_category": 10,
+  "composite_score": 0.4333,
+  "rank_in_category": 11,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-15T15:04:08.990274Z",
-  "last_refreshed_at": "2026-09-05T15:58:32.547586Z",
+  "first_seen_at": "2026-10-20T04:25:21.137371Z",
+  "last_refreshed_at": "2026-10-20T04:25:21.137374Z",
   "consecutive_refresh_failures": 0
 }

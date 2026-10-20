@@ -1,0 +1,62 @@
+{
+  "slug": "python",
+  "name": "python",
+  "tagline": "Open-source Python challenge courses — your AI coding agent teaches, verify.py decides when you're done.",
+  "category": "coding",
+  "tags": [
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "cursor",
+    "learning-python",
+    "mcp",
+    "pandas",
+    "python",
+    "python-course"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "flypythoncom",
+    "url": "https://github.com/flypythoncom"
+  },
+  "source": {
+    "primary": "github",
+    "github": "flypythoncom/python",
+    "huggingface": null,
+    "homepage": "https://flypython.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 4166,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-11T15:06:52Z",
+    "first_commit_at": "2012-09-27T12:47:45Z",
+    "forks": 1429,
+    "watchers": 370,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4748,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:14:58.305311Z",
+  "last_refreshed_at": "2026-10-20T04:14:58.305315Z",
+  "consecutive_refresh_failures": 0
+}

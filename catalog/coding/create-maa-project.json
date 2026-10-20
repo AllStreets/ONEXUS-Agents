@@ -4,8 +4,12 @@
   "tagline": "MaaFW 项目脚手架 CLI & MCP Server，交互式创建与增量维护 Pipeline / Agent 项目",
   "category": "coding",
   "tags": [
+    "agent-skill",
+    "ai-agent",
+    "cli",
+    "developer-tools",
     "maafw",
-    "mcp",
+    "mcp-server",
     "scaffold"
   ],
   "author": {
@@ -21,9 +25,9 @@
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 10,
+    "stars": 15,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T07:20:52Z",
+    "last_commit_at": "2026-10-17T16:18:11Z",
     "first_commit_at": "2026-06-10T21:25:40Z",
     "forks": 2,
     "watchers": 1,
@@ -46,10 +50,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.2739,
-  "rank_in_category": 330,
+  "composite_score": 0.3117,
+  "rank_in_category": 296,
   "discovered_via": "auto",
-  "first_seen_at": "2026-09-08T17:23:10.397728Z",
-  "last_refreshed_at": "2026-09-08T17:23:10.397732Z",
+  "first_seen_at": "2026-10-20T04:29:16.268165Z",
+  "last_refreshed_at": "2026-10-20T04:29:16.268169Z",
   "consecutive_refresh_failures": 0
 }

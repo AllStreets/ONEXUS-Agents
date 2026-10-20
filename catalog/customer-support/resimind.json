@@ -1,0 +1,62 @@
+{
+  "slug": "resimind",
+  "name": "resimind",
+  "tagline": "Neuro-symbolic agents with verified memory. MCP math tools, an algebra repair Skill, and an open challenge. Verify solutions, learn checked rules, and reuse.",
+  "category": "customer-support",
+  "tags": [
+    "agent-memory",
+    "agent-skills",
+    "ai-agents",
+    "customer-support",
+    "knowledge-growth",
+    "knowledge-reuse",
+    "lean4",
+    "llm-agents",
+    "mathematics",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "1105216375-alt",
+    "url": "https://github.com/1105216375-alt"
+  },
+  "source": {
+    "primary": "github",
+    "github": "1105216375-alt/resimind",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 209,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-15T15:00:55Z",
+    "first_commit_at": "2026-10-08T01:20:55Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5466,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:44:07.845353Z",
+  "last_refreshed_at": "2026-10-20T04:44:07.845358Z",
+  "consecutive_refresh_failures": 0
+}

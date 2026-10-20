@@ -1,0 +1,58 @@
+{
+  "slug": "blog-writer-claude-skill",
+  "name": "blog-writer-claude-skill",
+  "tagline": "Claude Code skill that ghostwrites SEO, AEO and GEO blog articles in your own voice. Researches the topic, proposes a plan, waits for approval, then writes a publish ready article with graphics. Zero ",
+  "category": "content-writing",
+  "tags": [
+    "aeo",
+    "blog",
+    "claude-code",
+    "claude-skills",
+    "content-writing",
+    "geo",
+    "seo",
+    "seo-writing"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lumizone",
+    "url": "https://github.com/lumizone"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lumizone/blog-writer-claude-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-01T13:32:38Z",
+    "first_commit_at": "2026-06-29T09:18:59Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2222,
+  "rank_in_category": 153,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:49:24.138755Z",
+  "last_refreshed_at": "2026-10-20T04:49:24.138760Z",
+  "consecutive_refresh_failures": 0
+}

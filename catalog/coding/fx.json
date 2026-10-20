@@ -1,0 +1,49 @@
+{
+  "slug": "fx",
+  "name": "fx",
+  "tagline": "Unix like coding agent",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "vercel-labs",
+    "url": "https://github.com/vercel-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vercel-labs/fx",
+    "huggingface": null,
+    "homepage": "https://fx.sh/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3500,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T04:11:42Z",
+    "first_commit_at": "2026-08-11T21:29:04Z",
+    "forks": 394,
+    "watchers": 6,
+    "open_issues": 304,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3553,
+  "rank_in_category": 211,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:25:45.046423Z",
+  "last_refreshed_at": "2026-10-20T04:25:45.046426Z",
+  "consecutive_refresh_failures": 0
+}

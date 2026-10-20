@@ -12,7 +12,8 @@
     "mcp",
     "multi-agent",
     "multi-modal",
-    "react-agent"
+    "react-agent",
+    "realtime-agent"
   ],
   "author": {
     "type": "org",
@@ -27,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 31117,
+    "stars": 33518,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T13:12:09Z",
+    "last_commit_at": "2026-10-20T03:06:39Z",
     "first_commit_at": "2025-08-15T06:11:19Z",
-    "forks": 3480,
-    "watchers": 161,
-    "open_issues": 360,
+    "forks": 3815,
+    "watchers": 162,
+    "open_issues": 650,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -52,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6686,
-  "rank_in_category": 2,
+  "composite_score": 0.7251,
+  "rank_in_category": 3,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:24:12.567696Z",
-  "last_refreshed_at": "2026-09-08T17:15:38.109075Z",
+  "last_refreshed_at": "2026-10-20T04:22:10.262066Z",
   "consecutive_refresh_failures": 0
 }

@@ -5,21 +5,21 @@
   "category": "legal-research",
   "tags": [],
   "author": {
-    "type": "user",
-    "handle": "jmcentire",
-    "url": "https://github.com/jmcentire"
+    "type": "org",
+    "handle": "wandercom",
+    "url": "https://github.com/wandercom"
   },
   "source": {
     "primary": "github",
-    "github": "jmcentire/pact",
+    "github": "wandercom/pact",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://wandercom.github.io/pact/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 164,
+    "stars": 165,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-21T00:39:51Z",
+    "last_commit_at": "2026-10-14T20:25:12Z",
     "first_commit_at": "2026-02-14T07:15:13Z",
     "forks": 14,
     "watchers": 2,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.297,
-  "rank_in_category": 26,
+  "composite_score": 0.3396,
+  "rank_in_category": 25,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-01T14:27:14.668773Z",
-  "last_refreshed_at": "2026-09-08T17:34:13.868470Z",
+  "first_seen_at": "2026-10-20T04:40:19.161838Z",
+  "last_refreshed_at": "2026-10-20T04:40:19.161842Z",
   "consecutive_refresh_failures": 0
 }

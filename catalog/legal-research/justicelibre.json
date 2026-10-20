@@ -1,0 +1,62 @@
+{
+  "slug": "justicelibre",
+  "name": "justicelibre",
+  "tagline": "Serveur MCP juridique : jurisprudence et lois françaises en accès libre pour Claude, ChatGPT et votre IA · 3,9 M+ décisions, 1,8 M articles · 19 outils · service actuel : justicelibre.org",
+  "category": "legal-research",
+  "tags": [
+    "api-rest",
+    "case-law",
+    "cedh",
+    "chatgpt",
+    "cjeu",
+    "claude",
+    "conseil-etat",
+    "cour-de-cassation",
+    "droit-administratif",
+    "droit-public"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Dahliyaal",
+    "url": "https://github.com/Dahliyaal"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Dahliyaal/justicelibre",
+    "huggingface": null,
+    "homepage": "https://justicelibre.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-15T14:07:42Z",
+    "first_commit_at": "2026-04-16T02:33:54Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3467,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:40:02.340909Z",
+  "last_refreshed_at": "2026-10-20T04:40:02.340912Z",
+  "consecutive_refresh_failures": 0
+}

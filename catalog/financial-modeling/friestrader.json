@@ -1,0 +1,62 @@
+{
+  "slug": "friestrader",
+  "name": "FriesTrader",
+  "tagline": "Robinhood Agentic Trading agent — a fully automated AI trading bot placing real orders through Robinhood's Agentic Trading MCP, under mechanical, auditable risk rules the model cannot override. Able t",
+  "category": "financial-modeling",
+  "tags": [
+    "agentic-ai",
+    "algorithmic-trading",
+    "automation",
+    "claude",
+    "claude-code",
+    "llm-agents",
+    "mcp",
+    "risk-management",
+    "robinhood",
+    "trading-bot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "YizhiSong",
+    "url": "https://github.com/YizhiSong"
+  },
+  "source": {
+    "primary": "github",
+    "github": "YizhiSong/FriesTrader",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 242,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-14T19:35:56Z",
+    "first_commit_at": "2026-07-17T04:21:16Z",
+    "forks": 79,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3996,
+  "rank_in_category": 85,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:36:12.251344Z",
+  "last_refreshed_at": "2026-10-20T04:36:12.251348Z",
+  "consecutive_refresh_failures": 0
+}

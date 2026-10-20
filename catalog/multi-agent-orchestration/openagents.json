@@ -1,0 +1,55 @@
+{
+  "slug": "openagents",
+  "name": "openagents",
+  "tagline": "OpenAgents - The collaboration OS for AI agents",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agents",
+    "ai",
+    "collaboration",
+    "llm",
+    "network"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openagents-org",
+    "url": "https://github.com/openagents-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openagents-org/openagents",
+    "huggingface": null,
+    "homepage": "https://openagents.org/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4237,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T04:03:18Z",
+    "first_commit_at": "2025-03-10T22:27:52Z",
+    "forks": 440,
+    "watchers": 50,
+    "open_issues": 81,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4595,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:20:32.778816Z",
+  "last_refreshed_at": "2026-10-20T04:20:32.778820Z",
+  "consecutive_refresh_failures": 0
+}

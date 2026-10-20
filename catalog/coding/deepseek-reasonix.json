@@ -1,7 +1,7 @@
 {
   "slug": "deepseek-reasonix",
   "name": "DeepSeek-Reasonix",
-  "tagline": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+  "tagline": "A reliable coding agent for complex software engineering tasks.",
   "category": "coding",
   "tags": [
     "agent",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 35456,
+    "stars": 35874,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T16:33:21Z",
+    "last_commit_at": "2026-10-20T04:07:03Z",
     "first_commit_at": "2026-05-30T00:53:10Z",
-    "forks": 2379,
-    "watchers": 104,
-    "open_issues": 1762,
+    "forks": 2462,
+    "watchers": 100,
+    "open_issues": 409,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4206,
-  "rank_in_category": 35,
+  "composite_score": 0.4559,
+  "rank_in_category": 33,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-08T14:52:26.225694Z",
-  "last_refreshed_at": "2026-09-08T17:05:27.592784Z",
+  "last_refreshed_at": "2026-10-20T04:12:40.382770Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,56 @@
+{
+  "slug": "phase-barrier",
+  "name": "phase-barrier",
+  "tagline": "Stage-gate framework that forces coding agents to follow real engineering SOP: spec -> tests -> implementation, with verifiable evidence required at every step. 13 language adapters, tool interception",
+  "category": "coding",
+  "tags": [
+    "ai-agent",
+    "developer-tools",
+    "guardrails",
+    "pytest",
+    "stage-gate",
+    "swe-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Xuqing0415",
+    "url": "https://github.com/Xuqing0415"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Xuqing0415/phase-barrier",
+    "huggingface": null,
+    "homepage": "https://docs.xshayncka.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T11:59:29Z",
+    "first_commit_at": "2026-08-29T04:42:48Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2308,
+  "rank_in_category": 483,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:13:20.471155Z",
+  "last_refreshed_at": "2026-10-20T04:13:20.471159Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "appwrite",
+  "name": "appwrite",
+  "tagline": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+  "category": "devops-sre",
+  "tags": [
+    "android",
+    "appwrite",
+    "backend",
+    "backend-as-a-service",
+    "docker",
+    "firebase",
+    "firewall",
+    "flutter",
+    "hosting",
+    "ios"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "appwrite",
+    "url": "https://github.com/appwrite"
+  },
+  "source": {
+    "primary": "github",
+    "github": "appwrite/appwrite",
+    "huggingface": null,
+    "homepage": "https://appwrite.io/"
+  },
+  "license": "BSD-3-Clause",
+  "metrics": {
+    "stars": 57732,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T22:53:06Z",
+    "first_commit_at": "2019-04-08T16:36:26Z",
+    "forks": 5803,
+    "watchers": 435,
+    "open_issues": 809,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6929,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-19T13:52:49.740620Z",
+  "last_refreshed_at": "2026-10-20T04:23:27.740377Z",
+  "consecutive_refresh_failures": 0
+}

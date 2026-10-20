@@ -1,19 +1,19 @@
 {
   "slug": "agro",
   "name": "agro",
-  "tagline": "AGRO — Agent Governance Runtime Orchestrator. A portable home for autonomous coding agents.",
+  "tagline": "🏗️ AGRO — Agent Governance Runtime Orchestrator. A portable home for autonomous coding agents.",
   "category": "coding",
   "tags": [
-    "agro",
+    "agent-sandbox",
+    "ai-agents",
+    "ai-coding",
     "claude",
     "claude-code",
+    "cli",
     "codex",
-    "coding-agents",
-    "deepagents",
+    "coding-agent",
     "devcontainer",
-    "docker",
-    "gemini-cli",
-    "langchain"
+    "developer-tools"
   ],
   "author": {
     "type": "org",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "mifunedev/agro",
     "huggingface": null,
-    "homepage": "https://agro.mifune.dev/"
+    "homepage": "https://mifune.dev/"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 37,
+    "stars": 41,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T03:58:10Z",
+    "last_commit_at": "2026-10-20T01:46:57Z",
     "first_commit_at": "2026-02-01T04:20:01Z",
-    "forks": 3,
+    "forks": 4,
     "watchers": 0,
-    "open_issues": 23,
+    "open_issues": 42,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,17 +46,15 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": [
-      "langchain"
-    ]
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2652,
-  "rank_in_category": 345,
+  "composite_score": 0.2888,
+  "rank_in_category": 348,
   "discovered_via": "auto",
   "first_seen_at": "2026-09-08T17:13:33.714941Z",
-  "last_refreshed_at": "2026-09-08T17:13:33.714944Z",
+  "last_refreshed_at": "2026-10-20T04:20:04.368633Z",
   "consecutive_refresh_failures": 0
 }

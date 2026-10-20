@@ -1,0 +1,49 @@
+{
+  "slug": "databench",
+  "name": "Databench",
+  "tagline": "Databench by Alkera is a self-hostable, fully web-based workspace where people and agents work on data together. It gives a team shared files, notebooks, agent chats and compute on infrastructure you ",
+  "category": "data-science-ml",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "AlkeraAI",
+    "url": "https://github.com/AlkeraAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AlkeraAI/Databench",
+    "huggingface": null,
+    "homepage": "https://alkera.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-08T08:28:38Z",
+    "first_commit_at": "2026-10-08T08:28:18Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2241,
+  "rank_in_category": 92,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:33:30.051730Z",
+  "last_refreshed_at": "2026-10-20T04:33:30.051733Z",
+  "consecutive_refresh_failures": 0
+}

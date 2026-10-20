@@ -1,0 +1,63 @@
+{
+  "slug": "thclaws",
+  "name": "thClaws",
+  "tagline": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
+  "category": "coding",
+  "tags": [
+    "agent-harness",
+    "agent-teams",
+    "ai-agent",
+    "anthropic",
+    "claude-code",
+    "cli",
+    "desktop-app",
+    "developer-tools",
+    "gemini",
+    "kms"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "thClaws",
+    "url": "https://github.com/thClaws"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thClaws/thClaws",
+    "huggingface": null,
+    "homepage": "https://thclaws.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1241,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T20:53:16Z",
+    "first_commit_at": "2026-04-20T05:01:54Z",
+    "forks": 183,
+    "watchers": 17,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4186,
+  "rank_in_category": 77,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:50:35.733959Z",
+  "last_refreshed_at": "2026-10-20T04:50:35.733962Z",
+  "consecutive_refresh_failures": 0
+}

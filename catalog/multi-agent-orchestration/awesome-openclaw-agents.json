@@ -1,0 +1,63 @@
+{
+  "slug": "awesome-openclaw-agents",
+  "name": "awesome-openclaw-agents",
+  "tagline": "162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agent-templates",
+    "ai-agents",
+    "ai-automation",
+    "anthropic",
+    "automation",
+    "awesome",
+    "awesome-list",
+    "claude",
+    "community-agents",
+    "crewclaw"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "mergisi",
+    "url": "https://github.com/mergisi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mergisi/awesome-openclaw-agents",
+    "huggingface": null,
+    "homepage": "https://crewclaw.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4014,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-26T14:48:03Z",
+    "first_commit_at": "2026-02-05T10:50:08Z",
+    "forks": 661,
+    "watchers": 43,
+    "open_issues": 88,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.0,
+  "rank_in_category": 449,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:20:34.082443Z",
+  "last_refreshed_at": "2026-10-20T04:20:34.082447Z",
+  "consecutive_refresh_failures": 0
+}

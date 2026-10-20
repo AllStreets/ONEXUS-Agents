@@ -1,0 +1,55 @@
+{
+  "slug": "agent-control",
+  "name": "agent-control",
+  "tagline": "Centralized agent control plane for governing runtime agent behavior at scale. Configurable, extensible, and production-ready. ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-workflow",
+    "ai-safety",
+    "guardrails",
+    "llm",
+    "runtime-guardrails"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agentcontrol",
+    "url": "https://github.com/agentcontrol"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agentcontrol/agent-control",
+    "huggingface": null,
+    "homepage": "https://agentcontrol.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 329,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-20T03:47:43Z",
+    "first_commit_at": "2025-11-12T00:07:06Z",
+    "forks": 55,
+    "watchers": 5,
+    "open_issues": 46,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3856,
+  "rank_in_category": 158,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:47:13.783452Z",
+  "last_refreshed_at": "2026-10-20T04:47:13.783456Z",
+  "consecutive_refresh_failures": 0
+}
