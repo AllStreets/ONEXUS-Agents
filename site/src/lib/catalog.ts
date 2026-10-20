@@ -1,9 +1,9 @@
 import fs from "node:fs";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const ROOT = path.resolve(__dirname, "../../../catalog");
+// The catalog sits beside the site folder. Resolved from where the build runs (site/), not from this file:
+// the bundler moves compiled chunks between Astro versions, and a path relative to the chunk broke on Astro 7.
+const ROOT = process.env.ONEXUS_CATALOG_DIR ?? path.resolve(process.cwd(), "..", "catalog");
 
 export type Author = {
   type: "user" | "org";
