@@ -26,7 +26,7 @@
   "default_tier": "ADVISOR",
   "notes": "deepset's Haystack as a keyword-search agent: an in-memory document store ranked with BM25, with documents passed in through index_documents. No model, no API key and no network, so it runs confined with --network none. Server code in server.py, image from the Dockerfile here. ADVISOR tier: it returns passages and changes nothing outside its own store.",
   "confinement": {
-    "image": "ghcr.io/allstreets/onexus-adapter-haystack:0.1.0",
+    "image": "ghcr.io/allstreets/onexus-adapter-haystack:0.1.0@sha256:9ddf76aa63498519b9ceae0148e17b21ff336ff03c3794e6145a74119e966a00",
     "command": "python"
   }
 }
