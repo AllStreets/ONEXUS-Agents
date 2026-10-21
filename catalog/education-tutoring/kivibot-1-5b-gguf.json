@@ -1,0 +1,60 @@
+{
+  "slug": "kivibot-1-5b-gguf",
+  "name": "KiviBot-1.5B-GGUF",
+  "tagline": "BURAK002/KiviBot-1.5B-GGUF — None",
+  "category": "education-tutoring",
+  "tags": [
+    "gguf",
+    "qlora",
+    "rag",
+    "agent",
+    "tool-use",
+    "turkish",
+    "education",
+    "tr",
+    "base_model:Qwen/Qwen2.5-1.5B-Instruct",
+    "base_model:quantized:Qwen/Qwen2.5-1.5B-Instruct"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "BURAK002",
+    "url": "https://huggingface.co/BURAK002"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "BURAK002/KiviBot-1.5B-GGUF",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-10-21T16:04:01Z",
+    "first_commit_at": "2026-10-21T15:33:37Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3149,
+  "rank_in_category": 46,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-21T18:14:06.470782Z",
+  "last_refreshed_at": "2026-10-21T18:14:06.470786Z",
+  "consecutive_refresh_failures": 0
+}

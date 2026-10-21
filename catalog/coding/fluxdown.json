@@ -1,0 +1,49 @@
+{
+  "slug": "fluxdown",
+  "name": "FluxDown",
+  "tagline": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "zerx-lab",
+    "url": "https://github.com/zerx-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zerx-lab/FluxDown",
+    "huggingface": null,
+    "homepage": "https://fluxdown.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 4848,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-21T10:07:57Z",
+    "first_commit_at": "2026-02-09T06:07:53Z",
+    "forks": 285,
+    "watchers": 17,
+    "open_issues": 366,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3768,
+  "rank_in_category": 165,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T18:02:28.028877Z",
+  "last_refreshed_at": "2026-10-21T18:10:44.063249Z",
+  "consecutive_refresh_failures": 0
+}

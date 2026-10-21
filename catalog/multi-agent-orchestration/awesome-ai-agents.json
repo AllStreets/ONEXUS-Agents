@@ -1,40 +1,35 @@
 {
   "slug": "awesome-ai-agents",
-  "name": "awesome-ai-agents",
-  "tagline": "A list of AI autonomous agents",
+  "name": "Awesome-AI-Agents",
+  "tagline": "A collection of autonomous agents 🤖️ powered by LLM.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent",
-    "ai",
-    "artificial-intelligence",
-    "autogpt",
-    "autonomous-agents",
-    "awesome",
-    "babyagi",
-    "copilot",
-    "gpt",
-    "gpt-4"
+    "agents",
+    "llm",
+    "llm-powered-agents",
+    "multi-agent"
   ],
   "author": {
-    "type": "org",
-    "handle": "e2b-dev",
-    "url": "https://github.com/e2b-dev"
+    "type": "user",
+    "handle": "Jenqyang",
+    "url": "https://github.com/Jenqyang"
   },
   "source": {
     "primary": "github",
-    "github": "e2b-dev/awesome-ai-agents",
+    "github": "Jenqyang/Awesome-AI-Agents",
     "huggingface": null,
-    "homepage": "https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=awesome-ai-agents"
+    "homepage": "https://jenqyang.github.io/Awesome-AI-Agents/"
   },
-  "license": "NOASSERTION",
+  "license": "Unknown",
   "metrics": {
-    "stars": 30537,
+    "stars": 1264,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-21T18:52:45Z",
-    "first_commit_at": "2023-06-19T00:20:06Z",
-    "forks": 3658,
-    "watchers": 307,
-    "open_issues": 1168,
+    "last_commit_at": "2026-10-20T12:11:47Z",
+    "first_commit_at": "2023-12-22T07:10:28Z",
+    "forks": 561,
+    "watchers": 20,
+    "open_issues": 69,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -52,9 +47,9 @@
   "runnable": false,
   "adapter_ref": null,
   "composite_score": 0.0,
-  "rank_in_category": 451,
+  "rank_in_category": 456,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T17:51:34.035804Z",
-  "last_refreshed_at": "2026-10-20T17:51:34.035808Z",
+  "first_seen_at": "2026-10-21T18:07:26.099379Z",
+  "last_refreshed_at": "2026-10-21T18:07:26.099383Z",
   "consecutive_refresh_failures": 0
 }
