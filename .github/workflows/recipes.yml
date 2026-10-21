@@ -1,5 +1,8 @@
 name: recipes
 
+# GitHub registers a workflow from a push that changes its file; the push that added
+# this one was lost in the 2026-10-21 Actions incident, so this line re-registers it.
+
 # Weekly: resolve an install recipe for every runnable catalog agent from its repository
 # and package registry, then verify the new or changed ones by building each in a
 # confined container and asking it for its tools over MCP. Unchanged recipes keep their

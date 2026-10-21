@@ -1,5 +1,8 @@
 name: prebuilt-images
 
+# GitHub registers a workflow from a push that changes its file; the push that added
+# this one was lost in the 2026-10-21 Actions incident, so this line re-registers it.
+
 # Builds and publishes images for the short list in recipes/prebuilt.txt, so those agents
 # install in ONEXUS as a download instead of a local build. Only verified recipes under a
 # permissive license (MIT, Apache-2.0, BSD, ISC) are built; nothing else is redistributed.
