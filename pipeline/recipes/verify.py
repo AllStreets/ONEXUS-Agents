@@ -18,6 +18,7 @@ import json
 import queue
 import re
 import secrets
+import shlex
 import subprocess
 import threading
 import time
@@ -313,8 +314,16 @@ print("\n".join(e.name for e in d.entry_points if e.group == "console_scripts"))
 
 
 def _pypi_command(image: str, recipe: Recipe) -> None:
-    """If the recipe's command isn't one the installed package declares, use the one it
-    does declare (exactly one, or exactly one with "mcp" in its name)."""
+    """If the recipe's command doesn't exist in the image (the package name guessed as the
+    command, uvx-style), use the console script the installed package declares: exactly
+    one, or exactly one with "mcp" in its name. A command that exists, like `python`, is
+    left alone."""
+    if recipe.command:
+        found = subprocess.run(["docker", "run", "--rm", "--network", "none", "--entrypoint", "sh", image,
+                                "-c", f"command -v -- {shlex.quote(recipe.command[0])}"],
+                               capture_output=True, text=True, timeout=120)
+        if found.returncode == 0 and found.stdout.strip():
+            return
     p = subprocess.run(["docker", "run", "--rm", "--network", "none", "--entrypoint", "python", image,
                         "-c", _SCRIPTS, recipe.install.package.split("[")[0]],
                        capture_output=True, text=True, timeout=120)

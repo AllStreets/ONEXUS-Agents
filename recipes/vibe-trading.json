@@ -86,7 +86,7 @@
   "license": "MIT",
   "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check vibe-trading-ai==0.1.16\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T04:42:00.742335Z",
+    "at": "2026-10-21T15:43:09.742507Z",
     "ok": true,
     "stage": "done",
     "reason": "",
@@ -166,7 +166,7 @@
       "web_search",
       "write_file"
     ],
-    "handshake_ms": 4905,
+    "handshake_ms": 1948,
     "server_name": "Vibe-Trading",
     "server_version": "0.1.16"
   }

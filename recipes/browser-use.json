@@ -87,7 +87,7 @@
   "license": "MIT",
   "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check browser-use==0.13.11\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T03:08:55.962024Z",
+    "at": "2026-10-21T15:42:54.460251Z",
     "ok": true,
     "stage": "done",
     "reason": "",
@@ -95,7 +95,7 @@
       "browser_exec",
       "browser_screenshot"
     ],
-    "handshake_ms": 861,
+    "handshake_ms": 891,
     "server_name": "browser-use",
     "server_version": "0.13.11"
   }
