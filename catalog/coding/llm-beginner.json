@@ -1,7 +1,7 @@
 {
   "slug": "llm-beginner",
   "name": "llm-beginner",
-  "tagline": "LLM、Agent上手教程",
+  "tagline": "《大模型与智能体》电子书与 6 个编程任务：Transformer、mini-GPT、SFT/DPO、RAG、工具调用与编程智能体。",
   "category": "coding",
   "tags": [
     "agent",
@@ -19,17 +19,17 @@
     "primary": "github",
     "github": "nndl/llm-beginner",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://nndl.ai/llm-agent/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 6690,
+    "stars": 6837,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-23T09:01:05Z",
+    "last_commit_at": "2026-09-06T05:53:42Z",
     "first_commit_at": "2017-03-29T15:34:04Z",
-    "forks": 1357,
+    "forks": 1375,
     "watchers": 100,
-    "open_issues": 0,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3337,
-  "rank_in_category": 262,
+  "composite_score": 0.3851,
+  "rank_in_category": 145,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:47:06.558879Z",
-  "last_refreshed_at": "2026-08-31T19:27:37.999123Z",
-  "consecutive_refresh_failures": 2
+  "last_refreshed_at": "2026-10-21T17:59:43.728542Z",
+  "consecutive_refresh_failures": 0
 }

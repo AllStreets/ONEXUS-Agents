@@ -1,7 +1,7 @@
 {
   "slug": "gitnexus",
   "name": "GitNexus",
-  "tagline": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)",
+  "tagline": "GitNexus: The Zero-Server Code Intelligence Engine ",
   "category": "coding",
   "tags": [],
   "author": {
@@ -17,13 +17,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 47151,
+    "stars": 47996,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T15:26:56Z",
+    "last_commit_at": "2026-10-21T17:30:22Z",
     "first_commit_at": "2026-01-03T17:30:55Z",
-    "forks": 5156,
-    "watchers": 164,
-    "open_issues": 336,
+    "forks": 5197,
+    "watchers": 166,
+    "open_issues": 300,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -38,12 +38,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4422,
-  "rank_in_category": 61,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.424,
+  "rank_in_category": 76,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-23T15:22:08.580523Z",
-  "last_refreshed_at": "2026-09-08T17:18:58.646441Z",
-  "consecutive_refresh_failures": 2
+  "first_seen_at": "2026-10-21T18:08:24.941592Z",
+  "last_refreshed_at": "2026-10-21T18:08:24.941597Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,62 @@
+{
+  "slug": "skills-tracker",
+  "name": "skills-tracker",
+  "tagline": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+  "category": "search-rag",
+  "tags": [
+    "agent-ecosystem",
+    "agent-skills",
+    "ai-agents",
+    "ai-coding",
+    "ai-development",
+    "ai-skills",
+    "ai-tools",
+    "ai-workflow",
+    "anthropic",
+    "auto-updated"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "linny006",
+    "url": "https://github.com/linny006"
+  },
+  "source": {
+    "primary": "github",
+    "github": "linny006/skills-tracker",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 26,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-21T18:00:38Z",
+    "first_commit_at": "2026-05-20T01:08:34Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3003,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-21T18:11:49.100479Z",
+  "last_refreshed_at": "2026-10-21T18:11:49.100483Z",
+  "consecutive_refresh_failures": 0
+}
