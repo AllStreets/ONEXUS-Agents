@@ -1,0 +1,62 @@
+name: adapter-images
+
+# Builds the container images that confined adapters run in (adapters/<name>/Dockerfile,
+# named by the "confinement.image" in that adapter's mcp.json), smoke-tests each one the
+# way ONEXUS launches it, and on main publishes it to GHCR for linux/amd64 and arm64.
+
+on:
+  pull_request:
+    paths:
+      - "adapters/**"
+      - ".github/workflows/adapter-images.yml"
+  push:
+    branches: [main]
+    paths:
+      - "adapters/**"
+      - ".github/workflows/adapter-images.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  image:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    strategy:
+      fail-fast: false
+      matrix:
+        adapter: [haystack, faster-whisper]
+    steps:
+      - uses: actions/checkout@v7
+      - name: Image name from mcp.json
+        id: meta
+        run: echo "image=$(python3 -c "import json;print(json.load(open('adapters/${{ matrix.adapter }}/mcp.json'))['confinement']['image'].split('@')[0])")" >> "$GITHUB_OUTPUT"
+      - name: pip-audit the locked dependencies
+        run: |
+          python3 -m pip install --quiet pip-audit
+          pip-audit --strict --desc -r adapters/${{ matrix.adapter }}/requirements.txt
+      - name: Build and smoke-test (native arch)
+        run: |
+          docker build -t "${{ steps.meta.outputs.image }}" adapters/${{ matrix.adapter }}
+          python3 adapters/smoke.py ${{ matrix.adapter }} "${{ steps.meta.outputs.image }}"
+      - if: github.event_name != 'pull_request'
+        uses: docker/setup-qemu-action@99012661954931238ded8c8b007157a8430204e1 # v4.4.0
+      - if: github.event_name != 'pull_request'
+        uses: docker/setup-buildx-action@f87e5991a6d7451dcb8d9637bfbc97413f497069 # v4.4.1
+      - name: Publish to GHCR
+        if: github.event_name != 'pull_request'
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "$TOKEN" | docker login ghcr.io -u "${{ github.actor }}" --password-stdin
+          docker buildx build --platform linux/amd64,linux/arm64 --push \
+            --label org.opencontainers.image.source=https://github.com/${{ github.repository }} \
+            -t "${{ steps.meta.outputs.image }}" adapters/${{ matrix.adapter }}
+          echo "### ${{ matrix.adapter }}" >> "$GITHUB_STEP_SUMMARY"
+          docker buildx imagetools inspect "${{ steps.meta.outputs.image }}" --format '{{json .Manifest.Digest}}' >> "$GITHUB_STEP_SUMMARY"
