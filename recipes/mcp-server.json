@@ -1,0 +1,53 @@
+{
+  "slug": "mcp-server",
+  "recipe_version": 1,
+  "source": {
+    "repo": "automanus-io/mcp-server",
+    "commit": "dbb65d2777be54944bc637dd0cc62188ff860cd6"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "@automanus/mcp-server",
+    "version": "1.2.6"
+  },
+  "command": [
+    "automanus-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "automanus.io",
+      "wa.me"
+    ],
+    "evidence": {
+      "automanus.io": [
+        "package.json:44",
+        "dist/index.js:15",
+        "dist/index.js:273"
+      ],
+      "wa.me": [
+        "dist/index.js:287",
+        "dist/index.js:288"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit @automanus/mcp-server@1.2.6 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:33:33.529603Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "add_knowledge",
+      "create_sales_agent",
+      "generate_qr_code"
+    ],
+    "handshake_ms": 203,
+    "server_name": "automanus-mcp",
+    "server_version": "1.0.0"
+  }
+}

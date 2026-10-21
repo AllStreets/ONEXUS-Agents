@@ -1,0 +1,37 @@
+{
+  "slug": "gitnexus",
+  "recipe_version": 1,
+  "source": {
+    "repo": "abhigyanpatwari/GitNexus",
+    "commit": "04427e03c8314be4c2a2ab74a99b53b7222c0514"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "gitnexus",
+    "version": "1.6.12"
+  },
+  "command": [
+    "gitnexus"
+  ],
+  "args": [
+    "mcp"
+  ],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "NOASSERTION",
+  "dockerfile": "FROM node:22@sha256:0e5f906573693feaa1e21057ebdcfdb5bd5021f050b2dc7c9deceb629c7da2a8 AS build\nRUN npm install -g --omit=dev --no-fund --no-audit gitnexus@1.6.12 && npm cache clean --force\nFROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nCOPY --from=build /usr/local/lib/node_modules /usr/local/lib/node_modules\nCOPY --from=build /usr/local/bin /usr/local/bin\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:24:18.123934Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "the server exited with code 1 (it reported an error).  gitnexus@latest serve\n    pnpm add -g --allow-build=@ladybugdb/core --allow-build=gitnexus --allow-build=tree-sitter gitnexus\n    - bun: inside a project, add to package.json and reinstall:\n        \"trustedDependencies\": [\"@ladybugdb/core\", \"gitnexus\", \"tree-sitter\"]\n      A one-shot `bunx gitnexus@latest …` has no package.json to put that in —\n      install once instead:  bun install -g gitnexus",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

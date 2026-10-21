@@ -1,0 +1,141 @@
+{
+  "slug": "tooluniverse",
+  "recipe_version": 1,
+  "source": {
+    "repo": "mims-harvard/ToolUniverse",
+    "commit": "265848d91a74450156f20c7a717c632a656e2ee9"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "tooluniverse",
+    "version": "1.5.7"
+  },
+  "command": [
+    "tooluniverse"
+  ],
+  "args": [
+    "tooluniverse-smcp-stdio",
+    "--compact-mode"
+  ],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "OPENAI_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "OpenAI API key for LLM-based tool finding and embedding features"
+    },
+    {
+      "name": "ANTHROPIC_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Anthropic API key for Claude-based features"
+    },
+    {
+      "name": "GEMINI_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Google Gemini API key for Gemini-based features"
+    },
+    {
+      "name": "OPENROUTER_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "OpenRouter API key for accessing 100+ LLM models"
+    },
+    {
+      "name": "AZURE_OPENAI_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Azure OpenAI API key (alternative to OpenAI)"
+    },
+    {
+      "name": "HF_TOKEN",
+      "required": false,
+      "secret": true,
+      "description": "HuggingFace token for accessing models and datasets"
+    },
+    {
+      "name": "NCBI_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "NCBI/PubMed API key for higher rate limits (10 req/sec vs 3 req/sec). Register at https://www.ncbi.nlm.nih.gov/account/"
+    },
+    {
+      "name": "SEMANTIC_SCHOLAR_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Semantic Scholar API key for higher rate limits (100 req/sec vs 1 req/sec). Register at https://www.semanticscholar.org/product/api"
+    },
+    {
+      "name": "BIOGRID_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "BioGRID API key for protein-protein interaction queries. Register free at https://webservice.thebiogrid.org/"
+    },
+    {
+      "name": "DISGENET_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "DisGeNET API key for gene-disease association data. Register free at https://www.disgenet.org/"
+    },
+    {
+      "name": "OMIM_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "OMIM API key for Mendelian disease data. Register at https://omim.org/api"
+    },
+    {
+      "name": "ONCOKB_API_TOKEN",
+      "required": false,
+      "secret": true,
+      "description": "OncoKB API token for precision oncology annotations. Register at https://www.oncokb.org/apiAccess"
+    },
+    {
+      "name": "NVIDIA_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "NVIDIA NIM API key for AlphaFold2 structure prediction, molecular docking, and genomics tools. Get key at https://build.nvidia.com"
+    },
+    {
+      "name": "USPTO_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "USPTO API key for patent data access. Register at https://developer.uspto.gov/"
+    },
+    {
+      "name": "UMLS_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "UMLS API key for medical terminology and concept mapping. Register at https://uts.nlm.nih.gov/uts/"
+    },
+    {
+      "name": "BRENDA_EMAIL",
+      "required": false,
+      "secret": false,
+      "description": "BRENDA enzyme database login email. Register at https://www.brenda-enzymes.org/"
+    },
+    {
+      "name": "BRENDA_PASSWORD",
+      "required": false,
+      "secret": true,
+      "description": "BRENDA enzyme database login password"
+    }
+  ],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "Apache-2.0",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check tooluniverse==1.5.7\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:58:26.124796Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "the server exited with code 2. e-tool-types [TOOL_TYPE ...]] [--list-tools]\n                    [--name NAME] [--no-search] [--max-workers MAX_WORKERS]\n                    [--verbose] [--compact-mode] [--expose-agentic-prompts]\n                    [--hooks] [--hook-type {SummarizationHook,FileSaveHook}]\n                    [--hook-config-file HOOK_CONFIG_FILE]\ntooluniverse: error: unrecognized arguments: tooluniverse-smcp-stdio",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

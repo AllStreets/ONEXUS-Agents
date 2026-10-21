@@ -1,0 +1,39 @@
+{
+  "slug": "headroom",
+  "recipe_version": 1,
+  "source": {
+    "repo": "headroomlabs-ai/headroom",
+    "commit": "4c7acba5937115b32ae51b67208251878e201b7a"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "headroom-ai",
+    "version": "0.41.0"
+  },
+  "command": [
+    "headroom-ai"
+  ],
+  "args": [
+    "headroom",
+    "mcp",
+    "serve"
+  ],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "Apache-2.0",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check headroom-ai==0.41.0\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:06:32.686695Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "the server exited with code 127 (its command wasn't found in the image). docker: Error response from daemon: failed to create shim task: OCI runtime create failed: runc create failed: unable to start container process: exec: \"headroom-ai\": executable file not found in $PATH: unknown.",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

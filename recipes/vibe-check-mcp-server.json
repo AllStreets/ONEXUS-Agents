@@ -1,0 +1,72 @@
+{
+  "slug": "vibe-check-mcp-server",
+  "recipe_version": 1,
+  "source": {
+    "repo": "PV-Bhat/vibe-check-mcp-server",
+    "commit": "ed8452f2d626011526b0c62f7be7d0a6f67794c1"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "@pv-bhat/vibe-check-mcp",
+    "version": "2.7.6"
+  },
+  "command": [
+    "vibe-check-mcp"
+  ],
+  "args": [
+    "start",
+    "--stdio"
+  ],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "docs.anthropic.com",
+      "api.anthropic.com",
+      "openrouter.ai",
+      "docs.codeium.com",
+      "docs.cursor.com",
+      "code.visualstudio.com"
+    ],
+    "evidence": {
+      "docs.anthropic.com": [
+        "build/cli/clients/claude.js:56",
+        "build/cli/clients/claude-code.js:56"
+      ],
+      "api.anthropic.com": [
+        "build/utils/anthropic.js:3"
+      ],
+      "openrouter.ai": [
+        "build/utils/llm.js:8"
+      ],
+      "docs.codeium.com": [
+        "build/cli/clients/windsurf.js:52"
+      ],
+      "docs.cursor.com": [
+        "build/cli/clients/cursor.js:37"
+      ],
+      "code.visualstudio.com": [
+        "build/cli/clients/vscode.js:54"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit @pv-bhat/vibe-check-mcp@2.7.6 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:01:23.004040Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "check_constitution",
+      "reset_constitution",
+      "update_constitution",
+      "vibe_check",
+      "vibe_learn"
+    ],
+    "handshake_ms": 553,
+    "server_name": "vibe-check",
+    "server_version": "2.7.6"
+  }
+}

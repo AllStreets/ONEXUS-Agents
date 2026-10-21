@@ -1,0 +1,104 @@
+{
+  "slug": "cryptocurrency-cv",
+  "recipe_version": 1,
+  "source": {
+    "repo": "nirholas/cryptocurrency.cv",
+    "commit": "e9a07f459b30ef3b2f7b91719dba2f2d22026550"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "@nirholas/free-crypto-news-mcp",
+    "version": "4.0.0"
+  },
+  "command": [
+    "free-crypto-news-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "cryptocurrency.cv"
+    ],
+    "evidence": {
+      "cryptocurrency.cv": [
+        "package.json:50",
+        "dist/api.js:9",
+        "dist/api.js:13"
+      ]
+    }
+  },
+  "license": "NOASSERTION",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit @nirholas/free-crypto-news-mcp@4.0.0 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:24:53.379747Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "analyze_news",
+      "ask_crypto",
+      "compare_coins",
+      "get_ai_brief",
+      "get_airdrops",
+      "get_arbitrage",
+      "get_archive",
+      "get_archive_stats",
+      "get_article",
+      "get_breaking_news",
+      "get_coin_detail",
+      "get_coin_prices",
+      "get_daily_digest",
+      "get_defi_overview",
+      "get_defi_yields",
+      "get_derivatives",
+      "get_dex_volumes",
+      "get_events_calendar",
+      "get_exchange_flows",
+      "get_exchanges",
+      "get_fear_greed",
+      "get_funding_rates",
+      "get_gas_prices",
+      "get_glossary",
+      "get_latest_news",
+      "get_layer2_data",
+      "get_liquidations",
+      "get_macro_indicators",
+      "get_market_dominance",
+      "get_market_overview",
+      "get_narratives",
+      "get_ohlc",
+      "get_options_data",
+      "get_orderbook",
+      "get_portfolio_news",
+      "get_price_chart",
+      "get_regulatory_news",
+      "get_rss_feeds",
+      "get_sentiment",
+      "get_social_sentiment",
+      "get_source_feed_health",
+      "get_source_health",
+      "get_source_leaderboard",
+      "get_stablecoins",
+      "get_stories",
+      "get_story",
+      "get_token_unlocks",
+      "get_top_coins",
+      "get_top_gainers",
+      "get_top_losers",
+      "get_trading_signals",
+      "get_trending_topics",
+      "get_whale_alerts",
+      "list_categories",
+      "list_endpoints",
+      "list_sources",
+      "search_coins",
+      "search_news",
+      "summarize_news"
+    ],
+    "handshake_ms": 337,
+    "server_name": "free-crypto-news",
+    "server_version": "4.0.0"
+  }
+}

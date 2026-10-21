@@ -1,0 +1,68 @@
+{
+  "slug": "best-of-agent-harnesses",
+  "recipe_version": 1,
+  "source": {
+    "repo": "RyanAlberts/best-of-Agent-Harnesses",
+    "commit": "ed27a876a9191e65c01c2dc98c64f60f7f58dbb4"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "agent-harnesses-mcp",
+    "version": "0.7.1"
+  },
+  "command": [
+    "agent-harnesses-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "api.github.com",
+      "hn.algolia.com",
+      "news.ycombinator.com"
+    ],
+    "evidence": {
+      "api.github.com": [
+        "agent_harnesses_mcp/__init__.py:455",
+        "agent_harnesses_mcp/__init__.py:468"
+      ],
+      "hn.algolia.com": [
+        "agent_harnesses_mcp/__init__.py:495"
+      ],
+      "news.ycombinator.com": [
+        "agent_harnesses_mcp/__init__.py:502"
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check agent-harnesses-mcp==0.7.1\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:20:01.753677Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "compare",
+      "compare_for",
+      "get_comparison",
+      "get_harness",
+      "get_playbook",
+      "get_skill",
+      "get_template",
+      "list_categories",
+      "list_comparisons",
+      "list_playbooks",
+      "list_skills",
+      "list_templates",
+      "pick_harness",
+      "pick_infrastructure",
+      "recommend",
+      "search_harnesses"
+    ],
+    "handshake_ms": 767,
+    "server_name": "agent-harnesses",
+    "server_version": "1.30.0"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "supercmo-skills",
+  "recipe_version": 1,
+  "source": {
+    "repo": "SupercmoHQ/superCMO-skills",
+    "commit": "b6743b577f8c63a4f1c59cf4e6e6bde6f6171a7e"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "supercmo-skills",
+    "version": "0.1.26"
+  },
+  "command": [
+    "supercmo-skills"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "WAVESPEED_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "WaveSpeed key — image + video (recommended)"
+    },
+    {
+      "name": "FAL_KEY",
+      "required": false,
+      "secret": true,
+      "description": "fal.ai key — image + video"
+    },
+    {
+      "name": "ELEVENLABS_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "ElevenLabs key — voiceover"
+    },
+    {
+      "name": "GEMINI_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Gemini key — image/video analysis"
+    },
+    {
+      "name": "FIRECRAWL_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Firecrawl key — URL extraction"
+    },
+    {
+      "name": "SCRAPECREATORS_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "ScrapeCreators key — social research"
+    }
+  ],
+  "hosts": {
+    "proposed": [
+      "api.firecrawl.dev",
+      "generativelanguage.googleapis.com",
+      "getsupercmo.ai",
+      "api.getsupercmo.ai",
+      "api.wavespeed.ai",
+      "queue.fal.run",
+      "api.elevenlabs.io",
+      "firecrawl.dev",
+      "ai.google.dev",
+      "fal.run"
+    ],
+    "evidence": {
+      "api.firecrawl.dev": [
+        "env FIRECRAWL_API_KEY",
+        "supercmo_skills/providers/firecrawl.py:27"
+      ],
+      "generativelanguage.googleapis.com": [
+        "env GEMINI_API_KEY",
+        "supercmo_skills/providers/gemini.py:15"
+      ],
+      "getsupercmo.ai": [
+        "supercmo_env.py:121",
+        "supercmo_env.py:123",
+        "supercmo_env.py:420"
+      ],
+      "api.getsupercmo.ai": [
+        "supercmo_env.py:36",
+        "supercmo_skills/telemetry.py:33"
+      ],
+      "api.wavespeed.ai": [
+        "supercmo_skills/client.py:1108",
+        "supercmo_skills/providers/wavespeed.py:33"
+      ],
+      "queue.fal.run": [
+        "supercmo_skills/client.py:1146",
+        "supercmo_skills/providers/fal.py:23"
+      ],
+      "api.elevenlabs.io": [
+        "supercmo_skills/providers/elevenlabs.py:18",
+        "supercmo_skills/providers/elevenlabs.py:19"
+      ],
+      "firecrawl.dev": [
+        "supercmo_skills/catalog.py:691"
+      ],
+      "ai.google.dev": [
+        "supercmo_skills/catalog.py:703"
+      ],
+      "fal.run": [
+        "supercmo_skills/providers/fal.py:22"
+      ]
+    }
+  },
+  "license": "Apache-2.0",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check supercmo-skills==0.1.26\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:57:52.331866Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "audio_generate",
+      "calendar_add",
+      "calendar_list",
+      "calendar_remove",
+      "calendar_update",
+      "caption_video",
+      "image_analysis",
+      "image_generate",
+      "job_status",
+      "list_audio_models",
+      "list_image_models",
+      "list_research_sources",
+      "list_video_models",
+      "list_voices",
+      "setup_status",
+      "social_research",
+      "transcribe",
+      "url_extraction",
+      "video_analysis",
+      "video_generate",
+      "video_overlay",
+      "video_stitch"
+    ],
+    "handshake_ms": 613,
+    "server_name": "supercmo",
+    "server_version": "0.1.26"
+  }
+}

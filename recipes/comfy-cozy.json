@@ -1,0 +1,35 @@
+{
+  "slug": "comfy-cozy",
+  "recipe_version": 1,
+  "source": {
+    "repo": "JosephOIbrahim/Comfy-Cozy",
+    "commit": "7c041174485e0d14749101daf0be2c2afaa83024"
+  },
+  "derived_from": "package-manifest",
+  "install": {
+    "kind": "pypi",
+    "package": "comfy-cozy",
+    "version": "5.10.0"
+  },
+  "command": [
+    "comfy-cozy"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check comfy-cozy==5.10.0\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:04:45.413186Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "no answer within 60s.",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

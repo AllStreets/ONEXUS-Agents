@@ -1,0 +1,44 @@
+{
+  "slug": "cocoindex-code",
+  "recipe_version": 1,
+  "source": {
+    "repo": "cocoindex-io/cocoindex-code",
+    "commit": "b883be0b5d762c9e2d7d82afdedeade5df21d5be"
+  },
+  "derived_from": "package-manifest",
+  "install": {
+    "kind": "pypi",
+    "package": "cocoindex-code",
+    "version": "0.2.42"
+  },
+  "command": [
+    "cocoindex-code"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "docs.litellm.ai"
+    ],
+    "evidence": {
+      "docs.litellm.ai": [
+        "cocoindex_code/cli.py:361"
+      ]
+    }
+  },
+  "license": "Apache-2.0",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check cocoindex-code==0.2.42\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:21:46.303734Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "search"
+    ],
+    "handshake_ms": 920,
+    "server_name": "cocoindex-code",
+    "server_version": "0.2.42"
+  }
+}

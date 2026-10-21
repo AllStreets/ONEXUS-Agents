@@ -1,0 +1,165 @@
+{
+  "slug": "trvl",
+  "recipe_version": 1,
+  "source": {
+    "repo": "MikkoParkkola/trvl",
+    "commit": "c9098908382622d23f19e89b86acff73d36d1597"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "oci",
+    "image": "ghcr.io/mikkoparkkola/trvl:1.27.0",
+    "digest": "sha256:70adafb9c10e6fab7aedb223c8322635bb181980649d6d7362db322eebb5dbd9"
+  },
+  "command": [],
+  "args": [],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "TRVL_MCP_TOKEN",
+      "required": false,
+      "secret": true,
+      "description": "Bearer token for HTTP-mode auth (unused in stdio). Optional."
+    },
+    {
+      "name": "TRVL_MCP_READ_TOKEN",
+      "required": false,
+      "secret": true,
+      "description": "Read-scoped bearer token for HTTP-mode auth (unused in stdio). Optional."
+    },
+    {
+      "name": "TRVL_MCP_WRITE_TOKEN",
+      "required": false,
+      "secret": true,
+      "description": "Write-scoped bearer token for HTTP-mode auth (unused in stdio). Optional."
+    },
+    {
+      "name": "TRVL_MCP_OAUTH_INTROSPECTION_URL",
+      "required": false,
+      "secret": false,
+      "description": "OAuth token introspection endpoint for HTTP-mode auth (unused in stdio). Optional."
+    },
+    {
+      "name": "TRVL_MCP_OAUTH_CLIENT_ID",
+      "required": false,
+      "secret": false,
+      "description": "OAuth client ID for HTTP-mode token introspection (unused in stdio). Optional."
+    },
+    {
+      "name": "TRVL_MCP_OAUTH_CLIENT_SECRET",
+      "required": false,
+      "secret": true,
+      "description": "OAuth client secret for HTTP-mode token introspection (unused in stdio). Optional."
+    },
+    {
+      "name": "TRVL_MCP_OAUTH_AUDIENCE",
+      "required": false,
+      "secret": false,
+      "description": "Expected OAuth audience for HTTP-mode token introspection (unused in stdio). Optional."
+    },
+    {
+      "name": "TRVL_MCP_TOOL_MODE",
+      "required": false,
+      "secret": false,
+      "description": "Selects which MCP tool set is registered (e.g. smart/full). Optional, defaults to full set."
+    },
+    {
+      "name": "TRVL_MCP_TOOL_TIMEOUT",
+      "required": false,
+      "secret": false,
+      "description": "Per-tool-call timeout override. Optional, defaults to the built-in timeout."
+    },
+    {
+      "name": "AFKLM_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Air France-KLM API key; unlocks that airline's live fares/award search. Optional, trvl works without it."
+    },
+    {
+      "name": "AFKLM_OP_REF",
+      "required": false,
+      "secret": false,
+      "description": "1Password reference for the Air France-KLM API key. Optional, alternative to AFKLM_KEY."
+    },
+    {
+      "name": "AFKLM_KEYCHAIN_SERVICE",
+      "required": false,
+      "secret": false,
+      "description": "macOS Keychain service name to read the Air France-KLM API key from. Optional, alternative to AFKLM_KEY."
+    },
+    {
+      "name": "AFKL_KLM_COOKIES",
+      "required": false,
+      "secret": true,
+      "description": "Session cookies for Air France-KLM award search. Optional, unlocks award-fare lookups only."
+    },
+    {
+      "name": "SERPAPI_KEY",
+      "required": false,
+      "secret": true,
+      "description": "SerpApi API key; unlocks search-engine-backed lookups used by some providers. Optional, trvl works without it."
+    },
+    {
+      "name": "TRAVELPAYOUTS_TOKEN",
+      "required": false,
+      "secret": true,
+      "description": "Travelpayouts API token; unlocks that flight-price data source. Optional, trvl works without it."
+    },
+    {
+      "name": "TRANSAVIA_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Transavia API key; unlocks that airline's live fares. Optional, trvl works without it."
+    },
+    {
+      "name": "TICKETMASTER_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Ticketmaster API key; unlocks event listings for destinations. Optional, trvl works without it."
+    },
+    {
+      "name": "FOURSQUARE_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Foursquare API key; unlocks that place-search data source. Optional, trvl works without it."
+    },
+    {
+      "name": "OPENTRIPMAP_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "OpenTripMap API key; unlocks that attractions data source. Optional, trvl works without it."
+    },
+    {
+      "name": "GEOAPIFY_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Geoapify API key; unlocks that places/geocoding data source. Optional, trvl works without it."
+    },
+    {
+      "name": "DISTRIBUSION_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Distribusion API key; unlocks that ground-transport data source. Optional, trvl works without it."
+    },
+    {
+      "name": "SKYSCANNER_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Skyscanner API key; unlocks that car-hire data source. Optional, trvl works without it."
+    }
+  ],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "NOASSERTION",
+  "verified": {
+    "at": "2026-10-21T04:11:06.505570Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "no answer within 60s.",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

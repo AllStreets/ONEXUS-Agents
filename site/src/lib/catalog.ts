@@ -179,3 +179,55 @@ export function runnableAgentsByAdapter(): Record<string, Agent[]> {
   return out;
 }
 
+
+// ---------------------------------------------------------------------------
+// Install recipes (pipeline/recipes): how an agent installs as a confined MCP server,
+// and whether that was verified by building it and asking it for its tools.
+
+export type Recipe = {
+  slug: string;
+  derived_from: "server.json" | "readme-config" | "package-manifest";
+  install: { kind: "npm" | "pypi" | "oci"; package?: string; version?: string; image?: string; digest?: string };
+  env: { name: string; required: boolean; secret: boolean; description?: string }[];
+  hosts: { proposed: string[]; evidence: Record<string, string[]> };
+  verified?: { at: string; ok: boolean; stage: string; reason?: string; tools: string[] } | null;
+};
+
+const RECIPES_DIR = path.resolve(ROOT, "..", "recipes");
+let _recipes: Map<string, Recipe> | null = null;
+let _unresolved: Record<string, { reason: string }> | null = null;
+
+function recipes(): Map<string, Recipe> {
+  if (_recipes) return _recipes;
+  _recipes = new Map();
+  if (fs.existsSync(RECIPES_DIR)) {
+    for (const f of fs.readdirSync(RECIPES_DIR)) {
+      if (!f.endsWith(".json") || f.startsWith("_")) continue;
+      try {
+        const r = JSON.parse(fs.readFileSync(path.join(RECIPES_DIR, f), "utf8")) as Recipe;
+        _recipes.set(r.slug, r);
+      } catch {
+        // an unreadable recipe is simply not shown
+      }
+    }
+  }
+  return _recipes;
+}
+
+export function recipeFor(slug: string): Recipe | null {
+  return recipes().get(slug) ?? null;
+}
+
+export function unresolvedReason(slug: string): string | null {
+  if (!_unresolved) {
+    const p = path.join(RECIPES_DIR, "_unresolved.json");
+    _unresolved = fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, "utf8")) : {};
+  }
+  return _unresolved?.[slug]?.reason ?? null;
+}
+
+export function verifiedInstallCount(): number {
+  let n = 0;
+  for (const r of recipes().values()) if (r.verified?.ok) n++;
+  return n;
+}

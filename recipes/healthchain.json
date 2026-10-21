@@ -1,0 +1,37 @@
+{
+  "slug": "healthchain",
+  "recipe_version": 1,
+  "source": {
+    "repo": "healthchainai/HealthChain",
+    "commit": "1ab3930f8747beb258d6c85804d9b15599052e5e"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "healthchain",
+    "version": "0.16.1"
+  },
+  "command": [
+    "healthchain"
+  ],
+  "args": [
+    "mcp"
+  ],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "Apache-2.0",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check healthchain==0.16.1\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:31:02.580570Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "the server exited with code 1 (it reported an error). 38, in main\n    serve_mcp(args.bundle)\n  File \"/usr/local/lib/python3.12/site-packages/healthchain/cli.py\", line 452, in serve_mcp\n    toolkit.as_mcp().run(transport=\"stdio\")\n    ^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/site-packages/healthchain/tools/toolkit.py\", line 398, in as_mcp\n    raise ImportError(\nImportError: Could not import mcp. Install it with: `pip install healthchain[mcp]`",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

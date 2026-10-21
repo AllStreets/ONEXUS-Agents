@@ -1,0 +1,97 @@
+{
+  "slug": "koreanpulse",
+  "recipe_version": 1,
+  "source": {
+    "repo": "whdrnr2583-cmd/koreanpulse",
+    "commit": "078952a07588d885fb6a69c20d0e5bc94a869165"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "koreanpulse",
+    "version": "0.1.13"
+  },
+  "command": [
+    "koreanpulse"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "opendart.fss.or.kr",
+      "mcp.koreanpulse.dev",
+      "api.telegram.org",
+      "koreanpulse.dev",
+      "www.hankyung.com",
+      "www.koreaherald.com",
+      "zdnet.co.kr",
+      "discord.com",
+      "hooks.slack.com",
+      "docs.lemonsqueezy.com"
+    ],
+    "evidence": {
+      "opendart.fss.or.kr": [
+        "koreanpulse/corp_code.py:28",
+        "koreanpulse/corp_code.py:59",
+        "koreanpulse/corp_code.py:104"
+      ],
+      "mcp.koreanpulse.dev": [
+        "koreanpulse/mcp_http.py:71",
+        "koreanpulse/mcp_http.py:74",
+        "koreanpulse/mcp_http.py:77"
+      ],
+      "api.telegram.org": [
+        "koreanpulse/alerts.py:16",
+        "koreanpulse/alerts.py:120",
+        "koreanpulse/alerts.py:132"
+      ],
+      "koreanpulse.dev": [
+        "koreanpulse/mcp_http.py:85",
+        "koreanpulse/news.py:131",
+        "koreanpulse/server.py:964"
+      ],
+      "www.hankyung.com": [
+        "koreanpulse/sources.py:105",
+        "koreanpulse/sources.py:106"
+      ],
+      "www.koreaherald.com": [
+        "koreanpulse/sources.py:120",
+        "koreanpulse/sources.py:121"
+      ],
+      "zdnet.co.kr": [
+        "koreanpulse/sources.py:135",
+        "koreanpulse/sources.py:136"
+      ],
+      "discord.com": [
+        "koreanpulse/alerts.py:13"
+      ],
+      "hooks.slack.com": [
+        "koreanpulse/alerts.py:14"
+      ],
+      "docs.lemonsqueezy.com": [
+        "koreanpulse/billing/lemonsqueezy.py:17"
+      ]
+    }
+  },
+  "license": "AGPL-3.0",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check koreanpulse==0.1.13\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:33:14.782131Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "koreanpulse_about",
+      "lookup_corp_code",
+      "monitor_activist_investors",
+      "monitor_foreign_holders",
+      "resolve_stock_code",
+      "search_korean_industry_news",
+      "track_korean_filings"
+    ],
+    "handshake_ms": 1110,
+    "server_name": "koreanpulse",
+    "server_version": "4.1.3"
+  }
+}

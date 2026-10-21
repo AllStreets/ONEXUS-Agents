@@ -1,0 +1,125 @@
+{
+  "slug": "one-search-mcp",
+  "recipe_version": 1,
+  "source": {
+    "repo": "yokingma/one-search-mcp",
+    "commit": "16eb424608888949165f6a668d476cbdf79afc20"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "npm",
+    "package": "one-search-mcp",
+    "version": "1.2.4"
+  },
+  "command": [
+    "one-search-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "SEARCH_PROVIDER",
+      "required": false,
+      "secret": false,
+      "description": "Search provider to use (searxng, duckduckgo, bing, tavily, google, zhipu, exa, bocha, ydc, local)"
+    },
+    {
+      "name": "SEARCH_API_URL",
+      "required": false,
+      "secret": false,
+      "description": "API URL for SearXNG (required if using searxng provider), or Google Custom Search Engine ID for google"
+    },
+    {
+      "name": "SEARCH_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "API key for search provider (required for tavily, bing, google, zhipu, exa, bocha)"
+    },
+    {
+      "name": "YDC_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "You.com API key for ydc provider"
+    },
+    {
+      "name": "ALLOW_PRIVATE_NETWORK",
+      "required": false,
+      "secret": false,
+      "description": "Allow browser-backed tools to access private, loopback, and link-local network targets when set to true"
+    }
+  ],
+  "hosts": {
+    "proposed": [
+      "www.google.com",
+      "www.microsoft.com",
+      "www.chromium.org",
+      "www.bing.com",
+      "www.baidu.com",
+      "www.sogou.com",
+      "api.bing.microsoft.com",
+      "www.googleapis.com",
+      "open.bigmodel.cn",
+      "api.exa.ai"
+    ],
+    "evidence": {
+      "www.google.com": [
+        "dist/index.js:3",
+        "dist/index.js:8",
+        "dist/index.cjs:3"
+      ],
+      "www.microsoft.com": [
+        "dist/index.js:4",
+        "dist/index.cjs:4"
+      ],
+      "www.chromium.org": [
+        "dist/index.js:5",
+        "dist/index.cjs:5"
+      ],
+      "www.bing.com": [
+        "dist/index.js:8",
+        "dist/index.cjs:8"
+      ],
+      "www.baidu.com": [
+        "dist/index.js:8",
+        "dist/index.cjs:8"
+      ],
+      "www.sogou.com": [
+        "dist/index.js:8",
+        "dist/index.cjs:8"
+      ],
+      "api.bing.microsoft.com": [
+        "dist/index.js:8",
+        "dist/index.cjs:8"
+      ],
+      "www.googleapis.com": [
+        "dist/index.js:8",
+        "dist/index.cjs:8"
+      ],
+      "open.bigmodel.cn": [
+        "dist/index.js:8",
+        "dist/index.cjs:8"
+      ],
+      "api.exa.ai": [
+        "dist/index.js:8",
+        "dist/index.cjs:8"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit one-search-mcp@1.2.4 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:36:14.768748Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "one_extract",
+      "one_map",
+      "one_scrape",
+      "one_search"
+    ],
+    "handshake_ms": 723,
+    "server_name": "one-search-mcp",
+    "server_version": "1.2.4"
+  }
+}

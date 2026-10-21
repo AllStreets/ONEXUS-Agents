@@ -1,0 +1,116 @@
+{
+  "slug": "obsei",
+  "recipe_version": 1,
+  "source": {
+    "repo": "obsei/obsei",
+    "commit": "74e039f52af252a21b6a60eac4858c2eaef0de2f"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "obsei",
+    "version": "1.1.1"
+  },
+  "command": [
+    "obsei"
+  ],
+  "args": [
+    "mcp"
+  ],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "OBSEI_CONFIG",
+      "required": false,
+      "secret": false,
+      "description": "Path to obsei.yaml (default ./obsei.yaml)."
+    },
+    {
+      "name": "OBSEI_DB",
+      "required": false,
+      "secret": false,
+      "description": "Path to the database, overriding store.path."
+    },
+    {
+      "name": "OBSEI_DB_KEY",
+      "required": false,
+      "secret": true,
+      "description": "The key that encrypts the database."
+    }
+  ],
+  "hosts": {
+    "proposed": [
+      "docs.obsei.com",
+      "www.standardwebhooks.com",
+      "obsei.com",
+      "docs.sqlalchemy.org",
+      "api.github.com",
+      "developers.google.com",
+      "bsky.app",
+      "itunes.apple.com",
+      "www.googleapis.com",
+      "purl.org"
+    ],
+    "evidence": {
+      "docs.obsei.com": [
+        "obsei/catalog.py:15",
+        "obsei/cli.py:1219",
+        "obsei/enrichers/__init__.py:28"
+      ],
+      "www.standardwebhooks.com": [
+        "obsei/sinks/__init__.py:31",
+        "obsei/sinks/webhook.py:2",
+        "obsei/sources/__init__.py:126"
+      ],
+      "obsei.com": [
+        "obsei/core/context.py:25",
+        "obsei/mcp_server.py:72"
+      ],
+      "docs.sqlalchemy.org": [
+        "obsei/sinks/__init__.py:104",
+        "obsei/sources/__init__.py:195"
+      ],
+      "api.github.com": [
+        "obsei/sinks/github.py:25",
+        "obsei/sources/github.py:24"
+      ],
+      "developers.google.com": [
+        "obsei/sources/__init__.py:90",
+        "obsei/sources/__init__.py:181"
+      ],
+      "bsky.app": [
+        "obsei/sources/__init__.py:168",
+        "obsei/sources/bluesky.py:106"
+      ],
+      "itunes.apple.com": [
+        "obsei/sources/appstore.py:18",
+        "obsei/sources/appstore.py:28"
+      ],
+      "www.googleapis.com": [
+        "obsei/sources/playstore.py:26",
+        "obsei/sources/youtube.py:17"
+      ],
+      "purl.org": [
+        "obsei/sources/rss.py:19",
+        "obsei/sources/rss.py:20"
+      ]
+    }
+  },
+  "license": "Apache-2.0",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check obsei==1.1.1\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:35:41.873920Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "feedback_stats",
+      "get_feedback",
+      "list_themes",
+      "search_feedback"
+    ],
+    "handshake_ms": 743,
+    "server_name": "obsei",
+    "server_version": "1.1.1"
+  }
+}

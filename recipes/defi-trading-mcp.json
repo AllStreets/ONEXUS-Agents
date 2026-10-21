@@ -1,0 +1,60 @@
+{
+  "slug": "defi-trading-mcp",
+  "recipe_version": 1,
+  "source": {
+    "repo": "edkdev/defi-trading-mcp",
+    "commit": "c467b35eb637db4bab7bc224e643a339da6d26b3"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "defi-trading-mcp",
+    "version": "2.1.7"
+  },
+  "command": [
+    "defi-trading-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "USER_PRIVATE_KEY",
+      "required": true,
+      "secret": true,
+      "description": ""
+    },
+    {
+      "name": "USER_ADDRESS",
+      "required": true,
+      "secret": false,
+      "description": ""
+    },
+    {
+      "name": "COINGECKO_API_KEY",
+      "required": true,
+      "secret": true,
+      "description": ""
+    },
+    {
+      "name": "ALCHEMY_API_KEY",
+      "required": true,
+      "secret": true,
+      "description": ""
+    }
+  ],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "Unknown",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit defi-trading-mcp@2.1.7 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:25:05.240959Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "the server exited with code 1 (it reported an error). /local/lib/node_modules/defi-trading-mcp/src/toolService.js:17:23)\n    at file:///usr/local/lib/node_modules/defi-trading-mcp/src/index.js:86:21\n    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:681:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)\n\nNode.js v22.23.3",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

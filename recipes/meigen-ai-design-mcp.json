@@ -1,0 +1,81 @@
+{
+  "slug": "meigen-ai-design-mcp",
+  "recipe_version": 1,
+  "source": {
+    "repo": "jau123/MeiGen-AI-Design-MCP",
+    "commit": "96293566d952ffa74d2b5a527e76b85441578528"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "meigen",
+    "version": "3.3.2"
+  },
+  "command": [
+    "meigen"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "www.meigen.ai",
+      "images.meigen.ai",
+      "api.openai.com",
+      "gen.meigen.ai",
+      "10.x.x.x"
+    ],
+    "evidence": {
+      "www.meigen.ai": [
+        "package.json:49",
+        "dist/config.js:30",
+        "dist/lib/generation-contract.js:89"
+      ],
+      "images.meigen.ai": [
+        "dist/lib/search-previews.js:24",
+        "dist/lib/upload.js:361",
+        "dist/lib/gallery.js:16"
+      ],
+      "api.openai.com": [
+        "dist/config.js:28"
+      ],
+      "gen.meigen.ai": [
+        "dist/config.js:31"
+      ],
+      "10.x.x.x": [
+        "dist/lib/url-safety.js:8"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit meigen@3.3.2 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:33:35.786300Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "check_generation",
+      "check_skill",
+      "enhance_prompt",
+      "generate_ai_background",
+      "generate_image",
+      "generate_marketing_poster",
+      "generate_product_detail_images",
+      "generate_video",
+      "get_inspiration",
+      "list_models",
+      "list_skills",
+      "manage_preferences",
+      "remove_background",
+      "render_video_draft",
+      "search_gallery",
+      "upload_reference_media",
+      "upload_skill_image",
+      "upscale_image"
+    ],
+    "handshake_ms": 277,
+    "server_name": "meigen",
+    "server_version": "3.3.2"
+  }
+}

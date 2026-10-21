@@ -1,0 +1,138 @@
+{
+  "slug": "oathmcp",
+  "recipe_version": 1,
+  "source": {
+    "repo": "OATH-md/OathMCP",
+    "commit": "8f95aa2b9fe7c8deea720dda664ad9fddaa26d17"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "@oath-md/oath-mcp",
+    "version": "0.2.1"
+  },
+  "command": [
+    "oath-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "pubmed.ncbi.nlm.nih.gov",
+      "doi.org",
+      "pmc.ncbi.nlm.nih.gov",
+      "www.nice.org.uk",
+      "www.hrsa.gov",
+      "www.cdc.gov",
+      "mcp.oath.md",
+      "www1.grc.nasa.gov",
+      "neonatalsepsiscalculator.kaiserpermanente.org",
+      "www.ncbi.nlm.nih.gov"
+    ],
+    "evidence": {
+      "pubmed.ncbi.nlm.nih.gov": [
+        "dist/server/spec-data.generated.js:6",
+        "dist/server/spec-data.generated.js:7",
+        "dist/server/spec-data.generated.js:8"
+      ],
+      "doi.org": [
+        "dist/server/spec-data.generated.js:5",
+        "dist/server/spec-data.generated.js:6",
+        "dist/server/spec-data.generated.js:6"
+      ],
+      "pmc.ncbi.nlm.nih.gov": [
+        "dist/server/spec-data.generated.js:16",
+        "dist/server/spec-data.generated.js:20",
+        "dist/server/spec-data.generated.js:20"
+      ],
+      "www.nice.org.uk": [
+        "dist/server/spec-data.generated.js:18",
+        "dist/server/spec-data.generated.js:18",
+        "dist/server/spec-data.generated.js:26"
+      ],
+      "www.hrsa.gov": [
+        "dist/server/spec-data.generated.js:30",
+        "dist/server/spec-data.generated.js:30",
+        "dist/server/spec-data.generated.js:30"
+      ],
+      "www.cdc.gov": [
+        "dist/server/spec-data.generated.js:9",
+        "dist/server/spec-data.generated.js:27",
+        "dist/server/spec-data.generated.js:27"
+      ],
+      "mcp.oath.md": [
+        "dist/server/worker.js:138",
+        "dist/server/worker.js:171"
+      ],
+      "www1.grc.nasa.gov": [
+        "dist/server/spec-data.generated.js:5",
+        "dist/server/spec-data.generated.js:5"
+      ],
+      "neonatalsepsiscalculator.kaiserpermanente.org": [
+        "dist/server/spec-data.generated.js:19",
+        "dist/server/spec-data.generated.js:19"
+      ],
+      "www.ncbi.nlm.nih.gov": [
+        "dist/server/spec-data.generated.js:20",
+        "dist/server/spec-data.generated.js:40"
+      ]
+    }
+  },
+  "license": "Apache-2.0",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit @oath-md/oath-mcp@0.2.1 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:35:28.485690Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "calculate_aa_gradient",
+      "calculate_abg",
+      "calculate_anion_gap",
+      "calculate_apgar",
+      "calculate_bmi",
+      "calculate_bsa",
+      "calculate_bsa_dubois",
+      "calculate_carboplatin_auc",
+      "calculate_chadsvasc",
+      "calculate_chemo_dose_bsa",
+      "calculate_child_pugh",
+      "calculate_corrected_calcium",
+      "calculate_creatinine_clearance",
+      "calculate_csf",
+      "calculate_eos",
+      "calculate_fib4",
+      "calculate_free_water_deficit",
+      "calculate_gad7",
+      "calculate_gcs",
+      "calculate_gfr",
+      "calculate_gir",
+      "calculate_grace",
+      "calculate_hepb",
+      "calculate_ibw",
+      "calculate_ich_volume",
+      "calculate_kdpi",
+      "calculate_map",
+      "calculate_meld",
+      "calculate_mews",
+      "calculate_morse_fall_scale",
+      "calculate_neonatal_measurements",
+      "calculate_nihss",
+      "calculate_oxygenation_index",
+      "calculate_panel",
+      "calculate_pews",
+      "calculate_qsofa",
+      "calculate_r_factor",
+      "calculate_ranson",
+      "calculate_sodium_deficit",
+      "calculate_timi",
+      "calculate_wells_dvt",
+      "describe_calculator",
+      "find_calculator"
+    ],
+    "handshake_ms": 599,
+    "server_name": "oath-mcp",
+    "server_version": "0.2.1"
+  }
+}

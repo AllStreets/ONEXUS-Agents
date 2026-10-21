@@ -238,6 +238,15 @@ adapters/<agent>/README.md   # one-line install, one-line invocation
 
 **MCP-first**, with an escape hatch for agents that don't speak MCP yet (a small Python adapter shim).
 
+### Install recipes: proven before anyone clicks
+
+`runnable` is detected from topics, READMEs and manifests, and that signal is broad: it also catches apps and clients that use MCP. So each runnable agent also gets checked by programs, with no model involved:
+
+- **Resolve** (`onexus-agents-recipes resolve`) reads the repository at an exact commit and writes `recipes/<slug>.json`: the npm or PyPI package (or published image) at an exact version, its command, the keys it needs. Sources, in order: the repo's `server.json`, the README's `mcpServers` block, its package manifest. It refuses anything it can't be sure of: a local clone, a path only you know, an unpublished package, or a package whose registry entry points at someone else's repository.
+- **Verify** (`onexus-agents-recipes verify`) builds each recipe from a pinned template, starts it with ONEXUS's confinement (no network, read-only, no capabilities, non-root) and asks for its tools over MCP. It also proposes the hosts the server talks to, each with the line it was found on.
+
+Of 561 runnable entries, 91 have a recipe and 53 verified ([`recipes/_summary.json`](recipes/_summary.json)); `recipes/_unresolved.json` says why each other entry has none. Verified recipes install from ONEXUS's agent store as confined MCP servers. A weekly workflow re-resolves and re-verifies what changed.
+
 ### Downstream consumers, elevated
 
 Both consumers of this catalog shipped v2 elevations: **SMADP — [The Proving Ground](https://github.com/AllStreets/SMADP)** gained adversarial sandbox grading with property-bounded severities, deterministic N-agent chain composition, capability-drift tracking, and an **MCP recording proxy** that turns a catalog agent's observed runtime behavior into a `behavior-observed` safety profile — the first path past `docs-only` for closed-source agents. **NEXUS — [The Missing Minds](https://github.com/AllStreets/ONEXUS)** gained a threat radar, a temporal knowledge graph, agent-to-agent negotiation, and workspace-scoped federation. This catalog remains the single source both read from.

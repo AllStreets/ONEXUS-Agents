@@ -1,0 +1,51 @@
+{
+  "slug": "sonarqube-mcp-server",
+  "recipe_version": 1,
+  "source": {
+    "repo": "SonarSource/sonarqube-mcp-server",
+    "commit": "fd8a75f9d97764d7817561568152fa1fc81f2d50"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "oci",
+    "image": "docker.io/sonarsource/sonarqube-mcp",
+    "digest": "sha256:e1a31da56d1006e45bfb2b0f4f4a9ce2de5051d84e07446c5dafabdff13b0415"
+  },
+  "command": [],
+  "args": [],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "SONARQUBE_TOKEN",
+      "required": true,
+      "secret": true,
+      "description": "Your SonarQube USER token"
+    },
+    {
+      "name": "SONARQUBE_ORG",
+      "required": false,
+      "secret": true,
+      "description": "Your SonarQube Cloud organization key (if using SonarQube Cloud)"
+    },
+    {
+      "name": "SONARQUBE_URL",
+      "required": false,
+      "secret": true,
+      "description": "Your SonarQube Server URL (if using SonarQube Server)"
+    }
+  ],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "NOASSERTION",
+  "verified": {
+    "at": "2026-10-21T03:54:19.740397Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "{'code': -32603, 'message': 'SONARQUBE_URL or SONARQUBE_ORG must be set. Set SONARQUBE_URL to your SonarQube Server URL or SonarQube Cloud URL, or set SONARQUBE_ORG to connect to SonarQube Cloud.'}. ration.McpServerLaunchConfiguration.validateStdioConfiguration(McpServerLaunchConfiguration.java:419)\n\tat org.sonarsource.sonarqube.mcp.configuration.McpServerLaunchConfiguration.<init>(McpServerLaunchConfiguration.java:168)\n\tat org.sonarsource.sonarqube.mcp.SonarQubeMcpServer.<init>(SonarQubeMcpServer.java:225)\n\tat org.sonarsource.sonarqube.mcp.SonarQubeMcpServer.main(SonarQubeMcpServer.java:209)",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

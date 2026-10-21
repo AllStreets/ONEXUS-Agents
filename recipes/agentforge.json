@@ -1,0 +1,35 @@
+{
+  "slug": "agentforge",
+  "recipe_version": 1,
+  "source": {
+    "repo": "MohitGoyal09/AgentForge",
+    "commit": "3f513b36b8cd5f7c4c3303506dcbdec949f9e23c"
+  },
+  "derived_from": "package-manifest",
+  "install": {
+    "kind": "pypi",
+    "package": "agentforge-harness",
+    "version": "0.1.3"
+  },
+  "command": [
+    "agentforge"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check agentforge-harness==0.1.3\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:03:41.543231Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "no answer within 60s.",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

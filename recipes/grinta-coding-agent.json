@@ -1,0 +1,35 @@
+{
+  "slug": "grinta-coding-agent",
+  "recipe_version": 1,
+  "source": {
+    "repo": "josephsenior/Grinta-Coding-Agent",
+    "commit": "8ae9283eda40154dd16bd466d64c1a44e03ed329"
+  },
+  "derived_from": "package-manifest",
+  "install": {
+    "kind": "pypi",
+    "package": "grinta",
+    "version": "1.0.0"
+  },
+  "command": [
+    "grinta"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12@sha256:42dc0ee40d7707e2f2ee506a1cbe52e09ab11c207c5b429342638f83177601fe AS build\nRUN pip wheel --no-cache-dir --disable-pip-version-check --wheel-dir /wheels grinta==1.0.0\nFROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nCOPY --from=build /wheels /wheels\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check --no-index --find-links /wheels grinta==1.0.0 && rm -rf /wheels\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:25:23.235785Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "the server exited with code 1 (it reported an error). runtime_paths\n    (log_root / 'workspaces').mkdir(parents=True, exist_ok=True)\n  File \"/usr/local/lib/python3.12/pathlib.py\", line 1315, in mkdir\n    self.parent.mkdir(parents=True, exist_ok=True)\n  File \"/usr/local/lib/python3.12/pathlib.py\", line 1311, in mkdir\n    os.mkdir(self, mode)\n\nERROR:root:<class 'OSError'>: [Errno 30] Read-only file system: '/usr/local/lib/python3.12/site-packages/logs'",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

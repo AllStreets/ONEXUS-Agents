@@ -1,0 +1,81 @@
+{
+  "slug": "seekstone",
+  "recipe_version": 1,
+  "source": {
+    "repo": "shaqmughal/seekstone",
+    "commit": "11ff4598bd4a57f0c6ac62226193f5d74c63356e"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "npm",
+    "package": "seekstone",
+    "version": "0.22.1"
+  },
+  "command": [
+    "seekstone"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "SEEKSTONE_VAULT",
+      "required": true,
+      "secret": false,
+      "description": "Absolute path to your Obsidian vault."
+    }
+  ],
+  "hosts": {
+    "proposed": [
+      "huggingface.co",
+      "seekstone.dev"
+    ],
+    "evidence": {
+      "huggingface.co": [
+        "dist/index.js:19",
+        "dist/index.js:50",
+        "dist/index.js:60"
+      ],
+      "seekstone.dev": [
+        "package.json:34"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit seekstone@0.22.1 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:52:11.020923Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "append_note",
+      "append_periodic_note",
+      "context_pack",
+      "create_note",
+      "delete_note",
+      "get_backlinks",
+      "get_links",
+      "get_periodic_note",
+      "list_notes",
+      "list_tags",
+      "list_tasks",
+      "list_writes",
+      "move_note",
+      "outline_note",
+      "patch_frontmatter",
+      "patch_note",
+      "query_notes",
+      "read_note",
+      "read_notes",
+      "rename_heading",
+      "replace_in_note",
+      "resolve_note",
+      "search",
+      "undo_write",
+      "update_task"
+    ],
+    "handshake_ms": 283,
+    "server_name": "seekstone",
+    "server_version": "0.22.1"
+  }
+}

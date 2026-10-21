@@ -7,12 +7,14 @@ import {
   runnableAgentsByAdapter,
   totalAgentCount,
   loadCategories,
+  verifiedInstallCount,
 } from "@/lib/catalog";
 
 const agents = runnableAgents();
 const byAdapter = runnableAgentsByAdapter();
 const total = totalAgentCount();
 const adapterEntries = Object.entries(byAdapter).sort((a, b) => b[1].length - a[1].length);
+const verifiedCount = verifiedInstallCount();
 
 const categories = loadCategories().categories;
 const catNameBySlug: Record<string, string> = Object.fromEntries(
@@ -41,7 +43,7 @@ const searchPayload = agents.map((a, i) => ({
 <Base
   current="runnable"
   title="Runnable agents — ONEXUS-Agents"
-  description={`${agents.length} open-source agents that speak MCP, so ONEXUS or any MCP client can run them.`}
+  description={`${agents.length} open-source agents that declare MCP; ${verifiedCount} verified to install as confined MCP servers.`}
 >
   <section class="border-b border-[var(--color-border)]">
     <div class="max-w-7xl mx-auto px-6 py-16 lg:py-20">
@@ -54,28 +56,29 @@ const searchPayload = agents.map((a, i) => ({
         </div>
 
         <h1 class="text-4xl lg:text-5xl font-bold tracking-tight leading-[1.05] mb-6">
-          Agents you can <span class="text-[var(--color-accent)]">actually run</span>, today.
+          Agents that speak MCP, and the ones <span class="text-[var(--color-accent)]">proven to install</span>.
         </h1>
 
         <p class="text-lg text-[var(--color-fg-dim)] leading-relaxed max-w-2xl mb-8">
-          Every entry on this page speaks MCP. Almost all of them ship their own MCP
-          server upstream (adapter <code class="font-mono">mcp/stdio</code>): install the
-          project as its README says and any MCP client can start it. A few use an adapter
-          kept in this repo, and those run in a locked-down container with no network.
+          Every entry here says it speaks MCP, from its own topics, README or manifest. That
+          signal is broad: it also catches apps and clients that use MCP. So each one is also
+          checked. Where a program could read an exact install from the repository, the agent
+          was built and started in a locked-down container and asked for its tools. The ones
+          that answered install in ONEXUS with one click.
         </p>
 
         <div class="grid grid-cols-3 gap-6 max-w-lg">
           <div>
             <div class="font-mono text-3xl text-[var(--color-fg)]">{agents.length}</div>
-            <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">runnable</div>
+            <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">declare MCP</div>
           </div>
           <div>
             <div class="font-mono text-3xl text-[var(--color-fg)]">{total.toLocaleString()}</div>
             <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">indexed</div>
           </div>
           <div>
-            <div class="font-mono text-3xl text-[var(--color-fg)]">{adapterEntries.length}</div>
-            <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">adapter types</div>
+            <div class="font-mono text-3xl text-[var(--color-accent)]">{verifiedCount}</div>
+            <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">verified to install</div>
           </div>
         </div>
       </div>

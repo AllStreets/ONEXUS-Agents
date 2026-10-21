@@ -1,0 +1,35 @@
+{
+  "slug": "rtfm",
+  "recipe_version": 1,
+  "source": {
+    "repo": "roomi-fields/rtfm",
+    "commit": "66ad857fbac6f70c7503ff53384c2d5b0569257f"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "rtfm-ai",
+    "version": "0.55.0"
+  },
+  "command": [
+    "rtfm-ai"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check rtfm-ai==0.55.0\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:09:46.640957Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "the server exited with code 127 (its command wasn't found in the image). docker: Error response from daemon: failed to create shim task: OCI runtime create failed: runc create failed: unable to start container process: exec: \"rtfm-ai\": executable file not found in $PATH: unknown.",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

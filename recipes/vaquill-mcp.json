@@ -1,0 +1,42 @@
+{
+  "slug": "vaquill-mcp",
+  "recipe_version": 1,
+  "source": {
+    "repo": "Vaquill-AI/vaquill-mcp",
+    "commit": "be732c07e1e283985612c3f1fcafd083d91e389b"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "pypi",
+    "package": "vaquill-mcp",
+    "version": "0.4.0"
+  },
+  "command": [
+    "vaquill-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "VAQUILL_API_KEY",
+      "required": true,
+      "secret": true,
+      "description": ""
+    }
+  ],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check vaquill-mcp==0.4.0\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:00:58.952414Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "the server exited with code 1 (it reported an error). equest\n    with map_httpcore_exceptions():\n         ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/contextlib.py\", line 158, in __exit__\n    self.gen.throw(value)\n  File \"/usr/local/lib/python3.12/site-packages/httpx2/_transports/default.py\", line 115, in map_httpcore_exceptions\n    raise mapped_exc(message) from exc\nhttpx2.ConnectError: [Errno -3] Temporary failure in name resolution",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

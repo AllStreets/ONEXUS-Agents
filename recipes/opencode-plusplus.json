@@ -1,0 +1,35 @@
+{
+  "slug": "opencode-plusplus",
+  "recipe_version": 1,
+  "source": {
+    "repo": "whut09/opencode-plusplus",
+    "commit": "598767170bb73e869293c6a91526bcb852b696c0"
+  },
+  "derived_from": "package-manifest",
+  "install": {
+    "kind": "npm",
+    "package": "opencode-plusplus",
+    "version": "0.1.1"
+  },
+  "command": [
+    "opencode-plusplus"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit opencode-plusplus@0.1.1 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:08:25.677881Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "no answer within 60s.",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

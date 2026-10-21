@@ -1,0 +1,51 @@
+{
+  "slug": "irys-stateful-swarms",
+  "recipe_version": 1,
+  "source": {
+    "repo": "dl1683/irys-stateful-swarms",
+    "commit": "df4904836f9132288ecc110192798d59ab00f943"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "@iqidis/blackboard-mcp",
+    "version": "0.2.4"
+  },
+  "command": [
+    "blackboard-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit @iqidis/blackboard-mcp@0.2.4 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:32:26.172458Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "bb_add_document",
+      "bb_add_entries",
+      "bb_add_signal",
+      "bb_convergence",
+      "bb_create",
+      "bb_diagram",
+      "bb_export",
+      "bb_get_state",
+      "bb_iterate",
+      "bb_list",
+      "bb_mark_read",
+      "bb_search",
+      "bb_snapshot",
+      "bb_synthesis"
+    ],
+    "handshake_ms": 284,
+    "server_name": "blackboard",
+    "server_version": "0.2.0"
+  }
+}

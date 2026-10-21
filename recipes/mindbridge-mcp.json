@@ -1,0 +1,101 @@
+{
+  "slug": "mindbridge-mcp",
+  "recipe_version": 1,
+  "source": {
+    "repo": "pinkpixel-dev/mindbridge-mcp",
+    "commit": "48b1cb51e882361f6e9ec42e024048c55ee66a87"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "@pinkpixel/mindbridge",
+    "version": "1.2.0"
+  },
+  "command": [
+    "mindbridge"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "OPENAI_API_KEY",
+      "required": true,
+      "secret": true,
+      "description": ""
+    },
+    {
+      "name": "ANTHROPIC_API_KEY",
+      "required": true,
+      "secret": true,
+      "description": ""
+    },
+    {
+      "name": "GOOGLE_API_KEY",
+      "required": true,
+      "secret": true,
+      "description": ""
+    },
+    {
+      "name": "DEEPSEEK_API_KEY",
+      "required": true,
+      "secret": true,
+      "description": ""
+    },
+    {
+      "name": "OPENROUTER_API_KEY",
+      "required": true,
+      "secret": true,
+      "description": ""
+    }
+  ],
+  "hosts": {
+    "proposed": [
+      "api.openai.com",
+      "api.anthropic.com",
+      "api.deepseek.com",
+      "generativelanguage.googleapis.com",
+      "openrouter.ai",
+      "pinkpixel.dev"
+    ],
+    "evidence": {
+      "api.openai.com": [
+        "env OPENAI_API_KEY",
+        "dist/config.js:19"
+      ],
+      "api.anthropic.com": [
+        "env ANTHROPIC_API_KEY",
+        "dist/config.js:27"
+      ],
+      "api.deepseek.com": [
+        "dist/config.js:35",
+        "dist/providers/deepseek.js:4"
+      ],
+      "generativelanguage.googleapis.com": [
+        "dist/config.js:43",
+        "dist/providers/google.js:13"
+      ],
+      "openrouter.ai": [
+        "dist/providers/openrouter.js:5"
+      ],
+      "pinkpixel.dev": [
+        "dist/providers/openrouter.js:51"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit @pinkpixel/mindbridge@1.2.0 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T05:07:53.406160Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "getSecondOpinion",
+      "listProviders",
+      "listReasoningModels"
+    ],
+    "handshake_ms": 501,
+    "server_name": "mindbridge",
+    "server_version": "1.2.0"
+  }
+}

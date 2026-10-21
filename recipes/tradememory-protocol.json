@@ -1,0 +1,84 @@
+{
+  "slug": "tradememory-protocol",
+  "recipe_version": 1,
+  "source": {
+    "repo": "mnemox-ai/tradememory-protocol",
+    "commit": "cb599bd3614560435670a7afaee44d1bb62ec507"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "tradememory-protocol",
+    "version": "0.5.6"
+  },
+  "command": [
+    "tradememory-protocol"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "freetsa.org",
+      "api.binance.com",
+      "api.deepseek.com",
+      "paper-api.alpaca.markets",
+      "api.alpaca.markets",
+      "api.hyperliquid.xyz"
+    ],
+    "evidence": {
+      "freetsa.org": [
+        "tradememory/audit/tsa.py:11",
+        "tradememory/audit/tsa.py:50"
+      ],
+      "api.binance.com": [
+        "tradememory/data/binance.py:27"
+      ],
+      "api.deepseek.com": [
+        "tradememory/replay/llm_client.py:75"
+      ],
+      "paper-api.alpaca.markets": [
+        "tradememory/sync/alpaca.py:26"
+      ],
+      "api.alpaca.markets": [
+        "tradememory/sync/alpaca.py:27"
+      ],
+      "api.hyperliquid.xyz": [
+        "tradememory/sync/hyperliquid.py:26"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check tradememory-protocol==0.5.6\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:58:56.473369Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "check_active_plans",
+      "check_trade_legitimacy",
+      "compute_dqs",
+      "create_trading_plan",
+      "evolution_discover_patterns",
+      "evolution_evolve_strategy",
+      "evolution_fetch_market_data",
+      "evolution_get_log",
+      "evolution_run_backtest",
+      "export_audit_trail",
+      "get_agent_state",
+      "get_behavioral_analysis",
+      "get_daily_root",
+      "get_strategy_performance",
+      "get_trade_reflection",
+      "recall_memories",
+      "remember_trade",
+      "validate_strategy",
+      "verify_audit_chain",
+      "verify_audit_hash"
+    ],
+    "handshake_ms": 1799,
+    "server_name": "tradememory-protocol",
+    "server_version": "0.5.6"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "serena",
+  "recipe_version": 1,
+  "source": {
+    "repo": "oraios/serena",
+    "commit": "abb0a0f01b94bc8050086f0fb860077d17730324"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "serena-agent",
+    "version": "2.1.0"
+  },
+  "command": [
+    "serena-agent"
+  ],
+  "args": [
+    "start-mcp-server",
+    "--project-from-cwd",
+    "--context",
+    "desktop-app"
+  ],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "oraios.github.io",
+      "download-cdn.jetbrains.com",
+      "roslynomnisharp.blob.core.windows.net",
+      "microsoft.github.io",
+      "download.visualstudio.microsoft.com",
+      "download.jetbrains.com",
+      "www.nuget.org",
+      "storage.googleapis.com",
+      "releases.hashicorp.com",
+      "gleam.run"
+    ],
+    "evidence": {
+      "oraios.github.io": [
+        "serena/cli.py:62",
+        "serena/cli.py:67",
+        "serena/cli.py:364"
+      ],
+      "download-cdn.jetbrains.com": [
+        "solidlsp/resources/downloaded_dependency_hashes.json:9",
+        "solidlsp/resources/downloaded_dependency_hashes.json:10",
+        "solidlsp/resources/downloaded_dependency_hashes.json:11"
+      ],
+      "roslynomnisharp.blob.core.windows.net": [
+        "solidlsp/language_servers/omnisharp/runtime_dependencies.json:7",
+        "solidlsp/language_servers/omnisharp/runtime_dependencies.json:25",
+        "solidlsp/language_servers/omnisharp/runtime_dependencies.json:43"
+      ],
+      "microsoft.github.io": [
+        "solidlsp/language_servers/omnisharp/initialize_params.json:2",
+        "solidlsp/ls.py:986",
+        "solidlsp/ls.py:1709"
+      ],
+      "download.visualstudio.microsoft.com": [
+        "solidlsp/language_servers/omnisharp/runtime_dependencies.json:304",
+        "solidlsp/language_servers/omnisharp/runtime_dependencies.json:319",
+        "solidlsp/language_servers/omnisharp/runtime_dependencies.json:334"
+      ],
+      "download.jetbrains.com": [
+        "solidlsp/language_servers/kotlin_language_server.py:198",
+        "solidlsp/language_servers/kotlin_language_server.py:212",
+        "solidlsp/resources/downloaded_dependency_hashes.json:14"
+      ],
+      "www.nuget.org": [
+        "solidlsp/language_servers/csharp_language_server.py:49",
+        "solidlsp/language_servers/csharp_language_server.py:62",
+        "solidlsp/language_servers/csharp_language_server.py:75"
+      ],
+      "storage.googleapis.com": [
+        "solidlsp/language_servers/dart_language_server.py:102",
+        "solidlsp/language_servers/dart_language_server.py:112",
+        "solidlsp/language_servers/dart_language_server.py:122"
+      ],
+      "releases.hashicorp.com": [
+        "solidlsp/language_servers/terraform_ls.py:137",
+        "solidlsp/language_servers/terraform_ls.py:147",
+        "solidlsp/language_servers/terraform_ls.py:157"
+      ],
+      "gleam.run": [
+        "solidlsp/language_servers/gleam_language_server.py:6",
+        "solidlsp/language_servers/gleam_language_server.py:43",
+        "solidlsp/language_servers/gleam_language_server.py:74"
+      ]
+    }
+  },
+  "license": "NOASSERTION",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check serena-agent==2.1.0\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:53:08.523962Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "activate_project",
+      "initial_instructions",
+      "serena_repl"
+    ],
+    "handshake_ms": 838,
+    "server_name": "Serena",
+    "server_version": "2.1.0"
+  }
+}
