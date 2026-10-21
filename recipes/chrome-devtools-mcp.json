@@ -127,5 +127,8 @@
     "handshake_ms": 631,
     "server_name": "chrome_devtools",
     "server_version": "1.11.0"
+  },
+  "prebuilt": {
+    "image": "ghcr.io/allstreets/onexus-mcp-chrome-devtools-mcp:1.11.0@sha256:8f8dc9d45c44133ee0534efcf4f73475c8cfb49b0967c323852690caf281548b"
   }
 }
