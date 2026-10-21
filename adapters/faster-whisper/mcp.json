@@ -23,7 +23,7 @@
   "default_tier": "EXECUTOR",
   "notes": "Local Whisper inference (CTranslate2, int8 on CPU) with the base model baked into the image, so it runs confined with --network none. Audio is passed in base64 because the container sees none of the operator's files. Server code in server.py, image from the Dockerfile here. EXECUTOR with a low trust floor: its only output is text.",
   "confinement": {
-    "image": "ghcr.io/allstreets/onexus-adapter-faster-whisper:0.1.0",
+    "image": "ghcr.io/allstreets/onexus-adapter-faster-whisper:0.1.0@sha256:a6fd70681095ea69c51b099552401fa16f73430a5fc36ca2e748bfa3f793680f",
     "command": "python"
   }
 }
