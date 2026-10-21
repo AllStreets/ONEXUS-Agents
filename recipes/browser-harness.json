@@ -77,5 +77,8 @@
     "handshake_ms": 790,
     "server_name": "browser-harness",
     "server_version": ""
+  },
+  "prebuilt": {
+    "image": "ghcr.io/allstreets/onexus-mcp-browser-harness:0.1.13@sha256:87674d39bc4afec482c2180d232e7b58b01ae7ae57542276d71523ddb946f027"
   }
 }

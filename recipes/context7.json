@@ -63,5 +63,8 @@
     "handshake_ms": 347,
     "server_name": "Context7",
     "server_version": "4.0.3"
+  },
+  "prebuilt": {
+    "image": "ghcr.io/allstreets/onexus-mcp-context7:4.0.3@sha256:3f439a0a43790c2b3444d0c50e52a310b25ef6638b77a9dcb80dedf5f3cf70e2"
   }
 }

@@ -79,5 +79,8 @@
     "handshake_ms": 426,
     "server_name": "korean-law",
     "server_version": "4.15.9"
+  },
+  "prebuilt": {
+    "image": "ghcr.io/allstreets/onexus-mcp-korean-law-mcp:4.15.9@sha256:23c32d559bb8f24dc22ce5b4d91afc201891881fde3518471e34727cb594354c"
   }
 }

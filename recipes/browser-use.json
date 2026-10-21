@@ -98,5 +98,8 @@
     "handshake_ms": 891,
     "server_name": "browser-use",
     "server_version": "0.13.11"
+  },
+  "prebuilt": {
+    "image": "ghcr.io/allstreets/onexus-mcp-browser-use:0.13.11@sha256:a3bbb100bf72e4e521cea6a066a9960d9de43fa94c5a91899d33f1afc30447ad"
   }
 }

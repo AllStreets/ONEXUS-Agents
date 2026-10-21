@@ -169,5 +169,8 @@
     "handshake_ms": 1948,
     "server_name": "Vibe-Trading",
     "server_version": "0.1.16"
+  },
+  "prebuilt": {
+    "image": "ghcr.io/allstreets/onexus-mcp-vibe-trading:0.1.16@sha256:3a3252f5dd80999dde985ccfafadb9ff1532b5e3fdcff408b1ce72781becbe16"
   }
 }
