@@ -2,12 +2,14 @@
 
 from __future__ import annotations
 
+import json
 import re
 from datetime import UTC, datetime
 
 from pipeline.crawlers import github as gh
 from pipeline.crawlers import huggingface as hf
 from pipeline.frameworks import detect_frameworks
+from pipeline.paths import ROOT
 from pipeline.schema import Agent, Author, Metrics, Source
 
 UTC_NOW = lambda: datetime.now(UTC)  # noqa: E731
@@ -17,6 +19,18 @@ UTC_NOW = lambda: datetime.now(UTC)  # noqa: E731
 # Author-declared, so false positives stay near zero.
 MCP_SERVER_SIGNALS = frozenset({"mcp-server", "mcp-servers", "model-context-protocol"})
 GENERIC_MCP_ADAPTER = "mcp/stdio"
+
+
+def adapter_unavailable(adapter_ref: str | None) -> bool:
+    """True when adapter_ref names a hand-written adapter that can't run: its descriptor
+    says `"status": "planned"` (the server it points at isn't written yet), or the file
+    is missing. Such an adapter never makes an agent runnable."""
+    if not adapter_ref or not adapter_ref.startswith("adapters/"):
+        return False
+    try:
+        return json.loads((ROOT / adapter_ref).read_text()).get("status") == "planned"
+    except (OSError, ValueError):
+        return True
 
 # README markers that indicate the repo IS an MCP server. Anchored to invocation
 # patterns and config-key presence; soft-match the word "MCP" is rejected as
@@ -90,6 +104,8 @@ def build_from_github(
         return None
     owner, name = repo_full_name.split("/", 1)
     slug = slugify(name)
+    if adapter_unavailable(adapter_ref):
+        runnable, adapter_ref = False, None
     if not runnable:
         auto_runnable, auto_adapter = detect_mcp_runnability(meta["topics"])
         if auto_runnable:
@@ -160,6 +176,8 @@ def build_from_huggingface(
         return None
     owner, name = model_id.split("/", 1) if "/" in model_id else ("huggingface", model_id)
     slug = slugify(name)
+    if adapter_unavailable(adapter_ref):
+        runnable, adapter_ref = False, None
     if not runnable:
         auto_runnable, auto_adapter = detect_mcp_runnability(meta["tags"])
         if auto_runnable:
@@ -227,7 +245,7 @@ def merge_overrides(target: Agent, prior: Agent | None) -> None:
 
     Seeds always pass explicit runnable/adapter_ref values, so they win on tie.
     """
-    if not prior:
+    if not prior or adapter_unavailable(prior.adapter_ref):
         return
     if not target.runnable and prior.runnable:
         target.runnable = True

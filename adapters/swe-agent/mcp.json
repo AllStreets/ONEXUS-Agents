@@ -1,6 +1,8 @@
 {
   "name": "swe-agent",
   "version": "0.1.0",
+  "status": "planned",
+  "status_note": "Not runnable yet: the server this points at (adapters.swe_agent.server) hasn't been written.",
   "agent_slug": "swe-agent",
   "category": "coding",
   "transport": "stdio",

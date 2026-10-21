@@ -41,7 +41,7 @@ const searchPayload = agents.map((a, i) => ({
 <Base
   current="runnable"
   title="Runnable agents — ONEXUS-Agents"
-  description={`${agents.length} open-source agents bridged to ONEXUS via MCP adapters — runnable today.`}
+  description={`${agents.length} open-source agents that speak MCP, so ONEXUS or any MCP client can run them.`}
 >
   <section class="border-b border-[var(--color-border)]">
     <div class="max-w-7xl mx-auto px-6 py-16 lg:py-20">
@@ -58,9 +58,10 @@ const searchPayload = agents.map((a, i) => ({
         </h1>
 
         <p class="text-lg text-[var(--color-fg-dim)] leading-relaxed max-w-2xl mb-8">
-          Every entry on this page ships an MCP adapter we keep in this repo. Point
-          ONEXUS Cortex at the adapter and you can invoke the agent from your shell —
-          no scaffolding, no API key wiring, no protocol translation.
+          Every entry on this page speaks MCP. Almost all of them ship their own MCP
+          server upstream (adapter <code class="font-mono">mcp/stdio</code>): install the
+          project as its README says and any MCP client can start it. A few use an adapter
+          kept in this repo, and those run in a locked-down container with no network.
         </p>
 
         <div class="grid grid-cols-3 gap-6 max-w-lg">

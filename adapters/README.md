@@ -49,9 +49,10 @@ Some agents don't speak MCP yet. For those, write a thin Python wrapper under
 
 The intent is MCP-first; the shim is for the long tail.
 
-Today only `haystack` and `faster-whisper` ship their shim. The other descriptors that point at
-`python -m adapters.<name>.server` describe a server that hasn't been written yet, so they won't
-start until it is.
+Today only `haystack` and `faster-whisper` ship their shim. The other 19 descriptors are marked
+`"status": "planned"` with a `status_note` saying what's missing: for most, the server they point
+at hasn't been written; for `aider`, `aider-mcp` isn't a published package. A planned adapter never
+makes a catalog entry runnable, and `tests/test_adapters.py` keeps it that way through rebuilds.
 
 ## Confinement
 

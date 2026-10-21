@@ -1,6 +1,8 @@
 {
   "name": "open-interpreter",
   "version": "0.1.0",
+  "status": "planned",
+  "status_note": "Not runnable yet: the server this points at (adapters.open_interpreter.server) hasn't been written.",
   "agent_slug": "open-interpreter",
   "category": "desktop-os-automation",
   "transport": "stdio",

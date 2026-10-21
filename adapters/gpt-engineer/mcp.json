@@ -1,6 +1,8 @@
 {
   "name": "gpt-engineer",
   "version": "0.1.0",
+  "status": "planned",
+  "status_note": "Not runnable yet: the server this points at (adapters.gpt_engineer.server) hasn't been written.",
   "agent_slug": "gpt-engineer",
   "category": "coding",
   "transport": "stdio",
