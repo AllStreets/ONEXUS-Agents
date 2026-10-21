@@ -46,7 +46,7 @@
   "license": "MIT",
   "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check lean-lsp-mcp==0.31.0\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T03:33:27.302267Z",
+    "at": "2026-10-21T15:43:46.903916Z",
     "ok": true,
     "stage": "done",
     "reason": "",
@@ -74,7 +74,7 @@
       "lean_term_goal",
       "lean_verify"
     ],
-    "handshake_ms": 665,
+    "handshake_ms": 707,
     "server_name": "Lean LSP",
     "server_version": "0.31.0"
   }
