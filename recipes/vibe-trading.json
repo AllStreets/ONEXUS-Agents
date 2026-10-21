@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "HKUDS/Vibe-Trading",
-    "commit": "fb1851ae1f88943ad9384d132f722e8f9479a027"
+    "commit": "90819468a50219a936c92df5e3d12c12a56b159e"
   },
   "derived_from": "package-manifest",
   "install": {
     "kind": "pypi",
     "package": "vibe-trading-ai",
-    "version": "0.1.16"
+    "version": "0.1.18"
   },
   "command": [
     "vibe-trading-mcp"
@@ -23,74 +23,75 @@
       "www.sec.gov",
       "chatgpt.com",
       "api.ibkr.com",
+      "datacenter-web.eastmoney.com",
       "data.sec.gov",
+      "web.ifzq.gtimg.cn",
       "opencode.ai",
       "api.dingtalk.com",
-      "datacenter-web.eastmoney.com",
-      "push2.eastmoney.com",
-      "web.ifzq.gtimg.cn"
+      "push2.eastmoney.com"
     ],
     "evidence": {
       "www.okx.com": [
         "backtest/loaders/okx.py:59",
-        "src/preflight.py:162",
+        "src/preflight.py:181",
         "src/skills/candlestick/example_signal_engine.py:551"
       ],
       "www.sec.gov": [
         "backtest/loaders/sec_edgar_client.py:6",
-        "backtest/loaders/sec_edgar_client.py:45",
-        "src/skills/sec-edgar/scripts/sec_filings_example.py:24"
+        "backtest/loaders/sec_edgar_client.py:48",
+        "backtest/loaders/sec_filer_lineage.json:5"
       ],
       "chatgpt.com": [
-        "cli/_legacy.py:5901",
+        "cli/_legacy.py:6065",
         "cli/onboard.py:70",
-        "src/config/env_schema.py:181"
+        "src/config/env_schema.py:185"
       ],
       "api.ibkr.com": [
         "src/config/schema.py:230",
         "src/tools/mcp.py:152",
         "src/tools/mcp.py:153"
       ],
-      "data.sec.gov": [
-        "backtest/loaders/sec_edgar_client.py:8",
-        "backtest/loaders/sec_edgar_client.py:10",
-        "backtest/loaders/sec_edgar_client.py:50"
-      ],
-      "opencode.ai": [
-        "cli/_legacy.py:5731",
-        "cli/onboard.py:79",
-        "src/providers/llm_providers.json:55"
-      ],
-      "api.dingtalk.com": [
-        "src/channels/dingtalk.py:300",
-        "src/channels/dingtalk.py:571",
-        "src/channels/dingtalk.py:580"
-      ],
       "datacenter-web.eastmoney.com": [
         "src/tools/block_trades_tool.py:30",
         "src/tools/dragon_tiger_tool.py:28",
         "src/tools/lockup_expiry_tool.py:29"
       ],
-      "push2.eastmoney.com": [
-        "src/tools/fund_flow_tool.py:31",
-        "src/tools/market_screener_tool.py:30",
-        "src/tools/northbound_tool.py:30"
+      "data.sec.gov": [
+        "backtest/loaders/sec_edgar_client.py:8",
+        "backtest/loaders/sec_edgar_client.py:10",
+        "backtest/loaders/sec_edgar_client.py:53"
       ],
       "web.ifzq.gtimg.cn": [
         "backtest/loaders/tencent_loader.py:7",
         "backtest/loaders/tencent_loader.py:8",
-        "backtest/loaders/tencent_loader.py:28"
+        "backtest/loaders/tencent_loader.py:30"
+      ],
+      "opencode.ai": [
+        "cli/_legacy.py:5895",
+        "cli/onboard.py:79",
+        "src/providers/llm_providers.json:55"
+      ],
+      "api.dingtalk.com": [
+        "src/channels/dingtalk.py:301",
+        "src/channels/dingtalk.py:572",
+        "src/channels/dingtalk.py:581"
+      ],
+      "push2.eastmoney.com": [
+        "src/tools/fund_flow_tool.py:36",
+        "src/tools/market_screener_tool.py:30",
+        "src/tools/northbound_tool.py:30"
       ]
     }
   },
   "license": "MIT",
-  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check vibe-trading-ai==0.1.16\nUSER 65534:65534\n",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check vibe-trading-ai==0.1.18\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T15:43:09.742507Z",
+    "at": "2026-10-21T18:13:47.516289Z",
     "ok": true,
     "stage": "done",
     "reason": "",
     "tools": [
+      "adapt_strategy",
       "add_goal_evidence",
       "alpha_bench",
       "alpha_zoo",
@@ -103,9 +104,12 @@
       "extract_shadow_strategy",
       "factor_analysis",
       "get_block_trades",
+      "get_cn_announcements",
+      "get_cn_macro_series",
       "get_dragon_tiger",
       "get_financial_statements",
       "get_fund_flow",
+      "get_fund_nav",
       "get_fundamentals",
       "get_institutional_holdings",
       "get_lockup_expiry",
@@ -120,6 +124,7 @@
       "get_sec_filings",
       "get_sector_info",
       "get_shareholder_count",
+      "get_southbound_flow",
       "get_stock_news",
       "get_stock_profile",
       "get_strategy_evidence",
@@ -131,6 +136,7 @@
       "list_swarm_presets",
       "load_skill",
       "orderbook_depth",
+      "paper_trade_step",
       "pattern_recognition",
       "prediction_market",
       "quantlib_call",
@@ -140,6 +146,7 @@
       "qveris_search",
       "read_document",
       "read_file",
+      "read_run_artifact",
       "read_url",
       "reap_stale_runs",
       "refresh_strategy_evidence",
@@ -150,6 +157,7 @@
       "run_swarm",
       "scan_shadow_signals",
       "screen_market",
+      "search_broker_reports",
       "search_symbol",
       "sentiment",
       "start_research_goal",
@@ -166,8 +174,8 @@
       "web_search",
       "write_file"
     ],
-    "handshake_ms": 1948,
+    "handshake_ms": 3469,
     "server_name": "Vibe-Trading",
-    "server_version": "0.1.16"
+    "server_version": "0.1.18"
   }
 }

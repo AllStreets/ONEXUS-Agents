@@ -5,19 +5,19 @@
   },
   "a-share-mcp-server": {
     "repo": "firmmaple/a-share-mcp-server",
-    "reason": "launched with `python` from a local copy, not from a registry"
+    "reason": "repository could not be read"
   },
   "a2a-directory": {
     "repo": "sing1ee/a2a-directory",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "a2a-travel-agent-reference": {
     "repo": "shashikanth-gs/a2a-travel-agent-reference",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "aaron-marketing-skills": {
     "repo": "aaron-he-zhu/aaron-marketing-skills",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "accessibility-agents": {
     "repo": "Community-Access/accessibility-agents",
@@ -25,11 +25,11 @@
   },
   "aci": {
     "repo": "aipotheosis-labs/aci",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "adclaw": {
     "repo": "citedy/adclaw",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "adk-go": {
     "repo": "google/adk-go",
@@ -37,11 +37,15 @@
   },
   "advertising-hub": {
     "repo": "itallstartedwithaidea/advertising-hub",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "ag2": {
     "repo": "ag2ai/ag2",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
+  },
+  "agency-orchestrator": {
+    "repo": "jnMetaCode/agency-orchestrator",
+    "reason": "repository could not be read"
   },
   "agent-deck": {
     "repo": "asheshgoplani/agent-deck",
@@ -57,15 +61,15 @@
   },
   "agent-mcp": {
     "repo": "rinadelph/Agent-MCP",
-    "reason": "launched with `uv` from a local copy, not from a registry; pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "agent-network": {
     "repo": "sleep2agi/agent-network",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "agent-news": {
     "repo": "theagenttimes/agent-news",
-    "reason": "server.json lists no packages (remote only); npm package mcp-remote comes from punkpeye/mcp-remote, not this repository"
+    "reason": "repository could not be read"
   },
   "agent-one": {
     "repo": "The-Best-Codes/agent-one",
@@ -73,23 +77,23 @@
   },
   "agent-teams-ai": {
     "repo": "777genius/agent-teams-ai",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "agenta": {
     "repo": "Agenta-AI/agenta",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "agentbeacon": {
     "repo": "adrq/agentbeacon",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "agentfy": {
     "repo": "Agentfy-io/Agentfy",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "agentic-ai": {
     "repo": "mahmoudrabie/agentic-ai",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "agentic-ai-starters": {
     "repo": "cporter202/agentic-ai-starters",
@@ -113,11 +117,11 @@
   },
   "agentrq": {
     "repo": "agentrq/agentrq",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "agentscope": {
     "repo": "agentscope-ai/agentscope",
-    "reason": "pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "agentx": {
     "repo": "agentsdance/agentx",
@@ -129,23 +133,23 @@
   },
   "agor": {
     "repo": "preset-io/agor",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "ai-agent-protocol": {
     "repo": "w3c-cg/ai-agent-protocol",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "ai-agents-from-zero": {
     "repo": "didilili/ai-agents-from-zero",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "ai-berkshire": {
     "repo": "xbtlin/ai-berkshire",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "ai-business-skills": {
     "repo": "minhnv0807/ai-business-skills",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "ai-customer-support-agent": {
     "repo": "victorpreston/ai-customer-support-agent",
@@ -153,7 +157,7 @@
   },
   "ai-employee": {
     "repo": "greeves89/AI-Employee",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "ai-engineering-from-scratch": {
     "repo": "rohitg00/ai-engineering-from-scratch",
@@ -165,7 +169,7 @@
   },
   "ai-helper": {
     "repo": "xiweicheng/ai-helper",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "ai-mcp": {
     "repo": "xgd16/ai-mcp",
@@ -177,7 +181,7 @@
   },
   "ai-powered-literature-review-skills": {
     "repo": "stephenlzc/AI-Powered-Literature-Review-Skills",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "ai-storefront-sanity-context-clerk-demo": {
     "repo": "sonnysangha/ai-storefront-sanity-context-clerk-demo",
@@ -185,7 +189,7 @@
   },
   "ai-surface": {
     "repo": "apisec-inc/AI-Surface",
-    "reason": "launched with `ai-surface` from a local copy, not from a registry"
+    "reason": "repository could not be read"
   },
   "ai-trading-agent": {
     "repo": "DaviddTech/ai-trading-agent",
@@ -193,11 +197,11 @@
   },
   "aihawk": {
     "repo": "feder-cr/AIHawk",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "aihomedesign-mcp": {
     "repo": "AIHomeDesign/aihomedesign-mcp",
-    "reason": "server.json lists no packages (remote only)"
+    "reason": "repository could not be read"
   },
   "alpha-vantage-mcp": {
     "repo": "alphavantage/alpha_vantage_mcp",
@@ -209,15 +213,15 @@
   },
   "ans": {
     "repo": "g-clouds/ANS",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "anthropic-cybersecurity-skills": {
     "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "api": {
     "repo": "vulnersCom/api",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "api-mega-list": {
     "repo": "cporter202/API-mega-list",
@@ -225,7 +229,7 @@
   },
   "appllama-skills": {
     "repo": "Appllama/appllama-skills",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "aqueduct": {
     "repo": "JohnnyQ-commits/Aqueduct",
@@ -257,11 +261,11 @@
   },
   "aso-skills": {
     "repo": "Eronred/aso-skills",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "astron-agent": {
     "repo": "iflytek/astron-agent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "atlas": {
     "repo": "pacifio/atlas",
@@ -269,7 +273,7 @@
   },
   "atlasagent": {
     "repo": "wpfbcr/AtlasAgent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "atman": {
     "repo": "W-Mai/atman",
@@ -281,7 +285,7 @@
   },
   "auto-claude-code-research-in-sleep": {
     "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "autoapplycv": {
     "repo": "tmwclaxton/autoapplycv",
@@ -293,7 +297,7 @@
   },
   "autosearch": {
     "repo": "0xmariowu/Autosearch",
-    "reason": "pyproject.toml has several commands (autosearch, autosearch-mcp)"
+    "reason": "repository could not be read"
   },
   "awesome-ai-agents-cn": {
     "repo": "peterfei/awesome-ai-agents-cn",
@@ -301,7 +305,7 @@
   },
   "awesome-ai-apps": {
     "repo": "Arindam200/awesome-ai-apps",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "awesome-ai-devtools": {
     "repo": "yeaight7/awesome-ai-devtools",
@@ -309,11 +313,11 @@
   },
   "awesome-harness-engineering": {
     "repo": "ai-boost/awesome-harness-engineering",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "awesome-hermes-agent": {
     "repo": "0xNyk/awesome-hermes-agent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "awesome-jev-use-cases": {
     "repo": "walidboulanouar/awesome-jev-use-cases",
@@ -325,11 +329,11 @@
   },
   "awesome-mcp-servers": {
     "repo": "wong2/awesome-mcp-servers",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "awesome-openclaw-agents": {
     "repo": "mergisi/awesome-openclaw-agents",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "awesome-trading-agents": {
     "repo": "LLMQuant/awesome-trading-agents",
@@ -337,7 +341,7 @@
   },
   "azure-ai-travel-agents": {
     "repo": "Azure-Samples/azure-ai-travel-agents",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "azuresupportagent": {
     "repo": "zmustafa/AzureSupportAgent",
@@ -351,17 +355,21 @@
     "repo": "oooscoos/Benzi",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "best-of-agent-harnesses": {
+    "repo": "RyanAlberts/best-of-Agent-Harnesses",
+    "reason": "repository could not be read"
+  },
   "bike4mind": {
     "repo": "Bike4Mind/bike4mind",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
   "bilig": {
     "repo": "proompteng/bilig",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "blatant-why": {
     "repo": "001TMF/blatant-why",
-    "reason": "PyPI package blatant-why is not published"
+    "reason": "repository could not be read"
   },
   "blind-navigation": {
     "repo": "wink-wink-wink555/blind_navigation",
@@ -377,7 +385,7 @@
   },
   "build26-lab520-get-started-with-models-in-microsoft-foundry-to-b": {
     "repo": "microsoft/Build26-LAB520-get-started-with-models-in-microsoft-foundry-to-build-ai-apps",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "cad-cae-copilot": {
     "repo": "armpro24-blip/cad-cae-copilot",
@@ -389,7 +397,7 @@
   },
   "canvas-cowork": {
     "repo": "flowith-ai/canvas-cowork",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "cc-haha": {
     "repo": "NanmiCoder/cc-haha",
@@ -405,7 +413,7 @@
   },
   "chat-gun-react-agent": {
     "repo": "HsienW/chat-gun-react-agent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "chessmata": {
     "repo": "jonradoff/chessmata",
@@ -417,7 +425,7 @@
   },
   "claude-code-analysis": {
     "repo": "thtskaran/claude-code-analysis",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "claude-code-best-practice": {
     "repo": "shanraisshan/claude-code-best-practice",
@@ -433,7 +441,7 @@
   },
   "claude-code-studio": {
     "repo": "arnaldo-delisio/claude-code-studio",
-    "reason": "npm package @modelcontextprotocol/server-sequential-thinking comes from modelcontextprotocol/servers, not this repository"
+    "reason": "repository could not be read"
   },
   "claude-code-system-prompts": {
     "repo": "Piebald-AI/claude-code-system-prompts",
@@ -445,7 +453,7 @@
   },
   "claude-colony": {
     "repo": "MakingJamie/claude-colony",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "claude-for-legal": {
     "repo": "anthropics/claude-for-legal",
@@ -454,6 +462,10 @@
   "claude-howto": {
     "repo": "luongnv89/claude-howto",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "claude-skills-mcp": {
+    "repo": "K-Dense-AI/claude-skills-mcp",
+    "reason": "repository could not be read"
   },
   "cli": {
     "repo": "reporails/cli",
@@ -465,7 +477,7 @@
   },
   "cn-law-hub": {
     "repo": "ZongziForu/cn-law-hub",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "code-assistant": {
     "repo": "stippi/code-assistant",
@@ -473,7 +485,7 @@
   },
   "codebuddy": {
     "repo": "olasunkanmi-SE/codebuddy",
-    "reason": "package.json depends on the MCP SDK but declares no command"
+    "reason": "repository could not be read"
   },
   "codewhale": {
     "repo": "codewhale-hq/Codewhale",
@@ -481,7 +493,7 @@
   },
   "cog": {
     "repo": "the-cog-dev/cog",
-    "reason": "package.json depends on the MCP SDK but declares no command"
+    "reason": "repository could not be read"
   },
   "comfyui-agent-kit": {
     "repo": "SlavaSexton/ComfyUI-Agent-Kit",
@@ -489,7 +501,7 @@
   },
   "comfyui-llm-party": {
     "repo": "heshengtao/comfyui_LLM_party",
-    "reason": "pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "comfyui-mcp-panel": {
     "repo": "artokun/comfyui-mcp-panel",
@@ -497,11 +509,11 @@
   },
   "composio": {
     "repo": "ComposioHQ/composio",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "consolidated-legal-research": {
     "repo": "lowtidebuild/consolidated-legal-research",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "continuity": {
     "repo": "lazypower/continuity",
@@ -509,11 +521,11 @@
   },
   "continuous-claude-v3": {
     "repo": "parcadei/Continuous-Claude-v3",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "cookhero": {
     "repo": "Decade-qiu/CookHero",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "copilot-studio-itsm-agent": {
     "repo": "ninihen1/copilot-studio-itsm-agent",
@@ -521,23 +533,23 @@
   },
   "courtlistener-mcp": {
     "repo": "DefendTheDisabled/courtlistener-mcp",
-    "reason": "launched with `python` from a local copy, not from a registry; pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "cowagent": {
     "repo": "zhayujie/CowAgent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "crawlie": {
     "repo": "spronta/crawlie",
-    "reason": "server.json lists no packages (remote only); launched with `crawlie-mcp` from a local copy, not from a registry"
+    "reason": "repository could not be read"
   },
   "cre-skills-plugin": {
     "repo": "mariourquia/cre-skills-plugin",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "cruxible": {
     "repo": "cruxible-ai/cruxible",
-    "reason": "PyPI package cruxible-core is not published"
+    "reason": "repository could not be read"
   },
   "crypto-market-data-ts": {
     "repo": "nirholas/crypto-market-data-ts",
@@ -557,11 +569,11 @@
   },
   "damn-prototype": {
     "repo": "rahulkhunte/DAMN-prototype",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "danus": {
     "repo": "frenzymath/Danus",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "darknet-mcp-server": {
     "repo": "badchars/darknet-mcp-server",
@@ -581,7 +593,7 @@
   },
   "de-anthropocentric-research-engine": {
     "repo": "yogsoth-ai/de-anthropocentric-research-engine",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "decipher-research-agent": {
     "repo": "mtwn105/decipher-research-agent",
@@ -589,7 +601,7 @@
   },
   "deepgit": {
     "repo": "zamalali/DeepGit",
-    "reason": "launched with `deepgit-mcp` from a local copy, not from a registry; pyproject.toml has several commands (deepgit, deepgit-mcp)"
+    "reason": "repository could not be read"
   },
   "deepseek-reasonix": {
     "repo": "esengine/DeepSeek-Reasonix",
@@ -609,7 +621,7 @@
   },
   "designing-real-world-ai-agents-workshop": {
     "repo": "iusztinpaul/designing-real-world-ai-agents-workshop",
-    "reason": "pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "deskcommcrm": {
     "repo": "melgarafael/DeskcommCRM",
@@ -617,7 +629,7 @@
   },
   "dev-gtm-claude-skills": {
     "repo": "Infrasity-Labs/dev-gtm-claude-skills",
-    "reason": "npm package @klaviyo/mcp-server is not published"
+    "reason": "repository could not be read"
   },
   "dify": {
     "repo": "langgenius/dify",
@@ -637,7 +649,7 @@
   },
   "dunsocial": {
     "repo": "thisuxhq/dunsocial",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "easycode": {
     "repo": "OrionStarAI/EasyCode",
@@ -649,7 +661,7 @@
   },
   "edgecrab": {
     "repo": "raphaelmansuy/edgecrab",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "education-agent-skills": {
     "repo": "GarethManning/education-agent-skills",
@@ -661,15 +673,19 @@
   },
   "eep": {
     "repo": "eep-dev/EEP",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
+  },
+  "egc": {
+    "repo": "Fmarzochi/EGC",
+    "reason": "repository could not be read"
   },
   "elements": {
     "repo": "NVIDIA/elements",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "embabel-agent": {
     "repo": "embabel/embabel-agent",
-    "reason": "npm package mcp-remote comes from punkpeye/mcp-remote, not this repository"
+    "reason": "repository could not be read"
   },
   "ethora": {
     "repo": "dappros/ethora",
@@ -685,7 +701,7 @@
   },
   "evolver": {
     "repo": "EvoMap/evolver",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "excel-analyst-pro-skill-md": {
     "repo": "jeremylongshore/excel-analyst-pro-skill-md",
@@ -697,15 +713,19 @@
   },
   "fast-agent": {
     "repo": "evalstate/fast-agent",
-    "reason": "PyPI package fast-agent-mcp doesn't say which repository it comes from, so it can't be tied to this one"
+    "reason": "repository could not be read"
   },
   "faster-whisper": {
     "repo": "SYSTRAN/faster-whisper",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "fedlex-mcp": {
+    "repo": "malkreide/fedlex-mcp",
+    "reason": "repository could not be read"
+  },
   "fim-one": {
     "repo": "fim-ai/fim-one",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "flutter-skill": {
     "repo": "ai-dashboad/flutter-skill",
@@ -717,11 +737,11 @@
   },
   "flux-3-video-api": {
     "repo": "SamurAIGPT/flux-3-video-api",
-    "reason": "pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "followupboss-mcp-server": {
     "repo": "mindwear-capitian/followupboss-mcp-server",
-    "reason": "server.json has no stdio package from npm, PyPI or a container registry; launched with `node` from a local copy, not from a registry; npm package followupboss-mcp-server is not published"
+    "reason": "repository could not be read"
   },
   "forgecat-agent-profiles": {
     "repo": "nota-america/forgecat-agent-profiles",
@@ -737,7 +757,7 @@
   },
   "fullstack-langgraph-nextjs-agent": {
     "repo": "agentailor/fullstack-langgraph-nextjs-agent",
-    "reason": "package.json is private or unnamed, so it isn't on npm"
+    "reason": "repository could not be read"
   },
   "fuxi": {
     "repo": "fuxicodex/Fuxi",
@@ -753,11 +773,11 @@
   },
   "genai-agents": {
     "repo": "NirDiamant/GenAI_Agents",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "generative-media-skills": {
     "repo": "SamurAIGPT/Generative-Media-Skills",
-    "reason": "launched with `muapi` from a local copy, not from a registry"
+    "reason": "repository could not be read"
   },
   "genomi": {
     "repo": "exon-research/genomi",
@@ -765,11 +785,11 @@
   },
   "genpark-agentic-browser-bot-defense-detector-skill": {
     "repo": "alphaparkinc/genpark-agentic-browser-bot-defense-detector-skill",
-    "reason": "launched with `python` from a local copy, not from a registry"
+    "reason": "repository could not be read"
   },
   "genpark-ai-marketing-agent-campaign-lifecycle-manager-skill": {
     "repo": "alphaparkinc/genpark-ai-marketing-agent-campaign-lifecycle-manager-skill",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "genpark-automated-email-marketing-agent-skill": {
     "repo": "alphaparkinc/genpark-automated-email-marketing-agent-skill",
@@ -781,11 +801,11 @@
   },
   "genpark-multi-channel-conversational-sales-agent-skill": {
     "repo": "alphaparkinc/genpark-multi-channel-conversational-sales-agent-skill",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "genpark-multi-step-web-form-fill-orchestrator-skill": {
     "repo": "Alpha-Park/genpark-multi-step-web-form-fill-orchestrator-skill",
-    "reason": "launched with `python` from a local copy, not from a registry"
+    "reason": "repository could not be read"
   },
   "genpark-personal-agent-tax-bracket-capital-gains-harvesting-skil": {
     "repo": "alphaparkinc/genpark-personal-agent-tax-bracket-capital-gains-harvesting-skill",
@@ -793,7 +813,7 @@
   },
   "genpark-sales-agent": {
     "repo": "alphaparkinc/genpark-sales-agent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "genpark-self-improving-cx-ticket-sentiment-and-resolution-matche": {
     "repo": "Alpha-Park/genpark-self-improving-cx-ticket-sentiment-and-resolution-matcher-skill",
@@ -805,11 +825,15 @@
   },
   "genpark-visual-viewport-element-occlusion-resolver-skill": {
     "repo": "alphaparkinc/genpark-visual-viewport-element-occlusion-resolver-skill",
-    "reason": "launched with `python` from a local copy, not from a registry"
+    "reason": "repository could not be read"
   },
   "gentle-ai": {
     "repo": "Gentleman-Programming/gentle-ai",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "german-legal-mcp": {
+    "repo": "metaneutrons/german-legal-mcp",
+    "reason": "repository could not be read"
   },
   "github-to-mcp": {
     "repo": "nirholas/github-to-mcp",
@@ -817,19 +841,19 @@
   },
   "go-high-level-mcp-2026-complete": {
     "repo": "BusyBee3333/Go-High-Level-MCP-2026-Complete",
-    "reason": "npm package go-high-level-mcp-server is not published"
+    "reason": "repository could not be read"
   },
   "gobii-platform": {
     "repo": "gobii-ai/gobii-platform",
-    "reason": "server.json lists no packages (remote only); pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "goclaw": {
     "repo": "nextlevelbuilder/goclaw",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "google-search": {
     "repo": "web-agent-master/google-search",
-    "reason": "launched with `node` from a local copy, not from a registry; npm package google-search-cli comes from meedamian/google-search-cli, not this repository"
+    "reason": "repository could not be read"
   },
   "gpt-researcher": {
     "repo": "assafelovic/gpt-researcher",
@@ -849,7 +873,7 @@
   },
   "growth-marketing-os": {
     "repo": "growthack88/growth-marketing-os",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "ha-mcp": {
     "repo": "homeassistant-ai/ha-mcp",
@@ -865,19 +889,19 @@
   },
   "harness-sdk": {
     "repo": "strands-agents/harness-sdk",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "haystack": {
     "repo": "deepset-ai/haystack",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "hermes-web-search-plus": {
     "repo": "robbyczgw-cla/hermes-web-search-plus",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "heurist-agent-framework": {
     "repo": "heurist-network/heurist-agent-framework",
-    "reason": "pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "human": {
     "repo": "gethuman-sh/human",
@@ -893,15 +917,15 @@
   },
   "hypha": {
     "repo": "CodeSoul-co/Hypha",
-    "reason": "package.json is private or unnamed, so it isn't on npm"
+    "reason": "repository could not be read"
   },
   "ide-agent-kit": {
     "repo": "ThinkOffApp/ide-agent-kit",
-    "reason": "launched with `node` from a local copy, not from a registry; npm package ide-agent-kit doesn't say which repository it comes from, so it can't be tied to this one"
+    "reason": "repository could not be read"
   },
   "innovation-lab-examples": {
     "repo": "fetchai/innovation-lab-examples",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "integrations-templates": {
     "repo": "explorium-ai/integrations-templates",
@@ -913,7 +937,11 @@
   },
   "intelli": {
     "repo": "intelligentnode/Intelli",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
+  },
+  "irys-stateful-swarms": {
+    "repo": "dl1683/irys-stateful-swarms",
+    "reason": "repository could not be read"
   },
   "iwe": {
     "repo": "iwe-org/iwe",
@@ -921,7 +949,7 @@
   },
   "jarvis-registry": {
     "repo": "ascending-llc/jarvis-registry",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "jcode": {
     "repo": "1jehuang/jcode",
@@ -929,11 +957,11 @@
   },
   "judicex": {
     "repo": "JustVugg/judicex",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "justicelibre": {
     "repo": "Dahliyaal/justicelibre",
-    "reason": "server.json lists no packages (remote only)"
+    "reason": "repository could not be read"
   },
   "k8sgpt": {
     "repo": "k8sgpt-ai/k8sgpt",
@@ -947,9 +975,13 @@
     "repo": "kanna12580/kk-knowledge-agent",
     "reason": "launched with `python` from a local copy, not from a registry"
   },
+  "korean-law-mcp": {
+    "repo": "chrisryugj/korean-law-mcp",
+    "reason": "repository could not be read"
+  },
   "ktx": {
     "repo": "Kaelio/ktx",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "kun": {
     "repo": "KunAgent/Kun",
@@ -957,15 +989,19 @@
   },
   "langgraph-dynamic-mcp-agents": {
     "repo": "braincrew-lab/langgraph-dynamic-mcp-agents",
-    "reason": "launched with `python` from a local copy, not from a registry; pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "langgraph-mcp-agents": {
     "repo": "braincrew-lab/langgraph-mcp-agents",
-    "reason": "pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "lap": {
     "repo": "Lap-Platform/LAP",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "lastsearch": {
+    "repo": "LastSearch-HQ/lastsearch",
+    "reason": "repository could not be read"
   },
   "late-cli": {
     "repo": "mlhher/late-cli",
@@ -973,47 +1009,51 @@
   },
   "law-scrapper-mcp": {
     "repo": "numikel/law-scrapper-mcp",
-    "reason": "launched with `law-scrapper` from a local copy, not from a registry; PyPI package law-scrapper-mcp is not published"
+    "reason": "repository could not be read"
   },
   "law7": {
     "repo": "mikhashev/law7",
-    "reason": "launched with `node` from a local copy, not from a registry; package.json depends on the MCP SDK but declares no command"
+    "reason": "repository could not be read"
   },
   "lawgent": {
     "repo": "WenzhuoXu/lawgent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "laya-browser-agent": {
     "repo": "ChenneyZhuang/laya-browser-agent",
-    "reason": "launched with `localdecide-mcp` from a local copy, not from a registry"
+    "reason": "repository could not be read"
   },
   "leadace": {
     "repo": "aitit-inc/leadace",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "lean-ctx": {
     "repo": "yvgude/lean-ctx",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "lean-lsp-mcp": {
+    "repo": "oOo0oOo/lean-lsp-mcp",
+    "reason": "repository could not be read"
+  },
   "learn-agentic-ai": {
     "repo": "panaversity/learn-agentic-ai",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "legal-agent-orchestrator": {
     "repo": "lowtidebuild/legal-agent-orchestrator",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "legal-case-research": {
     "repo": "silvrblt/legal-case-research",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "legal-skills-open": {
     "repo": "ThomasMoreAI/legal-skills-open",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "lg-travel-agent": {
     "repo": "okahu-demos/lg-travel-agent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "lia-assistant": {
     "repo": "jgouviergmail/LIA-Assistant",
@@ -1021,7 +1061,7 @@
   },
   "librechat": {
     "repo": "LibreChat-AI/LibreChat",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "lightmem": {
     "repo": "zjunlp/LightMem",
@@ -1033,11 +1073,11 @@
   },
   "llm-for-zotero": {
     "repo": "yilewang/llm-for-zotero",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "lobu": {
     "repo": "lobu-ai/lobu",
-    "reason": "server.json lists no packages (remote only)"
+    "reason": "repository could not be read"
   },
   "localai": {
     "repo": "mudler/LocalAI",
@@ -1057,11 +1097,11 @@
   },
   "marketing-cli": {
     "repo": "MoizIbnYousaf/marketing-cli",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "marketing-os-starter": {
     "repo": "ericosiu/marketing-os-starter",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "marm-memory": {
     "repo": "Lyellr88/marm-memory",
@@ -1077,7 +1117,7 @@
   },
   "mcp-ai-agents-template": {
     "repo": "Radulepy/mcp-ai-agents-template",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "mcp-chinese-getting-started-guide": {
     "repo": "liaokongVFX/MCP-Chinese-Getting-Started-Guide",
@@ -1094,6 +1134,10 @@
   "mcp-notify": {
     "repo": "nirholas/mcp-notify",
     "reason": "npm package mcp-notify declares no command"
+  },
+  "mcp-server": {
+    "repo": "automanus-io/mcp-server",
+    "reason": "repository could not be read"
   },
   "mcp-trading-agent": {
     "repo": "EternaHybridExchange/mcp-trading-agent",
@@ -1113,11 +1157,15 @@
   },
   "micro-agent": {
     "repo": "fdueblab/Micro-Agent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "midi-mcp-server": {
     "repo": "tubone24/midi-mcp-server",
-    "reason": "launched with `node` from a local copy, not from a registry; package.json depends on the MCP SDK but declares no command"
+    "reason": "repository could not be read"
+  },
+  "mindbridge-mcp": {
+    "repo": "pinkpixel-dev/mindbridge-mcp",
+    "reason": "repository could not be read"
   },
   "mindos": {
     "repo": "GeminiLight/MindOS",
@@ -1129,7 +1177,7 @@
   },
   "mission-control": {
     "repo": "builderz-labs/mission-control",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "mmcp": {
     "repo": "koki-develop/mmcp",
@@ -1141,15 +1189,15 @@
   },
   "multi-agent-mcp": {
     "repo": "R-Mabasha/Multi-Agent-Mcp",
-    "reason": "launched with `python` from a local copy, not from a registry; PyPI package nexus-mcp comes from j7an/nexus-mcp, not this repository"
+    "reason": "repository could not be read"
   },
   "multi-agent-orchestration": {
     "repo": "Theepankumargandhi/Multi-Agent-Orchestration",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "multi-ai-agents-cloud-native": {
     "repo": "kinfey/Multi-AI-Agents-Cloud-Native",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "musicagentkit": {
     "repo": "sebsto/MusicAgentKit",
@@ -1159,9 +1207,13 @@
     "repo": "gnekt/My-Brain-Is-Full-Crew",
     "reason": "npm package @griches/apple-contacts-mcp comes from griches/apple-mcp, not this repository"
   },
+  "mythos-agent": {
+    "repo": "mythos-agent/mythos-agent",
+    "reason": "repository could not be read"
+  },
   "nanobot": {
     "repo": "HKUDS/nanobot",
-    "reason": "pyproject.toml has several commands (nanobot, nanobot-desktop-tui)"
+    "reason": "repository could not be read"
   },
   "neocarta": {
     "repo": "neo4j-labs/neocarta",
@@ -1169,11 +1221,11 @@
   },
   "network": {
     "repo": "neus/network",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "nexent": {
     "repo": "ModelEngine-Group/nexent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "nextjs-support-agent": {
     "repo": "antflydb/nextjs-support-agent",
@@ -1185,7 +1237,7 @@
   },
   "nftiai": {
     "repo": "Axarb/NFTIAI",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "nimbalyst": {
     "repo": "nimbalyst/nimbalyst",
@@ -1197,7 +1249,7 @@
   },
   "nosia": {
     "repo": "dilolabs/nosia",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "note-gen": {
     "repo": "codexu/note-gen",
@@ -1209,15 +1261,15 @@
   },
   "notfair-plugin": {
     "repo": "nowork-studio/notfair-plugin",
-    "reason": "server.json lists no packages (remote only)"
+    "reason": "repository could not be read"
   },
   "nuclear": {
     "repo": "nukeop/nuclear",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "nuguard": {
     "repo": "NuGuardAI/nuguard",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "obsidian-ai-curator": {
     "repo": "nwant/obsidian-ai-curator",
@@ -1245,7 +1297,7 @@
   },
   "oh-my-hermes-for-legal-researcher": {
     "repo": "charliehotel/oh-my-hermes-for-legal-researcher",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "oh-my-pi": {
     "repo": "can1357/oh-my-pi",
@@ -1253,27 +1305,31 @@
   },
   "one": {
     "repo": "one-ie/one",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "oneringai": {
     "repo": "aantich/oneringai",
-    "reason": "package.json depends on the MCP SDK but declares no command"
+    "reason": "repository could not be read"
   },
   "onshape-mcp": {
     "repo": "hedless/onshape-mcp",
     "reason": "launched with `python` from a local copy, not from a registry; PyPI package onshape-mcp comes from williamsamson/onshape-mcp, not this repository"
   },
+  "open-agreements": {
+    "repo": "open-agreements/open-agreements",
+    "reason": "repository could not be read"
+  },
   "open-aware": {
     "repo": "qodo-ai/open-aware",
-    "reason": "npm package mcp-remote comes from punkpeye/mcp-remote, not this repository"
+    "reason": "repository could not be read"
   },
   "open-multi-agent": {
     "repo": "open-multi-agent/open-multi-agent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "open-multi-agent-canvas": {
     "repo": "CopilotKit/open-multi-agent-canvas",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "open-ontologies": {
     "repo": "fabio-rovai/open-ontologies",
@@ -1281,7 +1337,7 @@
   },
   "open-scholar-peer": {
     "repo": "amirkiarafiei/open-scholar-peer",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "open-sheet": {
     "repo": "lianghsun/open-sheet",
@@ -1295,17 +1351,25 @@
     "repo": "open-webui/open-webui",
     "reason": "PyPI package open-webui doesn't say which repository it comes from, so it can't be tied to this one"
   },
+  "openaaas": {
+    "repo": "Wolido/OpenAaaS",
+    "reason": "repository could not be read"
+  },
   "openalice": {
     "repo": "TraderAlice/OpenAlice",
     "reason": "package.json depends on the MCP SDK but declares no command"
   },
   "openbot": {
     "repo": "CopilotKit/OpenBot",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "opencaselaw": {
     "repo": "jonashertner/opencaselaw",
-    "reason": "server.json lists no packages (remote only); launched with `python3` from a local copy, not from a registry"
+    "reason": "repository could not be read"
+  },
+  "opencode-swarm": {
+    "repo": "ZaxbyHub/opencode-swarm",
+    "reason": "repository could not be read"
   },
   "opencrabs": {
     "repo": "adolfousier/opencrabs",
@@ -1313,19 +1377,19 @@
   },
   "openfang": {
     "repo": "RightNow-AI/openfang",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "opengenerativeui": {
     "repo": "CopilotKit/OpenGenerativeUI",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "openhuman": {
     "repo": "tinyhumansai/openhuman",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "openlegion": {
     "repo": "openlegion-ai/openlegion",
-    "reason": "PyPI package openlegion is not published"
+    "reason": "repository could not be read"
   },
   "openmed-agent": {
     "repo": "openmed-labs/openmed-agent",
@@ -1341,7 +1405,7 @@
   },
   "opensquilla": {
     "repo": "TokenRhythm/opensquilla",
-    "reason": "PyPI package opensquilla doesn't say which repository it comes from, so it can't be tied to this one"
+    "reason": "repository could not be read"
   },
   "openyak": {
     "repo": "openyak/openyak",
@@ -1349,19 +1413,19 @@
   },
   "optillm": {
     "repo": "algorithmicsuperintelligence/optillm",
-    "reason": "npm package @modelcontextprotocol/server-brave-search doesn't say which repository it comes from, so it can't be tied to this one; PyPI package optillm comes from codelion/optillm, not this repository"
+    "reason": "repository could not be read"
   },
   "orallexa-marketing-agent": {
     "repo": "alex-jb/orallexa-marketing-agent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "orkas": {
     "repo": "Orkas-AI/Orkas",
-    "reason": "package.json is private or unnamed, so it isn't on npm"
+    "reason": "repository could not be read"
   },
   "orkas-videostudio": {
     "repo": "Orkas-AI/Orkas-VideoStudio",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "ospec": {
     "repo": "clawplays/ospec",
@@ -1373,15 +1437,19 @@
   },
   "page-agent": {
     "repo": "alibaba/page-agent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "paperclip": {
     "repo": "paperclipai/paperclip",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
+  },
+  "pentestagent": {
+    "repo": "GH05TCREW/pentestagent",
+    "reason": "repository could not be read"
   },
   "pew-pew-plaza-packs": {
     "repo": "appboypov/pew-pew-plaza-packs",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "pi-desktop": {
     "repo": "vastsa/PI-Desktop",
@@ -1389,15 +1457,15 @@
   },
   "pi-fabric": {
     "repo": "fabric-runtime/pi-fabric",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "pipelock": {
     "repo": "pipelab-org/pipelock",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "planr": {
     "repo": "instructa/planr",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "play-fishing-frenzy": {
     "repo": "unchartedgg/play-fishing-frenzy",
@@ -1405,7 +1473,7 @@
   },
   "pocketstrike": {
     "repo": "AbuZar-Ansarii/PocketStrike",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "power-automate-mcp-skills": {
     "repo": "ninihen1/power-automate-mcp-skills",
@@ -1413,15 +1481,19 @@
   },
   "pptagent": {
     "repo": "icip-cas/PPTAgent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "praisonai": {
     "repo": "MervinPraison/PraisonAI",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "private-knowledge-agent": {
     "repo": "Annyfee/private-knowledge-agent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
+  },
+  "proletariat": {
+    "repo": "chrismcdermut/proletariat",
+    "reason": "repository could not be read"
   },
   "prompt-pro": {
     "repo": "timothywarner-org/prompt-pro",
@@ -1429,11 +1501,11 @@
   },
   "psai": {
     "repo": "dfinke/PSAI",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "py-gpt": {
     "repo": "szczyglis-dev/py-gpt",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "python": {
     "repo": "flypythoncom/python",
@@ -1457,7 +1529,7 @@
   },
   "qwen-agent": {
     "repo": "QwenLM/Qwen-Agent",
-    "reason": "PyPI package mcp-server-sqlite doesn't say which repository it comes from, so it can't be tied to this one"
+    "reason": "repository could not be read"
   },
   "qwen-code": {
     "repo": "QwenLM/qwen-code",
@@ -1469,11 +1541,15 @@
   },
   "qz-browser-agent": {
     "repo": "alibaba/qz-browser-agent",
-    "reason": "package.json is private or unnamed, so it isn't on npm"
+    "reason": "repository could not be read"
   },
   "radar": {
     "repo": "skyhook-io/radar",
     "reason": "server.json has no stdio package from npm, PyPI or a container registry"
+  },
+  "rea": {
+    "repo": "morluto/rea",
+    "reason": "repository could not be read"
   },
   "react-agent-hooks": {
     "repo": "chuanqisun/react-agent-hooks",
@@ -1481,15 +1557,15 @@
   },
   "reactive-agents-ts": {
     "repo": "tylerjrbuell/reactive-agents-ts",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "real-estate-mcp": {
     "repo": "tae0y/real-estate-mcp",
-    "reason": "launched with `uv` from a local copy, not from a registry; PyPI package real_estate comes from gutessitore/real-estate-scrapper, not this repository"
+    "reason": "repository could not be read"
   },
   "redamon": {
     "repo": "samugit83/redamon",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "reels-vault": {
     "repo": "Overusedhydra/reels-vault",
@@ -1513,7 +1589,7 @@
   },
   "resonant": {
     "repo": "calesthio/Resonant",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "rf-mcp": {
     "repo": "manykarim/rf-mcp",
@@ -1525,31 +1601,35 @@
   },
   "roborun": {
     "repo": "publu/RoboRun",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "robotframework-agentskills": {
     "repo": "manykarim/robotframework-agentskills",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "rosclaw": {
     "repo": "ros-claw/rosclaw",
-    "reason": "pyproject.toml has several commands (rosclaw, rosclaw-agentd, rosclaw-mcp, rosclaw-mcp-serve, rosclaw-ur5-mcp, rosclawd)"
+    "reason": "repository could not be read"
   },
   "rossum-agents": {
     "repo": "rossumai/rossum-agents",
     "reason": "PyPI package rossum-mcp doesn't say which repository it comes from, so it can't be tied to this one; PyPI package rossum-workspace is not published"
   },
+  "rtfm": {
+    "repo": "roomi-fields/rtfm",
+    "reason": "repository could not be read"
+  },
   "rtrvr-cli": {
     "repo": "rtrvr-ai/rtrvr-cli",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "ruflo": {
     "repo": "ruvnet/ruflo",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "salesagent": {
     "repo": "prebid/salesagent",
-    "reason": "needs an argument only you can fill in: 'Authorization: Bearer YOUR_TOKEN'; pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "sandboxed-sh": {
     "repo": "Th0rgal/sandboxed.sh",
@@ -1561,15 +1641,15 @@
   },
   "saudi-real-estate-ai": {
     "repo": "Samix2026/saudi-real-estate-ai",
-    "reason": "launched with `python3` from a local copy, not from a registry"
+    "reason": "repository could not be read"
   },
   "scienceclaw": {
     "repo": "beita6969/ScienceClaw",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "sciflow": {
     "repo": "badhope/sciflow",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "screenmind": {
     "repo": "ayushh0110/ScreenMind",
@@ -1585,11 +1665,11 @@
   },
   "seedance-2-5-api": {
     "repo": "SamurAIGPT/Seedance-2.5-API",
-    "reason": "pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "seedance-2-api": {
     "repo": "Anil-matcha/Seedance-2-API",
-    "reason": "pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "semantic-seo-writer-ai-agent": {
     "repo": "hasnainkhan8532/Semantic-SEO-Writer-AI-Agent",
@@ -1599,9 +1679,13 @@
     "repo": "semantica-agi/semantica",
     "reason": "launched with `python` from a local copy, not from a registry"
   },
+  "seo": {
+    "repo": "iannuttall/seo",
+    "reason": "repository could not be read"
+  },
   "seo-agent-stack": {
     "repo": "jadedagher/seo-agent-stack",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "seo-skills-ai": {
     "repo": "seoskillsai/seo-skills-ai",
@@ -1609,7 +1693,7 @@
   },
   "sfeed": {
     "repo": "nem035/sfeed",
-    "reason": "launched with `sfeed` from a local copy, not from a registry"
+    "reason": "repository could not be read"
   },
   "skill-seekers": {
     "repo": "yusufkaraaslan/Skill_Seekers",
@@ -1617,15 +1701,15 @@
   },
   "skills-for-architects": {
     "repo": "AlpacaLabsLLC/skills-for-architects",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "skills-travel-planner": {
     "repo": "huanyuzhilv/skills-travel-planner",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "skybridge": {
     "repo": "alpic-ai/skybridge",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "smart-study-agent": {
     "repo": "HumphreySun98/Smart-Study-Agent",
@@ -1633,11 +1717,15 @@
   },
   "social-media-automation-agent": {
     "repo": "zackfounder/social-media-automation-agent",
-    "reason": "package.json is private or unnamed, so it isn't on npm"
+    "reason": "repository could not be read"
   },
   "software-engineer-ai-agent-atlas": {
     "repo": "syahiidkamil/Software-Engineer-AI-Agent-Atlas",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "solace-agent-mesh": {
+    "repo": "SolaceLabs/solace-agent-mesh",
+    "reason": "repository could not be read"
   },
   "solidworks-automation-skill": {
     "repo": "wzyn20051216/solidworks-automation-skill",
@@ -1645,7 +1733,7 @@
   },
   "specification-website": {
     "repo": "jdevalk/specification.website",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "stock-mcp": {
     "repo": "huweihua123/stock-mcp",
@@ -1657,7 +1745,11 @@
   },
   "studio": {
     "repo": "decocms/studio",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
+  },
+  "supercmo-skills": {
+    "repo": "SupercmoHQ/superCMO-skills",
+    "reason": "repository could not be read"
   },
   "superpowers-zh": {
     "repo": "jnMetaCode/superpowers-zh",
@@ -1669,11 +1761,15 @@
   },
   "surfsense": {
     "repo": "MODSetter/SurfSense",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "swarm-ide": {
     "repo": "chmod777john/swarm-ide",
-    "reason": "launched with `python` from a local copy, not from a registry"
+    "reason": "repository could not be read"
+  },
+  "swarmclaw": {
+    "repo": "swarmclawai/swarmclaw",
+    "reason": "repository could not be read"
   },
   "swarmvault": {
     "repo": "swarmclawai/swarmvault",
@@ -1689,7 +1785,7 @@
   },
   "synapse-ai": {
     "repo": "synapseorch-ai/synapse-ai",
-    "reason": "pyproject.toml has several commands (synapse, synapse-ai)"
+    "reason": "repository could not be read"
   },
   "thclaws": {
     "repo": "thClaws/thClaws",
@@ -1697,19 +1793,23 @@
   },
   "tinyfish-cookbook": {
     "repo": "tinyfish-io/tinyfish-cookbook",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "tongyou-travel-agent": {
     "repo": "315462438/tongyou-travel-agent",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "toolrosella": {
     "repo": "DEFENSE-SEU/ToolRosella",
-    "reason": "PyPI package ToolRosella is not published"
+    "reason": "repository could not be read"
   },
   "tools": {
     "repo": "strands-agents/tools",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
+  },
+  "tooluniverse": {
+    "repo": "mims-harvard/ToolUniverse",
+    "reason": "repository could not be read"
   },
   "tradingagents-mcpmode": {
     "repo": "guangxiangdebizi/TradingAgents-MCPmode",
@@ -1717,19 +1817,23 @@
   },
   "travel-mcp-server": {
     "repo": "Spoofkapoof/travel-mcp-server",
-    "reason": "launched with `python` from a local copy, not from a registry; pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "travel-planner": {
     "repo": "tanweiping1012-source/travel-planner",
-    "reason": "launched with `uv` from a local copy, not from a registry"
+    "reason": "repository could not be read"
   },
   "travel-search-ru": {
     "repo": "MissiaL/travel-search-ru",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "trip-planner": {
     "repo": "TianhaoWu66/trip-planner",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
+  },
+  "trvl": {
+    "repo": "MikkoParkkola/trvl",
+    "reason": "repository could not be read"
   },
   "tutti": {
     "repo": "tutti-os/tutti",
@@ -1737,15 +1841,19 @@
   },
   "tw-legal-rag": {
     "repo": "aa0101181514/tw-legal-rag",
-    "reason": "server.json lists no packages (remote only)"
+    "reason": "repository could not be read"
+  },
+  "uk-legal-mcp": {
+    "repo": "paulieb89/uk-legal-mcp",
+    "reason": "repository could not be read"
   },
   "ultrarag": {
     "repo": "OpenBMB/UltraRAG",
-    "reason": "PyPI package ultrarag comes from kumar123ips/ultrarag, not this repository"
+    "reason": "repository could not be read"
   },
   "univa": {
     "repo": "univa-agent/univa",
-    "reason": "launched with `python` from a local copy, not from a registry; pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
   },
   "unrealclaude": {
     "repo": "Natfii/UnrealClaude",
@@ -1757,7 +1865,7 @@
   },
   "upsonic": {
     "repo": "Upsonic/Upsonic",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "ureka": {
     "repo": "Agents4Academia-AI/UReKA",
@@ -1765,27 +1873,35 @@
   },
   "ux-ui-agent-skills": {
     "repo": "plugin87/ux-ui-agent-skills",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "valuecell": {
     "repo": "ValueCell-ai/valuecell",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "vaquill-mcp": {
+    "repo": "Vaquill-AI/vaquill-mcp",
+    "reason": "repository could not be read"
+  },
   "vera": {
     "repo": "ezesubu/VERA",
-    "reason": "launched with `python` from a local copy, not from a registry; PyPI package vera-ue is not published"
+    "reason": "repository could not be read"
   },
   "veritensor": {
     "repo": "arsbr/Veritensor",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
+  },
+  "vibe-check-mcp-server": {
+    "repo": "PV-Bhat/vibe-check-mcp-server",
+    "reason": "repository could not be read"
   },
   "vibe-research": {
     "repo": "simonlin1212/Vibe-Research",
-    "reason": "launched with `node` from a local copy, not from a registry"
+    "reason": "repository could not be read"
   },
   "video-search-and-summarization": {
     "repo": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "voice-mcp-agent": {
     "repo": "h1papc11/voice-mcp-agent",
@@ -1801,27 +1917,35 @@
   },
   "vulcan-os": {
     "repo": "ashishsandhu/Vulcan-OS",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "wan-3-0-api": {
     "repo": "Anil-matcha/Wan-3.0-API",
-    "reason": "pyproject.toml depends on MCP but declares no command"
+    "reason": "repository could not be read"
+  },
+  "wander-agent": {
+    "repo": "VirajMishra1/wander-agent",
+    "reason": "repository could not be read"
   },
   "wasla": {
     "repo": "The-Untitled-Org/wasla",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "web-agent-protocol": {
     "repo": "OTA-Tech-AI/web-agent-protocol",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
+  },
+  "webcontextinterface": {
+    "repo": "amirrezaalasti/webcontextinterface",
+    "reason": "repository could not be read"
   },
   "webmcp-sdk": {
     "repo": "opentiny/webmcp-sdk",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "webqa-agent": {
     "repo": "MigoXLab/webqa-agent",
-    "reason": "launched with `webqa-mcp-server` from a local copy, not from a registry; pyproject.toml has several commands (webqa-agent, webqa-mcp-server)"
+    "reason": "repository could not be read"
   },
   "whatsapp-mcp-extended": {
     "repo": "FelixIsaac/whatsapp-mcp-extended",
@@ -1831,17 +1955,21 @@
     "repo": "gabrielmaialva33/winx-code-agent",
     "reason": "launched with `winx-code-agent` from a local copy, not from a registry"
   },
+  "woocommerce-rest-api-ts-lib": {
+    "repo": "Yuri-Lima/woocommerce-rest-api-ts-lib",
+    "reason": "repository could not be read"
+  },
   "workflowy-cli": {
     "repo": "rodolfo-terriquez/workflowy-cli",
     "reason": "launched with `wf` from a local copy, not from a registry"
   },
   "worldwideview": {
     "repo": "silvertakana/worldwideview",
-    "reason": "package.json is private or unnamed, so it isn't on npm"
+    "reason": "repository could not be read"
   },
   "wrai-th": {
     "repo": "TsukumoHQ/WRAI.TH",
-    "reason": "no server.json, no mcpServers block, no published MCP package"
+    "reason": "repository could not be read"
   },
   "writing-mcp": {
     "repo": "WQMYH/writing-mcp",
@@ -1857,11 +1985,11 @@
   },
   "xiaohongshu-viral-note-agent-skill": {
     "repo": "xuboboo/xiaohongshu-viral-note-agent-skill",
-    "reason": "launched with `python` from a local copy, not from a registry"
+    "reason": "repository could not be read"
   },
   "xpander-ai": {
     "repo": "xpander-ai/xpander.ai",
-    "reason": "needs an argument only you can fill in: 'x-api-key:YOUR_API_KEY'"
+    "reason": "repository could not be read"
   },
   "yao": {
     "repo": "YaoApp/yao",
@@ -1869,7 +1997,7 @@
   },
   "youtube-marketing-skills": {
     "repo": "adityaarsharma/youtube-marketing-skills",
-    "reason": "npm package youtube-channel-mcp is not published; npm package youtube-channel-mcp is not published"
+    "reason": "repository could not be read"
   },
   "yu-ai-agent": {
     "repo": "liyupi/yu-ai-agent",

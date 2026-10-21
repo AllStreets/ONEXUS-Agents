@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "jgravelle/jcodemunch-mcp",
-    "commit": "3c303169133de4ea0f087b2a568d2306d5ddaf17"
+    "commit": "6a7ec7884cfc84275f19b96705c3590f4b0a08ab"
   },
   "derived_from": "server.json",
   "install": {
     "kind": "pypi",
     "package": "jcodemunch-mcp",
-    "version": "1.108.386"
+    "version": "1.108.389"
   },
   "command": [
     "jcodemunch-mcp"
@@ -42,7 +42,7 @@
         "jcodemunch_mcp/storage/token_tracker.py:10"
       ],
       "api.openai.com": [
-        "jcodemunch_mcp/server.py:8989",
+        "jcodemunch_mcp/server.py:9084",
         "jcodemunch_mcp/summarizer/batch_summarize.py:60",
         "jcodemunch_mcp/summarizer/batch_summarize.py:64"
       ],
@@ -55,15 +55,15 @@
         "munch_bench/inference.py:134"
       ],
       "api.minimax.io": [
-        "jcodemunch_mcp/server.py:9010",
+        "jcodemunch_mcp/server.py:9105",
         "jcodemunch_mcp/summarizer/batch_summarize.py:876"
       ],
       "api.z.ai": [
-        "jcodemunch_mcp/server.py:9015",
+        "jcodemunch_mcp/server.py:9110",
         "jcodemunch_mcp/summarizer/batch_summarize.py:887"
       ],
       "openrouter.ai": [
-        "jcodemunch_mcp/server.py:9020",
+        "jcodemunch_mcp/server.py:9115",
         "jcodemunch_mcp/summarizer/batch_summarize.py:898"
       ],
       "api.github.com": [
@@ -77,9 +77,9 @@
     }
   },
   "license": "NOASSERTION",
-  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check jcodemunch-mcp==1.108.386\nUSER 65534:65534\n",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check jcodemunch-mcp==1.108.389\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T03:32:30.574096Z",
+    "at": "2026-10-21T18:13:17.648231Z",
     "ok": true,
     "stage": "done",
     "reason": "",
@@ -91,8 +91,8 @@
       "route",
       "set_tool_tier"
     ],
-    "handshake_ms": 680,
+    "handshake_ms": 1019,
     "server_name": "jcodemunch-mcp",
-    "server_version": "1.108.386"
+    "server_version": "1.108.389"
   }
 }
