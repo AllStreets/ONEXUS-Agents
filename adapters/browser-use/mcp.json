@@ -1,6 +1,8 @@
 {
   "name": "browser-use",
   "version": "0.1.0",
+  "status": "planned",
+  "status_note": "Not runnable yet: the server this points at (adapters.browser_use.server) hasn't been written.",
   "agent_slug": "browser-use",
   "category": "browser-automation",
   "transport": "stdio",

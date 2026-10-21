@@ -1,6 +1,8 @@
 {
   "name": "langgraph",
   "version": "0.1.0",
+  "status": "planned",
+  "status_note": "Not runnable yet: the server this points at (adapters.langgraph.server) hasn't been written.",
   "agent_slug": "langgraph",
   "category": "multi-agent-orchestration",
   "transport": "stdio",

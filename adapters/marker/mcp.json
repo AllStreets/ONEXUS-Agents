@@ -1,6 +1,8 @@
 {
   "name": "marker",
   "version": "0.1.0",
+  "status": "planned",
+  "status_note": "Not runnable yet: the server this points at (adapters.marker.server) hasn't been written.",
   "agent_slug": "marker",
   "category": "document-processing",
   "transport": "stdio",

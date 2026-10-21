@@ -17,6 +17,5 @@ agents:
 
   - source: github
     repo: Aider-AI/aider
-    runnable: true
-    adapter_ref: adapters/aider/mcp.json
+    runnable: false
     notes: "Cross-listed — common SRE workflow for IaC edits."

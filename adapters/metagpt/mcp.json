@@ -1,6 +1,8 @@
 {
   "name": "metagpt",
   "version": "0.1.0",
+  "status": "planned",
+  "status_note": "Not runnable yet: the server this points at (adapters.metagpt.server) hasn't been written.",
   "agent_slug": "metagpt",
   "category": "multi-agent-orchestration",
   "transport": "stdio",

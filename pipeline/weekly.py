@@ -29,7 +29,11 @@ from rich.console import Console
 
 from pipeline.budget import from_env as budget_from_env
 from pipeline.budget import set_budget
-from pipeline.build import apply_mcp_framework_runnability, detect_mcp_runnability
+from pipeline.build import (
+    adapter_unavailable,
+    apply_mcp_framework_runnability,
+    detect_mcp_runnability,
+)
 from pipeline.crawlers import github as gh
 from pipeline.frameworks import detect_frameworks
 from pipeline.schema import Agent
@@ -46,7 +50,7 @@ def _rescan_runnable(client: httpx.Client, agent: Agent) -> tuple[bool, str | No
     """Re-derive runnable+adapter_ref using tags + README. Returns the new pair."""
     # Hand-set seed agents have notes-driven runnable status (adapters/<x>/mcp.json
     # entries). Never demote those — only ever flip false→true.
-    if agent.runnable:
+    if agent.runnable and not adapter_unavailable(agent.adapter_ref):
         return agent.runnable, agent.adapter_ref
 
     readme: str | None = None

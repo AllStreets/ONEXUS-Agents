@@ -2,8 +2,7 @@ category: desktop-os-automation
 agents:
   - source: github
     repo: OpenInterpreter/open-interpreter
-    runnable: true
-    adapter_ref: adapters/open-interpreter/mcp.json
+    runnable: false
     notes: "Cross-listed — runs natural-language commands on the host OS."
 
   - source: github

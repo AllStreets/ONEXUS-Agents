@@ -2,14 +2,12 @@ category: coding
 agents:
   - source: github
     repo: Aider-AI/aider
-    runnable: true
-    adapter_ref: adapters/aider/mcp.json
+    runnable: false
     notes: "Pair-programming AI in your terminal with first-class git awareness."
 
   - source: github
     repo: OpenInterpreter/open-interpreter
-    runnable: true
-    adapter_ref: adapters/open-interpreter/mcp.json
+    runnable: false
     notes: "Natural-language interface to your computer's shell, Python, and files."
 
   - source: github

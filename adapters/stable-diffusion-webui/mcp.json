@@ -1,6 +1,8 @@
 {
   "name": "stable-diffusion-webui",
   "version": "0.1.0",
+  "status": "planned",
+  "status_note": "Not runnable yet: the server this points at (adapters.stable_diffusion_webui.server) hasn't been written.",
   "agent_slug": "stable-diffusion-webui",
   "category": "image-generation",
   "transport": "stdio",
