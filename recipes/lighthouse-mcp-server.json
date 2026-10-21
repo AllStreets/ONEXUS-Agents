@@ -1,0 +1,48 @@
+{
+  "slug": "lighthouse-mcp-server",
+  "recipe_version": 1,
+  "source": {
+    "repo": "danielsogl/lighthouse-mcp-server",
+    "commit": "c0672bc51004df7c56a736d73cc1cd44a1f77743"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "@danielsogl/lighthouse-mcp",
+    "version": "2.0.1"
+  },
+  "command": [
+    "lighthouse-mcp-server"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nRUN npm install -g --omit=dev --no-fund --no-audit @danielsogl/lighthouse-mcp@2.0.1 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:03:34.424671Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "analyze_resources",
+      "check_performance_budget",
+      "compare_mobile_desktop",
+      "find_unused_javascript",
+      "get_accessibility_score",
+      "get_core_web_vitals",
+      "get_lcp_opportunities",
+      "get_performance_score",
+      "get_security_audit",
+      "get_seo_analysis",
+      "run_audit"
+    ],
+    "handshake_ms": 1028,
+    "server_name": "Lighthouse",
+    "server_version": "2.0.1"
+  }
+}

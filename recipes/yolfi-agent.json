@@ -1,0 +1,93 @@
+{
+  "slug": "yolfi-agent",
+  "recipe_version": 1,
+  "source": {
+    "repo": "yolfinance/yolfi-agent",
+    "commit": "9a437541b5e24375d0f26d1e104ff9a12b17c566"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "npm",
+    "package": "@yolfi/agent",
+    "version": "0.2.0"
+  },
+  "command": [
+    "yolfi"
+  ],
+  "args": [
+    "mcp"
+  ],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "YOLFI_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Optional. Explicit environment credentials take precedence over the protected credential stored by yolfi setup/checkin. Private API tools require one of these credentials."
+    },
+    {
+      "name": "YOLFI_WEBHOOK_SECRET",
+      "required": false,
+      "secret": true,
+      "description": "Optional override for webhook verification in CI or deployed environments. Local create/rotate tools otherwise use endpoint-specific secrets from the protected Yolfi config."
+    }
+  ],
+  "hosts": {
+    "proposed": [
+      "yolfi.com",
+      "app.yolfi.com",
+      "pay.yolfi.com",
+      "glama.ai"
+    ],
+    "evidence": {
+      "yolfi.com": [
+        "codex-plugin/plugin.json:7",
+        "codex-plugin/plugin.json:9",
+        "codex-plugin/plugin.json:28"
+      ],
+      "app.yolfi.com": [
+        "src/client.js:5",
+        "server.json:14",
+        "server.json:22"
+      ],
+      "pay.yolfi.com": [
+        "src/client.js:6"
+      ],
+      "glama.ai": [
+        "glama.json:2"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit @yolfi/agent@0.2.0 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:01:41.935496Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "yolfi_agent_checkin",
+      "yolfi_agent_register",
+      "yolfi_agent_setup_start",
+      "yolfi_auth_status",
+      "yolfi_organization_get",
+      "yolfi_organization_update",
+      "yolfi_paylinks_create",
+      "yolfi_paylinks_disable",
+      "yolfi_paylinks_get",
+      "yolfi_paylinks_list",
+      "yolfi_payments_create",
+      "yolfi_payments_status",
+      "yolfi_settlement_configure",
+      "yolfi_webhooks_configure",
+      "yolfi_webhooks_delete",
+      "yolfi_webhooks_list",
+      "yolfi_webhooks_rotate_secret",
+      "yolfi_webhooks_update",
+      "yolfi_webhooks_verify"
+    ],
+    "handshake_ms": 385,
+    "server_name": "yolfi-agent-kit",
+    "server_version": "0.2.0"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "uk-legal-mcp",
+  "recipe_version": 1,
+  "source": {
+    "repo": "paulieb89/uk-legal-mcp",
+    "commit": "8821bf412540ebb3638a68d7cc03ff781e42e2d6"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "uk-legal-mcp",
+    "version": "0.7.1"
+  },
+  "command": [
+    "uk-legal-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "caselaw.nationalarchives.gov.uk",
+      "www.gov.uk",
+      "www.legislation.gov.uk",
+      "bills.parliament.uk",
+      "a9.com",
+      "committees.parliament.uk",
+      "hansard-api.parliament.uk",
+      "members-api.parliament.uk",
+      "petition.parliament.uk",
+      "hansard.parliament.uk"
+    ],
+    "evidence": {
+      "caselaw.nationalarchives.gov.uk": [
+        "src/modules/case_law/parsers.py:23",
+        "src/modules/case_law/resources.py:19",
+        "src/modules/case_law/tools.py:27"
+      ],
+      "www.gov.uk": [
+        "src/modules/hmrc/tools.py:24",
+        "src/modules/hmrc/tools.py:59",
+        "src/modules/hmrc/tools.py:60"
+      ],
+      "www.legislation.gov.uk": [
+        "src/modules/citations/patterns.py:53",
+        "src/modules/legislation/resources.py:26",
+        "src/modules/legislation/tools.py:24"
+      ],
+      "bills.parliament.uk": [
+        "src/modules/bills/tools.py:59",
+        "src/modules/bills/tools.py:135"
+      ],
+      "a9.com": [
+        "src/modules/case_law/tools.py:53",
+        "src/modules/legislation/tools.py:28"
+      ],
+      "committees.parliament.uk": [
+        "src/modules/committees/tools.py:151",
+        "src/modules/committees/tools.py:219"
+      ],
+      "hansard-api.parliament.uk": [
+        "src/modules/parliament/resources.py:40",
+        "src/modules/parliament/tools.py:43"
+      ],
+      "members-api.parliament.uk": [
+        "src/modules/parliament/resources.py:41",
+        "src/modules/parliament/tools.py:45"
+      ],
+      "petition.parliament.uk": [
+        "src/modules/parliament/tools.py:46",
+        "src/modules/parliament/tools.py:914"
+      ],
+      "hansard.parliament.uk": [
+        "src/modules/parliament/tools.py:82",
+        "src/modules/parliament/tools.py:86"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check uk-legal-mcp==0.7.1\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:00:46.808826Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "bills_get_bill",
+      "bills_search_bills",
+      "case_law_grep_judgment",
+      "case_law_search",
+      "citations_format_oscola",
+      "citations_network",
+      "citations_parse",
+      "citations_resolve",
+      "committees_get_committee",
+      "committees_search_committees",
+      "committees_search_evidence",
+      "get_prompt",
+      "hmrc_check_mtd_status",
+      "hmrc_get_vat_rate",
+      "hmrc_search_guidance",
+      "judgment_get_header",
+      "judgment_get_index",
+      "judgment_get_paragraph",
+      "legislation_get_section",
+      "legislation_get_toc",
+      "legislation_search",
+      "list_prompts",
+      "list_resources",
+      "parliament_find_member",
+      "parliament_get_debate_contributions",
+      "parliament_get_debate_divisions",
+      "parliament_lookup_by_column",
+      "parliament_member_debates",
+      "parliament_member_interests",
+      "parliament_policy_position_summary",
+      "parliament_search_hansard",
+      "parliament_search_petitions",
+      "read_resource",
+      "votes_get_division",
+      "votes_search_divisions"
+    ],
+    "handshake_ms": 1392,
+    "server_name": "uk-legal-mcp",
+    "server_version": "0.7.1"
+  }
+}

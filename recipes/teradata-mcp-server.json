@@ -1,0 +1,102 @@
+{
+  "slug": "teradata-mcp-server",
+  "recipe_version": 1,
+  "source": {
+    "repo": "Teradata/teradata-mcp-server",
+    "commit": "3d08f8aa0744e113316f24e8821171ca8def4a5c"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "pypi",
+    "package": "teradata-mcp-server",
+    "version": "0.2.8"
+  },
+  "command": [
+    "teradata-mcp-server"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "DATABASE_URI",
+      "required": true,
+      "secret": false,
+      "description": ""
+    }
+  ],
+  "hosts": {
+    "proposed": [
+      "api.openai.com",
+      "private-td-url.com"
+    ],
+    "evidence": {
+      "api.openai.com": [
+        "teradata_mcp_server/config/chat_config.yml:7",
+        "teradata_mcp_server/tools/chat/chat_tools.py:154"
+      ],
+      "private-td-url.com": [
+        "teradata_mcp_server/tools/tdvs/constants.py:18"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check teradata-mcp-server==0.2.8\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:58:03.141760Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "base_columnDescription",
+      "base_columnMetadata",
+      "base_databaseList",
+      "base_readQuery",
+      "base_saveDDL",
+      "base_tableAffinity",
+      "base_tableDDL",
+      "base_tableList",
+      "base_tablePreview",
+      "base_tableUsage",
+      "dba_databaseSpace",
+      "dba_databaseVersion",
+      "dba_featureUsage",
+      "dba_flowControl",
+      "dba_resusageSummary",
+      "dba_sessionInfo",
+      "dba_systemSpace",
+      "dba_tableSpace",
+      "dba_tableSqlList",
+      "dba_tableUsageImpact",
+      "dba_userDelay",
+      "dba_userSqlList",
+      "graph_analyseDatabase",
+      "graph_bfsLevels",
+      "graph_connectedComponents",
+      "graph_detectCycles",
+      "graph_edgeContractDDL",
+      "graph_findRootObjects",
+      "graph_traceLineage",
+      "plot_line_chart",
+      "plot_pie_chart",
+      "plot_polar_chart",
+      "plot_radar_chart",
+      "qlty_columnSummary",
+      "qlty_distinctCategories",
+      "qlty_missingValues",
+      "qlty_negativeValues",
+      "qlty_rowsWithMissingValues",
+      "qlty_standardDeviation",
+      "qlty_univariateStatistics",
+      "rag_Execute_Workflow",
+      "sec_rolePermissions",
+      "sec_userDbPermissions",
+      "sec_userRoles",
+      "sql_Analyze_Cluster_Stats",
+      "sql_Execute_Full_Pipeline",
+      "sql_Retrieve_Cluster_Queries"
+    ],
+    "handshake_ms": 7081,
+    "server_name": "teradata-mcp-server",
+    "server_version": "4.1.3"
+  }
+}

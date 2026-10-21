@@ -41,6 +41,7 @@ onexus-agents-submit = "pipeline.from_submission:main"
 onexus-agents-validate = "pipeline.validator.validate_submission:main"
 onexus-agents-mcp = "pipeline.mcp_server:main"
 onexus-agents-smadp-sync = "pipeline.smadp_sync:main"
+onexus-agents-recipes = "pipeline.recipes.cli:main"
 
 [build-system]
 requires = ["setuptools>=68"]

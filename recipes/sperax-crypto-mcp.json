@@ -1,0 +1,47 @@
+{
+  "slug": "sperax-crypto-mcp",
+  "recipe_version": 1,
+  "source": {
+    "repo": "Sperax/sperax-crypto-mcp",
+    "commit": "9f95d4ade27ba6936fb43b2ddc85206641cac9c3"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "npm",
+    "package": "@nirholas/sperax-mcp",
+    "version": "0.0.1"
+  },
+  "command": [
+    "speraxos"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "RPC_URL",
+      "required": false,
+      "secret": false,
+      "description": "Arbitrum RPC endpoint URL"
+    },
+    {
+      "name": "PRIVATE_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Wallet private key for transactions"
+    }
+  ],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "MIT",
+  "verified": {
+    "at": "2026-10-21T04:26:15.215583Z",
+    "ok": false,
+    "stage": "build",
+    "reason": "#5 3.016 npm error A complete log of this run can be found in: /root/.npm/_logs/2026-10-21T04_26_18_900Z-debug-0.log\n#5 ERROR: process \"/bin/sh -c npm install -g --omit=dev --no-fund --no-audit @nirholas/sperax-mcp@0.0.1 && npm cache clean --force\" did not complete successfully: exit code: 254\n#5 3.015 npm error errno -2\n#5 3.015 npm error enoent An unknown git error occurred\n#5 3.015 npm error enoent This is related to npm not being able to find a file.\n#5 3.015 npm error enoent\n#5 3.016 npm error A complete log of this run can be found in: /root/.npm/_logs/2026-10-21T04_26_18_900Z-debug-0.log\nERROR: failed to solve: process \"/bin/sh -c npm install -g --omit=dev --no-fund --no-audit @nirholas/sperax-mcp@0.0.1 && npm cache clean --force\" did not complete successfully: exit code: 254",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

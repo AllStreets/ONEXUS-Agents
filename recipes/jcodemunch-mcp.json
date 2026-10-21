@@ -1,0 +1,98 @@
+{
+  "slug": "jcodemunch-mcp",
+  "recipe_version": 1,
+  "source": {
+    "repo": "jgravelle/jcodemunch-mcp",
+    "commit": "3c303169133de4ea0f087b2a568d2306d5ddaf17"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "jcodemunch-mcp",
+    "version": "1.108.386"
+  },
+  "command": [
+    "jcodemunch-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "jcodemunch.com",
+      "j.gravelle.us",
+      "api.openai.com",
+      "bford.info",
+      "api.groq.com",
+      "api.minimax.io",
+      "api.z.ai",
+      "openrouter.ai",
+      "api.github.com",
+      "groq.com"
+    ],
+    "evidence": {
+      "jcodemunch.com": [
+        "jcodemunch_mcp/cli/init.py:1307",
+        "jcodemunch_mcp/cli/init.py:1308",
+        "jcodemunch_mcp/cli/install_pack.py:24"
+      ],
+      "j.gravelle.us": [
+        "jcodemunch_mcp/org/license.py:42",
+        "jcodemunch_mcp/org/license.py:44",
+        "jcodemunch_mcp/storage/token_tracker.py:10"
+      ],
+      "api.openai.com": [
+        "jcodemunch_mcp/server.py:8989",
+        "jcodemunch_mcp/summarizer/batch_summarize.py:60",
+        "jcodemunch_mcp/summarizer/batch_summarize.py:64"
+      ],
+      "bford.info": [
+        "jcodemunch_mcp/config.py:2231",
+        "jcodemunch_mcp/security.py:378"
+      ],
+      "api.groq.com": [
+        "jcodemunch_mcp/groq/config.py:12",
+        "munch_bench/inference.py:134"
+      ],
+      "api.minimax.io": [
+        "jcodemunch_mcp/server.py:9010",
+        "jcodemunch_mcp/summarizer/batch_summarize.py:876"
+      ],
+      "api.z.ai": [
+        "jcodemunch_mcp/server.py:9015",
+        "jcodemunch_mcp/summarizer/batch_summarize.py:887"
+      ],
+      "openrouter.ai": [
+        "jcodemunch_mcp/server.py:9020",
+        "jcodemunch_mcp/summarizer/batch_summarize.py:898"
+      ],
+      "api.github.com": [
+        "jcodemunch_mcp/tools/index_repo.py:116",
+        "jcodemunch_mcp/tools/index_repo.py:327"
+      ],
+      "groq.com": [
+        "munch_bench/leaderboard.py:73",
+        "munch_bench/leaderboard.py:175"
+      ]
+    }
+  },
+  "license": "NOASSERTION",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check jcodemunch-mcp==1.108.386\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:32:30.574096Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "announce_model",
+      "jcodemunch_guide",
+      "menu",
+      "order",
+      "route",
+      "set_tool_tier"
+    ],
+    "handshake_ms": 680,
+    "server_name": "jcodemunch-mcp",
+    "server_version": "1.108.386"
+  }
+}

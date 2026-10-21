@@ -1,0 +1,114 @@
+{
+  "slug": "german-legal-mcp",
+  "recipe_version": 1,
+  "source": {
+    "repo": "metaneutrons/german-legal-mcp",
+    "commit": "f89c976d712ac84309c10a61d0da713c683ed289"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "@metaneutrons/german-legal-mcp",
+    "version": "4.0.0"
+  },
+  "command": [
+    "german-legal-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "publications.europa.eu",
+      "eur-lex.europa.eu",
+      "arxiv.org",
+      "www.gesetze-bayern.de",
+      "www.gesetze-im-internet.de",
+      "www.rechtsprechung-im-internet.de",
+      "voris.wolterskluwer-online.de",
+      "infocuriaws.curia.europa.eu",
+      "infocuria.curia.europa.eu",
+      "www.transparenz.bremen.de"
+    ],
+    "evidence": {
+      "publications.europa.eu": [
+        "dist/providers/icu/data-client.js:21",
+        "dist/providers/icu/data-client.js:248",
+        "dist/providers/icu/data-client.js:255"
+      ],
+      "eur-lex.europa.eu": [
+        "dist/providers/icu/data-client.js:22",
+        "dist/providers/icu/data-client.js:282",
+        "dist/providers/icu/data-client.js:455"
+      ],
+      "arxiv.org": [
+        "dist/providers/arxiv/config.js:4",
+        "dist/providers/arxiv/data-client.js:66",
+        "dist/providers/arxiv/client.js:38"
+      ],
+      "www.gesetze-bayern.de": [
+        "dist/providers/legis/adapters/bayern.js:7",
+        "dist/providers/rii/adapters/bayern.js:74",
+        "dist/providers/rii/bayern/client.js:5"
+      ],
+      "www.gesetze-im-internet.de": [
+        "dist/providers/legis/adapters/gii.js:8",
+        "dist/providers/legis/adapters/gii.js:22",
+        "dist/shared/clients/gii.js:8"
+      ],
+      "www.rechtsprechung-im-internet.de": [
+        "dist/providers/rii/adapters/federal.js:11",
+        "dist/providers/rii/adapters/federal.js:21",
+        "dist/providers/rii/adapters/federal.js:23"
+      ],
+      "voris.wolterskluwer-online.de": [
+        "dist/providers/legis/adapters/niedersachsen.js:9",
+        "dist/providers/rii/adapters/niedersachsen.js:7"
+      ],
+      "infocuriaws.curia.europa.eu": [
+        "dist/providers/icu/data-client.js:8",
+        "dist/providers/icu/data-client.js:9"
+      ],
+      "infocuria.curia.europa.eu": [
+        "dist/providers/icu/data-client.js:13",
+        "dist/providers/icu/data-client.js:114"
+      ],
+      "www.transparenz.bremen.de": [
+        "dist/providers/legis/adapters/bremen.js:7"
+      ]
+    }
+  },
+  "license": "GPL-3.0",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit @metaneutrons/german-legal-mcp@4.0.0 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:27:00.381591Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "arxiv_get",
+      "arxiv_search",
+      "dip_get",
+      "dip_search",
+      "dip_search_plenarprotokoll",
+      "dip_search_vorgang",
+      "eul_get_document",
+      "eul_search",
+      "icu_get_document",
+      "icu_search",
+      "legis_get",
+      "legis_search",
+      "legis_states",
+      "legis_toc",
+      "rii_get_decision",
+      "rii_search",
+      "ris_get",
+      "ris_get_norm",
+      "ris_search",
+      "ris_toc"
+    ],
+    "handshake_ms": 515,
+    "server_name": "german-legal-mcp",
+    "server_version": "4.0.0"
+  }
+}

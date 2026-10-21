@@ -1,0 +1,81 @@
+{
+  "slug": "lean-lsp-mcp",
+  "recipe_version": 1,
+  "source": {
+    "repo": "oOo0oOo/lean-lsp-mcp",
+    "commit": "f00f625810d183dbb597a3677d2d5a83b084f761"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "pypi",
+    "package": "lean-lsp-mcp",
+    "version": "0.31.0"
+  },
+  "command": [
+    "lean-lsp-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "loogle.lean-lang.org",
+      "leanpremise.net",
+      "lean-lsp-proxy.leanfinder.workers.dev",
+      "leansearch.net",
+      "microsoft.github.io"
+    ],
+    "evidence": {
+      "loogle.lean-lang.org": [
+        "lean_lsp_mcp/config.py:40"
+      ],
+      "leanpremise.net": [
+        "lean_lsp_mcp/config.py:41"
+      ],
+      "lean-lsp-proxy.leanfinder.workers.dev": [
+        "lean_lsp_mcp/config.py:161"
+      ],
+      "leansearch.net": [
+        "lean_lsp_mcp/tools/search.py:191"
+      ],
+      "microsoft.github.io": [
+        "lean_lsp_mcp/utils.py:468"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check lean-lsp-mcp==0.31.0\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:33:27.302267Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "lean_build",
+      "lean_code_actions",
+      "lean_completions",
+      "lean_declaration_file",
+      "lean_diagnostic_messages",
+      "lean_file_outline",
+      "lean_get_widget_source",
+      "lean_get_widgets",
+      "lean_goal",
+      "lean_hammer_premise",
+      "lean_hover_info",
+      "lean_leanfinder",
+      "lean_leansearch",
+      "lean_local_search",
+      "lean_loogle",
+      "lean_minimal_hypotheses",
+      "lean_multi_attempt",
+      "lean_profile_proof",
+      "lean_references",
+      "lean_run_code",
+      "lean_term_goal",
+      "lean_verify"
+    ],
+    "handshake_ms": 665,
+    "server_name": "Lean LSP",
+    "server_version": "0.31.0"
+  }
+}

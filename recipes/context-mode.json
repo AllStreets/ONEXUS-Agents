@@ -1,0 +1,110 @@
+{
+  "slug": "context-mode",
+  "recipe_version": 1,
+  "source": {
+    "repo": "mksglu/context-mode",
+    "commit": "a1712dbb7af1a579bf3a4c5a98236b4127630b76"
+  },
+  "derived_from": "package-manifest",
+  "install": {
+    "kind": "npm",
+    "package": "context-mode",
+    "version": "1.0.169"
+  },
+  "command": [
+    "context-mode"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "platform.claude.com",
+      "ai.google.dev",
+      "www.alibabacloud.com",
+      "platform.moonshot.ai",
+      "bun.sh",
+      "kiro.dev",
+      "api-docs.deepseek.com",
+      "docs.x.ai",
+      "mistral.ai",
+      "context-mode.com"
+    ],
+    "evidence": {
+      "platform.claude.com": [
+        "build/session/model-prices.json:7",
+        "build/session/model-prices.json:14",
+        "build/session/model-prices.json:21"
+      ],
+      "ai.google.dev": [
+        "build/session/model-prices.json:168",
+        "build/session/model-prices.json:175",
+        "build/session/model-prices.json:182"
+      ],
+      "www.alibabacloud.com": [
+        "build/session/model-prices.json:217",
+        "build/session/model-prices.json:224",
+        "build/session/model-prices.json:231"
+      ],
+      "platform.moonshot.ai": [
+        "build/session/model-prices.json:252",
+        "build/session/model-prices.json:259",
+        "build/session/model-prices.json:266"
+      ],
+      "bun.sh": [
+        "scripts/postinstall.mjs:72",
+        "build/runtime.js:533",
+        "build/cli.js:655"
+      ],
+      "kiro.dev": [
+        "build/adapters/kiro/index.js:16",
+        "build/adapters/kiro/index.js:18",
+        "build/adapters/kiro/hooks.js:12"
+      ],
+      "api-docs.deepseek.com": [
+        "build/session/model-prices.json:287",
+        "build/session/model-prices.json:294",
+        "build/session/model-prices.json:301"
+      ],
+      "docs.x.ai": [
+        "build/session/model-prices.json:329",
+        "build/session/model-prices.json:336",
+        "build/session/model-prices.json:343"
+      ],
+      "mistral.ai": [
+        "build/session/model-prices.json:357",
+        "build/session/model-prices.json:364",
+        "build/session/model-prices.json:371"
+      ],
+      "context-mode.com": [
+        "build/cli.js:1065",
+        "build/server.js:4393",
+        "build/server.js:4404"
+      ]
+    }
+  },
+  "license": "NOASSERTION",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit context-mode@1.0.169 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:24:12.102066Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "ctx_batch_execute",
+      "ctx_doctor",
+      "ctx_execute",
+      "ctx_execute_file",
+      "ctx_fetch_and_index",
+      "ctx_index",
+      "ctx_insight",
+      "ctx_purge",
+      "ctx_search",
+      "ctx_stats",
+      "ctx_upgrade"
+    ],
+    "handshake_ms": 264,
+    "server_name": "context-mode",
+    "server_version": "1.0.169"
+  }
+}

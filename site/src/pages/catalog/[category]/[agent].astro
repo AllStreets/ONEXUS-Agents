@@ -1,7 +1,7 @@
 ---
 import Base from "@/layouts/Base.astro";
 import Icon from "@/components/Icon.astro";
-import { loadAllAgents, agentBySlug, categoryBySlug } from "@/lib/catalog";
+import { loadAllAgents, agentBySlug, categoryBySlug, recipeFor, unresolvedReason } from "@/lib/catalog";
 import { formatStars, relativeDays, formatDate, formatScore, categoryGlyph } from "@/lib/format";
 
 export function getStaticPaths() {
@@ -26,10 +26,19 @@ const benchmark = agent.benchmarks?.[0];
 import fs from "node:fs";
 import path from "node:path";
 const adapterOnDisk = !!agent.adapter_ref && fs.existsSync(path.resolve(process.cwd(), "..", agent.adapter_ref));
-const evidence = adapterOnDisk
+const recipe = recipeFor(agent.slug);
+const verified = recipe?.verified?.ok ? recipe.verified : null;
+const installNote = !verified && agent.runnable
+  ? (recipe?.verified ? `We built it and it failed at ${recipe.verified.stage}: ${(recipe.verified.reason ?? "").split(". ")[0]}.`
+    : recipe ? "A recipe exists and hasn't been verified yet."
+    : unresolvedReason(agent.slug) ? `We couldn't make an install recipe: ${unresolvedReason(agent.slug)}.` : null)
+  : null;
+const evidence = verified
+  ? { grade: "verified", label: "Installs in ONEXUS, verified", detail: `Built from its ${recipe!.install.kind === "oci" ? "published image" : recipe!.install.kind + " package"} and started in a locked-down container with no network on ${formatDate(verified.at)}, where it answered the MCP handshake and offered ${verified.tools.length} tools.` }
+  : adapterOnDisk
   ? { grade: "adapter", label: "Adapter maintained by a person", detail: `ONEXUS calls it through ${agent.adapter_ref}, which a person wrote and keeps working.` }
   : agent.runnable
-    ? { grade: "declared", label: "Declares an MCP server", detail: "Its own topics or manifest say so. We have not run it." }
+    ? { grade: "declared", label: "Declares an MCP server", detail: installNote ?? "Its own topics or manifest say so. We have not run it." }
     : { grade: "metadata", label: "Indexed from public metadata", detail: "Ranked on GitHub or Hugging Face signals. Nothing here was run." };
 const ageDays = agent.metrics.first_commit_at
   ? Math.floor((Date.now() - new Date(agent.metrics.first_commit_at).getTime()) / 86_400_000)
@@ -105,7 +114,7 @@ if (typeof agent.metrics.stars === "number" && agent.metrics.stars > 0) {
         <div class="flex flex-wrap items-center gap-2">
           {agent.runnable && (
             <span class="badge badge-accent">
-              <Icon name="play" size="sm" />{adapterOnDisk ? "runnable via MCP" : "declares MCP"}
+              <Icon name="play" size="sm" />{verified ? "installs in ONEXUS" : adapterOnDisk ? "runnable via MCP" : "declares MCP"}
             </span>
           )}
           {(agent.metrics.frameworks ?? []).map((fw) => (
@@ -118,6 +127,36 @@ if (typeof agent.metrics.stars === "number" && agent.metrics.stars > 0) {
         </div>
       </div>
     </header>
+
+    {verified && recipe && (
+      <section class="panel p-5 mb-10" data-install>
+        <div class="font-mono text-[11px] uppercase tracking-wider text-[var(--color-accent)] mb-3">Install in ONEXUS</div>
+        <p class="text-sm text-[var(--color-fg-dim)] mb-4">
+          {recipe.install.kind === "oci" ? `Image ${recipe.install.image}` : `${recipe.install.kind} package ${recipe.install.package}@${recipe.install.version}`},
+          recipe read from its {recipe.derived_from === "server.json" ? "server.json" : recipe.derived_from === "readme-config" ? "README's MCP config" : "package manifest"}.
+          ONEXUS runs it in a container that sees none of your files and reaches only the hosts you approve.
+        </p>
+        <div class="grid md:grid-cols-3 gap-5 text-sm">
+          <div>
+            <div class="font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)] mb-2">Tools ({verified.tools.length})</div>
+            <ul class="font-mono text-xs text-[var(--color-fg)] space-y-1">{verified.tools.slice(0, 12).map((t) => <li>{t}</li>)}</ul>
+            {verified.tools.length > 12 && <p class="font-mono text-xs text-[var(--color-fg-mute)] mt-1">and {verified.tools.length - 12} more</p>}
+          </div>
+          <div>
+            <div class="font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)] mb-2">Keys it needs</div>
+            {recipe.env.filter((e) => e.required).length
+              ? <ul class="font-mono text-xs text-[var(--color-fg)] space-y-1">{recipe.env.filter((e) => e.required).map((e) => <li>{e.name}</li>)}</ul>
+              : <p class="text-xs text-[var(--color-fg-dim)]">None</p>}
+          </div>
+          <div>
+            <div class="font-mono text-[11px] uppercase tracking-wider text-[var(--color-fg-mute)] mb-2">Hosts it asks for</div>
+            {recipe.hosts.proposed.length
+              ? <ul class="font-mono text-xs text-[var(--color-fg)] space-y-1">{recipe.hosts.proposed.map((h) => <li title={(recipe.hosts.evidence[h] ?? []).join(", ")}>{h}</li>)}</ul>
+              : <p class="text-xs text-[var(--color-fg-dim)]">None found in its code</p>}
+          </div>
+        </div>
+      </section>
+    )}
 
     <section class="grid grid-cols-2 md:grid-cols-4 gap-3 mb-10">
       <div class="panel p-4">

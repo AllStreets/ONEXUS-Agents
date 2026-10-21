@@ -1,0 +1,35 @@
+{
+  "slug": "omniroute",
+  "recipe_version": 1,
+  "source": {
+    "repo": "diegosouzapw/OmniRoute",
+    "commit": "1085d959f8beefb6c0fffc6742c9143b36be8392"
+  },
+  "derived_from": "package-manifest",
+  "install": {
+    "kind": "npm",
+    "package": "omniroute",
+    "version": "3.8.52"
+  },
+  "command": [
+    "omniroute"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit omniroute@3.8.52 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:07:34.040824Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "no answer within 60s. \u001b[33m  ⚠  SECURITY: listening on 0.0.0.0 with NO API-key requirement — the inference plane (/v1/*) is reachable by ANY device that can route to this host, and requests are billed to your configured providers. This local-first default is intentional, but on an untrusted network either set REQUIRE_API_KEY=true or bind loopback with OMNIROUTE_SERVER_HOST=127.0.0.1.\u001b[0m",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

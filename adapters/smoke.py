@@ -23,7 +23,8 @@ def main(name: str, image: str | None = None) -> int:
     image = image or conf["image"]
     argv = [
         "docker", "run", "--rm", "-i", "--network", "none",
-        "--read-only", "--tmpfs", "/tmp:rw,size=64m", "--tmpfs", "/work:rw,size=256m", "-w", "/work",
+        "--read-only", "--tmpfs", "/tmp:rw,size=64m,mode=1777",
+        "--tmpfs", "/work:rw,size=256m,uid=65534,gid=65534", "-w", "/work",
         "--cap-drop", "ALL", "--security-opt", "no-new-privileges", "--user", "65534:65534",
         "--memory", "1g", "--cpus", "1", "--pids-limit", "256", "-e", "HOME=/work",
         image, conf.get("command") or desc["command"], *desc["args"],

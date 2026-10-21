@@ -1,0 +1,84 @@
+{
+  "slug": "fedlex-mcp",
+  "recipe_version": 1,
+  "source": {
+    "repo": "malkreide/fedlex-mcp",
+    "commit": "7996a038623e4824b4e469977202cb962fdee7d6"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "fedlex-mcp",
+    "version": "2.1.0"
+  },
+  "command": [
+    "fedlex-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "fedlex.data.admin.ch",
+      "data.legilux.public.lu",
+      "lindas.admin.ch",
+      "register.ld.admin.ch",
+      "www.fedlex.admin.ch",
+      "www.termdat.bk.admin.ch"
+    ],
+    "evidence": {
+      "fedlex.data.admin.ch": [
+        "fedlex_mcp/consultations.py:67",
+        "fedlex_mcp/consultations.py:260",
+        "fedlex_mcp/consultations.py:261"
+      ],
+      "data.legilux.public.lu": [
+        "fedlex_mcp/consultations.py:270",
+        "fedlex_mcp/server.py:934",
+        "fedlex_mcp/server.py:1087"
+      ],
+      "lindas.admin.ch": [
+        "fedlex_mcp/server.py:17",
+        "fedlex_mcp/server.py:81",
+        "fedlex_mcp/server.py:83"
+      ],
+      "register.ld.admin.ch": [
+        "fedlex_mcp/server.py:86",
+        "fedlex_mcp/server.py:1817",
+        "fedlex_mcp/server.py:2271"
+      ],
+      "www.fedlex.admin.ch": [
+        "fedlex_mcp/consultations.py:251",
+        "fedlex_mcp/server.py:72"
+      ],
+      "www.termdat.bk.admin.ch": [
+        "fedlex_mcp/server.py:1668"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check fedlex-mcp==2.1.0\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:26:15.311693Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "fedlex_get_consultation",
+      "fedlex_get_law_by_sr",
+      "fedlex_get_law_history",
+      "fedlex_get_open_consultations",
+      "fedlex_get_recent_publications",
+      "fedlex_get_upcoming_changes",
+      "fedlex_search_consultations",
+      "fedlex_search_gazette",
+      "fedlex_search_laws",
+      "fedlex_search_treaties",
+      "termdat_get_concept",
+      "termdat_lookup_term"
+    ],
+    "handshake_ms": 886,
+    "server_name": "fedlex_mcp",
+    "server_version": "2.1.0"
+  }
+}

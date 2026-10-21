@@ -1,0 +1,81 @@
+{
+  "slug": "browser-harness",
+  "recipe_version": 1,
+  "source": {
+    "repo": "browser-use/browser-harness",
+    "commit": "c6a941287424f32e2d20c7b7b892c8493f46808d"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "pypi",
+    "package": "browser-harness[mcp]",
+    "version": "0.1.13"
+  },
+  "command": [
+    "browser-harness-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "api.browser-use.com",
+      "browser-use.com",
+      "dl.google.com",
+      "eu.i.posthog.com"
+    ],
+    "evidence": {
+      "api.browser-use.com": [
+        "browser_harness/admin.py:129",
+        "browser_harness/auth.py:29",
+        "browser_harness/daemon.py:114"
+      ],
+      "browser-use.com": [
+        "browser_harness/admin.py:1043",
+        "browser_harness/admin.py:1068"
+      ],
+      "dl.google.com": [
+        "browser_harness/admin.py:510"
+      ],
+      "eu.i.posthog.com": [
+        "browser_harness/telemetry.py:19"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check browser-harness[mcp]==0.1.13\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:20:43.374398Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "browser_cdp",
+      "browser_click",
+      "browser_close_tab",
+      "browser_current_tab",
+      "browser_ensure_real_tab",
+      "browser_fill",
+      "browser_goto",
+      "browser_http_get",
+      "browser_js",
+      "browser_list_tabs",
+      "browser_new_tab",
+      "browser_page_info",
+      "browser_press",
+      "browser_screenshot",
+      "browser_scroll",
+      "browser_start_recording",
+      "browser_stop_recording",
+      "browser_switch_tab",
+      "browser_type",
+      "browser_upload_file",
+      "browser_wait",
+      "browser_wait_for_element",
+      "browser_wait_for_load"
+    ],
+    "handshake_ms": 790,
+    "server_name": "browser-harness",
+    "server_version": ""
+  }
+}

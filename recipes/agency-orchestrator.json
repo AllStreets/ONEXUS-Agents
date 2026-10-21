@@ -1,0 +1,107 @@
+{
+  "slug": "agency-orchestrator",
+  "recipe_version": 1,
+  "source": {
+    "repo": "jnMetaCode/agency-orchestrator",
+    "commit": "adad80ea4f8773bcdde64c8e484937bdc21f2229"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "agency-orchestrator",
+    "version": "0.21.0"
+  },
+  "command": [
+    "agency-orchestrator"
+  ],
+  "args": [
+    "serve"
+  ],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "x.com",
+      "images.meigen.ai",
+      "cms-assets.youmind.com",
+      "prompts.aiolaola.com",
+      "api.lanox.ai",
+      "www.packyapi.ai",
+      "api.modelverse.cn",
+      "router.shengsuanyun.com",
+      "apinebula.ai",
+      "video.twimg.com"
+    ],
+    "evidence": {
+      "x.com": [
+        "website/dist/assets/cat-01-PSEiM9_6.js:1",
+        "website/dist/assets/cat-01-PSEiM9_6.js:1",
+        "website/dist/assets/cat-01-PSEiM9_6.js:1"
+      ],
+      "images.meigen.ai": [
+        "website/dist/assets/cat-01-PSEiM9_6.js:1",
+        "website/dist/assets/cat-01-PSEiM9_6.js:1",
+        "website/dist/assets/cat-01-PSEiM9_6.js:1"
+      ],
+      "cms-assets.youmind.com": [
+        "website/dist/assets/cat-08-CMpk0PcB.js:1",
+        "website/dist/assets/cat-08-CMpk0PcB.js:1",
+        "website/dist/assets/cat-08-CMpk0PcB.js:1"
+      ],
+      "prompts.aiolaola.com": [
+        "website/dist/assets/video-prompts-B7ceITIy.js:1",
+        "website/dist/assets/video-prompts-B7ceITIy.js:1",
+        "website/dist/assets/video-prompts-B7ceITIy.js:1"
+      ],
+      "api.lanox.ai": [
+        "website/dist/providers-manifest.json:62",
+        "website/dist/providers-manifest.json:63",
+        "website/dist/assets/Changelog-vBTRC5so.js:6"
+      ],
+      "www.packyapi.ai": [
+        "website/dist/providers-manifest.json:79",
+        "website/dist/providers-manifest.json:81",
+        "website/dist/providers-manifest.json:82"
+      ],
+      "api.modelverse.cn": [
+        "website/dist/providers-manifest.json:100",
+        "website/dist/providers-manifest.json:101",
+        "website/dist/providers-manifest.json:102"
+      ],
+      "router.shengsuanyun.com": [
+        "website/dist/providers-manifest.json:71",
+        "website/dist/providers-manifest.json:72",
+        "website/dist/providers-manifest.json:73"
+      ],
+      "apinebula.ai": [
+        "website/dist/providers-manifest.json:111",
+        "website/dist/assets/sponsors-D5n8CSyL.js:1",
+        "website/dist/assets/studio-D3rwTWEl.js:10"
+      ],
+      "video.twimg.com": [
+        "website/dist/assets/video-prompts-community-CYIvfulK.js:1",
+        "website/dist/assets/video-prompts-community-CYIvfulK.js:1",
+        "website/dist/assets/video-prompts-community-CYIvfulK.js:1"
+      ]
+    }
+  },
+  "license": "Apache-2.0",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit agency-orchestrator@0.21.0 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:18:44.826970Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "compose_workflow",
+      "list_roles",
+      "list_workflows",
+      "plan_workflow",
+      "run_workflow",
+      "validate_workflow"
+    ],
+    "handshake_ms": 335,
+    "server_name": "agency-orchestrator",
+    "server_version": "0.21.0"
+  }
+}

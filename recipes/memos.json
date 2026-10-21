@@ -1,0 +1,35 @@
+{
+  "slug": "memos",
+  "recipe_version": 1,
+  "source": {
+    "repo": "MemTensor/MemOS",
+    "commit": "a7367d07e55db61099f7b4e2c1108bc5831a24f3"
+  },
+  "derived_from": "package-manifest",
+  "install": {
+    "kind": "pypi",
+    "package": "MemoryOS",
+    "version": "2.0.33"
+  },
+  "command": [
+    "memos"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "Apache-2.0",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check MemoryOS==2.0.33\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:06:50.831042Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "no answer within 60s. None of PyTorch, TensorFlow >= 2.0, or Flax have been found. Models won't be available and only tokenizers, configuration and file/data utilities can be used.",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "quantoracle",
+  "recipe_version": 1,
+  "source": {
+    "repo": "QuantOracledev/quantoracle",
+    "commit": "20b3fe66784e5cdb4563882f614d432fe7fc8513"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "quantoracle-mcp",
+    "version": "2.4.2"
+  },
+  "command": [
+    "quantoracle-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit quantoracle-mcp@2.4.2 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:09:25.989556Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "no answer within 60s. [cause]: Error: getaddrinfo EAI_AGAIN api.quantoracle.dev\n      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26) {\n    errno: -3001,\n    code: 'EAI_AGAIN',\n    syscall: 'getaddrinfo',\n    hostname: 'api.quantoracle.dev'\n  }\n}",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

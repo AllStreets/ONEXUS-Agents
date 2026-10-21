@@ -1,0 +1,74 @@
+{
+  "slug": "claudexor",
+  "recipe_version": 1,
+  "source": {
+    "repo": "razzant/claudexor",
+    "commit": "056c0df9dea7a9056d157ac10059de85d3d544ad"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "npm",
+    "package": "claudexor",
+    "version": "4.4.0"
+  },
+  "command": [
+    "claudexor"
+  ],
+  "args": [
+    "mcp",
+    "serve"
+  ],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "razzant.github.io"
+    ],
+    "evidence": {
+      "razzant.github.io": [
+        "package.json:44"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit claudexor@4.4.0 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:21:34.023957Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "claudexor_account_reset",
+      "claudexor_account_resources",
+      "claudexor_accounts",
+      "claudexor_answer_interaction",
+      "claudexor_apply_check",
+      "claudexor_ask",
+      "claudexor_best_of",
+      "claudexor_capabilities",
+      "claudexor_create",
+      "claudexor_inspect",
+      "claudexor_journal_recovery",
+      "claudexor_plan",
+      "claudexor_quarantine_journal",
+      "claudexor_run",
+      "claudexor_run_cancel",
+      "claudexor_run_continue",
+      "claudexor_run_event_read",
+      "claudexor_run_interactions",
+      "claudexor_run_message",
+      "claudexor_run_result",
+      "claudexor_run_status",
+      "claudexor_run_time_limit",
+      "claudexor_run_wait",
+      "claudexor_runs",
+      "claudexor_status",
+      "claudexor_thread_create",
+      "claudexor_thread_read",
+      "claudexor_thread_turn"
+    ],
+    "handshake_ms": 1000,
+    "server_name": "claudexor",
+    "server_version": "4.4.0"
+  }
+}

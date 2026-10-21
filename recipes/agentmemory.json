@@ -1,0 +1,51 @@
+{
+  "slug": "agentmemory",
+  "recipe_version": 1,
+  "source": {
+    "repo": "rohitg00/agentmemory",
+    "commit": "14dfd6e133c03f482311dd32150696be4b9dbaca"
+  },
+  "derived_from": "readme-config",
+  "install": {
+    "kind": "npm",
+    "package": "@agentmemory/mcp",
+    "version": "0.9.30"
+  },
+  "command": [
+    "agentmemory-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "AGENTMEMORY_URL",
+      "required": true,
+      "secret": false,
+      "description": ""
+    }
+  ],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "Apache-2.0",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit @agentmemory/mcp@0.9.30 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:18:51.499748Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "memory_audit",
+      "memory_export",
+      "memory_governance_delete",
+      "memory_recall",
+      "memory_save",
+      "memory_sessions",
+      "memory_smart_search"
+    ],
+    "handshake_ms": 226,
+    "server_name": "agentmemory",
+    "server_version": "0.9.30"
+  }
+}

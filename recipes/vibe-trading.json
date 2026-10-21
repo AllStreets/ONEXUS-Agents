@@ -1,0 +1,173 @@
+{
+  "slug": "vibe-trading",
+  "recipe_version": 1,
+  "source": {
+    "repo": "HKUDS/Vibe-Trading",
+    "commit": "fb1851ae1f88943ad9384d132f722e8f9479a027"
+  },
+  "derived_from": "package-manifest",
+  "install": {
+    "kind": "pypi",
+    "package": "vibe-trading-ai",
+    "version": "0.1.16"
+  },
+  "command": [
+    "vibe-trading-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "www.okx.com",
+      "www.sec.gov",
+      "chatgpt.com",
+      "api.ibkr.com",
+      "data.sec.gov",
+      "opencode.ai",
+      "api.dingtalk.com",
+      "datacenter-web.eastmoney.com",
+      "push2.eastmoney.com",
+      "web.ifzq.gtimg.cn"
+    ],
+    "evidence": {
+      "www.okx.com": [
+        "backtest/loaders/okx.py:59",
+        "src/preflight.py:162",
+        "src/skills/candlestick/example_signal_engine.py:551"
+      ],
+      "www.sec.gov": [
+        "backtest/loaders/sec_edgar_client.py:6",
+        "backtest/loaders/sec_edgar_client.py:45",
+        "src/skills/sec-edgar/scripts/sec_filings_example.py:24"
+      ],
+      "chatgpt.com": [
+        "cli/_legacy.py:5901",
+        "cli/onboard.py:70",
+        "src/config/env_schema.py:181"
+      ],
+      "api.ibkr.com": [
+        "src/config/schema.py:230",
+        "src/tools/mcp.py:152",
+        "src/tools/mcp.py:153"
+      ],
+      "data.sec.gov": [
+        "backtest/loaders/sec_edgar_client.py:8",
+        "backtest/loaders/sec_edgar_client.py:10",
+        "backtest/loaders/sec_edgar_client.py:50"
+      ],
+      "opencode.ai": [
+        "cli/_legacy.py:5731",
+        "cli/onboard.py:79",
+        "src/providers/llm_providers.json:55"
+      ],
+      "api.dingtalk.com": [
+        "src/channels/dingtalk.py:300",
+        "src/channels/dingtalk.py:571",
+        "src/channels/dingtalk.py:580"
+      ],
+      "datacenter-web.eastmoney.com": [
+        "src/tools/block_trades_tool.py:30",
+        "src/tools/dragon_tiger_tool.py:28",
+        "src/tools/lockup_expiry_tool.py:29"
+      ],
+      "push2.eastmoney.com": [
+        "src/tools/fund_flow_tool.py:31",
+        "src/tools/market_screener_tool.py:30",
+        "src/tools/northbound_tool.py:30"
+      ],
+      "web.ifzq.gtimg.cn": [
+        "backtest/loaders/tencent_loader.py:7",
+        "backtest/loaders/tencent_loader.py:8",
+        "backtest/loaders/tencent_loader.py:28"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check vibe-trading-ai==0.1.16\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:42:00.742335Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "add_goal_evidence",
+      "alpha_bench",
+      "alpha_zoo",
+      "analyze_options",
+      "analyze_options_payoff",
+      "analyze_trade_journal",
+      "backtest",
+      "cashflow_performance",
+      "etf_holdings",
+      "extract_shadow_strategy",
+      "factor_analysis",
+      "get_block_trades",
+      "get_dragon_tiger",
+      "get_financial_statements",
+      "get_fund_flow",
+      "get_fundamentals",
+      "get_institutional_holdings",
+      "get_lockup_expiry",
+      "get_macro_series",
+      "get_margin_trading",
+      "get_market_data",
+      "get_northbound_flow",
+      "get_options_chain",
+      "get_research_goal",
+      "get_research_reports",
+      "get_run_result",
+      "get_sec_filings",
+      "get_sector_info",
+      "get_shareholder_count",
+      "get_stock_news",
+      "get_stock_profile",
+      "get_strategy_evidence",
+      "get_swarm_status",
+      "iwencai_search",
+      "list_runs",
+      "list_skills",
+      "list_strategies",
+      "list_swarm_presets",
+      "load_skill",
+      "orderbook_depth",
+      "pattern_recognition",
+      "prediction_market",
+      "quantlib_call",
+      "query_strategies",
+      "qveris_execute",
+      "qveris_inspect",
+      "qveris_search",
+      "read_document",
+      "read_file",
+      "read_url",
+      "reap_stale_runs",
+      "refresh_strategy_evidence",
+      "render_shadow_report",
+      "research_papers",
+      "retry_run",
+      "run_shadow_backtest",
+      "run_swarm",
+      "scan_shadow_signals",
+      "screen_market",
+      "search_symbol",
+      "sentiment",
+      "start_research_goal",
+      "technical_indicators",
+      "trading_account",
+      "trading_check",
+      "trading_connections",
+      "trading_history",
+      "trading_orders",
+      "trading_positions",
+      "trading_quote",
+      "trading_select_connection",
+      "update_research_goal_status",
+      "web_search",
+      "write_file"
+    ],
+    "handshake_ms": 4905,
+    "server_name": "Vibe-Trading",
+    "server_version": "0.1.16"
+  }
+}

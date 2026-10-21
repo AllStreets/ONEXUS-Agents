@@ -8,6 +8,7 @@ import {
   topAgents,
   categoryCounts,
   runnableAgents,
+  verifiedInstallCount,
 } from "@/lib/catalog";
 
 const cats = loadCategories();
@@ -16,6 +17,7 @@ const top = topAgents(8);
 const counts = categoryCounts();
 const categoriesWithBench = cats.categories.filter((c) => c.benchmark_anchor);
 const runnableCount = runnableAgents().length;
+const verifiedCount = verifiedInstallCount();
 ---
 
 <Base current="">
@@ -37,9 +39,9 @@ const runnableCount = runnableAgents().length;
         <p class="text-lg text-[var(--color-fg-dim)] leading-relaxed max-w-2xl mb-8">
           ONEXUS-Agents indexes GitHub and Hugging Face every night, ranks every candidate against a
           transparent composite of popularity, recency, runnability, framework signals, quality, and real benchmarks.
-          Every kept agent — featured or long tail — gets its own page. Plus the
-          <a href="/runnable" class="text-[var(--color-accent)] hover:underline">{runnableCount} you can run today</a>
-          via MCP.
+          Every kept agent, featured or long tail, gets its own page. Of the {runnableCount} that declare
+          MCP, <a href="/runnable" class="text-[var(--color-accent)] hover:underline">{verifiedCount} are verified to install</a>
+          as confined MCP servers in ONEXUS.
         </p>
 
         <div class="flex flex-wrap items-center gap-3">
@@ -72,8 +74,8 @@ const runnableCount = runnableAgents().length;
             <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">agents</div>
           </div>
           <div>
-            <div class="font-mono text-3xl text-[var(--color-accent)]">{runnableCount}</div>
-            <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">runnable</div>
+            <div class="font-mono text-3xl text-[var(--color-accent)]">{verifiedCount}</div>
+            <div class="font-mono text-xs text-[var(--color-fg-mute)] uppercase tracking-wider mt-1">verified to install</div>
           </div>
           <div>
             <div class="font-mono text-3xl text-[var(--color-fg)]">{cats.categories.length}</div>

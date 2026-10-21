@@ -1,0 +1,102 @@
+{
+  "slug": "browser-use",
+  "recipe_version": 1,
+  "source": {
+    "repo": "browser-use/browser-use",
+    "commit": "aa093a843da5edbf323c0b4145c9b6a0db3ecde8"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "browser-use",
+    "version": "0.13.11"
+  },
+  "command": [
+    "browser-use"
+  ],
+  "args": [
+    "--cli-mcp"
+  ],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "cloud.browser-use.com",
+      "playwright.dev",
+      "clients2.google.com",
+      "browser-use.github.io",
+      "www.google.com",
+      "api.browser-use.com",
+      "chromedevtools.github.io",
+      "api.mistral.ai",
+      "openrouter.ai",
+      "docs.microsoft.com"
+    ],
+    "evidence": {
+      "cloud.browser-use.com": [
+        "browser_use/agent/service.py:1665",
+        "browser_use/agent/service.py:2181",
+        "browser_use/beta/service.py:4737"
+      ],
+      "playwright.dev": [
+        "browser_use/browser/profile.py:353",
+        "browser_use/browser/profile.py:394",
+        "browser_use/browser/profile.py:395"
+      ],
+      "clients2.google.com": [
+        "browser_use/browser/profile.py:1034",
+        "browser_use/browser/profile.py:1039",
+        "browser_use/browser/profile.py:1044"
+      ],
+      "browser-use.github.io": [
+        "browser_use/actor/playground/mixed_automation.py:37",
+        "browser_use/dom/playground/extraction.py:36",
+        "browser_use/dom/playground/extraction.py:39"
+      ],
+      "www.google.com": [
+        "browser_use/actor/playground/flights.py:20",
+        "browser_use/dom/playground/extraction.py:37",
+        "browser_use/dom/playground/extraction.py:41"
+      ],
+      "api.browser-use.com": [
+        "browser_use/browser/cloud/cloud.py:24",
+        "browser_use/config.py:67",
+        "browser_use/config.py:203"
+      ],
+      "chromedevtools.github.io": [
+        "browser_use/dom/views.py:386",
+        "browser_use/dom/views.py:387",
+        "browser_use/dom/views.py:388"
+      ],
+      "api.mistral.ai": [
+        "browser_use/llm/mistral/chat.py:39",
+        "browser_use/llm/models.py:116",
+        "browser_use/llm/models.py:193"
+      ],
+      "openrouter.ai": [
+        "browser_use/llm/openrouter/chat.py:45",
+        "browser_use/tokens/openrouter_pricing.py:18",
+        "browser_use/tokens/service.py:405"
+      ],
+      "docs.microsoft.com": [
+        "browser_use/actor/utils.py:18",
+        "browser_use/actor/utils.py:174"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check browser-use==0.13.11\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:08:55.962024Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "browser_exec",
+      "browser_screenshot"
+    ],
+    "handshake_ms": 861,
+    "server_name": "browser-use",
+    "server_version": "0.13.11"
+  }
+}

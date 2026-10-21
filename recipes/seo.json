@@ -1,0 +1,114 @@
+{
+  "slug": "seo",
+  "recipe_version": 1,
+  "source": {
+    "repo": "iannuttall/seo",
+    "commit": "8f77b4a7a0f80b861296c180736f9ffa31f9dc48"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "npm",
+    "package": "seo",
+    "version": "0.8.3"
+  },
+  "command": [
+    "seo"
+  ],
+  "args": [
+    "mcp",
+    "serve"
+  ],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "api.jquery.com",
+      "seoskill.dev",
+      "www.googleapis.com",
+      "status.search.google.com",
+      "developers.google.com",
+      "dom.spec.whatwg.org",
+      "html.spec.whatwg.org",
+      "analyticsadmin.googleapis.com",
+      "searchconsole.googleapis.com",
+      "oauth2.googleapis.com"
+    ],
+    "evidence": {
+      "api.jquery.com": [
+        "dist/esm-BZhSLbcQ.js:1720",
+        "dist/esm-BZhSLbcQ.js:1751",
+        "dist/esm-BZhSLbcQ.js:2137"
+      ],
+      "seoskill.dev": [
+        "package.json:9",
+        "evals/research.json:31",
+        "dist/index.js:2431"
+      ],
+      "www.googleapis.com": [
+        "dist/index.js:1615",
+        "dist/index.js:3409",
+        "dist/index.js:3409"
+      ],
+      "status.search.google.com": [
+        "dist/index.js:1870",
+        "dist/index.js:21573",
+        "dist/index.js:21710"
+      ],
+      "developers.google.com": [
+        "dist/index.js:5619",
+        "dist/index.js:5620",
+        "dist/index.js:5621"
+      ],
+      "dom.spec.whatwg.org": [
+        "dist/esm-BZhSLbcQ.js:137",
+        "dist/esm-BZhSLbcQ.js:147",
+        "dist/esm-BZhSLbcQ.js:157"
+      ],
+      "html.spec.whatwg.org": [
+        "dist/esm-BZhSLbcQ.js:487",
+        "dist/esm-BZhSLbcQ.js:498",
+        "dist/esm-BZhSLbcQ.js:616"
+      ],
+      "analyticsadmin.googleapis.com": [
+        "dist/index.js:1674",
+        "dist/index.js:1685",
+        "dist/index.js:4481"
+      ],
+      "searchconsole.googleapis.com": [
+        "dist/index.js:1661",
+        "dist/index.js:7972",
+        "dist/dist-B8MTNp_F.js:3"
+      ],
+      "oauth2.googleapis.com": [
+        "dist/index.js:3425",
+        "dist/index.js:3572",
+        "dist/dist-B8MTNp_F.js:19"
+      ]
+    }
+  },
+  "license": "Apache-2.0",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit seo@0.8.3 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:52:29.947904Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "seo_compare",
+      "seo_crawl",
+      "seo_data",
+      "seo_describe_provider",
+      "seo_index",
+      "seo_internal_links",
+      "seo_list_providers",
+      "seo_page",
+      "seo_report",
+      "seo_research",
+      "seo_run_provider",
+      "seo_sites"
+    ],
+    "handshake_ms": 1288,
+    "server_name": "seo",
+    "server_version": "0.8.3"
+  }
+}

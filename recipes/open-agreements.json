@@ -1,0 +1,52 @@
+{
+  "slug": "open-agreements",
+  "recipe_version": 1,
+  "source": {
+    "repo": "open-agreements/open-agreements",
+    "commit": "618e0a3ef5fd79fe13603787fb6c0c21077343be"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "npm",
+    "package": "@open-agreements/contract-templates-mcp",
+    "version": "0.10.2"
+  },
+  "command": [
+    "open-agreements-contract-templates-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "openagreements.org"
+    ],
+    "evidence": {
+      "openagreements.org": [
+        "dist/contract-templates-mcp/src/core/surveys.js:19",
+        "dist/contract-templates-mcp/src/core/tools.js:27"
+      ]
+    }
+  },
+  "license": "Apache-2.0",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit @open-agreements/contract-templates-mcp@0.10.2 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:36:45.249866Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "create_apap_agreement_docx",
+      "fill_template",
+      "get_apap_template",
+      "get_content",
+      "get_forms_survey_evidence",
+      "get_template",
+      "list_content",
+      "list_templates"
+    ],
+    "handshake_ms": 221,
+    "server_name": "open-agreements-contract-templates-mcp",
+    "server_version": "0.2.0"
+  }
+}

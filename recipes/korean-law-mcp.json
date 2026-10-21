@@ -1,0 +1,83 @@
+{
+  "slug": "korean-law-mcp",
+  "recipe_version": 1,
+  "source": {
+    "repo": "chrisryugj/korean-law-mcp",
+    "commit": "0a8f08ef4f697e08047f76bfab8be435f5bdda5a"
+  },
+  "derived_from": "package-manifest",
+  "install": {
+    "kind": "npm",
+    "package": "korean-law-mcp",
+    "version": "4.15.9"
+  },
+  "command": [
+    "korean-law-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "open.law.go.kr",
+      "www.law.go.kr",
+      "taxlaw.nts.go.kr",
+      "glaw.scourt.go.kr",
+      "library.scourt.go.kr",
+      "www.moleg.go.kr",
+      "www.elis.go.kr"
+    ],
+    "evidence": {
+      "open.law.go.kr": [
+        "build/setup.js:230",
+        "build/server/http-server.js:308",
+        "build/server/http-server.js:309"
+      ],
+      "www.law.go.kr": [
+        "build/lib/image-only-body.js:25",
+        "build/lib/fetch-with-retry.js:61",
+        "build/tools/precedents.js:235"
+      ],
+      "taxlaw.nts.go.kr": [
+        "build/tools/precedents.js:266",
+        "build/tools/precedents.js:272",
+        "build/tools/precedents.js:282"
+      ],
+      "glaw.scourt.go.kr": [
+        "build/tools/external-links.js:154"
+      ],
+      "library.scourt.go.kr": [
+        "build/tools/external-links.js:156"
+      ],
+      "www.moleg.go.kr": [
+        "build/tools/external-links.js:166"
+      ],
+      "www.elis.go.kr": [
+        "build/tools/external-links.js:195"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit korean-law-mcp@4.15.9 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:42:00.741631Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "discover_tools",
+      "execute_tool",
+      "get_annexes",
+      "get_decision_text",
+      "get_law_text",
+      "legal_analysis",
+      "legal_research",
+      "ordinance_radar",
+      "search_decisions",
+      "search_law"
+    ],
+    "handshake_ms": 49456,
+    "server_name": "korean-law",
+    "server_version": "4.15.9"
+  }
+}

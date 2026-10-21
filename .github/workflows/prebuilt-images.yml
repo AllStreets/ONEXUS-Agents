@@ -1,0 +1,77 @@
+name: prebuilt-images
+
+# Builds and publishes images for the short list in recipes/prebuilt.txt, so those agents
+# install in ONEXUS as a download instead of a local build. Only verified recipes under a
+# permissive license (MIT, Apache-2.0, BSD, ISC) are built; nothing else is redistributed.
+# Each image is built from the recipe's own recorded Dockerfile for amd64 and arm64, then
+# its digest is written into the recipe's "prebuilt" field through a PR.
+
+on:
+  push:
+    branches: [main]
+    paths: ["recipes/prebuilt.txt"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  packages: write
+  pull-requests: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  prebuilt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v7
+      - uses: docker/setup-qemu-action@99012661954931238ded8c8b007157a8430204e1 # v4.4.0
+      - uses: docker/setup-buildx-action@f87e5991a6d7451dcb8d9637bfbc97413f497069 # v4.4.1
+      - name: Build, publish and record
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "$TOKEN" | docker login ghcr.io -u "${{ github.actor }}" --password-stdin
+          python3 - <<'PY'
+          import json, pathlib, subprocess, sys
+          ok_licenses = {"MIT", "Apache-2.0", "BSD-2-Clause", "BSD-3-Clause", "ISC", "0BSD"}
+          names = [l.strip() for l in pathlib.Path("recipes/prebuilt.txt").read_text().splitlines()
+                   if l.strip() and not l.startswith("#")]
+          failed = []
+          for slug in names:
+              p = pathlib.Path(f"recipes/{slug}.json")
+              r = json.loads(p.read_text())
+              if not (r.get("verified") or {}).get("ok") or not r.get("dockerfile"):
+                  failed.append(f"{slug}: not verified"); continue
+              if r.get("license") not in ok_licenses:
+                  failed.append(f"{slug}: license {r.get('license')} is not on the permissive list"); continue
+              version = (r["install"].get("version") or "x").replace("+", "-")
+              image = f"ghcr.io/allstreets/onexus-mcp-{slug}:{version}"
+              b = subprocess.run(["docker", "buildx", "build", "--platform", "linux/amd64,linux/arm64", "--push",
+                                  "--label", f"org.opencontainers.image.source=https://github.com/{r['source']['repo']}",
+                                  "-t", image, "-"], input=r["dockerfile"], text=True)
+              if b.returncode:
+                  failed.append(f"{slug}: build failed"); continue
+              d = subprocess.run(["docker", "buildx", "imagetools", "inspect", image, "--format", "{{json .Manifest.Digest}}"],
+                                 capture_output=True, text=True, check=True).stdout.strip().strip('"')
+              r["prebuilt"] = {"image": f"{image}@{d}"}
+              p.write_text(json.dumps(r, indent=2) + "\n")
+              print(f"{slug}: {image}@{d}")
+          if failed:
+              print("skipped:\n  " + "\n  ".join(failed))
+          PY
+      - name: Open PR with the digests
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "onexus-agents-bot"
+          git config user.email "bot@agents.onexus.dev"
+          if [ -z "$(git status --porcelain recipes/)" ]; then echo "nothing changed"; exit 0; fi
+          BRANCH="bot/prebuilt-$(date -u +%Y-%m-%d-%H%M)"
+          git checkout -B "$BRANCH"
+          git add recipes/
+          git commit -m "chore(recipes): record prebuilt image digests"
+          git push -u origin "$BRANCH"
+          gh pr create --base main --head "$BRANCH" --title "chore(recipes): record prebuilt image digests" \
+            --body "Images built from each recipe's recorded Dockerfile for amd64 and arm64 and published to GHCR. After merging, set each new package to Public in its GitHub package settings."

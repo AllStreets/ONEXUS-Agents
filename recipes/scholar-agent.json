@@ -1,0 +1,88 @@
+{
+  "slug": "scholar-agent",
+  "recipe_version": 1,
+  "source": {
+    "repo": "zfy465914233/scholar-agent",
+    "commit": "01818c7184303baa407c02411e35e32cbdd75899"
+  },
+  "derived_from": "package-manifest",
+  "install": {
+    "kind": "pypi",
+    "package": "py-scholar-agent",
+    "version": "0.1.0"
+  },
+  "command": [
+    "scholar-agent"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "arxiv.org",
+      "api.openai.com",
+      "api.semanticscholar.org",
+      "api.anthropic.com",
+      "export.arxiv.org",
+      "dblp.org",
+      "doi.org",
+      "api.openalex.org",
+      "opencode.ai"
+    ],
+    "evidence": {
+      "arxiv.org": [
+        "scholar_agent/engine/academic/arxiv_search.py:50",
+        "scholar_agent/engine/academic/daily_workflow.py:473",
+        "scholar_agent/engine/academic/daily_workflow.py:473"
+      ],
+      "api.openai.com": [
+        "scholar_agent/engine/academic/paper_analyzer.py:806",
+        "scholar_agent/engine/academic/paper_analyzer.py:837",
+        "scholar_agent/engine/domain_router.py:400"
+      ],
+      "api.semanticscholar.org": [
+        "scholar_agent/engine/academic/arxiv_search.py:43",
+        "scholar_agent/engine/academic/conf_search.py:63",
+        "scholar_agent/engine/search_providers/self_hosted_provider.py:103"
+      ],
+      "api.anthropic.com": [
+        "scholar_agent/engine/academic/paper_analyzer.py:804",
+        "scholar_agent/engine/academic/paper_analyzer.py:820"
+      ],
+      "export.arxiv.org": [
+        "scholar_agent/engine/academic/arxiv_search.py:290"
+      ],
+      "dblp.org": [
+        "scholar_agent/engine/academic/conf_search.py:67"
+      ],
+      "doi.org": [
+        "scholar_agent/engine/search_providers/arxiv_provider.py:241"
+      ],
+      "api.openalex.org": [
+        "scholar_agent/engine/search_providers/self_hosted_provider.py:73"
+      ],
+      "opencode.ai": [
+        "scholar_agent/installers/opencode.py:22"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check py-scholar-agent==0.1.0\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T03:52:07.580105Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "build_graph",
+      "capture_answer",
+      "ingest_source",
+      "list_knowledge",
+      "query_knowledge",
+      "save_research"
+    ],
+    "handshake_ms": 877,
+    "server_name": "scholar-agent",
+    "server_version": "4.1.3"
+  }
+}

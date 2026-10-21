@@ -1,0 +1,54 @@
+{
+  "slug": "ucai",
+  "recipe_version": 1,
+  "source": {
+    "repo": "nirholas/UCAI",
+    "commit": "c25ecc5f400225464f1cdd0562ca51e5505ed00d"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "pypi",
+    "package": "abi-to-mcp",
+    "version": "0.1.0"
+  },
+  "command": [
+    "abi-to-mcp"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "RPC_URL",
+      "required": true,
+      "secret": false,
+      "description": "Ethereum RPC endpoint URL (e.g., Infura, Alchemy, https://eth.llamarpc.com)"
+    },
+    {
+      "name": "PRIVATE_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Wallet private key for signing transactions (with or without 0x prefix)"
+    },
+    {
+      "name": "ETHERSCAN_API_KEY",
+      "required": false,
+      "secret": true,
+      "description": "Etherscan API key for fetching verified contract ABIs"
+    }
+  ],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "NOASSERTION",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check abi-to-mcp==0.1.0\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-21T04:11:58.922276Z",
+    "ok": false,
+    "stage": "start",
+    "reason": "no answer within 60s.",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}
