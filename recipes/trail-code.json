@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "trailhq/Trail-Code",
-    "commit": "dfcbf4c168a1b0ae7e22a2fb4ed5452872320172"
+    "commit": "b1211efd3eef0efa121b93800e5dd8e547aead77"
   },
   "derived_from": "readme-config",
   "install": {
     "kind": "npm",
     "package": "@trailhq/trail-code",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "command": [
     "trail"
@@ -20,54 +20,18 @@
   "transport": "stdio",
   "env": [],
   "hosts": {
-    "proposed": [
-      "cursor.com",
-      "api.github.com",
-      "events.nanonets.com",
-      "api.orcarouter.ai",
-      "eu.i.posthog.com",
-      "app.trailhq.com",
-      "openrouter.ai"
-    ],
-    "evidence": {
-      "cursor.com": [
-        "dist/hosts/cursor-hooks.js:2",
-        "dist/claude/session-metrics.js:20",
-        "dist/claude/hooks.js:349"
-      ],
-      "api.github.com": [
-        "dist/app/identity.js:47",
-        "dist/app/review.js:109"
-      ],
-      "events.nanonets.com": [
-        "dist/telemetry/key.js:30",
-        "dist/telemetry/key.js:42"
-      ],
-      "api.orcarouter.ai": [
-        "dist/ai/providers.js:2",
-        "dist/ai/llm/orcarouter.js:15"
-      ],
-      "eu.i.posthog.com": [
-        "scripts/stamp-telemetry-key.mjs:40"
-      ],
-      "app.trailhq.com": [
-        "dist/cloud/workspace.js:20"
-      ],
-      "openrouter.ai": [
-        "dist/ai/providers.js:1"
-      ]
-    }
+    "proposed": [],
+    "evidence": {}
   },
   "license": "MIT",
-  "dockerfile": "FROM node:22@sha256:0e5f906573693feaa1e21057ebdcfdb5bd5021f050b2dc7c9deceb629c7da2a8 AS build\nRUN npm install -g --omit=dev --no-fund --no-audit @trailhq/trail-code@0.23.0 && npm cache clean --force\nFROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nCOPY --from=build /usr/local/lib/node_modules /usr/local/lib/node_modules\nCOPY --from=build /usr/local/bin /usr/local/bin\nUSER 65534:65534\n",
+  "dockerfile": "FROM node:22@sha256:0e5f906573693feaa1e21057ebdcfdb5bd5021f050b2dc7c9deceb629c7da2a8 AS build\nRUN npm install -g --omit=dev --no-fund --no-audit @trailhq/trail-code@0.23.1 && npm cache clean --force\nFROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nCOPY --from=build /usr/local/lib/node_modules /usr/local/lib/node_modules\nCOPY --from=build /usr/local/bin /usr/local/bin\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T04:26:21.570870Z",
+    "at": "2026-10-21T18:13:36.670037Z",
     "ok": false,
     "stage": "handshake",
     "reason": "it started and answered, but offers no tools",
     "tools": [],
-    "handshake_ms": 471,
-    "server_name": "trail",
-    "server_version": "0.23.0"
+    "server_name": "",
+    "server_version": ""
   }
 }
