@@ -1,0 +1,57 @@
+{
+  "slug": "quant-trader",
+  "name": "quant-Trader",
+  "tagline": "基于 DeepSeek Agent 的自主交易平台:AI 全程盯盘、分析、决策、下单执行合一,7×24 无人值守。三市场模拟竞技(美股/港股/A股)+ A股实盘(通达信桥)双轨运行;DeepSeek/GLM/Claude/GPT 多模型公平对决;L2 微观因子·分账制·风控网关·交易记忆·Arena 可视化。Docker 一键部署,免费接口初始化数据,个人投资者零门槛开跑;加模型、加市场、改交易思",
+  "category": "financial-modeling",
+  "tags": [
+    "a-share",
+    "ai-trading",
+    "deepseek",
+    "docker",
+    "llm-agents",
+    "quantitative-trading",
+    "trading-bot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "guge199205-byte",
+    "url": "https://github.com/guge199205-byte"
+  },
+  "source": {
+    "primary": "github",
+    "github": "guge199205-byte/quant-Trader",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-08T05:14:09Z",
+    "first_commit_at": "2026-08-30T08:20:34Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3813,
+  "rank_in_category": 100,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-22T18:22:34.852500Z",
+  "last_refreshed_at": "2026-10-22T18:22:34.852504Z",
+  "consecutive_refresh_failures": 0
+}

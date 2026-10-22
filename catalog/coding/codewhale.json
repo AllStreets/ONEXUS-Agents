@@ -1,7 +1,7 @@
 {
   "slug": "codewhale",
   "name": "Codewhale",
-  "tagline": "Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.",
+  "tagline": "Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome",
   "category": "coding",
   "tags": [
     "agent-orchestration",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 41105,
+    "stars": 41108,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-21T15:59:38Z",
+    "last_commit_at": "2026-10-22T16:44:40Z",
     "first_commit_at": "2026-01-20T14:57:35Z",
-    "forks": 3569,
+    "forks": 3567,
     "watchers": 165,
-    "open_issues": 203,
+    "open_issues": 210,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -57,6 +57,6 @@
   "rank_in_category": 12,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:12:39.730750Z",
-  "last_refreshed_at": "2026-10-21T17:55:46.072235Z",
+  "last_refreshed_at": "2026-10-22T17:52:51.859026Z",
   "consecutive_refresh_failures": 0
 }

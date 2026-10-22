@@ -1,29 +1,29 @@
 {
-  "slug": "goal-md",
-  "name": "goal-md",
-  "tagline": "A goal-specification file for autonomous coding agents. Generalizes Karpathy's autoresearch to domains with constructed metrics.",
-  "category": "coding",
+  "slug": "agent-trading-arena",
+  "name": "Agent-Trading-Arena",
+  "tagline": "Agent Trading Arena has been accepted to EMNLP 2025. DecoupledMarket is our follow-up work   accepted to ICML 2026.",
+  "category": "scientific-research",
   "tags": [],
   "author": {
     "type": "user",
-    "handle": "jmilinovich",
-    "url": "https://github.com/jmilinovich"
+    "handle": "MTMQuantAI",
+    "url": "https://github.com/MTMQuantAI"
   },
   "source": {
     "primary": "github",
-    "github": "jmilinovich/goal-md",
+    "github": "MTMQuantAI/Agent-Trading-Arena",
     "huggingface": null,
     "homepage": null
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 165,
+    "stars": 146,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-03T22:09:41Z",
-    "first_commit_at": "2026-03-12T06:17:14Z",
+    "last_commit_at": "2026-06-09T04:34:43Z",
+    "first_commit_at": "2024-12-02T02:37:23Z",
     "forks": 14,
-    "watchers": 0,
-    "open_issues": 0,
+    "watchers": 2,
+    "open_issues": 3,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2,
-  "rank_in_category": 575,
+  "composite_score": 0.4307,
+  "rank_in_category": 89,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:48:21.952416Z",
-  "last_refreshed_at": "2026-10-21T18:03:01.560746Z",
+  "first_seen_at": "2026-10-20T04:36:56.002234Z",
+  "last_refreshed_at": "2026-10-22T18:20:51.293050Z",
   "consecutive_refresh_failures": 0
 }

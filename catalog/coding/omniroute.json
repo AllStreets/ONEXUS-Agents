@@ -16,25 +16,25 @@
     "cursor"
   ],
   "author": {
-    "type": "user",
-    "handle": "diegosouzapw",
-    "url": "https://github.com/diegosouzapw"
+    "type": "org",
+    "handle": "cheaper-inference",
+    "url": "https://github.com/cheaper-inference"
   },
   "source": {
     "primary": "github",
-    "github": "diegosouzapw/OmniRoute",
+    "github": "cheaper-inference/OmniRoute",
     "huggingface": null,
     "homepage": "https://omniroute.online/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 79327,
+    "stars": 79769,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-21T17:51:48Z",
+    "last_commit_at": "2026-10-22T17:48:22Z",
     "first_commit_at": "2026-02-18T03:02:15Z",
-    "forks": 11545,
-    "watchers": 457,
-    "open_issues": 496,
+    "forks": 11609,
+    "watchers": 458,
+    "open_issues": 441,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4967,
+  "composite_score": 0.4968,
   "rank_in_category": 6,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-27T15:48:58.638088Z",
-  "last_refreshed_at": "2026-10-21T18:00:39.681417Z",
+  "first_seen_at": "2026-10-22T17:58:40.066688Z",
+  "last_refreshed_at": "2026-10-22T17:58:40.066692Z",
   "consecutive_refresh_failures": 0
 }

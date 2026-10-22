@@ -1,0 +1,58 @@
+{
+  "slug": "stockstalker-ai",
+  "name": "StockStalker-AI",
+  "tagline": "AI-powered financial news summarizer for traders and investors. Aggregates news from Polygon, Finviz, and TradingView, then generates smart daily summaries using Google Gemini. Built with Flask, fully",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-agents",
+    "ai-summary",
+    "finance",
+    "flask",
+    "google-gemini",
+    "news-aggregator",
+    "open-source",
+    "stock-market"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "NI3singh",
+    "url": "https://github.com/NI3singh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NI3singh/StockStalker-AI",
+    "huggingface": null,
+    "homepage": "https://stockstalker-backend.onrender.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-06-30T12:38:27Z",
+    "first_commit_at": "2025-10-03T05:03:51Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3082,
+  "rank_in_category": 172,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-22T18:22:36.469331Z",
+  "last_refreshed_at": "2026-10-22T18:22:36.469335Z",
+  "consecutive_refresh_failures": 0
+}
