@@ -1,7 +1,7 @@
 {
   "slug": "mangrove-agent",
   "name": "mangrove-agent",
-  "tagline": "Claude agent for use with the Mangrove Developer API & MCP Server.",
+  "tagline": "Local MCP server and Claude Code plugin for AI trading agents: 119 tools for market data, backtesting, paper trading and non-custodial execution on Kraken, Robinhood and 1inch. Free API key or x402 pa",
   "category": "financial-modeling",
   "tags": [
     "agent-marketplace",
@@ -10,10 +10,10 @@
     "automated-trading",
     "backtesting",
     "claude-code",
+    "claude-code-plugin",
+    "codex",
     "crypto-trading",
-    "data-apis",
-    "defi",
-    "dex-trading"
+    "data-apis"
   ],
   "author": {
     "type": "org",
@@ -30,11 +30,11 @@
   "metrics": {
     "stars": 5,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-20T03:28:24Z",
+    "last_commit_at": "2026-10-22T17:57:31Z",
     "first_commit_at": "2026-03-07T07:31:30Z",
     "forks": 1,
     "watchers": 1,
-    "open_issues": 31,
+    "open_issues": 32,
     "archived": false,
     "is_fork": false,
     "is_template": true,
@@ -47,17 +47,16 @@
     "has_ci": null,
     "readme_length": null,
     "frameworks": [
-      "anthropic-sdk",
       "mcp"
     ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3361,
+  "composite_score": 0.3381,
   "rank_in_category": 150,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-30T20:57:19.009810Z",
-  "last_refreshed_at": "2026-10-20T18:09:46.770263Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-10-22T18:18:20.160605Z",
+  "consecutive_refresh_failures": 0
 }
