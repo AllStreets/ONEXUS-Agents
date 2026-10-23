@@ -1,7 +1,7 @@
 {
   "slug": "appwrite",
   "name": "appwrite",
-  "tagline": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+  "tagline": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
   "category": "web-dev",
   "tags": [
     "android",
@@ -10,10 +10,10 @@
     "backend-as-a-service",
     "docker",
     "firebase",
+    "firewall",
     "flutter",
     "hosting",
-    "ios",
-    "javascript"
+    "ios"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "BSD-3-Clause",
   "metrics": {
-    "stars": 57317,
+    "stars": 57758,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-08T16:37:57Z",
+    "last_commit_at": "2026-10-23T17:45:46Z",
     "first_commit_at": "2019-04-08T16:36:26Z",
-    "forks": 5696,
-    "watchers": 423,
-    "open_issues": 975,
+    "forks": 5818,
+    "watchers": 435,
+    "open_issues": 829,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6289,
-  "rank_in_category": 20,
+  "composite_score": 0.6868,
+  "rank_in_category": 5,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-19T13:52:49.740620Z",
-  "last_refreshed_at": "2026-09-08T17:17:00.256766Z",
-  "consecutive_refresh_failures": 4
+  "last_refreshed_at": "2026-10-23T17:56:19.003229Z",
+  "consecutive_refresh_failures": 0
 }
