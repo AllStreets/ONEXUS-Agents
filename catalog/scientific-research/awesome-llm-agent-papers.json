@@ -1,7 +1,7 @@
 {
   "slug": "awesome-llm-agent-papers",
   "name": "awesome-llm-agent-papers",
-  "tagline": "A curated, continuously updated reading list of 500+ papers on LLM agents: planning, memory, tool use, multi-agent, evaluation & safety. Companion to the survey 'LLM Agents: A Survey'.",
+  "tagline": "LLM agents: curated papers on planning, memory, tool use, multi-agent systems, evaluation, and safety.",
   "category": "scientific-research",
   "tags": [
     "agent-benchmark",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 93,
+    "stars": 101,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-18T15:07:29Z",
+    "last_commit_at": "2026-10-20T18:22:11Z",
     "first_commit_at": "2026-07-08T03:35:59Z",
-    "forks": 33,
+    "forks": 34,
     "watchers": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -52,9 +52,9 @@
   "runnable": false,
   "adapter_ref": null,
   "composite_score": 0.0,
-  "rank_in_category": 235,
+  "rank_in_category": 228,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T18:16:09.148767Z",
-  "last_refreshed_at": "2026-10-20T18:16:09.148771Z",
-  "consecutive_refresh_failures": 2
+  "first_seen_at": "2026-10-23T18:12:24.651604Z",
+  "last_refreshed_at": "2026-10-23T18:12:24.651609Z",
+  "consecutive_refresh_failures": 0
 }
