@@ -1,18 +1,18 @@
 {
   "slug": "lumibot",
   "name": "lumibot",
-  "tagline": "AI agents that actually place the trade. 12 brokers, real backtests, stocks options futures forex crypto and prediction markets.",
+  "tagline": "Python trading framework with AI agents that actually place the trade. Backtest, paper and live trade on 12 brokers: stocks, options, futures, forex, crypto and prediction markets.",
   "category": "financial-modeling",
   "tags": [
+    "agentic-trading",
     "ai-agents",
+    "ai-trading",
     "algorithmic-trading",
     "alpaca",
     "backtesting",
-    "broker",
+    "ccxt",
     "crypto-trading",
-    "finance",
     "forex",
-    "fred",
     "futures-trading"
   ],
   "author": {
@@ -28,13 +28,13 @@
   },
   "license": "GPL-3.0",
   "metrics": {
-    "stars": 2156,
+    "stars": 2160,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-23T18:02:17Z",
+    "last_commit_at": "2026-10-24T09:48:52Z",
     "first_commit_at": "2020-09-10T10:35:50Z",
     "forks": 414,
     "watchers": 57,
-    "open_issues": 106,
+    "open_issues": 109,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6049,
+  "composite_score": 0.6044,
   "rank_in_category": 12,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-23T18:06:59.433300Z",
-  "last_refreshed_at": "2026-10-23T18:06:59.433305Z",
+  "first_seen_at": "2026-10-24T16:45:23.181551Z",
+  "last_refreshed_at": "2026-10-24T16:45:23.181555Z",
   "consecutive_refresh_failures": 0
 }

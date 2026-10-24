@@ -1,0 +1,60 @@
+{
+  "slug": "pi-bolt",
+  "name": "Pi-Bolt",
+  "tagline": "⚡ Pi, the coding agent, compiled ahead of time to one native executable. 10× faster to start, 7× less CPU and 4.5× less memory than Pi on Node. Linux, macOS, Windows, ARM64 and Android (Termux).",
+  "category": "coding",
+  "tags": [
+    "ahead-of-time",
+    "ai-agent",
+    "ai-coding-assistant",
+    "android",
+    "arm64",
+    "bun",
+    "cli",
+    "coding-agent",
+    "developer-tools",
+    "linux"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "opensec-git",
+    "url": "https://github.com/opensec-git"
+  },
+  "source": {
+    "primary": "github",
+    "github": "opensec-git/Pi-Bolt",
+    "huggingface": null,
+    "homepage": "https://pi-bolt.opensec.in/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 530,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-24T13:22:32Z",
+    "first_commit_at": "2025-08-09T15:18:38Z",
+    "forks": 23,
+    "watchers": 3,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3412,
+  "rank_in_category": 246,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-24T16:28:15.918510Z",
+  "last_refreshed_at": "2026-10-24T16:28:15.918514Z",
+  "consecutive_refresh_failures": 0
+}
