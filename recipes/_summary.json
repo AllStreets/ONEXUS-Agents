@@ -1,17 +1,17 @@
 {
-  "entries_read": 561,
-  "recipes": 91,
+  "entries_read": 608,
+  "recipes": 96,
   "by_kind": {
-    "npm": 55,
-    "pypi": 34,
-    "oci": 2
+    "npm": 60,
+    "pypi": 33,
+    "oci": 3
   },
-  "verified_installable": 53,
+  "verified_installable": 59,
   "verification_failed": {
-    "start": 34,
+    "start": 32,
     "handshake": 3,
-    "build": 1
+    "build": 2
   },
   "not_verified_yet": 0,
-  "without_recipe": 470
+  "without_recipe": 512
 }

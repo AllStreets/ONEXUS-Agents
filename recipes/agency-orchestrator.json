@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "jnMetaCode/agency-orchestrator",
-    "commit": "adad80ea4f8773bcdde64c8e484937bdc21f2229"
+    "commit": "5d82e71dc94e67ca664b9914bdaa830e1b78a6d4"
   },
   "derived_from": "readme-config",
   "install": {
     "kind": "npm",
     "package": "agency-orchestrator",
-    "version": "0.21.0"
+    "version": "0.21.1"
   },
   "command": [
     "agency-orchestrator"
@@ -34,14 +34,14 @@
     ],
     "evidence": {
       "x.com": [
-        "website/dist/assets/cat-01-PSEiM9_6.js:1",
-        "website/dist/assets/cat-01-PSEiM9_6.js:1",
-        "website/dist/assets/cat-01-PSEiM9_6.js:1"
+        "website/dist/assets/cat-02-DMLf2ALS.js:1",
+        "website/dist/assets/cat-02-DMLf2ALS.js:1",
+        "website/dist/assets/cat-02-DMLf2ALS.js:1"
       ],
       "images.meigen.ai": [
-        "website/dist/assets/cat-01-PSEiM9_6.js:1",
-        "website/dist/assets/cat-01-PSEiM9_6.js:1",
-        "website/dist/assets/cat-01-PSEiM9_6.js:1"
+        "website/dist/assets/cat-02-DMLf2ALS.js:1",
+        "website/dist/assets/cat-02-DMLf2ALS.js:1",
+        "website/dist/assets/cat-02-DMLf2ALS.js:1"
       ],
       "cms-assets.youmind.com": [
         "website/dist/assets/cat-08-CMpk0PcB.js:1",
@@ -49,34 +49,34 @@
         "website/dist/assets/cat-08-CMpk0PcB.js:1"
       ],
       "prompts.aiolaola.com": [
-        "website/dist/assets/video-prompts-B7ceITIy.js:1",
-        "website/dist/assets/video-prompts-B7ceITIy.js:1",
-        "website/dist/assets/video-prompts-B7ceITIy.js:1"
+        "dist/connectors/video.js:366",
+        "dist/core/parser.js:208",
+        "website/dist/assets/index-Cd1pQ0_j.js:101"
       ],
       "api.lanox.ai": [
-        "website/dist/providers-manifest.json:62",
-        "website/dist/providers-manifest.json:63",
-        "website/dist/assets/Changelog-vBTRC5so.js:6"
+        "dist/connectors/api-providers.js:38",
+        "dist/connectors/api-providers.js:49",
+        "website/dist/assets/Docs-DyxJgXOg.js:134"
       ],
       "www.packyapi.ai": [
-        "website/dist/providers-manifest.json:79",
-        "website/dist/providers-manifest.json:81",
-        "website/dist/providers-manifest.json:82"
+        "dist/connectors/api-providers.js:76",
+        "dist/connectors/api-providers.js:83",
+        "dist/utils/sponsor-guide.js:36"
       ],
       "api.modelverse.cn": [
-        "website/dist/providers-manifest.json:100",
-        "website/dist/providers-manifest.json:101",
-        "website/dist/providers-manifest.json:102"
+        "dist/connectors/api-providers.js:7",
+        "dist/connectors/api-providers.js:98",
+        "dist/connectors/api-providers.js:243"
       ],
       "router.shengsuanyun.com": [
-        "website/dist/providers-manifest.json:71",
-        "website/dist/providers-manifest.json:72",
-        "website/dist/providers-manifest.json:73"
+        "dist/connectors/api-providers.js:58",
+        "dist/connectors/api-providers.js:291",
+        "website/dist/assets/studio-o4F1Yyja.js:10"
       ],
       "apinebula.ai": [
-        "website/dist/providers-manifest.json:111",
-        "website/dist/assets/sponsors-D5n8CSyL.js:1",
-        "website/dist/assets/studio-D3rwTWEl.js:10"
+        "dist/connectors/api-providers.js:10",
+        "dist/connectors/api-providers.js:11",
+        "dist/utils/sponsor-guide.js:32"
       ],
       "video.twimg.com": [
         "website/dist/assets/video-prompts-community-CYIvfulK.js:1",
@@ -86,9 +86,9 @@
     }
   },
   "license": "Apache-2.0",
-  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit agency-orchestrator@0.21.0 && npm cache clean --force\nUSER 65534:65534\n",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit agency-orchestrator@0.21.1 && npm cache clean --force\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T03:18:44.826970Z",
+    "at": "2026-10-25T20:28:55.911723Z",
     "ok": true,
     "stage": "done",
     "reason": "",
@@ -100,8 +100,8 @@
       "run_workflow",
       "validate_workflow"
     ],
-    "handshake_ms": 335,
+    "handshake_ms": 325,
     "server_name": "agency-orchestrator",
-    "server_version": "0.21.0"
+    "server_version": "0.21.1"
   }
 }

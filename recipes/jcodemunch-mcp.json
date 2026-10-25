@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "jgravelle/jcodemunch-mcp",
-    "commit": "3c303169133de4ea0f087b2a568d2306d5ddaf17"
+    "commit": "9fd7151a5173e357a4c9245dd4ee65252aef1a93"
   },
   "derived_from": "server.json",
   "install": {
     "kind": "pypi",
     "package": "jcodemunch-mcp",
-    "version": "1.108.386"
+    "version": "1.108.397"
   },
   "command": [
     "jcodemunch-mcp"
@@ -32,8 +32,8 @@
     ],
     "evidence": {
       "jcodemunch.com": [
-        "jcodemunch_mcp/cli/init.py:1307",
-        "jcodemunch_mcp/cli/init.py:1308",
+        "jcodemunch_mcp/cli/init.py:1357",
+        "jcodemunch_mcp/cli/init.py:1358",
         "jcodemunch_mcp/cli/install_pack.py:24"
       ],
       "j.gravelle.us": [
@@ -42,7 +42,7 @@
         "jcodemunch_mcp/storage/token_tracker.py:10"
       ],
       "api.openai.com": [
-        "jcodemunch_mcp/server.py:8989",
+        "jcodemunch_mcp/server.py:9085",
         "jcodemunch_mcp/summarizer/batch_summarize.py:60",
         "jcodemunch_mcp/summarizer/batch_summarize.py:64"
       ],
@@ -55,15 +55,15 @@
         "munch_bench/inference.py:134"
       ],
       "api.minimax.io": [
-        "jcodemunch_mcp/server.py:9010",
+        "jcodemunch_mcp/server.py:9106",
         "jcodemunch_mcp/summarizer/batch_summarize.py:876"
       ],
       "api.z.ai": [
-        "jcodemunch_mcp/server.py:9015",
+        "jcodemunch_mcp/server.py:9111",
         "jcodemunch_mcp/summarizer/batch_summarize.py:887"
       ],
       "openrouter.ai": [
-        "jcodemunch_mcp/server.py:9020",
+        "jcodemunch_mcp/server.py:9116",
         "jcodemunch_mcp/summarizer/batch_summarize.py:898"
       ],
       "api.github.com": [
@@ -77,9 +77,9 @@
     }
   },
   "license": "NOASSERTION",
-  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check jcodemunch-mcp==1.108.386\nUSER 65534:65534\n",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check jcodemunch-mcp==1.108.397\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T03:32:30.574096Z",
+    "at": "2026-10-25T20:29:51.563125Z",
     "ok": true,
     "stage": "done",
     "reason": "",
@@ -91,8 +91,8 @@
       "route",
       "set_tool_tier"
     ],
-    "handshake_ms": 680,
+    "handshake_ms": 1136,
     "server_name": "jcodemunch-mcp",
-    "server_version": "1.108.386"
+    "server_version": "1.108.397"
   }
 }

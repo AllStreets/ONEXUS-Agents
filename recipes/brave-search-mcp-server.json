@@ -1,0 +1,92 @@
+{
+  "slug": "brave-search-mcp-server",
+  "recipe_version": 1,
+  "source": {
+    "repo": "brave/brave-search-mcp-server",
+    "commit": "af08e0d48e812a3966ea2211854db5f0e8eee32d"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "npm",
+    "package": "@brave/brave-search-mcp-server",
+    "version": "2.1.4"
+  },
+  "command": [
+    "brave-search-mcp-server"
+  ],
+  "args": [],
+  "transport": "stdio",
+  "env": [
+    {
+      "name": "BRAVE_API_KEY",
+      "required": true,
+      "secret": true,
+      "description": "Your API key for the service"
+    }
+  ],
+  "hosts": {
+    "proposed": [
+      "api.search.brave.com",
+      "api-dashboard.search.brave.com",
+      "search.brave.com",
+      "brave.com",
+      "www.reuters.com",
+      "www.nytimes.com",
+      "www.bbc.com",
+      "bravesoftware.slack.com"
+    ],
+    "evidence": {
+      "api.search.brave.com": [
+        "env BRAVE_API_KEY",
+        "dist/BraveAPI/index.js:44"
+      ],
+      "api-dashboard.search.brave.com": [
+        "dist/tools/llm_context/schemas/input.js:4",
+        "dist/tools/llm_context/schemas/input.js:210",
+        "dist/tools/llm_context/schemas/output.js:4"
+      ],
+      "search.brave.com": [
+        "dist/tools/llm_context/index.test.js:12",
+        "dist/tools/llm_context/index.test.js:20",
+        "dist/tools/llm_context/index.test.js:32"
+      ],
+      "brave.com": [
+        "dist/config.js:85",
+        "package.json:13"
+      ],
+      "www.reuters.com": [
+        "dist/tools/news/index.js:23"
+      ],
+      "www.nytimes.com": [
+        "dist/tools/news/index.js:24"
+      ],
+      "www.bbc.com": [
+        "dist/tools/news/index.js:25"
+      ],
+      "bravesoftware.slack.com": [
+        "dist/BraveAPI/index.js:70"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit @brave/brave-search-mcp-server@2.1.4 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-25T20:29:10.215814Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "brave_image_search",
+      "brave_llm_context",
+      "brave_local_search",
+      "brave_news_search",
+      "brave_place_search",
+      "brave_summarizer",
+      "brave_video_search",
+      "brave_web_search"
+    ],
+    "handshake_ms": 472,
+    "server_name": "brave-search-mcp-server",
+    "server_version": "2.1.4"
+  }
+}

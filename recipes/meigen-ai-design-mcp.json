@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "jau123/MeiGen-AI-Design-MCP",
-    "commit": "96293566d952ffa74d2b5a527e76b85441578528"
+    "commit": "aef26a2d35d96b66a55eec9e6acbfa33e1607270"
   },
   "derived_from": "readme-config",
   "install": {
     "kind": "npm",
     "package": "meigen",
-    "version": "3.3.2"
+    "version": "3.3.3"
   },
   "command": [
     "meigen"
@@ -21,36 +21,36 @@
     "proposed": [
       "www.meigen.ai",
       "images.meigen.ai",
+      "10.x.x.x",
       "api.openai.com",
-      "gen.meigen.ai",
-      "10.x.x.x"
+      "gen.meigen.ai"
     ],
     "evidence": {
       "www.meigen.ai": [
-        "package.json:49",
-        "dist/config.js:30",
-        "dist/lib/generation-contract.js:89"
+        "dist/lib/generation-shared.js:21",
+        "dist/lib/generation-shared.js:21",
+        "dist/lib/generation-shared.js:37"
       ],
       "images.meigen.ai": [
-        "dist/lib/search-previews.js:24",
         "dist/lib/upload.js:361",
-        "dist/lib/gallery.js:16"
+        "dist/lib/gallery.js:16",
+        "dist/lib/gallery.js:30"
+      ],
+      "10.x.x.x": [
+        "dist/lib/url-safety.js:8"
       ],
       "api.openai.com": [
         "dist/config.js:28"
       ],
       "gen.meigen.ai": [
         "dist/config.js:31"
-      ],
-      "10.x.x.x": [
-        "dist/lib/url-safety.js:8"
       ]
     }
   },
   "license": "MIT",
-  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit meigen@3.3.2 && npm cache clean --force\nUSER 65534:65534\n",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit meigen@3.3.3 && npm cache clean --force\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T03:33:35.786300Z",
+    "at": "2026-10-25T20:30:49.729887Z",
     "ok": true,
     "stage": "done",
     "reason": "",
@@ -74,8 +74,8 @@
       "upload_skill_image",
       "upscale_image"
     ],
-    "handshake_ms": 277,
+    "handshake_ms": 265,
     "server_name": "meigen",
-    "server_version": "3.3.2"
+    "server_version": "3.3.3"
   }
 }

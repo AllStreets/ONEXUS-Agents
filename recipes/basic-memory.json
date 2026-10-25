@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "basicmachines-co/basic-memory",
-    "commit": "976a10c8977345e1f84b9d1a1557a0e2d0bad540"
+    "commit": "8dcfcb3c50fde49205f703cfacb95b1f9a823fde"
   },
   "derived_from": "server.json",
   "install": {
     "kind": "pypi",
     "package": "basic-memory",
-    "version": "0.23.2"
+    "version": "0.24.1"
   },
   "command": [
     "basic-memory"
@@ -22,9 +22,9 @@
     "evidence": {}
   },
   "license": "AGPL-3.0",
-  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check basic-memory==0.23.2\nUSER 65534:65534\n",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check basic-memory==0.24.1\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T03:18:55.864774Z",
+    "at": "2026-10-25T20:28:55.911963Z",
     "ok": false,
     "stage": "start",
     "reason": "the server exited with code 2. Usage: basic-memory [OPTIONS] COMMAND [ARGS]...\nTry 'basic-memory --help' for help.\n╭─ Error ──────────────────────────────────────────────────────────────────────╮\n│ Missing command.                                                             │\n╰──────────────────────────────────────────────────────────────────────────────╯",
