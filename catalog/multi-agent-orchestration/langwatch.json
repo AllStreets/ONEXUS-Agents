@@ -1,0 +1,62 @@
+{
+  "slug": "langwatch",
+  "name": "langwatch",
+  "tagline": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-testing",
+    "ai",
+    "analytics",
+    "datasets",
+    "dspy",
+    "evaluation",
+    "gpt",
+    "llm",
+    "llm-ops",
+    "llmops"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "langwatch",
+    "url": "https://github.com/langwatch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "langwatch/langwatch",
+    "huggingface": null,
+    "homepage": "https://langwatch.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 4992,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-25T12:52:57Z",
+    "first_commit_at": "2023-09-09T11:36:43Z",
+    "forks": 418,
+    "watchers": 16,
+    "open_issues": 372,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "dspy"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4858,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T17:52:16.288689Z",
+  "last_refreshed_at": "2026-10-25T17:03:52.190638Z",
+  "consecutive_refresh_failures": 0
+}
