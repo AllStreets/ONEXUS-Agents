@@ -1,0 +1,35 @@
+{
+  "slug": "xberg",
+  "recipe_version": 1,
+  "source": {
+    "repo": "xberg-io/xberg",
+    "commit": "fed42bd967ec022688a5563c56a47f7b7c2986ce"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "oci",
+    "image": "ghcr.io/xberg-io/xberg-cli:5.0.0-rc.10"
+  },
+  "command": [],
+  "args": [
+    "mcp",
+    "--transport",
+    "stdio"
+  ],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [],
+    "evidence": {}
+  },
+  "license": "MIT",
+  "verified": {
+    "at": "2026-10-25T20:31:33.411960Z",
+    "ok": false,
+    "stage": "build",
+    "reason": "Error response from daemon: manifest unknown",
+    "tools": [],
+    "server_name": "",
+    "server_version": ""
+  }
+}

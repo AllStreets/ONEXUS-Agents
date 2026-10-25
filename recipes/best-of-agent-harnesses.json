@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "RyanAlberts/best-of-Agent-Harnesses",
-    "commit": "ed27a876a9191e65c01c2dc98c64f60f7f58dbb4"
+    "commit": "658960d4fccb351c5a73678e3558ab9626ae73f9"
   },
   "derived_from": "server.json",
   "install": {
     "kind": "pypi",
     "package": "agent-harnesses-mcp",
-    "version": "0.7.1"
+    "version": "0.8.0"
   },
   "command": [
     "agent-harnesses-mcp"
@@ -25,21 +25,21 @@
     ],
     "evidence": {
       "api.github.com": [
-        "agent_harnesses_mcp/__init__.py:455",
-        "agent_harnesses_mcp/__init__.py:468"
+        "agent_harnesses_mcp/__init__.py:457",
+        "agent_harnesses_mcp/__init__.py:470"
       ],
       "hn.algolia.com": [
-        "agent_harnesses_mcp/__init__.py:495"
+        "agent_harnesses_mcp/__init__.py:497"
       ],
       "news.ycombinator.com": [
-        "agent_harnesses_mcp/__init__.py:502"
+        "agent_harnesses_mcp/__init__.py:504"
       ]
     }
   },
   "license": "CC-BY-SA-4.0",
-  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check agent-harnesses-mcp==0.7.1\nUSER 65534:65534\n",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check agent-harnesses-mcp==0.8.0\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T03:20:01.753677Z",
+    "at": "2026-10-25T20:28:55.912348Z",
     "ok": true,
     "stage": "done",
     "reason": "",
@@ -59,9 +59,10 @@
       "pick_harness",
       "pick_infrastructure",
       "recommend",
-      "search_harnesses"
+      "search_harnesses",
+      "whats_new"
     ],
-    "handshake_ms": 767,
+    "handshake_ms": 1011,
     "server_name": "agent-harnesses",
     "server_version": "1.30.0"
   }

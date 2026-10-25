@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "morluto/rea",
-    "commit": "7c6c25dda75e2d1d595a6cacc5cf9a82607f8502"
+    "commit": "1173c0a9dc1b352a60943a491462294db8f353ae"
   },
   "derived_from": "server.json",
   "install": {
     "kind": "npm",
     "package": "rea-agents",
-    "version": "6.7.0"
+    "version": "6.8.0"
   },
   "command": [
     "rea-agents"
@@ -22,31 +22,39 @@
   "hosts": {
     "proposed": [
       "www.hopperapp.com",
-      "www.gnu.org",
+      "developers.openai.com",
+      "chromedevtools.github.io",
+      "fetch.spec.whatwg.org",
       "docs.oracle.com",
-      "fetch.spec.whatwg.org"
+      "www.gnu.org"
     ],
     "evidence": {
       "www.hopperapp.com": [
-        "dist/application/MacHopper.js:14",
-        "dist/application/MacHopper.js:15",
-        "dist/application/HopperReleaseFeed.js:5"
+        "dist/mcp/LinuxHopper-CZMDDu8C.js:464",
+        "dist/mcp/LinuxHopper-CZMDDu8C.js:465",
+        "dist/mcp/LinuxHopper-CZMDDu8C.js:466"
       ],
-      "www.gnu.org": [
-        "licenses/upstream-sources.json:69"
+      "developers.openai.com": [
+        "dist/application/ClientRegistration.js:38"
+      ],
+      "chromedevtools.github.io": [
+        "dist/browser/CdpCaptureStorageFingerprints.js:339"
+      ],
+      "fetch.spec.whatwg.org": [
+        "dist/browser/WebSourceMapFetcher.js:257"
       ],
       "docs.oracle.com": [
         "dist/ghidra/GhidraJavaProbe.js:252"
       ],
-      "fetch.spec.whatwg.org": [
-        "dist/browser/WebSourceMapFetcher.js:211"
+      "www.gnu.org": [
+        "licenses/upstream-sources.json:69"
       ]
     }
   },
   "license": "MIT",
-  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit rea-agents@6.7.0 && npm cache clean --force\nUSER 65534:65534\n",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit rea-agents@6.8.0 && npm cache clean --force\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T03:50:27.093487Z",
+    "at": "2026-10-25T20:31:03.946280Z",
     "ok": true,
     "stage": "done",
     "reason": "",
@@ -94,11 +102,13 @@
       "decode_android_resources",
       "decode_interface_builder",
       "decode_signal_recording",
+      "decompile_all",
       "decompile_jeb_item",
       "demangle_swift",
       "discover_webmcp_tools",
       "evaluate_reconstruction_coverage",
       "execute_rizin_command",
+      "export_environment_bundle",
       "export_evidence_bundle",
       "export_web_scripts",
       "extract_artifact",
@@ -124,37 +134,54 @@
       "inspect_adb_package",
       "inspect_adb_window",
       "inspect_address_context",
+      "inspect_analysis_settings",
       "inspect_analysis_view",
       "inspect_android_class",
       "inspect_android_method",
       "inspect_android_package",
+      "inspect_apk_signature",
       "inspect_apktool_client",
+      "inspect_apple_ips",
       "inspect_artifact",
       "inspect_asset_catalog",
       "inspect_binary_layout",
+      "inspect_byte_entropy",
       "inspect_dart_aot",
+      "inspect_desktop_application",
+      "inspect_devicetree",
       "inspect_electron_fuses",
       "inspect_electron_page",
+      "inspect_elf_notes",
+      "inspect_erlang_beam",
       "inspect_evm_interface",
       "inspect_firmware_regions",
       "inspect_go_binary",
+      "inspect_gpu_code_objects",
+      "inspect_il2cpp_metadata",
       "inspect_jeb_client",
+      "inspect_kernel_module",
       "inspect_keyed_archive",
       "inspect_macho",
       "inspect_managed_artifact",
       "inspect_managed_members",
       "inspect_managed_native_boundaries",
+      "inspect_model_artifact",
       "inspect_native_api",
       "inspect_native_data_type",
       "inspect_native_dispatch_metadata",
+      "inspect_native_exports",
       "inspect_native_instruction",
       "inspect_native_load_image",
       "inspect_packet_capture",
       "inspect_packet_fields",
       "inspect_pcap_capture",
       "inspect_pcap_client",
+      "inspect_pe_certificates",
+      "inspect_pe_imports",
+      "inspect_pe_load_config",
       "inspect_pe_resources",
       "inspect_plist",
+      "inspect_python_pyc",
       "inspect_recorded_crash",
       "inspect_rust_binary",
       "inspect_signal_decoders",
@@ -189,6 +216,7 @@
       "list_strings",
       "list_unknowns",
       "load_frida_script",
+      "match_native_functions",
       "next_address",
       "observe_javascript_runtime",
       "observe_native_calls",
@@ -196,6 +224,7 @@
       "observe_web_execution",
       "observe_web_session",
       "open_binary",
+      "open_bundle_resources",
       "open_jeb_project",
       "prev_address",
       "procedure_address",
@@ -253,17 +282,15 @@
       "uninstall_adb_package",
       "unload_frida_script",
       "unset_bookmark",
+      "update_analysis_settings",
       "update_unknown",
       "verify_managed_native_boundaries",
       "verify_reconstruction",
       "verify_unknown_resolution",
       "xrefs"
     ],
-    "handshake_ms": 1716,
+    "handshake_ms": 510,
     "server_name": "rea",
-    "server_version": "6.7.0"
-  },
-  "prebuilt": {
-    "image": "ghcr.io/allstreets/onexus-mcp-rea:6.7.0@sha256:e89c3471450fc8f5878ee0f9ddab55cdb9b4971845dfe42006c1f8c26e8c6fd8"
+    "server_version": "6.8.0"
   }
 }

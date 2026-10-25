@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "firecrawl/firecrawl",
-    "commit": "85a40f9deb5eab674922d8273af72fc1ba4c9296"
+    "commit": "c351eb6dac466c2853550ce98a8e1440580e28f7"
   },
   "derived_from": "readme-config",
   "install": {
     "kind": "npm",
     "package": "firecrawl-mcp",
-    "version": "3.33.4"
+    "version": "3.34.1"
   },
   "command": [
     "firecrawl-mcp"
@@ -35,34 +35,34 @@
     "evidence": {
       "api.firecrawl.dev": [
         "env FIRECRAWL_API_KEY",
-        "dist/index.js:2838",
-        "dist/index.js:5092",
-        "dist/server.js:2837"
+        "dist/index.js:2887",
+        "dist/index.js:5317",
+        "dist/server.js:2886"
       ],
       "www.firecrawl.dev": [
-        "dist/index.js:3672",
-        "dist/index.js:3708",
-        "dist/index.js:3861"
+        "dist/index.js:3862",
+        "dist/index.js:3898",
+        "dist/index.js:4051"
       ],
       "mcp.firecrawl.dev": [
-        "dist/index.js:3690",
-        "dist/index.js:3709",
-        "dist/index.js:6165"
+        "dist/index.js:3880",
+        "dist/index.js:3899",
+        "dist/index.js:6398"
       ],
       "docs.firecrawl.dev": [
-        "dist/index.js:3315",
-        "dist/index.js:3666",
-        "dist/index.js:4153"
+        "dist/index.js:3364",
+        "dist/index.js:3856",
+        "dist/index.js:4344"
       ],
       "firecrawl.dev": [
-        "dist/index.js:6959"
+        "dist/index.js:7192"
       ]
     }
   },
   "license": "AGPL-3.0",
-  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit firecrawl-mcp@3.33.4 && npm cache clean --force\nUSER 65534:65534\n",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit firecrawl-mcp@3.34.1 && npm cache clean --force\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T05:07:09.309681Z",
+    "at": "2026-10-25T20:29:27.899394Z",
     "ok": true,
     "stage": "done",
     "reason": "",
@@ -96,8 +96,8 @@
       "firecrawl_search",
       "firecrawl_search_feedback"
     ],
-    "handshake_ms": 688,
+    "handshake_ms": 698,
     "server_name": "firecrawl-fastmcp",
-    "server_version": "3.33.4"
+    "server_version": "3.34.1"
   }
 }

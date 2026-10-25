@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "razzant/claudexor",
-    "commit": "056c0df9dea7a9056d157ac10059de85d3d544ad"
+    "commit": "2202b8f6ecb028206bb4a74051207dc4a63f4378"
   },
   "derived_from": "server.json",
   "install": {
     "kind": "npm",
     "package": "claudexor",
-    "version": "4.4.0"
+    "version": "4.7.0"
   },
   "command": [
     "claudexor"
@@ -31,9 +31,9 @@
     }
   },
   "license": "MIT",
-  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit claudexor@4.4.0 && npm cache clean --force\nUSER 65534:65534\n",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit claudexor@4.7.0 && npm cache clean --force\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T03:21:34.023957Z",
+    "at": "2026-10-25T20:29:14.449656Z",
     "ok": true,
     "stage": "done",
     "reason": "",
@@ -67,8 +67,8 @@
       "claudexor_thread_read",
       "claudexor_thread_turn"
     ],
-    "handshake_ms": 1000,
+    "handshake_ms": 1962,
     "server_name": "claudexor",
-    "server_version": "4.4.0"
+    "server_version": "4.7.0"
   }
 }

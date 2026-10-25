@@ -1,0 +1,89 @@
+{
+  "slug": "codeburn",
+  "recipe_version": 1,
+  "source": {
+    "repo": "getagentseal/codeburn",
+    "commit": "1a3ce74af8842d1d3946d5329a0d93e497d61583"
+  },
+  "derived_from": "server.json",
+  "install": {
+    "kind": "npm",
+    "package": "codeburn",
+    "version": "0.9.27"
+  },
+  "command": [
+    "codeburn"
+  ],
+  "args": [
+    "mcp"
+  ],
+  "transport": "stdio",
+  "env": [],
+  "hosts": {
+    "proposed": [
+      "cursor.com",
+      "react.dev",
+      "gemini.google",
+      "cli-chat-proxy.grok.com",
+      "api.z.ai",
+      "redux.js.org",
+      "bit.ly",
+      "redux-toolkit.js.org",
+      "codeburn.app",
+      "discord.com"
+    ],
+    "evidence": {
+      "cursor.com": [
+        "dist/main.js:2319",
+        "dist/main.js:44750",
+        "dist/main.js:44879"
+      ],
+      "react.dev": [
+        "dist/dash/assets/index-CNhjyrY_.js:33",
+        "dist/dash/assets/index-CNhjyrY_.js:41"
+      ],
+      "gemini.google": [
+        "dist/main.js:190",
+        "dist/parse-worker.js:1468"
+      ],
+      "cli-chat-proxy.grok.com": [
+        "dist/main.js:50152",
+        "dist/main.js:50153"
+      ],
+      "api.z.ai": [
+        "dist/main.js:50576",
+        "dist/main.js:50688"
+      ],
+      "redux.js.org": [
+        "dist/dash/assets/index-CNhjyrY_.js:66"
+      ],
+      "bit.ly": [
+        "dist/dash/assets/index-CNhjyrY_.js:66"
+      ],
+      "redux-toolkit.js.org": [
+        "dist/dash/assets/index-CNhjyrY_.js:66"
+      ],
+      "codeburn.app": [
+        "dist/dash/assets/index-CNhjyrY_.js:135"
+      ],
+      "discord.com": [
+        "dist/dash/assets/index-CNhjyrY_.js:135"
+      ]
+    }
+  },
+  "license": "MIT",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit codeburn@0.9.27 && npm cache clean --force\nUSER 65534:65534\n",
+  "verified": {
+    "at": "2026-10-25T20:29:15.798161Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "get_savings",
+      "get_usage"
+    ],
+    "handshake_ms": 994,
+    "server_name": "codeburn",
+    "server_version": "0.9.27"
+  }
+}

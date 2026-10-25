@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "LastSearch-HQ/lastsearch",
-    "commit": "d5686bb2d9d2462d35cdb27fea8d81bdfaec75ce"
+    "commit": "8beb656e68c7822c28f7beec774ff2dd4e5b315e"
   },
   "derived_from": "readme-config",
   "install": {
     "kind": "npm",
     "package": "lastsearch",
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
   "command": [
     "lastsearch"
@@ -25,18 +25,43 @@
     }
   ],
   "hosts": {
-    "proposed": [],
-    "evidence": {}
+    "proposed": [
+      "lastsearch.ai"
+    ],
+    "evidence": {
+      "lastsearch.ai": [
+        "dist/setup.js:27",
+        "dist/setup.js:29",
+        "dist/index.js:12"
+      ]
+    }
   },
   "license": "Apache-2.0",
-  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit lastsearch@1.3.0 && npm cache clean --force\nUSER 65534:65534\n",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit lastsearch@1.4.0 && npm cache clean --force\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T03:33:26.734130Z",
-    "ok": false,
-    "stage": "start",
-    "reason": "the server exited with code 1 (it reported an error). rver (file:///usr/local/lib/node_modules/lastsearch/dist/index.js:387:9)\n    at file:///usr/local/lib/node_modules/lastsearch/dist/index.js:64:5\n    at ModuleJob.run (node:internal/modules/esm/module_job:343:25)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:681:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)\n\nNode.js v22.23.3",
-    "tools": [],
-    "server_name": "",
-    "server_version": ""
+    "at": "2026-10-25T20:30:37.841797Z",
+    "ok": true,
+    "stage": "done",
+    "reason": "",
+    "tools": [
+      "answer",
+      "clarity",
+      "compare",
+      "evidence",
+      "extract",
+      "feedback",
+      "open",
+      "search",
+      "session_ask",
+      "session_create",
+      "session_fork",
+      "session_knowledge",
+      "session_recall",
+      "session_share",
+      "verify_document"
+    ],
+    "handshake_ms": 337,
+    "server_name": "lastsearch",
+    "server_version": "1.4.0"
   }
 }

@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "ChromeDevTools/chrome-devtools-mcp",
-    "commit": "bf8c6d9bc70d24523c353f43775a6542a45e8c56"
+    "commit": "ada7963246c0c91eae185125a57aecd13cbe0376"
   },
   "derived_from": "server.json",
   "install": {
     "kind": "npm",
     "package": "chrome-devtools-mcp",
-    "version": "1.11.0"
+    "version": "1.12.0"
   },
   "command": [
     "chrome-devtools-mcp"
@@ -32,61 +32,61 @@
     ],
     "evidence": {
       "developer.chrome.com": [
-        "build/src/third_party/index.js:145869",
-        "build/src/third_party/index.js:145884",
-        "build/src/third_party/index.js:146029"
+        "build/src/third_party/index.js:142649",
+        "build/src/third_party/index.js:142843",
+        "build/src/third_party/index.js:142847"
       ],
       "web.dev": [
-        "build/src/third_party/index.js:93555",
-        "build/src/third_party/index.js:125789",
-        "build/src/third_party/index.js:148881"
+        "build/src/third_party/index.js:86010",
+        "build/src/third_party/index.js:118710",
+        "build/src/third_party/index.js:142087"
       ],
       "dequeuniversity.com": [
-        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:34930",
-        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:34931",
-        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:40137"
+        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:34860",
+        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:34861",
+        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:35780"
       ],
       "developers.google.com": [
-        "build/src/third_party/index.js:91061",
-        "build/src/third_party/index.js:136028",
-        "build/src/third_party/index.js:136028"
+        "build/src/third_party/index.js:83516",
+        "build/src/third_party/index.js:142066",
+        "build/src/third_party/index.js:142073"
       ],
       "fedidcg.github.io": [
-        "build/src/third_party/index.js:93171",
-        "build/src/third_party/index.js:172031",
-        "build/src/third_party/index.js:172051"
+        "build/src/third_party/index.js:85626",
+        "build/src/third_party/index.js:143968",
+        "build/src/third_party/index.js:143988"
       ],
       "w3c.github.io": [
-        "build/src/config/cli-options.js:962",
-        "build/src/config/cli-options.js:1043",
-        "build/src/config/cli-options.js:1071"
+        "build/src/tools/pwa.js:13",
+        "build/src/config/cli-options.js:976",
+        "build/src/config/cli-options.js:1057"
       ],
       "pcsclite.apdu.fr": [
-        "build/src/third_party/index.js:93825",
-        "build/src/third_party/index.js:93826",
-        "build/src/third_party/index.js:93827"
+        "build/src/third_party/index.js:86280",
+        "build/src/third_party/index.js:86281",
+        "build/src/third_party/index.js:86282"
       ],
       "learn.microsoft.com": [
-        "build/src/third_party/index.js:93825",
-        "build/src/third_party/index.js:93826",
-        "build/src/third_party/index.js:93827"
+        "build/src/third_party/index.js:86280",
+        "build/src/third_party/index.js:86281",
+        "build/src/third_party/index.js:86282"
       ],
       "octobercms.com": [
-        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:10458",
-        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:10460",
-        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:10462"
+        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:10362",
+        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:10364",
+        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:10366"
       ],
       "wordpress.org": [
-        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:10558",
-        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:10560",
-        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:10562"
+        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:10465",
+        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:10467",
+        "build/src/third_party/lighthouse-devtools-mcp-bundle.js:10469"
       ]
     }
   },
   "license": "Apache-2.0",
-  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit chrome-devtools-mcp@1.11.0 && npm cache clean --force\nUSER 65534:65534\n",
+  "dockerfile": "FROM node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392\nENV OPENSSL_armcap=0x1fff\nRUN npm install -g --omit=dev --no-fund --no-audit chrome-devtools-mcp@1.12.0 && npm cache clean --force\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T03:21:08.261635Z",
+    "at": "2026-10-25T20:29:10.789836Z",
     "ok": true,
     "stage": "done",
     "reason": "",
@@ -124,11 +124,8 @@
       "upload_file",
       "wait_for"
     ],
-    "handshake_ms": 631,
+    "handshake_ms": 897,
     "server_name": "chrome_devtools",
-    "server_version": "1.11.0"
-  },
-  "prebuilt": {
-    "image": "ghcr.io/allstreets/onexus-mcp-chrome-devtools-mcp:1.11.0@sha256:8f8dc9d45c44133ee0534efcf4f73475c8cfb49b0967c323852690caf281548b"
+    "server_version": "1.12.0"
   }
 }

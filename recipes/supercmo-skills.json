@@ -3,13 +3,13 @@
   "recipe_version": 1,
   "source": {
     "repo": "SupercmoHQ/superCMO-skills",
-    "commit": "b6743b577f8c63a4f1c59cf4e6e6bde6f6171a7e"
+    "commit": "3bf78a423b1ba27a1f500b3b50f806b86cc5bdab"
   },
   "derived_from": "server.json",
   "install": {
     "kind": "pypi",
     "package": "supercmo-skills",
-    "version": "0.1.26"
+    "version": "0.1.27"
   },
   "command": [
     "supercmo-skills"
@@ -109,9 +109,9 @@
     }
   },
   "license": "Apache-2.0",
-  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check supercmo-skills==0.1.26\nUSER 65534:65534\n",
+  "dockerfile": "FROM python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1\nENV OPENSSL_armcap=0x1fff\nENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1\nRUN pip install --no-cache-dir --root-user-action=ignore --disable-pip-version-check supercmo-skills==0.1.27\nUSER 65534:65534\n",
   "verified": {
-    "at": "2026-10-21T03:57:52.331866Z",
+    "at": "2026-10-25T20:31:20.630451Z",
     "ok": true,
     "stage": "done",
     "reason": "",
@@ -139,8 +139,8 @@
       "video_overlay",
       "video_stitch"
     ],
-    "handshake_ms": 613,
+    "handshake_ms": 612,
     "server_name": "supercmo",
-    "server_version": "0.1.26"
+    "server_version": "0.1.27"
   }
 }

@@ -1,4 +1,8 @@
 {
+  "100-days-with-ai": {
+    "repo": "aurimas13/100-Days-With-AI",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "4th-devs-python": {
     "repo": "DanielRaceOn/4th-devs-python",
     "reason": "no server.json, no mcpServers block, no published MCP package"
@@ -42,6 +46,10 @@
   "ag2": {
     "repo": "ag2ai/ag2",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "agent-browser": {
+    "repo": "vercel-labs/agent-browser",
+    "reason": "launched with `agent-browser` from a local copy, not from a registry"
   },
   "agent-deck": {
     "repo": "asheshgoplani/agent-deck",
@@ -179,6 +187,10 @@
     "repo": "stephenlzc/AI-Powered-Literature-Review-Skills",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "ai-rules-1c": {
+    "repo": "comol/ai_rules_1c",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "ai-storefront-sanity-context-clerk-demo": {
     "repo": "sonnysangha/ai-storefront-sanity-context-clerk-demo",
     "reason": "no server.json, no mcpServers block, no published MCP package"
@@ -227,6 +239,10 @@
     "repo": "Appllama/appllama-skills",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "appwrite": {
+    "repo": "appwrite/appwrite",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "aqueduct": {
     "repo": "JohnnyQ-commits/Aqueduct",
     "reason": "repository could not be read"
@@ -246,6 +262,10 @@
   "arscontexta": {
     "repo": "agenticnotetaking/arscontexta",
     "reason": "launched with `qmd` from a local copy, not from a registry"
+  },
+  "artemis": {
+    "repo": "google/artemis",
+    "reason": "launched with `python` from a local copy, not from a registry; PyPI package artemis comes from artemis-xyz/artemis, not this repository"
   },
   "arthurlegal": {
     "repo": "beerbottle90/ArthurLegal",
@@ -295,6 +315,14 @@
     "repo": "0xmariowu/Autosearch",
     "reason": "pyproject.toml has several commands (autosearch, autosearch-mcp)"
   },
+  "awesome": {
+    "repo": "tribixbite/awesome",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "awesome-ai-agents": {
+    "repo": "frangelbarrera/awesome-ai-agents",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "awesome-ai-agents-cn": {
     "repo": "peterfei/awesome-ai-agents-cn",
     "reason": "no server.json, no mcpServers block, no published MCP package"
@@ -305,6 +333,22 @@
   },
   "awesome-ai-devtools": {
     "repo": "yeaight7/awesome-ai-devtools",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "awesome-ai-security": {
+    "repo": "TalEliyahu/Awesome-AI-Security",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "awesome-chatgpt-repositories": {
+    "repo": "taishi-i/awesome-ChatGPT-repositories",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "awesome-github-projects": {
+    "repo": "viktorbezdek/awesome-github-projects",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "awesome-grok-bot": {
+    "repo": "RongleCat/awesome-grok-bot",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
   "awesome-harness-engineering": {
@@ -331,8 +375,20 @@
     "repo": "mergisi/awesome-openclaw-agents",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "awesome-remote-mcp-servers": {
+    "repo": "punkpeye/awesome-remote-mcp-servers",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "awesome-stars": {
+    "repo": "jxzzlfh/awesome-stars",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "awesome-trading-agents": {
     "repo": "LLMQuant/awesome-trading-agents",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "awesome-ui-agents": {
+    "repo": "opendilab/awesome-ui-agents",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
   "azure-ai-travel-agents": {
@@ -379,6 +435,10 @@
     "repo": "microsoft/Build26-LAB520-get-started-with-models-in-microsoft-foundry-to-build-ai-apps",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "busabase": {
+    "repo": "busabase/busabase",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "cad-cae-copilot": {
     "repo": "armpro24-blip/cad-cae-copilot",
     "reason": "no server.json, no mcpServers block, no published MCP package"
@@ -397,6 +457,10 @@
   },
   "cc-switch": {
     "repo": "farion1231/cc-switch",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "cc-wf-studio": {
+    "repo": "breaking-brake/cc-wf-studio",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
   "chaingpt-claude-skill": {
@@ -430,6 +494,14 @@
   "claude-code-for-beginners": {
     "repo": "koki7o/claude-code-for-beginners",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "claude-code-guide": {
+    "repo": "Cranot/claude-code-guide",
+    "reason": "launched with `cmd` from a local copy, not from a registry"
+  },
+  "claude-code-showcase": {
+    "repo": "ChrisWiles/claude-code-showcase",
+    "reason": "npm package @anthropic/mcp-jira is not published"
   },
   "claude-code-studio": {
     "repo": "arnaldo-delisio/claude-code-studio",
@@ -475,6 +547,10 @@
     "repo": "olasunkanmi-SE/codebuddy",
     "reason": "package.json depends on the MCP SDK but declares no command"
   },
+  "codegraph": {
+    "repo": "colbymchenry/codegraph",
+    "reason": "launched with `codegraph` from a local copy, not from a registry"
+  },
   "codewhale": {
     "repo": "codewhale-hq/Codewhale",
     "reason": "no server.json, no mcpServers block, no published MCP package"
@@ -503,6 +579,10 @@
     "repo": "lowtidebuild/consolidated-legal-research",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "contentstudio-agent": {
+    "repo": "contentstudioio/contentstudio-agent",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "continuity": {
     "repo": "lazypower/continuity",
     "reason": "no server.json, no mcpServers block, no published MCP package"
@@ -514,6 +594,10 @@
   "cookhero": {
     "repo": "Decade-qiu/CookHero",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "cooragent": {
+    "repo": "LeapLabTHU/cooragent",
+    "reason": "npm package @modelcontextprotocol/server-aws-kb-retrieval doesn't say which repository it comes from, so it can't be tied to this one; pyproject.toml depends on MCP but declares no command"
   },
   "copilot-studio-itsm-agent": {
     "repo": "ninihen1/copilot-studio-itsm-agent",
@@ -623,6 +707,10 @@
     "repo": "langgenius/dify",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "digital-marketing-pro": {
+    "repo": "indranilbanerjee/digital-marketing-pro",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "dm-code-agent": {
     "repo": "hwfengcs/DM-Code-Agent",
     "reason": "no server.json, no mcpServers block, no published MCP package"
@@ -707,6 +795,10 @@
     "repo": "fim-ai/fim-one",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "flowcraft": {
+    "repo": "GizClaw/flowcraft",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "flutter-skill": {
     "repo": "ai-dashboad/flutter-skill",
     "reason": "npm package flutter-skill is not published; launched with `flutter-skill` from a local copy, not from a registry"
@@ -718,6 +810,10 @@
   "flux-3-video-api": {
     "repo": "SamurAIGPT/flux-3-video-api",
     "reason": "pyproject.toml depends on MCP but declares no command"
+  },
+  "fluxdown": {
+    "repo": "zerx-lab/FluxDown",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
   },
   "followupboss-mcp-server": {
     "repo": "mindwear-capitian/followupboss-mcp-server",
@@ -851,6 +947,10 @@
     "repo": "growthack88/growth-marketing-os",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "gstack": {
+    "repo": "garrytan/gstack",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "ha-mcp": {
     "repo": "homeassistant-ai/ha-mcp",
     "reason": "PyPI package ha-mcp is not published"
@@ -870,6 +970,10 @@
   "haystack": {
     "repo": "deepset-ai/haystack",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "hermes-legal": {
+    "repo": "Lethe044/hermes-legal",
+    "reason": "launched with `hermes-legal` from a local copy, not from a registry"
   },
   "hermes-web-search-plus": {
     "repo": "robbyczgw-cla/hermes-web-search-plus",
@@ -931,6 +1035,10 @@
     "repo": "JustVugg/judicex",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "justhireme": {
+    "repo": "vasu-devs/JustHireMe",
+    "reason": "launched with `python` from a local copy, not from a registry"
+  },
   "justicelibre": {
     "repo": "Dahliyaal/justicelibre",
     "reason": "server.json lists no packages (remote only)"
@@ -982,6 +1090,10 @@
   "lawgent": {
     "repo": "WenzhuoXu/lawgent",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "laya": {
+    "repo": "NandhaKishorM/laya",
+    "reason": "launched with `laya-mcp-server` from a local copy, not from a registry"
   },
   "laya-browser-agent": {
     "repo": "ChenneyZhuang/laya-browser-agent",
@@ -1219,6 +1331,10 @@
     "repo": "NuGuardAI/nuguard",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "nuxt-skills": {
+    "repo": "onmax/nuxt-skills",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "obsidian-ai-curator": {
     "repo": "nwant/obsidian-ai-curator",
     "reason": "launched with `node` from a local copy, not from a registry; package.json depends on the MCP SDK but declares no command"
@@ -1250,6 +1366,10 @@
   "oh-my-pi": {
     "repo": "can1357/oh-my-pi",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "omniroute": {
+    "repo": "cheaper-inference/OmniRoute",
+    "reason": "npm package omniroute comes from diegosouzapw/omniroute, not this repository"
   },
   "one": {
     "repo": "one-ie/one",
@@ -1335,6 +1455,10 @@
     "repo": "open-metadata/OpenMetadata",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "openrig": {
+    "repo": "mvschwarz/openrig",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "opensail": {
     "repo": "TesslateAI/OpenSail",
     "reason": "repository could not be read"
@@ -1375,6 +1499,10 @@
     "repo": "alibaba/page-agent",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "pair-programmer": {
+    "repo": "lebobo88/pair-programmer",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "paperclip": {
     "repo": "paperclipai/paperclip",
     "reason": "no server.json, no mcpServers block, no published MCP package"
@@ -1394,6 +1522,10 @@
   "pipelock": {
     "repo": "pipelab-org/pipelock",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "pixlstash": {
+    "repo": "Pikselkroken/pixlstash",
+    "reason": "launched with `pixlstash-mcp` from a local copy, not from a registry"
   },
   "planr": {
     "repo": "instructa/planr",
@@ -1551,6 +1683,10 @@
     "repo": "prebid/salesagent",
     "reason": "needs an argument only you can fill in: 'Authorization: Bearer YOUR_TOKEN'; pyproject.toml depends on MCP but declares no command"
   },
+  "sample-claude-code-agent-team": {
+    "repo": "aws-samples/sample-claude-code-agent-team",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "sandboxed-sh": {
     "repo": "Th0rgal/sandboxed.sh",
     "reason": "no server.json, no mcpServers block, no published MCP package"
@@ -1578,6 +1714,10 @@
   "screenpipe": {
     "repo": "screenpipe/screenpipe",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "sdd-dbt-agents": {
+    "repo": "novarz/sdd-dbt-agents",
+    "reason": "PyPI package dbt-mcp comes from dbt-labs/dbt-mcp, not this repository"
   },
   "second-brain-agent": {
     "repo": "flepied/second-brain-agent",
@@ -1639,6 +1779,10 @@
     "repo": "syahiidkamil/Software-Engineer-AI-Agent-Atlas",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "solace-agent-mesh": {
+    "repo": "SolaceLabs/solace-agent-mesh",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "solidworks-automation-skill": {
     "repo": "wzyn20051216/solidworks-automation-skill",
     "reason": "pyproject.toml depends on MCP but declares no command"
@@ -1691,6 +1835,14 @@
     "repo": "synapseorch-ai/synapse-ai",
     "reason": "pyproject.toml has several commands (synapse, synapse-ai)"
   },
+  "teaching-agent": {
+    "repo": "LiaScript/teaching-agent",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "text-to-cad": {
+    "repo": "earthtojake/text-to-cad",
+    "reason": "not a PyPI package name: '--no-config'"
+  },
   "thclaws": {
     "repo": "thClaws/thClaws",
     "reason": "no server.json, no mcpServers block, no published MCP package"
@@ -1699,9 +1851,17 @@
     "repo": "tinyfish-io/tinyfish-cookbook",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
+  "tirith": {
+    "repo": "sheeki03/tirith",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
   "tongyou-travel-agent": {
     "repo": "315462438/tongyou-travel-agent",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "toolknit-desktop": {
+    "repo": "ZihangDong/toolknit-desktop",
+    "reason": "launched with `toolknit` from a local copy, not from a registry"
   },
   "toolrosella": {
     "repo": "DEFENSE-SEU/ToolRosella",
@@ -1709,6 +1869,10 @@
   },
   "tools": {
     "repo": "strands-agents/tools",
+    "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "topdeeplearning": {
+    "repo": "aymericdamien/TopDeepLearning",
     "reason": "no server.json, no mcpServers block, no published MCP package"
   },
   "tradingagents-mcpmode": {
@@ -1770,6 +1934,10 @@
   "valuecell": {
     "repo": "ValueCell-ai/valuecell",
     "reason": "no server.json, no mcpServers block, no published MCP package"
+  },
+  "vaulytica": {
+    "repo": "clay-good/vaulytica",
+    "reason": "launched with `node` from a local copy, not from a registry"
   },
   "vera": {
     "repo": "ezesubu/VERA",
