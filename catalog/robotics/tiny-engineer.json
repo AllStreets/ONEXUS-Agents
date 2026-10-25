@@ -1,0 +1,55 @@
+{
+  "slug": "tiny-engineer",
+  "name": "tiny-engineer",
+  "tagline": "A small desktop robot that brings an AI coding assistant to life, physically acting out when it reads files, thinks, writes code, and finishes work.",
+  "category": "robotics",
+  "tags": [
+    "ai-agents",
+    "antigravity",
+    "claude-code",
+    "cursor",
+    "esp32"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jamro",
+    "url": "https://github.com/jamro"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jamro/tiny-engineer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 880,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-24T20:58:42Z",
+    "first_commit_at": "2026-08-21T15:58:33Z",
+    "forks": 109,
+    "watchers": 11,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6096,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-25T17:04:16.113935Z",
+  "last_refreshed_at": "2026-10-25T17:04:16.113938Z",
+  "consecutive_refresh_failures": 0
+}
