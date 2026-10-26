@@ -1,0 +1,49 @@
+{
+  "slug": "wterm",
+  "name": "wterm",
+  "tagline": "A terminal emulator for the web",
+  "category": "desktop-os-automation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "vercel-labs",
+    "url": "https://github.com/vercel-labs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vercel-labs/wterm",
+    "huggingface": null,
+    "homepage": "https://wterm.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3511,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-26T15:41:38Z",
+    "first_commit_at": "2026-04-14T23:18:58Z",
+    "forks": 164,
+    "watchers": 7,
+    "open_issues": 15,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4158,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-21T18:08:47.340916Z",
+  "last_refreshed_at": "2026-10-26T19:16:16.177382Z",
+  "consecutive_refresh_failures": 0
+}

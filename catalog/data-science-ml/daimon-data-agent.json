@@ -1,0 +1,62 @@
+{
+  "slug": "daimon-data-agent",
+  "name": "daimon-data-agent",
+  "tagline": "Open Source Data Science Agent for Discord and Slack",
+  "category": "data-science-ml",
+  "tags": [
+    "agents",
+    "ai-agent",
+    "anthropic",
+    "bayesian-inference",
+    "claude",
+    "data-science",
+    "discord-bot",
+    "llm",
+    "pymc",
+    "slack-bot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "emrahaydemir960-ai",
+    "url": "https://github.com/emrahaydemir960-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "emrahaydemir960-ai/daimon-data-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 58,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-26T16:40:47Z",
+    "first_commit_at": "2026-10-22T20:10:18Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2703,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-26T19:21:53.726287Z",
+  "last_refreshed_at": "2026-10-26T19:21:53.726292Z",
+  "consecutive_refresh_failures": 0
+}

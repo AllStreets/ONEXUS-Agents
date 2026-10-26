@@ -1,0 +1,60 @@
+{
+  "slug": "99ai",
+  "name": "99AI",
+  "tagline": "开源、可私有化部署的 Web Agent 底座，支持多用户、隔离沙箱，以及 Skills 和 MCP 扩展。Open-source, self-hostable Web Agent foundation with multi-user support, isolated sandboxes, and extensibility through Skills and MCP.",
+  "category": "web-dev",
+  "tags": [
+    "99ai",
+    "agent",
+    "ai",
+    "all-in-chat",
+    "chatgpt",
+    "dalle",
+    "luma",
+    "luma-video",
+    "midjourney",
+    "suno"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "vastxie",
+    "url": "https://github.com/vastxie"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vastxie/99AI",
+    "huggingface": null,
+    "homepage": "https://agent.lightai.cloud/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1030,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-26T14:41:19Z",
+    "first_commit_at": "2026-10-26T10:20:46Z",
+    "forks": 285,
+    "watchers": 14,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5326,
+  "rank_in_category": 52,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-26T19:13:49.978217Z",
+  "last_refreshed_at": "2026-10-26T19:13:49.978221Z",
+  "consecutive_refresh_failures": 0
+}

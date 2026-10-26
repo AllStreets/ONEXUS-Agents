@@ -4,6 +4,7 @@
   "tagline": "Extract documentation for AI agents from any site with llms.txt support. Features MCP server, REST API, batch processing, and multiple export formats.",
   "category": "coding",
   "tags": [
+    "agents-md",
     "ai",
     "ai-agents",
     "claude",
@@ -12,8 +13,7 @@
     "documentation",
     "llm",
     "llms-txt",
-    "markdown",
-    "mcp"
+    "markdown"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 33,
+    "stars": 35,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-07T06:19:31Z",
+    "last_commit_at": "2026-10-20T21:41:44Z",
     "first_commit_at": "2026-01-16T04:42:09Z",
     "forks": 5,
     "watchers": 0,
-    "open_issues": 1,
+    "open_issues": 5,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3138,
-  "rank_in_category": 307,
+  "composite_score": 0.3493,
+  "rank_in_category": 232,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-06T09:54:15.415790Z",
-  "last_refreshed_at": "2026-09-07T18:26:05.621464Z",
-  "consecutive_refresh_failures": 7
+  "first_seen_at": "2026-10-20T04:33:06.670122Z",
+  "last_refreshed_at": "2026-10-26T19:25:09.269359Z",
+  "consecutive_refresh_failures": 0
 }
