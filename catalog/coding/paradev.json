@@ -1,0 +1,60 @@
+{
+  "slug": "paradev",
+  "name": "Paradev",
+  "tagline": "Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.",
+  "category": "coding",
+  "tags": [
+    "ade",
+    "agent",
+    "agent-orchestration",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "cursor-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ParadevAI",
+    "url": "https://github.com/ParadevAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ParadevAI/Paradev",
+    "huggingface": null,
+    "homepage": "https://paradev.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 15580,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-26T19:03:47Z",
+    "first_commit_at": "2025-10-21T09:20:02Z",
+    "forks": 1380,
+    "watchers": 34,
+    "open_issues": 1046,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4083,
+  "rank_in_category": 101,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-26T19:04:58.197648Z",
+  "last_refreshed_at": "2026-10-26T19:04:58.197653Z",
+  "consecutive_refresh_failures": 0
+}

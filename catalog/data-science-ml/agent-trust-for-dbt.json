@@ -1,0 +1,49 @@
+{
+  "slug": "agent-trust-for-dbt",
+  "name": "agent-trust-for-dbt",
+  "tagline": " reference implementation for building and evaluating trustworthy AI analytics agents on the dbt semantic layer. Includes a working data agent, a layered evaluation framework, and an honest methodolog",
+  "category": "data-science-ml",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "datacult",
+    "url": "https://github.com/datacult"
+  },
+  "source": {
+    "primary": "github",
+    "github": "datacult/agent-trust-for-dbt",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-15T20:39:37Z",
+    "first_commit_at": "2026-07-14T15:51:10Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2312,
+  "rank_in_category": 90,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-26T19:21:27.045210Z",
+  "last_refreshed_at": "2026-10-26T19:21:27.045214Z",
+  "consecutive_refresh_failures": 0
+}
