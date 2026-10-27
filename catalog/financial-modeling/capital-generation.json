@@ -5,6 +5,7 @@
   "category": "financial-modeling",
   "tags": [
     "deepseek-harness",
+    "dsh-automation",
     "dsh-desktop",
     "dsh-persona",
     "dsh-plugin",
@@ -12,8 +13,7 @@
     "dsh-preset",
     "dsh-stock",
     "financial-data",
-    "financial-skills",
-    "multi-agent"
+    "financial-skills"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 21,
+    "stars": 22,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-26T05:01:02Z",
+    "last_commit_at": "2026-10-27T06:16:51Z",
     "first_commit_at": "2026-09-06T00:53:28Z",
-    "forks": 1,
+    "forks": 2,
     "watchers": 1,
-    "open_issues": 1,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.398,
-  "rank_in_category": 87,
+  "composite_score": 0.3829,
+  "rank_in_category": 97,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:38:29.201663Z",
-  "last_refreshed_at": "2026-10-26T19:30:52.959987Z",
+  "last_refreshed_at": "2026-10-27T19:03:13.023659Z",
   "consecutive_refresh_failures": 0
 }

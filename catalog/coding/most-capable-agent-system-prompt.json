@@ -1,9 +1,20 @@
 {
   "slug": "most-capable-agent-system-prompt",
   "name": "most-capable-agent-system-prompt",
-  "tagline": "Most Capable Agent System Prompt",
+  "tagline": "A copy-paste system prompt that has your coding agent (Claude Code, Codex, Cursor) build a self-improving agent system for any computer work.",
   "category": "coding",
-  "tags": [],
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "autonomous-agents",
+    "claude-code",
+    "codex",
+    "cursor",
+    "llm",
+    "prompt-engineering",
+    "self-improving-ai",
+    "system-prompt"
+  ],
   "author": {
     "type": "user",
     "handle": "fainir",
@@ -15,13 +26,13 @@
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 875,
+    "stars": 878,
     "downloads_30d": null,
-    "last_commit_at": "2026-03-28T20:23:55Z",
+    "last_commit_at": "2026-10-27T14:26:46Z",
     "first_commit_at": "2026-03-28T15:40:11Z",
-    "forks": 128,
+    "forks": 129,
     "watchers": 13,
     "open_issues": 1,
     "archived": false,
@@ -40,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2451,
-  "rank_in_category": 464,
+  "composite_score": 0.3497,
+  "rank_in_category": 237,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-10T16:42:17.270159Z",
-  "last_refreshed_at": "2026-10-26T19:10:01.449486Z",
+  "last_refreshed_at": "2026-10-27T18:42:22.848411Z",
   "consecutive_refresh_failures": 0
 }
