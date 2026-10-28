@@ -1,0 +1,57 @@
+{
+  "slug": "casecite",
+  "name": "casecite",
+  "tagline": "CaseCite is an open-source, self-hosted legal RAG caselaw research & document analysis platform.",
+  "category": "legal-research",
+  "tags": [
+    "caselaw",
+    "harvey",
+    "legal",
+    "legal-ai",
+    "legal-research",
+    "legal-tech",
+    "legaltech"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "thomasunise",
+    "url": "https://github.com/thomasunise"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thomasunise/casecite",
+    "huggingface": null,
+    "homepage": "https://thomasunise.com/casecite"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 51,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-28T15:22:13Z",
+    "first_commit_at": "2026-10-04T17:36:00Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2797,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-28T19:11:20.516979Z",
+  "last_refreshed_at": "2026-10-28T19:11:20.516983Z",
+  "consecutive_refresh_failures": 0
+}

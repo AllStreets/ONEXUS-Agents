@@ -1,0 +1,49 @@
+{
+  "slug": "colibri",
+  "name": "colibri",
+  "tagline": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "JustVugg",
+    "url": "https://github.com/JustVugg"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JustVugg/colibri",
+    "huggingface": null,
+    "homepage": "https://justvugg.github.io/colibri"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 44627,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-28T18:24:57Z",
+    "first_commit_at": "2026-07-01T12:27:49Z",
+    "forks": 5065,
+    "watchers": 353,
+    "open_issues": 161,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4157,
+  "rank_in_category": 97,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-28T18:46:53.379513Z",
+  "last_refreshed_at": "2026-10-28T18:46:53.379518Z",
+  "consecutive_refresh_failures": 0
+}

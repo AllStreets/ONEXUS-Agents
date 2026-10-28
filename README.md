@@ -9,8 +9,8 @@
 <a href="https://onexus-agents.vercel.app/catalog"><img alt="categories" src="https://img.shields.io/badge/categories-40-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
 <a href="https://github.com/AllStreets/ONEXUS-Agents/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/badge/license-Apache--2.0-00d4ff?style=for-the-badge&labelColor=07090c"/></a>
 <br/>
-<img alt="indexed" src="https://img.shields.io/badge/indexed-5%2C479_repos-6b7382?style=flat-square&labelColor=07090c"/>
-<img alt="declare mcp" src="https://img.shields.io/badge/self--declare_MCP-652-6b7382?style=flat-square&labelColor=07090c"/>
+<img alt="indexed" src="https://img.shields.io/badge/indexed-5%2C501_repos-6b7382?style=flat-square&labelColor=07090c"/>
+<img alt="declare mcp" src="https://img.shields.io/badge/self--declare_MCP-655-6b7382?style=flat-square&labelColor=07090c"/>
 <img alt="cadence" src="https://img.shields.io/badge/refresh-13%3A00_UTC_daily_%2B_17%3A00_UTC_sundays-6b7382?style=flat-square&labelColor=07090c"/>
 <img alt="python" src="https://img.shields.io/badge/python-3.12-6b7382?style=flat-square&labelColor=07090c"/>
 <img alt="node" src="https://img.shields.io/badge/node-24.x-6b7382?style=flat-square&labelColor=07090c"/>
@@ -47,12 +47,12 @@ say which is which:
 
 <!-- counts:start -->
 ```
-  5,479   repos indexed ................ crawled, scored, published as JSON
-    652   self-declare an MCP server ... their topics/manifest say so. we did not run them.
+  5,501   repos indexed ................ crawled, scored, published as JSON
+    655   self-declare an MCP server ... their topics/manifest say so. we did not run them.
      21   adapters hand-maintained ..... written and kept working by a person
 ```
 
-<sub>Counts from the 2026-10-27 refresh, written by the same run that built the catalog. The top two move every night; the bottom one only moves when a person writes an adapter. 8 entries currently carry a benchmark score.</sub>
+<sub>Counts from the 2026-10-28 refresh, written by the same run that built the catalog. The top two move every night; the bottom one only moves when a person writes an adapter. 8 entries currently carry a benchmark score.</sub>
 <!-- counts:end -->
 
 The middle number is the one to read carefully. `runnable: true` is **derived from the

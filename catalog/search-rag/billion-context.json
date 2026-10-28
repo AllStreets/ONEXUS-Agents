@@ -1,0 +1,51 @@
+{
+  "slug": "billion-context",
+  "name": "billion-context",
+  "tagline": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣",
+  "category": "search-rag",
+  "tags": [
+    "dsh-plugin"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ranxianglei",
+    "url": "https://github.com/ranxianglei"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ranxianglei/billion-context",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 3248,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-28T17:03:10Z",
+    "first_commit_at": "2026-08-06T08:26:54Z",
+    "forks": 277,
+    "watchers": 6,
+    "open_issues": 586,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3696,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-22T18:03:09.368926Z",
+  "last_refreshed_at": "2026-10-28T18:50:40.607780Z",
+  "consecutive_refresh_failures": 0
+}
