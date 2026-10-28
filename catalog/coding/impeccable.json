@@ -1,0 +1,55 @@
+{
+  "slug": "impeccable",
+  "name": "impeccable",
+  "tagline": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+  "category": "coding",
+  "tags": [
+    "agent-skills",
+    "ai",
+    "anti-slop",
+    "design",
+    "slop"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "pbakaus",
+    "url": "https://github.com/pbakaus"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pbakaus/impeccable",
+    "huggingface": null,
+    "homepage": "https://impeccable.style/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 92240,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-28T15:22:56Z",
+    "first_commit_at": "2025-11-16T01:52:04Z",
+    "forks": 5450,
+    "watchers": 202,
+    "open_issues": 46,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4402,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-28T18:43:45.385647Z",
+  "last_refreshed_at": "2026-10-28T18:43:45.385652Z",
+  "consecutive_refresh_failures": 0
+}

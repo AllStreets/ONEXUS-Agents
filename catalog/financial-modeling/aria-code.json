@@ -1,0 +1,57 @@
+{
+  "slug": "aria-code",
+  "name": "aria-code",
+  "tagline": "Terminal-first AI financial agent — runs fully offline via Ollama, 19+ cloud LLM providers, live market data, and a built-in quant research engine.",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-agent",
+    "backtesting",
+    "cli",
+    "mcp",
+    "terminal"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "artheras",
+    "url": "https://github.com/artheras"
+  },
+  "source": {
+    "primary": "github",
+    "github": "artheras/aria-code",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-28T13:24:08Z",
+    "first_commit_at": "2026-06-10T02:38:35Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4569,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-28T19:07:32.304640Z",
+  "last_refreshed_at": "2026-10-28T19:07:32.304644Z",
+  "consecutive_refresh_failures": 0
+}
