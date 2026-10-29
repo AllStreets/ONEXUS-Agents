@@ -1,27 +1,27 @@
 {
-  "slug": "goal-md",
-  "name": "goal-md",
-  "tagline": "A goal-specification file for autonomous coding agents. Generalizes Karpathy's autoresearch to domains with constructed metrics.",
-  "category": "coding",
+  "slug": "legal-agent-skills",
+  "name": "legal-agent-skills",
+  "tagline": "60 Chinese legal AI skills and 33 expert workflows, with Python tools, evaluations and deployable packages. MIT licensed.",
+  "category": "legal-research",
   "tags": [],
   "author": {
     "type": "user",
-    "handle": "jmilinovich",
-    "url": "https://github.com/jmilinovich"
+    "handle": "Decikingship",
+    "url": "https://github.com/Decikingship"
   },
   "source": {
     "primary": "github",
-    "github": "jmilinovich/goal-md",
+    "github": "Decikingship/legal-agent-skills",
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 166,
+    "stars": 6,
     "downloads_30d": null,
-    "last_commit_at": "2026-05-03T22:09:41Z",
-    "first_commit_at": "2026-03-12T06:17:14Z",
-    "forks": 14,
+    "last_commit_at": "2026-10-14T15:32:20Z",
+    "first_commit_at": "2026-10-08T05:18:57Z",
+    "forks": 4,
     "watchers": 0,
     "open_issues": 0,
     "archived": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2008,
-  "rank_in_category": 591,
+  "composite_score": 0.2315,
+  "rank_in_category": 94,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-28T18:48:54.043561Z",
-  "last_refreshed_at": "2026-10-28T18:48:54.043567Z",
+  "first_seen_at": "2026-10-29T19:17:12.379945Z",
+  "last_refreshed_at": "2026-10-29T19:17:12.379949Z",
   "consecutive_refresh_failures": 0
 }

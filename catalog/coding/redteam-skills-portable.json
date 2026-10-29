@@ -1,27 +1,27 @@
 {
-  "slug": "uikit-agent-skill",
-  "name": "UIKit-Agent-Skill",
-  "tagline": "UIKit Max - Agent skill that teaches AI coding assistants to write correct, modern, and performant UIKit code from iOS 13   through iOS 26",
+  "slug": "redteam-skills-portable",
+  "name": "redteam-skills-portable",
+  "tagline": "dsh-purge 红队技能包：23 个技能，开箱适配 30 种 IDE / Agent 宿主（Codex、Claude Code、Cursor、Qoder、Kiro、CodeBuddy、WorkBuddy、ZCode、Devin、Antigravity 等）",
   "category": "coding",
   "tags": [],
   "author": {
     "type": "user",
-    "handle": "tornikegomareli",
-    "url": "https://github.com/tornikegomareli"
+    "handle": "better6666",
+    "url": "https://github.com/better6666"
   },
   "source": {
     "primary": "github",
-    "github": "tornikegomareli/UIKit-Agent-Skill",
+    "github": "better6666/redteam-skills-portable",
     "huggingface": null,
     "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 49,
+    "stars": 6,
     "downloads_30d": null,
-    "last_commit_at": "2026-07-05T00:18:25Z",
-    "first_commit_at": "2026-03-13T13:55:51Z",
-    "forks": 5,
+    "last_commit_at": "2026-10-23T09:38:34Z",
+    "first_commit_at": "2026-10-23T08:43:40Z",
+    "forks": 1,
     "watchers": 0,
     "open_issues": 0,
     "archived": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2,
-  "rank_in_category": 593,
+  "composite_score": 0.2196,
+  "rank_in_category": 539,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-28T18:56:36.047533Z",
-  "last_refreshed_at": "2026-10-28T18:56:36.047537Z",
+  "first_seen_at": "2026-10-29T18:55:15.208307Z",
+  "last_refreshed_at": "2026-10-29T18:55:15.208311Z",
   "consecutive_refresh_failures": 0
 }

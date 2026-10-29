@@ -1,7 +1,7 @@
 {
   "slug": "benzi",
   "name": "Benzi",
-  "tagline": "Most coding agents grep and glob raw source into LLM's context window and hope the model is smart. Benzi compiles your codebase into a queryable map of calls, data flow, control flow and class hierarc",
+  "tagline": "Benzi is code intelligence infrastructure for AI models. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi resolves — and answers in O(1). Every language runs its own tree-sitter grammar ",
   "category": "coding",
   "tags": [
     "agent",
@@ -28,7 +28,7 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 170,
+    "stars": 171,
     "downloads_30d": null,
     "last_commit_at": "2026-10-23T23:46:30Z",
     "first_commit_at": "2026-07-29T18:20:45Z",
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3459,
-  "rank_in_category": 253,
+  "composite_score": 0.343,
+  "rank_in_category": 251,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:15:31.618346Z",
-  "last_refreshed_at": "2026-10-28T18:44:10.636893Z",
+  "last_refreshed_at": "2026-10-29T18:51:50.618614Z",
   "consecutive_refresh_failures": 0
 }

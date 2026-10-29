@@ -1,0 +1,60 @@
+{
+  "slug": "mercury-1-7b-gguf",
+  "name": "Mercury-1.7B-GGUF",
+  "tagline": "rrchat/Mercury-1.7B-GGUF — image-text-to-text",
+  "category": "reasoning-math",
+  "tags": [
+    "gguf",
+    "lfm3",
+    "lfm",
+    "liquid-ai",
+    "llama.cpp",
+    "reasoning",
+    "math",
+    "code",
+    "agent",
+    "tool-use"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "rrchat",
+    "url": "https://huggingface.co/rrchat"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "rrchat/Mercury-1.7B-GGUF",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-10-29T15:14:41Z",
+    "first_commit_at": "2026-10-29T09:11:40Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": null,
+    "pipeline_tag": "image-text-to-text",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2274,
+  "rank_in_category": 77,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-29T19:21:24.927599Z",
+  "last_refreshed_at": "2026-10-29T19:21:24.927601Z",
+  "consecutive_refresh_failures": 0
+}
