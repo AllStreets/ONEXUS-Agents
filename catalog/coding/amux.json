@@ -1,19 +1,19 @@
 {
   "slug": "amux",
   "name": "amux",
-  "tagline": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messagin",
+  "tagline": "The agent control plane: run Claude Code, Codex and Gemini CLI agents in parallel with a shared task board, schedules and usage-limit recovery. Native iPhone, iPad and Mac apps plus a web dashboard. S",
   "category": "coding",
   "tags": [
     "agent-orchestration",
     "agentic-ai",
     "ai-agents",
     "ai-coding-assistant",
-    "anthropic",
     "claude",
     "claude-code",
     "codex",
     "coding-agent",
-    "control-plane"
+    "control-plane",
+    "developer-tools"
   ],
   "author": {
     "type": "org",
@@ -30,9 +30,9 @@
   "metrics": {
     "stars": 548,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-28T18:29:33Z",
+    "last_commit_at": "2026-10-29T18:46:06Z",
     "first_commit_at": "2026-02-18T01:35:42Z",
-    "forks": 71,
+    "forks": 72,
     "watchers": 2,
     "open_issues": 1,
     "archived": false,
@@ -46,18 +46,15 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": [
-      "anthropic-sdk",
-      "mcp"
-    ]
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4035,
-  "rank_in_category": 124,
+  "composite_score": 0.3861,
+  "rank_in_category": 146,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-08T15:22:31.647721Z",
-  "last_refreshed_at": "2026-10-28T18:42:09.313950Z",
+  "last_refreshed_at": "2026-10-29T18:50:03.840434Z",
   "consecutive_refresh_failures": 0
 }

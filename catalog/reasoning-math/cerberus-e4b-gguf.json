@@ -1,7 +1,7 @@
 {
   "slug": "cerberus-e4b-gguf",
   "name": "Cerberus-E4B-GGUF",
-  "tagline": "rrchat/Cerberus-E4B-GGUF — None",
+  "tagline": "rrchat/Cerberus-E4B-GGUF — image-text-to-text",
   "category": "reasoning-math",
   "tags": [
     "gguf",
@@ -29,8 +29,8 @@
   "license": "apache-2.0",
   "metrics": {
     "stars": 2,
-    "downloads_30d": 0,
-    "last_commit_at": "2026-10-28T14:51:54Z",
+    "downloads_30d": 362,
+    "last_commit_at": "2026-10-29T15:14:06Z",
     "first_commit_at": "2026-10-28T14:34:51Z",
     "forks": null,
     "watchers": null,
@@ -39,7 +39,7 @@
     "is_fork": null,
     "is_template": null,
     "library_name": null,
-    "pipeline_tag": null,
+    "pipeline_tag": "image-text-to-text",
     "contributors_count": null,
     "releases_total": null,
     "latest_release_at": null,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2153,
-  "rank_in_category": 84,
+  "composite_score": 0.3114,
+  "rank_in_category": 36,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-28T19:17:37.355667Z",
-  "last_refreshed_at": "2026-10-28T19:17:37.355672Z",
+  "last_refreshed_at": "2026-10-29T19:21:24.476916Z",
   "consecutive_refresh_failures": 0
 }
