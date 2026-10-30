@@ -1,0 +1,63 @@
+{
+  "slug": "phpclaw-monorepo",
+  "name": "phpclaw-monorepo",
+  "tagline": "Open-source AI agent framework for PHP. Tools, memory, security guards and a ReAct loop built in. Works with Laravel, Symfony, WordPress, Drupal, Magento, Joomla, OpenCart, PrestaShop. Any LLM provide",
+  "category": "web-dev",
+  "tags": [
+    "agentic-ai",
+    "ai-agent",
+    "ai-agent-framework",
+    "ai-agents",
+    "anthropic",
+    "drupal",
+    "joomla",
+    "laravel",
+    "llm",
+    "magento"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "phpclaw-php",
+    "url": "https://github.com/phpclaw-php"
+  },
+  "source": {
+    "primary": "github",
+    "github": "phpclaw-php/phpclaw-monorepo",
+    "huggingface": null,
+    "homepage": "https://phpclaw.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-16T20:14:40Z",
+    "first_commit_at": "2026-09-23T19:58:24Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4293,
+  "rank_in_category": 113,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-30T18:37:56.492841Z",
+  "last_refreshed_at": "2026-10-30T18:37:56.492844Z",
+  "consecutive_refresh_failures": 0
+}

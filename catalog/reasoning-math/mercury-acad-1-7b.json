@@ -1,37 +1,37 @@
 {
-  "slug": "next-ocr-iq4-xs-gguf",
-  "name": "next-ocr-IQ4_XS-GGUF",
-  "tagline": "Lamapi/next-ocr-IQ4_XS-GGUF — image-text-to-text",
-  "category": "music",
+  "slug": "mercury-acad-1-7b",
+  "name": "Mercury-Acad-1.7B",
+  "tagline": "rrchat/Mercury-Acad-1.7B — image-text-to-text",
+  "category": "reasoning-math",
   "tags": [
     "transformers",
-    "gguf",
-    "text-generation-inference",
-    "unsloth",
-    "qwen3_vl",
-    "trl",
-    "sft",
-    "chemistry",
-    "code",
-    "climate"
+    "safetensors",
+    "lfm3_vl",
+    "image-text-to-text",
+    "lfm3",
+    "lfm",
+    "liquid-ai",
+    "reasoning",
+    "math",
+    "code"
   ],
   "author": {
     "type": "org",
-    "handle": "Lamapi",
-    "url": "https://huggingface.co/Lamapi"
+    "handle": "rrchat",
+    "url": "https://huggingface.co/rrchat"
   },
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "Lamapi/next-ocr-IQ4_XS-GGUF",
+    "huggingface": "rrchat/Mercury-Acad-1.7B",
     "homepage": null
   },
   "license": "apache-2.0",
   "metrics": {
     "stars": 1,
-    "downloads_30d": 56,
-    "last_commit_at": "2025-11-13T15:57:37Z",
-    "first_commit_at": "2025-11-13T15:57:14Z",
+    "downloads_30d": 13,
+    "last_commit_at": "2026-10-29T23:03:30Z",
+    "first_commit_at": "2026-10-29T22:44:12Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.36,
-  "rank_in_category": 46,
+  "composite_score": 0.2737,
+  "rank_in_category": 54,
   "discovered_via": "auto",
-  "first_seen_at": "2026-09-13T17:29:07.914539Z",
-  "last_refreshed_at": "2026-10-18T19:24:36.951936Z",
-  "consecutive_refresh_failures": 27
+  "first_seen_at": "2026-10-30T19:10:12.180674Z",
+  "last_refreshed_at": "2026-10-30T19:10:12.180678Z",
+  "consecutive_refresh_failures": 0
 }
