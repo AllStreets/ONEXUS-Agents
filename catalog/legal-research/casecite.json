@@ -4,14 +4,16 @@
   "tagline": "CaseCite is an open-source, self-hosted legal RAG caselaw research & document analysis platform.",
   "category": "legal-research",
   "tags": [
+    "ai-agent",
+    "ai-agents",
+    "ai-tools",
     "case-law",
     "caselaw",
     "harvey",
+    "law",
+    "lawtech",
     "legal",
-    "legal-ai",
-    "legal-research",
-    "legal-tech",
-    "legaltech"
+    "legal-ai"
   ],
   "author": {
     "type": "user",
@@ -26,11 +28,11 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 124,
+    "stars": 138,
     "downloads_30d": null,
     "last_commit_at": "2026-10-29T13:07:30Z",
     "first_commit_at": "2026-10-04T17:36:00Z",
-    "forks": 13,
+    "forks": 17,
     "watchers": 0,
     "open_issues": 15,
     "archived": false,
@@ -49,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3166,
-  "rank_in_category": 33,
+  "composite_score": 0.3198,
+  "rank_in_category": 31,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-28T19:11:20.516979Z",
-  "last_refreshed_at": "2026-10-29T19:16:36.457898Z",
+  "last_refreshed_at": "2026-10-30T18:58:35.383553Z",
   "consecutive_refresh_failures": 0
 }

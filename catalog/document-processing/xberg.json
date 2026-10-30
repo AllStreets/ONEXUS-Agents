@@ -1,7 +1,7 @@
 {
   "slug": "xberg",
   "name": "xberg",
-  "tagline": "Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift",
+  "tagline": "The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.",
   "category": "document-processing",
   "tags": [
     "bun",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 9460,
+    "stars": 9468,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-29T18:42:25Z",
+    "last_commit_at": "2026-10-30T18:29:19Z",
     "first_commit_at": "2025-01-31T21:47:37Z",
-    "forks": 606,
+    "forks": 608,
     "watchers": 31,
-    "open_issues": 20,
+    "open_issues": 28,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.7089,
+  "composite_score": 0.709,
   "rank_in_category": 4,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-29T18:55:19.009505Z",
-  "last_refreshed_at": "2026-10-29T18:55:19.009509Z",
+  "first_seen_at": "2026-10-30T18:33:35.022052Z",
+  "last_refreshed_at": "2026-10-30T18:33:35.022055Z",
   "consecutive_refresh_failures": 0
 }

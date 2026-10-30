@@ -1,0 +1,60 @@
+{
+  "slug": "stop-that-shit",
+  "name": "stop-that-shit",
+  "tagline": "Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested has",
+  "category": "coding",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "codex-cli",
+    "codex-plugin",
+    "developer-tools",
+    "guardrails",
+    "hermes-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "lennney",
+    "url": "https://github.com/lennney"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lennney/stop-that-shit",
+    "huggingface": null,
+    "homepage": "https://lennney.com/zh/stop-that-shit"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3410,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-27T14:34:22Z",
+    "first_commit_at": "2026-08-11T15:31:38Z",
+    "forks": 69,
+    "watchers": 3,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3416,
+  "rank_in_category": 255,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-30T18:28:58.796683Z",
+  "last_refreshed_at": "2026-10-30T18:28:58.796687Z",
+  "consecutive_refresh_failures": 0
+}
