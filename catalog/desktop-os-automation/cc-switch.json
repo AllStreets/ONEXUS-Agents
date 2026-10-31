@@ -1,19 +1,19 @@
 {
   "slug": "cc-switch",
   "name": "cc-switch",
-  "tagline": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+  "tagline": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
   "category": "desktop-os-automation",
   "tags": [
     "ai-tools",
     "claude-code",
     "codex",
+    "deepseek-harness",
     "desktop-app",
     "grok",
     "grokbuild",
     "hermes",
-    "hermes-agent",
-    "mcp",
-    "open-source"
+    "kimi-code",
+    "mcp"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 146772,
+    "stars": 150607,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-20T15:35:52Z",
+    "last_commit_at": "2026-10-31T16:11:48Z",
     "first_commit_at": "2025-08-04T14:16:26Z",
-    "forks": 9689,
+    "forks": 9900,
     "watchers": 264,
-    "open_issues": 1483,
+    "open_issues": 1116,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.5836,
+  "composite_score": 0.5935,
   "rank_in_category": 1,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T17:51:08.009114Z",
-  "last_refreshed_at": "2026-10-20T17:51:08.009119Z",
-  "consecutive_refresh_failures": 10
+  "first_seen_at": "2026-10-31T17:34:16.369674Z",
+  "last_refreshed_at": "2026-10-31T17:34:16.369677Z",
+  "consecutive_refresh_failures": 0
 }
