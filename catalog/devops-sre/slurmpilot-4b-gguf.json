@@ -1,0 +1,63 @@
+{
+  "slug": "slurmpilot-4b-gguf",
+  "name": "SlurmPilot-4B-GGUF",
+  "tagline": "gparitosh007/SlurmPilot-4B-GGUF — text-generation",
+  "category": "devops-sre",
+  "tags": [
+    "transformers",
+    "safetensors",
+    "gguf",
+    "qwen3",
+    "text-generation",
+    "slurm-agent",
+    "hpc-agent",
+    "devops",
+    "agentic",
+    "mcp"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "gparitosh007",
+    "url": "https://huggingface.co/gparitosh007"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "gparitosh007/SlurmPilot-4B-GGUF",
+    "homepage": null
+  },
+  "license": "cc-by-nc-sa-4.0",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": 194,
+    "last_commit_at": "2026-11-01T17:56:20Z",
+    "first_commit_at": "2026-10-13T14:22:31Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "transformers",
+    "pipeline_tag": "text-generation",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp",
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5111,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-01T18:42:24.647342Z",
+  "last_refreshed_at": "2026-11-01T18:42:24.647344Z",
+  "consecutive_refresh_failures": 0
+}
