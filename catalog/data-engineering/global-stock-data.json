@@ -1,7 +1,7 @@
 {
   "slug": "global-stock-data",
   "name": "global-stock-data",
-  "tagline": "美股与全球市场数据工具包（给 AI 编程助手用）：官方源优先、零鉴权、标注合规级别 | US & global market data for AI coding assistants — zero-auth, official sources. CBOE options + 0DTE, VIX term structure, FINRA short data, SEC Form 4 / 13F,",
+  "tagline": "美股与全球市场数据工具包（给 AI 编程助手用）：官方源优先、零鉴权、标注合规级别 | US & global market data for AI coding assistants — zero-auth, official sources. CBOE options + 0DTE, VIX term structure, FINRA short data, SEC Form 4/13F, c",
   "category": "data-engineering",
   "tags": [
     "0dte",
@@ -28,9 +28,9 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 1826,
+    "stars": 1834,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-28T01:33:34Z",
+    "last_commit_at": "2026-11-02T09:31:44Z",
     "first_commit_at": "2026-05-20T10:12:23Z",
     "forks": 271,
     "watchers": 10,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6098,
+  "composite_score": 0.6163,
   "rank_in_category": 38,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-21T18:00:13.920855Z",
-  "last_refreshed_at": "2026-10-31T17:35:24.034850Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-11-02T22:14:36.902852Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,58 @@
+{
+  "slug": "novel-config-copilot",
+  "name": "novel-config-copilot",
+  "tagline": "网文平台资源配置决策助手：GraphRAG 两阶段检索 + ReAct Agent + 规则引擎兜底，方案合法率 60%→100%",
+  "category": "web-dev",
+  "tags": [
+    "fastapi",
+    "graphrag",
+    "knowledge-graph",
+    "llm",
+    "neo4j",
+    "python",
+    "rag",
+    "react-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "weir36",
+    "url": "https://github.com/weir36"
+  },
+  "source": {
+    "primary": "github",
+    "github": "weir36/novel-config-copilot",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-02T08:26:46Z",
+    "first_commit_at": "2026-11-02T08:22:22Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3747,
+  "rank_in_category": 154,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-02T22:19:29.892248Z",
+  "last_refreshed_at": "2026-11-02T22:19:29.892252Z",
+  "consecutive_refresh_failures": 0
+}

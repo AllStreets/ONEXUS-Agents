@@ -1,0 +1,60 @@
+{
+  "slug": "qwen3-8-flash-next-nvfp4-coder-lean",
+  "name": "Qwen3.8-Flash-Next-NVFP4-Coder-Lean",
+  "tagline": "elisepaul/Qwen3.8-Flash-Next-NVFP4-Coder-Lean — text-generation",
+  "category": "coding",
+  "tags": [
+    "vllm",
+    "safetensors",
+    "qwen4_exp",
+    "dgx",
+    "spark",
+    "dgx-spark",
+    "one-spark",
+    "single-node",
+    "gb10",
+    "blackwell"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "elisepaul",
+    "url": "https://huggingface.co/elisepaul"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "elisepaul/Qwen3.8-Flash-Next-NVFP4-Coder-Lean",
+    "homepage": null
+  },
+  "license": "other",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": 153,
+    "last_commit_at": "2026-11-02T22:06:50Z",
+    "first_commit_at": "2026-10-24T02:39:28Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "vllm",
+    "pipeline_tag": "text-generation",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2682,
+  "rank_in_category": 427,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-02T22:18:44.564641Z",
+  "last_refreshed_at": "2026-11-02T22:18:44.564643Z",
+  "consecutive_refresh_failures": 0
+}
