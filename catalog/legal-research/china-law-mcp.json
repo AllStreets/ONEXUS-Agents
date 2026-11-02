@@ -1,0 +1,62 @@
+{
+  "slug": "china-law-mcp",
+  "name": "china-law-mcp",
+  "tagline": "⚖️ 中国法律条文 MCP 服务器 | 378 部法律 · 23,995 条现行法条检索 + 引用核验（防幻觉）| 免费、免注册、免 API key、本地运行 | Chinese statute retrieval + citation verification for LLMs",
+  "category": "legal-research",
+  "tags": [
+    "ai-agent",
+    "china-law",
+    "chinese-law",
+    "citation-verification",
+    "claude",
+    "cursor",
+    "hallucination-detection",
+    "law",
+    "legal-ai",
+    "legal-nlp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "THUboran",
+    "url": "https://github.com/THUboran"
+  },
+  "source": {
+    "primary": "github",
+    "github": "THUboran/china-law-mcp",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/china-law-mcp/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-07T16:51:20Z",
+    "first_commit_at": "2026-10-04T03:10:10Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2855,
+  "rank_in_category": 53,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-02T22:36:36.095615Z",
+  "last_refreshed_at": "2026-11-02T22:36:36.095618Z",
+  "consecutive_refresh_failures": 0
+}

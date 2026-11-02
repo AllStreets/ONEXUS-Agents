@@ -1,7 +1,7 @@
 {
   "slug": "context-mode",
   "name": "context-mode",
-  "tagline": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+  "tagline": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI",
   "category": "coding",
   "tags": [
     "antigravity",
@@ -24,15 +24,15 @@
     "primary": "github",
     "github": "mksglu/context-mode",
     "huggingface": null,
-    "homepage": "https://contextmode.ai/"
+    "homepage": "https://contextmode.ai/?utm_source=github&utm_medium=about"
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 33123,
+    "stars": 33270,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-01T14:38:20Z",
+    "last_commit_at": "2026-11-02T22:05:27Z",
     "first_commit_at": "2026-02-23T06:03:12Z",
-    "forks": 2283,
+    "forks": 2295,
     "watchers": 110,
     "open_issues": 354,
     "archived": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4767,
+  "composite_score": 0.477,
   "rank_in_category": 15,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:15:13.427070Z",
-  "last_refreshed_at": "2026-11-01T18:18:41.026314Z",
+  "last_refreshed_at": "2026-11-02T22:12:38.285480Z",
   "consecutive_refresh_failures": 0
 }

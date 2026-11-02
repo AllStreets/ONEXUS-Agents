@@ -1,0 +1,59 @@
+{
+  "slug": "wrkflw",
+  "name": "wrkflw",
+  "tagline": "Validate and Run GitHub Actions locally.",
+  "category": "devops-sre",
+  "tags": [
+    "ci",
+    "cli",
+    "devops",
+    "github",
+    "github-actions",
+    "hacktoberfest",
+    "ratatui",
+    "rust",
+    "tui"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "bahdotsh",
+    "url": "https://github.com/bahdotsh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bahdotsh/wrkflw",
+    "huggingface": null,
+    "homepage": "https://github.com/bahdotsh/wrkflw"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 3339,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-02T16:21:05Z",
+    "first_commit_at": "2025-03-28T17:13:14Z",
+    "forks": 63,
+    "watchers": 14,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5826,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-02T22:26:50.616503Z",
+  "last_refreshed_at": "2026-11-02T22:26:50.616507Z",
+  "consecutive_refresh_failures": 0
+}

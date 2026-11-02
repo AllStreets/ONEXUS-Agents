@@ -1,7 +1,7 @@
 {
   "slug": "mangrove-agent",
   "name": "mangrove-agent",
-  "tagline": "Local MCP server and provider agnostic plugin for AI trading agents. Connect to Mangrove strategy research, backtesting, paper trading and supported execution workflows, with Mangrove-owned determinis",
+  "tagline": "Mangrove gives trading agents guardrails. Local MCP server and plugin: built-in risk management (circuit breakers, risk-based position sizing, automatic stop-loss and take-profit orders), 100+ strateg",
   "category": "financial-modeling",
   "tags": [
     "agent-marketplace",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 5,
+    "stars": 6,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-01T03:39:56Z",
+    "last_commit_at": "2026-11-02T22:26:51Z",
     "first_commit_at": "2026-03-07T07:31:30Z",
     "forks": 1,
     "watchers": 1,
-    "open_issues": 39,
+    "open_issues": 37,
     "archived": false,
     "is_fork": false,
     "is_template": true,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3378,
-  "rank_in_category": 146,
+  "composite_score": 0.3413,
+  "rank_in_category": 141,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-30T20:57:19.009810Z",
-  "last_refreshed_at": "2026-11-01T18:34:16.144616Z",
+  "last_refreshed_at": "2026-11-02T22:31:25.445170Z",
   "consecutive_refresh_failures": 0
 }
