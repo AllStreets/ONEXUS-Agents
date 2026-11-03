@@ -1,7 +1,7 @@
 {
   "slug": "global-stock-data",
   "name": "global-stock-data",
-  "tagline": "US stock market data for AI coding assistants — zero-auth, official sources. CBOE options with full Greeks + 0DTE flow, FINRA market-wide short volume, SEC EDGAR filing stream, and a free market-wide ",
+  "tagline": "美股与全球市场数据工具包（给 AI 编程助手用）：官方源优先、零鉴权、标注合规级别 | US & global market data for AI coding assistants — zero-auth, official sources. CBOE options + 0DTE, VIX term structure, FINRA short data, SEC Form 4/13F, c",
   "category": "data-science-ml",
   "tags": [
     "0dte",
@@ -28,12 +28,12 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 1512,
+    "stars": 1839,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-01T06:12:19Z",
+    "last_commit_at": "2026-11-02T09:31:44Z",
     "first_commit_at": "2026-05-20T10:12:23Z",
-    "forks": 234,
-    "watchers": 7,
+    "forks": 271,
+    "watchers": 10,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2926,
-  "rank_in_category": 54,
+  "composite_score": 0.3519,
+  "rank_in_category": 23,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-28T14:51:55.949956Z",
-  "last_refreshed_at": "2026-09-02T17:05:27.059497Z",
-  "consecutive_refresh_failures": 15
+  "first_seen_at": "2026-10-21T18:00:13.920855Z",
+  "last_refreshed_at": "2026-11-03T20:04:39.703944Z",
+  "consecutive_refresh_failures": 0
 }

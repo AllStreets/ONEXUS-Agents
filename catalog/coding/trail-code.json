@@ -1,7 +1,7 @@
 {
   "slug": "trail-code",
   "name": "Trail-Code",
-  "tagline": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
+  "tagline": "One shared memory for every coding agent on your team. Claude Code, Cursor and Codex get a map of your code and your team's past decisions, so they pick up where you left off.",
   "category": "coding",
   "tags": [
     "ai-agents",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "trailhq/Trail-Code",
     "huggingface": null,
-    "homepage": "https://trailhq.com/graft"
+    "homepage": "https://trailhq.com/trail-code"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 11033,
+    "stars": 11065,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-02T14:46:12Z",
+    "last_commit_at": "2026-11-03T19:23:12Z",
     "first_commit_at": "2026-07-03T12:05:37Z",
-    "forks": 981,
+    "forks": 984,
     "watchers": 34,
-    "open_issues": 282,
+    "open_issues": 283,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4499,
+  "composite_score": 0.4503,
   "rank_in_category": 44,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:16:40.959218Z",
-  "last_refreshed_at": "2026-11-02T22:13:59.748478Z",
+  "last_refreshed_at": "2026-11-03T20:04:00.124604Z",
   "consecutive_refresh_failures": 0
 }

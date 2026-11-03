@@ -1,7 +1,7 @@
 {
   "slug": "colibri",
   "name": "colibri",
-  "tagline": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+  "tagline": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
   "category": "coding",
   "tags": [],
   "author": {
@@ -17,13 +17,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 46489,
+    "stars": 47156,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-02T21:02:53Z",
+    "last_commit_at": "2026-11-03T19:58:47Z",
     "first_commit_at": "2026-07-01T12:27:49Z",
-    "forks": 5374,
-    "watchers": 375,
-    "open_issues": 153,
+    "forks": 5453,
+    "watchers": 379,
+    "open_issues": 169,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4124,
-  "rank_in_category": 94,
+  "composite_score": 0.4127,
+  "rank_in_category": 95,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-28T18:46:53.379513Z",
-  "last_refreshed_at": "2026-11-02T22:15:17.167144Z",
+  "last_refreshed_at": "2026-11-03T20:05:23.348757Z",
   "consecutive_refresh_failures": 0
 }
