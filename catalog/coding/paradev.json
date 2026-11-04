@@ -1,7 +1,7 @@
 {
   "slug": "paradev",
   "name": "Paradev",
-  "tagline": "Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.",
+  "tagline": "Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.",
   "category": "coding",
   "tags": [
     "ade",
@@ -26,15 +26,15 @@
     "huggingface": null,
     "homepage": "https://paradev.com/"
   },
-  "license": "NOASSERTION",
+  "license": "MIT",
   "metrics": {
-    "stars": 15876,
+    "stars": 15911,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-03T19:52:39Z",
+    "last_commit_at": "2026-11-04T20:15:54Z",
     "first_commit_at": "2025-10-21T09:20:02Z",
-    "forks": 1416,
+    "forks": 1420,
     "watchers": 33,
-    "open_issues": 1160,
+    "open_issues": 1167,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4092,
-  "rank_in_category": 101,
+  "composite_score": 0.4093,
+  "rank_in_category": 102,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-26T19:04:58.197648Z",
-  "last_refreshed_at": "2026-11-03T20:02:02.730671Z",
+  "last_refreshed_at": "2026-11-04T20:20:17.182787Z",
   "consecutive_refresh_failures": 0
 }

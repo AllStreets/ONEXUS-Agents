@@ -1,39 +1,29 @@
 {
   "slug": "courtlistener-mcp",
   "name": "courtlistener-mcp",
-  "tagline": "An MCP (Model Context Protocol) server providing AI agents access to CourtListener's comprehensive legal database, featuring semantic search, hybrid search, citation verification, and research tools.",
+  "tagline": "An MCP server that bridges Anthropic’s Claude (and other LLMs) with the CourtListener API for live legal data—opinions, dockets, court records, and more. Designed to power legal research and complianc",
   "category": "legal-research",
-  "tags": [
-    "case-law",
-    "courtlistener",
-    "fastmcp",
-    "legal-research",
-    "legal-tech",
-    "mcp",
-    "mcp-server",
-    "python",
-    "semantic-search"
-  ],
+  "tags": [],
   "author": {
-    "type": "org",
-    "handle": "DefendTheDisabled",
-    "url": "https://github.com/DefendTheDisabled"
+    "type": "user",
+    "handle": "blakeox",
+    "url": "https://github.com/blakeox"
   },
   "source": {
     "primary": "github",
-    "github": "DefendTheDisabled/courtlistener-mcp",
+    "github": "blakeox/courtlistener-mcp",
     "huggingface": null,
     "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 7,
+    "stars": 16,
     "downloads_30d": null,
-    "last_commit_at": "2026-03-07T19:01:03Z",
-    "first_commit_at": "2026-01-11T22:24:34Z",
-    "forks": 1,
+    "last_commit_at": "2026-10-13T20:18:29Z",
+    "first_commit_at": "2025-07-28T22:48:43Z",
+    "forks": 7,
     "watchers": 0,
-    "open_issues": 1,
+    "open_issues": 14,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,17 +35,15 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": [
-      "mcp"
-    ]
+    "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.2245,
-  "rank_in_category": 100,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2905,
+  "rank_in_category": 51,
   "discovered_via": "auto",
-  "first_seen_at": "2026-05-01T14:26:50.228851Z",
-  "last_refreshed_at": "2026-11-03T20:28:54.545688Z",
+  "first_seen_at": "2026-11-04T20:46:46.026805Z",
+  "last_refreshed_at": "2026-11-04T20:46:46.026808Z",
   "consecutive_refresh_failures": 0
 }

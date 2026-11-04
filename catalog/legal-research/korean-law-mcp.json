@@ -1,7 +1,7 @@
 {
   "slug": "korean-law-mcp",
   "name": "korean-law-mcp",
-  "tagline": "법제처 국가법령정보를 LLM에서 바로 조회하는 MCP 서버. 법령·판례·조례 검색과 인용 검증 | MCP server for Korean law — search statutes, precedents, and ordinances, and verify citations",
+  "tagline": "법령·판례를 AI가 찾고 인용까지 검증하는 MCP 서버 — 법제처 API 42개를 도구 10개로: 법령·조문·별표, 판례·헌재·해석례 23개 도메인, 조례 정비 레이더, 신구조문대비표 | MCP server for Korean law — statutes, precedents, ordinances, comparison tables and citation ve",
   "category": "legal-research",
   "tags": [
     "case-law",
@@ -28,7 +28,7 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 2831,
+    "stars": 2836,
     "downloads_30d": null,
     "last_commit_at": "2026-11-03T12:23:15Z",
     "first_commit_at": "2025-12-19T10:54:19Z",
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4755,
+  "composite_score": 0.4746,
   "rank_in_category": 2,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-11T17:19:30.548093Z",
-  "last_refreshed_at": "2026-11-03T20:28:31.779536Z",
+  "last_refreshed_at": "2026-11-04T20:44:16.879201Z",
   "consecutive_refresh_failures": 0
 }
