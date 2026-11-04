@@ -1,7 +1,7 @@
 {
   "slug": "orca",
   "name": "orca",
-  "tagline": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+  "tagline": "Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.",
   "category": "coding",
   "tags": [
     "ade",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 114380,
+    "stars": 115341,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-03T20:00:14Z",
+    "last_commit_at": "2026-11-04T20:19:07Z",
     "first_commit_at": "2026-03-17T03:29:24Z",
-    "forks": 7217,
-    "watchers": 155,
-    "open_issues": 8039,
+    "forks": 7289,
+    "watchers": 156,
+    "open_issues": 8158,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4319,
-  "rank_in_category": 74,
+  "composite_score": 0.4321,
+  "rank_in_category": 73,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-10T15:36:03.673586Z",
-  "last_refreshed_at": "2026-11-03T20:02:24.799098Z",
+  "last_refreshed_at": "2026-11-04T20:20:36.561296Z",
   "consecutive_refresh_failures": 0
 }

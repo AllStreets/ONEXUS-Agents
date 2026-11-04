@@ -1,11 +1,12 @@
 {
   "slug": "kota",
   "name": "kota",
-  "tagline": "A lightweight, highly extensible ai code agent, built in Rust.",
+  "tagline": "A lightweight, hackable agent harness written in Rust.",
   "category": "coding",
   "tags": [
     "agent",
     "code-agent",
+    "harness",
     "llm",
     "rust"
   ],
@@ -24,7 +25,7 @@
   "metrics": {
     "stars": 101,
     "downloads_30d": null,
-    "last_commit_at": "2026-04-08T14:53:05Z",
+    "last_commit_at": "2026-11-04T07:27:00Z",
     "first_commit_at": "2026-01-11T01:22:21Z",
     "forks": 12,
     "watchers": 3,
@@ -45,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2044,
-  "rank_in_category": 588,
+  "composite_score": 0.308,
+  "rank_in_category": 327,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:23:46.864043Z",
-  "last_refreshed_at": "2026-11-03T20:01:03.885638Z",
+  "last_refreshed_at": "2026-11-04T20:19:24.904546Z",
   "consecutive_refresh_failures": 0
 }

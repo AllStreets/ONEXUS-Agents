@@ -16,21 +16,21 @@
     "llm"
   ],
   "author": {
-    "type": "user",
-    "handle": "wspl",
-    "url": "https://github.com/wspl"
+    "type": "org",
+    "handle": "demi-sh",
+    "url": "https://github.com/demi-sh"
   },
   "source": {
     "primary": "github",
-    "github": "wspl/demi",
+    "github": "demi-sh/demi",
     "huggingface": null,
     "homepage": "https://demi.sh/"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 21,
+    "stars": 23,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-03T19:29:22Z",
+    "last_commit_at": "2026-11-04T19:08:31Z",
     "first_commit_at": "2026-06-27T07:50:56Z",
     "forks": 1,
     "watchers": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3798,
-  "rank_in_category": 151,
+  "composite_score": 0.3815,
+  "rank_in_category": 148,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-03T20:09:38.356977Z",
-  "last_refreshed_at": "2026-11-03T20:09:38.356981Z",
+  "first_seen_at": "2026-11-04T20:27:15.088271Z",
+  "last_refreshed_at": "2026-11-04T20:27:15.088274Z",
   "consecutive_refresh_failures": 0
 }
