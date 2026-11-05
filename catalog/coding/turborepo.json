@@ -1,0 +1,55 @@
+{
+  "slug": "turborepo",
+  "name": "turborepo",
+  "tagline": "The build system for coding agents.",
+  "category": "coding",
+  "tags": [
+    "build-system",
+    "build-tool",
+    "javascript",
+    "monorepo",
+    "typescript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "vercel",
+    "url": "https://github.com/vercel"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vercel/turborepo",
+    "huggingface": null,
+    "homepage": "https://turborepo.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 31307,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-05T20:30:05Z",
+    "first_commit_at": "2019-08-22T02:13:34Z",
+    "forks": 2477,
+    "watchers": 143,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4445,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-05T20:32:32.458760Z",
+  "last_refreshed_at": "2026-11-05T20:32:32.458763Z",
+  "consecutive_refresh_failures": 0
+}

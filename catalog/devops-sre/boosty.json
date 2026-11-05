@@ -1,0 +1,60 @@
+{
+  "slug": "boosty",
+  "name": "boosty",
+  "tagline": "Boosty MCP servers for DeFi - Volume generation, trading, and wallet management",
+  "category": "devops-sre",
+  "tags": [
+    "agents-md",
+    "ai-agents",
+    "automation",
+    "bot",
+    "bundle",
+    "bundler",
+    "crypto",
+    "deployer",
+    "ethereum",
+    "evm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nirholas",
+    "url": "https://github.com/nirholas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nirholas/boosty",
+    "huggingface": null,
+    "homepage": "https://github.com/nirholas/boosty"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 30,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-04T23:08:27Z",
+    "first_commit_at": "2026-01-26T06:08:43Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4877,
+  "rank_in_category": 39,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:18.583462Z",
+  "last_refreshed_at": "2026-11-05T20:51:54.498532Z",
+  "consecutive_refresh_failures": 0
+}

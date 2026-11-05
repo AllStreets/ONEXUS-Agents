@@ -1,0 +1,62 @@
+{
+  "slug": "awesome-ai-agent-stack",
+  "name": "awesome-ai-agent-stack",
+  "tagline": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LLMs, sorted by layer and ranked by GitHub stars.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "ai-tools",
+    "artificial-intelligence",
+    "awesome",
+    "awesome-list",
+    "claude-code",
+    "coding-agents",
+    "developer-tools",
+    "generative-ai"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tayyabimam1",
+    "url": "https://github.com/tayyabimam1"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tayyabimam1/awesome-ai-agent-stack",
+    "huggingface": null,
+    "homepage": "https://tayyabimam1.github.io/awesome-ai-agent-stack/"
+  },
+  "license": "CC-BY-4.0",
+  "metrics": {
+    "stars": 30,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-05T05:31:42Z",
+    "first_commit_at": "2026-09-18T07:33:14Z",
+    "forks": 8,
+    "watchers": 0,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.0,
+  "rank_in_category": 487,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-05T20:44:35.084463Z",
+  "last_refreshed_at": "2026-11-05T20:44:35.084466Z",
+  "consecutive_refresh_failures": 0
+}
