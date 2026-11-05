@@ -1,0 +1,49 @@
+{
+  "slug": "swe-agent-mini-swe-agent",
+  "name": "SWE-agent-mini-swe-agent",
+  "tagline": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "kIieret",
+    "url": "https://github.com/kIieret"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kIieret/SWE-agent-mini-swe-agent",
+    "huggingface": null,
+    "homepage": "https://kiieret.github.io/SWE-agent-mini-swe-agent/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 37,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-02T23:40:17Z",
+    "first_commit_at": "2025-06-28T20:18:36Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2859,
+  "rank_in_category": 393,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-05T20:33:03.323716Z",
+  "last_refreshed_at": "2026-11-05T20:33:03.323718Z",
+  "consecutive_refresh_failures": 0
+}

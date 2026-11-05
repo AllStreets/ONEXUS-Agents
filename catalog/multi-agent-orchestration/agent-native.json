@@ -1,12 +1,19 @@
 {
   "slug": "agent-native",
   "name": "agent-native",
-  "tagline": "A framework for building agent-native applications.",
+  "tagline": "A framework for building agentic apps",
   "category": "multi-agent-orchestration",
   "tags": [
+    "agent-framework",
+    "agent-native",
+    "agentic-ai",
     "agents",
     "ai",
-    "react"
+    "ai-agents",
+    "framework",
+    "generative-ui",
+    "mcp",
+    "open-source"
   ],
   "author": {
     "type": "org",
@@ -17,17 +24,17 @@
     "primary": "github",
     "github": "BuilderIO/agent-native",
     "huggingface": null,
-    "homepage": "https://agent-native.com/"
+    "homepage": "https://www.agent-native.com/"
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 4657,
+    "stars": 7623,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-03T17:14:37Z",
+    "last_commit_at": "2026-11-05T20:44:10Z",
     "first_commit_at": "2026-03-12T14:31:41Z",
-    "forks": 438,
-    "watchers": 9,
-    "open_issues": 58,
+    "forks": 698,
+    "watchers": 19,
+    "open_issues": 205,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -39,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.3794,
-  "rank_in_category": 170,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5114,
+  "rank_in_category": 14,
   "discovered_via": "auto",
-  "first_seen_at": "2026-06-21T16:03:49.188156Z",
-  "last_refreshed_at": "2026-09-03T17:14:43.501326Z",
-  "consecutive_refresh_failures": 17
+  "first_seen_at": "2026-10-20T04:27:28.124220Z",
+  "last_refreshed_at": "2026-11-05T20:45:41.937763Z",
+  "consecutive_refresh_failures": 0
 }

@@ -24,13 +24,13 @@
     "primary": "github",
     "github": "nirholas/lyra-intel",
     "huggingface": null,
-    "homepage": "https://nirholas.github.io/lyra-intel/"
+    "homepage": "https://lyra-intel.modelcontextprotocol.name/"
   },
   "license": "NOASSERTION",
   "metrics": {
     "stars": 29,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-09T16:15:21Z",
+    "last_commit_at": "2026-11-04T22:23:15Z",
     "first_commit_at": "2025-12-03T17:46:15Z",
     "forks": 5,
     "watchers": 0,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3177,
-  "rank_in_category": 306,
+  "composite_score": 0.3406,
+  "rank_in_category": 264,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-04T20:38:05.025543Z",
-  "last_refreshed_at": "2026-11-04T20:38:05.025546Z",
+  "first_seen_at": "2026-11-05T20:51:56.155664Z",
+  "last_refreshed_at": "2026-11-05T20:51:56.155668Z",
   "consecutive_refresh_failures": 0
 }

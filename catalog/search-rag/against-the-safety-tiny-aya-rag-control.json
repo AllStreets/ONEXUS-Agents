@@ -1,0 +1,60 @@
+{
+  "slug": "against-the-safety-tiny-aya-rag-control",
+  "name": "against-the-safety-tiny-aya-rag-control",
+  "tagline": "BMEscanor/against-the-safety-tiny-aya-rag-control — text-generation",
+  "category": "search-rag",
+  "tags": [
+    "peft",
+    "safetensors",
+    "lora",
+    "qlora",
+    "rag",
+    "retrieval",
+    "abstention",
+    "citations",
+    "agent",
+    "tiny-aya"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "BMEscanor",
+    "url": "https://huggingface.co/BMEscanor"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "BMEscanor/against-the-safety-tiny-aya-rag-control",
+    "homepage": null
+  },
+  "license": "cc-by-nc-4.0",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": 0,
+    "last_commit_at": "2026-11-05T19:28:09Z",
+    "first_commit_at": "2026-11-05T06:17:35Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "peft",
+    "pipeline_tag": "text-generation",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2275,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-05T21:04:12.567066Z",
+  "last_refreshed_at": "2026-11-05T21:04:12.567069Z",
+  "consecutive_refresh_failures": 0
+}
