@@ -5,15 +5,15 @@
   "category": "data-science-ml",
   "tags": [
     "agentic-ai",
-    "apache-ray",
     "automl",
     "automl-python",
     "benchmarksql",
-    "claude-ai",
-    "dab",
+    "claude",
     "dabstep",
     "data-quality",
-    "data-science-agents"
+    "data-science-agents",
+    "etl",
+    "gpt6"
   ],
   "author": {
     "type": "user",
@@ -28,7 +28,7 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 17,
+    "stars": 18,
     "downloads_30d": null,
     "last_commit_at": "2026-11-04T00:32:22Z",
     "first_commit_at": "2026-09-16T01:32:28Z",
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2788,
-  "rank_in_category": 64,
+  "composite_score": 0.2786,
+  "rank_in_category": 65,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:31:35.341528Z",
-  "last_refreshed_at": "2026-11-05T20:50:08.727425Z",
+  "last_refreshed_at": "2026-11-06T20:12:40.964455Z",
   "consecutive_refresh_failures": 0
 }

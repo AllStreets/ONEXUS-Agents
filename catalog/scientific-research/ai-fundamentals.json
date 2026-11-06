@@ -6,7 +6,9 @@
   "tags": [
     "ai-agent",
     "ai-infra",
-    "cuda"
+    "cuda",
+    "sglang",
+    "vllm"
   ],
   "author": {
     "type": "org",
@@ -21,12 +23,12 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 3264,
+    "stars": 3342,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-02T02:29:08Z",
+    "last_commit_at": "2026-11-06T08:21:38Z",
     "first_commit_at": "2024-09-23T06:02:32Z",
-    "forks": 498,
-    "watchers": 41,
+    "forks": 508,
+    "watchers": 42,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -44,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6537,
-  "rank_in_category": 10,
+  "composite_score": 0.6594,
+  "rank_in_category": 9,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T18:00:30.883852Z",
-  "last_refreshed_at": "2026-11-02T22:22:28.874361Z",
-  "consecutive_refresh_failures": 3
+  "last_refreshed_at": "2026-11-06T20:06:06.531978Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,60 @@
+{
+  "slug": "jobs-applier-ai-agent",
+  "name": "Jobs_Applier_AI_Agent",
+  "tagline": "AI job application bot: automated job search and job hunting, auto-apply to resume-matching jobs while you sleep.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "ashby",
+    "automation",
+    "browser-automation",
+    "career",
+    "cv",
+    "firefox",
+    "gemini",
+    "greenhouse",
+    "job-application"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "feder-cr",
+    "url": "https://github.com/feder-cr"
+  },
+  "source": {
+    "primary": "github",
+    "github": "feder-cr/Jobs_Applier_AI_Agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 32376,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-06T04:36:43Z",
+    "first_commit_at": "2026-09-29T22:50:21Z",
+    "forks": 4742,
+    "watchers": 186,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5091,
+  "rank_in_category": 9,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-05T20:40:53.302193Z",
+  "last_refreshed_at": "2026-11-06T20:03:54.481681Z",
+  "consecutive_refresh_failures": 0
+}
