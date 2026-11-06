@@ -1,19 +1,19 @@
 {
-  "slug": "agentdog-fg-llama3-1-8b-gguf",
-  "name": "AgentDoG-FG-Llama3.1-8B-GGUF",
-  "tagline": "mradermacher/AgentDoG-FG-Llama3.1-8B-GGUF — None",
-  "category": "security-pentesting",
+  "slug": "qwen3-6-candid-coder-v1-1-35b-a3b-gguf",
+  "name": "Qwen3.6-Candid-Coder-V1.1-35B-A3B-GGUF",
+  "tagline": "mradermacher/Qwen3.6-Candid-Coder-V1.1-35B-A3B-GGUF — None",
+  "category": "coding",
   "tags": [
     "transformers",
     "gguf",
+    "abliterated",
+    "uncensored",
+    "qwen3.5",
     "agent",
-    "safety",
-    "security",
-    "en",
-    "base_model:AI45Research/AgentDoG-FG-Llama3.1-8B",
-    "base_model:quantized:AI45Research/AgentDoG-FG-Llama3.1-8B",
-    "license:apache-2.0",
-    "endpoints_compatible"
+    "coding",
+    "code",
+    "kat-coder",
+    "ornith"
   ],
   "author": {
     "type": "org",
@@ -23,15 +23,15 @@
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "mradermacher/AgentDoG-FG-Llama3.1-8B-GGUF",
+    "huggingface": "mradermacher/Qwen3.6-Candid-Coder-V1.1-35B-A3B-GGUF",
     "homepage": null
   },
-  "license": "apache-2.0",
+  "license": "Unknown",
   "metrics": {
     "stars": 0,
-    "downloads_30d": 313,
-    "last_commit_at": "2026-02-01T01:47:59Z",
-    "first_commit_at": "2026-01-30T01:15:10Z",
+    "downloads_30d": 1024,
+    "last_commit_at": "2026-11-05T07:38:27Z",
+    "first_commit_at": "2026-11-05T06:07:12Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2059,
-  "rank_in_category": 73,
+  "composite_score": 0.2964,
+  "rank_in_category": 366,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-15T13:58:33.437180Z",
-  "last_refreshed_at": "2026-10-18T19:25:34.011751Z",
-  "consecutive_refresh_failures": 27
+  "first_seen_at": "2026-11-06T20:02:04.012824Z",
+  "last_refreshed_at": "2026-11-06T20:02:04.012825Z",
+  "consecutive_refresh_failures": 0
 }

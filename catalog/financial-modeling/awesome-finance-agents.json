@@ -1,0 +1,59 @@
+{
+  "slug": "awesome-finance-agents",
+  "name": "awesome-finance-agents",
+  "tagline": "A curated, bilingual list of open-source finance agents, organized by financial function and reliability. Not investment advice.",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-agents",
+    "awesome",
+    "awesome-list",
+    "finance",
+    "fintech",
+    "llm",
+    "mcp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aowang-ai",
+    "url": "https://github.com/aowang-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aowang-ai/awesome-finance-agents",
+    "huggingface": null,
+    "homepage": "https://finance-agents.dev/"
+  },
+  "license": "CC0-1.0",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-05T04:26:01Z",
+    "first_commit_at": "2026-10-11T07:23:20Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.0,
+  "rank_in_category": 289,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-06T20:19:53.062167Z",
+  "last_refreshed_at": "2026-11-06T20:19:53.062172Z",
+  "consecutive_refresh_failures": 0
+}

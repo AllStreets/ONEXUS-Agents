@@ -16,25 +16,25 @@
     "mcp-client"
   ],
   "author": {
-    "type": "user",
-    "handle": "pacifio",
-    "url": "https://github.com/pacifio"
+    "type": "org",
+    "handle": "tryatlas",
+    "url": "https://github.com/tryatlas"
   },
   "source": {
     "primary": "github",
-    "github": "pacifio/atlas",
+    "github": "tryatlas/atlas",
     "huggingface": null,
     "homepage": "https://www.tryatlas.cc/"
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 9455,
+    "stars": 9383,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-04T23:18:19Z",
+    "last_commit_at": "2026-11-06T19:53:08Z",
     "first_commit_at": "2026-05-14T16:49:14Z",
     "forks": 362,
     "watchers": 55,
-    "open_issues": 46,
+    "open_issues": 50,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4449,
-  "rank_in_category": 55,
+  "composite_score": 0.4457,
+  "rank_in_category": 49,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-20T13:45:44.527151Z",
-  "last_refreshed_at": "2026-11-05T20:30:30.199777Z",
+  "first_seen_at": "2026-11-06T19:53:18.065865Z",
+  "last_refreshed_at": "2026-11-06T19:53:18.065869Z",
   "consecutive_refresh_failures": 0
 }
