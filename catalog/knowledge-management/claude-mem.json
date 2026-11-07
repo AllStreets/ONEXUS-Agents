@@ -1,0 +1,62 @@
+{
+  "slug": "claude-mem",
+  "name": "claude-mem",
+  "tagline": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla",
+  "category": "knowledge-management",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-memory",
+    "anthropic",
+    "artificial-intelligence",
+    "chromadb",
+    "claude",
+    "claude-agent-sdk",
+    "claude-agents",
+    "claude-code"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "thedotmack",
+    "url": "https://github.com/thedotmack"
+  },
+  "source": {
+    "primary": "github",
+    "github": "thedotmack/claude-mem",
+    "huggingface": null,
+    "homepage": "https://claude-mem.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 114352,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-07T16:38:14Z",
+    "first_commit_at": "2025-09-06T19:34:53Z",
+    "forks": 9921,
+    "watchers": 359,
+    "open_issues": 66,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7586,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-07T18:01:38.058268Z",
+  "last_refreshed_at": "2026-11-07T18:01:38.058272Z",
+  "consecutive_refresh_failures": 0
+}

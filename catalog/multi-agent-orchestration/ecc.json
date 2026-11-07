@@ -1,0 +1,61 @@
+{
+  "slug": "ecc",
+  "name": "ECC",
+  "tagline": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "productivity"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "affaan-m",
+    "url": "https://github.com/affaan-m"
+  },
+  "source": {
+    "primary": "github",
+    "github": "affaan-m/ECC",
+    "huggingface": null,
+    "homepage": "https://ecc.tools/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 299026,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-06T21:21:50Z",
+    "first_commit_at": "2026-01-18T01:49:33Z",
+    "forks": 44181,
+    "watchers": 1469,
+    "open_issues": 241,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5817,
+  "rank_in_category": 2,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-07T14:15:37.510408Z",
+  "last_refreshed_at": "2026-11-07T18:01:18.924880Z",
+  "consecutive_refresh_failures": 0
+}
