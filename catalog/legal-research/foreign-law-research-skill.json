@@ -1,13 +1,19 @@
 {
   "slug": "foreign-law-research-skill",
   "name": "foreign-law-research-skill-",
-  "tagline": "域外法查明（foreign law research）技能，用于检索中国内地以外的各国（地区）法律。",
+  "tagline": "Court-aligned skill for AI assistants to ascertain foreign law: six-part Ascertainment Opinion + Research Log, 121 free legal databases, and an open-source law-data layer (lexifina/global-law, worldwi",
   "category": "legal-research",
   "tags": [
+    "ai-agents",
+    "bilingual",
     "chinese-lawyer",
+    "claude-code",
     "claude-code-skill",
+    "claude-skills",
+    "comparative-law",
+    "foreign-law",
     "law",
-    "legal-research"
+    "legal"
   ],
   "author": {
     "type": "user",
@@ -22,9 +28,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 13,
+    "stars": 14,
     "downloads_30d": null,
-    "last_commit_at": "2026-06-08T06:21:47Z",
+    "last_commit_at": "2026-11-07T02:08:01Z",
     "first_commit_at": "2026-06-08T06:06:41Z",
     "forks": 0,
     "watchers": 0,
@@ -40,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.164,
-  "rank_in_category": 155,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.319,
+  "rank_in_category": 31,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-08T17:18:36.053222Z",
-  "last_refreshed_at": "2026-11-06T20:21:40.638240Z",
+  "last_refreshed_at": "2026-11-07T18:25:13.458695Z",
   "consecutive_refresh_failures": 0
 }

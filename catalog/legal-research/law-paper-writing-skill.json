@@ -1,0 +1,60 @@
+{
+  "slug": "law-paper-writing-skill",
+  "name": "law-paper-writing-skill",
+  "tagline": "中国法学期刊论文写作 Skill（支持 Hermes / OpenAI Codex）：从选题、文献综述、论证、引注到摘要与投稿适配，含来源核验、论证诊断、审读反馈落实，默认按《法学引注手册》体例的引注规范。",
+  "category": "legal-research",
+  "tags": [
+    "academic-writing",
+    "agent-skills",
+    "chinese-law",
+    "citations",
+    "cssci",
+    "hermes",
+    "legal-research",
+    "legal-writing",
+    "obsidian",
+    "openai-codex"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "VictorTran1023",
+    "url": "https://github.com/VictorTran1023"
+  },
+  "source": {
+    "primary": "github",
+    "github": "VictorTran1023/law-paper-writing-skill",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-02T08:12:44Z",
+    "first_commit_at": "2026-07-29T08:38:08Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2375,
+  "rank_in_category": 96,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-07T18:25:18.065124Z",
+  "last_refreshed_at": "2026-11-07T18:25:18.065128Z",
+  "consecutive_refresh_failures": 0
+}

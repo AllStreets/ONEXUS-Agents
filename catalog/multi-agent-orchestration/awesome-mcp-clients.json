@@ -1,9 +1,10 @@
 {
-  "slug": "awesome-remote-mcp-servers",
-  "name": "awesome-remote-mcp-servers",
-  "tagline": "A collection of remote MCP servers.",
+  "slug": "awesome-mcp-clients",
+  "name": "awesome-mcp-clients",
+  "tagline": "A collection of MCP clients.",
   "category": "multi-agent-orchestration",
   "tags": [
+    "clients",
     "mcp"
   ],
   "author": {
@@ -13,19 +14,19 @@
   },
   "source": {
     "primary": "github",
-    "github": "punkpeye/awesome-remote-mcp-servers",
+    "github": "punkpeye/awesome-mcp-clients",
     "huggingface": null,
-    "homepage": "https://glama.ai/mcp/connectors"
+    "homepage": "https://glama.ai/mcp/clients"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 2717,
+    "stars": 6624,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-06T17:47:35Z",
-    "first_commit_at": "2026-09-08T03:59:03Z",
-    "forks": 3286,
-    "watchers": 1,
-    "open_issues": 2082,
+    "last_commit_at": "2026-06-07T18:57:48Z",
+    "first_commit_at": "2025-01-11T10:10:36Z",
+    "forks": 743,
+    "watchers": 36,
+    "open_issues": 173,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -45,9 +46,9 @@
   "runnable": true,
   "adapter_ref": "mcp/stdio",
   "composite_score": 0.0,
-  "rank_in_category": 495,
+  "rank_in_category": 484,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-23T18:12:53.875541Z",
-  "last_refreshed_at": "2026-11-06T20:18:48.559533Z",
+  "first_seen_at": "2026-11-07T18:03:27.604741Z",
+  "last_refreshed_at": "2026-11-07T18:03:27.604743Z",
   "consecutive_refresh_failures": 0
 }
