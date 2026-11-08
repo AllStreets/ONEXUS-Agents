@@ -1,0 +1,55 @@
+{
+  "slug": "llmevaluation",
+  "name": "LLMEvaluation",
+  "tagline": "A comprehensive guide to LLM evaluation methods designed to assist in identifying the most suitable evaluation techniques for various use cases, promote the adoption of best practices in LLM assessmen",
+  "category": "legal-research",
+  "tags": [
+    "evaluation",
+    "generative-ai-benchmarking",
+    "llm",
+    "llm-benchmarking",
+    "llm-evaluation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "alopatenko",
+    "url": "https://github.com/alopatenko"
+  },
+  "source": {
+    "primary": "github",
+    "github": "alopatenko/LLMEvaluation",
+    "huggingface": null,
+    "homepage": "https://alopatenko.github.io/LLMEvaluation/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 207,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-27T04:12:32Z",
+    "first_commit_at": "2024-04-02T23:38:47Z",
+    "forks": 32,
+    "watchers": 6,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.354,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-08T18:39:31.108657Z",
+  "last_refreshed_at": "2026-11-08T18:39:31.108662Z",
+  "consecutive_refresh_failures": 0
+}

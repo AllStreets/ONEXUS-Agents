@@ -1,19 +1,19 @@
 {
   "slug": "agentguide",
   "name": "AgentGuide",
-  "tagline": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
+  "tagline": "AI Agent 开发指南 | Agent Harness | 上下文工程 | 高级 RAG | MCP | Agentic RL 强化学习 | LangGraph 实战 | 1.2 万+ 大模型面试题 | 算法岗 / 开发岗求职 | 转行大模型",
   "category": "scientific-research",
   "tags": [
+    "agentic-rl",
     "agenticrag",
     "ai-agent",
+    "claude-code",
     "crewai",
     "graphrag",
     "grpo",
+    "harness",
     "interview",
-    "job-hunting",
-    "langchain",
-    "llm",
-    "multi-agent"
+    "job-hunting"
   ],
   "author": {
     "type": "user",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "adongwanai/AgentGuide",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://adongwanai.github.io/AgentGuide/"
   },
-  "license": "Unknown",
+  "license": "CC-BY-4.0",
   "metrics": {
-    "stars": 11508,
+    "stars": 11753,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-31T04:00:13Z",
+    "last_commit_at": "2026-11-05T09:57:16Z",
     "first_commit_at": "2025-11-03T10:58:05Z",
-    "forks": 1076,
+    "forks": 1103,
     "watchers": 32,
-    "open_issues": 12,
+    "open_issues": 11,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.706,
-  "rank_in_category": 4,
+  "composite_score": 0.7131,
+  "rank_in_category": 2,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-01T18:19:45.084185Z",
-  "last_refreshed_at": "2026-11-01T18:19:45.084188Z",
-  "consecutive_refresh_failures": 6
+  "first_seen_at": "2026-11-08T18:18:02.519536Z",
+  "last_refreshed_at": "2026-11-08T18:18:02.519542Z",
+  "consecutive_refresh_failures": 0
 }
