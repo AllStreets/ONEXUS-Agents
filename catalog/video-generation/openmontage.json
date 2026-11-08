@@ -16,25 +16,25 @@
     "image-generation"
   ],
   "author": {
-    "type": "user",
-    "handle": "calesthio",
-    "url": "https://github.com/calesthio"
+    "type": "org",
+    "handle": "OpenMontageInc",
+    "url": "https://github.com/OpenMontageInc"
   },
   "source": {
     "primary": "github",
-    "github": "calesthio/OpenMontage",
+    "github": "OpenMontageInc/OpenMontage",
     "huggingface": null,
     "homepage": "https://www.openmontage.video/"
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 78142,
+    "stars": 78584,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-03T17:42:02Z",
+    "last_commit_at": "2026-11-08T03:50:57Z",
     "first_commit_at": "2026-03-29T15:25:17Z",
-    "forks": 10408,
-    "watchers": 398,
-    "open_issues": 448,
+    "forks": 10476,
+    "watchers": 394,
+    "open_issues": 323,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5088,
+  "composite_score": 0.5122,
   "rank_in_category": 1,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-07T18:02:21.316555Z",
-  "last_refreshed_at": "2026-11-07T18:02:21.316559Z",
+  "first_seen_at": "2026-11-08T18:18:22.135826Z",
+  "last_refreshed_at": "2026-11-08T18:18:22.135831Z",
   "consecutive_refresh_failures": 0
 }
