@@ -1,19 +1,19 @@
 {
   "slug": "daiv",
   "name": "daiv",
-  "tagline": "Your AI-powered SWE teammate, built into your git workflow",
+  "tagline": "Open-source, self-hosted SWE agents for GitLab & GitHub",
   "category": "coding",
   "tags": [
     "ai-agent",
+    "ai-code-review",
     "anthropic",
+    "coding-agent",
     "deepagents",
+    "devops",
+    "django",
     "genai",
     "git",
-    "github",
-    "gitlab",
-    "google-gemini-ai",
-    "langchain",
-    "langgraph"
+    "github"
   ],
   "author": {
     "type": "user",
@@ -30,11 +30,11 @@
   "metrics": {
     "stars": 28,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-08T15:34:36Z",
+    "last_commit_at": "2026-11-09T20:45:11Z",
     "first_commit_at": "2024-05-01T14:37:10Z",
     "forks": 5,
     "watchers": 1,
-    "open_issues": 24,
+    "open_issues": 27,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -55,10 +55,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3843,
-  "rank_in_category": 154,
+  "composite_score": 0.3829,
+  "rank_in_category": 150,
   "discovered_via": "auto",
   "first_seen_at": "2026-04-30T03:23:16.805867Z",
-  "last_refreshed_at": "2026-11-08T18:14:56.987327Z",
+  "last_refreshed_at": "2026-11-09T22:54:03.995983Z",
   "consecutive_refresh_failures": 0
 }

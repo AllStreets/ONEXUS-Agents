@@ -1,0 +1,60 @@
+{
+  "slug": "locally-uncensored",
+  "name": "locally-uncensored",
+  "tagline": "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.",
+  "category": "coding",
+  "tags": [
+    "agent",
+    "ai-chat",
+    "ai-studio",
+    "all-in-one",
+    "coding-agent",
+    "desktop-app",
+    "flux",
+    "image-generation",
+    "linux",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "PurpleDoubleD",
+    "url": "https://github.com/PurpleDoubleD"
+  },
+  "source": {
+    "primary": "github",
+    "github": "PurpleDoubleD/locally-uncensored",
+    "huggingface": null,
+    "homepage": "https://locallyuncensored.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 3650,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-09T15:41:41Z",
+    "first_commit_at": "2026-03-24T22:18:43Z",
+    "forks": 590,
+    "watchers": 37,
+    "open_issues": 21,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3764,
+  "rank_in_category": 173,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-09T22:53:54.661231Z",
+  "last_refreshed_at": "2026-11-09T22:53:54.661234Z",
+  "consecutive_refresh_failures": 0
+}
