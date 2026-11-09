@@ -1,0 +1,60 @@
+{
+  "slug": "filing-qa",
+  "name": "filing-qa",
+  "tagline": "Question answering over financial filings (10-K/10-Q, investor decks) with cited answers: hybrid dense+BM25 retrieval, reranking, chart extraction, and an AST-sandboxed calculator. FastAPI, CLI, Helm.",
+  "category": "financial-modeling",
+  "tags": [
+    "async-processing",
+    "document-intelligence",
+    "financial-ai",
+    "llm",
+    "machine-learning",
+    "multimodal",
+    "observability",
+    "pydantic",
+    "rag",
+    "retrieval-augmented-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Mattral",
+    "url": "https://github.com/Mattral"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Mattral/filing-qa",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 91,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-09T07:38:05Z",
+    "first_commit_at": "2024-02-01T04:46:37Z",
+    "forks": 21,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.502,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-09T23:16:36.207100Z",
+  "last_refreshed_at": "2026-11-09T23:16:36.207103Z",
+  "consecutive_refresh_failures": 0
+}

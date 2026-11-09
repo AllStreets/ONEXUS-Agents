@@ -1,24 +1,24 @@
 {
   "slug": "paylens",
   "name": "paylens",
-  "tagline": "[Data Science & Machine Learning] Explore salary estimates and uncertainty. Synthetic salary regression with a median baseline; Separate training, calibration and test splits.",
+  "tagline": "Explore salary estimates and uncertainty. Validated data, baseline, train/test split, prediction interval, feature controls.",
   "category": "data-science-ml",
   "tags": [
-    "ai-assisted",
-    "data-science",
     "data-science-ml",
-    "documented-project",
-    "machine-learning",
-    "portfolio"
+    "documented-demo",
+    "flask",
+    "portfolio-project",
+    "python",
+    "scikit-learn"
   ],
   "author": {
     "type": "user",
-    "handle": "abhijith-abhii",
-    "url": "https://github.com/abhijith-abhii"
+    "handle": "madhurag123",
+    "url": "https://github.com/madhurag123"
   },
   "source": {
     "primary": "github",
-    "github": "abhijith-abhii/paylens",
+    "github": "madhurag123/paylens",
     "huggingface": null,
     "homepage": null
   },
@@ -26,7 +26,7 @@
   "metrics": {
     "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-18T11:26:49Z",
+    "last_commit_at": "2026-10-09T16:13:45Z",
     "first_commit_at": "2026-09-28T11:35:42Z",
     "forks": 0,
     "watchers": 0,
@@ -47,10 +47,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1882,
-  "rank_in_category": 166,
+  "composite_score": 0.1801,
+  "rank_in_category": 179,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-08T18:30:34.725173Z",
-  "last_refreshed_at": "2026-11-08T18:30:34.725176Z",
+  "first_seen_at": "2026-11-09T23:12:36.690634Z",
+  "last_refreshed_at": "2026-11-09T23:12:36.690637Z",
   "consecutive_refresh_failures": 0
 }
