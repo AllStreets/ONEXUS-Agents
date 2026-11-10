@@ -1,33 +1,31 @@
 {
-  "slug": "schrodinger-repo",
-  "name": "Schrodinger-Repo",
-  "tagline": "Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?",
-  "category": "coding",
+  "slug": "llm-agent-paper-daily",
+  "name": "LLM-Agent-Paper-daily",
+  "tagline": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
+  "category": "search-rag",
   "tags": [
-    "coding-agent",
     "llm",
-    "swe-agent",
-    "swe-bench"
+    "llm-agent"
   ],
   "author": {
     "type": "user",
-    "handle": "cslsolow",
-    "url": "https://github.com/cslsolow"
+    "handle": "Lyz103",
+    "url": "https://github.com/Lyz103"
   },
   "source": {
     "primary": "github",
-    "github": "cslsolow/Schrodinger-Repo",
+    "github": "Lyz103/LLM-Agent-Paper-daily",
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "Apache-2.0",
   "metrics": {
-    "stars": 7,
+    "stars": 20,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-24T03:00:16Z",
-    "first_commit_at": "2026-05-12T06:05:18Z",
-    "forks": 1,
-    "watchers": 0,
+    "last_commit_at": "2026-11-09T18:08:35Z",
+    "first_commit_at": "2024-08-27T08:18:08Z",
+    "forks": 2,
+    "watchers": 2,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -45,10 +43,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2002,
-  "rank_in_category": 609,
+  "composite_score": 0.2966,
+  "rank_in_category": 55,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T04:13:12.394220Z",
-  "last_refreshed_at": "2026-11-09T22:54:09.925173Z",
+  "first_seen_at": "2026-08-01T14:42:02.275680Z",
+  "last_refreshed_at": "2026-11-10T20:37:21.793593Z",
   "consecutive_refresh_failures": 0
 }
