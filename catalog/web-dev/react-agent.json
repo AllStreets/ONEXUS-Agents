@@ -1,36 +1,39 @@
 {
   "slug": "react-agent",
   "name": "react-agent",
-  "tagline": "LangGraph template for a simple ReAct agent",
+  "tagline": "The open-source React.js Autonomous LLM Agent",
   "category": "web-dev",
   "tags": [
-    "langgraph",
-    "langgraph-python",
-    "langgraph-template"
+    "agent",
+    "gpt-4",
+    "headless",
+    "headlessui",
+    "llm",
+    "react"
   ],
   "author": {
-    "type": "org",
-    "handle": "langchain-ai",
-    "url": "https://github.com/langchain-ai"
+    "type": "user",
+    "handle": "eylonmiz",
+    "url": "https://github.com/eylonmiz"
   },
   "source": {
     "primary": "github",
-    "github": "langchain-ai/react-agent",
+    "github": "eylonmiz/react-agent",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://reactagent.io/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 861,
+    "stars": 1656,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-07T08:38:57Z",
-    "first_commit_at": "2024-08-21T20:13:15Z",
-    "forks": 702,
-    "watchers": 8,
-    "open_issues": 22,
+    "last_commit_at": "2024-04-12T13:38:37Z",
+    "first_commit_at": "2023-05-11T15:21:07Z",
+    "forks": 156,
+    "watchers": 15,
+    "open_issues": 14,
     "archived": false,
     "is_fork": false,
-    "is_template": true,
+    "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
     "contributors_count": null,
@@ -39,17 +42,15 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": [
-      "langchain"
-    ]
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4492,
-  "rank_in_category": 109,
+  "composite_score": 0.3858,
+  "rank_in_category": 154,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-09T23:06:19.650181Z",
-  "last_refreshed_at": "2026-11-09T23:06:19.650185Z",
+  "first_seen_at": "2026-11-10T20:27:31.466071Z",
+  "last_refreshed_at": "2026-11-10T20:27:31.466075Z",
   "consecutive_refresh_failures": 0
 }

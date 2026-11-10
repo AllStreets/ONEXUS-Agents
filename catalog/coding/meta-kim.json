@@ -1,0 +1,62 @@
+{
+  "slug": "meta-kim",
+  "name": "Meta_Kim",
+  "tagline": "Governed execution layer for AI coding assistants: clarify intent, route capabilities, review evidence, verify results, and write back lessons across Claude Code, Codex, OpenClaw, and Cursor.",
+  "category": "coding",
+  "tags": [
+    "agent-governance",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "cursor",
+    "developer-tools",
+    "mcp",
+    "openclaw",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "KimYx0207",
+    "url": "https://github.com/KimYx0207"
+  },
+  "source": {
+    "primary": "github",
+    "github": "KimYx0207/Meta_Kim",
+    "huggingface": null,
+    "homepage": "https://www.aiking.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 288,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-10T16:04:33Z",
+    "first_commit_at": "2026-03-17T06:37:52Z",
+    "forks": 68,
+    "watchers": 3,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3921,
+  "rank_in_category": 134,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-10T20:27:08.543498Z",
+  "last_refreshed_at": "2026-11-10T20:27:08.543502Z",
+  "consecutive_refresh_failures": 0
+}
