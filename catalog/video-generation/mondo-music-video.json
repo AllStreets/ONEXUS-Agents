@@ -1,0 +1,60 @@
+{
+  "slug": "mondo-music-video",
+  "name": "mondo-music-video",
+  "tagline": "Turn a song into a music video. Beat-aware shot planning, LLM-written prompts, local or hosted rendering, actors that dance, lip-sync and play instruments, Worlds, storyboards, and frame-exact assembl",
+  "category": "video-generation",
+  "tags": [
+    "agent-skills",
+    "ai-video",
+    "cinematography",
+    "comfyui",
+    "mcp",
+    "music-video",
+    "open-actor-protocol",
+    "video-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hodgemann",
+    "url": "https://github.com/hodgemann"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hodgemann/mondo-music-video",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-07T04:10:23Z",
+    "first_commit_at": "2026-10-15T22:36:46Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3635,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:04:06.834492Z",
+  "last_refreshed_at": "2026-11-11T21:04:06.834495Z",
+  "consecutive_refresh_failures": 0
+}

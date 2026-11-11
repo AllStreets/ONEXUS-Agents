@@ -1,0 +1,54 @@
+{
+  "slug": "immersive-translate",
+  "name": "immersive-translate",
+  "tagline": "沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension ",
+  "category": "translation",
+  "tags": [
+    "chrome-extension",
+    "safari-extension",
+    "translation",
+    "userscript"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "immersive-translate",
+    "url": "https://github.com/immersive-translate"
+  },
+  "source": {
+    "primary": "github",
+    "github": "immersive-translate/immersive-translate",
+    "huggingface": null,
+    "homepage": "https://immersivetranslate.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 19752,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T08:51:14Z",
+    "first_commit_at": "2022-12-07T12:35:35Z",
+    "forks": 1164,
+    "watchers": 137,
+    "open_issues": 330,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6818,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:21.087505Z",
+  "last_refreshed_at": "2026-11-11T21:08:21.087508Z",
+  "consecutive_refresh_failures": 0
+}

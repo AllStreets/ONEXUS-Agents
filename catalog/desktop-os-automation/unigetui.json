@@ -1,0 +1,60 @@
+{
+  "slug": "unigetui",
+  "name": "UniGetUI",
+  "tagline": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
+  "category": "desktop-os-automation",
+  "tags": [
+    "chocolatey",
+    "cli",
+    "npm",
+    "package",
+    "package-manager",
+    "pip",
+    "scoop",
+    "unigetui",
+    "windows",
+    "windows-10"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Devolutions",
+    "url": "https://github.com/Devolutions"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Devolutions/UniGetUI",
+    "huggingface": null,
+    "homepage": "https://devolutions.net/unigetui/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 27005,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T20:30:40Z",
+    "first_commit_at": "2021-06-15T12:57:58Z",
+    "forks": 974,
+    "watchers": 127,
+    "open_issues": 264,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5036,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:43:42.899329Z",
+  "last_refreshed_at": "2026-11-11T20:43:42.899332Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "muapi-comfyui",
   "name": "muapi-comfyui",
-  "tagline": "ComfyUI custom nodes for 100+ AI models — Seedance, Kling, Veo3, Flux, HiDream, GPT-image, Imagen4 and more via muapi.ai",
+  "tagline": "ComfyUI custom nodes for 600+ AI models — Seedance, Kling, Veo3, Flux, HiDream, GPT-image, Imagen4 and more via muapi.ai",
   "category": "video-generation",
   "tags": [
     "ai-image-editing",
@@ -28,11 +28,11 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 66,
+    "stars": 82,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-15T08:40:58Z",
+    "last_commit_at": "2026-10-15T08:17:10Z",
     "first_commit_at": "2025-09-05T11:00:07Z",
-    "forks": 17,
+    "forks": 20,
     "watchers": 0,
     "open_issues": 0,
     "archived": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2979,
-  "rank_in_category": 62,
+  "composite_score": 0.3364,
+  "rank_in_category": 78,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:29:45.205278Z",
-  "last_refreshed_at": "2026-10-25T19:52:12.287673Z",
-  "consecutive_refresh_failures": 23
+  "last_refreshed_at": "2026-11-11T20:59:42.221012Z",
+  "consecutive_refresh_failures": 0
 }

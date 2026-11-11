@@ -1,0 +1,58 @@
+{
+  "slug": "langchain-course",
+  "name": "langchain-course",
+  "tagline": "A project-based course repository for developing AI agents using LangChain v1+ and LangGraph: search agents, RAG systems, reflection agents, and code interpreters.",
+  "category": "search-rag",
+  "tags": [
+    "agents",
+    "langchain",
+    "langgraph",
+    "langsmith",
+    "python",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "emarco177",
+    "url": "https://github.com/emarco177"
+  },
+  "source": {
+    "primary": "github",
+    "github": "emarco177/langchain-course",
+    "huggingface": null,
+    "homepage": "https://www.udemy.com/course/langchain/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1781,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-10T08:22:50Z",
+    "first_commit_at": "2023-04-15T05:53:11Z",
+    "forks": 3711,
+    "watchers": 43,
+    "open_issues": 34,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0,
+  "rank_in_category": 268,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:14:51.485998Z",
+  "last_refreshed_at": "2026-11-11T21:14:51.486001Z",
+  "consecutive_refresh_failures": 0
+}

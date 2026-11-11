@@ -1,0 +1,57 @@
+{
+  "slug": "nextai-translator",
+  "name": "nextai-translator",
+  "tagline": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+  "category": "translation",
+  "tags": [
+    "browser-extension",
+    "chatgpt",
+    "chrome-extension",
+    "openai",
+    "translation",
+    "translator",
+    "translator-app"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nextai-translator",
+    "url": "https://github.com/nextai-translator"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nextai-translator/nextai-translator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 25041,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-02T07:48:47Z",
+    "first_commit_at": "2023-03-04T20:26:16Z",
+    "forks": 1850,
+    "watchers": 127,
+    "open_issues": 525,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6785,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:18.107290Z",
+  "last_refreshed_at": "2026-11-11T21:08:18.107293Z",
+  "consecutive_refresh_failures": 0
+}

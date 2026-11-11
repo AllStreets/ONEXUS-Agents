@@ -1,0 +1,56 @@
+{
+  "slug": "trusted-full-duplex-agent",
+  "name": "trusted-full-duplex-agent",
+  "tagline": "TFD-STAR 2.0: trustworthy real-time full-duplex speech agent with learned turn-taking, GRPO alignment, ASR evidence and TrustGate routing.",
+  "category": "audio-speech",
+  "tags": [
+    "full-duplex",
+    "grpo",
+    "minicpm-o",
+    "speech-agent",
+    "trustworthy-ai",
+    "turn-taking"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Jatshi",
+    "url": "https://github.com/Jatshi"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Jatshi/trusted-full-duplex-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-08T23:07:35Z",
+    "first_commit_at": "2026-09-17T02:32:25Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2728,
+  "rank_in_category": 127,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:03:28.583436Z",
+  "last_refreshed_at": "2026-11-11T21:03:28.583439Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "nexusdesk",
+  "name": "nexusdesk",
+  "tagline": "Open-source, self-hosted, extensible Agent platform built around ReAct and Harness engineering, with AI customer support as its first complete reference application.",
+  "category": "customer-support",
+  "tags": [
+    "ai-agent",
+    "customer-service",
+    "customer-support",
+    "fastapi",
+    "helpdesk",
+    "knowledge-base",
+    "langgraph",
+    "live-chat",
+    "llm",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "GroundedCoreAI",
+    "url": "https://github.com/GroundedCoreAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GroundedCoreAI/nexusdesk",
+    "huggingface": null,
+    "homepage": "https://groundedcoreai.github.io/nexusdesk/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 198,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-10T15:37:25Z",
+    "first_commit_at": "2026-09-24T14:23:09Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 37,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5324,
+  "rank_in_category": 45,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:41:31.249282Z",
+  "last_refreshed_at": "2026-11-11T20:41:31.249285Z",
+  "consecutive_refresh_failures": 0
+}

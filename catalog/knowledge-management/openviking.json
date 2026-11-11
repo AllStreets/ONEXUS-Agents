@@ -4,11 +4,15 @@
   "tagline": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
   "category": "knowledge-management",
   "tags": [
+    "agent-context",
     "agent-memory",
     "agent-plugins",
     "agentic-rag",
     "context-database",
     "dsh-plugin",
+    "knowledge-base",
+    "memory",
+    "memory-management",
     "self-evolving"
   ],
   "author": {
@@ -24,13 +28,13 @@
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 34449,
+    "stars": 42022,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-30T06:31:10Z",
+    "last_commit_at": "2026-11-11T16:06:27Z",
     "first_commit_at": "2026-01-29T12:29:19Z",
-    "forks": 2629,
-    "watchers": 97,
-    "open_issues": 595,
+    "forks": 3451,
+    "watchers": 109,
+    "open_issues": 1409,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -47,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.6077,
-  "rank_in_category": 28,
+  "composite_score": 0.699,
+  "rank_in_category": 10,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-30T17:53:46.384905Z",
-  "last_refreshed_at": "2026-11-01T21:25:08.435344Z",
-  "consecutive_refresh_failures": 23
+  "first_seen_at": "2026-11-11T21:14:09.424118Z",
+  "last_refreshed_at": "2026-11-11T21:14:09.424123Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,53 @@
+{
+  "slug": "happy-llm",
+  "name": "happy-llm",
+  "tagline": "📚 从零开始构建大模型",
+  "category": "scientific-research",
+  "tags": [
+    "agent",
+    "llm",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "datawhalechina",
+    "url": "https://github.com/datawhalechina"
+  },
+  "source": {
+    "primary": "github",
+    "github": "datawhalechina/happy-llm",
+    "huggingface": null,
+    "homepage": "https://datawhalechina.github.io/happy-llm/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 34874,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-08T17:18:48Z",
+    "first_commit_at": "2024-05-28T03:22:50Z",
+    "forks": 3296,
+    "watchers": 99,
+    "open_issues": 78,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.652,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:13:37.586405Z",
+  "last_refreshed_at": "2026-11-11T21:13:37.586408Z",
+  "consecutive_refresh_failures": 0
+}

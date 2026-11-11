@@ -1,0 +1,60 @@
+{
+  "slug": "ods",
+  "name": "ODS",
+  "tagline": "ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "ai-agents",
+    "amd",
+    "comfyui",
+    "docker",
+    "llama-cpp",
+    "llm",
+    "local-ai",
+    "n8n",
+    "nvidia",
+    "open-webui"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Osmantic",
+    "url": "https://github.com/Osmantic"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Osmantic/ODS",
+    "huggingface": null,
+    "homepage": "https://discord.gg/qGVygYada3"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 7813,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T20:44:23Z",
+    "first_commit_at": "2026-02-09T13:24:46Z",
+    "forks": 1110,
+    "watchers": 47,
+    "open_issues": 782,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4548,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:33:28.661897Z",
+  "last_refreshed_at": "2026-11-11T21:05:08.349546Z",
+  "consecutive_refresh_failures": 0
+}

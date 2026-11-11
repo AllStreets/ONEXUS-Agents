@@ -1,0 +1,60 @@
+{
+  "slug": "equalang-zotero-plugin",
+  "name": "equalang-zotero-plugin",
+  "tagline": "Equalang for Zotero: translate PDF, Word, PowerPoint and Excel attachments with the layout kept, read bilingual PDFs side by side, and translate selected text in the reader. 意扣 Zotero 翻译插件：文献翻译保留排版、双语",
+  "category": "translation",
+  "tags": [
+    "academic",
+    "ai-translation",
+    "bilingual",
+    "document-translation",
+    "equalang",
+    "pdf-translation",
+    "pdf-translator",
+    "research",
+    "translation",
+    "translator"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "equalang",
+    "url": "https://github.com/equalang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "equalang/equalang-zotero-plugin",
+    "huggingface": null,
+    "homepage": "https://equalang.com/extension/zotero"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 61,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-27T09:27:10Z",
+    "first_commit_at": "2026-10-27T09:25:32Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3788,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:09:05.145353Z",
+  "last_refreshed_at": "2026-11-11T21:09:05.145356Z",
+  "consecutive_refresh_failures": 0
+}

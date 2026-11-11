@@ -1,0 +1,62 @@
+{
+  "slug": "axuse",
+  "name": "axuse",
+  "tagline": "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of scree",
+  "category": "browser-automation",
+  "tags": [
+    "agentic-automation",
+    "ai-agents",
+    "browser-automation",
+    "browser-use",
+    "cdp",
+    "chrome-devtools-protocol",
+    "computer-use",
+    "cua",
+    "mcp",
+    "model-context-protocol"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ctoldigital",
+    "url": "https://github.com/ctoldigital"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ctoldigital/axuse",
+    "huggingface": null,
+    "homepage": "https://ax-use.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 804,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-03T19:16:53Z",
+    "first_commit_at": "2026-10-19T14:03:47Z",
+    "forks": 40,
+    "watchers": 26,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4313,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:18:24.377926Z",
+  "last_refreshed_at": "2026-11-11T21:18:24.377929Z",
+  "consecutive_refresh_failures": 0
+}

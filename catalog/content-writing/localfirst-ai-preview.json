@@ -1,0 +1,62 @@
+{
+  "slug": "localfirst-ai-preview",
+  "name": "localfirst-ai-preview",
+  "tagline": "Your AI assistants. Your workspace. Local first.",
+  "category": "content-writing",
+  "tags": [
+    "agentic-ai",
+    "agentic-coding",
+    "agentic-rag",
+    "agents",
+    "ai",
+    "byom",
+    "coding-agent",
+    "dotnet",
+    "local-first",
+    "maui"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "daemosofchaos",
+    "url": "https://github.com/daemosofchaos"
+  },
+  "source": {
+    "primary": "github",
+    "github": "daemosofchaos/localfirst-ai-preview",
+    "huggingface": null,
+    "homepage": "https://localfirst-ai.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T19:14:02Z",
+    "first_commit_at": "2026-11-02T19:41:54Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3885,
+  "rank_in_category": 48,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:47:11.710078Z",
+  "last_refreshed_at": "2026-11-11T20:47:11.710082Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "livekit",
+  "name": "livekit",
+  "tagline": "End-to-end realtime stack for connecting humans and AI",
+  "category": "video-generation",
+  "tags": [
+    "golang",
+    "media-server",
+    "sfu",
+    "video",
+    "voice",
+    "voice-ai",
+    "webrtc"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "livekit",
+    "url": "https://github.com/livekit"
+  },
+  "source": {
+    "primary": "github",
+    "github": "livekit/livekit",
+    "huggingface": null,
+    "homepage": "https://docs.livekit.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 22151,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T19:31:45Z",
+    "first_commit_at": "2020-09-30T06:49:48Z",
+    "forks": 2557,
+    "watchers": 177,
+    "open_issues": 229,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5086,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:07:54.284800Z",
+  "last_refreshed_at": "2026-11-11T21:07:54.284803Z",
+  "consecutive_refresh_failures": 0
+}

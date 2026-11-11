@@ -1,0 +1,60 @@
+{
+  "slug": "pdf-craft",
+  "name": "pdf-craft",
+  "tagline": "PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.",
+  "category": "translation",
+  "tags": [
+    "book-digitization",
+    "deepseek-ocr",
+    "deepseek-ocr-2",
+    "document",
+    "document-processing",
+    "ebook",
+    "epub",
+    "epub-translation",
+    "markdown",
+    "ocr"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "oomol-lab",
+    "url": "https://github.com/oomol-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "oomol-lab/pdf-craft",
+    "huggingface": null,
+    "homepage": "https://pdfcraft.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6594,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T15:04:33Z",
+    "first_commit_at": "2025-11-04T09:19:54Z",
+    "forks": 484,
+    "watchers": 21,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6253,
+  "rank_in_category": 20,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:43.800978Z",
+  "last_refreshed_at": "2026-11-11T21:08:43.800981Z",
+  "consecutive_refresh_failures": 0
+}

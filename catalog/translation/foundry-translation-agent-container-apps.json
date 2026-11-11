@@ -1,0 +1,55 @@
+{
+  "slug": "foundry-translation-agent-container-apps",
+  "name": "foundry-translation-agent-container-apps",
+  "tagline": "Bounded Microsoft Foundry translation agent sample with durable jobs and Azure Container Apps event dispatch",
+  "category": "translation",
+  "tags": [
+    "agent-framework",
+    "azure-container-apps",
+    "microsoft-foundry",
+    "python",
+    "translation-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "skytin1004",
+    "url": "https://github.com/skytin1004"
+  },
+  "source": {
+    "primary": "github",
+    "github": "skytin1004/foundry-translation-agent-container-apps",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-06T15:33:22Z",
+    "first_commit_at": "2026-11-06T15:33:05Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3074,
+  "rank_in_category": 82,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:10.368792Z",
+  "last_refreshed_at": "2026-11-11T21:08:10.368796Z",
+  "consecutive_refresh_failures": 0
+}

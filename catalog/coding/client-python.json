@@ -1,0 +1,49 @@
+{
+  "slug": "client-python",
+  "name": "client-python",
+  "tagline": "Python client library for Mistral AI platform",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "mistralai",
+    "url": "https://github.com/mistralai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "mistralai/client-python",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 773,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-03T16:30:50Z",
+    "first_commit_at": "2023-12-07T10:09:52Z",
+    "forks": 210,
+    "watchers": 29,
+    "open_issues": 42,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3774,
+  "rank_in_category": 170,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:04:30.157009Z",
+  "last_refreshed_at": "2026-11-11T21:04:30.157013Z",
+  "consecutive_refresh_failures": 0
+}

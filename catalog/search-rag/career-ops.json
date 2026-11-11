@@ -1,0 +1,60 @@
+{
+  "slug": "career-ops",
+  "name": "career-ops",
+  "tagline": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat",
+  "category": "search-rag",
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "ai-job-search",
+    "ats",
+    "career",
+    "career-ops",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-plugin",
+    "cover-letter"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "career-ops-hq",
+    "url": "https://github.com/career-ops-hq"
+  },
+  "source": {
+    "primary": "github",
+    "github": "career-ops-hq/career-ops",
+    "huggingface": null,
+    "homepage": "https://career-ops.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 81972,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T17:28:22Z",
+    "first_commit_at": "2026-04-04T17:51:27Z",
+    "forks": 15045,
+    "watchers": 258,
+    "open_issues": 423,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0,
+  "rank_in_category": 267,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:14:49.237175Z",
+  "last_refreshed_at": "2026-11-11T21:14:49.237179Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "ui-tars-desktop",
+  "name": "UI-TARS-desktop",
+  "tagline": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+  "category": "browser-automation",
+  "tags": [
+    "agent",
+    "agent-tars",
+    "browser-use",
+    "computer-use",
+    "cowork",
+    "gui-agent",
+    "gui-operator",
+    "mcp",
+    "mcp-server",
+    "multimodal"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "bytedance",
+    "url": "https://github.com/bytedance"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bytedance/UI-TARS-desktop",
+    "huggingface": null,
+    "homepage": "https://agent-tars.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 39598,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-09T01:29:53Z",
+    "first_commit_at": "2025-01-20T18:03:45Z",
+    "forks": 4032,
+    "watchers": 278,
+    "open_issues": 512,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.2135,
+  "rank_in_category": 88,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:18:11.464762Z",
+  "last_refreshed_at": "2026-11-11T21:18:11.464765Z",
+  "consecutive_refresh_failures": 0
+}

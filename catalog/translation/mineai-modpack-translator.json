@@ -1,0 +1,59 @@
+{
+  "slug": "mineai-modpack-translator",
+  "name": "MineAI-Modpack-Translator",
+  "tagline": "🌍 Умный автоматический переводчик модов, сборок (модпаков) и квестов FTB Quests для Minecraft. Использует ИИ (LLM), DeepL и Google Translate. Создает ресурспаки без изменения .jar файлов!",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "fabric",
+    "forge",
+    "ftb-quests",
+    "localization",
+    "minecraft",
+    "modpack",
+    "resource-pack",
+    "translator"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Thedrezik",
+    "url": "https://github.com/Thedrezik"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Thedrezik/MineAI-Modpack-Translator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 35,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-30T10:42:14Z",
+    "first_commit_at": "2026-02-23T13:57:59Z",
+    "forks": 6,
+    "watchers": 1,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3937,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:09:11.243767Z",
+  "last_refreshed_at": "2026-11-11T21:09:11.243770Z",
+  "consecutive_refresh_failures": 0
+}

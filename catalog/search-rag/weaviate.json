@@ -1,0 +1,60 @@
+{
+  "slug": "weaviate",
+  "name": "weaviate",
+  "tagline": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c",
+  "category": "search-rag",
+  "tags": [
+    "approximate-nearest-neighbor-search",
+    "generative-search",
+    "grpc",
+    "hnsw",
+    "hybrid-search",
+    "image-search",
+    "information-retrieval",
+    "mlops",
+    "nearest-neighbor-search",
+    "neural-search"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "weaviate",
+    "url": "https://github.com/weaviate"
+  },
+  "source": {
+    "primary": "github",
+    "github": "weaviate/weaviate",
+    "huggingface": null,
+    "homepage": "https://weaviate.io/developers/weaviate/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 16944,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T20:34:54Z",
+    "first_commit_at": "2016-03-30T15:03:18Z",
+    "forks": 1433,
+    "watchers": 138,
+    "open_issues": 847,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4514,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:13:50.867337Z",
+  "last_refreshed_at": "2026-11-11T21:13:50.867341Z",
+  "consecutive_refresh_failures": 0
+}

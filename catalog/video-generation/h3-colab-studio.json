@@ -1,0 +1,59 @@
+{
+  "slug": "h3-colab-studio",
+  "name": "H3-colab-studio",
+  "tagline": "Prompt-to-Video Workspace & Google Colab G4 (ComfyUI) Agent Bridge Skill/Plugin for MiniMax H3 multi-shot video generation",
+  "category": "video-generation",
+  "tags": [
+    "agent-skills",
+    "antigravity",
+    "claude-code",
+    "comfyui",
+    "google-colab",
+    "minimax-h3",
+    "prompt-engineering",
+    "text-to-video",
+    "video-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Rea1Felix",
+    "url": "https://github.com/Rea1Felix"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Rea1Felix/H3-colab-studio",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-06T20:20:51Z",
+    "first_commit_at": "2026-11-06T20:20:48Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3036,
+  "rank_in_category": 104,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:57:18.490257Z",
+  "last_refreshed_at": "2026-11-11T20:57:18.490261Z",
+  "consecutive_refresh_failures": 0
+}

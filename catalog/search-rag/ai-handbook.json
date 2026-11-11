@@ -1,0 +1,55 @@
+{
+  "slug": "ai-handbook",
+  "name": "ai-handbook",
+  "tagline": "🤖 AI 工程师的成长手册：从基础知识到 RAG、Agent 实战，涵盖学习路径与高频面试题。",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "multi-agent",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "nageoffer",
+    "url": "https://github.com/nageoffer"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nageoffer/ai-handbook",
+    "huggingface": null,
+    "homepage": "https://nageoffer.com/ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 185,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-28T15:46:21Z",
+    "first_commit_at": "2026-04-09T14:15:34Z",
+    "forks": 17,
+    "watchers": 7,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0,
+  "rank_in_category": 261,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:13:12.456650Z",
+  "last_refreshed_at": "2026-11-11T21:13:12.456653Z",
+  "consecutive_refresh_failures": 0
+}

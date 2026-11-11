@@ -1,0 +1,56 @@
+{
+  "slug": "brag",
+  "name": "brag",
+  "tagline": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+  "category": "video-generation",
+  "tags": [
+    "agent-skills",
+    "claude-code",
+    "claude-skills",
+    "hyperframes",
+    "launch-video",
+    "video-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "latent-spaces",
+    "url": "https://github.com/latent-spaces"
+  },
+  "source": {
+    "primary": "github",
+    "github": "latent-spaces/brag",
+    "huggingface": null,
+    "homepage": "https://latent-spaces.github.io/brag/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 21087,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-23T21:18:13Z",
+    "first_commit_at": "2026-06-16T20:48:42Z",
+    "forks": 1635,
+    "watchers": 73,
+    "open_issues": 49,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4474,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:58:58.643689Z",
+  "last_refreshed_at": "2026-11-11T20:58:58.643692Z",
+  "consecutive_refresh_failures": 0
+}

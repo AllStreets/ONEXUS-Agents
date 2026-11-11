@@ -1,0 +1,62 @@
+{
+  "slug": "dodari",
+  "name": "dodari",
+  "tagline": "Translate entire books with AI you already have.",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "bilingual",
+    "book-translation",
+    "claude-code",
+    "codex-cli",
+    "ebook",
+    "epub",
+    "gemma",
+    "gradio",
+    "korean"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "vEduardovich",
+    "url": "https://github.com/vEduardovich"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vEduardovich/dodari",
+    "huggingface": null,
+    "homepage": "https://finpin.himion.com/dodari"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 247,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-05T03:43:01Z",
+    "first_commit_at": "2024-03-18T10:48:04Z",
+    "forks": 35,
+    "watchers": 6,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "gradio"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5544,
+  "rank_in_category": 27,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:54.238806Z",
+  "last_refreshed_at": "2026-11-11T21:08:54.238809Z",
+  "consecutive_refresh_failures": 0
+}

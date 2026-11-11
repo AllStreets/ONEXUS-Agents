@@ -1,0 +1,60 @@
+{
+  "slug": "subtitle-translator",
+  "name": "subtitle-translator",
+  "tagline": "Translate a whole season of subtitles in one pass — .srt/.ass/.vtt/.lrc, 120+ languages, 27 LLM providers, timing untouched ｜ 整季字幕一次译完，时轴不动，支持 120+ 语言",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "ass",
+    "batch-translation",
+    "bilingual",
+    "bilingual-subtitles",
+    "captions",
+    "cli",
+    "deepl",
+    "desktop-app",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rockbenben",
+    "url": "https://github.com/rockbenben"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rockbenben/subtitle-translator",
+    "huggingface": null,
+    "homepage": "https://tools.newzone.top/en/subtitle-translator"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1197,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-09T12:58:04Z",
+    "first_commit_at": "2025-03-21T08:40:36Z",
+    "forks": 172,
+    "watchers": 5,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5794,
+  "rank_in_category": 24,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:49.334589Z",
+  "last_refreshed_at": "2026-11-11T21:08:49.334592Z",
+  "consecutive_refresh_failures": 0
+}

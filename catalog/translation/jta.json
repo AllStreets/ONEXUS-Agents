@@ -1,0 +1,62 @@
+{
+  "slug": "jta",
+  "name": "jta",
+  "tagline": "AI-powered JSON translation tool with agentic reflection using OpenAI, Anthropic, and Gemini APIs",
+  "category": "translation",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "anthropic",
+    "cli",
+    "gemini",
+    "golang",
+    "i18n",
+    "json",
+    "llm",
+    "localization"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ckanner",
+    "url": "https://github.com/ckanner"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ckanner/jta",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 133,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-12T03:13:01Z",
+    "first_commit_at": "2025-10-24T05:04:57Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3185,
+  "rank_in_category": 81,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:10:16.960596Z",
+  "last_refreshed_at": "2026-11-11T21:10:16.960600Z",
+  "consecutive_refresh_failures": 0
+}

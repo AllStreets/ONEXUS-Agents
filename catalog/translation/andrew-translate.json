@@ -1,0 +1,56 @@
+{
+  "slug": "andrew-translate",
+  "name": "andrew-translate",
+  "tagline": "Andrew Ng translation-agent style three-step translation skill (initial translate, reflect, improve)",
+  "category": "translation",
+  "tags": [
+    "agent-skills",
+    "claude-code",
+    "claude-code-skill",
+    "claude-skills",
+    "translation",
+    "translation-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "linkxzhou",
+    "url": "https://github.com/linkxzhou"
+  },
+  "source": {
+    "primary": "github",
+    "github": "linkxzhou/andrew-translate",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T09:07:02Z",
+    "first_commit_at": "2026-10-14T01:37:41Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2838,
+  "rank_in_category": 89,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:08.291104Z",
+  "last_refreshed_at": "2026-11-11T21:08:08.291107Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "stable-diffusion-cpp",
   "name": "stable-diffusion.cpp",
-  "tagline": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+  "tagline": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,Minimax H3,...) inference in pure C/C++",
   "category": "image-generation",
   "tags": [
     "ai",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 6838,
+    "stars": 7985,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-19T19:41:42Z",
+    "last_commit_at": "2026-11-10T18:42:13Z",
     "first_commit_at": "2023-08-13T08:00:22Z",
-    "forks": 750,
-    "watchers": 74,
-    "open_issues": 266,
+    "forks": 953,
+    "watchers": 79,
+    "open_issues": 271,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3711,
-  "rank_in_category": 12,
+  "composite_score": 0.435,
+  "rank_in_category": 8,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:26:05.209044Z",
-  "last_refreshed_at": "2026-10-25T19:51:04.129790Z",
-  "consecutive_refresh_failures": 23
+  "last_refreshed_at": "2026-11-11T20:54:04.012737Z",
+  "consecutive_refresh_failures": 0
 }

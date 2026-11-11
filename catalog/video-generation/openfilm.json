@@ -1,0 +1,58 @@
+{
+  "slug": "openfilm",
+  "name": "openfilm",
+  "tagline": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
+  "category": "video-generation",
+  "tags": [
+    "ai-video",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "html",
+    "motion-graphics",
+    "video-agent",
+    "video-editor"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "openfilm",
+    "url": "https://github.com/openfilm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "openfilm/openfilm",
+    "huggingface": null,
+    "homepage": "https://openfilm.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 5792,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-09T19:48:33Z",
+    "first_commit_at": "2026-10-10T11:20:26Z",
+    "forks": 551,
+    "watchers": 21,
+    "open_issues": 42,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4312,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:59:49.281324Z",
+  "last_refreshed_at": "2026-11-11T20:59:49.281327Z",
+  "consecutive_refresh_failures": 0
+}

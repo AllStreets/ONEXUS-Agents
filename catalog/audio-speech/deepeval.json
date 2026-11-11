@@ -1,0 +1,56 @@
+{
+  "slug": "deepeval",
+  "name": "deepeval",
+  "tagline": "The LLM Evaluation Framework",
+  "category": "audio-speech",
+  "tags": [
+    "evaluation-framework",
+    "evaluation-metrics",
+    "llm-evaluation",
+    "llm-evaluation-framework",
+    "llm-evaluation-metrics",
+    "python"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "confident-ai",
+    "url": "https://github.com/confident-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "confident-ai/deepeval",
+    "huggingface": null,
+    "homepage": "https://deepeval.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 19444,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T20:11:30Z",
+    "first_commit_at": "2023-08-10T06:58:58Z",
+    "forks": 2192,
+    "watchers": 64,
+    "open_issues": 831,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.667,
+  "rank_in_category": 7,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:07:56.993005Z",
+  "last_refreshed_at": "2026-11-11T21:07:56.993009Z",
+  "consecutive_refresh_failures": 0
+}

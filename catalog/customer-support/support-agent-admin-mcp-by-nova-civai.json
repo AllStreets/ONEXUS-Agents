@@ -9,11 +9,11 @@
     "claude-desktop",
     "crm",
     "cursor",
+    "gemini-cli-extension",
     "lead-management",
     "mcp",
     "mcp-server",
-    "model-context-protocol",
-    "nova-by-civai"
+    "model-context-protocol"
   ],
   "author": {
     "type": "org",
@@ -30,8 +30,8 @@
   "metrics": {
     "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-21T18:18:49Z",
-    "first_commit_at": "2026-09-21T18:18:45Z",
+    "last_commit_at": "2026-11-02T08:55:01Z",
+    "first_commit_at": "2026-11-02T08:54:52Z",
     "forks": 0,
     "watchers": 0,
     "open_issues": 0,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4024,
-  "rank_in_category": 96,
+  "composite_score": 0.4495,
+  "rank_in_category": 87,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:43:37.681042Z",
-  "last_refreshed_at": "2026-10-20T04:43:37.681046Z",
-  "consecutive_refresh_failures": 22
+  "last_refreshed_at": "2026-11-11T20:40:44.877918Z",
+  "consecutive_refresh_failures": 0
 }

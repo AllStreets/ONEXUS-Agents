@@ -1,12 +1,13 @@
 {
   "slug": "st3gg",
   "name": "ST3GG",
-  "tagline": "All-in-one steganography suite",
+  "tagline": "all-in-one steganography suite",
   "category": "image-generation",
   "tags": [
     "steganalysis",
     "steganography",
-    "stego"
+    "stego",
+    "text-analysis"
   ],
   "author": {
     "type": "user",
@@ -21,13 +22,13 @@
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 1734,
+    "stars": 1854,
     "downloads_30d": null,
     "last_commit_at": "2026-06-15T16:39:55Z",
     "first_commit_at": "2024-05-17T15:28:46Z",
-    "forks": 386,
+    "forks": 409,
     "watchers": 15,
-    "open_issues": 11,
+    "open_issues": 15,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -44,10 +45,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3224,
-  "rank_in_category": 28,
+  "composite_score": 0.3233,
+  "rank_in_category": 54,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:27:20.013826Z",
-  "last_refreshed_at": "2026-10-25T19:51:33.647435Z",
-  "consecutive_refresh_failures": 23
+  "last_refreshed_at": "2026-11-11T20:56:01.777297Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,58 @@
+{
+  "slug": "openlore",
+  "name": "OpenLore",
+  "tagline": "A minimal, extensible, agent-native knowledge repository that keeps shared context current and inspectable",
+  "category": "knowledge-management",
+  "tags": [
+    "agent",
+    "agent-memory",
+    "agents",
+    "knowledge",
+    "knowledge-base",
+    "knowledge-management",
+    "knowledgebase",
+    "memory"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aakarim",
+    "url": "https://github.com/aakarim"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aakarim/OpenLore",
+    "huggingface": null,
+    "homepage": "https://openlore.sh/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1717,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-08T06:16:41Z",
+    "first_commit_at": "2026-04-14T12:56:17Z",
+    "forks": 14,
+    "watchers": 5,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5715,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:14:32.050414Z",
+  "last_refreshed_at": "2026-11-11T21:14:32.050417Z",
+  "consecutive_refresh_failures": 0
+}

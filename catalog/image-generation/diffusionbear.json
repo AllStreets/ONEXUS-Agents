@@ -1,0 +1,60 @@
+{
+  "slug": "diffusionbear",
+  "name": "DiffusionBear",
+  "tagline": "A free, local AI image generation studio for Apple Silicon Macs. Run FLUX.2, Krea 2, Z-Image-Turbo, Qwen-Image-2.1-Turbo and SDXL offline on your Mac .",
+  "category": "image-generation",
+  "tags": [
+    "apple-silicon",
+    "fibo",
+    "fibo2",
+    "flux",
+    "flux2",
+    "flux3-klein",
+    "generative-ai",
+    "image-generation",
+    "image-generation-ai",
+    "krea-2"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "OuincheWinch",
+    "url": "https://github.com/OuincheWinch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OuincheWinch/DiffusionBear",
+    "huggingface": null,
+    "homepage": "https://www.diffusionbear.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 27,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-08T19:57:29Z",
+    "first_commit_at": "2026-11-08T19:49:37Z",
+    "forks": 4,
+    "watchers": 3,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2527,
+  "rank_in_category": 105,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:54:24.798393Z",
+  "last_refreshed_at": "2026-11-11T20:54:24.798396Z",
+  "consecutive_refresh_failures": 0
+}

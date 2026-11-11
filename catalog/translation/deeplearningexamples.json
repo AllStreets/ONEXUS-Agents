@@ -1,0 +1,60 @@
+{
+  "slug": "deeplearningexamples",
+  "name": "DeepLearningExamples",
+  "tagline": "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
+  "category": "translation",
+  "tags": [
+    "computer-vision",
+    "deep-learning",
+    "drug-discovery",
+    "forecasting",
+    "large-language-models",
+    "mxnet",
+    "nlp",
+    "paddlepaddle",
+    "pytorch",
+    "recommender-systems"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "NVIDIA",
+    "url": "https://github.com/NVIDIA"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVIDIA/DeepLearningExamples",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 14874,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-12T14:01:29Z",
+    "first_commit_at": "2018-04-19T20:20:19Z",
+    "forks": 3399,
+    "watchers": 288,
+    "open_issues": 323,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.489,
+  "rank_in_category": 37,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:24.357335Z",
+  "last_refreshed_at": "2026-11-11T21:08:24.357338Z",
+  "consecutive_refresh_failures": 0
+}

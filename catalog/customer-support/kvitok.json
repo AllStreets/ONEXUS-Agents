@@ -1,0 +1,61 @@
+{
+  "slug": "kvitok",
+  "name": "kvitok",
+  "tagline": "Open-source customer support with an AI agent that reads your backend, drafts replies and proposes actions an operator approves",
+  "category": "customer-support",
+  "tags": [
+    "customer-support",
+    "customer-support-ai",
+    "customer-support-automation",
+    "customer-support-chatbot",
+    "helpdesk",
+    "helpdesk-automation",
+    "helpdesk-system",
+    "mcp",
+    "open-source"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Rogue85",
+    "url": "https://github.com/Rogue85"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Rogue85/kvitok",
+    "huggingface": null,
+    "homepage": "https://kvitok.nojake.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 5,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-04T19:58:18Z",
+    "first_commit_at": "2026-10-31T14:04:49Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4802,
+  "rank_in_category": 68,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:41:49.943765Z",
+  "last_refreshed_at": "2026-11-11T20:41:49.943769Z",
+  "consecutive_refresh_failures": 0
+}

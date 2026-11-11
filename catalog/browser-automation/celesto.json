@@ -1,0 +1,58 @@
+{
+  "slug": "celesto",
+  "name": "celesto",
+  "tagline": "Secure and persistent computer for AI agents",
+  "category": "browser-automation",
+  "tags": [
+    "agent-runtime",
+    "ai-sandbox",
+    "browser-agent",
+    "browser-use",
+    "computer-use",
+    "grokbot",
+    "muse",
+    "sandbox"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "CelestoAI",
+    "url": "https://github.com/CelestoAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CelestoAI/celesto",
+    "huggingface": null,
+    "homepage": "https://celesto.ai/docs?utm_source=github"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1273,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-10T06:57:03Z",
+    "first_commit_at": "2026-02-15T00:30:57Z",
+    "forks": 107,
+    "watchers": 10,
+    "open_issues": 27,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4025,
+  "rank_in_category": 42,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:17:49.699000Z",
+  "last_refreshed_at": "2026-11-11T21:17:49.699003Z",
+  "consecutive_refresh_failures": 0
+}

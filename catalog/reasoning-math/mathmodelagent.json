@@ -1,0 +1,54 @@
+{
+  "slug": "mathmodelagent",
+  "name": "MathModelAgent",
+  "tagline": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+  "category": "reasoning-math",
+  "tags": [
+    "agent",
+    "llm",
+    "mathmodel",
+    "skills"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jihe520",
+    "url": "https://github.com/jihe520"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jihe520/MathModelAgent",
+    "huggingface": null,
+    "homepage": "https://mathmodel.top/home"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 6316,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-02T07:39:03Z",
+    "first_commit_at": "2025-05-05T15:47:52Z",
+    "forks": 458,
+    "watchers": 26,
+    "open_issues": 44,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.442,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:15:42.252537Z",
+  "last_refreshed_at": "2026-11-11T21:15:42.252540Z",
+  "consecutive_refresh_failures": 0
+}

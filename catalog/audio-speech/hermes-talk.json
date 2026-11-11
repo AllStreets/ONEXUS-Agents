@@ -1,0 +1,60 @@
+{
+  "slug": "hermes-talk",
+  "name": "hermes-talk",
+  "tagline": "Hermes Talk: realtime duplex voice for Hermes Agent. Rides your ChatGPT or X Premium subscription, no API key needed. OpenAI, Grok, Gemini. Terminal, Discord, dashboard.",
+  "category": "audio-speech",
+  "tags": [
+    "agent-orchestration",
+    "ai-agents",
+    "chatgpt",
+    "codex-cli",
+    "discord",
+    "full-duplex",
+    "gemini-live",
+    "grok",
+    "hermes-agent",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "TheSmokeDev",
+    "url": "https://github.com/TheSmokeDev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TheSmokeDev/hermes-talk",
+    "huggingface": null,
+    "homepage": "https://pypi.org/project/hermes-talk/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 194,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-09T05:24:23Z",
+    "first_commit_at": "2026-08-02T12:50:11Z",
+    "forks": 35,
+    "watchers": 1,
+    "open_issues": 33,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4779,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:03:52.102355Z",
+  "last_refreshed_at": "2026-11-11T21:03:52.102358Z",
+  "consecutive_refresh_failures": 0
+}

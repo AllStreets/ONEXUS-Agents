@@ -1,0 +1,49 @@
+{
+  "slug": "python-client",
+  "name": "python-client",
+  "tagline": "Defines a Python client API to allow OpenCog experiments to be written as short Python scripts.",
+  "category": "image-generation",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "opencog",
+    "url": "https://github.com/opencog"
+  },
+  "source": {
+    "primary": "github",
+    "github": "opencog/python-client",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 20,
+    "downloads_30d": null,
+    "last_commit_at": "2015-01-06T20:00:01Z",
+    "first_commit_at": "2014-09-07T18:16:08Z",
+    "forks": 14,
+    "watchers": 7,
+    "open_issues": 2,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0526,
+  "rank_in_category": 204,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:57:06.816185Z",
+  "last_refreshed_at": "2026-11-11T20:57:06.816189Z",
+  "consecutive_refresh_failures": 0
+}

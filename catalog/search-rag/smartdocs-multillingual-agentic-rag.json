@@ -1,0 +1,53 @@
+{
+  "slug": "smartdocs-multillingual-agentic-rag",
+  "name": "SmartDocs-Multillingual-Agentic-Rag",
+  "tagline": "Intelligent multilingual PDF Q&A system for Indian professionals. Sarvam-30B + multilingual-e5-large. 22 Indian languages, no translation layer.",
+  "category": "search-rag",
+  "tags": [
+    "fastapi",
+    "langgraph-agents",
+    "multilingual-agentic-rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sahilalaknur21",
+    "url": "https://github.com/sahilalaknur21"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sahilalaknur21/SmartDocs-Multillingual-Agentic-Rag",
+    "huggingface": null,
+    "homepage": "https://smartdocs-website.vercel.app/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 36,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-14T03:31:46Z",
+    "first_commit_at": "2026-03-08T09:48:22Z",
+    "forks": 6,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2011,
+  "rank_in_category": 180,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:12:22.220314Z",
+  "last_refreshed_at": "2026-11-11T21:12:22.220318Z",
+  "consecutive_refresh_failures": 0
+}

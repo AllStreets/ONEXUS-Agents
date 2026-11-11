@@ -1,0 +1,60 @@
+{
+  "slug": "omnara",
+  "name": "omnara",
+  "tagline": "The open-source managed agent platform. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-infrastructure",
+    "agent-platform",
+    "agent-runtime",
+    "agents-api",
+    "ai-infrastructure",
+    "claude-managed-agents",
+    "cloud-agents",
+    "durable-agents",
+    "durable-execution",
+    "managed-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "omnara-ai",
+    "url": "https://github.com/omnara-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "omnara-ai/omnara",
+    "huggingface": null,
+    "homepage": "https://www.omnara.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3385,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T20:39:39Z",
+    "first_commit_at": "2025-07-09T02:17:44Z",
+    "forks": 269,
+    "watchers": 12,
+    "open_issues": 29,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4393,
+  "rank_in_category": 76,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:01:08.698474Z",
+  "last_refreshed_at": "2026-11-11T21:01:08.698478Z",
+  "consecutive_refresh_failures": 0
+}

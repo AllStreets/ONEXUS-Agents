@@ -1,0 +1,55 @@
+{
+  "slug": "retrieval-agent-template",
+  "name": "retrieval-agent-template",
+  "tagline": "retrieval-agent-template",
+  "category": "search-rag",
+  "tags": [
+    "langgraph",
+    "langgraph-python",
+    "langgraph-template"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "langchain-ai",
+    "url": "https://github.com/langchain-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "langchain-ai/retrieval-agent-template",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 181,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T16:11:40Z",
+    "first_commit_at": "2024-08-22T00:46:58Z",
+    "forks": 55,
+    "watchers": 5,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3785,
+  "rank_in_category": 46,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:13:25.304823Z",
+  "last_refreshed_at": "2026-11-11T21:13:25.304826Z",
+  "consecutive_refresh_failures": 0
+}

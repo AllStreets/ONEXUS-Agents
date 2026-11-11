@@ -1,0 +1,56 @@
+{
+  "slug": "research-paper-rag",
+  "name": "Research-paper-RAG",
+  "tagline": "simple rag agent that queries, analyses and extract meaningful info from document. stores and retrieves from qdrant vector db.",
+  "category": "search-rag",
+  "tags": [
+    "llama-index",
+    "qdrant",
+    "rag-agent",
+    "vectordb"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "akshatladdha16",
+    "url": "https://github.com/akshatladdha16"
+  },
+  "source": {
+    "primary": "github",
+    "github": "akshatladdha16/Research-paper-RAG",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-07T06:09:46Z",
+    "first_commit_at": "2026-02-02T07:11:32Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "llamaindex"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.158,
+  "rank_in_category": 211,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:12:50.182076Z",
+  "last_refreshed_at": "2026-11-11T21:12:50.182081Z",
+  "consecutive_refresh_failures": 0
+}

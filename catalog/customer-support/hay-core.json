@@ -1,15 +1,19 @@
 {
   "slug": "hay-core",
   "name": "hay-core",
-  "tagline": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge base, and integrate with your existing tools. All from a single dashboard.",
+  "tagline": "Self-hosted AI customer support. AI agents that resolve requests, not just answer them: order lookups, refunds and order updates via Shopify, WooCommerce and Stripe, with human handoff. Web chat, What",
   "category": "customer-support",
   "tags": [
     "ai",
-    "customer",
+    "ai-agent",
+    "ai-customer-support",
+    "chatbot",
+    "customer-service",
     "customer-support",
     "customer-support-ai",
-    "llm",
-    "llm-agent"
+    "knowledge-base",
+    "live-chat",
+    "llm"
   ],
   "author": {
     "type": "org",
@@ -24,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 5,
+    "stars": 7,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-19T09:25:00Z",
+    "last_commit_at": "2026-11-11T20:40:22Z",
     "first_commit_at": "2025-08-27T11:19:54Z",
-    "forks": 1,
+    "forks": 2,
     "watchers": 0,
-    "open_issues": 17,
+    "open_issues": 6,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -42,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.4384,
-  "rank_in_category": 78,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5552,
+  "rank_in_category": 37,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:18:02.681156Z",
-  "last_refreshed_at": "2026-10-20T04:44:24.045401Z",
-  "consecutive_refresh_failures": 22
+  "last_refreshed_at": "2026-11-11T20:41:47.903970Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,62 @@
+{
+  "slug": "langchain-cookbook",
+  "name": "langchain-cookbook",
+  "tagline": "A curated cookbook of production-ready AI agents built with LangChain and LangGraph. Features a Hierarchical Deep Agent with task tracking, a Dual-Approach RAG Agent, and a Self-Correcting Text-to-SQL",
+  "category": "search-rag",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "cookbook",
+    "deep-agent",
+    "deep-agents",
+    "langchain",
+    "langgraph",
+    "llm",
+    "python",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "masoudSarafZadeh",
+    "url": "https://github.com/masoudSarafZadeh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "masoudSarafZadeh/langchain-cookbook",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-28T16:06:59Z",
+    "first_commit_at": "2026-06-28T16:39:46Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1567,
+  "rank_in_category": 214,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:12:44.476440Z",
+  "last_refreshed_at": "2026-11-11T21:12:44.476443Z",
+  "consecutive_refresh_failures": 0
+}

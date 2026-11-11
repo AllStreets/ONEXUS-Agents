@@ -1,7 +1,7 @@
 {
   "slug": "ava-ai-voice-agent-for-asterisk",
   "name": "AVA-AI-Voice-Agent-for-Asterisk",
-  "tagline": "An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology",
+  "tagline": "An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP/Websocket technology         https://demo.agent6789.com",
   "category": "audio-speech",
   "tags": [],
   "author": {
@@ -13,17 +13,17 @@
     "primary": "github",
     "github": "hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
     "huggingface": null,
-    "homepage": "https://demo.agent6789.com/"
+    "homepage": "https://operator.agent6789.com/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1196,
+    "stars": 1271,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-30T03:28:12Z",
+    "last_commit_at": "2026-11-11T06:11:10Z",
     "first_commit_at": "2025-09-05T23:06:02Z",
-    "forks": 261,
-    "watchers": 29,
-    "open_issues": 28,
+    "forks": 285,
+    "watchers": 26,
+    "open_issues": 34,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4858,
-  "rank_in_category": 17,
+  "composite_score": 0.5727,
+  "rank_in_category": 19,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-30T18:02:48.114546Z",
-  "last_refreshed_at": "2026-11-08T21:23:25.947361Z",
-  "consecutive_refresh_failures": 23
+  "last_refreshed_at": "2026-11-11T21:07:21.810919Z",
+  "consecutive_refresh_failures": 0
 }

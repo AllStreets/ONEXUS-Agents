@@ -1,0 +1,60 @@
+{
+  "slug": "tapq",
+  "name": "tapq",
+  "tagline": "Multi-modal voice agent for your AI agents. Talk with Claude Code, Codex, and others by voice: answer their prompts, give instructions, ask what they did. Or just nod.",
+  "category": "audio-speech",
+  "tags": [
+    "accessibility",
+    "ai-agents",
+    "airpods",
+    "claude-code",
+    "cli",
+    "codex",
+    "coremotion",
+    "cursor",
+    "developer-tools",
+    "gesture-recognition"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "spaceamoeba-t",
+    "url": "https://github.com/spaceamoeba-t"
+  },
+  "source": {
+    "primary": "github",
+    "github": "spaceamoeba-t/tapq",
+    "huggingface": null,
+    "homepage": "https://tapq.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 648,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-30T20:32:25Z",
+    "first_commit_at": "2026-07-19T04:21:20Z",
+    "forks": 8,
+    "watchers": 9,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4725,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:03:39.338243Z",
+  "last_refreshed_at": "2026-11-11T21:03:39.338246Z",
+  "consecutive_refresh_failures": 0
+}

@@ -3,7 +3,18 @@
   "name": "llm4s",
   "tagline": "Agentic  and LLM Programming in Scala",
   "category": "coding",
-  "tags": [],
+  "tags": [
+    "agents",
+    "ai-agents",
+    "anthropic",
+    "gemini",
+    "generative-ai",
+    "java",
+    "jvm",
+    "kotlin",
+    "large-language-models",
+    "llm"
+  ],
   "author": {
     "type": "org",
     "handle": "llm4s",
@@ -17,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 270,
+    "stars": 279,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-20T04:49:36Z",
+    "last_commit_at": "2026-11-11T09:38:37Z",
     "first_commit_at": "2025-01-29T19:01:56Z",
-    "forks": 119,
+    "forks": 142,
     "watchers": 1,
-    "open_issues": 185,
+    "open_issues": 223,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -35,15 +46,18 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.3383,
-  "rank_in_category": 268,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.423,
+  "rank_in_category": 85,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T04:52:00.434701Z",
-  "last_refreshed_at": "2026-10-20T04:52:00.434704Z",
-  "consecutive_refresh_failures": 22
+  "first_seen_at": "2026-11-11T20:51:02.240313Z",
+  "last_refreshed_at": "2026-11-11T20:51:02.240316Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,63 @@
+{
+  "slug": "awesome-agent-skills",
+  "name": "awesome-agent-skills",
+  "tagline": "Tutorials, Guides and Agent Skills Directories",
+  "category": "knowledge-management",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "ai-development",
+    "anthropic",
+    "automation",
+    "awesome",
+    "awesome-list",
+    "claude",
+    "codex",
+    "github-copilot"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "heilcheng",
+    "url": "https://github.com/heilcheng"
+  },
+  "source": {
+    "primary": "github",
+    "github": "heilcheng/awesome-agent-skills",
+    "huggingface": null,
+    "homepage": "http://agent-skill.co/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6377,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-09T01:42:59Z",
+    "first_commit_at": "2025-12-29T22:12:26Z",
+    "forks": 840,
+    "watchers": 35,
+    "open_issues": 366,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.0,
+  "rank_in_category": 203,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:15:39.020549Z",
+  "last_refreshed_at": "2026-11-11T21:15:39.020552Z",
+  "consecutive_refresh_failures": 0
+}

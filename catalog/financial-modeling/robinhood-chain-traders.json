@@ -1,0 +1,58 @@
+{
+  "slug": "robinhood-chain-traders",
+  "name": "robinhood-chain-traders",
+  "tagline": "Autonomous agents that trade Robinhood Chain memecoins and watch Stock Token premiums, with risk caps and a dashboard.",
+  "category": "financial-modeling",
+  "tags": [
+    "autonomous-agents",
+    "claude-code-plugin",
+    "memecoin",
+    "robinhood-chain",
+    "stock-tokens",
+    "trading-agent",
+    "typescript",
+    "viem"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nirholas",
+    "url": "https://github.com/nirholas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nirholas/robinhood-chain-traders",
+    "huggingface": null,
+    "homepage": "https://nirholas.github.io/robinhood-chain-traders/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-10T21:58:11Z",
+    "first_commit_at": "2026-07-12T11:36:04Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3609,
+  "rank_in_category": 120,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:28:44.471245Z",
+  "last_refreshed_at": "2026-11-11T20:28:44.471248Z",
+  "consecutive_refresh_failures": 0
+}

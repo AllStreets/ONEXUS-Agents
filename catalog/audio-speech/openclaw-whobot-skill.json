@@ -1,0 +1,60 @@
+{
+  "slug": "openclaw-whobot-skill",
+  "name": "openclaw-whobot-skill",
+  "tagline": "呼波特 WhoBot 官方 AI 电话数字员工 Skill：在 WorkBuddy / Claude Code / Codex / OpenClaw / Cursor 里挑选、体验、创建和调优会打真实电话的 AI 员工，上传线索外呼 | Official WhoBot agent skill for AI phone agents (voice agents)",
+  "category": "audio-speech",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "ai-phone",
+    "ai-phone-agent",
+    "claude-code",
+    "claude-skills",
+    "codex-skills",
+    "customer-service",
+    "digital-employee",
+    "dsh-skill"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "whobot-com",
+    "url": "https://github.com/whobot-com"
+  },
+  "source": {
+    "primary": "github",
+    "github": "whobot-com/openclaw-whobot-skill",
+    "huggingface": null,
+    "homepage": "https://whobot-com.github.io/openclaw-whobot-skill/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 119,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T18:46:13Z",
+    "first_commit_at": "2026-03-22T12:02:18Z",
+    "forks": 3,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4328,
+  "rank_in_category": 63,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:03:59.240541Z",
+  "last_refreshed_at": "2026-11-11T21:03:59.240544Z",
+  "consecutive_refresh_failures": 0
+}

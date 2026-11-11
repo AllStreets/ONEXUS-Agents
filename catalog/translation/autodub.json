@@ -1,0 +1,60 @@
+{
+  "slug": "autodub",
+  "name": "AutoDub",
+  "tagline": "Automatic video translator and dubber using Whisper, XTTS v2 for voice cloning, and Ollama for local LLM translation. Supports 100+ languages.",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "auto-dub",
+    "edge-tts",
+    "llm-translation",
+    "offline-speech-recognition",
+    "offline-tts",
+    "ollama",
+    "piper-tts",
+    "silero-tts",
+    "speech-recognition"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shyhirt",
+    "url": "https://github.com/shyhirt"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shyhirt/AutoDub",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 31,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-04T10:04:49Z",
+    "first_commit_at": "2025-12-25T13:05:55Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2718,
+  "rank_in_category": 94,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:09:16.206794Z",
+  "last_refreshed_at": "2026-11-11T21:09:16.206797Z",
+  "consecutive_refresh_failures": 0
+}

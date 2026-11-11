@@ -1,0 +1,60 @@
+{
+  "slug": "equalang-skill",
+  "name": "equalang-skill",
+  "tagline": "Agent Skill for Equalang: translate PDF, DOCX, PPTX, XLSX, EPUB, subtitles, pictures, audio and video with the layout kept; transcribe recordings. For Claude Code, Codex, Cursor and more.",
+  "category": "translation",
+  "tags": [
+    "agent-skills",
+    "claude-code",
+    "claude-code-skill",
+    "codex",
+    "codex-skill",
+    "document-translation",
+    "image-translation",
+    "pdf-translation",
+    "speech-to-text",
+    "subtitle-translation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "equalang",
+    "url": "https://github.com/equalang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "equalang/equalang-skill",
+    "huggingface": null,
+    "homepage": "https://equalang.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 94,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-03T07:35:58Z",
+    "first_commit_at": "2026-09-19T13:39:58Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4001,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:10:41.921660Z",
+  "last_refreshed_at": "2026-11-11T21:10:41.921664Z",
+  "consecutive_refresh_failures": 0
+}

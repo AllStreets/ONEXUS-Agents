@@ -1,0 +1,63 @@
+{
+  "slug": "zizkadb",
+  "name": "ZizkaDB",
+  "tagline": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel debugging to support EU AI Act Article 12 record-keeping. Drift detection, MCP, Py",
+  "category": "search-rag",
+  "tags": [
+    "agent-auditability",
+    "agent-debugging",
+    "agent-memory",
+    "ai-agents",
+    "ai-audit",
+    "ai-compliance",
+    "ai-observability",
+    "audit-log",
+    "audit-trail",
+    "causal-lineage"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ZIZKA-AI-SL",
+    "url": "https://github.com/ZIZKA-AI-SL"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ZIZKA-AI-SL/ZizkaDB",
+    "huggingface": null,
+    "homepage": "https://db.zizka.ai/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 162,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T21:13:24Z",
+    "first_commit_at": "2026-05-10T01:41:57Z",
+    "forks": 43,
+    "watchers": 7,
+    "open_issues": 55,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3883,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:15:59.348411Z",
+  "last_refreshed_at": "2026-11-11T21:15:59.348414Z",
+  "consecutive_refresh_failures": 0
+}

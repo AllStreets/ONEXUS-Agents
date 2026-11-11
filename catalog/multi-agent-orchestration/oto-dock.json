@@ -1,0 +1,62 @@
+{
+  "slug": "oto-dock",
+  "name": "oto-dock",
+  "tagline": "The self-hosted platform for your company's AI agents. Your team builds them on Claude Code, Codex or local models, and they work in chats, on schedules, on the phone and on your own machines.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-platform",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "fair-source",
+    "llm",
+    "local-llm",
+    "mcp",
+    "multi-agent",
+    "self-hosted"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "OtoDock",
+    "url": "https://github.com/OtoDock"
+  },
+  "source": {
+    "primary": "github",
+    "github": "OtoDock/oto-dock",
+    "huggingface": null,
+    "homepage": "https://otodock.io/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 200,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T01:54:14Z",
+    "first_commit_at": "2026-04-16T06:12:44Z",
+    "forks": 17,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4068,
+  "rank_in_category": 122,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:04:50.655977Z",
+  "last_refreshed_at": "2026-11-11T21:04:50.655981Z",
+  "consecutive_refresh_failures": 0
+}

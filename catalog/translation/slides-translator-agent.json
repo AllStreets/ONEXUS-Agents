@@ -1,0 +1,59 @@
+{
+  "slug": "slides-translator-agent",
+  "name": "slides-translator-agent",
+  "tagline": "An AI-powered agent utilizing Google ADK and Gemini to automatically translate Google Slides presentations into specified target languages.",
+  "category": "translation",
+  "tags": [
+    "adk",
+    "agent",
+    "automation",
+    "gemini",
+    "gemini-enterprise",
+    "generative-ai",
+    "google-slides",
+    "google-workspace",
+    "translation-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "fmind",
+    "url": "https://github.com/fmind"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fmind/slides-translator-agent",
+    "huggingface": null,
+    "homepage": "https://www.fmind.dev/articles/powering-up-your-agent-in-production-with-adk-oauth-and-gemini-enterprise"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2025-11-09T17:11:20Z",
+    "first_commit_at": "2025-10-19T20:22:32Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0467,
+  "rank_in_category": 139,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:07.192627Z",
+  "last_refreshed_at": "2026-11-11T21:08:07.192630Z",
+  "consecutive_refresh_failures": 0
+}

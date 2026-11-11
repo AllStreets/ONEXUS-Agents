@@ -1,0 +1,56 @@
+{
+  "slug": "fastapi-video-service",
+  "name": "fastapi-video-service",
+  "tagline": "A Python FastAPI service which generates a video to explain a STEM topic submitted by users.",
+  "category": "video-generation",
+  "tags": [
+    "claude-desktop",
+    "edge-tts",
+    "fastapi",
+    "video-generation",
+    "video-generation-ai",
+    "video-generation-api"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "khteh",
+    "url": "https://github.com/khteh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "khteh/fastapi-video-service",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-04T09:23:12Z",
+    "first_commit_at": "2026-09-10T10:14:58Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.252,
+  "rank_in_category": 133,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:59:23.579066Z",
+  "last_refreshed_at": "2026-11-11T20:59:23.579069Z",
+  "consecutive_refresh_failures": 0
+}

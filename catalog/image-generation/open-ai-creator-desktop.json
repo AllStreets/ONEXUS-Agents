@@ -1,0 +1,60 @@
+{
+  "slug": "open-ai-creator-desktop",
+  "name": "open-ai-creator-desktop",
+  "tagline": "Open Source Desktop for video & image creators. Create your own videos & images with the advanced AI model: Seedance 2.5, Wan 3.0, Flux 3, GPT Image 2, Seedream 5.0 Pro etc.",
+  "category": "image-generation",
+  "tags": [
+    "ai-creator",
+    "image-generation",
+    "image-generation-ai",
+    "image-generation-api",
+    "image-generation-model",
+    "image-generation-tool",
+    "image-generator",
+    "video-gen",
+    "video-generation",
+    "video-generation-api"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "flaqai",
+    "url": "https://github.com/flaqai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "flaqai/open-ai-creator-desktop",
+    "huggingface": null,
+    "homepage": "https://flaq.ai/ai-media-creator/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-13T06:39:31Z",
+    "first_commit_at": "2026-09-04T03:38:12Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2178,
+  "rank_in_category": 136,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:54:27.289453Z",
+  "last_refreshed_at": "2026-11-11T20:54:27.289456Z",
+  "consecutive_refresh_failures": 0
+}

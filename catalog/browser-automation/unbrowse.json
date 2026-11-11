@@ -1,0 +1,62 @@
+{
+  "slug": "unbrowse",
+  "name": "unbrowse",
+  "tagline": "Unbrowse - Reverse engineer any website so that your agents can access its APIs directly",
+  "category": "browser-automation",
+  "tags": [
+    "agents",
+    "agentskills",
+    "browser-use",
+    "claude-code-plugin",
+    "clawdbot",
+    "clawdbot-plugin",
+    "codex-plugin",
+    "gemini-cli-extension",
+    "grok-bot",
+    "har"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "unbrowse-ai",
+    "url": "https://github.com/unbrowse-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "unbrowse-ai/unbrowse",
+    "huggingface": null,
+    "homepage": "https://unbrowse.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 920,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-03T07:09:34Z",
+    "first_commit_at": "2026-09-26T06:19:37Z",
+    "forks": 82,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4315,
+  "rank_in_category": 30,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:18:22.512194Z",
+  "last_refreshed_at": "2026-11-11T21:18:22.512198Z",
+  "consecutive_refresh_failures": 0
+}

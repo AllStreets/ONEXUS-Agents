@@ -1,0 +1,60 @@
+{
+  "slug": "weworker",
+  "name": "WeWorker",
+  "tagline": "Open-source desktop AI agent that takes real actions on websites — 33 adapters for mail, shopping, social, and more.",
+  "category": "browser-automation",
+  "tags": [
+    "adapter",
+    "ai-agent",
+    "ai-automation",
+    "browser-agent",
+    "browser-automation",
+    "browser-extension",
+    "browsercli",
+    "chrome-extension",
+    "desktop-agent",
+    "electron"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "WeWorker",
+    "url": "https://github.com/WeWorker"
+  },
+  "source": {
+    "primary": "github",
+    "github": "WeWorker/WeWorker",
+    "huggingface": null,
+    "homepage": "https://www.weworker.cc/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 200,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T13:55:19Z",
+    "first_commit_at": "2026-09-14T06:21:45Z",
+    "forks": 18,
+    "watchers": 0,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3434,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:18:02.414111Z",
+  "last_refreshed_at": "2026-11-11T21:18:02.414114Z",
+  "consecutive_refresh_failures": 0
+}

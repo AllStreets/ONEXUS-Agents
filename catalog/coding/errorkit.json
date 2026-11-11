@@ -1,0 +1,56 @@
+{
+  "slug": "errorkit",
+  "name": "ErrorKit",
+  "tagline": "Simplified error handling with built-in user-friendly messages for common errors. Fully localized. Community-driven.",
+  "category": "coding",
+  "tags": [
+    "debugging",
+    "error-handling",
+    "swift",
+    "swift6",
+    "swiftui",
+    "typed-throws"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "FlineDev",
+    "url": "https://github.com/FlineDev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "FlineDev/ErrorKit",
+    "huggingface": null,
+    "homepage": "https://swiftpackageindex.com/FlineDev/ErrorKit/documentation/errorkit"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 429,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-25T23:17:59Z",
+    "first_commit_at": "2023-09-11T17:25:34Z",
+    "forks": 14,
+    "watchers": 3,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3389,
+  "rank_in_category": 278,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:11:29.170260Z",
+  "last_refreshed_at": "2026-11-11T21:11:29.170264Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "saykuku",
+  "name": "SayKuku",
+  "tagline": "Free, open-source, Native voice input and Voice Agent for macOS. Press Fn to dictate; press Fn twice to rewrite, translate, or ask.  BYOK.",
+  "category": "audio-speech",
+  "tags": [
+    "macos-app",
+    "speech-agent",
+    "speech-input",
+    "speech-to-text",
+    "voice-agent",
+    "voice-input",
+    "voice-to-text",
+    "voiceinput"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "UllrAI",
+    "url": "https://github.com/UllrAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "UllrAI/SayKuku",
+    "huggingface": null,
+    "homepage": "https://say.anikuku.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 16,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-09T13:27:33Z",
+    "first_commit_at": "2026-09-20T08:23:19Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3978,
+  "rank_in_category": 73,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:03:26.590078Z",
+  "last_refreshed_at": "2026-11-11T21:03:26.590081Z",
+  "consecutive_refresh_failures": 0
+}

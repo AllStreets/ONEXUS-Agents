@@ -1,0 +1,60 @@
+{
+  "slug": "gamestringer",
+  "name": "GameStringer",
+  "tagline": "Desktop app that auto-detects a game's engine, extracts the text, translates it with local or cloud AI, and re-applies the patch. 20+ engines, 20+ AI providers, 11 UI languages. Free & source-availabl",
+  "category": "translation",
+  "tags": [
+    "ai",
+    "ai-translation",
+    "desktop-app",
+    "fan-translation",
+    "game-translation",
+    "godot",
+    "localization",
+    "nextjs",
+    "ollama",
+    "renpy"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rouges78",
+    "url": "https://github.com/rouges78"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rouges78/GameStringer",
+    "huggingface": null,
+    "homepage": "https://gamestringer.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 142,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-05T09:43:38Z",
+    "first_commit_at": "2026-01-20T00:31:46Z",
+    "forks": 6,
+    "watchers": 1,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4711,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:56.380966Z",
+  "last_refreshed_at": "2026-11-11T21:08:56.380970Z",
+  "consecutive_refresh_failures": 0
+}

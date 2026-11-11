@@ -1,0 +1,60 @@
+{
+  "slug": "ui-venus",
+  "name": "UI-Venus",
+  "tagline": "UI-Venus is a general-purpose foundation GUI agent for mobile apps, web platforms, and desktop operating systems using only screenshots as input.",
+  "category": "browser-automation",
+  "tags": [
+    "browser-use",
+    "browser-use-agent",
+    "computer-use",
+    "computer-use-agent",
+    "cua",
+    "gui-agent",
+    "gui-captcha-solver",
+    "gui-grounding",
+    "mobile-use",
+    "mobile-use-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "inclusionAI",
+    "url": "https://github.com/inclusionAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "inclusionAI/UI-Venus",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1079,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-28T08:24:26Z",
+    "first_commit_at": "2026-08-26T13:15:36Z",
+    "forks": 92,
+    "watchers": 53,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3737,
+  "rank_in_category": 48,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:18:20.586720Z",
+  "last_refreshed_at": "2026-11-11T21:18:20.586722Z",
+  "consecutive_refresh_failures": 0
+}

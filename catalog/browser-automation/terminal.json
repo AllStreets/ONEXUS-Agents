@@ -1,0 +1,55 @@
+{
+  "slug": "terminal",
+  "name": "terminal",
+  "tagline": "Terminal UI to get stuff done in the browser",
+  "category": "browser-automation",
+  "tags": [
+    "browser-automation",
+    "browser-use",
+    "cdp",
+    "terminal",
+    "tui"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "browser-use",
+    "url": "https://github.com/browser-use"
+  },
+  "source": {
+    "primary": "github",
+    "github": "browser-use/terminal",
+    "huggingface": null,
+    "homepage": "https://browser-use.com/terminal"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 661,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T11:39:23Z",
+    "first_commit_at": "2026-05-05T22:09:59Z",
+    "forks": 43,
+    "watchers": 6,
+    "open_issues": 19,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3753,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:18:25.528594Z",
+  "last_refreshed_at": "2026-11-11T21:18:25.528596Z",
+  "consecutive_refresh_failures": 0
+}

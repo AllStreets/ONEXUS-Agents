@@ -1,0 +1,49 @@
+{
+  "slug": "finrag",
+  "name": "FinRag",
+  "tagline": "Structure-aware RAG for financial document QA - 82% on FinanceBench. LLM navigates section headings instead of searching embeddings. ",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "AsyncBuilds",
+    "url": "https://github.com/AsyncBuilds"
+  },
+  "source": {
+    "primary": "github",
+    "github": "AsyncBuilds/FinRag",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-04-15T20:02:42Z",
+    "first_commit_at": "2026-04-13T23:15:14Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1477,
+  "rank_in_category": 225,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:16:48.042925Z",
+  "last_refreshed_at": "2026-11-11T21:16:48.042928Z",
+  "consecutive_refresh_failures": 0
+}

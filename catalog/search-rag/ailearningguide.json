@@ -1,0 +1,62 @@
+{
+  "slug": "ailearningguide",
+  "name": "AILearningGuide",
+  "tagline": "Interactive desktop app with 58 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.",
+  "category": "search-rag",
+  "tags": [
+    "ai",
+    "ai-education",
+    "deep-learning",
+    "educational",
+    "educational-resources",
+    "educational-tool",
+    "generative-ai",
+    "interactive-learning",
+    "learning",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Fazmin",
+    "url": "https://github.com/Fazmin"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Fazmin/AILearningGuide",
+    "huggingface": null,
+    "homepage": "https://fazmin.github.io/AILearningGuide"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 253,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T19:06:06Z",
+    "first_commit_at": "2026-10-05T02:29:11Z",
+    "forks": 25,
+    "watchers": 3,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3299,
+  "rank_in_category": 71,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:13:07.668544Z",
+  "last_refreshed_at": "2026-11-11T21:13:07.668547Z",
+  "consecutive_refresh_failures": 0
+}

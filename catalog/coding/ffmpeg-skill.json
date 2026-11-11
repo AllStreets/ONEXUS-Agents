@@ -13,7 +13,7 @@
     "coding-agent",
     "cursor",
     "ffmpeg",
-    "loudness-normalization"
+    "gemini-cli-extension"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 5007,
+    "stars": 5084,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-10T06:41:48Z",
+    "last_commit_at": "2026-11-11T10:36:36Z",
     "first_commit_at": "2026-09-03T14:33:39Z",
-    "forks": 414,
-    "watchers": 7,
-    "open_issues": 16,
+    "forks": 422,
+    "watchers": 8,
+    "open_issues": 14,
     "archived": false,
     "is_fork": false,
     "is_template": true,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3211,
-  "rank_in_category": 303,
+  "composite_score": 0.3202,
+  "rank_in_category": 317,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-28T18:41:17.107319Z",
-  "last_refreshed_at": "2026-11-10T20:14:20.058054Z",
+  "last_refreshed_at": "2026-11-11T20:02:24.492840Z",
   "consecutive_refresh_failures": 0
 }

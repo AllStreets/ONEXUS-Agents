@@ -1,0 +1,57 @@
+{
+  "slug": "voice-agent-lab",
+  "name": "voice-agent-lab",
+  "tagline": "Experimental local AI voice-agent architecture research by hidezobb: local LLM orchestration, speech planning, TTS, and Apple Silicon.",
+  "category": "audio-speech",
+  "tags": [
+    "apple-silicon",
+    "hidezobb",
+    "local-ai",
+    "local-llm",
+    "speech-agent",
+    "tts",
+    "voice-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "hidezobb-creator",
+    "url": "https://github.com/hidezobb-creator"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hidezobb-creator/voice-agent-lab",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-10T10:25:29Z",
+    "first_commit_at": "2026-10-04T22:34:06Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2734,
+  "rank_in_category": 125,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:03:27.613098Z",
+  "last_refreshed_at": "2026-11-11T21:03:27.613101Z",
+  "consecutive_refresh_failures": 0
+}

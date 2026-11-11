@@ -1,19 +1,17 @@
 {
   "slug": "ucai",
   "name": "UCAI",
-  "tagline": "Universal Contract AI Interface (UCAI) 🔗 ABI to MCP | The open standard for connecting AI agents to blockchain. MCP server generator for smart contracts. Claude + Uniswap, Aave, ERC20, NFTs, DeFi. Pyt",
+  "tagline": "UCAI: a Python CLI that generates MCP servers from smart contract ABIs so AI agents can read and call EVM contracts.",
   "category": "coding",
   "tags": [
     "abi",
-    "ai-agents",
-    "arbitrum",
-    "blockchain",
-    "claude",
-    "defi",
-    "erc20",
-    "ethereum",
+    "claude-code-plugin",
     "evm",
-    "llm"
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "smart-contracts",
+    "web3"
   ],
   "author": {
     "type": "user",
@@ -30,9 +28,9 @@
   "metrics": {
     "stars": 38,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-04T23:03:40Z",
+    "last_commit_at": "2026-11-11T16:14:25Z",
     "first_commit_at": "2026-01-04T23:28:59Z",
-    "forks": 12,
+    "forks": 11,
     "watchers": 2,
     "open_issues": 0,
     "archived": false,
@@ -53,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3425,
-  "rank_in_category": 256,
+  "composite_score": 0.3469,
+  "rank_in_category": 251,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T18:08:04.726271Z",
-  "last_refreshed_at": "2026-11-08T18:32:29.686553Z",
-  "consecutive_refresh_failures": 2
+  "last_refreshed_at": "2026-11-11T20:26:43.443948Z",
+  "consecutive_refresh_failures": 0
 }

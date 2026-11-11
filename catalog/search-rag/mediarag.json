@@ -1,0 +1,49 @@
+{
+  "slug": "mediarag",
+  "name": "mediarag",
+  "tagline": "Local, multimodal, retrieval augmented generation across your documents, images and audio — agent-plugins.org 1.0 compatible.",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "dyiapanis",
+    "url": "https://github.com/dyiapanis"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dyiapanis/mediarag",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 7,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T09:48:13Z",
+    "first_commit_at": "2026-10-18T09:29:10Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2307,
+  "rank_in_category": 158,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:04:12.922164Z",
+  "last_refreshed_at": "2026-11-11T21:04:12.922167Z",
+  "consecutive_refresh_failures": 0
+}

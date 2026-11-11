@@ -1,0 +1,49 @@
+{
+  "slug": "translationagent",
+  "name": "translationAgent",
+  "tagline": "一个翻译agent",
+  "category": "translation",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "ws1993",
+    "url": "https://github.com/ws1993"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ws1993/translationAgent",
+    "huggingface": null,
+    "homepage": "https://translation-agent-gamma.vercel.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 19,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-16T07:14:38Z",
+    "first_commit_at": "2026-06-24T06:06:25Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3486,
+  "rank_in_category": 75,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:09:31.318407Z",
+  "last_refreshed_at": "2026-11-11T21:09:31.318410Z",
+  "consecutive_refresh_failures": 0
+}

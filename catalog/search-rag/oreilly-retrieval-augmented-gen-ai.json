@@ -1,0 +1,62 @@
+{
+  "slug": "oreilly-retrieval-augmented-gen-ai",
+  "name": "oreilly-retrieval-augmented-gen-ai",
+  "tagline": "See how to augment LLMs with real-time data for dynamic, context-aware apps - Rag + Agents + GraphRAG.",
+  "category": "search-rag",
+  "tags": [
+    "agents",
+    "generative-ai",
+    "graphrag",
+    "langgraph",
+    "llms",
+    "open-source",
+    "rag",
+    "reranking",
+    "retrieval-augmented-generation",
+    "semantic-search"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "sinanuozdemir",
+    "url": "https://github.com/sinanuozdemir"
+  },
+  "source": {
+    "primary": "github",
+    "github": "sinanuozdemir/oreilly-retrieval-augmented-gen-ai",
+    "huggingface": null,
+    "homepage": "https://learning.oreilly.com/live-events/retrieval-augmented-generation-rag-and-agents-using-llms/0642572007797"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 168,
+    "downloads_30d": null,
+    "last_commit_at": "2026-02-17T15:16:26Z",
+    "first_commit_at": "2024-04-03T16:51:22Z",
+    "forks": 93,
+    "watchers": 6,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2681,
+  "rank_in_category": 116,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:13:13.394198Z",
+  "last_refreshed_at": "2026-11-11T21:13:13.394201Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "comfyui-aicg3d",
+  "name": "comfyui-AICG3D",
+  "tagline": "短剧工作台 | 无限时长视频的 MiniMax H3 工作流 | ComfyUI 本地短剧与长视频生成插件",
+  "category": "image-generation",
+  "tags": [
+    "ai-video",
+    "comfyui",
+    "comfyui-workflow",
+    "custom-nodes",
+    "dmad",
+    "four-step-lora",
+    "image-to-video",
+    "infinite-video",
+    "local-ai",
+    "minimax-h3"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JGRFW",
+    "url": "https://github.com/JGRFW"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JGRFW/comfyui-AICG3D",
+    "huggingface": null,
+    "homepage": "https://github.com/JGRFW/comfyui-AICG3D"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 515,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T01:04:18Z",
+    "first_commit_at": "2026-09-12T15:54:40Z",
+    "forks": 74,
+    "watchers": 7,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3304,
+  "rank_in_category": 46,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:53:12.393943Z",
+  "last_refreshed_at": "2026-11-11T20:53:12.393946Z",
+  "consecutive_refresh_failures": 0
+}

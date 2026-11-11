@@ -1,0 +1,62 @@
+{
+  "slug": "comfy-colab-kit",
+  "name": "comfy-colab-kit",
+  "tagline": "Zero-GPU-idle gateway for running ComfyUI on ephemeral Google Colab VMs with Zero-Trust Access",
+  "category": "image-generation",
+  "tags": [
+    "ai-agents",
+    "claude-code",
+    "cloudflared",
+    "colab",
+    "comfyui",
+    "cursor",
+    "free",
+    "gateway",
+    "google-ai",
+    "google-colab"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "FireTable",
+    "url": "https://github.com/FireTable"
+  },
+  "source": {
+    "primary": "github",
+    "github": "FireTable/comfy-colab-kit",
+    "huggingface": null,
+    "homepage": "https://comfy-colab-kit.firetable.tech/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 129,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-08T09:58:38Z",
+    "first_commit_at": "2026-10-23T13:12:52Z",
+    "forks": 23,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3498,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:57:37.925269Z",
+  "last_refreshed_at": "2026-11-11T20:57:37.925272Z",
+  "consecutive_refresh_failures": 0
+}

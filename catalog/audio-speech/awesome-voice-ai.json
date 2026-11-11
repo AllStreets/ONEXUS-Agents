@@ -1,0 +1,62 @@
+{
+  "slug": "awesome-voice-ai",
+  "name": "awesome-voice-ai",
+  "tagline": "A curated list of 150+ voice AI tools — agents, TTS, STT, cloning, telephony, frameworks. The definitive voice AI directory.",
+  "category": "audio-speech",
+  "tags": [
+    "ai-tools",
+    "awesome",
+    "awesome-list",
+    "conversational-ai",
+    "deepgram",
+    "elevenlabs",
+    "livekit",
+    "mcp",
+    "pipecat",
+    "retell-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ALLBOTSIO",
+    "url": "https://github.com/ALLBOTSIO"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ALLBOTSIO/awesome-voice-ai",
+    "huggingface": null,
+    "homepage": "https://allbots.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-13T15:04:38Z",
+    "first_commit_at": "2026-04-10T12:49:02Z",
+    "forks": 29,
+    "watchers": 0,
+    "open_issues": 36,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.0,
+  "rank_in_category": 159,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:11:14.545074Z",
+  "last_refreshed_at": "2026-11-11T21:11:14.545078Z",
+  "consecutive_refresh_failures": 0
+}

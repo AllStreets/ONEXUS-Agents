@@ -1,0 +1,60 @@
+{
+  "slug": "basic-jarvis",
+  "name": "BASIC-JARVIS",
+  "tagline": "Local-first desktop AI assistant built with Electron, FastAPI, and Ollama.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "automation",
+    "desktop-assistant",
+    "electron",
+    "fastapi",
+    "javascript",
+    "local-ai",
+    "ocr",
+    "ollama",
+    "open-source",
+    "plugins"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "vincenzo-afk",
+    "url": "https://github.com/vincenzo-afk"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vincenzo-afk/BASIC-JARVIS",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 34,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-21T15:27:58Z",
+    "first_commit_at": "2026-05-05T16:12:45Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2871,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:06:14.876867Z",
+  "last_refreshed_at": "2026-11-11T21:06:14.876870Z",
+  "consecutive_refresh_failures": 0
+}

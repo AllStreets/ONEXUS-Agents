@@ -1,0 +1,60 @@
+{
+  "slug": "koharu",
+  "name": "koharu",
+  "tagline": "ML-powered manga translator, written in Rust.",
+  "category": "translation",
+  "tags": [
+    "computer-vision",
+    "deep-learning",
+    "gpu",
+    "gui",
+    "japanese",
+    "manga",
+    "rust",
+    "text-rendering",
+    "translation",
+    "webgpu"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "koharu-rs",
+    "url": "https://github.com/koharu-rs"
+  },
+  "source": {
+    "primary": "github",
+    "github": "koharu-rs/koharu",
+    "huggingface": null,
+    "homepage": "https://koharu.rs/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 6643,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T19:55:03Z",
+    "first_commit_at": "2025-04-09T10:52:34Z",
+    "forks": 499,
+    "watchers": 19,
+    "open_issues": 162,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6404,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:42.773835Z",
+  "last_refreshed_at": "2026-11-11T21:08:42.773838Z",
+  "consecutive_refresh_failures": 0
+}

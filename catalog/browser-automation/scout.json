@@ -1,0 +1,57 @@
+{
+  "slug": "scout",
+  "name": "scout",
+  "tagline": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "browser-agent",
+    "browser-automation",
+    "cdp",
+    "llm",
+    "typescript",
+    "web-automation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "outcrawlai",
+    "url": "https://github.com/outcrawlai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "outcrawlai/scout",
+    "huggingface": null,
+    "homepage": "https://outcrawl.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 744,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-03T01:07:27Z",
+    "first_commit_at": "2026-10-13T09:21:43Z",
+    "forks": 15,
+    "watchers": 6,
+    "open_issues": 4,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.351,
+  "rank_in_category": 60,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:17:52.704100Z",
+  "last_refreshed_at": "2026-11-11T21:17:52.704103Z",
+  "consecutive_refresh_failures": 0
+}

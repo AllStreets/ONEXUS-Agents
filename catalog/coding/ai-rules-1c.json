@@ -17,13 +17,13 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 493,
+    "stars": 538,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-18T23:00:03Z",
+    "last_commit_at": "2026-11-11T05:22:05Z",
     "first_commit_at": "2025-08-31T18:43:07Z",
-    "forks": 111,
-    "watchers": 24,
-    "open_issues": 8,
+    "forks": 117,
+    "watchers": 26,
+    "open_issues": 10,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -38,12 +38,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3865,
-  "rank_in_category": 147,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.357,
+  "rank_in_category": 232,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T04:51:16.126841Z",
-  "last_refreshed_at": "2026-10-25T19:31:06.872821Z",
-  "consecutive_refresh_failures": 22
+  "first_seen_at": "2026-11-11T20:50:04.975726Z",
+  "last_refreshed_at": "2026-11-11T20:50:04.975729Z",
+  "consecutive_refresh_failures": 0
 }

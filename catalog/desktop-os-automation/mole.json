@@ -1,7 +1,7 @@
 {
   "slug": "mole",
   "name": "Mole",
-  "tagline": "🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.",
+  "tagline": "🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.",
   "category": "desktop-os-automation",
   "tags": [
     "analyzer",
@@ -11,9 +11,9 @@
     "cleanmymac",
     "command-line",
     "daisydisk",
-    "istat",
-    "mac",
-    "macos"
+    "deepseek-harness",
+    "dsh-plugin",
+    "dsh-skill"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "GPL-3.0",
   "metrics": {
-    "stars": 71573,
+    "stars": 74649,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-19T18:17:04Z",
+    "last_commit_at": "2026-11-11T10:11:42Z",
     "first_commit_at": "2025-09-23T06:35:26Z",
-    "forks": 2530,
-    "watchers": 153,
-    "open_issues": 8,
+    "forks": 2683,
+    "watchers": 149,
+    "open_issues": 9,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4835,
-  "rank_in_category": 5,
+  "composite_score": 0.5045,
+  "rank_in_category": 4,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T04:45:31.887243Z",
-  "last_refreshed_at": "2026-10-20T04:45:31.887247Z",
-  "consecutive_refresh_failures": 22
+  "first_seen_at": "2026-11-11T20:43:17.093689Z",
+  "last_refreshed_at": "2026-11-11T20:43:17.093693Z",
+  "consecutive_refresh_failures": 0
 }

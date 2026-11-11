@@ -1,0 +1,51 @@
+{
+  "slug": "documents-retrieval-agent",
+  "name": "documents-retrieval-agent",
+  "tagline": "Chat With Multiple PDF Documents using Conversational RAG on CPU with LLAMA2, Langchain ChromaDB",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "yyassif",
+    "url": "https://github.com/yyassif"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yyassif/documents-retrieval-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2024-08-01T20:24:51Z",
+    "first_commit_at": "2023-11-27T19:39:45Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1863,
+  "rank_in_category": 186,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:14:03.839789Z",
+  "last_refreshed_at": "2026-11-11T21:14:03.839792Z",
+  "consecutive_refresh_failures": 0
+}

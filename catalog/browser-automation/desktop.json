@@ -1,0 +1,56 @@
+{
+  "slug": "desktop",
+  "name": "desktop",
+  "tagline": "Browser Use Desktop App",
+  "category": "browser-automation",
+  "tags": [
+    "agent-browser",
+    "browser",
+    "browser-agent",
+    "browser-agents",
+    "browser-harness",
+    "browser-use"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "browser-use",
+    "url": "https://github.com/browser-use"
+  },
+  "source": {
+    "primary": "github",
+    "github": "browser-use/desktop",
+    "huggingface": null,
+    "homepage": "http://browser-use.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 716,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-03T05:30:57Z",
+    "first_commit_at": "2026-04-17T04:24:08Z",
+    "forks": 61,
+    "watchers": 1,
+    "open_issues": 42,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.372,
+  "rank_in_category": 49,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:17:53.755205Z",
+  "last_refreshed_at": "2026-11-11T21:17:53.755208Z",
+  "consecutive_refresh_failures": 0
+}

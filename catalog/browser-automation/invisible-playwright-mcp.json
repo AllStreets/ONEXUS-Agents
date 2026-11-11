@@ -1,0 +1,62 @@
+{
+  "slug": "invisible-playwright-mcp",
+  "name": "invisible_playwright_mcp",
+  "tagline": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-tools",
+    "antidetect-browser",
+    "autonomous-agents",
+    "browser-agent",
+    "browser-automation",
+    "claude-code-plugin",
+    "computer-use",
+    "gemini-cli",
+    "gemini-cli-extension",
+    "job-hunting"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "feder-cr",
+    "url": "https://github.com/feder-cr"
+  },
+  "source": {
+    "primary": "github",
+    "github": "feder-cr/invisible_playwright_mcp",
+    "huggingface": null,
+    "homepage": "https://github.com/feder-cr/invisible_playwright_mcp/wiki"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 879,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-21T20:36:34Z",
+    "first_commit_at": "2024-12-05T00:01:47Z",
+    "forks": 117,
+    "watchers": 26,
+    "open_issues": 9,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4748,
+  "rank_in_category": 17,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:17:51.735792Z",
+  "last_refreshed_at": "2026-11-11T21:17:51.735795Z",
+  "consecutive_refresh_failures": 0
+}

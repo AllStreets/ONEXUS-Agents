@@ -1,0 +1,59 @@
+{
+  "slug": "browserkitten",
+  "name": "BrowserKitten",
+  "tagline": "A Chrome side-panel agent for your signed-in browser. Read pages, take action, create files, and run local follow-ups. Bring your own models.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "browser-agent",
+    "browser-automation",
+    "byok",
+    "chrome-extension",
+    "javascript",
+    "llm",
+    "local-first",
+    "manifest-v3"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Player-YN",
+    "url": "https://github.com/Player-YN"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Player-YN/BrowserKitten",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2390,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-05T17:16:32Z",
+    "first_commit_at": "2026-09-01T15:03:13Z",
+    "forks": 12,
+    "watchers": 3,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3718,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:17:48.852130Z",
+  "last_refreshed_at": "2026-11-11T21:17:48.852133Z",
+  "consecutive_refresh_failures": 0
+}

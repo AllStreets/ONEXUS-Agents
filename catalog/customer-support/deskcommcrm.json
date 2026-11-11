@@ -9,11 +9,11 @@
     "chatbot",
     "crm",
     "customer-support",
-    "ecommerce",
+    "kommo-alternative",
     "lgpd",
     "mcp",
-    "multi-tenant",
-    "nextjs"
+    "nextjs",
+    "nuvemshop"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 4720,
+    "stars": 5356,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-19T23:43:52Z",
+    "last_commit_at": "2026-11-11T17:53:46Z",
     "first_commit_at": "2026-04-28T20:00:26Z",
-    "forks": 1286,
-    "watchers": 24,
-    "open_issues": 309,
+    "forks": 1544,
+    "watchers": 29,
+    "open_issues": 481,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6876,
+  "composite_score": 0.7219,
   "rank_in_category": 8,
   "discovered_via": "auto",
   "first_seen_at": "2026-07-27T16:16:10.793306Z",
-  "last_refreshed_at": "2026-10-20T04:43:52.343889Z",
-  "consecutive_refresh_failures": 22
+  "last_refreshed_at": "2026-11-11T20:41:04.172474Z",
+  "consecutive_refresh_failures": 0
 }

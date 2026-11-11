@@ -1,0 +1,55 @@
+{
+  "slug": "fastbrowse",
+  "name": "fastbrowse",
+  "tagline": "A fast browser agent: Jev picks each action from what is on the page, an LLM reads and plans, and every claim in an answer cites a quote from the page.",
+  "category": "browser-automation",
+  "tags": [
+    "agents",
+    "browser-agent",
+    "llm",
+    "python",
+    "web-automation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agent-labs-dev",
+    "url": "https://github.com/agent-labs-dev"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agent-labs-dev/fastbrowse",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 222,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T21:17:29Z",
+    "first_commit_at": "2026-09-17T15:11:56Z",
+    "forks": 29,
+    "watchers": 0,
+    "open_issues": 58,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3481,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:17:59.391611Z",
+  "last_refreshed_at": "2026-11-11T21:17:59.391614Z",
+  "consecutive_refresh_failures": 0
+}

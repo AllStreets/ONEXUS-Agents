@@ -1,0 +1,58 @@
+{
+  "slug": "browser-use-mcp-server",
+  "name": "browser-use-mcp-server",
+  "tagline": "Browse the web, directly from Cursor etc.",
+  "category": "browser-automation",
+  "tags": [
+    "browser",
+    "browser-use",
+    "cursor",
+    "mcp",
+    "mcp-server",
+    "playwright"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "kontext-security",
+    "url": "https://github.com/kontext-security"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kontext-security/browser-use-mcp-server",
+    "huggingface": null,
+    "homepage": "https://kontext.security/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 848,
+    "downloads_30d": null,
+    "last_commit_at": "2026-05-20T20:43:30Z",
+    "first_commit_at": "2025-03-06T09:46:43Z",
+    "forks": 118,
+    "watchers": 4,
+    "open_issues": 24,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3838,
+  "rank_in_category": 46,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:18:23.429595Z",
+  "last_refreshed_at": "2026-11-11T21:18:23.429598Z",
+  "consecutive_refresh_failures": 0
+}

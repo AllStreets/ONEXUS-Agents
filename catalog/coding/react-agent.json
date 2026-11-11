@@ -1,36 +1,40 @@
 {
   "slug": "react-agent",
   "name": "react-agent",
-  "tagline": "The open-source React.js Autonomous LLM Agent",
+  "tagline": "Client and server-side state management library",
   "category": "coding",
   "tags": [
-    "agent",
-    "gpt-4",
-    "headless",
-    "headlessui",
-    "llm",
-    "react"
+    "database",
+    "database-management",
+    "javascript",
+    "react",
+    "reactjs",
+    "redux",
+    "sql",
+    "state-management",
+    "synchronization",
+    "websockets"
   ],
   "author": {
-    "type": "user",
-    "handle": "eylonmiz",
-    "url": "https://github.com/eylonmiz"
+    "type": "org",
+    "handle": "yokyak",
+    "url": "https://github.com/yokyak"
   },
   "source": {
     "primary": "github",
-    "github": "eylonmiz/react-agent",
+    "github": "yokyak/react-agent",
     "huggingface": null,
-    "homepage": "https://reactagent.io/"
+    "homepage": null
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1656,
+    "stars": 237,
     "downloads_30d": null,
-    "last_commit_at": "2024-04-12T13:38:37Z",
-    "first_commit_at": "2023-05-11T15:21:07Z",
-    "forks": 156,
-    "watchers": 15,
-    "open_issues": 14,
+    "last_commit_at": "2018-11-05T22:05:23Z",
+    "first_commit_at": "2018-01-06T22:38:28Z",
+    "forks": 20,
+    "watchers": 7,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -47,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2637,
-  "rank_in_category": 455,
+  "composite_score": 0.2052,
+  "rank_in_category": 624,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T04:24:38.192566Z",
-  "last_refreshed_at": "2026-11-09T23:06:18.095460Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-11-11T20:16:20.983363Z",
+  "last_refreshed_at": "2026-11-11T20:16:20.983366Z",
+  "consecutive_refresh_failures": 0
 }

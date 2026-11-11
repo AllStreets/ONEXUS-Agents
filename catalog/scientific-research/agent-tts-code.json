@@ -1,0 +1,54 @@
+{
+  "slug": "agent-tts-code",
+  "name": "Agent-TTS-Code",
+  "tagline": "Code for \"When Agents Slow Down: Understanding LLM Agents' Test-Time Strategies via Elo-per-token Analysis\" (arXiv:2609.15309) — paper: https://arxiv.org/abs/2609.15309",
+  "category": "scientific-research",
+  "tags": [
+    "benchmark",
+    "elo-rating",
+    "llm-agents",
+    "test-time-scaling"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agent-tts",
+    "url": "https://github.com/agent-tts"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agent-tts/Agent-TTS-Code",
+    "huggingface": null,
+    "homepage": "https://agent-tts.github.io/agent-tts/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-14T08:04:26Z",
+    "first_commit_at": "2026-09-14T08:01:16Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3536,
+  "rank_in_category": 169,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:06:30.054577Z",
+  "last_refreshed_at": "2026-11-11T21:06:30.054581Z",
+  "consecutive_refresh_failures": 0
+}

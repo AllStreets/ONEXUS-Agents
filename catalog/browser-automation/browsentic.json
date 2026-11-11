@@ -1,0 +1,62 @@
+{
+  "slug": "browsentic",
+  "name": "browsentic",
+  "tagline": "An agentic browser harness: an AI side panel & orb in your own logged-in Chrome, Edge, Arc, Brave or even Firefox run by the agent/subscription you already use (Claude Code, Codex, Antigravity). Free,",
+  "category": "browser-automation",
+  "tags": [
+    "agentic-browser",
+    "agentic-browsing",
+    "agy-cli",
+    "ai",
+    "ai-agent",
+    "ai-browser-extension",
+    "ai-tools",
+    "brave-extension",
+    "browser-agent",
+    "browser-automation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "imshaikot",
+    "url": "https://github.com/imshaikot"
+  },
+  "source": {
+    "primary": "github",
+    "github": "imshaikot/browsentic",
+    "huggingface": null,
+    "homepage": "https://browsentic.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 285,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-09T18:49:09Z",
+    "first_commit_at": "2026-07-24T22:48:13Z",
+    "forks": 43,
+    "watchers": 4,
+    "open_issues": 7,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4209,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:17:57.553299Z",
+  "last_refreshed_at": "2026-11-11T21:17:57.553302Z",
+  "consecutive_refresh_failures": 0
+}

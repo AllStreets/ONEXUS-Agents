@@ -1,19 +1,17 @@
 {
   "slug": "mcp-notify",
   "name": "mcp-notify",
-  "tagline": "Monitor the Model Context Protocol (MCP) Registry for new, updated, and removed servers. Get real-time notifications via Discord, Slack, Email, Telegram, Microsoft Teams, Webhooks, or RSS feeds. Inclu",
+  "tagline": "Watch the MCP Registry for new, changed and removed servers, with notifications, a CLI, a Go SDK and an MCP server.",
   "category": "devops-sre",
   "tags": [
-    "agents-md",
-    "ai-agents",
-    "discord",
+    "claude-code-plugin",
     "go",
-    "golang",
-    "llms-txt",
     "mcp",
     "mcp-registry",
-    "model-context-protocol",
-    "notifications"
+    "mcp-server",
+    "notifications",
+    "rss",
+    "webhooks"
   ],
   "author": {
     "type": "user",
@@ -30,7 +28,7 @@
   "metrics": {
     "stars": 32,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-04T23:01:34Z",
+    "last_commit_at": "2026-11-11T15:16:29Z",
     "first_commit_at": "2026-01-05T09:05:54Z",
     "forks": 3,
     "watchers": 0,
@@ -53,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4759,
-  "rank_in_category": 42,
+  "composite_score": 0.4845,
+  "rank_in_category": 43,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:18.020547Z",
-  "last_refreshed_at": "2026-11-08T18:32:35.655340Z",
-  "consecutive_refresh_failures": 2
+  "last_refreshed_at": "2026-11-11T20:26:51.794643Z",
+  "consecutive_refresh_failures": 0
 }

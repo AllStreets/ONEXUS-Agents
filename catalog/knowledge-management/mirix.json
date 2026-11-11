@@ -1,0 +1,54 @@
+{
+  "slug": "mirix",
+  "name": "MIRIX",
+  "tagline": "Mirix is a multi-agent personal assistant designed to track on-screen activities and answer user questions intelligently. By capturing real-time visual data and consolidating it into structured memori",
+  "category": "knowledge-management",
+  "tags": [
+    "llm-agents",
+    "llm-memory",
+    "memory-agents",
+    "personal-assistant"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Mirix-AI",
+    "url": "https://github.com/Mirix-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Mirix-AI/MIRIX",
+    "huggingface": null,
+    "homepage": "https://mirix.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3462,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T10:11:41Z",
+    "first_commit_at": "2025-04-16T15:32:08Z",
+    "forks": 273,
+    "watchers": 12,
+    "open_issues": 42,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6525,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:17:12.421463Z",
+  "last_refreshed_at": "2026-11-11T21:17:12.421467Z",
+  "consecutive_refresh_failures": 0
+}

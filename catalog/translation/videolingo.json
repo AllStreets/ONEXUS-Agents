@@ -1,0 +1,55 @@
+{
+  "slug": "videolingo",
+  "name": "VideoLingo",
+  "tagline": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "dubbing",
+    "localization",
+    "video-translation",
+    "voice-cloning"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Huanshere",
+    "url": "https://github.com/Huanshere"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Huanshere/VideoLingo",
+    "huggingface": null,
+    "homepage": "https://docs.videolingo.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 19190,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-10T05:32:47Z",
+    "first_commit_at": "2024-08-09T11:19:39Z",
+    "forks": 2120,
+    "watchers": 106,
+    "open_issues": 25,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6861,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:47.472716Z",
+  "last_refreshed_at": "2026-11-11T21:08:47.472720Z",
+  "consecutive_refresh_failures": 0
+}

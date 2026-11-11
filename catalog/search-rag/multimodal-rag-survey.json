@@ -1,0 +1,53 @@
+{
+  "slug": "multimodal-rag-survey",
+  "name": "Multimodal-RAG-Survey",
+  "tagline": "A Survey on Multimodal Retrieval-Augmented Generation",
+  "category": "search-rag",
+  "tags": [
+    "multimodal-learning",
+    "rag",
+    "retrieval-augmented-generation"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "llm-lab-org",
+    "url": "https://github.com/llm-lab-org"
+  },
+  "source": {
+    "primary": "github",
+    "github": "llm-lab-org/Multimodal-RAG-Survey",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2502.08826"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 545,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-07T07:05:13Z",
+    "first_commit_at": "2025-02-11T09:42:35Z",
+    "forks": 30,
+    "watchers": 9,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3476,
+  "rank_in_category": 56,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:17:37.725192Z",
+  "last_refreshed_at": "2026-11-11T21:17:37.725196Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "localmind",
+  "name": "LocalMind",
+  "tagline": "Locally Talk with your private documents, and even do a private research without any tokens concerns",
+  "category": "search-rag",
+  "tags": [
+    "llms",
+    "open-source",
+    "rag-agent",
+    "web-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "parkky21",
+    "url": "https://github.com/parkky21"
+  },
+  "source": {
+    "primary": "github",
+    "github": "parkky21/LocalMind",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2025-07-17T05:58:09Z",
+    "first_commit_at": "2025-07-16T20:04:14Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1287,
+  "rank_in_category": 236,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:12:37.045608Z",
+  "last_refreshed_at": "2026-11-11T21:12:37.045612Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "sentinelforensicsai",
+  "name": "SentinelForensicsAI",
+  "tagline": "🛡️ Multimodal deepfake detection & explainable AI digital forensics workstation. Features video/audio late-fusion classifiers, Grad-CAM visual heatmaps, and an offline forensics RAG agent.",
+  "category": "search-rag",
+  "tags": [
+    "audio-classification",
+    "computer-vision",
+    "deepfake-detection",
+    "digital-forensics",
+    "explainable-ai",
+    "fastapi-cybersecurity",
+    "late-fusion",
+    "machine-learning",
+    "pytorch-streamlit",
+    "rag-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shlok926",
+    "url": "https://github.com/shlok926"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shlok926/SentinelForensicsAI",
+    "huggingface": null,
+    "homepage": "https://sentinelforensics-ai.streamlit.app/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 4,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-04T01:03:08Z",
+    "first_commit_at": "2026-06-27T14:18:16Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": true,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1135,
+  "rank_in_category": 244,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:12:37.933365Z",
+  "last_refreshed_at": "2026-11-11T21:12:37.933368Z",
+  "consecutive_refresh_failures": 0
+}
