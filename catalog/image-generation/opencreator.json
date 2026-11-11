@@ -1,0 +1,60 @@
+{
+  "slug": "opencreator",
+  "name": "OpenCreator",
+  "tagline": "Formerly KrillinAI, VideoTranslation and Dubbing Tool for 120+ Languages. Open-source AI workspace for creators, powered by Codex. Video downloader, video translation, create videos, images, audios, a",
+  "category": "image-generation",
+  "tags": [
+    "agent-skills",
+    "codex-cli",
+    "deskop-app",
+    "dubbing",
+    "image-generation",
+    "localization",
+    "skills",
+    "tts",
+    "video-editing",
+    "video-generation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "krillinai",
+    "url": "https://github.com/krillinai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "krillinai/OpenCreator",
+    "huggingface": null,
+    "homepage": "https://www.open-creator.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 14306,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-10T06:14:02Z",
+    "first_commit_at": "2024-12-17T01:59:22Z",
+    "forks": 1597,
+    "watchers": 68,
+    "open_issues": 48,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4428,
+  "rank_in_category": 6,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:53:50.624285Z",
+  "last_refreshed_at": "2026-11-11T20:53:50.624288Z",
+  "consecutive_refresh_failures": 0
+}

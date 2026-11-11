@@ -1,0 +1,62 @@
+{
+  "slug": "react-agent-from-scratch",
+  "name": "ReAct-Agent-from-Scratch",
+  "tagline": "A pure Python implementation of ReAct agent without using any frameworks like LangChain. It follows the standard ReAct loop of Thought, Action, PAUSE, and Observation. The agent utilizes multiple tool",
+  "category": "search-rag",
+  "tags": [
+    "agent-streamlit-web-ui",
+    "ai-agent-with-tools",
+    "framework-free-agent",
+    "llm-agent",
+    "pure-python-react-agent",
+    "python-no-framework-agent",
+    "python-react-agent",
+    "rag-agent",
+    "react-agent",
+    "react-agent-from-scratch"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "shafiqul-islam-sumon",
+    "url": "https://github.com/shafiqul-islam-sumon"
+  },
+  "source": {
+    "primary": "github",
+    "github": "shafiqul-islam-sumon/ReAct-Agent-from-Scratch",
+    "huggingface": null,
+    "homepage": "https://shafiqulai.github.io/blogs/blog_3.html?id=3"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 6,
+    "downloads_30d": null,
+    "last_commit_at": "2025-08-03T04:11:55Z",
+    "first_commit_at": "2025-03-09T05:02:49Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.163,
+  "rank_in_category": 206,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:12:34.914781Z",
+  "last_refreshed_at": "2026-11-11T21:12:34.914784Z",
+  "consecutive_refresh_failures": 0
+}

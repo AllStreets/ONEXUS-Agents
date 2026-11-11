@@ -1,7 +1,7 @@
 {
   "slug": "gpt-image2-skill",
   "name": "GPT-Image2-Skill",
-  "tagline": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+  "tagline": "GPT Image 2/2.5/2.6 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
   "category": "image-generation",
   "tags": [
     "agent-skills",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 4875,
+    "stars": 6076,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-10T12:36:52Z",
+    "last_commit_at": "2026-11-08T22:34:08Z",
     "first_commit_at": "2026-04-22T11:30:02Z",
-    "forks": 427,
-    "watchers": 13,
-    "open_issues": 4,
+    "forks": 487,
+    "watchers": 12,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3222,
-  "rank_in_category": 29,
+  "composite_score": 0.3891,
+  "rank_in_category": 25,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:27:09.377133Z",
-  "last_refreshed_at": "2026-10-25T19:51:30.887766Z",
-  "consecutive_refresh_failures": 23
+  "last_refreshed_at": "2026-11-11T20:55:50.854345Z",
+  "consecutive_refresh_failures": 0
 }

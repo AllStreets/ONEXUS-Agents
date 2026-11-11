@@ -16,22 +16,22 @@
     "seo-ai"
   ],
   "author": {
-    "type": "user",
-    "handle": "alphaparkinc",
-    "url": "https://github.com/alphaparkinc"
+    "type": "org",
+    "handle": "Alpha-Park",
+    "url": "https://github.com/Alpha-Park"
   },
   "source": {
     "primary": "github",
-    "github": "alphaparkinc/genpark-generative-engine-optimization-and-citation-scorer-skill",
+    "github": "Alpha-Park/genpark-generative-engine-optimization-and-citation-scorer-skill",
     "huggingface": null,
     "homepage": "https://genpark.ai/"
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 7,
+    "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-05T23:18:40Z",
-    "first_commit_at": "2026-10-05T23:18:27Z",
+    "last_commit_at": "2026-10-05T23:19:09Z",
+    "first_commit_at": "2026-10-05T23:18:56Z",
     "forks": 0,
     "watchers": 0,
     "open_issues": 0,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3746,
-  "rank_in_category": 43,
+  "composite_score": 0.341,
+  "rank_in_category": 79,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T04:48:51.357816Z",
-  "last_refreshed_at": "2026-10-20T04:48:51.357819Z",
-  "consecutive_refresh_failures": 22
+  "first_seen_at": "2026-11-11T20:47:25.412775Z",
+  "last_refreshed_at": "2026-11-11T20:47:25.412779Z",
+  "consecutive_refresh_failures": 0
 }

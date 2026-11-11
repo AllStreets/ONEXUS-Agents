@@ -1,0 +1,59 @@
+{
+  "slug": "llm-d",
+  "name": "llm-d",
+  "tagline": "State of the art inference performance with modern accelerators on Kubernetes",
+  "category": "devops-sre",
+  "tags": [
+    "ai",
+    "cncf",
+    "distributed-inference",
+    "gpu",
+    "inference",
+    "intelligent-routing",
+    "kubernetes",
+    "llm",
+    "model-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "llm-d",
+    "url": "https://github.com/llm-d"
+  },
+  "source": {
+    "primary": "github",
+    "github": "llm-d/llm-d",
+    "huggingface": null,
+    "homepage": "https://www.llm-d.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 5227,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T16:18:52Z",
+    "first_commit_at": "2025-04-29T18:28:18Z",
+    "forks": 930,
+    "watchers": 67,
+    "open_issues": 211,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6172,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:50:50.525978Z",
+  "last_refreshed_at": "2026-11-11T20:50:50.525982Z",
+  "consecutive_refresh_failures": 0
+}

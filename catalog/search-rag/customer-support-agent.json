@@ -1,0 +1,57 @@
+{
+  "slug": "customer-support-agent",
+  "name": "customer_support_agent",
+  "tagline": "RAG support agent for fictional Telco Company that classifies intent, retrieves grounded answers from local documents, and serves both a FastAPI backend and Streamlit UI with Ollama, OpenAI, or Gemini",
+  "category": "search-rag",
+  "tags": [
+    "faiss",
+    "llm-agents",
+    "ollama",
+    "python",
+    "rag-agent",
+    "sentence-transformers",
+    "streamlit-app"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "b-tanyileke",
+    "url": "https://github.com/b-tanyileke"
+  },
+  "source": {
+    "primary": "github",
+    "github": "b-tanyileke/customer_support_agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-30T19:54:27Z",
+    "first_commit_at": "2025-12-24T06:55:37Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1554,
+  "rank_in_category": 216,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:12:47.367886Z",
+  "last_refreshed_at": "2026-11-11T21:12:47.367891Z",
+  "consecutive_refresh_failures": 0
+}

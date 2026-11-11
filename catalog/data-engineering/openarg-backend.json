@@ -1,0 +1,51 @@
+{
+  "slug": "openarg-backend",
+  "name": "openarg_backend",
+  "tagline": "AI-powered analysis engine for Argentine government open   data. Multi-agent pipeline (LangGraph) with 10 data   connectors, NL2SQL, semantic caching, and real-time   streaming. Built with FastAPI, Po",
+  "category": "data-engineering",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "colossus-lab",
+    "url": "https://github.com/colossus-lab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "colossus-lab/openarg_backend",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 150,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-03T11:52:09Z",
+    "first_commit_at": "2026-02-27T15:49:36Z",
+    "forks": 13,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5423,
+  "rank_in_category": 50,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:16:01.402111Z",
+  "last_refreshed_at": "2026-11-11T21:16:01.402114Z",
+  "consecutive_refresh_failures": 0
+}

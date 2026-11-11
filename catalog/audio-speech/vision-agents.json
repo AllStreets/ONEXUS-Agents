@@ -1,0 +1,60 @@
+{
+  "slug": "vision-agents",
+  "name": "Vision-Agents",
+  "tagline": "Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
+  "category": "audio-speech",
+  "tags": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "ai-agents",
+    "realtime",
+    "stt",
+    "tts",
+    "video-agents",
+    "video-ai",
+    "vision-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "GetStream",
+    "url": "https://github.com/GetStream"
+  },
+  "source": {
+    "primary": "github",
+    "github": "GetStream/Vision-Agents",
+    "huggingface": null,
+    "homepage": "https://visionagents.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 8208,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T20:50:15Z",
+    "first_commit_at": "2025-08-11T18:02:04Z",
+    "forks": 702,
+    "watchers": 49,
+    "open_issues": 79,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6201,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:03.691518Z",
+  "last_refreshed_at": "2026-11-11T21:08:03.691522Z",
+  "consecutive_refresh_failures": 0
+}

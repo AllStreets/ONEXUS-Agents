@@ -1,0 +1,60 @@
+{
+  "slug": "agents-flex",
+  "name": "agents-flex",
+  "tagline": "Agents-flex is A lightweight Java AI agent development framework (positioned as a counterpart to Spring AI). It supports features such as RAG, MCP, Skills, Text2SQL , LLM Wiki, Sub-agents, Web Search,",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent",
+    "ai",
+    "chatbot",
+    "chatgpt",
+    "gpt",
+    "langchain4j",
+    "llama3",
+    "llm",
+    "ollama",
+    "spring-ai"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "agents-flex",
+    "url": "https://github.com/agents-flex"
+  },
+  "source": {
+    "primary": "github",
+    "github": "agents-flex/agents-flex",
+    "huggingface": null,
+    "homepage": "https://agentsflex.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1054,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-09T12:34:29Z",
+    "first_commit_at": "2024-01-12T08:24:14Z",
+    "forks": 161,
+    "watchers": 15,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4348,
+  "rank_in_category": 80,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:14:38.516669Z",
+  "last_refreshed_at": "2026-11-11T21:14:38.516672Z",
+  "consecutive_refresh_failures": 0
+}

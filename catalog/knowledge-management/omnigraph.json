@@ -1,0 +1,62 @@
+{
+  "slug": "omnigraph",
+  "name": "omnigraph",
+  "tagline": "Object-storage native graph database with branching and typed ontology",
+  "category": "knowledge-management",
+  "tags": [
+    "apache-arrow",
+    "context-graph",
+    "datafusion",
+    "graph-database",
+    "knowledge-graph",
+    "lakehouse",
+    "lance",
+    "mcp",
+    "rust",
+    "s3"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ModernRelay",
+    "url": "https://github.com/ModernRelay"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ModernRelay/omnigraph",
+    "huggingface": null,
+    "homepage": "https://omnigraph.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 1980,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T21:13:38Z",
+    "first_commit_at": "2026-04-10T17:49:41Z",
+    "forks": 268,
+    "watchers": 25,
+    "open_issues": 180,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6921,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:14:28.607941Z",
+  "last_refreshed_at": "2026-11-11T21:14:28.607944Z",
+  "consecutive_refresh_failures": 0
+}

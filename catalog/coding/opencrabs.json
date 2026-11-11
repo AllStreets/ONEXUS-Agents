@@ -1,7 +1,7 @@
 {
   "slug": "opencrabs",
   "name": "opencrabs",
-  "tagline": "The all-in-one AI agent living in your terminal. Build landing, mobile apps, backends, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI, CLI",
+  "tagline": "The all-in-one AI agent. Build mobile apps, frontend, backend, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI, CLI and Daemon. Connect to ",
   "category": "coding",
   "tags": [
     "agent-orchestration",
@@ -16,25 +16,25 @@
     "recursive-self-improvement"
   ],
   "author": {
-    "type": "user",
-    "handle": "adolfousier",
-    "url": "https://github.com/adolfousier"
+    "type": "org",
+    "handle": "opencrabs",
+    "url": "https://github.com/opencrabs"
   },
   "source": {
     "primary": "github",
-    "github": "adolfousier/opencrabs",
+    "github": "opencrabs/opencrabs",
     "huggingface": null,
     "homepage": "https://opencrabs.com/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 910,
+    "stars": 1029,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-25T09:07:26Z",
+    "last_commit_at": "2026-11-11T11:51:07Z",
     "first_commit_at": "2026-02-14T04:16:31Z",
-    "forks": 98,
+    "forks": 108,
     "watchers": 6,
-    "open_issues": 7,
+    "open_issues": 39,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -49,12 +49,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3364,
-  "rank_in_category": 277,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3452,
+  "rank_in_category": 255,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-25T14:30:40.280075Z",
-  "last_refreshed_at": "2026-08-30T19:45:11.810648Z",
-  "consecutive_refresh_failures": 23
+  "first_seen_at": "2026-11-11T21:00:59.399700Z",
+  "last_refreshed_at": "2026-11-11T21:00:59.399704Z",
+  "consecutive_refresh_failures": 0
 }

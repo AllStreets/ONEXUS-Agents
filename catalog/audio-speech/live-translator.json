@@ -1,0 +1,49 @@
+{
+  "slug": "live-translator",
+  "name": "live-translator",
+  "tagline": "Real-time audio translation app powered by ADK Gemini Live API",
+  "category": "audio-speech",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "kazunori279",
+    "url": "https://github.com/kazunori279"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kazunori279/live-translator",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-04T05:39:30Z",
+    "first_commit_at": "2026-04-03T05:05:58Z",
+    "forks": 2,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.376,
+  "rank_in_category": 82,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:11:08.798656Z",
+  "last_refreshed_at": "2026-11-11T21:11:08.798660Z",
+  "consecutive_refresh_failures": 0
+}

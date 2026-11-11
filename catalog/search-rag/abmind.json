@@ -1,0 +1,56 @@
+{
+  "slug": "abmind",
+  "name": "abmind",
+  "tagline": "Persistent memory & RAG engine for AI agents — SQLite + FTS5 + embeddings, multi-stage recall, sleep maintenance, multi-host hooks",
+  "category": "search-rag",
+  "tags": [
+    "agent",
+    "ai-agent",
+    "ai-framework",
+    "ai-harness",
+    "ai-tools",
+    "rag"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "aksika",
+    "url": "https://github.com/aksika"
+  },
+  "source": {
+    "primary": "github",
+    "github": "aksika/abmind",
+    "huggingface": null,
+    "homepage": "https://aksika.github.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 21,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-02T19:08:47Z",
+    "first_commit_at": "2026-05-02T18:42:56Z",
+    "forks": 5,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2591,
+  "rank_in_category": 127,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:12:25.467019Z",
+  "last_refreshed_at": "2026-11-11T21:12:25.467023Z",
+  "consecutive_refresh_failures": 0
+}

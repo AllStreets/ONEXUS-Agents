@@ -1,19 +1,17 @@
 {
   "slug": "github-to-mcp",
   "name": "github-to-mcp",
-  "tagline": "Convert GitHub repositories to MCP servers automatically. Extract tools from OpenAPI, GraphQL & REST APIs for Claude Desktop, Cursor, Windsurf, Cline & VS Code. AI-powered code generation creates type",
+  "tagline": "Convert GitHub repositories into MCP servers by extracting tools from OpenAPI specs, READMEs, code and GraphQL.",
   "category": "coding",
   "tags": [
-    "agents-md",
-    "ai",
-    "ai-agents",
-    "ai-tools",
-    "anthropic",
-    "api",
-    "automation",
-    "claude",
-    "cursor",
-    "developer-tools"
+    "claude-code-plugin",
+    "code-generation",
+    "github",
+    "graphql",
+    "mcp",
+    "mcp-server",
+    "openapi",
+    "typescript"
   ],
   "author": {
     "type": "user",
@@ -30,7 +28,7 @@
   "metrics": {
     "stars": 34,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-10T16:51:32Z",
+    "last_commit_at": "2026-11-11T15:19:28Z",
     "first_commit_at": "2026-01-17T16:52:20Z",
     "forks": 6,
     "watchers": 0,
@@ -47,17 +45,16 @@
     "has_ci": null,
     "readme_length": null,
     "frameworks": [
-      "anthropic-sdk",
       "mcp"
     ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3416,
-  "rank_in_category": 259,
+  "composite_score": 0.3411,
+  "rank_in_category": 270,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-10T20:37:11.472413Z",
-  "last_refreshed_at": "2026-11-10T20:37:11.472417Z",
+  "first_seen_at": "2026-11-11T20:26:50.182280Z",
+  "last_refreshed_at": "2026-11-11T20:26:50.182284Z",
   "consecutive_refresh_failures": 0
 }

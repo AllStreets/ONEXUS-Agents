@@ -1,0 +1,60 @@
+{
+  "slug": "comfyui-spool",
+  "name": "ComfyUI-Spool",
+  "tagline": "A video timeline for ComfyUI. Queue workflows per clip, review generated takes, and assemble a sequence.",
+  "category": "video-generation",
+  "tags": [
+    "ai-filmmaking",
+    "ai-video",
+    "comfyui",
+    "comfyui-custom-nodes",
+    "davinci-resolve",
+    "ltx",
+    "minimax-h3",
+    "opensourcehiggsfield",
+    "opentimelineio",
+    "timeline"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "doubletwisted",
+    "url": "https://github.com/doubletwisted"
+  },
+  "source": {
+    "primary": "github",
+    "github": "doubletwisted/ComfyUI-Spool",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 13,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T14:36:11Z",
+    "first_commit_at": "2026-10-27T00:51:25Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 10,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3145,
+  "rank_in_category": 93,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:57:55.719789Z",
+  "last_refreshed_at": "2026-11-11T20:57:55.719793Z",
+  "consecutive_refresh_failures": 0
+}

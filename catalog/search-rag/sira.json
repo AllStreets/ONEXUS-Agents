@@ -1,0 +1,49 @@
+{
+  "slug": "sira",
+  "name": "sira",
+  "tagline": "Superintelligent Retrieval Agent (SIRA)",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "facebookresearch",
+    "url": "https://github.com/facebookresearch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "facebookresearch/sira",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 181,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-21T21:03:19Z",
+    "first_commit_at": "2026-09-21T20:52:44Z",
+    "forks": 24,
+    "watchers": 3,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2692,
+  "rank_in_category": 113,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:13:26.195298Z",
+  "last_refreshed_at": "2026-11-11T21:13:26.195301Z",
+  "consecutive_refresh_failures": 0
+}

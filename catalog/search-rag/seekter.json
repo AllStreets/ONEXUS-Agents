@@ -1,0 +1,60 @@
+{
+  "slug": "seekter",
+  "name": "seekter",
+  "tagline": "A job-search agent for Claude Code. It searches job sources every day, filters postings against your rules (location, visa, salary, sectors, seniority, language), fills application forms in your own C",
+  "category": "search-rag",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ats",
+    "claude",
+    "claude-ai",
+    "claude-code",
+    "claude-skills",
+    "job-board",
+    "job-hunt"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "selfishprimate",
+    "url": "https://github.com/selfishprimate"
+  },
+  "source": {
+    "primary": "github",
+    "github": "selfishprimate/seekter",
+    "huggingface": null,
+    "homepage": "https://seekter.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 86,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-04T10:49:33Z",
+    "first_commit_at": "2026-09-22T09:09:47Z",
+    "forks": 15,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2764,
+  "rank_in_category": 105,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:15:25.182211Z",
+  "last_refreshed_at": "2026-11-11T21:15:25.182213Z",
+  "consecutive_refresh_failures": 0
+}

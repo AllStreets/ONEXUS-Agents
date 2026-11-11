@@ -1,0 +1,57 @@
+{
+  "slug": "vhotseat",
+  "name": "vhotseat",
+  "tagline": "Take turns on one GPU: hand it between a local LLM (e.g. Strata, driven by an agent like pi), ComfyUI and any other workload, never interrupting running work.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "comfyui",
+    "local-llm",
+    "minimax-h3",
+    "pi-agent",
+    "qwen38-flash-next",
+    "scheduler",
+    "strata"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "wandermyz",
+    "url": "https://github.com/wandermyz"
+  },
+  "source": {
+    "primary": "github",
+    "github": "wandermyz/vhotseat",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 12,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-21T03:11:56Z",
+    "first_commit_at": "2026-10-13T01:59:41Z",
+    "forks": 4,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2791,
+  "rank_in_category": 344,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:57:59.145995Z",
+  "last_refreshed_at": "2026-11-11T20:57:59.146000Z",
+  "consecutive_refresh_failures": 0
+}

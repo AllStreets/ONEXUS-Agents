@@ -1,6 +1,6 @@
 {
   "slug": "sql-to-er",
-  "name": "sql_to_ER",
+  "name": "sql-to-ER",
   "tagline": "【在线免费使用】 简单快速将SQL或DBML转换为美观的ER图（支持 Agent Skill）/ The best SQL to ER Diagram converter (Support Agent Skill).",
   "category": "customer-support",
   "tags": [
@@ -22,17 +22,17 @@
   },
   "source": {
     "primary": "github",
-    "github": "ystemsrx/sql_to_ER",
+    "github": "ystemsrx/sql-to-ER",
     "huggingface": null,
-    "homepage": "https://ystemsrx.github.io/sql_to_ER/"
+    "homepage": "https://ystemsrx.github.io/sql-to-ER/"
   },
   "license": "AGPL-3.0",
   "metrics": {
-    "stars": 192,
+    "stars": 194,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-30T22:08:01Z",
+    "last_commit_at": "2026-10-31T22:03:37Z",
     "first_commit_at": "2025-07-12T07:58:44Z",
-    "forks": 25,
+    "forks": 24,
     "watchers": 0,
     "open_issues": 4,
     "archived": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.51,
-  "rank_in_category": 46,
+  "composite_score": 0.5476,
+  "rank_in_category": 41,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-25T14:18:41.935408Z",
-  "last_refreshed_at": "2026-10-20T04:45:08.739745Z",
-  "consecutive_refresh_failures": 22
+  "first_seen_at": "2026-11-11T20:42:48.671421Z",
+  "last_refreshed_at": "2026-11-11T20:42:48.671424Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,40 +1,40 @@
 {
   "slug": "solace-agent-mesh",
   "name": "solace-agent-mesh",
-  "tagline": "An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-s",
+  "tagline": "Platform for building and running AI agents across the full lifecycle — build, test, deploy, monitor, improve. Hosts your agents, runs their tools, and coordinates them over an event mesh, with sessio",
   "category": "multi-agent-orchestration",
   "tags": [
     "a2a",
-    "agentframework",
-    "agentic",
+    "a2a-protocol",
+    "agent-mesh",
     "agentic-ai",
-    "agentic-framework",
-    "agentic-workflow",
-    "agenticai",
     "agents",
-    "ai",
-    "ai-agents"
+    "ai-agents",
+    "event-driven",
+    "framework",
+    "go",
+    "harness"
   ],
   "author": {
     "type": "org",
-    "handle": "SolaceLabs",
-    "url": "https://github.com/SolaceLabs"
+    "handle": "SolaceProducts",
+    "url": "https://github.com/SolaceProducts"
   },
   "source": {
     "primary": "github",
-    "github": "SolaceLabs/solace-agent-mesh",
+    "github": "SolaceProducts/solace-agent-mesh",
     "huggingface": null,
-    "homepage": "https://solacelabs.github.io/solace-agent-mesh/"
+    "homepage": "https://docs.solace.com/Agent-Mesh/agent-mesh.htm"
   },
-  "license": "Apache-2.0",
+  "license": "NOASSERTION",
   "metrics": {
-    "stars": 4951,
+    "stars": 4924,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-28T17:34:33Z",
+    "last_commit_at": "2026-11-05T15:04:26Z",
     "first_commit_at": "2025-01-10T17:12:24Z",
-    "forks": 270,
-    "watchers": 23,
-    "open_issues": 80,
+    "forks": 273,
+    "watchers": 22,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.465,
-  "rank_in_category": 39,
+  "composite_score": 0.5005,
+  "rank_in_category": 19,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-30T17:54:36.343506Z",
-  "last_refreshed_at": "2026-11-01T21:25:17.274138Z",
-  "consecutive_refresh_failures": 23
+  "first_seen_at": "2026-11-11T20:45:32.318749Z",
+  "last_refreshed_at": "2026-11-11T20:45:32.318753Z",
+  "consecutive_refresh_failures": 0
 }

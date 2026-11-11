@@ -1,0 +1,62 @@
+{
+  "slug": "translate-book-arxiv",
+  "name": "translate-book-arxiv",
+  "tagline": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the paper's own numbering survive.",
+  "category": "content-writing",
+  "tags": [
+    "academic",
+    "agent-skill",
+    "ai-agents",
+    "anthropic",
+    "arxiv",
+    "claude-code",
+    "claude-skills",
+    "ebook",
+    "epub",
+    "korean"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "kcy4334-lgtm",
+    "url": "https://github.com/kcy4334-lgtm"
+  },
+  "source": {
+    "primary": "github",
+    "github": "kcy4334-lgtm/translate-book-arxiv",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 42,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-05T08:36:47Z",
+    "first_commit_at": "2026-09-02T12:33:00Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0,
+  "rank_in_category": 216,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:10:50.017557Z",
+  "last_refreshed_at": "2026-11-11T21:10:50.017560Z",
+  "consecutive_refresh_failures": 0
+}

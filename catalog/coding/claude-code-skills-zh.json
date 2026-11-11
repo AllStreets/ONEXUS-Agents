@@ -4,13 +4,16 @@
   "tagline": "面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新",
   "category": "coding",
   "tags": [
+    "agent-skills",
     "ai-agent",
+    "ai-coding",
     "awesome-list",
+    "chinese",
     "claude-code",
     "claude-skills",
+    "codex",
     "developer-tools",
-    "prompt-engineering",
-    "skills"
+    "mcp"
   ],
   "author": {
     "type": "user",
@@ -25,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 894,
+    "stars": 907,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-19T07:07:07Z",
+    "last_commit_at": "2026-11-11T00:00:34Z",
     "first_commit_at": "2026-04-14T09:07:56Z",
-    "forks": 106,
-    "watchers": 2,
-    "open_issues": 1,
+    "forks": 116,
+    "watchers": 3,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -43,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.3203,
-  "rank_in_category": 306,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4047,
+  "rank_in_category": 117,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T04:51:08.207452Z",
-  "last_refreshed_at": "2026-10-20T04:51:08.207457Z",
-  "consecutive_refresh_failures": 22
+  "first_seen_at": "2026-11-11T20:49:55.877488Z",
+  "last_refreshed_at": "2026-11-11T20:49:55.877491Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,19 +1,17 @@
 {
   "slug": "meigen-ai-design-mcp",
   "name": "MeiGen-AI-Design-MCP",
-  "tagline": "Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system",
+  "tagline": "Discover inspiration and create images and videos with the latest AI models. Works with ChatGPT, Claude, Cursor, and other MCP clients.",
   "category": "image-generation",
   "tags": [
     "ai-image-generation",
+    "chatgpt",
     "claude",
-    "claude-code",
-    "comfyui",
+    "codex",
     "mcp",
     "mcp-server",
-    "model-context-protocol",
     "openclaw",
-    "prompt-engineering",
-    "seedance2"
+    "seedance"
   ],
   "author": {
     "type": "user",
@@ -24,17 +22,17 @@
     "primary": "github",
     "github": "jau123/MeiGen-AI-Design-MCP",
     "huggingface": null,
-    "homepage": "https://meigen.ai/"
+    "homepage": "https://www.meigen.ai/"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 1717,
+    "stars": 1801,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-05T12:09:47Z",
+    "last_commit_at": "2026-11-11T10:04:40Z",
     "first_commit_at": "2026-02-07T12:41:37Z",
-    "forks": 223,
+    "forks": 236,
     "watchers": 13,
-    "open_issues": 4,
+    "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3724,
-  "rank_in_category": 10,
+  "composite_score": 0.4266,
+  "rank_in_category": 11,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:26:33.312794Z",
-  "last_refreshed_at": "2026-10-25T19:51:18.567204Z",
-  "consecutive_refresh_failures": 23
+  "last_refreshed_at": "2026-11-11T20:54:47.276856Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,57 @@
+{
+  "slug": "zotero-pdf-translate",
+  "name": "zotero-pdf-translate",
+  "tagline": "Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.",
+  "category": "translation",
+  "tags": [
+    "pdf",
+    "plugin",
+    "translate",
+    "translation",
+    "zotero",
+    "zotero-plugin",
+    "zotero7"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "windingwind",
+    "url": "https://github.com/windingwind"
+  },
+  "source": {
+    "primary": "github",
+    "github": "windingwind/zotero-pdf-translate",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 12272,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-10T08:25:01Z",
+    "first_commit_at": "2022-03-09T08:41:53Z",
+    "forks": 538,
+    "watchers": 26,
+    "open_issues": 30,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6619,
+  "rank_in_category": 15,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:28.774563Z",
+  "last_refreshed_at": "2026-11-11T21:08:28.774566Z",
+  "consecutive_refresh_failures": 0
+}

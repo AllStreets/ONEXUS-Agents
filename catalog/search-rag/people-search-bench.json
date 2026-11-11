@@ -1,0 +1,49 @@
+{
+  "slug": "people-search-bench",
+  "name": "people-search-bench",
+  "tagline": "The first open benchmark for evaluating AI-powered people search agents",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "LessieAI",
+    "url": "https://github.com/LessieAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "LessieAI/people-search-bench",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 152,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-25T15:40:40Z",
+    "first_commit_at": "2026-04-02T14:34:30Z",
+    "forks": 35,
+    "watchers": 24,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2723,
+  "rank_in_category": 111,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:15:12.040938Z",
+  "last_refreshed_at": "2026-11-11T21:15:12.040941Z",
+  "consecutive_refresh_failures": 0
+}

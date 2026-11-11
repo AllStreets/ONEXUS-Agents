@@ -1,7 +1,7 @@
 {
   "slug": "mlx-serve",
   "name": "mlx-serve",
-  "tagline": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
+  "tagline": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
   "category": "audio-speech",
   "tags": [
     "agent",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "ddalcu/mlx-serve",
     "huggingface": null,
-    "homepage": "http://mlxserve.com/"
+    "homepage": "https://mlxserve.com/"
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 805,
+    "stars": 2428,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-24T13:22:31Z",
+    "last_commit_at": "2026-11-11T04:03:11Z",
     "first_commit_at": "2026-02-17T01:55:41Z",
-    "forks": 60,
-    "watchers": 7,
-    "open_issues": 36,
+    "forks": 261,
+    "watchers": 18,
+    "open_issues": 78,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4583,
-  "rank_in_category": 24,
+  "composite_score": 0.5956,
+  "rank_in_category": 17,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:32:27.460384Z",
-  "last_refreshed_at": "2026-10-25T19:52:45.399435Z",
-  "consecutive_refresh_failures": 23
+  "last_refreshed_at": "2026-11-11T21:03:33.371493Z",
+  "consecutive_refresh_failures": 0
 }

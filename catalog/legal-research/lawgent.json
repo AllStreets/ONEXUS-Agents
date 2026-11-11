@@ -1,7 +1,7 @@
 {
   "slug": "lawgent",
   "name": "lawgent",
-  "tagline": "Lawgent — an open-source legal AI agent. Grounded, multi-jurisdiction (CN · US · EU · ET · ICAO), citation-verified: every pinpoint round-tripped against the primary source.",
+  "tagline": "Lawgent — an open-source legal AI agent. 37 official legal databases in 22 jurisdictions, citation-verified; runs on its own loop or inside Claude Code (Agent SDK) as a legal plugin.",
   "category": "legal-research",
   "tags": [
     "ai-agents",
@@ -9,11 +9,11 @@
     "aviation-law",
     "chinese-law",
     "citation-verification",
+    "claude-agent-sdk",
+    "claude-code",
     "lawgent",
     "legal-agent",
-    "legal-ai",
-    "legal-ai-agent",
-    "legal-research"
+    "legal-ai"
   ],
   "author": {
     "type": "user",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 18,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-15T03:37:59Z",
+    "last_commit_at": "2026-11-11T20:30:40Z",
     "first_commit_at": "2026-08-05T05:03:43Z",
     "forks": 2,
     "watchers": 0,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3168,
-  "rank_in_category": 36,
+  "composite_score": 0.341,
+  "rank_in_category": 27,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-05T15:38:30.110329Z",
-  "last_refreshed_at": "2026-11-10T20:43:53.458791Z",
+  "last_refreshed_at": "2026-11-11T20:34:55.825765Z",
   "consecutive_refresh_failures": 0
 }

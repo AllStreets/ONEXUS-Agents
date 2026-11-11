@@ -1,0 +1,60 @@
+{
+  "slug": "chatfaq",
+  "name": "ChatFAQ",
+  "tagline": "Open-source ecosystem for building AI-powered conversational solutions using RAG, agents, FSMs, and LLMs.",
+  "category": "search-rag",
+  "tags": [
+    "ai",
+    "answer-generation",
+    "chatbots",
+    "chatgpt",
+    "claude",
+    "generative-ai",
+    "gpt4",
+    "information-retrieval",
+    "intent-detection",
+    "large-language-models"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ChatFAQ",
+    "url": "https://github.com/ChatFAQ"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ChatFAQ/ChatFAQ",
+    "huggingface": null,
+    "homepage": "https://www.chatfaq.io/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 153,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-11T16:17:16Z",
+    "first_commit_at": "2024-02-07T10:05:35Z",
+    "forks": 16,
+    "watchers": 6,
+    "open_issues": 16,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2328,
+  "rank_in_category": 154,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:13:16.550494Z",
+  "last_refreshed_at": "2026-11-11T21:13:16.550497Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "jev-social",
+  "name": "jev-social",
+  "tagline": "Open-source, local-first social media research agent for Instagram, TikTok, and LinkedIn. Jev routes read-only steps; socai CLI captures cited browser evidence.",
+  "category": "browser-automation",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "browser-agent",
+    "browser-automation",
+    "decision-model",
+    "deep-research",
+    "instagram",
+    "jev",
+    "linkedin",
+    "local-first"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "socai-io",
+    "url": "https://github.com/socai-io"
+  },
+  "source": {
+    "primary": "github",
+    "github": "socai-io/jev-social",
+    "huggingface": null,
+    "homepage": "https://socai-io.github.io/jev-social/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 211,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-08T03:53:14Z",
+    "first_commit_at": "2026-09-18T18:48:09Z",
+    "forks": 43,
+    "watchers": 0,
+    "open_issues": 13,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3461,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:18:00.312901Z",
+  "last_refreshed_at": "2026-11-11T21:18:00.312905Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "esp32-thinks",
+  "name": "esp32-thinks",
+  "tagline": "A multi-model Muse: personal AI voice assistant on ESP32 - wake word or knob, any OpenAI-compatible brain (STT/chat/TTS mix-and-match), streaming replies, out of the box. Built on muse-gadget-sdk.",
+  "category": "audio-speech",
+  "tags": [
+    "ai-assistant",
+    "deepseek",
+    "edge-ai",
+    "esp-sr",
+    "esp32",
+    "esp32-s3",
+    "llm",
+    "muse",
+    "muse-gadget-sdk",
+    "offline-first"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "raullenchai",
+    "url": "https://github.com/raullenchai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "raullenchai/esp32-thinks",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 262,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-19T20:53:13Z",
+    "first_commit_at": "2026-10-12T23:52:12Z",
+    "forks": 11,
+    "watchers": 5,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4381,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:03:50.257225Z",
+  "last_refreshed_at": "2026-11-11T21:03:50.257229Z",
+  "consecutive_refresh_failures": 0
+}

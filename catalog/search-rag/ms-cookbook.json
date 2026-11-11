@@ -1,0 +1,62 @@
+{
+  "slug": "ms-cookbook",
+  "name": "ms-cookbook",
+  "tagline": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
+  "category": "search-rag",
+  "tags": [
+    "ai-agents",
+    "cookbook",
+    "diffusion-models",
+    "fine-tuning",
+    "generative-ai",
+    "llm",
+    "mcp",
+    "model-evaluation",
+    "modelscope",
+    "rag"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "modelscope",
+    "url": "https://github.com/modelscope"
+  },
+  "source": {
+    "primary": "github",
+    "github": "modelscope/ms-cookbook",
+    "huggingface": null,
+    "homepage": "https://modelscope.cn/active/ms-cookbook"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 524,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-04T02:29:49Z",
+    "first_commit_at": "2026-09-11T14:27:35Z",
+    "forks": 87,
+    "watchers": 5,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.392,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:13:03.056278Z",
+  "last_refreshed_at": "2026-11-11T21:13:03.056281Z",
+  "consecutive_refresh_failures": 0
+}

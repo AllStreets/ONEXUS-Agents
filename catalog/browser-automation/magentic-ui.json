@@ -1,0 +1,62 @@
+{
+  "slug": "magentic-ui",
+  "name": "magentic-ui",
+  "tagline": "MagenticLite is an experimental agent that works across the browser and local file system",
+  "category": "browser-automation",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-ux",
+    "autogen",
+    "browser-use",
+    "computer-use-agent",
+    "cua",
+    "fara",
+    "magenticbrain",
+    "magenticlite"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "source": {
+    "primary": "github",
+    "github": "microsoft/magentic-ui",
+    "huggingface": null,
+    "homepage": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10116,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-23T23:43:21Z",
+    "first_commit_at": "2024-11-02T01:38:55Z",
+    "forks": 1011,
+    "watchers": 70,
+    "open_issues": 20,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "autogen"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4545,
+  "rank_in_category": 22,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:18:15.042535Z",
+  "last_refreshed_at": "2026-11-11T21:18:15.042539Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "benchmark",
+  "name": "benchmark",
+  "tagline": "Open benchmarks for browser agents: BU Bench V2.1, 200 real web tasks. Rerun them with your own API keys.",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agents",
+    "benchmark",
+    "browser-agent",
+    "browser-automation",
+    "browser-use",
+    "bu-bench",
+    "evals",
+    "llm-evaluation",
+    "web-agents"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "browser-use",
+    "url": "https://github.com/browser-use"
+  },
+  "source": {
+    "primary": "github",
+    "github": "browser-use/benchmark",
+    "huggingface": null,
+    "homepage": "https://browser-use.com/benchmarks/agents"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 168,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-07T04:33:05Z",
+    "first_commit_at": "2026-01-26T21:26:59Z",
+    "forks": 27,
+    "watchers": 0,
+    "open_issues": 21,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3549,
+  "rank_in_category": 58,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:18:06.590289Z",
+  "last_refreshed_at": "2026-11-11T21:18:06.590292Z",
+  "consecutive_refresh_failures": 0
+}

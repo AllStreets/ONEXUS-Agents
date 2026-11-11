@@ -1,0 +1,60 @@
+{
+  "slug": "susurrus",
+  "name": "Susurrus",
+  "tagline": "speech to text gui for different (e.g. Whisper, Voxtral) models and backends, including whisper.cpp, crispasar, mlx-whisper, faster-whisper, ctranslate2; applies pyannote for diarization",
+  "category": "audio-speech",
+  "tags": [
+    "ctranslate2",
+    "diarization",
+    "pyannote",
+    "pyannote-audio",
+    "speech-to-text",
+    "stt",
+    "voxtral",
+    "whisper",
+    "whisper-ai",
+    "whisper-cpp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "CrispStrobe",
+    "url": "https://github.com/CrispStrobe"
+  },
+  "source": {
+    "primary": "github",
+    "github": "CrispStrobe/Susurrus",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 33,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-11T01:04:51Z",
+    "first_commit_at": "2025-11-01T12:17:14Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3979,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:11:57.472777Z",
+  "last_refreshed_at": "2026-11-11T21:11:57.472781Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "bob",
+  "name": "Bob",
+  "tagline": "Bob 是一款 macOS 平台的翻译和 OCR 软件。",
+  "category": "translation",
+  "tags": [
+    "bobapp",
+    "chatgpt",
+    "deepseek",
+    "doubao",
+    "ernie",
+    "gemini",
+    "groq",
+    "hunyuan",
+    "kimi",
+    "macos"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ripperhe",
+    "url": "https://github.com/ripperhe"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ripperhe/Bob",
+    "huggingface": null,
+    "homepage": "https://bobtranslate.com/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 9758,
+    "downloads_30d": null,
+    "last_commit_at": "2025-12-30T13:26:12Z",
+    "first_commit_at": "2022-08-04T14:14:54Z",
+    "forks": 520,
+    "watchers": 79,
+    "open_issues": 108,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4766,
+  "rank_in_category": 44,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:35.383249Z",
+  "last_refreshed_at": "2026-11-11T21:08:35.383253Z",
+  "consecutive_refresh_failures": 0
+}

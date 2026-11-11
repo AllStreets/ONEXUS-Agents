@@ -1,0 +1,62 @@
+{
+  "slug": "rag-agent-platform",
+  "name": "rag-agent-platform",
+  "tagline": "Nền tảng RAG và SDLC Agent chạy cục bộ bằng Docker Compose, tích hợp Ollama, Qdrant, Neo4j, Open WebUI và workflow 15 AI agents để ingest tài liệu, hỏi đáp tri thức và tự động hóa phân tích, thiết kế,",
+  "category": "search-rag",
+  "tags": [
+    "ai-agent",
+    "code-generation",
+    "docker-compose",
+    "fastapi",
+    "graphrag",
+    "knowledge-base",
+    "langgraph",
+    "llm",
+    "local-ai",
+    "multi-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Tynab",
+    "url": "https://github.com/Tynab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tynab/rag-agent-platform",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-04T13:07:16Z",
+    "first_commit_at": "2025-02-10T01:03:23Z",
+    "forks": 2,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2442,
+  "rank_in_category": 146,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:12:39.667631Z",
+  "last_refreshed_at": "2026-11-11T21:12:39.667635Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "comitrans",
+  "name": "ComiTrans",
+  "tagline": "AI comic translator & manga translator | 漫画翻译、漫画汉化桌面工具。支持日语/韩语/英语→简体中文，集成 OCR、大模型翻译、自动擦字修复和嵌字精修；支持批量图片/PDF、自定义 OCR API。Windows · ONNX · PySide6",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "comic",
+    "comic-translation",
+    "comic-translator",
+    "manga",
+    "manga-translation",
+    "manga-translator",
+    "ocr",
+    "onnxruntime",
+    "pdf-translation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Aaaaamadeus",
+    "url": "https://github.com/Aaaaamadeus"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Aaaaamadeus/ComiTrans",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 32,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-10T08:04:05Z",
+    "first_commit_at": "2025-12-14T06:44:37Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4303,
+  "rank_in_category": 54,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:09:15.245635Z",
+  "last_refreshed_at": "2026-11-11T21:09:15.245638Z",
+  "consecutive_refresh_failures": 0
+}

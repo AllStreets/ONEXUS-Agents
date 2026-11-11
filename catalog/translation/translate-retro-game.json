@@ -1,0 +1,60 @@
+{
+  "slug": "translate-retro-game",
+  "name": "translate-retro-game",
+  "tagline": "Agent skill + tested tools for fan-translating Japanese retro games (SNES, GBA, NDS, PS1, PSP) into English: recon, text extract/insert, VWF, graphics text, parallel translator agents, headless emulat",
+  "category": "translation",
+  "tags": [
+    "agent-skills",
+    "claude-code-plugin",
+    "claude-skills",
+    "codex-skill",
+    "emulator",
+    "fan-translation",
+    "gba",
+    "nds",
+    "ps1",
+    "psp"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "minhnhattonthat",
+    "url": "https://github.com/minhnhattonthat"
+  },
+  "source": {
+    "primary": "github",
+    "github": "minhnhattonthat/translate-retro-game",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T00:33:25Z",
+    "first_commit_at": "2026-10-08T23:02:28Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3615,
+  "rank_in_category": 72,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:10:25.046617Z",
+  "last_refreshed_at": "2026-11-11T21:10:25.046620Z",
+  "consecutive_refresh_failures": 0
+}

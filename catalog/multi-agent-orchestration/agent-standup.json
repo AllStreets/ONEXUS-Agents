@@ -1,0 +1,60 @@
+{
+  "slug": "agent-standup",
+  "name": "agent-standup",
+  "tagline": "Your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop app. Runs locally, zero ",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-mod",
+    "codex",
+    "developer-tools",
+    "mistral",
+    "mistral-vibe",
+    "monitoring",
+    "subagents"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Atoll92",
+    "url": "https://github.com/Atoll92"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Atoll92/agent-standup",
+    "huggingface": null,
+    "homepage": "https://agent-standup.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 361,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T17:02:27Z",
+    "first_commit_at": "2026-10-10T07:50:19Z",
+    "forks": 55,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3457,
+  "rank_in_category": 227,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:09:53.166711Z",
+  "last_refreshed_at": "2026-11-11T21:09:53.166715Z",
+  "consecutive_refresh_failures": 0
+}

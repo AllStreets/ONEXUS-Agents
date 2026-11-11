@@ -1,0 +1,60 @@
+{
+  "slug": "pot-desktop",
+  "name": "pot-desktop",
+  "tagline": "🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.",
+  "category": "translation",
+  "tags": [
+    "linux",
+    "macos",
+    "ocr",
+    "pot",
+    "pot-app",
+    "recognize",
+    "tauri",
+    "translate",
+    "translation",
+    "tts"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "pot-app",
+    "url": "https://github.com/pot-app"
+  },
+  "source": {
+    "primary": "github",
+    "github": "pot-app/pot-desktop",
+    "huggingface": null,
+    "homepage": "https://pot-app.com/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 19333,
+    "downloads_30d": null,
+    "last_commit_at": "2026-07-04T11:01:27Z",
+    "first_commit_at": "2023-02-26T13:51:46Z",
+    "forks": 1087,
+    "watchers": 51,
+    "open_issues": 444,
+    "archived": true,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2026,
+  "rank_in_category": 128,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:22.300654Z",
+  "last_refreshed_at": "2026-11-11T21:08:22.300658Z",
+  "consecutive_refresh_failures": 0
+}

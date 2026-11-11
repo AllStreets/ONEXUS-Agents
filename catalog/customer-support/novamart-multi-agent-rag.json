@@ -1,0 +1,60 @@
+{
+  "slug": "novamart-multi-agent-rag",
+  "name": "novamart-multi-agent-rag",
+  "tagline": "Enterprise multi-agent RAG customer support system using Amazon Bedrock AgentCore, Strands Agents, Knowledge Bases, Memory, Guardrails, and AWS observability.",
+  "category": "customer-support",
+  "tags": [
+    "agentic-ai",
+    "ai-customer-support",
+    "amazon-bedrock",
+    "aws-agentcore",
+    "aws-lambda",
+    "aws-xray",
+    "cloudwatch",
+    "dynamodb",
+    "multi-agent-systems",
+    "python"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ayomikunadaramola",
+    "url": "https://github.com/ayomikunadaramola"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ayomikunadaramola/novamart-multi-agent-rag",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-21T16:42:51Z",
+    "first_commit_at": "2026-10-21T11:24:52Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3613,
+  "rank_in_category": 131,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:42:33.643581Z",
+  "last_refreshed_at": "2026-11-11T20:42:33.643584Z",
+  "consecutive_refresh_failures": 0
+}

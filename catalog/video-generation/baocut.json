@@ -1,0 +1,57 @@
+{
+  "slug": "baocut",
+  "name": "baocut",
+  "tagline": "BaoCut: an AI video agent with an editable timeline. Transcribe, subtitle, translate, dub, cut and animate.",
+  "category": "video-generation",
+  "tags": [
+    "agent-skill",
+    "claude-code",
+    "codex",
+    "macos",
+    "skills",
+    "subtitles",
+    "transcription"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "JimLiu",
+    "url": "https://github.com/JimLiu"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JimLiu/baocut",
+    "huggingface": null,
+    "homepage": "https://baocut.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 1748,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T18:05:53Z",
+    "first_commit_at": "2026-10-08T02:06:56Z",
+    "forks": 176,
+    "watchers": 3,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4027,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:59:51.634579Z",
+  "last_refreshed_at": "2026-11-11T20:59:51.634583Z",
+  "consecutive_refresh_failures": 0
+}

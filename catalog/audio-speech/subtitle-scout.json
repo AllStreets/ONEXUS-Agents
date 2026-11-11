@@ -1,0 +1,60 @@
+{
+  "slug": "subtitle-scout",
+  "name": "subtitle-scout",
+  "tagline": "A self-hosted subtitle automation system with an LLM agent at its core — it identifies your media, judges whether each candidate belongs to the exact episode, installs the one that fits, and translate",
+  "category": "audio-speech",
+  "tags": [
+    "ai-agent",
+    "chinese-subtitles",
+    "docker",
+    "llm",
+    "opensubtitles",
+    "self-hosted",
+    "subtitle-translation",
+    "subtitles",
+    "tmdb",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "fancydirty",
+    "url": "https://github.com/fancydirty"
+  },
+  "source": {
+    "primary": "github",
+    "github": "fancydirty/subtitle-scout",
+    "huggingface": null,
+    "homepage": "https://subtitlescout.com/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 148,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-04T08:17:15Z",
+    "first_commit_at": "2026-07-09T09:13:15Z",
+    "forks": 5,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.353,
+  "rank_in_category": 91,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:10:09.759091Z",
+  "last_refreshed_at": "2026-11-11T21:10:09.759094Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "opencli",
+  "name": "OpenCLI",
+  "tagline": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agent",
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "browser-use",
+    "cli",
+    "playwright"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jackwener",
+    "url": "https://github.com/jackwener"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jackwener/OpenCLI",
+    "huggingface": null,
+    "homepage": "https://opencli.info/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 31023,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-07T17:39:55Z",
+    "first_commit_at": "2026-03-14T22:23:17Z",
+    "forks": 3039,
+    "watchers": 62,
+    "open_issues": 303,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4662,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:18:12.265286Z",
+  "last_refreshed_at": "2026-11-11T21:18:12.265290Z",
+  "consecutive_refresh_failures": 0
+}

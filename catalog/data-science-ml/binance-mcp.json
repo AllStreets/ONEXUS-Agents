@@ -1,19 +1,17 @@
 {
   "slug": "binance-mcp",
   "name": "Binance-MCP",
-  "tagline": "A Model Context Protocol (MCP) server for Binance.com API. Offers standardized access to spot trading, wallets, staking, simple earn, convert, mining, algo trading, VIP loans, NFTs, pay, copy trading,",
+  "tagline": "MCP server for the Binance exchange API with spot market data, orders, earn, staking, wallet and more.",
   "category": "data-science-ml",
   "tags": [
-    "algo",
-    "api",
     "binance",
+    "claude-code-plugin",
     "crypto",
-    "cryptocurrency",
-    "mining",
-    "nft",
-    "npm",
-    "pay",
-    "sse"
+    "exchange",
+    "mcp-server",
+    "model-context-protocol",
+    "trading",
+    "typescript"
   ],
   "author": {
     "type": "user",
@@ -30,7 +28,7 @@
   "metrics": {
     "stars": 40,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-10T16:52:03Z",
+    "last_commit_at": "2026-11-11T15:14:38Z",
     "first_commit_at": "2026-01-20T12:42:19Z",
     "forks": 14,
     "watchers": 0,
@@ -53,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3678,
-  "rank_in_category": 20,
+  "composite_score": 0.3677,
+  "rank_in_category": 21,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:16.518813Z",
-  "last_refreshed_at": "2026-11-10T20:37:04.164138Z",
+  "last_refreshed_at": "2026-11-11T20:26:41.915872Z",
   "consecutive_refresh_failures": 0
 }

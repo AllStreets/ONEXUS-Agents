@@ -1,0 +1,60 @@
+{
+  "slug": "iver-sde-support-agent",
+  "name": "iver-sde-support-agent",
+  "tagline": "SDE support agent - intent classification, grounded reply drafting, auto-handle vs escalate",
+  "category": "customer-support",
+  "tags": [
+    "agent",
+    "ai",
+    "decision-log",
+    "evaluation",
+    "llm",
+    "nlp",
+    "prompt-engineering",
+    "python",
+    "sde",
+    "support-agent"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "varunjain2409",
+    "url": "https://github.com/varunjain2409"
+  },
+  "source": {
+    "primary": "github",
+    "github": "varunjain2409/iver-sde-support-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-22T12:27:47Z",
+    "first_commit_at": "2026-09-10T20:09:06Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3652,
+  "rank_in_category": 128,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:40:42.498698Z",
+  "last_refreshed_at": "2026-11-11T20:40:42.498701Z",
+  "consecutive_refresh_failures": 0
+}

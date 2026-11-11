@@ -1,0 +1,63 @@
+{
+  "slug": "mxpage",
+  "name": "MxPage",
+  "tagline": "开源 AI 电商图片工作台：商品主图与详情页、批量图片翻译、小红书图文、LangGraph Agent。支持 Windows / macOS 和本地部署，使用自己的模型 API。Open-source e-commerce image generator, translation & agent workspace.",
+  "category": "translation",
+  "tags": [
+    "ai-agents",
+    "batch-processing",
+    "deterministic-workflow",
+    "e-commerce",
+    "electron",
+    "image-editing",
+    "image-generation",
+    "image-translation",
+    "langgraph",
+    "macos"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ziguishian",
+    "url": "https://github.com/ziguishian"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ziguishian/MxPage",
+    "huggingface": null,
+    "homepage": "https://github.com/ziguishian/MxPage/releases/latest"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 500,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-31T10:11:11Z",
+    "first_commit_at": "2026-03-26T01:19:33Z",
+    "forks": 121,
+    "watchers": 4,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5918,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:09:18.727571Z",
+  "last_refreshed_at": "2026-11-11T21:09:18.727574Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "genfeed-ai",
+  "name": "genfeed.ai",
+  "tagline": "The open-source content agent — create on-brand videos, images and posts, then review and publish.",
+  "category": "content-writing",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "bun",
+    "content-creation",
+    "image-generation",
+    "mcp",
+    "nestjs",
+    "nextjs",
+    "open-source"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "genfeedai",
+    "url": "https://github.com/genfeedai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "genfeedai/genfeed.ai",
+    "huggingface": null,
+    "homepage": "https://genfeed.ai/self-hosted"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 8,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T15:56:27Z",
+    "first_commit_at": "2026-04-04T15:59:59Z",
+    "forks": 9,
+    "watchers": 1,
+    "open_issues": 608,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4813,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:49:33.962066Z",
+  "last_refreshed_at": "2026-11-11T20:49:33.962070Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "coding-agent-session-search",
   "name": "coding_agent_session_search",
-  "tagline": "Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)",
+  "tagline": "Unified TUI and CLI to index and search your local coding agent session history across 30+ providers (Codex, Claude Code, Gemini, Cursor, Aider, Copilot, and more) into one searchable timeline. Hybrid",
   "category": "search-rag",
   "tags": [
     "ai-agents",
@@ -23,13 +23,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 1188,
+    "stars": 1204,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-20T03:32:36Z",
+    "last_commit_at": "2026-11-11T20:34:03Z",
     "first_commit_at": "2025-11-21T01:22:10Z",
-    "forks": 142,
-    "watchers": 6,
-    "open_issues": 34,
+    "forks": 146,
+    "watchers": 5,
+    "open_issues": 20,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3485,
-  "rank_in_category": 36,
+  "composite_score": 0.3688,
+  "rank_in_category": 50,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T04:51:05.408573Z",
-  "last_refreshed_at": "2026-10-20T04:51:05.408577Z",
-  "consecutive_refresh_failures": 22
+  "first_seen_at": "2026-11-11T20:49:52.296829Z",
+  "last_refreshed_at": "2026-11-11T20:49:52.296832Z",
+  "consecutive_refresh_failures": 0
 }

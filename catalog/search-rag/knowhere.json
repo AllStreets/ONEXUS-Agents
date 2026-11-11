@@ -1,0 +1,62 @@
+{
+  "slug": "knowhere",
+  "name": "knowhere",
+  "tagline": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+  "category": "search-rag",
+  "tags": [
+    "agent-harness",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "cursor",
+    "document-intelligence",
+    "langchain",
+    "mutli-agent",
+    "rag-pipeline",
+    "skills"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Ontos-AI",
+    "url": "https://github.com/Ontos-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Ontos-AI/knowhere",
+    "huggingface": null,
+    "homepage": "https://knowhereto.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 3971,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T18:04:43Z",
+    "first_commit_at": "2025-10-12T07:57:02Z",
+    "forks": 340,
+    "watchers": 84,
+    "open_issues": 50,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4149,
+  "rank_in_category": 28,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:14:20.807131Z",
+  "last_refreshed_at": "2026-11-11T21:14:20.807138Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "system1-agents",
+  "name": "system1-agents",
+  "tagline": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+  "category": "browser-automation",
+  "tags": [
+    "ai-agents",
+    "browser-agent",
+    "browser-automation",
+    "claude-code-plugin",
+    "computer-use",
+    "cua",
+    "decision-model",
+    "jev",
+    "laya",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ThinkFlowLab",
+    "url": "https://github.com/ThinkFlowLab"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ThinkFlowLab/system1-agents",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 182,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T12:01:52Z",
+    "first_commit_at": "2026-09-22T16:46:00Z",
+    "forks": 26,
+    "watchers": 0,
+    "open_issues": 39,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4087,
+  "rank_in_category": 40,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:18:03.345202Z",
+  "last_refreshed_at": "2026-11-11T21:18:03.345205Z",
+  "consecutive_refresh_failures": 0
+}

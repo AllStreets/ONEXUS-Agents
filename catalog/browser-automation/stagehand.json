@@ -1,0 +1,60 @@
+{
+  "slug": "stagehand",
+  "name": "stagehand",
+  "tagline": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
+  "category": "browser-automation",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "browser-agent",
+    "browser-automation",
+    "cdp",
+    "cloud-browser",
+    "data-extraction",
+    "headless-chrome",
+    "playwright"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "browserbase",
+    "url": "https://github.com/browserbase"
+  },
+  "source": {
+    "primary": "github",
+    "github": "browserbase/stagehand",
+    "huggingface": null,
+    "homepage": "https://stagehand.dev/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 26005,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T16:55:35Z",
+    "first_commit_at": "2024-03-24T20:16:24Z",
+    "forks": 1812,
+    "watchers": 103,
+    "open_issues": 428,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4976,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:17:46.903714Z",
+  "last_refreshed_at": "2026-11-11T21:17:46.903717Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "telnyx-node",
+  "name": "telnyx-node",
+  "tagline": "AI call assistant & voice API SDK for Node.js: official Telnyx library for AI voice agents, calls, SMS and phone numbers.",
+  "category": "audio-speech",
+  "tags": [
+    "ai-call-assistant",
+    "ai-phone-agent",
+    "ai-receptionist",
+    "ai-text-to-speech",
+    "ai-voice-agent",
+    "ai-voice-agents",
+    "ai-voice-generator",
+    "call-forwarding",
+    "call-recording",
+    "carrier-lookup"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "team-telnyx",
+    "url": "https://github.com/team-telnyx"
+  },
+  "source": {
+    "primary": "github",
+    "github": "team-telnyx/telnyx-node",
+    "huggingface": null,
+    "homepage": "https://developers.telnyx.com/docs/development/api-fundamentals"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 198,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-09T14:18:33Z",
+    "first_commit_at": "2019-08-02T22:21:15Z",
+    "forks": 29,
+    "watchers": 8,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5199,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:07:37.594959Z",
+  "last_refreshed_at": "2026-11-11T21:07:37.594962Z",
+  "consecutive_refresh_failures": 0
+}

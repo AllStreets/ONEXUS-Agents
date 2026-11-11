@@ -1,19 +1,19 @@
 {
   "slug": "toonflow-app",
   "name": "Toonflow-app",
-  "tagline": "Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc",
+  "tagline": "短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, ",
   "category": "image-generation",
   "tags": [
-    "ai",
+    "ai-agents",
+    "ai-comic",
     "ai-content-creation",
-    "ai-tool",
-    "ai-video-generation",
-    "automation",
-    "content-generation",
-    "desktop-app",
-    "electron",
+    "ai-filmmaking",
+    "ai-short-drama",
     "generative-ai",
-    "image-generation"
+    "image-generation",
+    "image-to-video",
+    "infinite-canvas",
+    "libtv"
   ],
   "author": {
     "type": "user",
@@ -26,14 +26,14 @@
     "huggingface": null,
     "homepage": "https://toonflow.net/"
   },
-  "license": "Apache-2.0",
+  "license": "MIT",
   "metrics": {
-    "stars": 14516,
+    "stars": 21457,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-23T08:32:31Z",
-    "first_commit_at": "2026-01-29T10:28:32Z",
-    "forks": 2623,
-    "watchers": 65,
+    "last_commit_at": "2026-11-05T07:55:21Z",
+    "first_commit_at": "2026-09-21T09:36:52Z",
+    "forks": 3859,
+    "watchers": 88,
     "open_issues": 4,
     "archived": false,
     "is_fork": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3604,
-  "rank_in_category": 14,
+  "composite_score": 0.405,
+  "rank_in_category": 17,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:25:57.215066Z",
-  "last_refreshed_at": "2026-10-25T19:51:00.087285Z",
-  "consecutive_refresh_failures": 23
+  "last_refreshed_at": "2026-11-11T20:53:47.882645Z",
+  "consecutive_refresh_failures": 0
 }

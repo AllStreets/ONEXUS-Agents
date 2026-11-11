@@ -1,0 +1,60 @@
+{
+  "slug": "hypit",
+  "name": "hypit",
+  "tagline": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+  "category": "video-generation",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "ai-agents",
+    "ai-video",
+    "compiler",
+    "dsl",
+    "ffmpeg",
+    "generative-ai",
+    "llm",
+    "markup-language"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "hypit-ai",
+    "url": "https://github.com/hypit-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "hypit-ai/hypit",
+    "huggingface": null,
+    "homepage": "https://hypit.ai/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 29361,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T11:26:15Z",
+    "first_commit_at": "2026-07-29T18:49:19Z",
+    "forks": 3425,
+    "watchers": 59,
+    "open_issues": 102,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4711,
+  "rank_in_category": 10,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:58:57.785341Z",
+  "last_refreshed_at": "2026-11-11T20:58:57.785344Z",
+  "consecutive_refresh_failures": 0
+}

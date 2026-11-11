@@ -1,0 +1,58 @@
+{
+  "slug": "novanova-studio",
+  "name": "novanova-studio",
+  "tagline": "[NovaNova Studio] 一个 Agent 驱动的集 AI图片生成、AI视频生成、无限画布、自定义模型 API 、AI漫剧、AI短剧、小说解析剧本、小说转短剧、3D导演台、用户管理、积分管理于一体的全流程开源平台",
+  "category": "image-generation",
+  "tags": [
+    "agent",
+    "agentscope-java",
+    "image-generation-ai",
+    "infinite-canvas",
+    "open-source",
+    "springboot",
+    "video-generation",
+    "workflow"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Swayingleaves",
+    "url": "https://github.com/Swayingleaves"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Swayingleaves/novanova-studio",
+    "huggingface": null,
+    "homepage": "https://www.novanovastudio.cn/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 720,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T05:30:24Z",
+    "first_commit_at": "2026-07-22T10:28:59Z",
+    "forks": 121,
+    "watchers": 2,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3266,
+  "rank_in_category": 51,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:54:09.967341Z",
+  "last_refreshed_at": "2026-11-11T20:54:09.967344Z",
+  "consecutive_refresh_failures": 0
+}

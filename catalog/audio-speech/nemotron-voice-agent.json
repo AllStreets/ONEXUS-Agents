@@ -1,0 +1,49 @@
+{
+  "slug": "nemotron-voice-agent",
+  "name": "nemotron-voice-agent",
+  "tagline": "Reference implementation of an end-to-end voice agent built using the NVIDIA Nemotron models",
+  "category": "audio-speech",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "NVIDIA-AI-Blueprints",
+    "url": "https://github.com/NVIDIA-AI-Blueprints"
+  },
+  "source": {
+    "primary": "github",
+    "github": "NVIDIA-AI-Blueprints/nemotron-voice-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 261,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T18:14:14Z",
+    "first_commit_at": "2026-01-15T17:12:14Z",
+    "forks": 75,
+    "watchers": 4,
+    "open_issues": 11,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.509,
+  "rank_in_category": 39,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:07:32.871903Z",
+  "last_refreshed_at": "2026-11-11T21:07:32.871906Z",
+  "consecutive_refresh_failures": 0
+}

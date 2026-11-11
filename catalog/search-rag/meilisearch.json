@@ -1,0 +1,60 @@
+{
+  "slug": "meilisearch",
+  "name": "meilisearch",
+  "tagline": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+  "category": "search-rag",
+  "tags": [
+    "ai",
+    "api",
+    "app-search",
+    "database",
+    "enterprise-search",
+    "faceting",
+    "full-text-search",
+    "fuzzy-search",
+    "geosearch",
+    "hybrid-search"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "meilisearch",
+    "url": "https://github.com/meilisearch"
+  },
+  "source": {
+    "primary": "github",
+    "github": "meilisearch/meilisearch",
+    "huggingface": null,
+    "homepage": "https://www.meilisearch.com/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 59841,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T16:00:14Z",
+    "first_commit_at": "2018-05-12T13:11:27Z",
+    "forks": 2789,
+    "watchers": 293,
+    "open_issues": 320,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4718,
+  "rank_in_category": 11,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:15:27.748006Z",
+  "last_refreshed_at": "2026-11-11T21:15:27.748009Z",
+  "consecutive_refresh_failures": 0
+}

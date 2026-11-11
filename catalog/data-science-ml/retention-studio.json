@@ -1,24 +1,25 @@
 {
   "slug": "retention-studio",
   "name": "retention-studio",
-  "tagline": "[Data Science & Machine Learning] Prioritize reviewable churn retention work. Calibrated churn scores and eligibility rules; Capacity-limited review queue with cooldowns.",
+  "tagline": "Prioritize reviewable churn retention work. Calibrated models, eligibility rules, budget, audited task queue.",
   "category": "data-science-ml",
   "tags": [
-    "ai-assisted",
-    "data-science",
     "data-science-ml",
-    "documented-project",
-    "machine-learning",
-    "portfolio"
+    "documented-demo",
+    "flask",
+    "pandas",
+    "portfolio-project",
+    "python",
+    "scikit-learn"
   ],
   "author": {
     "type": "user",
-    "handle": "abhijith-abhii",
-    "url": "https://github.com/abhijith-abhii"
+    "handle": "madhurag123",
+    "url": "https://github.com/madhurag123"
   },
   "source": {
     "primary": "github",
-    "github": "abhijith-abhii/retention-studio",
+    "github": "madhurag123/retention-studio",
     "huggingface": null,
     "homepage": null
   },
@@ -26,7 +27,7 @@
   "metrics": {
     "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-18T11:26:50Z",
+    "last_commit_at": "2026-10-09T16:13:49Z",
     "first_commit_at": "2026-09-28T11:35:49Z",
     "forks": 0,
     "watchers": 0,
@@ -47,10 +48,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1865,
-  "rank_in_category": 170,
+  "composite_score": 0.1787,
+  "rank_in_category": 182,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-07T18:16:16.371446Z",
-  "last_refreshed_at": "2026-11-10T20:34:40.213987Z",
+  "first_seen_at": "2026-11-11T20:24:02.104212Z",
+  "last_refreshed_at": "2026-11-11T20:24:02.104215Z",
   "consecutive_refresh_failures": 0
 }

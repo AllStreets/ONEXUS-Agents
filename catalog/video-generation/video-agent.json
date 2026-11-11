@@ -1,28 +1,35 @@
 {
   "slug": "video-agent",
   "name": "video-agent",
-  "tagline": "三重梦AI视频工厂   🌈 让创意触手可及",
+  "tagline": "Open-source video generation — Ollama for MiniMax H3. Local director on ComfyUI.",
   "category": "video-generation",
-  "tags": [],
+  "tags": [
+    "agent",
+    "comfyui",
+    "minimax-h3",
+    "open-source",
+    "text-to-video",
+    "video-generation"
+  ],
   "author": {
-    "type": "user",
-    "handle": "stock-programmer",
-    "url": "https://github.com/stock-programmer"
+    "type": "org",
+    "handle": "agent-next",
+    "url": "https://github.com/agent-next"
   },
   "source": {
     "primary": "github",
-    "github": "stock-programmer/video-agent",
+    "github": "agent-next/video-agent",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://open-video.ai/"
   },
-  "license": "MIT",
+  "license": "Apache-2.0",
   "metrics": {
-    "stars": 27,
+    "stars": 117,
     "downloads_30d": null,
-    "last_commit_at": "2026-02-04T06:31:44Z",
-    "first_commit_at": "2026-01-01T06:09:01Z",
-    "forks": 4,
-    "watchers": 1,
+    "last_commit_at": "2026-10-10T17:32:45Z",
+    "first_commit_at": "2026-08-06T16:29:47Z",
+    "forks": 5,
+    "watchers": 0,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -40,10 +47,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2159,
-  "rank_in_category": 105,
+  "composite_score": 0.3046,
+  "rank_in_category": 103,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-25T14:30:14.526281Z",
-  "last_refreshed_at": "2026-10-25T19:52:24.998097Z",
-  "consecutive_refresh_failures": 23
+  "first_seen_at": "2026-11-11T21:00:08.988533Z",
+  "last_refreshed_at": "2026-11-11T21:00:08.988536Z",
+  "consecutive_refresh_failures": 0
 }

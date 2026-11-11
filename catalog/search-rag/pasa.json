@@ -1,0 +1,51 @@
+{
+  "slug": "pasa",
+  "name": "pasa",
+  "tagline": "PaSa -- an advanced paper search agent powered by large language models. It can autonomously make a series of decisions, including invoking search tools, reading papers, and selecting relevant referen",
+  "category": "search-rag",
+  "tags": [
+    "research"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "bytedance",
+    "url": "https://github.com/bytedance"
+  },
+  "source": {
+    "primary": "github",
+    "github": "bytedance/pasa",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1675,
+    "downloads_30d": null,
+    "last_commit_at": "2025-05-27T11:09:11Z",
+    "first_commit_at": "2025-01-20T14:02:16Z",
+    "forks": 126,
+    "watchers": 12,
+    "open_issues": 27,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2725,
+  "rank_in_category": 110,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:14:52.405122Z",
+  "last_refreshed_at": "2026-11-11T21:14:52.405126Z",
+  "consecutive_refresh_failures": 0
+}

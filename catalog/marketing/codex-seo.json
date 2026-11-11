@@ -1,0 +1,57 @@
+{
+  "slug": "codex-seo",
+  "name": "codex-seo",
+  "tagline": "Free, open-source SEO audits inside OpenAI Codex CLI. Port of claude-seo: 26 skills, 19 specialist roles, technical SEO / schema / GEO / local / ecommerce.",
+  "category": "marketing",
+  "tags": [
+    "agent-skills",
+    "claude-seo-port",
+    "codex",
+    "codex-cli",
+    "openai",
+    "seo",
+    "seo-audit"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "zhtyyx",
+    "url": "https://github.com/zhtyyx"
+  },
+  "source": {
+    "primary": "github",
+    "github": "zhtyyx/codex-seo",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 154,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-09T06:41:50Z",
+    "first_commit_at": "2026-02-07T09:09:17Z",
+    "forks": 36,
+    "watchers": 0,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5688,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:52:32.042926Z",
+  "last_refreshed_at": "2026-11-11T20:52:32.042930Z",
+  "consecutive_refresh_failures": 0
+}

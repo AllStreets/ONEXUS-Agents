@@ -1,0 +1,62 @@
+{
+  "slug": "minecraftmodslocalizer",
+  "name": "MinecraftModsLocalizer",
+  "tagline": "AI translator for Minecraft mods, modpacks, FTB Quests and Patchouli guidebooks. Windows / macOS / Linux. 日本語化・中文汉化・한국어 번역・Übersetzung・traducción・traduction・traduzione・tradução・перевод. Translate into",
+  "category": "translation",
+  "tags": [
+    "ai-translation",
+    "anthropic",
+    "ftb-quests",
+    "gemini",
+    "localization",
+    "localization-tool",
+    "machine-translation",
+    "minecraft",
+    "minecraft-modpack",
+    "minecraft-mods"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Y-RyuZU",
+    "url": "https://github.com/Y-RyuZU"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Y-RyuZU/MinecraftModsLocalizer",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 50,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-21T01:48:25Z",
+    "first_commit_at": "2023-10-20T17:44:40Z",
+    "forks": 16,
+    "watchers": 2,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4918,
+  "rank_in_category": 36,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:09:06.922178Z",
+  "last_refreshed_at": "2026-11-11T21:09:06.922181Z",
+  "consecutive_refresh_failures": 0
+}

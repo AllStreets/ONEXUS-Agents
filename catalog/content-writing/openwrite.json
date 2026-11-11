@@ -1,7 +1,7 @@
 {
   "slug": "openwrite",
   "name": "Openwrite",
-  "tagline": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
+  "tagline": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、56 个小说工具、原生工作台与标准审稿 DAG",
   "category": "content-writing",
   "tags": [
     "ai-novel",
@@ -23,13 +23,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 845,
+    "stars": 944,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-19T13:35:05Z",
+    "last_commit_at": "2026-11-10T15:48:14Z",
     "first_commit_at": "2026-08-20T11:40:17Z",
-    "forks": 129,
-    "watchers": 3,
-    "open_issues": 2,
+    "forks": 136,
+    "watchers": 4,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4706,
-  "rank_in_category": 16,
+  "composite_score": 0.5027,
+  "rank_in_category": 15,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:50:40.497363Z",
-  "last_refreshed_at": "2026-10-20T04:50:40.497366Z",
-  "consecutive_refresh_failures": 22
+  "last_refreshed_at": "2026-11-11T20:49:23.449197Z",
+  "consecutive_refresh_failures": 0
 }

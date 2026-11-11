@@ -1,0 +1,58 @@
+{
+  "slug": "crypto-market-data-ts",
+  "name": "crypto-market-data-ts",
+  "tagline": "TypeScript client for CoinGecko, DeFiLlama and Fear and Greed data with caching, rate limiting and Edge Runtime support.",
+  "category": "coding",
+  "tags": [
+    "claude-code-plugin",
+    "coingecko",
+    "cryptocurrency",
+    "defillama",
+    "edge-runtime",
+    "fear-and-greed-index",
+    "market-data",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nirholas",
+    "url": "https://github.com/nirholas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nirholas/crypto-market-data-ts",
+    "huggingface": null,
+    "homepage": "https://three.ws/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T15:14:36Z",
+    "first_commit_at": "2026-01-22T06:32:18Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3156,
+  "rank_in_category": 329,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T04:33:17.530680Z",
+  "last_refreshed_at": "2026-11-11T20:27:00.634370Z",
+  "consecutive_refresh_failures": 0
+}

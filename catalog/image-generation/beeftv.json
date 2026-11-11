@@ -1,0 +1,58 @@
+{
+  "slug": "beeftv",
+  "name": "BeefTV",
+  "tagline": "High-performance · Lightweight · AI Native Video workspace. 面向 AI 时代的视频创作工作台。 在画布中，和Agent一起自由连接创意和素材。",
+  "category": "image-generation",
+  "tags": [
+    "ai-image-generation",
+    "ai-video",
+    "ai-video-generation",
+    "ai-workspace",
+    "aigc",
+    "creative-tools",
+    "infinite-canvas",
+    "local-first"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "glanderness",
+    "url": "https://github.com/glanderness"
+  },
+  "source": {
+    "primary": "github",
+    "github": "glanderness/BeefTV",
+    "huggingface": null,
+    "homepage": "https://beeftv.app/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2368,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T17:36:08Z",
+    "first_commit_at": "2026-09-24T05:16:05Z",
+    "forks": 437,
+    "watchers": 15,
+    "open_issues": 34,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3688,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:54:46.135204Z",
+  "last_refreshed_at": "2026-11-11T20:54:46.135207Z",
+  "consecutive_refresh_failures": 0
+}

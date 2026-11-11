@@ -1,0 +1,60 @@
+{
+  "slug": "ccxt",
+  "name": "ccxt",
+  "tagline": "A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust",
+  "category": "financial-modeling",
+  "tags": [
+    "altcoin",
+    "api",
+    "arbitrage",
+    "bitcoin",
+    "bot",
+    "btc",
+    "crypto",
+    "cryptocurrencies",
+    "cryptocurrency",
+    "eth"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "ccxt",
+    "url": "https://github.com/ccxt"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ccxt/ccxt",
+    "huggingface": null,
+    "homepage": "https://docs.ccxt.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 44859,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T12:38:18Z",
+    "first_commit_at": "2017-05-14T15:41:57Z",
+    "forks": 8970,
+    "watchers": 938,
+    "open_issues": 766,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.7406,
+  "rank_in_category": 1,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:47:33.633787Z",
+  "last_refreshed_at": "2026-11-11T20:08:36.576595Z",
+  "consecutive_refresh_failures": 0
+}

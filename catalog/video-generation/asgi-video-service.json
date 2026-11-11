@@ -1,0 +1,58 @@
+{
+  "slug": "asgi-video-service",
+  "name": "asgi-video-service",
+  "tagline": "A Python ASGI service which generates a video to explain a STEM topic submitted by users.",
+  "category": "video-generation",
+  "tags": [
+    "asgi",
+    "asgi-framework",
+    "asgi-server",
+    "claude-desktop",
+    "edge-tts",
+    "video-generation",
+    "video-generation-ai",
+    "video-generation-api"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "khteh",
+    "url": "https://github.com/khteh"
+  },
+  "source": {
+    "primary": "github",
+    "github": "khteh/asgi-video-service",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-04T09:24:25Z",
+    "first_commit_at": "2026-09-11T08:11:49Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2669,
+  "rank_in_category": 127,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:59:22.659001Z",
+  "last_refreshed_at": "2026-11-11T20:59:22.659004Z",
+  "consecutive_refresh_failures": 0
+}

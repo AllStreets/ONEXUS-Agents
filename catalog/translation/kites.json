@@ -1,0 +1,60 @@
+{
+  "slug": "kites",
+  "name": "Kites",
+  "tagline": "🪁 Read any manga in your language directly in-browser. 100% local-first AI translation with WebGPU OCR, clean background inpainting, and studio typesetting.",
+  "category": "translation",
+  "tags": [
+    "chrome-extension",
+    "comic-translator",
+    "inpainting",
+    "lama",
+    "local-first",
+    "machine-learning",
+    "manga-translator",
+    "ocr",
+    "paddleocr",
+    "react"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Unheat",
+    "url": "https://github.com/Unheat"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Unheat/Kites",
+    "huggingface": null,
+    "homepage": "https://kites-translator.pages.dev/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 42,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T03:47:06Z",
+    "first_commit_at": "2026-07-08T20:11:50Z",
+    "forks": 6,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4198,
+  "rank_in_category": 58,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:11:51.068820Z",
+  "last_refreshed_at": "2026-11-11T21:11:51.068824Z",
+  "consecutive_refresh_failures": 0
+}

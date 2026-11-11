@@ -1,0 +1,60 @@
+{
+  "slug": "ai-native-callcenter",
+  "name": "ai-native-callcenter",
+  "tagline": "Self-hosted API-first AI call center: AI talks, code controls the call. AI agents answer every call; humans take over without dropping it. Runs on FreeSWITCH with your SIP trunk and realtime model (Op",
+  "category": "audio-speech",
+  "tags": [
+    "call-center",
+    "callcenter",
+    "contact-center",
+    "freeswitch",
+    "golang",
+    "ivr",
+    "openai-realtime",
+    "openapi",
+    "postgresql",
+    "qwen"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "rasonyang",
+    "url": "https://github.com/rasonyang"
+  },
+  "source": {
+    "primary": "github",
+    "github": "rasonyang/ai-native-callcenter",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 595,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T12:27:38Z",
+    "first_commit_at": "2026-08-11T23:48:21Z",
+    "forks": 117,
+    "watchers": 25,
+    "open_issues": 70,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5261,
+  "rank_in_category": 32,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:03:40.276914Z",
+  "last_refreshed_at": "2026-11-11T21:03:40.276918Z",
+  "consecutive_refresh_failures": 0
+}

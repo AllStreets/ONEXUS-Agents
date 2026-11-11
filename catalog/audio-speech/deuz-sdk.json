@@ -1,0 +1,62 @@
+{
+  "slug": "deuz-sdk",
+  "name": "Deuz-SDK",
+  "tagline": "TypeScript AI SDK and agent framework with zero dependencies. Build production AI agents and multi-agent swarms: durable execution, long-term memory, hybrid RAG, MCP client/server, A2A, human-in-the-l",
+  "category": "audio-speech",
+  "tags": [
+    "a2a",
+    "agent-framework",
+    "agent-sdk",
+    "agent-swarm",
+    "ai-agent-framework",
+    "ai-agents",
+    "ai-sdk",
+    "claude",
+    "durable-execution",
+    "human-in-the-loop"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Deuz-AI",
+    "url": "https://github.com/Deuz-AI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Deuz-AI/Deuz-SDK",
+    "huggingface": null,
+    "homepage": "https://deuz-sdk.tech/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 508,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-16T21:43:10Z",
+    "first_commit_at": "2026-05-30T11:04:30Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 12,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5208,
+  "rank_in_category": 35,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:03:43.276677Z",
+  "last_refreshed_at": "2026-11-11T21:03:43.276681Z",
+  "consecutive_refresh_failures": 0
+}

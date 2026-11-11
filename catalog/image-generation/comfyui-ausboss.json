@@ -1,0 +1,60 @@
+{
+  "slug": "comfyui-ausboss",
+  "name": "ComfyUI-AusBoss",
+  "tagline": "ComfyUI nodes I made for my own workflows: click or type to mask a thing, crop, rotate and pad by dragging handles, inpaint and outpaint that keep your original pixels, tiled upscale, a video trim tim",
+  "category": "image-generation",
+  "tags": [
+    "background-removal",
+    "comfyui",
+    "comfyui-custom-nodes",
+    "comfyui-nodes",
+    "comfyui-workflow",
+    "custom-nodes",
+    "flux",
+    "generative-ai",
+    "image-editing",
+    "image-segmentation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ausboss",
+    "url": "https://github.com/ausboss"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ausboss/ComfyUI-AusBoss",
+    "huggingface": null,
+    "homepage": "https://registry.comfy.org/nodes/ausboss-nodes"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 126,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-10T23:42:10Z",
+    "first_commit_at": "2026-07-24T22:21:30Z",
+    "forks": 9,
+    "watchers": 1,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3019,
+  "rank_in_category": 65,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:53:28.909422Z",
+  "last_refreshed_at": "2026-11-11T20:53:28.909425Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "mage-rag",
+  "name": "MAGE-RAG",
+  "tagline": "MAGE-RAG: Multigranular Adaptive Graph Evidence for Agentic Multimodal RAG in Long-Document QA",
+  "category": "search-rag",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "laonuo2004",
+    "url": "https://github.com/laonuo2004"
+  },
+  "source": {
+    "primary": "github",
+    "github": "laonuo2004/MAGE-RAG",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/abs/2606.15906"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 11,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-26T12:33:34Z",
+    "first_commit_at": "2026-04-11T14:10:44Z",
+    "forks": 0,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2109,
+  "rank_in_category": 174,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:16:54.484752Z",
+  "last_refreshed_at": "2026-11-11T21:16:54.484755Z",
+  "consecutive_refresh_failures": 0
+}

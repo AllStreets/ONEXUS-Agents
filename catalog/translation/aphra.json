@@ -1,0 +1,54 @@
+{
+  "slug": "aphra",
+  "name": "aphra",
+  "tagline": "An open-source translation agent designed to enhance the quality of text translations by leveraging large language models",
+  "category": "translation",
+  "tags": [
+    "agentic-workflow",
+    "large-language-models",
+    "prompt-engineering",
+    "translation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "DavidLMS",
+    "url": "https://github.com/DavidLMS"
+  },
+  "source": {
+    "primary": "github",
+    "github": "DavidLMS/aphra",
+    "huggingface": null,
+    "homepage": "https://davidlms.github.io/aphra/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 32,
+    "downloads_30d": null,
+    "last_commit_at": "2026-03-28T20:47:49Z",
+    "first_commit_at": "2024-07-16T17:29:08Z",
+    "forks": 11,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3209,
+  "rank_in_category": 80,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:09:24.352428Z",
+  "last_refreshed_at": "2026-11-11T21:09:24.352431Z",
+  "consecutive_refresh_failures": 0
+}

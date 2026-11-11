@@ -1,0 +1,62 @@
+{
+  "slug": "jobfinderos",
+  "name": "JobFinderOS",
+  "tagline": "Open-source AI job search agents for Claude Code. Polls Greenhouse, Ashby and Lever job boards directly, scores roles against your profile, preps interviews, drafts outreach, and writes it all to an O",
+  "category": "search-rag",
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "anthropic",
+    "ashby",
+    "ats",
+    "automation",
+    "career",
+    "claude",
+    "claude-code",
+    "greenhouse"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "matthewprice",
+    "url": "https://github.com/matthewprice"
+  },
+  "source": {
+    "primary": "github",
+    "github": "matthewprice/JobFinderOS",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 189,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-31T18:06:15Z",
+    "first_commit_at": "2026-09-06T01:05:05Z",
+    "forks": 35,
+    "watchers": 6,
+    "open_issues": 5,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.32,
+  "rank_in_category": 76,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:15:07.565420Z",
+  "last_refreshed_at": "2026-11-11T21:15:07.565424Z",
+  "consecutive_refresh_failures": 0
+}

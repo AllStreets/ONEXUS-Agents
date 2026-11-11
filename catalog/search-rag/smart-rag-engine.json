@@ -1,0 +1,62 @@
+{
+  "slug": "smart-rag-engine",
+  "name": "Smart-Rag-Engine",
+  "tagline": "Intelligent RAG system for querying documents and PostgreSQL databases using LangChain, FastAPI, Ollama, FAISS, and local AI models with privacy-focused processing.",
+  "category": "search-rag",
+  "tags": [
+    "ai-agent",
+    "document-processing",
+    "faiss",
+    "fastapi",
+    "generative-ai",
+    "langchain",
+    "llm",
+    "machine-learning",
+    "natural-language-processing",
+    "ollama"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SadiqCodex",
+    "url": "https://github.com/SadiqCodex"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SadiqCodex/Smart-Rag-Engine",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-08-29T07:58:53Z",
+    "first_commit_at": "2025-12-15T05:43:19Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.1859,
+  "rank_in_category": 187,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:12:51.981798Z",
+  "last_refreshed_at": "2026-11-11T21:12:51.981801Z",
+  "consecutive_refresh_failures": 0
+}

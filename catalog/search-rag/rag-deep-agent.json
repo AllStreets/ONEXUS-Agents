@@ -1,0 +1,59 @@
+{
+  "slug": "rag-deep-agent",
+  "name": "rag-deep-agent",
+  "tagline": "A local-first retrieval-augmented generation (RAG) API for indexing web documents and answering questions from their contents. It combines local `sentence-transformers` embeddings and a persistent Chr",
+  "category": "search-rag",
+  "tags": [
+    "deep-agent",
+    "deep-agents",
+    "deep-ai",
+    "langchain",
+    "rag",
+    "rag-agent",
+    "rag-pipeline"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ehsanghaffar",
+    "url": "https://github.com/ehsanghaffar"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ehsanghaffar/rag-deep-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 9,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-03T16:20:55Z",
+    "first_commit_at": "2026-09-30T11:28:39Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2167,
+  "rank_in_category": 169,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:12:34.053213Z",
+  "last_refreshed_at": "2026-11-11T21:12:34.053216Z",
+  "consecutive_refresh_failures": 0
+}

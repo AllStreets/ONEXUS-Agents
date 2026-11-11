@@ -1,0 +1,60 @@
+{
+  "slug": "whisperlivekit",
+  "name": "WhisperLiveKit",
+  "tagline": "Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.",
+  "category": "translation",
+  "tags": [
+    "automatic-speech-recognition",
+    "fastapi",
+    "python",
+    "pytorch",
+    "real-time",
+    "speaker-diarization",
+    "speech-recognition",
+    "speech-to-text",
+    "streaming",
+    "translation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "QuentinFuxa",
+    "url": "https://github.com/QuentinFuxa"
+  },
+  "source": {
+    "primary": "github",
+    "github": "QuentinFuxa/WhisperLiveKit",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 11238,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-08T01:22:34Z",
+    "first_commit_at": "2023-04-05T09:24:40Z",
+    "forks": 1158,
+    "watchers": 59,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.6651,
+  "rank_in_category": 13,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:08:31.742255Z",
+  "last_refreshed_at": "2026-11-11T21:08:31.742258Z",
+  "consecutive_refresh_failures": 0
+}

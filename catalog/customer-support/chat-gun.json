@@ -1,0 +1,60 @@
+{
+  "slug": "chat-gun",
+  "name": "chat-gun",
+  "tagline": "🤖 Full-stack AI agent app built with React, TypeScript and LangGraph JS. Streaming, multimodal input, human-in-the-loop, native + MCP tools, Qwen/OpenAI-compatible LLM gateway. Ships an after-sales su",
+  "category": "customer-support",
+  "tags": [
+    "agent",
+    "ai-agent",
+    "chatbot",
+    "langgraph",
+    "mcp",
+    "multi-agent",
+    "qwen"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "HsienW",
+    "url": "https://github.com/HsienW"
+  },
+  "source": {
+    "primary": "github",
+    "github": "HsienW/chat-gun",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 148,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T12:55:17Z",
+    "first_commit_at": "2026-06-05T10:49:52Z",
+    "forks": 21,
+    "watchers": 15,
+    "open_issues": 8,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6195,
+  "rank_in_category": 25,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:42:50.400961Z",
+  "last_refreshed_at": "2026-11-11T20:42:50.400964Z",
+  "consecutive_refresh_failures": 0
+}

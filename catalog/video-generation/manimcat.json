@@ -1,0 +1,60 @@
+{
+  "slug": "manimcat",
+  "name": "ManimCat",
+  "tagline": "EN: ManimCat: AI-generated math animations from natural language. High-quality Manim rendering with LaTeX support and auto-code fixing. 中: ManimCat：AI 数学动画生成器。支持描述即视频，内置 LaTeX 与代码纠错，让数学动效触手可及。",
+  "category": "video-generation",
+  "tags": [
+    "3blue1brown",
+    "ai",
+    "ai-agents",
+    "educational-project",
+    "generative-ai",
+    "llm",
+    "manim",
+    "manim-video",
+    "math",
+    "mathematics-visualization"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Wing900",
+    "url": "https://github.com/Wing900"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Wing900/ManimCat",
+    "huggingface": null,
+    "homepage": "https://manimcat.5051001.xyz/"
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 499,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T01:16:10Z",
+    "first_commit_at": "2026-01-26T17:40:53Z",
+    "forks": 73,
+    "watchers": 1,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3974,
+  "rank_in_category": 38,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T20:58:20.412978Z",
+  "last_refreshed_at": "2026-11-11T20:58:20.412982Z",
+  "consecutive_refresh_failures": 0
+}

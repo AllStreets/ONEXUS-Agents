@@ -1,7 +1,7 @@
 {
   "slug": "best-of-agent-harnesses",
   "name": "best-of-Agent-Harnesses",
-  "tagline": "🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them too. Rescored weekly.",
+  "tagline": "🏆 Ranked list of 187 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.",
   "category": "multi-agent-orchestration",
   "tags": [
     "agent-framework",
@@ -28,13 +28,13 @@
   },
   "license": "CC-BY-SA-4.0",
   "metrics": {
-    "stars": 739,
+    "stars": 1505,
     "downloads_30d": null,
-    "last_commit_at": "2026-08-30T17:57:04Z",
+    "last_commit_at": "2026-11-08T18:40:59Z",
     "first_commit_at": "2026-03-07T22:55:26Z",
-    "forks": 45,
-    "watchers": 7,
-    "open_issues": 40,
+    "forks": 101,
+    "watchers": 12,
+    "open_issues": 17,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3933,
-  "rank_in_category": 135,
+  "composite_score": 0.4677,
+  "rank_in_category": 45,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-30T18:05:54.624625Z",
-  "last_refreshed_at": "2026-08-30T18:05:54.624629Z",
-  "consecutive_refresh_failures": 23
+  "first_seen_at": "2026-11-11T21:17:22.073919Z",
+  "last_refreshed_at": "2026-11-11T21:17:22.073923Z",
+  "consecutive_refresh_failures": 0
 }

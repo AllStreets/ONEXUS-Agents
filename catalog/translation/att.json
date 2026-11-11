@@ -1,0 +1,60 @@
+{
+  "slug": "att",
+  "name": "att",
+  "tagline": "利用 Agent 实现全游戏汉化：Agent 负责解包、提取、审校与封包，ATT 负责被动接收文本并完成批量翻译",
+  "category": "translation",
+  "tags": [
+    "ai-agents",
+    "ai-translation",
+    "cli",
+    "codex",
+    "game-localization",
+    "game-translation",
+    "jsonl",
+    "rpg-maker",
+    "rpg-maker-mv",
+    "rpg-maker-mz"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "yexi-by",
+    "url": "https://github.com/yexi-by"
+  },
+  "source": {
+    "primary": "github",
+    "github": "yexi-by/att",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "AGPL-3.0",
+  "metrics": {
+    "stars": 56,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-28T15:55:11Z",
+    "first_commit_at": "2026-03-12T16:06:32Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4174,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-11T21:09:05.972475Z",
+  "last_refreshed_at": "2026-11-11T21:09:05.972478Z",
+  "consecutive_refresh_failures": 0
+}
