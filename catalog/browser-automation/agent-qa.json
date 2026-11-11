@@ -1,0 +1,50 @@
+{
+  "slug": "agent-qa",
+  "name": "agent-qa",
+  "tagline": "Natural-language QA for web, Android and iOS with persistent memidex memory and validated self-improvement.",
+  "category": "browser-automation",
+  "tags": [
+    "qa",
+    "testing",
+    "cli",
+    "mcp",
+    "web",
+    "android",
+    "ios",
+    "memory",
+    "self-improvement"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "vostride",
+    "url": "https://github.com/vostride"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vostride/agent-qa",
+    "huggingface": null,
+    "homepage": "https://vostride.com"
+  },
+  "license": "FSL-1.1-ALv2",
+  "metrics": {
+    "stars": 894,
+    "forks": 23,
+    "watchers": 5,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.0,
+  "rank_in_category": 999,
+  "discovered_via": "submission",
+  "first_seen_at": "2026-10-25T22:46:21Z",
+  "last_refreshed_at": "2026-10-25T22:46:21Z",
+  "consecutive_refresh_failures": 0
+}
