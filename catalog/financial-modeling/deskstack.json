@@ -1,0 +1,62 @@
+{
+  "slug": "deskstack",
+  "name": "deskstack",
+  "tagline": "Your AI deal team inside Claude: built, tied out to the filings, reviewed. Free data, US + Europe.",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-agents",
+    "claude",
+    "dcf",
+    "esef",
+    "excel",
+    "financial-modeling",
+    "investment-banking",
+    "mcp",
+    "mcp-server",
+    "private-equity"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "joaquimmj",
+    "url": "https://github.com/joaquimmj"
+  },
+  "source": {
+    "primary": "github",
+    "github": "joaquimmj/deskstack",
+    "huggingface": null,
+    "homepage": "https://joaquimmj.github.io/deskstack/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 41,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-12T13:55:34Z",
+    "first_commit_at": "2026-11-08T18:16:06Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 17,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4806,
+  "rank_in_category": 45,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-12T21:02:03.720266Z",
+  "last_refreshed_at": "2026-11-12T21:02:03.720269Z",
+  "consecutive_refresh_failures": 0
+}

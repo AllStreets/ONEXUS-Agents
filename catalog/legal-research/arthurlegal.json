@@ -1,7 +1,7 @@
 {
   "slug": "arthurlegal",
   "name": "ArthurLegal",
-  "tagline": "⬇ Windows & Mac installer / kurulum: link below · aşağıdaki bağlantı (.exe · .pkg, always the latest · hep en güncel). Multi-jurisdiction legal AI for Claude · Claude için çok yargı çevreli hukuk yapa",
+  "tagline": "⬇ Windows & Mac installer · kurulum · quraşdırma: link below (.exe · .pkg, always the latest). Legal AI for Claude in TR · AZ · EN: ArthurLegal Masası (desk · masa), packages, ArthurLegal MCP, ArthurT",
   "category": "legal-research",
   "tags": [
     "claude",
@@ -24,9 +24,9 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 20,
+    "stars": 21,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-10T15:17:12Z",
+    "last_commit_at": "2026-11-12T15:16:35Z",
     "first_commit_at": "2026-05-17T08:37:51Z",
     "forks": 5,
     "watchers": 0,
@@ -49,10 +49,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3552,
-  "rank_in_category": 21,
+  "composite_score": 0.357,
+  "rank_in_category": 19,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:39:59.238251Z",
-  "last_refreshed_at": "2026-11-11T20:36:10.691296Z",
+  "last_refreshed_at": "2026-11-12T21:06:26.357905Z",
   "consecutive_refresh_failures": 0
 }

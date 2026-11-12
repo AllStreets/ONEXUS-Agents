@@ -1,0 +1,58 @@
+{
+  "slug": "defi-agents",
+  "name": "defi-agents",
+  "tagline": "JSON API of 40+ DeFi, portfolio and trading agent definitions in 18 languages, with a Claude Code plugin.",
+  "category": "coding",
+  "tags": [
+    "agent-definitions",
+    "ai-agents",
+    "claude-code-plugin",
+    "crypto",
+    "defi",
+    "json-api",
+    "trading",
+    "web3"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nirholas",
+    "url": "https://github.com/nirholas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nirholas/defi-agents",
+    "huggingface": null,
+    "homepage": "https://sperax.click/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 37,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-11T15:12:28Z",
+    "first_commit_at": "2025-12-17T07:47:24Z",
+    "forks": 10,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.3313,
+  "rank_in_category": 297,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-06-06T09:54:14.903949Z",
+  "last_refreshed_at": "2026-11-12T20:59:35.687761Z",
+  "consecutive_refresh_failures": 0
+}

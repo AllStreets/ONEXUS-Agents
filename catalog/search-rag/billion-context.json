@@ -1,7 +1,7 @@
 {
   "slug": "billion-context",
   "name": "billion-context",
-  "tagline": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣",
+  "tagline": "A context-compression plugin for month-long single sessions (billions of tokens)  and small context windows (a 100K context is enough) .上下文压缩插件，月级长会话， 兼顾小窗口(100k上下文足矣) . billion-context is all you nee",
   "category": "search-rag",
   "tags": [],
   "author": {
@@ -17,13 +17,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 6802,
+    "stars": 7054,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-11T19:56:51Z",
+    "last_commit_at": "2026-11-12T20:39:05Z",
     "first_commit_at": "2026-08-06T08:26:54Z",
-    "forks": 554,
+    "forks": 579,
     "watchers": 17,
-    "open_issues": 1060,
+    "open_issues": 1037,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3898,
-  "rank_in_category": 38,
+  "composite_score": 0.3907,
+  "rank_in_category": 37,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-22T18:03:09.368926Z",
-  "last_refreshed_at": "2026-11-11T20:12:25.019369Z",
+  "last_refreshed_at": "2026-11-12T20:48:37.692593Z",
   "consecutive_refresh_failures": 0
 }

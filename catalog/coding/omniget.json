@@ -1,0 +1,62 @@
+{
+  "slug": "omniget",
+  "name": "omniget",
+  "tagline": "Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l",
+  "category": "coding",
+  "tags": [
+    "agent-client-protocol",
+    "claude-code",
+    "codex-cli",
+    "coding-agent",
+    "download-manager",
+    "downloader",
+    "gallery-dl",
+    "instagram-downloader",
+    "local-llm",
+    "mcp-server"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "tonhowtf",
+    "url": "https://github.com/tonhowtf"
+  },
+  "source": {
+    "primary": "github",
+    "github": "tonhowtf/omniget",
+    "huggingface": null,
+    "homepage": "https://getomniget.com/"
+  },
+  "license": "GPL-3.0",
+  "metrics": {
+    "stars": 14365,
+    "downloads_30d": null,
+    "last_commit_at": "2026-09-27T03:44:29Z",
+    "first_commit_at": "2026-02-13T02:25:44Z",
+    "forks": 1243,
+    "watchers": 48,
+    "open_issues": 3,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4237,
+  "rank_in_category": 83,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-12T20:40:15.830969Z",
+  "last_refreshed_at": "2026-11-12T20:40:15.830972Z",
+  "consecutive_refresh_failures": 0
+}

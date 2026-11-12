@@ -1,19 +1,19 @@
 {
   "slug": "codewhale",
   "name": "Codewhale",
-  "tagline": "Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome",
+  "tagline": "An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.",
   "category": "coding",
   "tags": [
+    "agent-client-protocol",
     "agent-orchestration",
     "ai-agent",
+    "ai-coding",
     "cli",
-    "codewhale",
     "coding-agent",
+    "deepseek",
     "developer-tools",
-    "local-first",
-    "mcp",
-    "multi-agent",
-    "multi-model"
+    "llm",
+    "local-llm"
   ],
   "author": {
     "type": "org",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 41176,
+    "stars": 41177,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-11T19:57:42Z",
+    "last_commit_at": "2026-11-12T12:19:43Z",
     "first_commit_at": "2026-01-20T14:57:35Z",
     "forks": 3571,
     "watchers": 156,
-    "open_issues": 80,
+    "open_issues": 92,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4828,
+  "composite_score": 0.4825,
   "rank_in_category": 15,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:12:39.730750Z",
-  "last_refreshed_at": "2026-11-11T20:02:05.936437Z",
+  "last_refreshed_at": "2026-11-12T20:40:10.509662Z",
   "consecutive_refresh_failures": 0
 }

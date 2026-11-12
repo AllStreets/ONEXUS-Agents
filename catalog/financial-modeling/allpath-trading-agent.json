@@ -1,0 +1,60 @@
+{
+  "slug": "allpath-trading-agent",
+  "name": "allpath-trading-agent",
+  "tagline": "A personal stock assistant you talk to: it drafts strategies, explains its reasoning, and asks before it trades. Self-hosted LLM agent with a deterministic risk gate, nightly self-review and readable ",
+  "category": "financial-modeling",
+  "tags": [
+    "agent-memory",
+    "ai-agent",
+    "ai-safety",
+    "algorithmic-trading",
+    "alpaca",
+    "fastapi",
+    "htmx",
+    "human-in-the-loop",
+    "investing",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "dukesky",
+    "url": "https://github.com/dukesky"
+  },
+  "source": {
+    "primary": "github",
+    "github": "dukesky/allpath-trading-agent",
+    "huggingface": null,
+    "homepage": "https://trading.all-path.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-10T19:19:10Z",
+    "first_commit_at": "2026-07-31T01:53:03Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3619,
+  "rank_in_category": 121,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-12T21:01:16.165270Z",
+  "last_refreshed_at": "2026-11-12T21:01:16.165273Z",
+  "consecutive_refresh_failures": 0
+}

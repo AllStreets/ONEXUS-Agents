@@ -1,29 +1,29 @@
 {
   "slug": "dailyarxiv",
-  "name": "DailyArxiv",
-  "tagline": "DailyArxiv",
+  "name": "DailyArXiv",
+  "tagline": "Thanks to https://github.com/zezhishao/DailyArXiv.git",
   "category": "scientific-research",
   "tags": [],
   "author": {
     "type": "user",
-    "handle": "Ed1sonChen",
-    "url": "https://github.com/Ed1sonChen"
+    "handle": "jyyang621",
+    "url": "https://github.com/jyyang621"
   },
   "source": {
     "primary": "github",
-    "github": "Ed1sonChen/DailyArxiv",
+    "github": "jyyang621/DailyArXiv",
     "huggingface": null,
     "homepage": null
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 94,
+    "stars": 12,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-29T21:16:37Z",
-    "first_commit_at": "2025-02-03T19:10:21Z",
-    "forks": 6,
-    "watchers": 10,
-    "open_issues": 440,
+    "last_commit_at": "2026-11-11T22:55:56Z",
+    "first_commit_at": "2025-01-21T08:27:27Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 448,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5308,
-  "rank_in_category": 54,
+  "composite_score": 0.4841,
+  "rank_in_category": 79,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-11T20:37:57.686153Z",
-  "last_refreshed_at": "2026-11-11T20:37:57.686157Z",
+  "first_seen_at": "2026-11-12T20:55:28.652674Z",
+  "last_refreshed_at": "2026-11-12T20:55:28.652678Z",
   "consecutive_refresh_failures": 0
 }
