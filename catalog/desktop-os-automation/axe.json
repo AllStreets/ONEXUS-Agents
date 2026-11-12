@@ -1,0 +1,57 @@
+{
+  "slug": "axe",
+  "name": "AXe",
+  "tagline": "AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "automation-framework",
+    "command-line-tool",
+    "idb",
+    "ios",
+    "simulators",
+    "swift",
+    "ui-automation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "cameroncooke",
+    "url": "https://github.com/cameroncooke"
+  },
+  "source": {
+    "primary": "github",
+    "github": "cameroncooke/AXe",
+    "huggingface": null,
+    "homepage": "https://www.axe-cli.com/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 2360,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-12T19:11:36Z",
+    "first_commit_at": "2025-05-29T19:08:02Z",
+    "forks": 113,
+    "watchers": 10,
+    "open_issues": 10,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.437,
+  "rank_in_category": 16,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-12T20:54:32.013055Z",
+  "last_refreshed_at": "2026-11-12T20:54:32.013058Z",
+  "consecutive_refresh_failures": 0
+}

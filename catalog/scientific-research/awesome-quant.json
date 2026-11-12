@@ -1,29 +1,39 @@
 {
   "slug": "awesome-quant",
   "name": "awesome-quant",
-  "tagline": "Awesome list of quantitative research, systematic trading, market microstructure, and ML-for-trading resources.",
+  "tagline": "中国的Quant相关资源索引",
   "category": "scientific-research",
-  "tags": [],
+  "tags": [
+    "china",
+    "cpp",
+    "finance",
+    "machine-learning",
+    "python",
+    "quant",
+    "r",
+    "statistics",
+    "trading"
+  ],
   "author": {
-    "type": "user",
-    "handle": "ernie55ernie",
-    "url": "https://github.com/ernie55ernie"
+    "type": "org",
+    "handle": "thuquant",
+    "url": "https://github.com/thuquant"
   },
   "source": {
     "primary": "github",
-    "github": "ernie55ernie/awesome-quant",
+    "github": "thuquant/awesome-quant",
     "huggingface": null,
     "homepage": null
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 41,
+    "stars": 5722,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-10T09:21:16Z",
-    "first_commit_at": "2026-05-25T13:43:37Z",
-    "forks": 4,
-    "watchers": 0,
-    "open_issues": 1,
+    "last_commit_at": "2026-11-12T01:51:15Z",
+    "first_commit_at": "2016-05-10T14:42:35Z",
+    "forks": 1068,
+    "watchers": 301,
+    "open_issues": 29,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -41,9 +51,9 @@
   "runnable": false,
   "adapter_ref": null,
   "composite_score": 0.0,
-  "rank_in_category": 310,
+  "rank_in_category": 263,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-10T20:42:52.999086Z",
-  "last_refreshed_at": "2026-11-10T20:42:52.999090Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-11-12T21:04:31.160843Z",
+  "last_refreshed_at": "2026-11-12T21:04:31.160846Z",
+  "consecutive_refresh_failures": 0
 }
