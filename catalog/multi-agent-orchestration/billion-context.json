@@ -1,0 +1,49 @@
+{
+  "slug": "billion-context",
+  "name": "billion-context",
+  "tagline": "A context-compression plugin for month-long single sessions (billions of tokens)  and small context windows (a 100K context is enough), billion-context is all you need .",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "ranxianglei",
+    "url": "https://github.com/ranxianglei"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ranxianglei/billion-context",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 7237,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-13T20:23:27Z",
+    "first_commit_at": "2026-08-06T08:26:54Z",
+    "forks": 595,
+    "watchers": 18,
+    "open_issues": 1098,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4276,
+  "rank_in_category": 87,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-22T18:03:09.368926Z",
+  "last_refreshed_at": "2026-11-13T20:30:10.723549Z",
+  "consecutive_refresh_failures": 0
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "pathiel",
+  "name": "pathiel",
+  "tagline": "AI trading agent for Hyperliquid: Claude trades perps through MCP with an exact stop and target on every order, 3x / 1% risk by default, oil and metals desk briefs. Free Claude Code plugin.",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-agent",
+    "ai-trading",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "commodities",
+    "crypto-trading",
+    "hyperliquid",
+    "hyperliquid-api"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Julian-dev28",
+    "url": "https://github.com/Julian-dev28"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Julian-dev28/pathiel",
+    "huggingface": null,
+    "homepage": "https://github.com/Julian-dev28/pathiel#readme"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 36,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-13T20:41:38Z",
+    "first_commit_at": "2026-05-01T10:00:05Z",
+    "forks": 10,
+    "watchers": 2,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5146,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-13T20:45:03.162995Z",
+  "last_refreshed_at": "2026-11-13T20:45:03.162999Z",
+  "consecutive_refresh_failures": 0
+}

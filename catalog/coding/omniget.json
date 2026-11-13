@@ -1,7 +1,7 @@
 {
   "slug": "omniget",
   "name": "omniget",
-  "tagline": "Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l",
+  "tagline": "A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects",
   "category": "coding",
   "tags": [
     "agent-client-protocol",
@@ -28,13 +28,13 @@
   },
   "license": "GPL-3.0",
   "metrics": {
-    "stars": 14365,
+    "stars": 14401,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-27T03:44:29Z",
+    "last_commit_at": "2026-11-13T19:27:37Z",
     "first_commit_at": "2026-02-13T02:25:44Z",
-    "forks": 1243,
+    "forks": 1244,
     "watchers": 48,
-    "open_issues": 3,
+    "open_issues": 4,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4237,
-  "rank_in_category": 83,
+  "composite_score": 0.463,
+  "rank_in_category": 28,
   "discovered_via": "auto",
   "first_seen_at": "2026-11-12T20:40:15.830969Z",
-  "last_refreshed_at": "2026-11-12T20:40:15.830972Z",
+  "last_refreshed_at": "2026-11-13T20:20:59.678119Z",
   "consecutive_refresh_failures": 0
 }

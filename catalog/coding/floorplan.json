@@ -1,0 +1,60 @@
+{
+  "slug": "floorplan",
+  "name": "floorplan",
+  "tagline": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+  "category": "coding",
+  "tags": [
+    "ai-coding",
+    "architecture-diagram",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "codebase-visualization",
+    "codex",
+    "codex-plugin",
+    "developer-tools",
+    "onboarding"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "haydenschmitty",
+    "url": "https://github.com/haydenschmitty"
+  },
+  "source": {
+    "primary": "github",
+    "github": "haydenschmitty/floorplan",
+    "huggingface": null,
+    "homepage": "https://haydenschmitty.github.io/floorplan-demo/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 4108,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-12T13:26:41Z",
+    "first_commit_at": "2026-10-27T11:52:56Z",
+    "forks": 342,
+    "watchers": 13,
+    "open_issues": 73,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3571,
+  "rank_in_category": 230,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-13T20:23:34.597909Z",
+  "last_refreshed_at": "2026-11-13T20:23:34.597913Z",
+  "consecutive_refresh_failures": 0
+}
