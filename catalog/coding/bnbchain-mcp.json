@@ -1,19 +1,17 @@
 {
   "slug": "bnbchain-mcp",
   "name": "bnbchain-mcp",
-  "tagline": "Developer tools for AI crypto agents  🛠️ Build apps with DeFi trading, DEX swaps, smart contract deployment, token operations, staking, bridging, wallet automation, honeypot detection, security analys",
+  "tagline": "MCP server giving AI agents BNB Chain, opBNB and Greenfield tools for chain data, token safety, swaps and storage.",
   "category": "coding",
   "tags": [
-    "ai",
-    "anthropic",
-    "api",
-    "automation",
-    "binance",
-    "blockchain",
-    "bnb",
-    "bnbchain",
-    "bot",
-    "bsc"
+    "bnb-chain",
+    "bsc",
+    "claude-code-plugin",
+    "defi",
+    "evm",
+    "greenfield",
+    "mcp-server",
+    "opbnb"
   ],
   "author": {
     "type": "user",
@@ -30,7 +28,7 @@
   "metrics": {
     "stars": 35,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-10T16:51:36Z",
+    "last_commit_at": "2026-11-11T16:50:44Z",
     "first_commit_at": "2026-01-26T16:27:54Z",
     "forks": 5,
     "watchers": 0,
@@ -47,17 +45,16 @@
     "has_ci": null,
     "readme_length": null,
     "frameworks": [
-      "anthropic-sdk",
       "mcp"
     ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3378,
-  "rank_in_category": 283,
+  "composite_score": 0.3379,
+  "rank_in_category": 285,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T18:08:09.217274Z",
-  "last_refreshed_at": "2026-11-10T20:37:10.129093Z",
-  "consecutive_refresh_failures": 2
+  "last_refreshed_at": "2026-11-13T20:43:25.446658Z",
+  "consecutive_refresh_failures": 0
 }

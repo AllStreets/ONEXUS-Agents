@@ -1,7 +1,7 @@
 {
   "slug": "token-optimizer-mcp",
   "name": "token-optimizer-mcp",
-  "tagline": "Cut AI coding-agent cost ~30% with the same tasks solved (SWE-bench, measured). Hooks, proxy and MCP server for Claude Code, Codex, Copilot, Gemini and 12 more.",
+  "tagline": "91.5% fewer tokens on tool output on Headroom's own benchmark, where Headroom removes 61.4%. Separately, the same SWE-bench tasks resolved at 0.71x the cost of plain Claude Code. Plus memory across se",
   "category": "coding",
   "tags": [
     "ai",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 577,
+    "stars": 579,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-11T19:36:59Z",
+    "last_commit_at": "2026-11-13T18:34:36Z",
     "first_commit_at": "2025-10-11T14:57:17Z",
     "forks": 73,
     "watchers": 3,
-    "open_issues": 4,
+    "open_issues": 8,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4093,
-  "rank_in_category": 106,
+  "composite_score": 0.4104,
+  "rank_in_category": 102,
   "discovered_via": "auto",
   "first_seen_at": "2026-11-11T20:05:41.480613Z",
-  "last_refreshed_at": "2026-11-11T20:05:41.480617Z",
-  "consecutive_refresh_failures": 1
+  "last_refreshed_at": "2026-11-13T20:24:03.573688Z",
+  "consecutive_refresh_failures": 0
 }

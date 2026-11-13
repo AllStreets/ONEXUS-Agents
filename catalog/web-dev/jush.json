@@ -1,0 +1,60 @@
+{
+  "slug": "jush",
+  "name": "jush",
+  "tagline": "Your agent, across all your machines. A self-hosted, web-based AI agent: one server holds every conversation and works in a cloud sandbox or on your Macs, PCs and servers.",
+  "category": "web-dev",
+  "tags": [
+    "agent-harness",
+    "ai-agent",
+    "ai-assistant",
+    "browser-automation",
+    "claude",
+    "codex",
+    "coding-agent",
+    "gvisor",
+    "homelab",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "jush-ai",
+    "url": "https://github.com/jush-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jush-ai/jush",
+    "huggingface": null,
+    "homepage": "https://jush.ai/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 31,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-13T15:11:59Z",
+    "first_commit_at": "2026-06-27T07:50:56Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3873,
+  "rank_in_category": 154,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-13T20:30:50.155641Z",
+  "last_refreshed_at": "2026-11-13T20:30:50.155645Z",
+  "consecutive_refresh_failures": 0
+}

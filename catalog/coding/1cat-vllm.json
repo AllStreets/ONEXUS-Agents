@@ -1,0 +1,49 @@
+{
+  "slug": "1cat-vllm",
+  "name": "1Cat-vLLM",
+  "tagline": "V100 / SM70-focused vLLM engineering fork for modern LLM inference.",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "org",
+    "handle": "1CatAI",
+    "url": "https://github.com/1CatAI"
+  },
+  "source": {
+    "primary": "github",
+    "github": "1CatAI/1Cat-vLLM",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1516,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-13T17:47:22Z",
+    "first_commit_at": "2023-02-09T11:24:15Z",
+    "forks": 287,
+    "watchers": 20,
+    "open_issues": 193,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3947,
+  "rank_in_category": 130,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-13T20:52:51.047615Z",
+  "last_refreshed_at": "2026-11-13T20:52:51.047619Z",
+  "consecutive_refresh_failures": 0
+}
