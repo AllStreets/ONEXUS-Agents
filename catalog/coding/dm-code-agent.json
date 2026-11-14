@@ -1,19 +1,19 @@
 {
   "slug": "dm-code-agent",
   "name": "DM-Code-Agent",
-  "tagline": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by the official harness -- every number reproducible, negative results included.",
+  "tagline": "An inspectable coding agent. Trace changes, diagnose failed runs, and share test evidence. Local-first Python, no-key demo, standalone HTML reports.",
   "category": "coding",
   "tags": [
     "agent",
     "agent-evaluation",
     "agent-skills",
+    "ai-agents",
     "code-agent",
+    "code-review",
+    "developer-tools",
     "llm",
     "llm-agent",
-    "mcp",
-    "rag",
-    "react-agent",
-    "reflexion-agent"
+    "mcp"
   ],
   "author": {
     "type": "user",
@@ -24,13 +24,13 @@
     "primary": "github",
     "github": "hwfengcs/DM-Code-Agent",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://hwfengcs.github.io/DM-Code-Agent/"
   },
   "license": "MIT",
   "metrics": {
     "stars": 152,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-13T15:29:50Z",
+    "last_commit_at": "2026-11-14T08:29:13Z",
     "first_commit_at": "2025-09-30T04:07:59Z",
     "forks": 15,
     "watchers": 0,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3863,
-  "rank_in_category": 148,
+  "composite_score": 0.3861,
+  "rank_in_category": 150,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-07T15:30:40.628029Z",
-  "last_refreshed_at": "2026-11-13T20:22:20.669640Z",
+  "last_refreshed_at": "2026-11-14T18:40:59.461680Z",
   "consecutive_refresh_failures": 0
 }

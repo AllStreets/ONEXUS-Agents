@@ -1,8 +1,8 @@
 {
-  "slug": "next-ocr-q4-0-gguf",
-  "name": "next-ocr-Q4_0-GGUF",
-  "tagline": "Lamapi/next-ocr-Q4_0-GGUF — image-text-to-text",
-  "category": "music",
+  "slug": "next-ocr-iq3-m-gguf",
+  "name": "next-ocr-IQ3_M-GGUF",
+  "tagline": "Lamapi/next-ocr-IQ3_M-GGUF — image-text-to-text",
+  "category": "financial-modeling",
   "tags": [
     "transformers",
     "gguf",
@@ -23,15 +23,15 @@
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "Lamapi/next-ocr-Q4_0-GGUF",
+    "huggingface": "Lamapi/next-ocr-IQ3_M-GGUF",
     "homepage": null
   },
   "license": "apache-2.0",
   "metrics": {
     "stars": 1,
-    "downloads_30d": 46,
-    "last_commit_at": "2025-11-13T14:12:19Z",
-    "first_commit_at": "2025-11-13T14:11:57Z",
+    "downloads_30d": 55,
+    "last_commit_at": "2025-11-13T15:29:05Z",
+    "first_commit_at": "2025-11-13T15:28:44Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3528,
-  "rank_in_category": 50,
+  "composite_score": 0.2929,
+  "rank_in_category": 198,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-07T19:47:22.687022Z",
-  "last_refreshed_at": "2026-10-18T16:59:02.238537Z",
-  "consecutive_refresh_failures": 27
+  "first_seen_at": "2026-11-14T19:02:30.986063Z",
+  "last_refreshed_at": "2026-11-14T19:02:30.986065Z",
+  "consecutive_refresh_failures": 0
 }
