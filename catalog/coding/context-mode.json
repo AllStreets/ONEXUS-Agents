@@ -1,7 +1,7 @@
 {
   "slug": "context-mode",
   "name": "context-mode",
-  "tagline": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI",
+  "tagline": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin",
   "category": "coding",
   "tags": [
     "antigravity",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 34048,
+    "stars": 34086,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-13T20:09:59Z",
+    "last_commit_at": "2026-11-14T15:54:14Z",
     "first_commit_at": "2026-02-23T06:03:12Z",
-    "forks": 2338,
-    "watchers": 109,
-    "open_issues": 9,
+    "forks": 2342,
+    "watchers": 108,
+    "open_issues": 4,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -57,6 +57,6 @@
   "rank_in_category": 17,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:15:13.427070Z",
-  "last_refreshed_at": "2026-11-13T20:23:49.243700Z",
+  "last_refreshed_at": "2026-11-14T18:42:12.361849Z",
   "consecutive_refresh_failures": 0
 }

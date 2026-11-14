@@ -1,0 +1,60 @@
+{
+  "slug": "qwen3-8-flash-reasoning-nvfp4-one-spark",
+  "name": "Qwen3.8-Flash-Reasoning-NVFP4-One-Spark",
+  "tagline": "elisepaul/Qwen3.8-Flash-Reasoning-NVFP4-One-Spark — text-generation",
+  "category": "coding",
+  "tags": [
+    "vllm",
+    "safetensors",
+    "qwen4_exp",
+    "dgx",
+    "spark",
+    "dgx-spark",
+    "one-spark",
+    "single-node",
+    "gb10",
+    "blackwell"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "elisepaul",
+    "url": "https://huggingface.co/elisepaul"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "elisepaul/Qwen3.8-Flash-Reasoning-NVFP4-One-Spark",
+    "homepage": null
+  },
+  "license": "other",
+  "metrics": {
+    "stars": 1,
+    "downloads_30d": 157,
+    "last_commit_at": "2026-11-14T16:56:15Z",
+    "first_commit_at": "2026-11-11T12:22:03Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "vllm",
+    "pipeline_tag": "text-generation",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2688,
+  "rank_in_category": 463,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-14T18:47:29.495434Z",
+  "last_refreshed_at": "2026-11-14T18:47:29.495436Z",
+  "consecutive_refresh_failures": 0
+}
