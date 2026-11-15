@@ -40,13 +40,15 @@
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": null,
-    "releases_total": null,
+    "contributors_count": 2,
+    "releases_total": 0,
     "latest_release_at": null,
-    "commits_90d": null,
-    "has_ci": null,
-    "readme_length": null,
-    "frameworks": []
+    "commits_90d": 1,
+    "has_ci": false,
+    "readme_length": 468700,
+    "frameworks": [
+      "llamaindex"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
@@ -55,6 +57,6 @@
   "rank_in_category": 107,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:47:06.119805Z",
-  "last_refreshed_at": "2026-10-20T04:47:06.119809Z",
+  "last_refreshed_at": "2026-11-15T21:53:16.552081Z",
   "consecutive_refresh_failures": 27
 }
