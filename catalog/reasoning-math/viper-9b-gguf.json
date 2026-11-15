@@ -1,60 +1,62 @@
 {
   "slug": "viper-9b-gguf",
   "name": "Viper-9B-GGUF",
-  "tagline": "rrchat/Viper-9B-GGUF — image-text-to-text",
+  "tagline": "mradermacher/Viper-9B-GGUF — None",
   "category": "reasoning-math",
   "tags": [
+    "transformers",
     "gguf",
-    "qwen3_5_text",
     "qwen3.5",
     "qwen",
     "rrchat",
     "viper",
-    "llama.cpp",
     "reasoning",
     "math",
-    "code"
+    "code",
+    "agent"
   ],
   "author": {
     "type": "org",
-    "handle": "rrchat",
-    "url": "https://huggingface.co/rrchat"
+    "handle": "mradermacher",
+    "url": "https://huggingface.co/mradermacher"
   },
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "rrchat/Viper-9B-GGUF",
+    "huggingface": "mradermacher/Viper-9B-GGUF",
     "homepage": null
   },
   "license": "other",
   "metrics": {
-    "stars": 1,
-    "downloads_30d": 887,
-    "last_commit_at": "2026-11-02T17:01:11Z",
-    "first_commit_at": "2026-11-02T16:34:46Z",
+    "stars": 0,
+    "downloads_30d": 1138,
+    "last_commit_at": "2026-11-04T20:50:00Z",
+    "first_commit_at": "2026-11-03T15:55:02Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
     "archived": null,
     "is_fork": null,
     "is_template": null,
-    "library_name": null,
-    "pipeline_tag": "image-text-to-text",
+    "library_name": "transformers",
+    "pipeline_tag": null,
     "contributors_count": null,
     "releases_total": null,
     "latest_release_at": null,
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "transformers"
+    ]
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.303,
-  "rank_in_category": 42,
+  "composite_score": 0.3224,
+  "rank_in_category": 8,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-03T20:35:02.148313Z",
-  "last_refreshed_at": "2026-11-14T19:07:00.562550Z",
+  "first_seen_at": "2026-11-15T19:43:14.301743Z",
+  "last_refreshed_at": "2026-11-15T19:43:14.301745Z",
   "consecutive_refresh_failures": 0
 }
