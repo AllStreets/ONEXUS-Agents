@@ -4,11 +4,16 @@
   "tagline": "A framework for building agentic apps",
   "category": "web-dev",
   "tags": [
+    "agent-framework",
     "agent-native",
+    "agentic-ai",
     "agents",
     "ai",
-    "react",
-    "typescript"
+    "ai-agents",
+    "framework",
+    "generative-ui",
+    "mcp",
+    "open-source"
   ],
   "author": {
     "type": "org",
@@ -23,33 +28,35 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 7607,
+    "stars": 7710,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-04T20:31:05Z",
+    "last_commit_at": "2026-11-16T22:58:56Z",
     "first_commit_at": "2026-03-12T14:31:41Z",
-    "forks": 698,
+    "forks": 710,
     "watchers": 19,
-    "open_issues": 218,
+    "open_issues": 284,
     "archived": false,
     "is_fork": false,
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 100,
-    "releases_total": 3368,
-    "latest_release_at": "2026-11-15T04:05:36Z",
-    "commits_90d": 4793,
-    "has_ci": true,
-    "readme_length": 11641,
-    "frameworks": []
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.5798,
-  "rank_in_category": 37,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6695,
+  "rank_in_category": 15,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:27:28.124220Z",
-  "last_refreshed_at": "2026-11-15T21:56:35.680102Z",
-  "consecutive_refresh_failures": 11
+  "last_refreshed_at": "2026-11-16T22:59:29.903022Z",
+  "consecutive_refresh_failures": 0
 }

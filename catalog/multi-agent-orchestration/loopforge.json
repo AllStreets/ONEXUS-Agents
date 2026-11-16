@@ -1,0 +1,62 @@
+{
+  "slug": "loopforge",
+  "name": "LoopForge",
+  "tagline": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+  "category": "multi-agent-orchestration",
+  "tags": [
+    "agent-orchestration",
+    "agentic-workflow",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "code-review",
+    "codebuddy",
+    "codex",
+    "coding-agents",
+    "cursor"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Tencent",
+    "url": "https://github.com/Tencent"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Tencent/LoopForge",
+    "huggingface": null,
+    "homepage": "https://loopforge.cn/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 2313,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-16T19:25:46Z",
+    "first_commit_at": "2026-07-28T03:51:02Z",
+    "forks": 357,
+    "watchers": 10,
+    "open_issues": 152,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.471,
+  "rank_in_category": 31,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-15T19:19:33.394736Z",
+  "last_refreshed_at": "2026-11-16T22:49:51.860799Z",
+  "consecutive_refresh_failures": 0
+}
