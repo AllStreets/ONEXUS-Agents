@@ -1,7 +1,7 @@
 {
   "slug": "qwen3-5-2b-uncensored-zero-refusal-gguf",
   "name": "Qwen3.5-2B-Uncensored-Zero-Refusal-GGUF",
-  "tagline": "AkaumiKaede/Qwen3.5-2B-Uncensored-Zero-Refusal-GGUF — text-generation",
+  "tagline": "AkiMizuki/Qwen3.5-2B-Uncensored-Zero-Refusal-GGUF — text-generation",
   "category": "content-writing",
   "tags": [
     "transformers",
@@ -17,19 +17,19 @@
   ],
   "author": {
     "type": "org",
-    "handle": "AkaumiKaede",
-    "url": "https://huggingface.co/AkaumiKaede"
+    "handle": "AkiMizuki",
+    "url": "https://huggingface.co/AkiMizuki"
   },
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "AkaumiKaede/Qwen3.5-2B-Uncensored-Zero-Refusal-GGUF",
+    "huggingface": "AkiMizuki/Qwen3.5-2B-Uncensored-Zero-Refusal-GGUF",
     "homepage": null
   },
   "license": "apache-2.0",
   "metrics": {
     "stars": 1,
-    "downloads_30d": 1257,
+    "downloads_30d": 1096,
     "last_commit_at": "2026-10-17T14:12:40Z",
     "first_commit_at": "2026-10-05T13:04:26Z",
     "forks": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.485,
-  "rank_in_category": 15,
+  "composite_score": 0.4837,
+  "rank_in_category": 14,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-17T16:21:53.963408Z",
-  "last_refreshed_at": "2026-11-15T19:42:32.062216Z",
+  "first_seen_at": "2026-11-16T23:14:48.472881Z",
+  "last_refreshed_at": "2026-11-16T23:14:48.472885Z",
   "consecutive_refresh_failures": 0
 }

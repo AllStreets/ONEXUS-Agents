@@ -1,7 +1,7 @@
 {
   "slug": "arthurlegal",
   "name": "ArthurLegal",
-  "tagline": "⬇ Windows & Mac installer · kurulum · quraşdırma: link below (.exe · .pkg, always the latest). Legal AI for Claude in TR · AZ · EN: ArthurLegal Masası (desk · masa), packages, ArthurLegal MCP, ArthurT",
+  "tagline": "⬇ Windows & Mac installer · kurulum · quraşdırma: link below (.exe · .pkg, latest). Legal AI for Claude (ChatGPT in progress) in TR · AZ · EN: ArthurLegal Masası (desk · masa), packages, ArthurLegal M",
   "category": "legal-research",
   "tags": [
     "claude",
@@ -24,13 +24,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 21,
+    "stars": 22,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-15T13:18:39Z",
+    "last_commit_at": "2026-11-16T23:02:12Z",
     "first_commit_at": "2026-05-17T08:37:51Z",
     "forks": 5,
     "watchers": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -49,10 +49,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3572,
+  "composite_score": 0.3582,
   "rank_in_category": 21,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:39:59.238251Z",
-  "last_refreshed_at": "2026-11-15T19:39:30.576356Z",
+  "last_refreshed_at": "2026-11-16T23:11:25.702128Z",
   "consecutive_refresh_failures": 0
 }
