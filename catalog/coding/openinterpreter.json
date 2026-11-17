@@ -1,7 +1,7 @@
 {
   "slug": "openinterpreter",
   "name": "openinterpreter",
-  "tagline": "A coding agent for open models like Kimi K3 and GLM 5.3",
+  "tagline": "A coding agent for open models like Kimi K3.1 and GLM 5.3",
   "category": "coding",
   "tags": [
     "acp",
@@ -25,7 +25,7 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 68895,
+    "stars": 68898,
     "downloads_30d": null,
     "last_commit_at": "2026-11-15T22:46:33Z",
     "first_commit_at": "2025-04-16T16:56:08Z",
@@ -48,10 +48,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4452,
-  "rank_in_category": 50,
+  "composite_score": 0.4443,
+  "rank_in_category": 54,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-11T16:55:31.114539Z",
-  "last_refreshed_at": "2026-11-16T22:45:30.586391Z",
+  "last_refreshed_at": "2026-11-17T21:31:37.652083Z",
   "consecutive_refresh_failures": 0
 }

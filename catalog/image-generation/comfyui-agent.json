@@ -1,28 +1,28 @@
 {
   "slug": "comfyui-agent",
-  "name": "comfyui-agent",
-  "tagline": "comfyui-agent",
+  "name": "ComfyUI-Agent",
+  "tagline": "The different version of comfy agent on cloud.comfy.org",
   "category": "image-generation",
   "tags": [],
   "author": {
     "type": "user",
-    "handle": "apppps",
-    "url": "https://github.com/apppps"
+    "handle": "CrazyDashTool",
+    "url": "https://github.com/CrazyDashTool"
   },
   "source": {
     "primary": "github",
-    "github": "apppps/comfyui-agent",
+    "github": "CrazyDashTool/ComfyUI-Agent",
     "huggingface": null,
     "homepage": null
   },
-  "license": "GPL-3.0",
+  "license": "Apache-2.0",
   "metrics": {
-    "stars": 64,
+    "stars": 13,
     "downloads_30d": null,
-    "last_commit_at": "2025-04-15T19:11:24Z",
-    "first_commit_at": "2023-01-17T03:37:14Z",
-    "forks": 11,
-    "watchers": 1,
+    "last_commit_at": "2026-11-09T13:29:33Z",
+    "first_commit_at": "2026-10-29T10:42:35Z",
+    "forks": 2,
+    "watchers": 0,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1946,
-  "rank_in_category": 139,
+  "composite_score": 0.2349,
+  "rank_in_category": 109,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-25T14:28:13.149254Z",
-  "last_refreshed_at": "2026-11-11T20:57:16.545121Z",
-  "consecutive_refresh_failures": 5
+  "first_seen_at": "2026-11-09T23:08:56.722763Z",
+  "last_refreshed_at": "2026-11-17T21:47:20.068743Z",
+  "consecutive_refresh_failures": 0
 }

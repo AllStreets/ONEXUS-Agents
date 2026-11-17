@@ -28,12 +28,12 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 177535,
+    "stars": 177755,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-15T07:04:27Z",
+    "last_commit_at": "2026-11-17T03:12:36Z",
     "first_commit_at": "2022-12-05T13:54:13Z",
-    "forks": 22636,
-    "watchers": 1678,
+    "forks": 22668,
+    "watchers": 1677,
     "open_issues": 90,
     "archived": false,
     "is_fork": false,
@@ -49,12 +49,12 @@
     "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.8163,
-  "rank_in_category": 1,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.7804,
+  "rank_in_category": 2,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-15T19:18:20.270610Z",
-  "last_refreshed_at": "2026-11-15T21:45:29.094498Z",
-  "consecutive_refresh_failures": 1
+  "first_seen_at": "2026-11-17T21:35:23.659605Z",
+  "last_refreshed_at": "2026-11-17T21:35:23.659610Z",
+  "consecutive_refresh_failures": 0
 }

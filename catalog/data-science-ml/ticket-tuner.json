@@ -1,24 +1,23 @@
 {
   "slug": "ticket-tuner",
   "name": "ticket-tuner",
-  "tagline": "[Data Science & Machine Learning] Adapt a small model for support routing. Actual FLAN-T5-small support-ticket fine-tuning; Template-family splits and checkpoint selection.",
+  "tagline": "Adapt a small model for support routing. Fine-tuning, grouped splits, baseline, saved model, inference.",
   "category": "data-science-ml",
   "tags": [
-    "ai-assisted",
-    "data-science",
     "data-science-ml",
-    "documented-project",
-    "machine-learning",
-    "portfolio"
+    "documented-demo",
+    "portfolio-project",
+    "python",
+    "pytorch"
   ],
   "author": {
     "type": "user",
-    "handle": "abhijith-abhii",
-    "url": "https://github.com/abhijith-abhii"
+    "handle": "madhurag123",
+    "url": "https://github.com/madhurag123"
   },
   "source": {
     "primary": "github",
-    "github": "abhijith-abhii/ticket-tuner",
+    "github": "madhurag123/ticket-tuner",
     "huggingface": null,
     "homepage": null
   },
@@ -26,7 +25,7 @@
   "metrics": {
     "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-18T11:26:53Z",
+    "last_commit_at": "2026-11-03T04:50:25Z",
     "first_commit_at": "2026-09-28T11:36:05Z",
     "forks": 0,
     "watchers": 0,
@@ -47,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.182,
-  "rank_in_category": 139,
+  "composite_score": 0.1945,
+  "rank_in_category": 124,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-12T20:57:39.821869Z",
-  "last_refreshed_at": "2026-11-16T23:02:57.743131Z",
+  "first_seen_at": "2026-11-17T21:51:27.758668Z",
+  "last_refreshed_at": "2026-11-17T21:51:27.758672Z",
   "consecutive_refresh_failures": 0
 }
