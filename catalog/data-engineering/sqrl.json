@@ -4,13 +4,16 @@
   "tagline": "Harness for building data engineering agents designed around human control, correctness, and safety.",
   "category": "data-engineering",
   "tags": [
+    "agentic-data-engineering",
+    "ai-agents",
+    "apache-flink",
     "api",
     "data-engineering",
     "data-pipeline",
     "event-driven",
     "harness",
     "harness-framework",
-    "streaming"
+    "iceberg"
   ],
   "author": {
     "type": "org",
@@ -27,11 +30,11 @@
   "metrics": {
     "stars": 236,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-16T20:20:04Z",
+    "last_commit_at": "2026-11-17T19:51:59Z",
     "first_commit_at": "2021-07-17T04:16:01Z",
     "forks": 32,
     "watchers": 5,
-    "open_issues": 62,
+    "open_issues": 63,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -43,15 +46,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
-  "runnable": false,
-  "adapter_ref": null,
-  "composite_score": 0.6051,
-  "rank_in_category": 41,
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.6781,
+  "rank_in_category": 33,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:28:12.950521Z",
-  "last_refreshed_at": "2026-11-16T23:00:15.926468Z",
+  "last_refreshed_at": "2026-11-17T21:48:25.259834Z",
   "consecutive_refresh_failures": 0
 }

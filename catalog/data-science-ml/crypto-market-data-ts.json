@@ -1,19 +1,17 @@
 {
   "slug": "crypto-market-data-ts",
   "name": "crypto-market-data-ts",
-  "tagline": "Comprehensive cryptocurrency market data service with CoinGecko, DeFiLlama, and Fear & Greed Index. Built-in caching, rate limiting, and Edge Runtime compatibility.",
+  "tagline": "TypeScript client for CoinGecko, DeFiLlama and Fear and Greed data with caching, rate limiting and Edge Runtime support.",
   "category": "data-science-ml",
   "tags": [
-    "agents-md",
-    "ai-agents",
-    "api-client",
+    "claude-code-plugin",
     "coingecko",
     "cryptocurrency",
-    "defi-llama",
+    "defillama",
     "edge-runtime",
     "fear-and-greed-index",
-    "llms-txt",
-    "market-data"
+    "market-data",
+    "typescript"
   ],
   "author": {
     "type": "user",
@@ -30,7 +28,7 @@
   "metrics": {
     "stars": 25,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-31T23:43:00Z",
+    "last_commit_at": "2026-11-11T15:14:36Z",
     "first_commit_at": "2026-01-22T06:32:18Z",
     "forks": 2,
     "watchers": 0,
@@ -51,10 +49,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3047,
-  "rank_in_category": 42,
+  "composite_score": 0.3137,
+  "rank_in_category": 38,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:33:17.530680Z",
-  "last_refreshed_at": "2026-11-10T20:37:18.806063Z",
-  "consecutive_refresh_failures": 6
+  "last_refreshed_at": "2026-11-17T21:53:54.684221Z",
+  "consecutive_refresh_failures": 0
 }

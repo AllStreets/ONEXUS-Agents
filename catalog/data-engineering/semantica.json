@@ -1,7 +1,7 @@
 {
   "slug": "semantica",
   "name": "semantica",
-  "tagline": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+  "tagline": "Graph-Native Semantic Layer for Trustworthy Enterprise AI ",
   "category": "data-engineering",
   "tags": [
     "agent-memory",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 14626,
+    "stars": 14639,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-16T10:21:43Z",
+    "last_commit_at": "2026-11-17T18:35:14Z",
     "first_commit_at": "2025-06-25T10:41:00Z",
-    "forks": 1732,
+    "forks": 1737,
     "watchers": 64,
-    "open_issues": 133,
+    "open_issues": 135,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.7723,
+  "composite_score": 0.773,
   "rank_in_category": 5,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-11T14:37:19.404851Z",
-  "last_refreshed_at": "2026-11-16T22:59:57.553996Z",
+  "last_refreshed_at": "2026-11-17T21:48:03.413679Z",
   "consecutive_refresh_failures": 0
 }
