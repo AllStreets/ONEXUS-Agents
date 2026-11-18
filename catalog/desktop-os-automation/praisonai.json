@@ -1,0 +1,60 @@
+{
+  "slug": "praisonai",
+  "name": "PraisonAI",
+  "tagline": "Private AI agents for highly regulated teams, and for anyone who wants AI on their own computer. Open-source Python agent framework that runs fully offline.",
+  "category": "desktop-os-automation",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agent-framework",
+    "ai-agent-sdk",
+    "ai-agents",
+    "ai-agents-sdk",
+    "aiagents",
+    "air-gapped",
+    "framework",
+    "llm"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "MervinPraison",
+    "url": "https://github.com/MervinPraison"
+  },
+  "source": {
+    "primary": "github",
+    "github": "MervinPraison/PraisonAI",
+    "huggingface": null,
+    "homepage": "https://praison.ai/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 9342,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-18T19:40:26Z",
+    "first_commit_at": "2024-03-19T17:52:15Z",
+    "forks": 1511,
+    "watchers": 70,
+    "open_issues": 102,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4847,
+  "rank_in_category": 5,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-18T21:22:20.358788Z",
+  "last_refreshed_at": "2026-11-18T21:22:20.358792Z",
+  "consecutive_refresh_failures": 0
+}

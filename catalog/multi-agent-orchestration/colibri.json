@@ -1,0 +1,49 @@
+{
+  "slug": "colibri",
+  "name": "colibri",
+  "tagline": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+  "category": "multi-agent-orchestration",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "JustVugg",
+    "url": "https://github.com/JustVugg"
+  },
+  "source": {
+    "primary": "github",
+    "github": "JustVugg/colibri",
+    "huggingface": null,
+    "homepage": "https://justvugg.github.io/colibri"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 51925,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-18T02:52:40Z",
+    "first_commit_at": "2026-07-01T12:27:49Z",
+    "forks": 6285,
+    "watchers": 413,
+    "open_issues": 174,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4693,
+  "rank_in_category": 33,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-28T18:46:53.379513Z",
+  "last_refreshed_at": "2026-11-18T21:12:27.909838Z",
+  "consecutive_refresh_failures": 0
+}
