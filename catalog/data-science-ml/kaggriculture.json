@@ -1,11 +1,12 @@
 {
   "slug": "kaggriculture",
   "name": "kaggriculture",
-  "tagline": "A top model in the Kaggle competition",
+  "tagline": "A ML top solution in the Kaggle competition",
   "category": "data-science-ml",
   "tags": [
     "kaggle",
     "kaggle-competition",
+    "machine-learning",
     "rust"
   ],
   "author": {
@@ -44,10 +45,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2035,
-  "rank_in_category": 107,
+  "composite_score": 0.2029,
+  "rank_in_category": 108,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-22T18:17:53.765790Z",
-  "last_refreshed_at": "2026-11-17T21:55:03.943598Z",
+  "last_refreshed_at": "2026-11-18T21:29:24.495465Z",
   "consecutive_refresh_failures": 0
 }

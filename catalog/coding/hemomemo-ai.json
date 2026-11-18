@@ -1,7 +1,7 @@
 {
   "slug": "hemomemo-ai",
   "name": "hemomemo-ai",
-  "tagline": "Hemomemo AI - 100% local offline AI with its OWN brain (pure-NumPy 2-layer LSTM, 7M params). NOT an LLM app, NO external model, NO AI-API, NO cloud. Three works: Text chat, Coding AI, and a Game-Agent",
+  "tagline": "Hemomemo AI - 100% local offline AI with its OWN brain (pure-NumPy 2-layer LSTM, 50M params). NOT an LLM app, NO external model, NO AI-API, NO cloud. Three works: Text chat, Coding AI, and a Game-Agen",
   "category": "coding",
   "tags": [
     "coding-ai",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 1,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-17T16:37:58Z",
+    "last_commit_at": "2026-11-18T18:11:49Z",
     "first_commit_at": "2026-11-05T15:39:05Z",
     "forks": 0,
     "watchers": 0,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2056,
-  "rank_in_category": 502,
+  "composite_score": 0.2058,
+  "rank_in_category": 501,
   "discovered_via": "auto",
   "first_seen_at": "2026-11-07T18:00:00.701870Z",
-  "last_refreshed_at": "2026-11-17T21:33:53.558605Z",
+  "last_refreshed_at": "2026-11-18T21:08:59.116549Z",
   "consecutive_refresh_failures": 0
 }

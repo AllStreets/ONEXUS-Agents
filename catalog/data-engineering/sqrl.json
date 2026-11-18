@@ -1,7 +1,7 @@
 {
   "slug": "sqrl",
   "name": "sqrl",
-  "tagline": "Harness for building data engineering agents designed around human control, correctness, and safety.",
+  "tagline": "Agentic data engineering for operational data: real-time pipelines, data APIs, and data products on Kafka, Flink, Postgres, and Iceberg.",
   "category": "data-engineering",
   "tags": [
     "agentic-data-engineering",
@@ -28,9 +28,9 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 236,
+    "stars": 237,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-17T19:51:59Z",
+    "last_commit_at": "2026-11-18T21:03:00Z",
     "first_commit_at": "2021-07-17T04:16:01Z",
     "forks": 32,
     "watchers": 5,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.6781,
+  "composite_score": 0.6783,
   "rank_in_category": 33,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:28:12.950521Z",
-  "last_refreshed_at": "2026-11-17T21:48:25.259834Z",
+  "last_refreshed_at": "2026-11-18T21:23:22.418720Z",
   "consecutive_refresh_failures": 0
 }

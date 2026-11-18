@@ -1,0 +1,62 @@
+{
+  "slug": "lumina-invest",
+  "name": "lumina-invest",
+  "tagline": "Financial AI agents for quant signals, paper trading, and RAG search · 퀀트 자동매매·Qdrant RAG 풀스택 플랫폼",
+  "category": "financial-modeling",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "ai-agents",
+    "backtesting",
+    "docker",
+    "fastapi",
+    "financial-ai",
+    "langchain",
+    "langgraph",
+    "ollama"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "edumgt",
+    "url": "https://github.com/edumgt"
+  },
+  "source": {
+    "primary": "github",
+    "github": "edumgt/lumina-invest",
+    "huggingface": null,
+    "homepage": "https://fd.edumgt.co.kr/"
+  },
+  "license": "Unknown",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": null,
+    "last_commit_at": "2026-10-27T01:04:33Z",
+    "first_commit_at": "2026-02-18T05:50:11Z",
+    "forks": 4,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3588,
+  "rank_in_category": 113,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-18T21:30:18.051953Z",
+  "last_refreshed_at": "2026-11-18T21:30:18.051957Z",
+  "consecutive_refresh_failures": 0
+}

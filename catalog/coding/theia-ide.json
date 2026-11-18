@@ -1,0 +1,62 @@
+{
+  "slug": "theia-ide",
+  "name": "theia-ide",
+  "tagline": "The Theia IDE: an open-source, AI-native IDE for desktop and browser, built on the Theia Platform and Theia AI. Bring your own key for any LLM, with MCP, Agent Skills, Claude Code and GitHub Copilot s",
+  "category": "coding",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "ai-coding-assistant",
+    "ai-ide",
+    "ai-native",
+    "byok",
+    "claude-code",
+    "coding-agent",
+    "electron",
+    "github-copilot"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "eclipse-theia",
+    "url": "https://github.com/eclipse-theia"
+  },
+  "source": {
+    "primary": "github",
+    "github": "eclipse-theia/theia-ide",
+    "huggingface": null,
+    "homepage": "https://theia-ide.org/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 620,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-18T02:18:45Z",
+    "first_commit_at": "2020-06-15T12:45:59Z",
+    "forks": 260,
+    "watchers": 17,
+    "open_issues": 118,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4483,
+  "rank_in_category": 47,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-18T21:08:00.985628Z",
+  "last_refreshed_at": "2026-11-18T21:08:00.985632Z",
+  "consecutive_refresh_failures": 0
+}

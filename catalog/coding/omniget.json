@@ -13,7 +13,7 @@
     "gallery-dl",
     "instagram-downloader",
     "local-llm",
-    "mcp-server"
+    "mcp"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "GPL-3.0",
   "metrics": {
-    "stars": 14484,
+    "stars": 14499,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-13T20:37:43Z",
+    "last_commit_at": "2026-11-18T21:04:40Z",
     "first_commit_at": "2026-02-13T02:25:44Z",
     "forks": 1250,
     "watchers": 48,
-    "open_issues": 4,
+    "open_issues": 10,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4594,
-  "rank_in_category": 31,
+  "composite_score": 0.4634,
+  "rank_in_category": 29,
   "discovered_via": "auto",
   "first_seen_at": "2026-11-12T20:40:15.830969Z",
-  "last_refreshed_at": "2026-11-17T21:31:45.498798Z",
+  "last_refreshed_at": "2026-11-18T21:06:57.234974Z",
   "consecutive_refresh_failures": 0
 }
