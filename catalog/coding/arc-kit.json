@@ -1,7 +1,7 @@
 {
   "slug": "arc-kit",
   "name": "arc-kit",
-  "tagline": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants",
+  "tagline": "Enterprise architecture governance for Claude Code and other AI coding assistants. 76 commands draft requirements, business cases and design reviews.",
   "category": "coding",
   "tags": [
     "ai-agents",
@@ -10,10 +10,10 @@
     "architecture-governance",
     "arckit",
     "claude-code",
+    "claude-code-plugin",
     "codex-cli",
     "compliance",
-    "enterprise-architecture",
-    "gemini-cli"
+    "enterprise-architecture"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 2287,
+    "stars": 2288,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-18T19:06:08Z",
+    "last_commit_at": "2026-11-19T18:06:01Z",
     "first_commit_at": "2025-10-14T10:10:03Z",
     "forks": 287,
-    "watchers": 14,
-    "open_issues": 10,
+    "watchers": 13,
+    "open_issues": 12,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4418,
+  "composite_score": 0.4419,
   "rank_in_category": 61,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:47:19.059757Z",
-  "last_refreshed_at": "2026-11-18T21:11:43.114679Z",
+  "last_refreshed_at": "2026-11-19T21:16:05.789866Z",
   "consecutive_refresh_failures": 0
 }

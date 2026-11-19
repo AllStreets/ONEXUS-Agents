@@ -1,0 +1,62 @@
+{
+  "slug": "risk-aware-trading-agents",
+  "name": "risk-aware-trading-agents",
+  "tagline": "AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent leaderboard (rta-bench-1), frozen point-in-time 2020/2022/2026 markets (prices, VIX, news), ",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-trading",
+    "algorithmic-trading",
+    "alpaca",
+    "backtesting",
+    "financial-news",
+    "interactive-brokers",
+    "llm",
+    "llm-agents",
+    "llm-benchmark",
+    "llm-evaluation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "jackson-cmd",
+    "url": "https://github.com/jackson-cmd"
+  },
+  "source": {
+    "primary": "github",
+    "github": "jackson-cmd/risk-aware-trading-agents",
+    "huggingface": null,
+    "homepage": "https://jackson-cmd.github.io/risk-aware-trading-agents/"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 286,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-17T17:24:58Z",
+    "first_commit_at": "2026-11-12T02:24:38Z",
+    "forks": 71,
+    "watchers": 36,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5682,
+  "rank_in_category": 18,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-19T21:36:07.361376Z",
+  "last_refreshed_at": "2026-11-19T21:36:07.361380Z",
+  "consecutive_refresh_failures": 0
+}

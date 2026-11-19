@@ -6,7 +6,9 @@
   "tags": [
     "ai-agent",
     "ai-infra",
-    "cuda"
+    "cuda",
+    "sglang",
+    "vllm"
   ],
   "author": {
     "type": "org",
@@ -21,33 +23,33 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 3307,
+    "stars": 3502,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-04T10:29:56Z",
+    "last_commit_at": "2026-11-19T06:16:08Z",
     "first_commit_at": "2024-09-23T06:02:32Z",
-    "forks": 507,
-    "watchers": 42,
+    "forks": 531,
+    "watchers": 44,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 9,
-    "releases_total": 3,
-    "latest_release_at": "2026-09-29T12:06:59Z",
-    "commits_90d": 180,
-    "has_ci": false,
-    "readme_length": 59930,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
     "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.5598,
+  "composite_score": 0.5688,
   "rank_in_category": 7,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T18:00:30.883852Z",
-  "last_refreshed_at": "2026-11-15T21:56:34.013755Z",
-  "consecutive_refresh_failures": 14
+  "last_refreshed_at": "2026-11-19T21:24:19.041507Z",
+  "consecutive_refresh_failures": 0
 }
