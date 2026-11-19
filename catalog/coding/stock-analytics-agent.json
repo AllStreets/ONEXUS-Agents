@@ -1,0 +1,51 @@
+{
+  "slug": "stock-analytics-agent",
+  "name": "stock-analytics-agent",
+  "tagline": "LLM-powered investment analysis agent for A-shares, HK/US stocks, ETFs and funds. One skill pack, two runtimes: a hosted IDE agent (declarative) or a self-hosted LangChain.js CLI agent (imperative).  ",
+  "category": "coding",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "belos-street",
+    "url": "https://github.com/belos-street"
+  },
+  "source": {
+    "primary": "github",
+    "github": "belos-street/stock-analytics-agent",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 57,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-19T02:33:16Z",
+    "first_commit_at": "2026-03-06T08:37:08Z",
+    "forks": 9,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.2961,
+  "rank_in_category": 337,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-19T21:17:17.865928Z",
+  "last_refreshed_at": "2026-11-19T21:17:17.865933Z",
+  "consecutive_refresh_failures": 0
+}

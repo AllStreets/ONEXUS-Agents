@@ -1,7 +1,7 @@
 {
   "slug": "filing-qa",
   "name": "filing-qa",
-  "tagline": "Question answering over financial filings (10-K/10-Q, investor decks) with cited answers: hybrid dense+BM25 retrieval, reranking, chart extraction, and an AST-sandboxed calculator. FastAPI, CLI, Helm.",
+  "tagline": "Multimodal RAG for financial filings (10-K/10-Q, investor decks): hybrid dense+BM25 retrieval with RRF, optional reranking, chart extraction, and a sandboxed calculator for derived figures. Cited answ",
   "category": "financial-modeling",
   "tags": [
     "async-processing",
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4698,
-  "rank_in_category": 51,
+  "composite_score": 0.4684,
+  "rank_in_category": 54,
   "discovered_via": "auto",
   "first_seen_at": "2026-11-09T23:16:36.207100Z",
-  "last_refreshed_at": "2026-11-18T21:29:59.961606Z",
+  "last_refreshed_at": "2026-11-19T21:34:47.416928Z",
   "consecutive_refresh_failures": 0
 }
