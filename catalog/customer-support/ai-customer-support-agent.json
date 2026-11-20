@@ -1,39 +1,39 @@
 {
   "slug": "ai-customer-support-agent",
   "name": "ai-customer-support-agent",
-  "tagline": "Multi-agent AI customer support system built with LangGraph, LangChain, OpenAI, and RAG, showcasing a modular architecture for intelligent task routing, retrieval, tool use and human-in-the-loop workf",
+  "tagline": "AI customer support agent in Python: answers only from your Markdown docs with citations, and hands off to a human when it should. Claude + BM25, evals.",
   "category": "customer-support",
   "tags": [
-    "a-i-customer-support-agent",
-    "ai",
     "ai-agents",
+    "ai-chatbot",
+    "ai-customer-service",
     "ai-customer-support",
+    "bm25",
+    "claude",
+    "claude-api",
     "customer-support",
-    "llm",
-    "llm-agents",
-    "mcp",
-    "mcp-client",
-    "mcp-server"
+    "customer-support-agent",
+    "customer-support-chatbot"
   ],
   "author": {
-    "type": "user",
-    "handle": "victorpreston",
-    "url": "https://github.com/victorpreston"
+    "type": "org",
+    "handle": "Replyze",
+    "url": "https://github.com/Replyze"
   },
   "source": {
     "primary": "github",
-    "github": "victorpreston/ai-customer-support-agent",
+    "github": "Replyze/ai-customer-support-agent",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://replyze.chat/?utm_source=github&utm_medium=referral&utm_campaign=ai-customer-support-agent"
   },
-  "license": "Unknown",
+  "license": "MIT",
   "metrics": {
-    "stars": 2,
+    "stars": 19,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-07T14:49:51Z",
-    "first_commit_at": "2024-09-12T20:24:58Z",
+    "last_commit_at": "2026-11-13T20:10:21Z",
+    "first_commit_at": "2026-11-13T01:36:54Z",
     "forks": 0,
-    "watchers": 0,
+    "watchers": 1,
     "open_issues": 0,
     "archived": false,
     "is_fork": false,
@@ -46,18 +46,15 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": [
-      "langchain",
-      "mcp"
-    ]
+    "frameworks": []
   },
   "benchmarks": [],
-  "runnable": true,
-  "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4679,
-  "rank_in_category": 68,
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4293,
+  "rank_in_category": 86,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-20T04:44:47.075596Z",
-  "last_refreshed_at": "2026-11-11T20:42:23.422878Z",
-  "consecutive_refresh_failures": 8
+  "first_seen_at": "2026-11-20T21:31:34.880086Z",
+  "last_refreshed_at": "2026-11-20T21:31:34.880090Z",
+  "consecutive_refresh_failures": 0
 }

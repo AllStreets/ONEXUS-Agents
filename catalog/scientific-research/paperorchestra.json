@@ -1,0 +1,62 @@
+{
+  "slug": "paperorchestra",
+  "name": "PaperOrchestra",
+  "tagline": "An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills -  benchmark + autoraters using any coding agent (Claude Code, Cursor, Antigravity, Clin",
+  "category": "scientific-research",
+  "tags": [
+    "agentic-ai",
+    "ai-research",
+    "anthropic",
+    "antigravity",
+    "arxiv",
+    "automated-paper-writing",
+    "claude-code",
+    "claude-skills",
+    "coding-agents",
+    "cursor"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "Ar9av",
+    "url": "https://github.com/Ar9av"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Ar9av/PaperOrchestra",
+    "huggingface": null,
+    "homepage": "https://arxiv.org/pdf/2604.05018"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 762,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-04T06:52:41Z",
+    "first_commit_at": "2026-04-09T15:18:01Z",
+    "forks": 110,
+    "watchers": 3,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "anthropic-sdk"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5865,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-20T21:37:13.842450Z",
+  "last_refreshed_at": "2026-11-20T21:37:13.842455Z",
+  "consecutive_refresh_failures": 0
+}

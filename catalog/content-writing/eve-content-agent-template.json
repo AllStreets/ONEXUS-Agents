@@ -1,7 +1,7 @@
 {
   "slug": "eve-content-agent-template",
   "name": "eve-content-agent-template",
-  "tagline": "Content agent template for the eve agent framework",
+  "tagline": "Content agent template for eve.",
   "category": "content-writing",
   "tags": [
     "agents",
@@ -21,15 +21,15 @@
     "huggingface": null,
     "homepage": "https://vercel.com/templates/eve/eve-content-agent"
   },
-  "license": "Apache-2.0",
+  "license": "MIT",
   "metrics": {
-    "stars": 30,
+    "stars": 33,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-30T21:09:34Z",
-    "first_commit_at": "2026-06-16T11:20:26Z",
-    "forks": 8,
+    "last_commit_at": "2026-11-20T19:15:26Z",
+    "first_commit_at": "2026-11-12T08:21:08Z",
+    "forks": 11,
     "watchers": 1,
-    "open_issues": 0,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": true,
@@ -46,10 +46,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2713,
-  "rank_in_category": 99,
+  "composite_score": 0.308,
+  "rank_in_category": 81,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:22:18.922392Z",
-  "last_refreshed_at": "2026-11-11T20:48:31.010685Z",
-  "consecutive_refresh_failures": 8
+  "last_refreshed_at": "2026-11-20T21:36:31.520513Z",
+  "consecutive_refresh_failures": 0
 }

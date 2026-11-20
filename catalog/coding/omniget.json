@@ -1,18 +1,18 @@
 {
   "slug": "omniget",
   "name": "omniget",
-  "tagline": "A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects",
+  "tagline": "Local MCP server that lets Claude Code, Codex, Cursor and Gemini CLI use your own computer and your own logged-in accounts: chats, feeds, browser, files and downloads. Also a downloader for video, mus",
   "category": "coding",
   "tags": [
-    "agent-client-protocol",
+    "ai-agents",
     "claude-code",
     "codex-cli",
     "coding-agent",
+    "course-downloader",
+    "cursor",
     "download-manager",
-    "downloader",
-    "gallery-dl",
-    "instagram-downloader",
-    "local-llm",
+    "gemini-cli",
+    "local-first",
     "mcp"
   ],
   "author": {
@@ -28,13 +28,13 @@
   },
   "license": "GPL-3.0",
   "metrics": {
-    "stars": 14504,
+    "stars": 14515,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-19T21:11:22Z",
+    "last_commit_at": "2026-11-20T20:55:24Z",
     "first_commit_at": "2026-02-13T02:25:44Z",
-    "forks": 1253,
+    "forks": 1254,
     "watchers": 47,
-    "open_issues": 6,
+    "open_issues": 21,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -57,6 +57,6 @@
   "rank_in_category": 29,
   "discovered_via": "auto",
   "first_seen_at": "2026-11-12T20:40:15.830969Z",
-  "last_refreshed_at": "2026-11-19T21:11:44.902883Z",
+  "last_refreshed_at": "2026-11-20T20:56:53.802984Z",
   "consecutive_refresh_failures": 0
 }

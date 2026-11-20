@@ -1,0 +1,51 @@
+{
+  "slug": "enterprise-support-agent-v2",
+  "name": "enterprise-support-agent-v2",
+  "tagline": "面向企业售后场景的 Python Agent 全栈演示：FastAPI、SQLite、LangChain RAG、LangGraph、Vue 与 Docker，含租户边界、评估和故障验证。",
+  "category": "customer-support",
+  "tags": [],
+  "author": {
+    "type": "user",
+    "handle": "KaelLee335",
+    "url": "https://github.com/KaelLee335"
+  },
+  "source": {
+    "primary": "github",
+    "github": "KaelLee335/enterprise-support-agent-v2",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 141,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-18T08:23:03Z",
+    "first_commit_at": "2026-11-16T02:35:23Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4924,
+  "rank_in_category": 62,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-20T21:32:06.174358Z",
+  "last_refreshed_at": "2026-11-20T21:32:06.174361Z",
+  "consecutive_refresh_failures": 0
+}

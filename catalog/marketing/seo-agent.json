@@ -1,40 +1,29 @@
 {
   "slug": "seo-agent",
   "name": "seo-agent",
-  "tagline": "Open-source SEO audit agent — real-browser checks, backlink scoring, and multi-engine AI citation tracking (Claude, ChatGPT, Gemini, Perplexity, Copilot) via SearchApi",
+  "tagline": "seo-agent",
   "category": "marketing",
-  "tags": [
-    "ai-agent",
-    "ai-visibility",
-    "anthropic",
-    "browser-automation",
-    "claude-api",
-    "llm",
-    "playwright",
-    "python",
-    "searchapi",
-    "seo"
-  ],
+  "tags": [],
   "author": {
     "type": "user",
-    "handle": "dannwaneri",
-    "url": "https://github.com/dannwaneri"
+    "handle": "mikefutia",
+    "url": "https://github.com/mikefutia"
   },
   "source": {
     "primary": "github",
-    "github": "dannwaneri/seo-agent",
+    "github": "mikefutia/seo-agent",
     "huggingface": null,
     "homepage": null
   },
-  "license": "MIT",
+  "license": "Unknown",
   "metrics": {
-    "stars": 58,
+    "stars": 80,
     "downloads_30d": null,
-    "last_commit_at": "2026-09-03T09:53:48Z",
-    "first_commit_at": "2026-03-30T12:35:11Z",
-    "forks": 11,
-    "watchers": 0,
-    "open_issues": 3,
+    "last_commit_at": "2026-03-06T16:54:57Z",
+    "first_commit_at": "2026-03-06T16:54:54Z",
+    "forks": 38,
+    "watchers": 4,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -46,17 +35,15 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": [
-      "anthropic-sdk"
-    ]
+    "frameworks": []
   },
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4918,
-  "rank_in_category": 11,
+  "composite_score": 0.4209,
+  "rank_in_category": 13,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-11T20:51:41.337620Z",
-  "last_refreshed_at": "2026-11-11T20:51:41.337623Z",
-  "consecutive_refresh_failures": 8
+  "first_seen_at": "2026-11-11T20:51:39.530241Z",
+  "last_refreshed_at": "2026-11-20T21:39:06.591237Z",
+  "consecutive_refresh_failures": 0
 }
