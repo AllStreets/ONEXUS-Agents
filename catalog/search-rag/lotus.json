@@ -1,0 +1,60 @@
+{
+  "slug": "lotus",
+  "name": "lotus",
+  "tagline": "Optimized Agentic and LLM Bulk Processing Over Your Data",
+  "category": "search-rag",
+  "tags": [
+    "agentic-data-processing",
+    "ai-data-processing",
+    "data",
+    "llm",
+    "llm-data-processing",
+    "llm-document-processing",
+    "pandas",
+    "python",
+    "semantic-operators",
+    "semantic-search"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "lotus-data",
+    "url": "https://github.com/lotus-data"
+  },
+  "source": {
+    "primary": "github",
+    "github": "lotus-data/lotus",
+    "huggingface": null,
+    "homepage": "https://lotus-data.github.io/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 1736,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-10T19:47:14Z",
+    "first_commit_at": "2024-07-16T17:02:08Z",
+    "forks": 158,
+    "watchers": 15,
+    "open_issues": 57,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3972,
+  "rank_in_category": 29,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-20T21:38:28.949470Z",
+  "last_refreshed_at": "2026-11-20T21:38:28.949474Z",
+  "consecutive_refresh_failures": 0
+}

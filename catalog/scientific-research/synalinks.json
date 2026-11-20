@@ -1,0 +1,60 @@
+{
+  "slug": "synalinks",
+  "name": "synalinks",
+  "tagline": "Keras based framework for neuro-symbolic LM systems",
+  "category": "scientific-research",
+  "tags": [
+    "context-engineering",
+    "in-context-learning",
+    "in-context-reinforcement-learning",
+    "language-model",
+    "llmops",
+    "llms",
+    "neuro-symbolic",
+    "neuro-symbolic-ai",
+    "reinforcement-learning",
+    "reinforcement-learning-agent"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "SynaLinks",
+    "url": "https://github.com/SynaLinks"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SynaLinks/synalinks",
+    "huggingface": null,
+    "homepage": "https://synalinks.com/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 467,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-19T11:26:30Z",
+    "first_commit_at": "2025-02-28T15:55:39Z",
+    "forks": 50,
+    "watchers": 4,
+    "open_issues": 6,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.5937,
+  "rank_in_category": 21,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-08-25T14:20:25.949639Z",
+  "last_refreshed_at": "2026-11-20T21:34:34.910488Z",
+  "consecutive_refresh_failures": 0
+}

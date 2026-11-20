@@ -1,0 +1,56 @@
+{
+  "slug": "halocline",
+  "name": "halocline",
+  "tagline": "Sparse + Dense. Qwen4 family on one RTX 4090 (sm_89 only)",
+  "category": "financial-modeling",
+  "tags": [
+    "cuda",
+    "llm-inference",
+    "moe",
+    "qwen",
+    "rtx-4090",
+    "sm89"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "T-Crypt",
+    "url": "https://github.com/T-Crypt"
+  },
+  "source": {
+    "primary": "github",
+    "github": "T-Crypt/halocline",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 18,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-20T21:03:37Z",
+    "first_commit_at": "2026-11-17T21:21:37Z",
+    "forks": 1,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3694,
+  "rank_in_category": 105,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-20T21:24:35.374850Z",
+  "last_refreshed_at": "2026-11-20T21:24:35.374854Z",
+  "consecutive_refresh_failures": 0
+}

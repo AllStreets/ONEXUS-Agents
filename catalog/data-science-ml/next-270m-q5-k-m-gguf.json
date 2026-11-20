@@ -1,19 +1,19 @@
 {
-  "slug": "next-ocr-q8-0-gguf",
-  "name": "next-ocr-Q8_0-GGUF",
-  "tagline": "Lamapi/next-ocr-Q8_0-GGUF — image-text-to-text",
-  "category": "music",
+  "slug": "next-270m-q5-k-m-gguf",
+  "name": "next-270m-Q5_K_M-GGUF",
+  "tagline": "Lamapi/next-270m-Q5_K_M-GGUF — text-generation",
+  "category": "data-science-ml",
   "tags": [
     "transformers",
     "gguf",
-    "text-generation-inference",
-    "unsloth",
-    "qwen3_vl",
-    "trl",
-    "sft",
-    "chemistry",
-    "code",
-    "climate"
+    "turkish",
+    "türkiye",
+    "english",
+    "ai",
+    "lamapi",
+    "gemma3",
+    "next",
+    "next-x1"
   ],
   "author": {
     "type": "org",
@@ -23,15 +23,15 @@
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "Lamapi/next-ocr-Q8_0-GGUF",
+    "huggingface": "Lamapi/next-270m-Q5_K_M-GGUF",
     "homepage": null
   },
-  "license": "apache-2.0",
+  "license": "mit",
   "metrics": {
-    "stars": 1,
-    "downloads_30d": 45,
-    "last_commit_at": "2025-11-13T13:24:14Z",
-    "first_commit_at": "2025-11-13T13:23:36Z",
+    "stars": 2,
+    "downloads_30d": 22,
+    "last_commit_at": "2025-10-28T10:42:56Z",
+    "first_commit_at": "2025-10-28T10:42:51Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
@@ -39,7 +39,7 @@
     "is_fork": null,
     "is_template": null,
     "library_name": "transformers",
-    "pipeline_tag": "image-text-to-text",
+    "pipeline_tag": "text-generation",
     "contributors_count": null,
     "releases_total": null,
     "latest_release_at": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.3694,
-  "rank_in_category": 6,
+  "composite_score": 0.1929,
+  "rank_in_category": 129,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-13T20:19:45.603628Z",
-  "last_refreshed_at": "2026-11-15T21:54:21.256864Z",
-  "consecutive_refresh_failures": 27
+  "first_seen_at": "2026-11-20T21:20:01.998755Z",
+  "last_refreshed_at": "2026-11-20T21:20:01.998762Z",
+  "consecutive_refresh_failures": 0
 }

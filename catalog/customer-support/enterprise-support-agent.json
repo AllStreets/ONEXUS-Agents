@@ -1,7 +1,7 @@
 {
   "slug": "enterprise-support-agent",
   "name": "enterprise-support-agent",
-  "tagline": "Dify-based enterprise after-sales support agent demo with synthetic policies, orders, and evaluation.",
+  "tagline": "基于 Dify 搭建的企业级售后支持Agent演示，内置合成政策文档、订单数据与效果评估。",
   "category": "customer-support",
   "tags": [],
   "author": {
@@ -17,9 +17,9 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 40,
+    "stars": 55,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-11T15:55:29Z",
+    "last_commit_at": "2026-11-12T06:39:24Z",
     "first_commit_at": "2026-11-01T04:00:00Z",
     "forks": 0,
     "watchers": 0,
@@ -40,10 +40,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4408,
-  "rank_in_category": 80,
+  "composite_score": 0.4457,
+  "rank_in_category": 81,
   "discovered_via": "auto",
   "first_seen_at": "2026-11-11T20:43:06.465246Z",
-  "last_refreshed_at": "2026-11-11T20:43:06.465249Z",
-  "consecutive_refresh_failures": 8
+  "last_refreshed_at": "2026-11-20T21:32:14.559536Z",
+  "consecutive_refresh_failures": 0
 }
