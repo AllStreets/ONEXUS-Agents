@@ -1,0 +1,62 @@
+{
+  "slug": "retail-profit-stack",
+  "name": "retail-profit-stack",
+  "tagline": "Hands-on AI data engineering project: build a retail profit data system layer by layer, with AI agents, evals, lineage and human approval",
+  "category": "data-engineering",
+  "tags": [
+    "ai-agents",
+    "ai-data-engineering",
+    "data-lineage",
+    "data-pipeline",
+    "data-quality",
+    "duckdb",
+    "langchain",
+    "langgraph",
+    "llm",
+    "llm-evaluation"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "vijaysngrajput",
+    "url": "https://github.com/vijaysngrajput"
+  },
+  "source": {
+    "primary": "github",
+    "github": "vijaysngrajput/retail-profit-stack",
+    "huggingface": null,
+    "homepage": "https://vijaysngrajput.github.io/retail-profit-stack/understand_business/business_workflow.html"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 0,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-21T05:15:05Z",
+    "first_commit_at": "2026-11-11T14:25:38Z",
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.4127,
+  "rank_in_category": 61,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-21T20:11:13.250307Z",
+  "last_refreshed_at": "2026-11-21T20:11:13.250311Z",
+  "consecutive_refresh_failures": 0
+}

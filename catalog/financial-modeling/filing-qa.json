@@ -1,7 +1,7 @@
 {
   "slug": "filing-qa",
   "name": "filing-qa",
-  "tagline": "Multimodal RAG for financial filings (10-K/10-Q, investor decks): hybrid dense+BM25 retrieval with RRF, optional reranking, chart extraction, and a sandboxed calculator for derived figures. Cited answ",
+  "tagline": "Research prototype: multimodal RAG for financial filings. Hybrid dense+BM25 retrieval (RRF), numeric grounding checks, a sandboxed calculator and cited answers. Measured on a 119-question golden set: ",
   "category": "financial-modeling",
   "tags": [
     "async-processing",
@@ -30,7 +30,7 @@
   "metrics": {
     "stars": 91,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-12T04:45:19Z",
+    "last_commit_at": "2026-11-21T05:22:51Z",
     "first_commit_at": "2024-02-01T04:46:37Z",
     "forks": 21,
     "watchers": 2,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4669,
-  "rank_in_category": 54,
+  "composite_score": 0.4789,
+  "rank_in_category": 52,
   "discovered_via": "auto",
   "first_seen_at": "2026-11-09T23:16:36.207100Z",
-  "last_refreshed_at": "2026-11-20T21:20:37.580468Z",
+  "last_refreshed_at": "2026-11-21T20:17:22.332508Z",
   "consecutive_refresh_failures": 0
 }

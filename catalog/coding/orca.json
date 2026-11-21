@@ -1,7 +1,7 @@
 {
   "slug": "orca",
   "name": "orca",
-  "tagline": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+  "tagline": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
   "category": "coding",
   "tags": [
     "agent-ide",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 130917,
+    "stars": 131868,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-20T20:59:18Z",
+    "last_commit_at": "2026-11-21T20:26:40Z",
     "first_commit_at": "2026-03-17T03:29:24Z",
-    "forks": 8331,
-    "watchers": 169,
-    "open_issues": 8803,
+    "forks": 8400,
+    "watchers": 168,
+    "open_issues": 9034,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4326,
-  "rank_in_category": 77,
+  "composite_score": 0.4328,
+  "rank_in_category": 76,
   "discovered_via": "auto",
-  "first_seen_at": "2026-07-10T15:36:03.673586Z",
-  "last_refreshed_at": "2026-11-20T20:59:29.844850Z",
+  "first_seen_at": "2026-11-21T20:26:42.181564Z",
+  "last_refreshed_at": "2026-11-21T20:26:42.181569Z",
   "consecutive_refresh_failures": 0
 }

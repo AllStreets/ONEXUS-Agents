@@ -1,19 +1,17 @@
 {
   "slug": "boosty",
   "name": "boosty",
-  "tagline": "Boosty MCP servers for DeFi - Volume generation, trading, and wallet management",
+  "tagline": "TypeScript MCP servers for DeFi: price data, wallet analytics, yield discovery and Solana wallet and trading tools.",
   "category": "devops-sre",
   "tags": [
-    "agents-md",
     "ai-agents",
-    "automation",
-    "bot",
-    "bundle",
-    "bundler",
-    "crypto",
-    "deployer",
-    "ethereum",
-    "evm"
+    "defi",
+    "mcp",
+    "mcp-server",
+    "solana",
+    "trading",
+    "typescript",
+    "wallets"
   ],
   "author": {
     "type": "user",
@@ -30,7 +28,7 @@
   "metrics": {
     "stars": 30,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-04T23:08:27Z",
+    "last_commit_at": "2026-11-11T15:16:16Z",
     "first_commit_at": "2026-01-26T06:08:43Z",
     "forks": 6,
     "watchers": 0,
@@ -46,15 +44,17 @@
     "commits_90d": null,
     "has_ci": null,
     "readme_length": null,
-    "frameworks": []
+    "frameworks": [
+      "mcp"
+    ]
   },
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.467,
-  "rank_in_category": 39,
+  "composite_score": 0.498,
+  "rank_in_category": 35,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:18.583462Z",
-  "last_refreshed_at": "2026-11-15T21:56:46.642390Z",
-  "consecutive_refresh_failures": 14
+  "last_refreshed_at": "2026-11-21T20:15:50.325698Z",
+  "consecutive_refresh_failures": 0
 }

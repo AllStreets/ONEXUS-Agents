@@ -1,0 +1,62 @@
+{
+  "slug": "wukong-4b-qwen3-5-claude-opus-deepseek-slerp-2xmerge-heretic-ggu",
+  "name": "Wukong-4B-Qwen3.5-Claude-Opus-DeepSeek-SLERP-2xMerge-heretic-GGUF",
+  "tagline": "mradermacher/Wukong-4B-Qwen3.5-Claude-Opus-DeepSeek-SLERP-2xMerge-heretic-GGUF — None",
+  "category": "reasoning-math",
+  "tags": [
+    "transformers",
+    "gguf",
+    "qwen3_5",
+    "slerp",
+    "merge",
+    "reasoning",
+    "coding",
+    "agent",
+    "tool-use",
+    "function-calling"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "mradermacher",
+    "url": "https://huggingface.co/mradermacher"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "mradermacher/Wukong-4B-Qwen3.5-Claude-Opus-DeepSeek-SLERP-2xMerge-heretic-GGUF",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 2,
+    "downloads_30d": 154,
+    "last_commit_at": "2026-11-21T19:56:54Z",
+    "first_commit_at": "2026-11-21T01:51:19Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "transformers",
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.317,
+  "rank_in_category": 8,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-21T20:39:06.540482Z",
+  "last_refreshed_at": "2026-11-21T20:39:06.540486Z",
+  "consecutive_refresh_failures": 0
+}
