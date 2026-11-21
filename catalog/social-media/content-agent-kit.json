@@ -1,0 +1,62 @@
+{
+  "slug": "content-agent-kit",
+  "name": "Content-Agent-Kit",
+  "tagline": "Nói với AI bằng tiếng Việt → tìm chủ đề hot, soi đối thủ, viết bài, dựng video 9:16 với 130 template (có video kể chuyện, giọng đọc tiếng Việt), duyệt rồi mới đăng; kèm bộ công cụ chạy quảng cáo Faceb",
+  "category": "social-media",
+  "tags": [
+    "agentic-workflow",
+    "ai-agents",
+    "automation",
+    "claude-code",
+    "claude-skills",
+    "content-automation",
+    "content-marketing",
+    "facebook-ads",
+    "ffmpeg",
+    "make-com"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "XuHo-IT",
+    "url": "https://github.com/XuHo-IT"
+  },
+  "source": {
+    "primary": "github",
+    "github": "XuHo-IT/Content-Agent-Kit",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 10,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-20T03:27:46Z",
+    "first_commit_at": "2026-07-22T08:08:28Z",
+    "forks": 2,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5398,
+  "rank_in_category": 3,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-20T21:37:20.156220Z",
+  "last_refreshed_at": "2026-11-21T20:31:04.875146Z",
+  "consecutive_refresh_failures": 0
+}

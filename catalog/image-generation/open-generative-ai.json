@@ -1,10 +1,9 @@
 {
   "slug": "open-generative-ai",
   "name": "Open-Generative-AI",
-  "tagline": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+  "tagline": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
   "category": "image-generation",
   "tags": [
-    "ai-art-generator",
     "ai-image-generation",
     "ai-video-generation",
     "fal-ai-alternative",
@@ -13,7 +12,8 @@
     "invideo-alternative",
     "kling-ai",
     "lipsync",
-    "litellm-alternative"
+    "litellm-alternative",
+    "midjourney-alternative"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 34116,
+    "stars": 35638,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-11T03:05:02Z",
+    "last_commit_at": "2026-11-21T12:26:02Z",
     "first_commit_at": "2026-02-09T20:36:16Z",
-    "forks": 6494,
-    "watchers": 267,
-    "open_issues": 50,
+    "forks": 6844,
+    "watchers": 282,
+    "open_issues": 25,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4272,
+  "composite_score": 0.4373,
   "rank_in_category": 7,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:26:32.284602Z",
-  "last_refreshed_at": "2026-11-11T20:54:45.167635Z",
-  "consecutive_refresh_failures": 9
+  "last_refreshed_at": "2026-11-21T20:34:47.117698Z",
+  "consecutive_refresh_failures": 0
 }

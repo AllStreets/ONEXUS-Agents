@@ -1,0 +1,62 @@
+{
+  "slug": "wukong-4b-qwen3-5-claude-opus-deepseek-slerp-2xmerge-heretic",
+  "name": "Wukong-4B-Qwen3.5-Claude-Opus-DeepSeek-SLERP-2xMerge-heretic",
+  "tagline": "xtools-at/Wukong-4B-Qwen3.5-Claude-Opus-DeepSeek-SLERP-2xMerge-heretic — image-text-to-text",
+  "category": "reasoning-math",
+  "tags": [
+    "transformers",
+    "safetensors",
+    "qwen3_5",
+    "image-text-to-text",
+    "slerp",
+    "merge",
+    "reasoning",
+    "coding",
+    "agent",
+    "tool-use"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "xtools-at",
+    "url": "https://huggingface.co/xtools-at"
+  },
+  "source": {
+    "primary": "huggingface",
+    "github": null,
+    "huggingface": "xtools-at/Wukong-4B-Qwen3.5-Claude-Opus-DeepSeek-SLERP-2xMerge-heretic",
+    "homepage": null
+  },
+  "license": "apache-2.0",
+  "metrics": {
+    "stars": 3,
+    "downloads_30d": 52,
+    "last_commit_at": "2026-11-20T20:27:26Z",
+    "first_commit_at": "2026-11-20T17:11:20Z",
+    "forks": null,
+    "watchers": null,
+    "open_issues": null,
+    "archived": null,
+    "is_fork": null,
+    "is_template": null,
+    "library_name": "transformers",
+    "pipeline_tag": "image-text-to-text",
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "transformers"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3095,
+  "rank_in_category": 12,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-21T20:39:07.001516Z",
+  "last_refreshed_at": "2026-11-21T20:39:07.001520Z",
+  "consecutive_refresh_failures": 0
+}
