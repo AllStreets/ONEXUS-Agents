@@ -1,7 +1,7 @@
 {
   "slug": "aria-code",
   "name": "aria-code",
-  "tagline": "Terminal-first AI financial agent — runs fully offline via Ollama, 19+ cloud LLM providers, live market data, and a built-in quant research engine.",
+  "tagline": "Local-first AI coding & quant agent in your terminal — 100% offline via Ollama or 19+ cloud LLMs, MCP-native, with live market data and strict approval gates.",
   "category": "financial-modeling",
   "tags": [
     "ai-agent",
@@ -25,11 +25,11 @@
   "metrics": {
     "stars": 7,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-19T11:07:54Z",
+    "last_commit_at": "2026-11-22T17:47:45Z",
     "first_commit_at": "2026-06-10T02:38:35Z",
     "forks": 3,
     "watchers": 1,
-    "open_issues": 1,
+    "open_issues": 2,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -48,10 +48,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4661,
+  "composite_score": 0.4696,
   "rank_in_category": 55,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-28T19:07:32.304640Z",
-  "last_refreshed_at": "2026-11-21T20:18:43.559635Z",
+  "last_refreshed_at": "2026-11-22T20:30:43.809658Z",
   "consecutive_refresh_failures": 0
 }

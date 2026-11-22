@@ -1,7 +1,7 @@
 {
   "slug": "next-4b-q5-0-gguf",
   "name": "next-4b-Q5_0-GGUF",
-  "tagline": "kenonix/next-4b-Q5_0-GGUF — image-text-to-text",
+  "tagline": "Lamapi/next-4b-Q5_0-GGUF — image-text-to-text",
   "category": "data-science-ml",
   "tags": [
     "transformers",
@@ -17,21 +17,21 @@
   ],
   "author": {
     "type": "org",
-    "handle": "kenonix",
-    "url": "https://huggingface.co/kenonix"
+    "handle": "Lamapi",
+    "url": "https://huggingface.co/Lamapi"
   },
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "kenonix/next-4b-Q5_0-GGUF",
+    "huggingface": "Lamapi/next-4b-Q5_0-GGUF",
     "homepage": null
   },
   "license": "mit",
   "metrics": {
-    "stars": 0,
-    "downloads_30d": 29,
-    "last_commit_at": "2025-10-30T15:40:47Z",
-    "first_commit_at": "2025-10-30T15:40:33Z",
+    "stars": 2,
+    "downloads_30d": 22,
+    "last_commit_at": "2025-10-28T11:15:38Z",
+    "first_commit_at": "2025-10-28T11:15:23Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1877,
-  "rank_in_category": 136,
+  "composite_score": 0.1929,
+  "rank_in_category": 128,
   "discovered_via": "auto",
-  "first_seen_at": "2026-10-13T19:54:09.241808Z",
-  "last_refreshed_at": "2026-11-15T21:55:43.641725Z",
-  "consecutive_refresh_failures": 21
+  "first_seen_at": "2026-11-22T20:27:44.595358Z",
+  "last_refreshed_at": "2026-11-22T20:27:44.595360Z",
+  "consecutive_refresh_failures": 0
 }
