@@ -1,0 +1,57 @@
+{
+  "slug": "dsh-a2ui",
+  "name": "dsh-a2ui",
+  "tagline": "Generative UI for DeepSeek Harness: renders Google A2UI 1.0 surfaces inside the conversation with an agent -> UI -> agent interaction loop.",
+  "category": "web-dev",
+  "tags": [
+    "a2ui",
+    "agent-ui",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "generative-ui",
+    "typescript"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "ChimeSky",
+    "url": "https://github.com/ChimeSky"
+  },
+  "source": {
+    "primary": "github",
+    "github": "ChimeSky/dsh-a2ui",
+    "huggingface": null,
+    "homepage": "https://github.com/ChimeSky/dsh-a2ui#readme"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 14,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-22T05:56:58Z",
+    "first_commit_at": "2026-11-12T15:09:06Z",
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": []
+  },
+  "benchmarks": [],
+  "runnable": false,
+  "adapter_ref": null,
+  "composite_score": 0.3633,
+  "rank_in_category": 162,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-22T20:21:38.851796Z",
+  "last_refreshed_at": "2026-11-22T20:21:38.851799Z",
+  "consecutive_refresh_failures": 0
+}
