@@ -40,12 +40,12 @@
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": null,
-    "releases_total": null,
+    "contributors_count": 0,
+    "releases_total": 0,
     "latest_release_at": null,
-    "commits_90d": null,
-    "has_ci": null,
-    "readme_length": null,
+    "commits_90d": 0,
+    "has_ci": false,
+    "readme_length": 14370,
     "frameworks": [
       "mcp"
     ]
@@ -57,6 +57,6 @@
   "rank_in_category": 143,
   "discovered_via": "auto",
   "first_seen_at": "2026-08-25T14:18:26.506676Z",
-  "last_refreshed_at": "2026-11-11T20:42:35.897843Z",
+  "last_refreshed_at": "2026-11-22T22:36:16.262403Z",
   "consecutive_refresh_failures": 11
 }
