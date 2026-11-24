@@ -1,24 +1,24 @@
 {
   "slug": "courtcraft",
   "name": "courtcraft",
-  "tagline": "Compare basketball performance fairly. Possession normalization, shrinkage, uncertainty, player comparisons.",
+  "tagline": "[Data Science & Machine Learning] Compare basketball performance fairly. Per-36-minute rates and scoring efficiency; Gamma-Poisson shrinkage and uncertainty intervals.",
   "category": "data-science-ml",
   "tags": [
+    "ai-assisted",
+    "data-science",
     "data-science-ml",
-    "documented-demo",
-    "flask",
-    "pandas",
-    "portfolio-project",
-    "python"
+    "documented-project",
+    "machine-learning",
+    "portfolio"
   ],
   "author": {
     "type": "user",
-    "handle": "madhurag123",
-    "url": "https://github.com/madhurag123"
+    "handle": "abhijith-abhii",
+    "url": "https://github.com/abhijith-abhii"
   },
   "source": {
     "primary": "github",
-    "github": "madhurag123/courtcraft",
+    "github": "abhijith-abhii/courtcraft",
     "huggingface": null,
     "homepage": null
   },
@@ -26,7 +26,7 @@
   "metrics": {
     "stars": 0,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-09T16:13:52Z",
+    "last_commit_at": "2026-10-18T11:26:51Z",
     "first_commit_at": "2026-09-28T11:35:58Z",
     "forks": 0,
     "watchers": 0,
@@ -47,10 +47,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.1705,
-  "rank_in_category": 146,
+  "composite_score": 0.1763,
+  "rank_in_category": 144,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-17T21:51:26.200920Z",
-  "last_refreshed_at": "2026-11-24T00:53:24.189025Z",
+  "first_seen_at": "2026-11-24T23:13:59.238622Z",
+  "last_refreshed_at": "2026-11-24T23:13:59.238625Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,19 +1,19 @@
 {
   "slug": "agentguide",
   "name": "AgentGuide",
-  "tagline": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
+  "tagline": "AI Agent 开发指南 | Agent Harness | 上下文工程 | 高级 RAG | MCP | Agentic RL 强化学习 | LangGraph 实战 | 1.2 万+ 大模型面试题 | 算法岗 / 开发岗求职 | 转行大模型",
   "category": "multi-agent-orchestration",
   "tags": [
+    "agentic-rl",
     "agenticrag",
     "ai-agent",
+    "claude-code",
     "crewai",
     "graphrag",
     "grpo",
+    "harness",
     "interview",
-    "job-hunting",
-    "langchain",
-    "llm",
-    "multi-agent"
+    "job-hunting"
   ],
   "author": {
     "type": "user",
@@ -24,28 +24,28 @@
     "primary": "github",
     "github": "adongwanai/AgentGuide",
     "huggingface": null,
-    "homepage": null
+    "homepage": "https://adongwanai.github.io/AgentGuide/"
   },
-  "license": "Unknown",
+  "license": "CC-BY-4.0",
   "metrics": {
-    "stars": 11604,
+    "stars": 12249,
     "downloads_30d": null,
-    "last_commit_at": "2026-10-31T04:00:13Z",
+    "last_commit_at": "2026-11-05T09:57:16Z",
     "first_commit_at": "2025-11-03T10:58:05Z",
-    "forks": 1086,
-    "watchers": 32,
-    "open_issues": 12,
+    "forks": 1157,
+    "watchers": 34,
+    "open_issues": 11,
     "archived": false,
     "is_fork": false,
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 5,
-    "releases_total": 0,
+    "contributors_count": null,
+    "releases_total": null,
     "latest_release_at": null,
-    "commits_90d": 24,
-    "has_ci": true,
-    "readme_length": 44910,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
     "frameworks": [
       "crewai",
       "langchain"
@@ -54,10 +54,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4474,
-  "rank_in_category": 44,
+  "composite_score": 0.4523,
+  "rank_in_category": 40,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-03T20:03:57.323985Z",
-  "last_refreshed_at": "2026-11-15T21:56:20.576655Z",
-  "consecutive_refresh_failures": 20
+  "first_seen_at": "2026-11-09T22:57:28.044260Z",
+  "last_refreshed_at": "2026-11-24T23:00:18.611903Z",
+  "consecutive_refresh_failures": 0
 }
