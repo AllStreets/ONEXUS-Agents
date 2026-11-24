@@ -1,7 +1,7 @@
 {
   "slug": "codewhale",
   "name": "Codewhale",
-  "tagline": "An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.",
+  "tagline": "Open-source Rust coding agent for terminal, web, and desktop. Any model, multi-agent fleets, MCP & plugins, OS sandboxing, and session receipts.",
   "category": "coding",
   "tags": [
     "agent-client-protocol",
@@ -28,13 +28,13 @@
   },
   "license": "MIT",
   "metrics": {
-    "stars": 41199,
+    "stars": 41197,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-24T00:34:30Z",
+    "last_commit_at": "2026-11-24T22:03:38Z",
     "first_commit_at": "2026-01-20T14:57:35Z",
-    "forks": 3577,
+    "forks": 3579,
     "watchers": 157,
-    "open_issues": 115,
+    "open_issues": 68,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -57,6 +57,6 @@
   "rank_in_category": 15,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:12:39.730750Z",
-  "last_refreshed_at": "2026-11-24T00:36:32.777424Z",
+  "last_refreshed_at": "2026-11-24T22:56:09.839257Z",
   "consecutive_refresh_failures": 0
 }

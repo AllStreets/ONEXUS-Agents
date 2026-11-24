@@ -1,0 +1,63 @@
+{
+  "slug": "agent-first-browse",
+  "name": "Agent-first-browse",
+  "tagline": "Fast, token-efficient AI browser agent that sees, clicks, types, and completes real web tasks autonomously - with native MCP & CLI control.",
+  "category": "web-dev",
+  "tags": [
+    "accessibility-tree",
+    "agentic-ai",
+    "ai-agents",
+    "autonomous-agents",
+    "browser-agent",
+    "browser-automation",
+    "browser-use",
+    "chrome-devtools-protocol",
+    "chromium",
+    "computer-use"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "SandeepAi369",
+    "url": "https://github.com/SandeepAi369"
+  },
+  "source": {
+    "primary": "github",
+    "github": "SandeepAi369/Agent-first-browse",
+    "huggingface": null,
+    "homepage": "https://xel-studio.vercel.app/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 35,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-24T12:57:15Z",
+    "first_commit_at": "2026-04-16T14:03:00Z",
+    "forks": 6,
+    "watchers": 0,
+    "open_issues": 2,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5088,
+  "rank_in_category": 66,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-24T23:05:23.590123Z",
+  "last_refreshed_at": "2026-11-24T23:05:23.590125Z",
+  "consecutive_refresh_failures": 0
+}

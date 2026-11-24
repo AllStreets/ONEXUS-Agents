@@ -1,0 +1,60 @@
+{
+  "slug": "bnbchain-mcp",
+  "name": "bnbchain-mcp",
+  "tagline": "MCP server giving AI agents BNB Chain, opBNB and Greenfield tools for chain data, token safety, swaps and storage.",
+  "category": "devops-sre",
+  "tags": [
+    "bnb-chain",
+    "bsc",
+    "claude-code-plugin",
+    "defi",
+    "evm",
+    "greenfield",
+    "mcp-server",
+    "opbnb"
+  ],
+  "author": {
+    "type": "user",
+    "handle": "nirholas",
+    "url": "https://github.com/nirholas"
+  },
+  "source": {
+    "primary": "github",
+    "github": "nirholas/bnbchain-mcp",
+    "huggingface": null,
+    "homepage": "https://bnbchain-mcp.modelcontextprotocol.name/"
+  },
+  "license": "NOASSERTION",
+  "metrics": {
+    "stars": 35,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-19T21:24:26Z",
+    "first_commit_at": "2026-01-26T16:27:54Z",
+    "forks": 5,
+    "watchers": 0,
+    "open_issues": 1,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5066,
+  "rank_in_category": 34,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-10-20T18:08:09.217274Z",
+  "last_refreshed_at": "2026-11-24T23:16:04.445983Z",
+  "consecutive_refresh_failures": 0
+}
