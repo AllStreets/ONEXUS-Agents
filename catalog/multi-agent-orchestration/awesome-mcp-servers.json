@@ -1,35 +1,32 @@
 {
   "slug": "awesome-mcp-servers",
   "name": "awesome-mcp-servers",
-  "tagline": "A curated catalog of Model Context Protocol (MCP) servers for discovering and integrating AI tools, data sources, and services. Explore MCP servers across databases, developer tools, web automation, c",
+  "tagline": "A collection of MCP servers.",
   "category": "multi-agent-orchestration",
   "tags": [
-    "mcp",
-    "mcp-app",
-    "mcp-servers",
-    "mcp-tools",
-    "model-context-protocol"
+    "ai",
+    "mcp"
   ],
   "author": {
-    "type": "org",
-    "handle": "mcpHQ",
-    "url": "https://github.com/mcpHQ"
+    "type": "user",
+    "handle": "punkpeye",
+    "url": "https://github.com/punkpeye"
   },
   "source": {
     "primary": "github",
-    "github": "mcpHQ/awesome-mcp-servers",
+    "github": "punkpeye/awesome-mcp-servers",
     "huggingface": null,
-    "homepage": "https://mcphq.org/"
+    "homepage": "https://glama.ai/mcp/servers"
   },
   "license": "MIT",
   "metrics": {
-    "stars": 113,
+    "stars": 98430,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-18T17:52:31Z",
-    "first_commit_at": "2026-05-30T21:14:14Z",
-    "forks": 643,
-    "watchers": 0,
-    "open_issues": 49,
+    "last_commit_at": "2026-11-23T20:45:40Z",
+    "first_commit_at": "2024-11-30T05:03:33Z",
+    "forks": 20765,
+    "watchers": 57,
+    "open_issues": 5246,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -49,9 +46,9 @@
   "runnable": true,
   "adapter_ref": "mcp/stdio",
   "composite_score": 0.0,
-  "rank_in_category": 234,
+  "rank_in_category": 205,
   "discovered_via": "auto",
-  "first_seen_at": "2026-11-11T20:52:40.039812Z",
-  "last_refreshed_at": "2026-11-20T21:39:55.323534Z",
-  "consecutive_refresh_failures": 2
+  "first_seen_at": "2026-11-24T00:40:01.341885Z",
+  "last_refreshed_at": "2026-11-24T00:40:01.341889Z",
+  "consecutive_refresh_failures": 0
 }

@@ -1,0 +1,62 @@
+{
+  "slug": "senpi-skills",
+  "name": "senpi-skills",
+  "tagline": "Open-source AI agent skills and 140+ strategy templates for trading Hyperliquid perps across crypto, stocks, commodities and indices. Every Senpi agent runs these.",
+  "category": "financial-modeling",
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "ai-trading",
+    "algorithmic-trading",
+    "claude-code",
+    "crypto-trading",
+    "defi",
+    "hyperliquid",
+    "mcp",
+    "openclaw"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "Senpi-ai",
+    "url": "https://github.com/Senpi-ai"
+  },
+  "source": {
+    "primary": "github",
+    "github": "Senpi-ai/senpi-skills",
+    "huggingface": null,
+    "homepage": "https://senpi.ai/resources/learn/senpi-skills-open-source-hyperliquid-strategies"
+  },
+  "license": "MIT",
+  "metrics": {
+    "stars": 144,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-24T00:02:12Z",
+    "first_commit_at": "2026-02-23T19:31:08Z",
+    "forks": 37,
+    "watchers": 4,
+    "open_issues": 25,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5587,
+  "rank_in_category": 19,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-24T00:56:39.872760Z",
+  "last_refreshed_at": "2026-11-24T00:56:39.872763Z",
+  "consecutive_refresh_failures": 0
+}

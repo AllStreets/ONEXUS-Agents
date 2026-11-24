@@ -1,19 +1,19 @@
 {
   "slug": "yu-ai-agent",
   "name": "yu-ai-agent",
-  "tagline": "编程导航 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring AI 构建 AI 恋爱大师应用和 ReAct 模式自主规划智能体YuManus，覆盖 AI 大模型接入、Spring AI 核心特性、Prompt 工程和优化、RAG 检索增强、向量数据库、Tool Calling 工具调用、MCP 模型上下文协议、AI Agent 开发（Manas Java ",
+  "tagline": "基于 Spring Boot 3、Java 21 与 Spring AI 打造的开源 AI 智能体实战项目，由程序员鱼皮编程导航出品，包含 AI 恋爱大师应用与基于 ReAct 模式的自主规划超级智能体 YuManus（OpenManus Java 实现）。项目完整覆盖 LLM 大模型接入、Ollama 本地部署、Prompt 工程优化、ChatMemory 对话记忆、结构化输出、RAG 知识库与",
   "category": "web-dev",
   "tags": [
     "ai",
-    "ai-model",
-    "backend",
-    "frontend",
+    "ai-agent",
+    "fullstack",
     "java",
+    "java21",
     "langchain4j",
+    "llm",
     "mcp",
-    "rag",
-    "spring-ai",
-    "springboot"
+    "model-context-protocol",
+    "ollama"
   ],
   "author": {
     "type": "user",
@@ -28,11 +28,11 @@
   },
   "license": "Unknown",
   "metrics": {
-    "stars": 2786,
+    "stars": 2790,
     "downloads_30d": null,
-    "last_commit_at": "2026-01-07T05:47:52Z",
+    "last_commit_at": "2026-11-23T06:53:07Z",
     "first_commit_at": "2025-04-22T08:58:07Z",
-    "forks": 620,
+    "forks": 621,
     "watchers": 10,
     "open_issues": 12,
     "archived": false,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4891,
-  "rank_in_category": 75,
+  "composite_score": 0.671,
+  "rank_in_category": 14,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:25:39.939178Z",
-  "last_refreshed_at": "2026-11-22T20:20:11.846808Z",
+  "last_refreshed_at": "2026-11-24T00:45:19.002834Z",
   "consecutive_refresh_failures": 0
 }
