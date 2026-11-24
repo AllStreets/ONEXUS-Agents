@@ -1,19 +1,17 @@
 {
   "slug": "mcp-notify",
   "name": "mcp-notify",
-  "tagline": "Monitor the Model Context Protocol (MCP) Registry for new, updated, and removed servers. Get real-time notifications via Discord, Slack, Email, Telegram, Microsoft Teams, Webhooks, or RSS feeds. Inclu",
+  "tagline": "Watch the MCP Registry for new, changed and removed servers, with notifications, a CLI, a Go SDK and an MCP server.",
   "category": "data-science-ml",
   "tags": [
-    "agents-md",
-    "ai-agents",
-    "discord",
+    "claude-code-plugin",
     "go",
-    "golang",
-    "llms-txt",
     "mcp",
     "mcp-registry",
-    "model-context-protocol",
-    "notifications"
+    "mcp-server",
+    "notifications",
+    "rss",
+    "webhooks"
   ],
   "author": {
     "type": "user",
@@ -30,7 +28,7 @@
   "metrics": {
     "stars": 32,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-10T18:59:35Z",
+    "last_commit_at": "2026-11-19T20:41:52Z",
     "first_commit_at": "2026-01-05T09:05:54Z",
     "forks": 3,
     "watchers": 0,
@@ -40,12 +38,12 @@
     "is_template": false,
     "library_name": null,
     "pipeline_tag": null,
-    "contributors_count": 4,
-    "releases_total": 1,
-    "latest_release_at": "2026-11-11T15:16:30Z",
-    "commits_90d": 26,
-    "has_ci": false,
-    "readme_length": 184455,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
     "frameworks": [
       "mcp"
     ]
@@ -53,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.3305,
-  "rank_in_category": 29,
+  "composite_score": 0.3379,
+  "rank_in_category": 27,
   "discovered_via": "auto",
   "first_seen_at": "2026-06-06T09:54:18.020547Z",
-  "last_refreshed_at": "2026-11-22T22:35:56.232802Z",
-  "consecutive_refresh_failures": 12
+  "last_refreshed_at": "2026-11-24T00:55:31.434868Z",
+  "consecutive_refresh_failures": 0
 }

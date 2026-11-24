@@ -1,19 +1,19 @@
 {
-  "slug": "agentdog-qwen3-4b-i1-gguf",
-  "name": "AgentDoG-Qwen3-4B-i1-GGUF",
-  "tagline": "mradermacher/AgentDoG-Qwen3-4B-i1-GGUF — None",
-  "category": "security-pentesting",
+  "slug": "omnisre-i1-gguf",
+  "name": "OmniSRE-i1-GGUF",
+  "tagline": "mradermacher/OmniSRE-i1-GGUF — None",
+  "category": "devops-sre",
   "tags": [
     "transformers",
     "gguf",
-    "agent",
-    "safety",
-    "security",
-    "en",
-    "base_model:AI45Research/AgentDoG-Qwen3-4B",
-    "base_model:quantized:AI45Research/AgentDoG-Qwen3-4B",
-    "license:apache-2.0",
-    "endpoints_compatible"
+    "sre",
+    "aiops",
+    "kubernetes",
+    "devops",
+    "rlvr",
+    "cispo",
+    "dapo",
+    "gtpo"
   ],
   "author": {
     "type": "org",
@@ -23,15 +23,15 @@
   "source": {
     "primary": "huggingface",
     "github": null,
-    "huggingface": "mradermacher/AgentDoG-Qwen3-4B-i1-GGUF",
+    "huggingface": "mradermacher/OmniSRE-i1-GGUF",
     "homepage": null
   },
   "license": "apache-2.0",
   "metrics": {
-    "stars": 2,
-    "downloads_30d": 233,
-    "last_commit_at": "2026-02-01T11:02:33Z",
-    "first_commit_at": "2026-01-28T09:54:07Z",
+    "stars": 1,
+    "downloads_30d": 602,
+    "last_commit_at": "2026-11-22T23:49:42Z",
+    "first_commit_at": "2026-11-22T21:03:40Z",
     "forks": null,
     "watchers": null,
     "open_issues": null,
@@ -53,10 +53,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.2121,
-  "rank_in_category": 42,
+  "composite_score": 0.4783,
+  "rank_in_category": 41,
   "discovered_via": "auto",
-  "first_seen_at": "2026-08-26T14:24:17.957174Z",
-  "last_refreshed_at": "2026-11-15T21:54:49.155261Z",
-  "consecutive_refresh_failures": 27
+  "first_seen_at": "2026-11-24T01:05:10.222318Z",
+  "last_refreshed_at": "2026-11-24T01:05:10.222322Z",
+  "consecutive_refresh_failures": 0
 }

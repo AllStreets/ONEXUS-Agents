@@ -1,7 +1,7 @@
 {
   "slug": "filing-qa",
   "name": "filing-qa",
-  "tagline": "Research prototype: multimodal RAG for financial filings. Hybrid dense+BM25 retrieval (RRF), numeric grounding checks, a sandboxed calculator and cited answers. Measured on a 119-question golden set: ",
+  "tagline": "Multimodal RAG for financial filings. Hybrid dense+BM25 retrieval (RRF), numeric grounding checks, a sandboxed calculator and cited answers. Measured on a 119-question golden set: evidence hit@5 0.71,",
   "category": "financial-modeling",
   "tags": [
     "async-processing",
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4774,
-  "rank_in_category": 52,
+  "composite_score": 0.4756,
+  "rank_in_category": 54,
   "discovered_via": "auto",
   "first_seen_at": "2026-11-09T23:16:36.207100Z",
-  "last_refreshed_at": "2026-11-22T20:28:12.257804Z",
+  "last_refreshed_at": "2026-11-24T00:57:07.154114Z",
   "consecutive_refresh_failures": 0
 }
