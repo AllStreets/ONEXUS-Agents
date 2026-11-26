@@ -1,0 +1,62 @@
+{
+  "slug": "talyxterminal",
+  "name": "TalyxTerminal",
+  "tagline": "A local, open financial terminal: charts, quant research and an AI agent, built from modules. Build limitless. Join our Discord: https://discord.gg/7GZ87RJ8CU",
+  "category": "financial-modeling",
+  "tags": [
+    "ai-agent",
+    "backtesting",
+    "charting",
+    "crypto",
+    "desktop-app",
+    "finance",
+    "mcp",
+    "python",
+    "quant",
+    "react"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "TalyxTerminal",
+    "url": "https://github.com/TalyxTerminal"
+  },
+  "source": {
+    "primary": "github",
+    "github": "TalyxTerminal/TalyxTerminal",
+    "huggingface": null,
+    "homepage": null
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 25,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-25T18:26:27Z",
+    "first_commit_at": "2026-11-20T15:45:17Z",
+    "forks": 3,
+    "watchers": 1,
+    "open_issues": 0,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.4579,
+  "rank_in_category": 59,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-26T22:35:59.427218Z",
+  "last_refreshed_at": "2026-11-26T22:35:59.427220Z",
+  "consecutive_refresh_failures": 0
+}
