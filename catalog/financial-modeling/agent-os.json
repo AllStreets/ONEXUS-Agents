@@ -1,0 +1,62 @@
+{
+  "slug": "agent-os",
+  "name": "agent-os",
+  "tagline": "The AI agent that trades for you. Open-source and local-first: onchain swaps, bridges, DCA, and stop-losses, with your keys on your machine.",
+  "category": "financial-modeling",
+  "tags": [
+    "agentic-trading",
+    "ai-agent",
+    "ai-trading",
+    "base",
+    "crypto-trading",
+    "dca",
+    "defi",
+    "desktop-app",
+    "dex",
+    "llm"
+  ],
+  "author": {
+    "type": "org",
+    "handle": "use-agent-os",
+    "url": "https://github.com/use-agent-os"
+  },
+  "source": {
+    "primary": "github",
+    "github": "use-agent-os/agent-os",
+    "huggingface": null,
+    "homepage": "https://useagentos.dev/"
+  },
+  "license": "Apache-2.0",
+  "metrics": {
+    "stars": 83,
+    "downloads_30d": null,
+    "last_commit_at": "2026-11-26T18:17:16Z",
+    "first_commit_at": "2026-07-14T00:39:35Z",
+    "forks": 58,
+    "watchers": 3,
+    "open_issues": 14,
+    "archived": false,
+    "is_fork": false,
+    "is_template": false,
+    "library_name": null,
+    "pipeline_tag": null,
+    "contributors_count": null,
+    "releases_total": null,
+    "latest_release_at": null,
+    "commits_90d": null,
+    "has_ci": null,
+    "readme_length": null,
+    "frameworks": [
+      "mcp"
+    ]
+  },
+  "benchmarks": [],
+  "runnable": true,
+  "adapter_ref": "mcp/stdio",
+  "composite_score": 0.5432,
+  "rank_in_category": 23,
+  "discovered_via": "auto",
+  "first_seen_at": "2026-11-26T22:31:52.017980Z",
+  "last_refreshed_at": "2026-11-26T22:31:52.017982Z",
+  "consecutive_refresh_failures": 0
+}
