@@ -12,8 +12,8 @@
     "codex",
     "copilot",
     "cursor",
-    "genai",
-    "harness"
+    "dsh-plugin",
+    "genai"
   ],
   "author": {
     "type": "user",
@@ -28,13 +28,13 @@
   },
   "license": "Apache-2.0",
   "metrics": {
-    "stars": 30610,
+    "stars": 30634,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-26T05:25:19Z",
+    "last_commit_at": "2026-11-27T17:32:09Z",
     "first_commit_at": "2026-02-27T06:02:40Z",
     "forks": 2729,
     "watchers": 79,
-    "open_issues": 476,
+    "open_issues": 462,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": true,
   "adapter_ref": "mcp/stdio",
-  "composite_score": 0.4603,
-  "rank_in_category": 35,
+  "composite_score": 0.4609,
+  "rank_in_category": 33,
   "discovered_via": "auto",
   "first_seen_at": "2026-05-15T15:16:08.003486Z",
-  "last_refreshed_at": "2026-11-26T22:11:31.605707Z",
+  "last_refreshed_at": "2026-11-27T21:52:31.072396Z",
   "consecutive_refresh_failures": 0
 }

@@ -1,19 +1,19 @@
 {
   "slug": "astra-quant-agent",
   "name": "astra-quant-agent",
-  "tagline": "结合多大模型分析与确定性代码风控的自主量化交易系统 ｜ Autonomous crypto trading system with multi-LLM analysis, deterministic Python risk control & OKX execution.",
+  "tagline": "AstraQuant | Autonomous crypto trading system with multi-LLM council, deterministic Python risk gates & OKX execution · 多大模型与确定性代码风控量化交易系统",
   "category": "financial-modeling",
   "tags": [
-    "ai",
     "ai-agents",
     "ai-trading",
     "algorithmic-trading",
-    "binance",
     "crypto-trading",
+    "fastapi",
     "llm",
     "llm-agent",
     "market-microstructure",
-    "multi-agent"
+    "multi-agent",
+    "okx"
   ],
   "author": {
     "type": "user",
@@ -24,17 +24,17 @@
     "primary": "github",
     "github": "0xethanq/astra-quant-agent",
     "huggingface": null,
-    "homepage": "https://www.astraquant.tech/"
+    "homepage": "https://astraquant.top/"
   },
   "license": "NOASSERTION",
   "metrics": {
-    "stars": 425,
+    "stars": 426,
     "downloads_30d": null,
-    "last_commit_at": "2026-11-26T11:53:18Z",
+    "last_commit_at": "2026-11-27T11:14:26Z",
     "first_commit_at": "2026-08-30T14:38:52Z",
     "forks": 117,
     "watchers": 2,
-    "open_issues": 0,
+    "open_issues": 1,
     "archived": false,
     "is_fork": false,
     "is_template": false,
@@ -51,10 +51,10 @@
   "benchmarks": [],
   "runnable": false,
   "adapter_ref": null,
-  "composite_score": 0.4812,
-  "rank_in_category": 48,
+  "composite_score": 0.5043,
+  "rank_in_category": 34,
   "discovered_via": "auto",
   "first_seen_at": "2026-10-20T04:37:31.161455Z",
-  "last_refreshed_at": "2026-11-26T22:35:00.799009Z",
+  "last_refreshed_at": "2026-11-27T22:14:00.288077Z",
   "consecutive_refresh_failures": 0
 }
